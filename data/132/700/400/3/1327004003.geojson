@@ -1,0 +1,67 @@
+{
+  "id": 1327004003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58928,41.35198,-7.58928,41.35198",
+    "geom:latitude":41.35198,
+    "geom:longitude":-7.58928,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1701",
+    "gn:admin3_code":"170117.0",
+    "gn:asciiname":"Balsa",
+    "gn:country_code":"PT",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8378831,
+    "gn:latitude":41.35198,
+    "gn:longitude":-7.58928,
+    "gn:modification_date":"2012-08-21",
+    "gn:name":"Balsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8378831
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b84da178a16a23c4195d5950f476126d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327004003,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1327004003,
+    "wof:lastmodified":1536801568,
+    "wof:name":"Balsa",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58928,
+    41.35198,
+    -7.58928,
+    41.35198
+],
+  "geometry": {"coordinates":[-7.58928,41.35198],"type":"Point"}
+}

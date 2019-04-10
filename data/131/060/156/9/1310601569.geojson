@@ -1,0 +1,70 @@
+{
+  "id": 1310601569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41729,41.51006,-8.41729,41.51006",
+    "geom:latitude":41.51006,
+    "geom:longitude":-8.41729,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0303",
+    "gn:admin3_code":"30313.0",
+    "gn:asciiname":"Esporoes",
+    "gn:country_code":"PT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739851,
+    "gn:latitude":41.51006,
+    "gn:longitude":-8.41729,
+    "gn:modification_date":"2018-02-19",
+    "gn:name":"Espor\u00f5es",
+    "gn:population":1709,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739851
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a636abaa7cb750abc2d5a82974c6448a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310601569,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310601569,
+    "wof:lastmodified":1536778855,
+    "wof:name":"Esporoes",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":1709,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41729,
+    41.51006,
+    -8.41729,
+    41.51006
+],
+  "geometry": {"coordinates":[-8.41729,41.51006],"type":"Point"}
+}

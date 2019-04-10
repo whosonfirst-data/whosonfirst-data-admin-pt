@@ -1,0 +1,113 @@
+{
+  "id": 101778253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":669495.965849,
+    "geom:bbox":"-7.76414269736,38.9577586927,-7.74879262234,38.9665851072",
+    "geom:latitude":38.962117,
+    "geom:longitude":-7.757525,
+    "iso:country":"PT",
+    "lbl:latitude":38.962502,
+    "lbl:longitude":-7.759967,
+    "mps:latitude":38.962502,
+    "mps:longitude":-7.759967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Cano"
+    ],
+    "name:dut_x_preferred":[
+        "Cano"
+    ],
+    "name:eng_x_preferred":[
+        "Cano"
+    ],
+    "name:fre_x_preferred":[
+        "Cano"
+    ],
+    "name:ger_x_preferred":[
+        "Cano"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043d\u0443"
+    ],
+    "name:nan_x_preferred":[
+        "Cano"
+    ],
+    "name:por_x_preferred":[
+        "Cano"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Cano"
+    ],
+    "name:tur_x_preferred":[
+        "Cano"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Cano",
+    "qs:la_lc":"*PT11215019",
+    "qs:level":"locality",
+    "qs:loc":"Cano",
+    "qs:loc_alt":"Cano",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0271d92e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270251,
+        "gp:id":738137,
+        "qs:id":180091,
+        "qs_pg:id":180091,
+        "wd:id":"Q163139"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2f4b85bf44a2dc5441d3520fa66feb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778253,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101778253,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815492,
+    "wof:name":"Cano",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76414269735614,
+    38.95775869267806,
+    -7.74879262234435,
+    38.96658510716469
+],
+  "geometry": {"coordinates":[[[-7.76036533995642,38.96658510716469],[-7.76012425212491,38.96570638764086],[-7.75899906063745,38.96591634042312],[-7.7587579955516,38.96503761578663],[-7.75763281168241,38.96524755224362],[-7.75715073595961,38.96349009088442],[-7.75602557349356,38.9637000077667],[-7.75578456285479,38.96282127104439],[-7.75128390648382,38.96366079483067],[-7.75152486198368,38.96453954455097],[-7.74927446924522,38.96495923449459],[-7.74879262234435,38.96320172019745],[-7.75104295994043,38.96278204324949],[-7.75080202235245,38.96190328980686],[-7.75305230772824,38.96148356705913],[-7.7523294659959,38.95884731505737],[-7.75120436773881,38.95905717322159],[-7.75096345218748,38.95817841558267],[-7.75321361497504,38.95775869267806],[-7.7534545580906,38.95863744381944],[-7.75570472379218,38.95821766212362],[-7.75594570342656,38.95909640490493],[-7.75819587203785,38.95867656441703],[-7.75843688819236,38.95955529883702],[-7.76068705970926,38.95913539955654],[-7.76092811238459,38.96001412561412],[-7.7620532026765,38.95980415311379],[-7.76229427809227,38.96068287405865],[-7.76341937599955,38.96047288523431],[-7.76414269735614,38.96310902714174],[-7.76301755810357,38.96331902571882],[-7.7637409187696,38.96595516061763],[-7.76036533995642,38.96658510716469]]],"type":"Polygon"}
+}

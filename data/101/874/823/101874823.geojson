@@ -1,0 +1,101 @@
+{
+  "id": 101874823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.236967,41.065673,-8.236967,41.065673",
+    "geom:latitude":41.065673,
+    "geom:longitude":-8.236967,
+    "iso:country":"PT",
+    "lbl:latitude":41.065673,
+    "lbl:longitude":-8.236967,
+    "mps:latitude":41.065673,
+    "mps:longitude":-8.236967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Couto"
+    ],
+    "name:fra_x_preferred":[
+        "Couto"
+    ],
+    "name:glg_x_preferred":[
+        "Couto"
+    ],
+    "name:nld_x_preferred":[
+        "Couto"
+    ],
+    "name:por_x_preferred":[
+        "Couto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0443\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Couto"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Couto",
+    "qs:loc_alt":"Couto",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026ccb28-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740399,
+        "gp:id":55868808,
+        "qs:id":5,
+        "wd:id":"Q402884"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"760f2939b554d29b601f1b25f9aed632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874823,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101874823,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751810,
+    "wof:name":"Couto",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.236967,
+    41.065673,
+    -8.236967,
+    41.065673
+],
+  "geometry": {"coordinates":[-8.236967,41.065673],"type":"Point"}
+}

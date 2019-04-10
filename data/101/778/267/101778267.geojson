@@ -1,0 +1,83 @@
+{
+  "id": 101778267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"-7.62538627739,39.4126193971,-7.61559613546,39.4222394932",
+    "geom:latitude":39.416934,
+    "geom:longitude":-7.620031,
+    "iso:country":"PT",
+    "lbl:latitude":39.416496,
+    "lbl:longitude":-7.619957,
+    "mps:latitude":39.416496,
+    "mps:longitude":-7.619957,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Alpalhao"
+    ],
+    "name:por_x_preferred":[
+        "Alpalh\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alpalh\u00e3o",
+    "qs:la_lc":"*PT11212010",
+    "qs:level":"locality",
+    "qs:loc":"Alpalh\u00e3o",
+    "qs:loc_alt":"Alpalhao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269a9f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271885,
+        "gp:id":735955,
+        "qs:id":278338,
+        "qs_pg:id":278338
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8022a9c827c0cb7f3913f57ded7b8e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778267,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101778267,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497291259,
+    "wof:name":"Alpalh\u00e3o",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62538627739355,
+    39.41261939713996,
+    -7.61559613545552,
+    39.42223949322982
+],
+  "geometry": {"coordinates":[[[-7.61866600549706,39.42223949322982],[-7.61745537436155,39.41784650438319],[-7.61632236316291,39.4180550059192],[-7.61559613545552,39.4154191808247],[-7.6189950235941,39.41479366608314],[-7.61851083265174,39.41303645979957],[-7.62077667047981,39.41261939713996],[-7.62126091771177,39.41437659035188],[-7.62239385537725,39.41416803271545],[-7.62263600665955,39.41504662330453],[-7.62490189134667,39.41462946195304],[-7.62538627739355,39.41638662455762],[-7.62312033641558,39.41680379898435],[-7.62336251489023,39.41768238407542],[-7.62109652070927,39.41809951231585],[-7.62133868009926,39.41897810211196],[-7.62020565953821,39.41918664972883],[-7.62093214986913,39.42182241793],[-7.61866600549706,39.42223949322982]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276425399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9196,37.09434,-7.9196,37.09434",
+    "geom:latitude":37.09434,
+    "geom:longitude":-7.9196,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0805",
+    "gn:admin3_code":"80502.0",
+    "gn:asciiname":"Guilhim",
+    "gn:country_code":"PT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267482,
+    "gn:latitude":37.09434,
+    "gn:longitude":-7.9196,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Guilhim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267482
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4436819abd59d0dea79f4d0ac28f14a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276425399,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1276425399,
+    "wof:lastmodified":1536655346,
+    "wof:name":"Guilhim",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9196,
+    37.09434,
+    -7.9196,
+    37.09434
+],
+  "geometry": {"coordinates":[-7.9196,37.09434],"type":"Point"}
+}

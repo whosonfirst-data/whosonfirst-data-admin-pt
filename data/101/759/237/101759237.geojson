@@ -1,0 +1,127 @@
+{
+  "id": 101759237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000239,
+    "geom:area_square_m":2235658.932154,
+    "geom:bbox":"-8.63557595148,40.9352844161,-8.6073717274,40.9505338952",
+    "geom:latitude":40.943973,
+    "geom:longitude":-8.622895,
+    "gn:population":4139,
+    "iso:country":"PT",
+    "lbl:latitude":40.943368,
+    "lbl:longitude":-8.623856,
+    "mps:latitude":40.943368,
+    "mps:longitude":-8.623856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u5c14\u7279\u52a0\u8428"
+    ],
+    "name:deu_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:eng_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:fra_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:fre_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:ger_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0435\u0433\u0430\u0441\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:nld_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:por_x_colloquial":[
+        "Cortegaca"
+    ],
+    "name:por_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0435\u0433\u0430\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "name:tur_x_preferred":[
+        "Cortega\u00e7a"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Cortega\u00e7a",
+    "qs:loc_alt":"Cortegaca",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026cc3c6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740519,
+        "gp:id":739867,
+        "qs:id":1037676,
+        "qs_pg:id":1037676,
+        "wd:id":"Q2258795"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cfa257a7afc7fb8966f8fcb9d8fa25a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759237,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101759237,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714684,
+    "wof:name":"Cortega\u00e7a",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":4139,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63557595147603,
+    40.93528441613159,
+    -8.60737172739789,
+    40.95053389521001
+],
+  "geometry": {"coordinates":[[[-8.61726542880865,40.93812637014327],[-8.61827404008119,40.93742034225255],[-8.61849596480272,40.93814775709041],[-8.62427876811921,40.93704244661348],[-8.62401214121428,40.93616889240548],[-8.628638196591,40.93528441613159],[-8.62970500164272,40.93877856406345],[-8.63086155677178,40.93855739696215],[-8.63112829825462,40.93943092561102],[-8.6322848610327,40.93920974145311],[-8.63361879503083,40.94357733828429],[-8.63477542455558,40.94335612267952],[-8.63557595147603,40.94597664724097],[-8.63441927762233,40.94619787363962],[-8.6346861255214,40.94707138163409],[-8.62774584404212,40.94839847892371],[-8.62832438768362,40.95029278648821],[-8.62123245881094,40.94921357992075],[-8.61370666166238,40.95053389521001],[-8.61333135795257,40.9493040722146],[-8.61217456349942,40.94952503923525],[-8.61190801679732,40.94865145912337],[-8.60959443609534,40.94909334558588],[-8.60906143234968,40.94734616530826],[-8.60790466088679,40.94756708115693],[-8.60737172739789,40.9458198861231],[-8.61315536568151,40.9447152081882],[-8.61288884028284,40.94384162580081],[-8.6163588934694,40.94317866827515],[-8.61609233390351,40.94230509477751],[-8.61724898927838,40.94208408560672],[-8.61671587111027,40.94033694012012],[-8.61787248980818,40.94011592467717],[-8.61726542880865,40.93812637014327]]],"type":"Polygon"}
+}

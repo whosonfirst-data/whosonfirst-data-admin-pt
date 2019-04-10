@@ -1,0 +1,63 @@
+{
+  "id": 1209235891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73333,40.36667,-8.73333,40.36667",
+    "geom:latitude":40.36667,
+    "geom:longitude":-8.73333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0602",
+    "gn:admin3_code":"60214.0",
+    "gn:asciiname":"Cochadas",
+    "gn:country_code":"PT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740676,
+    "gn:latitude":40.36667,
+    "gn:longitude":-8.73333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cochadas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740676
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cdb2b86d7ec3cb451202c73d25b3617e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209235891
+        }
+    ],
+    "wof:id":1209235891,
+    "wof:lastmodified":1536293483,
+    "wof:name":"Cochadas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73333,
+    40.36667,
+    -8.73333,
+    40.36667
+],
+  "geometry": {"coordinates":[-8.73333,40.36667],"type":"Point"}
+}

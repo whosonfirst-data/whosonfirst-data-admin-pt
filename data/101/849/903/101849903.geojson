@@ -1,0 +1,128 @@
+{
+  "id": 101849903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.471056,37.097565,-8.471056,37.097565",
+    "geom:latitude":37.097565,
+    "geom:longitude":-8.471056,
+    "gn:population":2784,
+    "iso:country":"PT",
+    "lbl:latitude":37.097565,
+    "lbl:longitude":-8.471056,
+    "mps:latitude":37.097565,
+    "mps:longitude":-8.471056,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:dut_x_preferred":[
+        "Praia do Carvoeiro"
+    ],
+    "name:eng_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:fre_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:ger_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:ita_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0430\u0439\u0430-\u0434\u0443-\u041a\u0430\u0440\u0432\u043e\u0435\u0439\u0440\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0631\u0648\u0648\u0626\u06cc\u0631\u0648"
+    ],
+    "name:por_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:por_x_variant":[
+        "Carvoeiro"
+    ],
+    "name:rum_x_preferred":[
+        "Carvoeiro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u043e\u0435\u0439\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Carvoeiro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Carvoeiro",
+    "qs:loc_alt":"Carvoeiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02755784-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264331,
+        "gp:id":746483,
+        "qs:id":1168168,
+        "qs_pg:id":1218855,
+        "wd:id":"Q1046217",
+        "wk:page":"Carvoeiro (Lagoa)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c5a6f282204a7d7436930de9742876a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849903,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101849903,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815543,
+    "wof:name":"Carvoeiro",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:population":2784,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.471056,
+    37.097565,
+    -8.471056,
+    37.097565
+],
+  "geometry": {"coordinates":[-8.471056,37.097565],"type":"Point"}
+}

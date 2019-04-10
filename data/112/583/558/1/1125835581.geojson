@@ -1,0 +1,79 @@
+{
+  "id": 1125835581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5632,41.28544,-8.5632,41.28544",
+    "geom:latitude":41.28544,
+    "geom:longitude":-8.5632,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8697,
+    "gn:population":8697,
+    "iso:country":"PT",
+    "lbl:latitude":41.28544,
+    "lbl:longitude":-8.5632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Coronado"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734339,
+    "qs_pg:gn_pop":8697,
+    "qs_pg:name":"S\u00e3o Rom\u00e3o do Coronado",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":847049,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734339,
+        "qs_pg:id":847049
+    },
+    "wof:country":"PT",
+    "wof:created":1497292702,
+    "wof:geomhash":"61ecb078b16164485e705b195fd6d532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125835581,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125835581,
+    "wof:lastmodified":1509394956,
+    "wof:name":"S\u00e3o Rom\u00e3o do Coronado",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":8697,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5632,
+    41.28544,
+    -8.5632,
+    41.28544
+],
+  "geometry": {"coordinates":[-8.5632,41.28544],"type":"Point"}
+}

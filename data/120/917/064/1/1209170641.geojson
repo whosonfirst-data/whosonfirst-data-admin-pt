@@ -1,0 +1,63 @@
+{
+  "id": 1209170641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20352,40.53659,-8.20352,40.53659",
+    "geom:latitude":40.53659,
+    "geom:longitude":-8.20352,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1821",
+    "gn:admin3_code":"182108.0",
+    "gn:asciiname":"Jueus",
+    "gn:country_code":"PT",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738641,
+    "gn:latitude":40.53659,
+    "gn:longitude":-8.20352,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Jueus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738641
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"48ceff59ac9e0ca176cba80e4f62d055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209170641
+        }
+    ],
+    "wof:id":1209170641,
+    "wof:lastmodified":1536295592,
+    "wof:name":"Jueus",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20352,
+    40.53659,
+    -8.20352,
+    40.53659
+],
+  "geometry": {"coordinates":[-8.20352,40.53659],"type":"Point"}
+}

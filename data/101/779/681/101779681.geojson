@@ -1,0 +1,118 @@
+{
+  "id": 101779681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":849560.019011,
+    "geom:bbox":"-7.41619114367,37.9200121011,-7.40333803289,37.9326990293",
+    "geom:latitude":37.925907,
+    "geom:longitude":-7.408406,
+    "iso:country":"PT",
+    "lbl:latitude":37.925423,
+    "lbl:longitude":-7.408406,
+    "mps:latitude":37.925423,
+    "mps:longitude":-7.408406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:deu_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:dut_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:eng_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:fre_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0421\u0430\u043d-\u0411\u0435\u043d\u0442\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:msa_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:nld_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:por_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0421\u0430\u043d-\u0411\u0435\u043d\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:tur_x_preferred":[
+        "Vila Nova de S\u00e3o Bento"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u672c\u56fe\u65b0\u9547"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Aldeia Nova de S\u00e3o Bento",
+    "qs:la_lc":"*PT10213012",
+    "qs:level":"locality",
+    "qs:loc":"Vila Nova de S\u00e3o Bento",
+    "qs:loc_alt":"Vila Nova de Sao Bento",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55867483,
+        "qs:id":2,
+        "wd:id":"Q430933"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3892c0ff45598a4830f815c674d3ebbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779681,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779681,
+    "wof:lastmodified":1527688548,
+    "wof:name":"Vila Nova de S\u00e3o Bento",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41619114366847,
+    37.92001210105542,
+    -7.40333803289082,
+    37.93269902934026
+],
+  "geometry": {"coordinates":[[[-7.40463771039288,37.9261203353729],[-7.40417815433523,37.92435801366372],[-7.40528751143438,37.9241527088825],[-7.40436844735518,37.92062805548937],[-7.40769632488229,37.92001210105542],[-7.40792611808382,37.92089325790818],[-7.41014470092944,37.92048255104709],[-7.41060436571729,37.92224484676979],[-7.41171367507064,37.92203946783053],[-7.41194353338523,37.92292060979753],[-7.41305285026687,37.92271521488453],[-7.41328273028785,37.92359635188865],[-7.41439205469737,37.92339094100157],[-7.41485186658633,37.92515320321917],[-7.41596121179839,37.92494777325862],[-7.41619114366847,37.92582889847159],[-7.41397242094598,37.92623975171443],[-7.41420233469887,37.92712088126098],[-7.41087416767726,37.92773707384913],[-7.41133394082124,37.92949934594168],[-7.40689619810456,37.93032078057058],[-7.40735589874754,37.93208306999452],[-7.40402745168495,37.93269902934026],[-7.40333803289082,37.93005556452823],[-7.40444748115016,37.9298502669173],[-7.40352832099433,37.92632563347161],[-7.40463771039288,37.9261203353729]]],"type":"Polygon"}
+}

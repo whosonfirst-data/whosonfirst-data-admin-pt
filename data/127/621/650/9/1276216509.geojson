@@ -1,0 +1,67 @@
+{
+  "id": 1276216509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52494,37.35863,-8.52494,37.35863",
+    "geom:latitude":37.35863,
+    "geom:longitude":-8.52494,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0809",
+    "gn:admin3_code":"80901.0",
+    "gn:asciiname":"Pomba",
+    "gn:country_code":"PT",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264582,
+    "gn:latitude":37.35863,
+    "gn:longitude":-8.52494,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pomba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264582
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a54b2b2ffb1b6a3d68afddffc0ace0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276216509,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1276216509,
+    "wof:lastmodified":1536936337,
+    "wof:name":"Pomba",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52494,
+    37.35863,
+    -8.52494,
+    37.35863
+],
+  "geometry": {"coordinates":[-8.52494,37.35863],"type":"Point"}
+}

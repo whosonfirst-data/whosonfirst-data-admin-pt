@@ -1,0 +1,67 @@
+{
+  "id": 1293586181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3194,40.1731,-8.3194,40.1731",
+    "geom:latitude":40.1731,
+    "geom:longitude":-8.3194,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60904.0",
+    "gn:asciiname":"Segade",
+    "gn:country_code":"PT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734222,
+    "gn:latitude":40.1731,
+    "gn:longitude":-8.3194,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Segade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734222
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"73c64519767d8340e27c50286f2999a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293586181,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1293586181,
+    "wof:lastmodified":1536644261,
+    "wof:name":"Segade",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3194,
+    40.1731,
+    -8.3194,
+    40.1731
+],
+  "geometry": {"coordinates":[-8.3194,40.1731],"type":"Point"}
+}

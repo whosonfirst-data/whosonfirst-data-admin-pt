@@ -1,0 +1,73 @@
+{
+  "id": 101778297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:bbox":"-8.8108704225,39.1053924014,-8.80002205197,39.1191727357",
+    "geom:latitude":39.110889,
+    "geom:longitude":-8.805454,
+    "iso:country":"PT",
+    "lbl:latitude":39.109447,
+    "lbl:longitude":-8.805084,
+    "mps:latitude":39.109447,
+    "mps:longitude":-8.805084,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vale da Pedra",
+    "qs:la_lc":"*PT11406086",
+    "qs:level":"locality",
+    "qs:loc":"Vale da Pedra",
+    "qs:loc_alt":"Vale da Pedra",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014695,
+        "gp:id":22661001,
+        "qs:id":4,
+        "qs_pg:id":1250906
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4551456efc6d3dc9ee340990d3c00bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778297,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778297,
+    "wof:lastmodified":1497297814,
+    "wof:name":"Vale da Pedra",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81087042249675,
+    39.10539240140014,
+    -8.80002205196854,
+    39.1191727357326
+],
+  "geometry": {"coordinates":[[[-8.80974536229894,39.1191727357326],[-8.80948910330909,39.11829758851763],[-8.80836405020818,39.11851989742883],[-8.8073391639445,39.11501927511131],[-8.80621415888731,39.11524155720235],[-8.80518947934547,39.11174088962485],[-8.80406452232779,39.11196314489894],[-8.80355226688732,39.11021279241749],[-8.80242733061448,39.11043502776425],[-8.80191514048391,39.10868466052682],[-8.80079022495562,39.10890687594724],[-8.80002205196854,39.10628130000839],[-8.8045215110709,39.10539240140014],[-8.80503372604579,39.10714275978444],[-8.80615860174322,39.10692049564722],[-8.80718320032497,39.11042117502876],[-8.80830812405168,39.11019888407708],[-8.80882050767042,39.11194920507239],[-8.80769555665302,39.11217150291247],[-8.80897661386092,39.11654728818399],[-8.81010163311277,39.1163249731211],[-8.81087042249675,39.11895041033438],[-8.80974536229894,39.1191727357326]]],"type":"Polygon"}
+}

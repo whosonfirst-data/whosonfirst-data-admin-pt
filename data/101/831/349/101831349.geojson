@@ -1,0 +1,107 @@
+{
+  "id": 101831349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":980123.988074,
+    "geom:bbox":"-7.94087213347,40.6509962555,-7.92323482118,40.6649774205",
+    "geom:latitude":40.657278,
+    "geom:longitude":-7.93188,
+    "iso:country":"PT",
+    "lbl:latitude":40.659904,
+    "lbl:longitude":-7.933216,
+    "mps:latitude":40.659904,
+    "mps:longitude":-7.933216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:por_x_colloquial":[
+        "S Salvador",
+        "S. Salvador",
+        "Sao Salvador"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Salvador"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Viseu (S\u00e3o Jos\u00e9)",
+    "qs:la_lc":"*PT11823280",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Salvador",
+    "qs:loc_alt":"Sao Salvador",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273adb2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734334,
+        "gp:id":748395,
+        "qs:id":1254651,
+        "wd:id":"Q168510"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f3b61c35f724d3bb23d13cc5eef342c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101831349,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101831349,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715142,
+    "wof:name":"S\u00e3o Salvador",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94087213347018,
+    40.65099625551932,
+    -7.92323482117507,
+    40.66497742046135
+],
+  "geometry": {"coordinates":[[[-7.93674167725641,40.66423612108343],[-7.93600306892,40.66169797527982],[-7.93280037064073,40.66228893096348],[-7.92455098466337,40.65821334780401],[-7.92323482117507,40.65394680669783],[-7.92574695869456,40.65150713364847],[-7.92627902094091,40.6533373245307],[-7.93089259760978,40.65248621486955],[-7.93063780139823,40.6516100701341],[-7.93294451955876,40.65118444154558],[-7.93319934528,40.65206057939724],[-7.93896609583044,40.65099625551932],[-7.93947592393255,40.6527484913172],[-7.93601580541701,40.65338714662113],[-7.93627068976861,40.65426327211065],[-7.93511728861495,40.65447613377478],[-7.93486241901854,40.65360000484253],[-7.92909538534309,40.65466409434345],[-7.92985980190281,40.65729252729989],[-7.9310132664678,40.65707972595465],[-7.93126810615911,40.65795586318109],[-7.93703540107657,40.65689163762431],[-7.93831011412937,40.66127221029814],[-7.94061713220611,40.66084639154957],[-7.94087213347018,40.66172249371829],[-7.93971861306471,40.66193541325794],[-7.93997360928353,40.6628115170451],[-7.9388200673344,40.66302442658719],[-7.939330059393,40.66477663557328],[-7.93824214098254,40.66497742046135],[-7.93674167725641,40.66423612108343]]],"type":"Polygon"}
+}

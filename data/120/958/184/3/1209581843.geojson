@@ -1,0 +1,63 @@
+{
+  "id": 1209581843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76667,38.96667,-8.76667,38.96667",
+    "geom:latitude":38.96667,
+    "geom:longitude":-8.76667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1405",
+    "gn:admin3_code":"140501.0",
+    "gn:asciiname":"Vale de Junco",
+    "gn:country_code":"PT",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262167,
+    "gn:latitude":38.96667,
+    "gn:longitude":-8.76667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Junco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262167
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"579da9bfc117505b6d5bda23d2d4e20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209581843
+        }
+    ],
+    "wof:id":1209581843,
+    "wof:lastmodified":1536282763,
+    "wof:name":"Vale de Junco",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76667,
+    38.96667,
+    -8.76667,
+    38.96667
+],
+  "geometry": {"coordinates":[-8.76667,38.96667],"type":"Point"}
+}

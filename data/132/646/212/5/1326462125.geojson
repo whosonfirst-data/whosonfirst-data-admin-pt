@@ -1,0 +1,67 @@
+{
+  "id": 1326462125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.05157,41.94084,-7.05157,41.94084",
+    "geom:latitude":41.94084,
+    "geom:longitude":-7.05157,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0412",
+    "gn:admin3_code":"41212.0",
+    "gn:asciiname":"Cerdedo",
+    "gn:country_code":"PT",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740863,
+    "gn:latitude":41.94084,
+    "gn:longitude":-7.05157,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerdedo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740863
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a939ae6e353593f6a6af28887c6bbf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326462125,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1326462125,
+    "wof:lastmodified":1537081892,
+    "wof:name":"Cerdedo",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.05157,
+    41.94084,
+    -7.05157,
+    41.94084
+],
+  "geometry": {"coordinates":[-7.05157,41.94084],"type":"Point"}
+}

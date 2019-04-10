@@ -1,0 +1,67 @@
+{
+  "id": 1193100233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.66667,39.5,-8.66667,39.5",
+    "geom:latitude":39.5,
+    "geom:longitude":-8.66667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1402",
+    "gn:admin3_code":"140207.0",
+    "gn:asciiname":"Moitas de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266289,
+    "gn:latitude":39.5,
+    "gn:longitude":-8.66667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Moitas de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266289
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"75ec5f019f6c65c664121a4a492c7ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193100233,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1193100233,
+    "wof:lastmodified":1536384234,
+    "wof:name":"Moitas de Cima",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66667,
+    39.5,
+    -8.66667,
+    39.5
+],
+  "geometry": {"coordinates":[-8.66667,39.5],"type":"Point"}
+}

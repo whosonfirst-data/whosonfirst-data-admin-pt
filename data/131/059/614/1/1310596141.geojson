@@ -1,0 +1,67 @@
+{
+  "id": 1310596141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6542,37.15445,-7.6542,37.15445",
+    "geom:latitude":37.15445,
+    "geom:longitude":-7.6542,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81405.0",
+    "gn:asciiname":"Vale Formoso",
+    "gn:country_code":"PT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261976,
+    "gn:latitude":37.15445,
+    "gn:longitude":-7.6542,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Formoso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261976
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc24a2638fa95230740c35dd282296d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310596141,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1310596141,
+    "wof:lastmodified":1536786701,
+    "wof:name":"Vale Formoso",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6542,
+    37.15445,
+    -7.6542,
+    37.15445
+],
+  "geometry": {"coordinates":[-7.6542,37.15445],"type":"Point"}
+}

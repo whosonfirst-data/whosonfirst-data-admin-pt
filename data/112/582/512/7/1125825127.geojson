@@ -1,0 +1,80 @@
+{
+  "id": 1125825127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.395167,38.802333,-9.395167,38.802333",
+    "geom:latitude":38.802333,
+    "geom:longitude":-9.395167,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.802333,
+    "lbl:longitude":-9.395167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ribeira de Sintra",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":10632,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":56069520,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56069520,
+        "qs_pg:id":10632
+    },
+    "wof:country":"PT",
+    "wof:created":1497292242,
+    "wof:geomhash":"9116576c30c340c1593317bcd45f3232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125825127,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125825127,
+    "wof:lastmodified":1509394352,
+    "wof:name":"Ribeira de Sintra",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.395167,
+    38.802333,
+    -9.395167,
+    38.802333
+],
+  "geometry": {"coordinates":[-9.395167,38.802333],"type":"Point"}
+}

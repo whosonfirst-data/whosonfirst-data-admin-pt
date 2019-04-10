@@ -1,0 +1,92 @@
+{
+  "id": 1125892893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7118,39.46203,-8.7118,39.46203",
+    "geom:latitude":39.46203,
+    "geom:longitude":-8.7118,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":50000,
+    "gn:population":50000,
+    "iso:country":"PT",
+    "lbl:latitude":39.46203,
+    "lbl:longitude":-8.7118,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Monsanto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0441\u0430\u043d\u0442\u043e"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2266249,
+    "qs_pg:gn_pop":50000,
+    "qs_pg:name":"Monsanto",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1034637,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29381120,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266249,
+        "gp:id":29381120,
+        "qs_pg:id":1034637
+    },
+    "wof:country":"PT",
+    "wof:created":1497295405,
+    "wof:geomhash":"1d0bebf4ddae96feacea828c5a5f5eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125892893,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1125892893,
+    "wof:lastmodified":1509398908,
+    "wof:name":"Monsanto",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":50000,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7118,
+    39.46203,
+    -8.7118,
+    39.46203
+],
+  "geometry": {"coordinates":[-8.7118,39.46203],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101758929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:bbox":"-9.38052886264,38.8051186445,-9.35953748091,38.8154627832",
+    "geom:latitude":38.810763,
+    "geom:longitude":-9.369893,
+    "iso:country":"PT",
+    "lbl:latitude":38.812336,
+    "lbl:longitude":-9.368306,
+    "mps:latitude":38.812336,
+    "mps:longitude":-9.368306,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Lourel de Baixo"
+    ],
+    "name:por_x_variant":[
+        "Lourel"
+    ],
+    "name:unk_x_variant":[
+        "Lourel de Baixo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Lourel",
+    "qs:loc_alt":"Lourel",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273de54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266979,
+        "gp:id":29385502,
+        "qs:id":247299
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1757d8bfb5f56db01e30ece379cb038f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758929,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758929,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1501262309,
+    "wof:name":"Lourel",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38052886263557,
+    38.80511864454047,
+    -9.35953748090645,
+    38.81546278317944
+],
+  "geometry": {"coordinates":[[[-9.36141070127775,38.81456569627812],[-9.36091765671716,38.81291871197686],[-9.35979899729483,38.81314730624888],[-9.35953748090645,38.81227361057915],[-9.36513064498183,38.81113052734895],[-9.3638228737903,38.80676210615064],[-9.36691691994037,38.80612962396918],[-9.36725877139577,38.80634427488292],[-9.3682248503294,38.80957085248235],[-9.37605476912637,38.80796974526697],[-9.37553138393349,38.80622244901832],[-9.37776839053925,38.80576488739842],[-9.37757481259297,38.80511864454047],[-9.38034667697167,38.80616463109845],[-9.38026711180964,38.80618090912378],[-9.38052886263557,38.80705454218497],[-9.37941034920073,38.8072833623645],[-9.37993385310608,38.80903062939046],[-9.3776967529439,38.80948824497591],[-9.37795849266979,38.81036188245184],[-9.37683991929242,38.81059067434592],[-9.37710165531684,38.81146431329375],[-9.37150862223081,38.81260809621403],[-9.3720319896841,38.81435540310008],[-9.36661530877302,38.81546278317944],[-9.36632159028375,38.81534109980532],[-9.36141070127775,38.81456569627812]]],"type":"Polygon"}
+}

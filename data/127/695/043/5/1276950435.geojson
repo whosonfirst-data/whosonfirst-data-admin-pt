@@ -1,0 +1,67 @@
+{
+  "id": 1276950435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25165,39.02591,-8.25165,39.02591",
+    "geom:latitude":39.02591,
+    "geom:longitude":-8.25165,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1213",
+    "gn:admin3_code":"121302.0",
+    "gn:asciiname":"Porto Velho",
+    "gn:country_code":"PT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264399,
+    "gn:latitude":39.02591,
+    "gn:longitude":-8.25165,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Porto Velho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264399
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"536934b72b798eae4106064ebdd7c7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276950435,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1276950435,
+    "wof:lastmodified":1536947184,
+    "wof:name":"Porto Velho",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25165,
+    39.02591,
+    -8.25165,
+    39.02591
+],
+  "geometry": {"coordinates":[-8.25165,39.02591],"type":"Point"}
+}

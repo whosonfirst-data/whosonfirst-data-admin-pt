@@ -1,0 +1,67 @@
+{
+  "id": 1225935581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70829,40.3877,-8.70829,40.3877",
+    "geom:latitude":40.3877,
+    "geom:longitude":-8.70829,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0608",
+    "gn:admin3_code":"60801.0",
+    "gn:asciiname":"Colmeal",
+    "gn:country_code":"PT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740614,
+    "gn:latitude":40.3877,
+    "gn:longitude":-8.70829,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Colmeal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740614
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9787ff7bb6adb1534e0d3d08d8c9ccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225935581,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1225935581,
+    "wof:lastmodified":1536883523,
+    "wof:name":"Colmeal",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70829,
+    40.3877,
+    -8.70829,
+    40.3877
+],
+  "geometry": {"coordinates":[-8.70829,40.3877],"type":"Point"}
+}

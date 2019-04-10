@@ -1,0 +1,67 @@
+{
+  "id": 1309901701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41429,37.18347,-8.41429,37.18347",
+    "geom:latitude":37.18347,
+    "geom:longitude":-8.41429,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0813",
+    "gn:admin3_code":"81307.0",
+    "gn:asciiname":"Medeiros",
+    "gn:country_code":"PT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266520,
+    "gn:latitude":37.18347,
+    "gn:longitude":-8.41429,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Medeiros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266520
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9ddb535ef41e00032bbe4264ce60d186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309901701,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1309901701,
+    "wof:lastmodified":1536793153,
+    "wof:name":"Medeiros",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41429,
+    37.18347,
+    -8.41429,
+    37.18347
+],
+  "geometry": {"coordinates":[-8.41429,37.18347],"type":"Point"}
+}

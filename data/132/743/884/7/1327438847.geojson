@@ -1,0 +1,68 @@
+{
+  "id": 1327438847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41342,37.75123,-8.41342,37.75123",
+    "geom:latitude":37.75123,
+    "geom:longitude":-8.41342,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21110.0",
+    "gn:asciiname":"Vale de Santiago",
+    "gn:country_code":"PT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262091,
+    "gn:latitude":37.75123,
+    "gn:longitude":-8.41342,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Vale de Santiago",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262091,
+        "wk:page":"Vale_de_Santiago"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4eeb1fcea38e2ff7639a0201e6ef48e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327438847,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1327438847,
+    "wof:lastmodified":1537571934,
+    "wof:name":"Vale de Santiago",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41342,
+    37.75123,
+    -8.41342,
+    37.75123
+],
+  "geometry": {"coordinates":[-8.41342,37.75123],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1126049273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68679,39.6796,-8.68679,39.6796",
+    "geom:latitude":39.6796,
+    "geom:longitude":-8.68679,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4405,
+    "gn:population":4405,
+    "iso:country":"PT",
+    "lbl:latitude":39.6796,
+    "lbl:longitude":-8.68679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Catharina da Serra"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2263547,
+    "qs_pg:gn_pop":4405,
+    "qs_pg:name":"Santa Catarina da Serra",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":265750,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":747820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263547,
+        "gp:id":747820,
+        "qs_pg:id":265750
+    },
+    "wof:country":"PT",
+    "wof:created":1497302627,
+    "wof:geomhash":"87eb13b66037489ab568e2d3deb7594e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126049273,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1126049273,
+    "wof:lastmodified":1509409113,
+    "wof:name":"Santa Catarina da Serra",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:population":4405,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68679,
+    39.6796,
+    -8.68679,
+    39.6796
+],
+  "geometry": {"coordinates":[-8.68679,39.6796],"type":"Point"}
+}

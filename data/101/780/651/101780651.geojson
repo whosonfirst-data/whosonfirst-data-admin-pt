@@ -1,0 +1,118 @@
+{
+  "id": 101780651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":499833.425764,
+    "geom:bbox":"-7.90199587991,37.0879336134,-7.89011687266,37.0975457938",
+    "geom:latitude":37.093424,
+    "geom:longitude":-7.895001,
+    "iso:country":"PT",
+    "lbl:latitude":37.09305,
+    "lbl:longitude":-7.895406,
+    "mps:latitude":37.09305,
+    "mps:longitude":-7.895406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0415\u0441\u0442\u043e\u0438"
+    ],
+    "name:deu_x_preferred":[
+        "Estoi"
+    ],
+    "name:dut_x_preferred":[
+        "Estoi"
+    ],
+    "name:eng_x_preferred":[
+        "Estoi"
+    ],
+    "name:fre_x_preferred":[
+        "Estoi"
+    ],
+    "name:ger_x_preferred":[
+        "Estoi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0448\u0442\u043e\u0439"
+    ],
+    "name:nld_x_preferred":[
+        "Estoi"
+    ],
+    "name:por_x_colloquial":[
+        "Estoi"
+    ],
+    "name:por_x_preferred":[
+        "Est\u00f3i",
+        "Estoi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448\u0442\u043e\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Estoi"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Estoi",
+    "qs:la_lc":"*PT10805025",
+    "qs:level":"locality",
+    "qs:loc":"Est\u00f3i",
+    "qs:loc_alt":"Estoi",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":384,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c9b9e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268438,
+        "gp:id":740754,
+        "qs:id":1080820,
+        "qs_pg:id":1080820,
+        "wd:id":"Q2652664"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"780379a03551d5ef2c1d67b01cd4a7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780651,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780651,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715867,
+    "wof:name":"Est\u00f3i",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90199587990685,
+    37.08793361343339,
+    -7.89011687266338,
+    37.09754579375709
+],
+  "geometry": {"coordinates":[[[-7.89127178269428,37.09754579375709],[-7.89011687266338,37.09314182283987],[-7.89121235672178,37.0929312300853],[-7.89098138707055,37.0920504331832],[-7.89317231273304,37.09162921584095],[-7.89294132595734,37.09074842320837],[-7.89513220351245,37.09032716135306],[-7.89490119961488,37.0894463729901],[-7.8959966171667,37.08923572614742],[-7.89576560889282,37.08835493894816],[-7.89795640154659,37.08793361343339],[-7.89818743530662,37.08881439442035],[-7.89709202906403,37.08902506662395],[-7.89824725968026,37.09342895795805],[-7.89934272964371,37.09321827022234],[-7.89957381362126,37.09409903955611],[-7.90176476206767,37.0936776198273],[-7.90199587990685,37.0945583810045],[-7.89542289021102,37.09582250665613],[-7.89565393994451,37.09670328453257],[-7.89127178269428,37.09754579375709]]],"type":"Polygon"}
+}

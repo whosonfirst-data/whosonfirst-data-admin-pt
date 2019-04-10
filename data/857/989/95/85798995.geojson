@@ -1,0 +1,108 @@
+{
+  "id": 85798995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1090764.507566,
+    "geom:bbox":"-9.20962,38.751724,-9.20962,38.751724",
+    "geom:latitude":38.751724,
+    "geom:longitude":-9.20962,
+    "gn:latitude":38.75141,
+    "gn:longitude":-9.21227,
+    "iso:country":"PT",
+    "lbl:latitude":38.751724,
+    "lbl:longitude":-9.20962,
+    "mps:latitude":38.75024,
+    "mps:longitude":-9.212478,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:por_x_preferred":[
+        "Damaia"
+    ],
+    "name:unk_x_variant":[
+        "Damaia"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":8010569,
+    "qs:gn_nam_loc":"Amadora, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Damaia",
+    "qs:local_max":284,
+    "qs:local_sum":342,
+    "qs:localhoods":3,
+    "qs:name":"Damaia",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Amadora",
+    "qs:name_local":"Amadora",
+    "qs:photo_max":20,
+    "qs:photo_sum":50,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596416,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596416,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268728,
+        "gp:id":740308,
+        "qs:id":1264552,
+        "qs_pg:id":1264552
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b1dd85b03e34bdc8e1f934c40da75b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798995,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798995,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531861968,
+    "wof:name":"Damaia",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20962,
+    38.751724,
+    -9.20962,
+    38.751724
+],
+  "geometry": {"coordinates":[-9.20962,38.751724],"type":"Point"}
+}

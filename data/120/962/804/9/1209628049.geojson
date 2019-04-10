@@ -1,0 +1,64 @@
+{
+  "id": 1209628049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55145,40.88976,-8.55145,40.88976",
+    "geom:latitude":40.88976,
+    "geom:longitude":-8.55145,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10928.0",
+    "gn:asciiname":"Souto",
+    "gn:country_code":"PT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733813,
+    "gn:latitude":40.88976,
+    "gn:longitude":-8.55145,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Souto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733813,
+        "wk:page":"Souto_%28Santa_Maria_da_Feira%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0dd19bc71daa1a574d1045fefa40a1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209628049
+        }
+    ],
+    "wof:id":1209628049,
+    "wof:lastmodified":1537571940,
+    "wof:name":"Souto",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55145,
+    40.88976,
+    -8.55145,
+    40.88976
+],
+  "geometry": {"coordinates":[-8.55145,40.88976],"type":"Point"}
+}

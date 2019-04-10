@@ -1,0 +1,115 @@
+{
+  "id": 101780665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":389872.870472,
+    "geom:bbox":"-7.66620611455,37.0982418093,-7.65542847023,37.1045704273",
+    "geom:latitude":37.102027,
+    "geom:longitude":-7.66132,
+    "iso:country":"PT",
+    "lbl:latitude":37.101991,
+    "lbl:longitude":-7.662137,
+    "mps:latitude":37.101991,
+    "mps:longitude":-7.662137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0437\u0438\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:por_x_variant":[
+        "Sta Luzia",
+        "Sta. Luzia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041b\u0443\u0437\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luzia"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Luzia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Santa Luzia",
+    "qs:la_lc":"*PT10814083",
+    "qs:level":"locality",
+    "qs:loc":"Santa Luzia",
+    "qs:loc_alt":"Santa Luzia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c2696-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372642,
+        "gp:id":538329,
+        "qs:id":1168225,
+        "qs_pg:id":302902,
+        "wd:id":"Q2687695",
+        "wk:page":"Santa Luzia (Tavira)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ddabf0ce45a8ee3b7eb55f316c019da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780665,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780665,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815496,
+    "wof:name":"Santa Luzia",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66620611454755,
+    37.09824180929684,
+    -7.65542847022937,
+    37.10457042732577
+],
+  "geometry": {"coordinates":[[[-7.66072530679202,37.10457042732577],[-7.6604972207715,37.10368893619767],[-7.65611252513133,37.10452048302091],[-7.65542847022937,37.10187596130658],[-7.6587168851849,37.1012523478467],[-7.65848884503521,37.10037084597553],[-7.66396936088972,37.09933125163161],[-7.6637412650432,37.09844976318351],[-7.66483733865499,37.09824180929684],[-7.66620611454755,37.10353069278182],[-7.66072530679202,37.10457042732577]]],"type":"Polygon"}
+}

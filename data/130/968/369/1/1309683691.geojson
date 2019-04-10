@@ -1,0 +1,67 @@
+{
+  "id": 1309683691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62232,41.32179,-8.62232,41.32179",
+    "geom:latitude":41.32179,
+    "geom:longitude":-8.62232,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1318",
+    "gn:admin3_code":"131807.0",
+    "gn:asciiname":"Cerro",
+    "gn:country_code":"PT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740836,
+    "gn:latitude":41.32179,
+    "gn:longitude":-8.62232,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740836
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2a8e7eed55c1c51cac8540f265a9588e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309683691,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1309683691,
+    "wof:lastmodified":1536607469,
+    "wof:name":"Cerro",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62232,
+    41.32179,
+    -8.62232,
+    41.32179
+],
+  "geometry": {"coordinates":[-8.62232,41.32179],"type":"Point"}
+}

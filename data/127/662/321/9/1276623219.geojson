@@ -1,0 +1,65 @@
+{
+  "id": 1276623219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71667,41.6,-7.71667,41.6",
+    "geom:latitude":41.6,
+    "geom:longitude":-7.71667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Toes",
+    "gn:country_code":"PT",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733552,
+    "gn:latitude":41.6,
+    "gn:longitude":-7.71667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"T\u00f5es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733552
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f0eefbb8f9165037e72ba62f24019927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276623219,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1276623219,
+    "wof:lastmodified":1536887259,
+    "wof:name":"Toes",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71667,
+    41.6,
+    -7.71667,
+    41.6
+],
+  "geometry": {"coordinates":[-7.71667,41.6],"type":"Point"}
+}

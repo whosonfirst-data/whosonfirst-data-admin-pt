@@ -1,0 +1,67 @@
+{
+  "id": 1343858741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5,41.45,-8.5,41.45",
+    "geom:latitude":41.45,
+    "geom:longitude":-8.5,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0312",
+    "gn:admin3_code":"31212.0",
+    "gn:asciiname":"Jesufrei",
+    "gn:country_code":"PT",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738660,
+    "gn:latitude":41.45,
+    "gn:longitude":-8.5,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Jesufrei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738660
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"765f848caae76b9383124addf92d6a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343858741,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1343858741,
+    "wof:lastmodified":1536669087,
+    "wof:name":"Jesufrei",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5,
+    41.45,
+    -8.5,
+    41.45
+],
+  "geometry": {"coordinates":[-8.5,41.45],"type":"Point"}
+}

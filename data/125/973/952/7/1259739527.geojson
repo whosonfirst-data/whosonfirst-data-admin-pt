@@ -1,0 +1,74 @@
+{
+  "id": 1259739527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.8,38.55,-27.8,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":-27.8,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4501",
+    "gn:admin3_code":"450104.0",
+    "gn:asciiname":"Santo Antao",
+    "gn:country_code":"PT",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372633,
+    "gn:latitude":38.55,
+    "gn:longitude":-27.8,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Santo Ant\u00e3o",
+    "gn:population":745,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santo Ant\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372633,
+        "wk:page":"Santo_Ant%C3%A3o_%28Calheta%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a6a718ee215a8209442ac2b344178073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259739527,
+            "region_id":85687451
+        }
+    ],
+    "wof:id":1259739527,
+    "wof:lastmodified":1537683179,
+    "wof:name":"Santo Antao",
+    "wof:parent_id":85687451,
+    "wof:placetype":"locality",
+    "wof:population":745,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.8,
+    38.55,
+    -27.8,
+    38.55
+],
+  "geometry": {"coordinates":[-27.8,38.55],"type":"Point"}
+}

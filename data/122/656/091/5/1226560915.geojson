@@ -1,0 +1,67 @@
+{
+  "id": 1226560915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94567,37.39271,-7.94567,37.39271",
+    "geom:latitude":37.39271,
+    "geom:longitude":-7.94567,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Revezes",
+    "gn:country_code":"PT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263925,
+    "gn:latitude":37.39271,
+    "gn:longitude":-7.94567,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Revezes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263925
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bd579e82f6350200e0dbe81be12e7dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226560915,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1226560915,
+    "wof:lastmodified":1536975718,
+    "wof:name":"Revezes",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94567,
+    37.39271,
+    -7.94567,
+    37.39271
+],
+  "geometry": {"coordinates":[-7.94567,37.39271],"type":"Point"}
+}

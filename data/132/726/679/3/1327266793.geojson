@@ -1,0 +1,67 @@
+{
+  "id": 1327266793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73585,41.61243,-8.73585,41.61243",
+    "geom:latitude":41.61243,
+    "geom:longitude":-8.73585,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0306",
+    "gn:admin3_code":"30608.0",
+    "gn:asciiname":"Santa",
+    "gn:country_code":"PT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734766,
+    "gn:latitude":41.61243,
+    "gn:longitude":-8.73585,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734766
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d95187b5ff1085f45088c3dabdbf793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327266793,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1327266793,
+    "wof:lastmodified":1536920666,
+    "wof:name":"Santa",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73585,
+    41.61243,
+    -8.73585,
+    41.61243
+],
+  "geometry": {"coordinates":[-8.73585,41.61243],"type":"Point"}
+}

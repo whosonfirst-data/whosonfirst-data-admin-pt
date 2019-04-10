@@ -1,0 +1,64 @@
+{
+  "id": 1209338651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58371,41.44524,-8.58371,41.44524",
+    "geom:latitude":41.44524,
+    "geom:longitude":-8.58371,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30239.0",
+    "gn:asciiname":"Grimancelos",
+    "gn:country_code":"PT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738795,
+    "gn:latitude":41.44524,
+    "gn:longitude":-8.58371,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Grimancelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738795,
+        "wk:page":"Grimancelos"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7e69d1febde9b86540f1bf01e15a6c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209338651
+        }
+    ],
+    "wof:id":1209338651,
+    "wof:lastmodified":1537571944,
+    "wof:name":"Grimancelos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58371,
+    41.44524000000001,
+    -8.58371,
+    41.44524000000001
+],
+  "geometry": {"coordinates":[-8.58371,41.44524000000001],"type":"Point"}
+}

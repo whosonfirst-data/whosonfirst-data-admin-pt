@@ -1,0 +1,67 @@
+{
+  "id": 1242943945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40218,39.05925,-9.40218,39.05925",
+    "geom:latitude":39.05925,
+    "geom:longitude":-9.40218,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110904.0",
+    "gn:asciiname":"Areia",
+    "gn:country_code":"PT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271588,
+    "gn:latitude":39.05925,
+    "gn:longitude":-9.40218,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Areia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271588
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1766f60d29c97a1e00608eb09a6acf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242943945,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1242943945,
+    "wof:lastmodified":1537031748,
+    "wof:name":"Areia",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40218,
+    39.05925,
+    -9.40218,
+    39.05925
+],
+  "geometry": {"coordinates":[-9.40218,39.05925],"type":"Point"}
+}

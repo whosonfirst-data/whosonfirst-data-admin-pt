@@ -1,0 +1,67 @@
+{
+  "id": 1343852589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35049,40.17694,-8.35049,40.17694",
+    "geom:latitude":40.17694,
+    "geom:longitude":-8.35049,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60904.0",
+    "gn:asciiname":"Canas",
+    "gn:country_code":"PT",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741615,
+    "gn:latitude":40.17694,
+    "gn:longitude":-8.35049,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Canas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741615
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aaa82afa97f045738a49bec1999f9c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343852589,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1343852589,
+    "wof:lastmodified":1536678002,
+    "wof:name":"Canas",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35049,
+    40.17694,
+    -8.35049,
+    40.17694
+],
+  "geometry": {"coordinates":[-8.35049,40.17694],"type":"Point"}
+}

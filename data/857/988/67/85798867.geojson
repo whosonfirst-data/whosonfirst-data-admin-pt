@@ -1,0 +1,109 @@
+{
+  "id": 85798867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1078759.117903,
+    "geom:bbox":"-9.12963867188,38.717661772,-9.11590576172,38.7283759182",
+    "geom:latitude":38.723357,
+    "geom:longitude":-9.12364,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.72307,
+    "lbl:longitude":-9.125422,
+    "mps:latitude":38.723019,
+    "mps:longitude":-9.124196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"in NW suburbs?",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Bairro Lopes"
+    ],
+    "name:por_x_variant":[
+        "B. Lopes"
+    ],
+    "name:unk_x_variant":[
+        "Bairro Lopes"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Bairro Lopes",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":88,
+    "qs:photo_sum":476,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":736764,
+        "qs:id":1079832,
+        "qs_pg:id":1079832
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4c8cb78c23ba383d3f1029f5e6be1625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798867,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798867,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527269560,
+    "wof:name":"Bairro Lopes",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12963867187847,
+    38.71766177202537,
+    -9.11590576171983,
+    38.72837591820007
+],
+  "geometry": {"coordinates":[[[-9.12139892577989,38.72623321458589],[-9.11865234374991,38.7262332121402],[-9.11590576171992,38.72623321267514],[-9.11590576171983,38.7240904509502],[-9.11590576171983,38.72194762576677],[-9.11865234374991,38.7219476239834],[-9.11865234374991,38.71980473648591],[-9.12139892577989,38.71980473368353],[-9.12139892577989,38.71836967799449],[-9.12139892577989,38.71766178810006],[-9.12195124982941,38.7176617805985],[-9.12414550780971,38.71766177952692],[-9.12633975910416,38.71766177202537],[-9.12633977081737,38.71766178662817],[-9.12689208983997,38.71766178810006],[-9.12689208984068,38.71836967799388],[-9.12689208984131,38.71980473323767],[-9.12963867187821,38.71980473546681],[-9.12963867187821,38.72194762487513],[-9.12963867187821,38.7240904509502],[-9.12963867187821,38.72623321267524],[-9.12963867187847,38.7283759101752],[-9.12689208984165,38.72837591106683],[-9.12469776712203,38.72837591391443],[-9.12414550780989,38.72837591820007],[-9.12139892577989,38.72837591820007],[-9.12139892577989,38.72766798900587],[-9.12139892577989,38.72623321458589]]],"type":"Polygon"}
+}

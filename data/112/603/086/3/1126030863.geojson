@@ -1,0 +1,76 @@
+{
+  "id": 1126030863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39647,41.56104,-8.39647,41.56104",
+    "geom:latitude":41.56104,
+    "geom:longitude":-8.39647,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"UNIV",
+    "gn:gn_pop":10000,
+    "gn:population":10000,
+    "iso:country":"PT",
+    "lbl:latitude":41.56104,
+    "lbl:longitude":-8.39647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"UNIV",
+    "qs_pg:gn_id":6951750,
+    "qs_pg:gn_pop":10000,
+    "qs_pg:name":"University of Minho",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":653187,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6951750,
+        "qs_pg:id":653187
+    },
+    "wof:country":"PT",
+    "wof:created":1497301462,
+    "wof:geomhash":"3e9c622d4d188bfab70fadd7e84efc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126030863,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1126030863,
+    "wof:lastmodified":1509407905,
+    "wof:name":"University of Minho",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39647,
+    41.56104,
+    -8.39647,
+    41.56104
+],
+  "geometry": {"coordinates":[-8.39647,41.56104],"type":"Point"}
+}

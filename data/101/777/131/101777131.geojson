@@ -1,0 +1,116 @@
+{
+  "id": 101777131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":609492.435462,
+    "geom:bbox":"-9.27373318572,39.3259284474,-9.26445050214,39.3397497111",
+    "geom:latitude":39.332479,
+    "geom:longitude":-9.268864,
+    "iso:country":"PT",
+    "lbl:latitude":39.329959,
+    "lbl:longitude":-9.270341,
+    "mps:latitude":39.329959,
+    "mps:longitude":-9.270341,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Serra d\u2019El-Rei"
+    ],
+    "name:dut_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:eng_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:fra_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:fre_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:ger_x_preferred":[
+        "Serra d\u2019El-Rei"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0430-\u0434\u044d\u043b-\u0420\u0435\u0439"
+    ],
+    "name:may_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:msa_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:por_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0430-\u0434\u044d\u043b-\u0420\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Serra d'El-Rei"
+    ],
+    "name:unk_x_variant":[
+        "Serra d\u2019Elrei"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Olho Marinho",
+    "qs:la_lc":"*PT11012037",
+    "qs:level":"locality",
+    "qs:loc":"Serra de El Rei",
+    "qs:loc_alt":"Serra de El Rei",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.331,
+    "wd:longitude":-9.27,
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263025,
+        "gp:id":748726,
+        "qs:id":987727,
+        "wd:id":"Q1025523"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8976a5190da295dd829b8433cb0c75e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777131,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777131,
+    "wof:lastmodified":1527688513,
+    "wof:name":"Serra de El Rei",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27373318571921,
+    39.32592844735746,
+    -9.26445050214159,
+    39.33974971106932
+],
+  "geometry": {"coordinates":[[[-9.26795359014943,39.33974971106932],[-9.2676895806581,39.33887638428013],[-9.26656211548595,39.3391041646388],[-9.2662981294792,39.33823083229277],[-9.26517067120722,39.33845859604747],[-9.26464275597311,39.33671191823032],[-9.26577018690159,39.33648416156473],[-9.26445050214159,39.33211744953792],[-9.26783254925755,39.33143415435745],[-9.26677681399735,39.32794079104985],[-9.2690313688924,39.32748522399663],[-9.26876743226762,39.32661188522735],[-9.27214917284743,39.32592844735746],[-9.27373318571921,39.33116838598073],[-9.27260586363712,39.33139623292988],[-9.27286988645676,39.33226955253406],[-9.26948783858023,39.33295302567331],[-9.26975183020869,39.33382635390029],[-9.26862445370517,39.33405415570968],[-9.27020852751929,39.33929410408393],[-9.26795359014943,39.33974971106932]]],"type":"Polygon"}
+}

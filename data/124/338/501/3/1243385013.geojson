@@ -1,0 +1,67 @@
+{
+  "id": 1243385013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36378,40.05738,-8.36378,40.05738",
+    "geom:latitude":40.05738,
+    "geom:longitude":-8.36378,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0614",
+    "gn:admin3_code":"61403.0",
+    "gn:asciiname":"Retorta",
+    "gn:country_code":"PT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735239,
+    "gn:latitude":40.05738,
+    "gn:longitude":-8.36378,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Retorta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735239
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f9a007cc59cabd8463cdd26fd83b667e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243385013,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243385013,
+    "wof:lastmodified":1536893965,
+    "wof:name":"Retorta",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36378,
+    40.05738,
+    -8.36378,
+    40.05738
+],
+  "geometry": {"coordinates":[-8.36378,40.05738],"type":"Point"}
+}

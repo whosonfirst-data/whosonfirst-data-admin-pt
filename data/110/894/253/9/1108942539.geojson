@@ -1,0 +1,64 @@
+{
+  "id": 1108942539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14716545882,38.7098850975,-9.14716545882,38.7098850975",
+    "geom:latitude":38.709885,
+    "geom:longitude":-9.147165,
+    "iso:country":"PT",
+    "lbl:latitude":38.709885,
+    "lbl:longitude":-9.147165,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:pol_x_preferred":[
+        "Miseric\u00f3rdia"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363156,
+    "wof:geomhash":"0a8edf26c6f1960bb1ec22f960530e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942539,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942539,
+    "wof:lastmodified":1497292363,
+    "wof:name":"Misericordia",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14716545881919,
+    38.70988509748842,
+    -9.14716545881919,
+    38.70988509748842
+],
+  "geometry": {"coordinates":[-9.14716545881919,38.70988509748842],"type":"Point"}
+}

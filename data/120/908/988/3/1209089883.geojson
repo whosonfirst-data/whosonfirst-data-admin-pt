@@ -1,0 +1,63 @@
+{
+  "id": 1209089883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2,38.83333,-9.2,38.83333",
+    "geom:latitude":38.83333,
+    "geom:longitude":-9.2,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1107",
+    "gn:admin3_code":"110707.0",
+    "gn:asciiname":"Senhor dos Aflitos",
+    "gn:country_code":"PT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263060,
+    "gn:latitude":38.83333,
+    "gn:longitude":-9.2,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Senhor dos Aflitos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263060
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f99b8719af032de98237fc39fde0745b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209089883
+        }
+    ],
+    "wof:id":1209089883,
+    "wof:lastmodified":1536298068,
+    "wof:name":"Senhor dos Aflitos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2,
+    38.83333,
+    -9.2,
+    38.83333
+],
+  "geometry": {"coordinates":[-9.2,38.83333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343936671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.00419,39.00461,-9.00419,39.00461",
+    "geom:latitude":39.00461,
+    "geom:longitude":-9.00419,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"110105.0",
+    "gn:asciiname":"Cadafais",
+    "gn:country_code":"PT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270479,
+    "gn:latitude":39.00461,
+    "gn:longitude":-9.00419,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Cadafais",
+    "gn:population":1687,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cadafaes",
+        "Cadafais"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270479,
+        "wk:page":"Cadafais"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"12cab7c4fd45229cb9be68a124eadc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343936671,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1343936671,
+    "wof:lastmodified":1537683153,
+    "wof:name":"Cadafais",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":1687,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00419,
+    39.00461,
+    -9.00419,
+    39.00461
+],
+  "geometry": {"coordinates":[-9.00419,39.00461],"type":"Point"}
+}

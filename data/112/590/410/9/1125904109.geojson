@@ -1,0 +1,80 @@
+{
+  "id": 1125904109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4053125,37.0903795,-8.4053125,37.0903795",
+    "geom:latitude":37.090379,
+    "geom:longitude":-8.405313,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":37.090379,
+    "lbl:longitude":-8.405313,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Caramujeira",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Faro",
+    "qs_pg:photos":152,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":152,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225593,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29382376,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Faro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29382376,
+        "qs_pg:id":225593
+    },
+    "wof:country":"PT",
+    "wof:created":1497295923,
+    "wof:geomhash":"03b6e8ff3e0b49e08e8b0098532be15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125904109,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1125904109,
+    "wof:lastmodified":1509399639,
+    "wof:name":"Caramujeira",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4053125,
+    37.0903795,
+    -8.4053125,
+    37.0903795
+],
+  "geometry": {"coordinates":[-8.4053125,37.0903795],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260352705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69364,41.39444,-8.69364,41.39444",
+    "geom:latitude":41.39444,
+    "geom:longitude":-8.69364,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1316",
+    "gn:admin3_code":"131622.0",
+    "gn:asciiname":"Galo",
+    "gn:country_code":"PT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739110,
+    "gn:latitude":41.39444,
+    "gn:longitude":-8.69364,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Galo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739110
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"05d88d24ad765b3050f6917752ed0753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260352705,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1260352705,
+    "wof:lastmodified":1536617081,
+    "wof:name":"Galo",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69364,
+    41.39444,
+    -8.69364,
+    41.39444
+],
+  "geometry": {"coordinates":[-8.69364,41.39444],"type":"Point"}
+}

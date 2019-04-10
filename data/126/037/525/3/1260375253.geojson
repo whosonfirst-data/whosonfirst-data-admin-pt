@@ -1,0 +1,67 @@
+{
+  "id": 1260375253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05863,37.07526,-8.05863,37.07526",
+    "geom:latitude":37.07526,
+    "geom:longitude":-8.05863,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80801.0",
+    "gn:asciiname":"Ferrarias",
+    "gn:country_code":"PT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268265,
+    "gn:latitude":37.07526,
+    "gn:longitude":-8.05863,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ferrarias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268265
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0aa77a78db90c0a762d1c6946d4dbd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260375253,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1260375253,
+    "wof:lastmodified":1537082797,
+    "wof:name":"Ferrarias",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05863,
+    37.07526,
+    -8.05863,
+    37.07526
+],
+  "geometry": {"coordinates":[-8.05863,37.07526],"type":"Point"}
+}

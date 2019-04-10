@@ -1,0 +1,67 @@
+{
+  "id": 1309801477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96944,39.96721,-7.96944,39.96721",
+    "geom:latitude":39.96721,
+    "geom:longitude":-7.96944,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"50601.0",
+    "gn:asciiname":"Longra",
+    "gn:country_code":"PT",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266999,
+    "gn:latitude":39.96721,
+    "gn:longitude":-7.96944,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Longra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266999
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d2e6fcd4da93e9653318edd34e656b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309801477,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1309801477,
+    "wof:lastmodified":1536938081,
+    "wof:name":"Longra",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96944,
+    39.96721,
+    -7.96944,
+    39.96721
+],
+  "geometry": {"coordinates":[-7.96944,39.96721],"type":"Point"}
+}

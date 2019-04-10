@@ -1,0 +1,67 @@
+{
+  "id": 1226217679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20541,38.668,-9.20541,38.668",
+    "geom:latitude":38.668,
+    "geom:longitude":-9.20541,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"150302.0",
+    "gn:asciiname":"Castelo Picao",
+    "gn:country_code":"PT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269503,
+    "gn:latitude":38.668,
+    "gn:longitude":-9.20541,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Castelo Pic\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269503
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"65e0f807a51637ba0c759df583485a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226217679,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1226217679,
+    "wof:lastmodified":1536973708,
+    "wof:name":"Castelo Picao",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20541,
+    38.668,
+    -9.20541,
+    38.668
+],
+  "geometry": {"coordinates":[-9.20541,38.668],"type":"Point"}
+}

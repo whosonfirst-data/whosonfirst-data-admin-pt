@@ -1,0 +1,67 @@
+{
+  "id": 1310181623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74002,39.70042,-8.74002,39.70042",
+    "geom:latitude":39.70042,
+    "geom:longitude":-8.74002,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100902.0",
+    "gn:asciiname":"Souto Sico",
+    "gn:country_code":"PT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262812,
+    "gn:latitude":39.70042,
+    "gn:longitude":-8.74002,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Souto Sico",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262812
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"939869c1b07bd335b8a6d6a46953128c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310181623,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1310181623,
+    "wof:lastmodified":1536886346,
+    "wof:name":"Souto Sico",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74002,
+    39.70042,
+    -8.74002,
+    39.70042
+],
+  "geometry": {"coordinates":[-8.74002,39.70042],"type":"Point"}
+}

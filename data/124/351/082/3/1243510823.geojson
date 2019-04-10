@@ -1,0 +1,67 @@
+{
+  "id": 1243510823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99525,40.65131,-7.99525,40.65131",
+    "geom:latitude":40.65131,
+    "geom:longitude":-7.99525,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182311.0",
+    "gn:asciiname":"Mosteirinho",
+    "gn:country_code":"PT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737349,
+    "gn:latitude":40.65131,
+    "gn:longitude":-7.99525,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mosteirinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737349
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a5538508f8e4f962e81aa4998664ac58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243510823,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1243510823,
+    "wof:lastmodified":1536713150,
+    "wof:name":"Mosteirinho",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99525,
+    40.65131,
+    -7.99525,
+    40.65131
+],
+  "geometry": {"coordinates":[-7.99525,40.65131],"type":"Point"}
+}

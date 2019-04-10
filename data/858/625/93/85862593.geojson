@@ -1,0 +1,107 @@
+{
+  "id": 85862593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11364833.034985,
+    "geom:bbox":"-8.626541,41.204454,-8.626541,41.204454",
+    "geom:latitude":41.204454,
+    "geom:longitude":-8.626541,
+    "iso:country":"PT",
+    "lbl:latitude":41.204454,
+    "lbl:longitude":-8.626541,
+    "mps:latitude":41.216305,
+    "mps:longitude":-8.629995,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:por_x_colloquial":[
+        "Seixo"
+    ],
+    "name:por_x_preferred":[
+        "Seixo"
+    ],
+    "name:unk_x_variant":[
+        "Seixo"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":8010584,
+    "qs:gn_nam_loc":"Matosinhos, Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Seixo",
+    "qs:local_max":3813,
+    "qs:local_sum":4288,
+    "qs:localhoods":3,
+    "qs:name":"Seixo",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Matosinhos",
+    "qs:name_local":"Matosinhos",
+    "qs:photo_max":23,
+    "qs:photo_sum":58,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596524,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596524,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101759303,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734197,
+        "gp:id":20105224,
+        "qs:id":52120
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1cfbb1e80992439c6874c392ff4bf31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759303,
+            "neighbourhood_id":85862593,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":85862593,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531870603,
+    "wof:name":"Seixo",
+    "wof:parent_id":101759303,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.626541,
+    41.204454,
+    -8.626541,
+    41.204454
+],
+  "geometry": {"coordinates":[-8.626541,41.204454],"type":"Point"}
+}

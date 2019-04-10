@@ -1,0 +1,76 @@
+{
+  "id": 1125869095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.79365,38.83095,-8.79365,38.83095",
+    "geom:latitude":38.83095,
+    "geom:longitude":-8.79365,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4225,
+    "gn:population":4225,
+    "iso:country":"PT",
+    "lbl:latitude":38.83095,
+    "lbl:longitude":-8.79365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2264644,
+    "qs_pg:gn_pop":4225,
+    "qs_pg:name":"Poceir\u00e3o",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":139261,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264644,
+        "qs_pg:id":139261
+    },
+    "wof:country":"PT",
+    "wof:created":1497294197,
+    "wof:geomhash":"bf7d2cc06574006c1141fe2f95e50891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125869095,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1125869095,
+    "wof:lastmodified":1509397181,
+    "wof:name":"Poceir\u00e3o",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":4225,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79365,
+    38.83095,
+    -8.79365,
+    38.83095
+],
+  "geometry": {"coordinates":[-8.79365,38.83095],"type":"Point"}
+}

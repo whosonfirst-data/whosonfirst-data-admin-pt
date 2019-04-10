@@ -1,0 +1,137 @@
+{
+  "id": 101832853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000222,
+    "geom:area_square_m":2147772.884901,
+    "geom:bbox":"-9.16864786712,38.6622156279,-9.14606175258,38.6783353696",
+    "geom:latitude":38.670113,
+    "geom:longitude":-9.158051,
+    "gn:population":19472,
+    "iso:country":"PT",
+    "lbl:latitude":38.670438,
+    "lbl:longitude":-9.158266,
+    "mps:latitude":38.670438,
+    "mps:longitude":-9.158266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:dut_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:eng_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:fra_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:fre_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:ger_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:ita_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f4\u30a1\u30fb\u30c0\u30fb\u30d4\u30a8\u30c0\u30fc\u30c7"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0432\u0430-\u0434\u0430-\u041f\u044c\u0435\u0434\u0430\u0434\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:pol_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:por_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:por_x_variant":[
+        "Caramujo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430-\u0434\u0430-\u041f\u0438\u0435\u0434\u0430\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:tur_x_preferred":[
+        "Cova da Piedade"
+    ],
+    "name:unk_x_variant":[
+        "Piedade"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Cova da Piedade",
+    "qs:loc_alt":"Cova da Piedade",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a45d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264736,
+        "gp:id":738178,
+        "qs:id":1353004,
+        "qs_pg:id":1353004,
+        "wd:id":"Q1137973",
+        "wk:page":"Cova da Piedade"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"60d185dd3cd9c2ae22fce8cf744575fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832853,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832853,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642788,
+    "wof:name":"Cova da Piedade",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":19472,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16864786712114,
+    38.66221562792811,
+    -9.14606175258484,
+    38.67833536963809
+],
+  "geometry": {"coordinates":[[[-9.14777829563911,38.67397845821745],[-9.14768843611796,38.67367351158435],[-9.14880541271225,38.67344746610422],[-9.14854768947555,38.67257287281399],[-9.14966464622938,38.67234681786698],[-9.14863379490259,38.66884843835948],[-9.14751689145606,38.66907447947096],[-9.14725921568095,38.66819987608983],[-9.14614231904994,38.66842590081762],[-9.14606175258484,38.66815240005354],[-9.16158384577744,38.66221562792811],[-9.16864786712114,38.66433989162033],[-9.16417317335276,38.67567638990761],[-9.15501610756775,38.67833536963809],[-9.14777829563911,38.67397845821745]]],"type":"Polygon"}
+}

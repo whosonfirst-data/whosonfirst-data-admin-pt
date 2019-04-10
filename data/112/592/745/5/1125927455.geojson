@@ -1,0 +1,90 @@
+{
+  "id": 1125927455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59353,40.49559,-7.59353,40.49559",
+    "geom:latitude":40.49559,
+    "geom:longitude":-7.59353,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.49559,
+    "lbl:longitude":-7.59353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2738891,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gouveia",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos":211,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":211,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081239,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741978,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738891,
+        "gp:id":741978,
+        "qs_pg:id":1081239
+    },
+    "wof:country":"PT",
+    "wof:created":1497296689,
+    "wof:geomhash":"b381267528575e35e711f7b8d979ad0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125927455,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125927455,
+    "wof:lastmodified":1534379446,
+    "wof:name":"Gouveia",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101776177
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59353,
+    40.49559,
+    -7.59353,
+    40.49559
+],
+  "geometry": {"coordinates":[-7.59353,40.49559],"type":"Point"}
+}

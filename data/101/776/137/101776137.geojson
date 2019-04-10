@@ -1,0 +1,102 @@
+{
+  "id": 101776137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:bbox":"-9.2355470828,39.3207566297,-9.22945673572,39.3319202921",
+    "geom:latitude":39.326909,
+    "geom:longitude":-9.232873,
+    "iso:country":"PT",
+    "lbl:latitude":39.327321,
+    "lbl:longitude":-9.232412,
+    "mps:latitude":39.327321,
+    "mps:longitude":-9.232412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:fra_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043b\u044c\u044e-\u041c\u0430\u0440\u0438\u043d\u044c\u044e"
+    ],
+    "name:nld_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:por_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u044c\u044e-\u041c\u0430\u0440\u0438\u043d\u044c\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:tur_x_preferred":[
+        "Olho Marinho"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Olho Marinho",
+    "qs:la_lc":"*PT11012037",
+    "qs:level":"locality",
+    "qs:loc":"Olho Marinho",
+    "qs:loc_alt":"Olho Marinho",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026caf76-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265437,
+        "gp:id":744684,
+        "qs:id":1254136,
+        "wd:id":"Q747049",
+        "wk:page":"Olho Marinho"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a62d83389f4a002860746357002ae516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776137,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101776137,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688310,
+    "wof:name":"Olho Marinho",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23554708279806,
+    39.3207566297051,
+    -9.22945673572173,
+    39.33192029210477
+],
+  "geometry": {"coordinates":[[[-9.23329221760457,39.33192029210477],[-9.23250179666263,39.32929992233346],[-9.23137439495304,39.32952728634376],[-9.23111095456585,39.32865382219882],[-9.2299835597733,39.32888116961175],[-9.22945673572173,39.32713422822144],[-9.23058410316582,39.32690688788375],[-9.23032069215185,39.32603341771414],[-9.23144803916608,39.32580606785501],[-9.2311846242697,39.32493259921466],[-9.23231195085498,39.32470523983466],[-9.23178512308863,39.32295830360397],[-9.23291241557479,39.3227309382408],[-9.23238559962584,39.32098400105104],[-9.23351285801584,39.3207566297051],[-9.2348300396684,39.32512393992647],[-9.23370271292453,39.32535132896101],[-9.23554708279806,39.33146550367491],[-9.23329221760457,39.33192029210477]]],"type":"Polygon"}
+}

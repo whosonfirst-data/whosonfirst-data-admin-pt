@@ -1,0 +1,67 @@
+{
+  "id": 1259687155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17282,40.90883,-8.17282,40.90883",
+    "geom:latitude":40.90883,
+    "geom:longitude":-8.17282,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10412.0",
+    "gn:asciiname":"Telhe",
+    "gn:country_code":"PT",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733605,
+    "gn:latitude":40.90883,
+    "gn:longitude":-8.17282,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Telhe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733605
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"482d4fd5f8b978c245a7ddab6bbe3151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259687155,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1259687155,
+    "wof:lastmodified":1537059110,
+    "wof:name":"Telhe",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17282,
+    40.90883,
+    -8.17282,
+    40.90883
+],
+  "geometry": {"coordinates":[-8.17282,40.90883],"type":"Point"}
+}

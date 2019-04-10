@@ -1,0 +1,67 @@
+{
+  "id": 1309990541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08699,37.16536,-8.08699,37.16536",
+    "geom:latitude":37.16536,
+    "geom:longitude":-8.08699,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80809.0",
+    "gn:asciiname":"Cerro Alto",
+    "gn:country_code":"PT",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269390,
+    "gn:latitude":37.16536,
+    "gn:longitude":-8.08699,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro Alto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269390
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c0ea8f7f793f9c825926e51c5a71b7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309990541,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1309990541,
+    "wof:lastmodified":1536664890,
+    "wof:name":"Cerro Alto",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08699,
+    37.16536,
+    -8.08699,
+    37.16536
+],
+  "geometry": {"coordinates":[-8.08699,37.16536],"type":"Point"}
+}

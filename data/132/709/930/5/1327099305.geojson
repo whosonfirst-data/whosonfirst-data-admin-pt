@@ -1,0 +1,67 @@
+{
+  "id": 1327099305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6079,42.02508,-8.6079,42.02508",
+    "geom:latitude":42.02508,
+    "geom:longitude":-8.6079,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1608",
+    "gn:admin3_code":"160808.0",
+    "gn:asciiname":"Vilar",
+    "gn:country_code":"PT",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732489,
+    "gn:latitude":42.02508,
+    "gn:longitude":-8.6079,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732489
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"41adf67f06a335dcd79733ef98e9bcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327099305,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1327099305,
+    "wof:lastmodified":1536664075,
+    "wof:name":"Vilar",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6079,
+    42.02508,
+    -8.6079,
+    42.02508
+],
+  "geometry": {"coordinates":[-8.6079,42.02508],"type":"Point"}
+}

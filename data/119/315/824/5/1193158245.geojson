@@ -1,0 +1,67 @@
+{
+  "id": 1193158245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35643,40.28142,-8.35643,40.28142",
+    "geom:latitude":40.28142,
+    "geom:longitude":-8.35643,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0613",
+    "gn:admin3_code":"61302.0",
+    "gn:asciiname":"Agrelo",
+    "gn:country_code":"PT",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743347,
+    "gn:latitude":40.28142,
+    "gn:longitude":-8.35643,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Agrelo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743347
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"87e521c328d36e0b41421cf2296c0464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193158245,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1193158245,
+    "wof:lastmodified":1536370911,
+    "wof:name":"Agrelo",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35643,
+    40.28142,
+    -8.35643,
+    40.28142
+],
+  "geometry": {"coordinates":[-8.35643,40.28142],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343517935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95831,41.05453,-7.95831,41.05453",
+    "geom:latitude":41.05453,
+    "geom:longitude":-7.95831,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1813",
+    "gn:admin3_code":"181308.0",
+    "gn:asciiname":"Granja",
+    "gn:country_code":"PT",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738847,
+    "gn:latitude":41.05453,
+    "gn:longitude":-7.95831,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Granja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738847
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"24f47e96953494acaafe99271b54c482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343517935,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343517935,
+    "wof:lastmodified":1536663430,
+    "wof:name":"Granja",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95831,
+    41.05453,
+    -7.95831,
+    41.05453
+],
+  "geometry": {"coordinates":[-7.95831,41.05453],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344163279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68635,41.54198,-8.68635,41.54198",
+    "geom:latitude":41.54198,
+    "geom:longitude":-8.68635,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30227.0",
+    "gn:asciiname":"Cruzeiro",
+    "gn:country_code":"PT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740237,
+    "gn:latitude":41.54198,
+    "gn:longitude":-8.68635,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cruzeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740237
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2fe80d034ec2f0d4fb4961fd9df6ae10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344163279,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344163279,
+    "wof:lastmodified":1536727562,
+    "wof:name":"Cruzeiro",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68635,
+    41.54198,
+    -8.68635,
+    41.54198
+],
+  "geometry": {"coordinates":[-8.68635,41.54198],"type":"Point"}
+}

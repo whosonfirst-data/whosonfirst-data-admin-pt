@@ -1,0 +1,72 @@
+{
+  "id": 1125381709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.57344,40.27374,-7.57344,40.27374",
+    "geom:latitude":40.27374,
+    "geom:longitude":-7.57344,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.27374,
+    "lbl:longitude":-7.57344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014843,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cortes do Meio",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381219,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014843,
+        "qs_pg:id":381219
+    },
+    "wof:country":"PT",
+    "wof:created":1497048086,
+    "wof:geomhash":"63bfef0d2ff0aac3be72555d5af3a0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125381709,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1125381709,
+    "wof:lastmodified":1509389592,
+    "wof:name":"Cortes do Meio",
+    "wof:parent_id":85687385,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57344,
+    40.27374,
+    -7.57344,
+    40.27374
+],
+  "geometry": {"coordinates":[-7.57344,40.27374],"type":"Point"}
+}

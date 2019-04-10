@@ -1,0 +1,67 @@
+{
+  "id": 1293674775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08141,38.72543,-8.08141,38.72543",
+    "geom:latitude":38.72543,
+    "geom:longitude":-8.08141,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0702",
+    "gn:admin3_code":"70205.0",
+    "gn:asciiname":"Testos",
+    "gn:country_code":"PT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262683,
+    "gn:latitude":38.72543,
+    "gn:longitude":-8.08141,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Testos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262683
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0104ff52bd34d0e678fcb1631e7f1169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293674775,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1293674775,
+    "wof:lastmodified":1537013645,
+    "wof:name":"Testos",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08141,
+    38.72543,
+    -8.08141,
+    38.72543
+],
+  "geometry": {"coordinates":[-8.08141,38.72543],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125794611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4587,37.73419,-8.4587,37.73419",
+    "geom:latitude":37.73419,
+    "geom:longitude":-8.4587,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":37.73419,
+    "lbl:longitude":-8.4587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Colos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2269128,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cotilos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Beja",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":115,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":337301,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29382596,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Beja",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269128,
+        "gp:id":29382596,
+        "qs_pg:id":337301
+    },
+    "wof:country":"PT",
+    "wof:created":1497290998,
+    "wof:geomhash":"40fdb154316126f3d23a6777ebfd779e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125794611,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1125794611,
+    "wof:lastmodified":1509392533,
+    "wof:name":"Cotilos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4587,
+    37.73419,
+    -8.4587,
+    37.73419
+],
+  "geometry": {"coordinates":[-8.4587,37.73419],"type":"Point"}
+}

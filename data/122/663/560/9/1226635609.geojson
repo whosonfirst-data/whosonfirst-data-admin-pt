@@ -1,0 +1,67 @@
+{
+  "id": 1226635609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10519,37.12621,-8.10519,37.12621",
+    "geom:latitude":37.12621,
+    "geom:longitude":-8.10519,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80809.0",
+    "gn:asciiname":"Monte do Poco",
+    "gn:country_code":"PT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265970,
+    "gn:latitude":37.12621,
+    "gn:longitude":-8.10519,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte do Po\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265970
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9dbd04b2cb465299b3166895101779f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226635609,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1226635609,
+    "wof:lastmodified":1536873081,
+    "wof:name":"Monte do Poco",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10519,
+    37.12621,
+    -8.10519,
+    37.12621
+],
+  "geometry": {"coordinates":[-8.10519,37.12621],"type":"Point"}
+}

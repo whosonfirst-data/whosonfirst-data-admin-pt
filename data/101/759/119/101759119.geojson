@@ -1,0 +1,73 @@
+{
+  "id": 101759119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:bbox":"-9.12494698479,38.7939254149,-9.1080614672,38.806392921",
+    "geom:latitude":38.799432,
+    "geom:longitude":-9.115474,
+    "iso:country":"PT",
+    "lbl:latitude":38.798416,
+    "lbl:longitude":-9.114771,
+    "mps:latitude":38.798416,
+    "mps:longitude":-9.114771,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Quinta Nova e Quinta do Mocho",
+    "qs:loc_alt":"Quinta Nova e Quinta do Mocho",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264113,
+        "gp:id":746828,
+        "qs:id":1,
+        "qs_pg:id":188309
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e7d8e97c10e02851721b8f5b5cb307ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759119,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759119,
+    "wof:lastmodified":1497291303,
+    "wof:name":"Quinta Nova e Quinta do Mocho",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12494698479242,
+    38.79392541487357,
+    -9.10806146719517,
+    38.80639292097987
+],
+  "geometry": {"coordinates":[[[-9.10806146719517,38.8004222036202],[-9.11280515421669,38.79392541487357],[-9.11642724024478,38.79440835967722],[-9.12041153487559,38.79634013889222],[-9.12282625889429,38.79694381989691],[-9.12494698479242,38.79939939725244],[-9.12391288470275,38.80020369732216],[-9.12077374347842,38.80177326793432],[-9.11913189168018,38.80177326793432],[-9.11912976839784,38.80176607754078],[-9.11909412235599,38.80177326793432],[-9.11908343666533,38.80177326793432],[-9.11908009191876,38.80177609810454],[-9.1146532764713,38.80266905966437],[-9.11568602477371,38.80616719397244],[-9.11456683179995,38.80639292097987],[-9.11405046540648,38.80464385091454],[-9.11181211345735,38.80509525219657],[-9.11155397136991,38.8042207072163],[-9.1104347989874,38.80444638495771],[-9.11017667983566,38.80357183450167],[-9.10905751431807,38.80379749582153],[-9.10806146719517,38.8004222036202]]],"type":"Polygon"}
+}

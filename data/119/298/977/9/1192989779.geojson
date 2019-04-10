@@ -1,0 +1,67 @@
+{
+  "id": 1192989779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48063,39.9479,-8.48063,39.9479",
+    "geom:latitude":39.9479,
+    "geom:longitude":-8.48063,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1003",
+    "gn:admin3_code":"100307.0",
+    "gn:asciiname":"Santiago da Guarda",
+    "gn:country_code":"PT",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263460,
+    "gn:latitude":39.9479,
+    "gn:longitude":-8.48063,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santiago da Guarda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263460
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"77190f0ae3688a27deb88fff2542c36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1192989779,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1192989779,
+    "wof:lastmodified":1536382156,
+    "wof:name":"Santiago da Guarda",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48063,
+    39.9479,
+    -8.48063,
+    39.9479
+],
+  "geometry": {"coordinates":[-8.48063,39.9479],"type":"Point"}
+}

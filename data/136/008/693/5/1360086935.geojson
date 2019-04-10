@@ -1,0 +1,67 @@
+{
+  "id": 1360086935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53235,37.65234,-7.53235,37.65234",
+    "geom:latitude":37.65234,
+    "geom:longitude":-7.53235,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0209",
+    "gn:admin3_code":"20905.0",
+    "gn:asciiname":"Monte Sapos",
+    "gn:country_code":"PT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265828,
+    "gn:latitude":37.65234,
+    "gn:longitude":-7.53235,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Sapos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265828
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6b0dc46dafb9439321326fa8ab0823b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360086935,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1360086935,
+    "wof:lastmodified":1536943521,
+    "wof:name":"Monte Sapos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53235,
+    37.65234,
+    -7.53235,
+    37.65234
+],
+  "geometry": {"coordinates":[-7.53235,37.65234],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360041665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.97107,39.05154,-27.97107,39.05154",
+    "geom:latitude":39.05154,
+    "geom:longitude":-27.97107,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4401",
+    "gn:admin3_code":"440103.0",
+    "gn:asciiname":"Praia da Graciosa",
+    "gn:country_code":"PT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372761,
+    "gn:latitude":39.05154,
+    "gn:longitude":-27.97107,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Praia da Graciosa",
+    "gn:population":836,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Praia",
+        "Praya",
+        "Villa da Praia",
+        "Praia da Graciosa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372761,
+        "wk:page":"Praia_%28Santa_Cruz_da_Graciosa%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"01a4aefc34b00b4940670fdcda1d9b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360041665,
+            "region_id":85687459
+        }
+    ],
+    "wof:id":1360041665,
+    "wof:lastmodified":1537683181,
+    "wof:name":"Praia da Graciosa",
+    "wof:parent_id":85687459,
+    "wof:placetype":"locality",
+    "wof:population":836,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.97107,
+    39.05154,
+    -27.97107,
+    39.05154
+],
+  "geometry": {"coordinates":[-27.97107,39.05154],"type":"Point"}
+}

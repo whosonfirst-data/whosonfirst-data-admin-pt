@@ -1,0 +1,67 @@
+{
+  "id": 1293555629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8846,39.63342,-7.8846,39.63342",
+    "geom:latitude":39.63342,
+    "geom:longitude":-7.8846,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141304.0",
+    "gn:asciiname":"Rouqueira",
+    "gn:country_code":"PT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263706,
+    "gn:latitude":39.63342,
+    "gn:longitude":-7.8846,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rouqueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263706
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"52783d223548a89aa522ba134bbced8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293555629,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1293555629,
+    "wof:lastmodified":1536689106,
+    "wof:name":"Rouqueira",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8846,
+    39.63342,
+    -7.8846,
+    39.63342
+],
+  "geometry": {"coordinates":[-7.8846,39.63342],"type":"Point"}
+}

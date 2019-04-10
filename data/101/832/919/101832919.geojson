@@ -1,0 +1,125 @@
+{
+  "id": 101832919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":911427.832204,
+    "geom:bbox":"-9.15822937074,38.6315077717,-9.14601991462,38.6492876403",
+    "geom:latitude":38.641584,
+    "geom:longitude":-9.151806,
+    "gn:population":52520,
+    "iso:country":"PT",
+    "lbl:latitude":38.643304,
+    "lbl:longitude":-9.152213,
+    "mps:latitude":38.643304,
+    "mps:longitude":-9.152213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Corroios"
+    ],
+    "name:eng_x_preferred":[
+        "Corroios"
+    ],
+    "name:fre_x_preferred":[
+        "Corroios"
+    ],
+    "name:ger_x_preferred":[
+        "Corroios"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u0440\u043e\u0439\u044e\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Corroios"
+    ],
+    "name:nno_x_preferred":[
+        "Corroios"
+    ],
+    "name:pol_x_preferred":[
+        "Corroios"
+    ],
+    "name:por_x_preferred":[
+        "Corroios"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0440\u043e\u0439\u044e\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Corroios"
+    ],
+    "name:swa_x_preferred":[
+        "Corroios"
+    ],
+    "name:tur_x_preferred":[
+        "Corroios"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Corroios",
+    "qs:loc_alt":"Corroios",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":495,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0272f78c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2269041,
+        "gp:id":739823,
+        "qs:id":318777,
+        "qs_pg:id":318777,
+        "wd:id":"Q1135381",
+        "wk:page":"Corroios"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d2e6e8613e643b7eeaa4f114f4cdf8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832919,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832919,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642789,
+    "wof:name":"Corroios",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":52520,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15822937074347,
+    38.63150777173337,
+    -9.14601991462496,
+    38.64928764029213
+],
+  "geometry": {"coordinates":[[[-9.14720433266308,38.64226176888781],[-9.14898010094714,38.64190227334586],[-9.14872259372487,38.64102763908113],[-9.14983904557266,38.64080159831138],[-9.14906654086121,38.63817769376988],[-9.14795012894302,38.63840372417195],[-9.14743519982068,38.63665443746993],[-9.14631880801983,38.63688044804218],[-9.14606137098565,38.63600579820729],[-9.14601991462496,38.63601419038116],[-9.14967336401315,38.63150777173337],[-9.15822937074347,38.64742864692789],[-9.15814638401912,38.64753517880439],[-9.1521459742728,38.64928764029213],[-9.14720433266308,38.64226176888781]]],"type":"Polygon"}
+}

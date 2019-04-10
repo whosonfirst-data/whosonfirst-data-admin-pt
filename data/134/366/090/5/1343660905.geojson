@@ -1,0 +1,67 @@
+{
+  "id": 1343660905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03603,41.32601,-7.03603,41.32601",
+    "geom:latitude":41.32601,
+    "geom:longitude":-7.03603,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"40104.0",
+    "gn:asciiname":"Santa Justa",
+    "gn:country_code":"PT",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734705,
+    "gn:latitude":41.32601,
+    "gn:longitude":-7.03603,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santa Justa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734705
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"066469d8b0343f0e5551475257e1d1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343660905,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1343660905,
+    "wof:lastmodified":1536954511,
+    "wof:name":"Santa Justa",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03603,
+    41.32601,
+    -7.03603,
+    41.32601
+],
+  "geometry": {"coordinates":[-7.03603,41.32601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259992419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49798,40.43774,-8.49798,40.43774",
+    "geom:latitude":40.43774,
+    "geom:longitude":-8.49798,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"10310.0",
+    "gn:asciiname":"Sao Lourenco",
+    "gn:country_code":"PT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734459,
+    "gn:latitude":40.43774,
+    "gn:longitude":-8.49798,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00e3o Louren\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Louren\u00e7o do Bairro",
+        "S\u00e3o Louren\u00e7o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734459
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6a8f82425932a2bf37f4a11306bb3c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259992419,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1259992419,
+    "wof:lastmodified":1537683161,
+    "wof:name":"Sao Lourenco",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49798,
+    40.43774000000001,
+    -8.49798,
+    40.43774000000001
+],
+  "geometry": {"coordinates":[-8.49798,40.43774000000001],"type":"Point"}
+}

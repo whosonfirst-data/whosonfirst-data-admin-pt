@@ -1,0 +1,80 @@
+{
+  "id": 1126058585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.657398,41.0864025,-8.657398,41.0864025",
+    "geom:latitude":41.086402,
+    "geom:longitude":-8.657398,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.086402,
+    "lbl:longitude":-8.657398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Marinha",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1071242,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29381449,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381449,
+        "qs_pg:id":1071242
+    },
+    "wof:country":"PT",
+    "wof:created":1497303667,
+    "wof:geomhash":"d78ff233d1f7e7ee9faefbc7229f4c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126058585,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1126058585,
+    "wof:lastmodified":1509409786,
+    "wof:name":"Marinha",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.657398,
+    41.0864025,
+    -8.657398,
+    41.0864025
+],
+  "geometry": {"coordinates":[-8.657398,41.0864025],"type":"Point"}
+}

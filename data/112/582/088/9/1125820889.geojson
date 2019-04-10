@@ -1,0 +1,82 @@
+{
+  "id": 1125820889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96943,40.83309,-7.96943,40.83309",
+    "geom:latitude":40.83309,
+    "geom:longitude":-7.96943,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.83309,
+    "lbl:longitude":-7.96943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739677,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fermontelos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Viseu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":885077,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":740953,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Viseu",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739677,
+        "gp:id":740953,
+        "qs_pg:id":885077
+    },
+    "wof:country":"PT",
+    "wof:created":1497292059,
+    "wof:geomhash":"a663dfd13bd2f8bd72f9d322036540df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125820889,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1125820889,
+    "wof:lastmodified":1509394095,
+    "wof:name":"Fermontelos",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96943,
+    40.83309,
+    -7.96943,
+    40.83309
+],
+  "geometry": {"coordinates":[-7.96943,40.83309],"type":"Point"}
+}

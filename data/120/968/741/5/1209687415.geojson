@@ -1,0 +1,63 @@
+{
+  "id": 1209687415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48994,41.13865,-8.48994,41.13865",
+    "geom:latitude":41.13865,
+    "geom:longitude":-8.48994,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1304",
+    "gn:admin3_code":"130410.0",
+    "gn:asciiname":"Pedrogo",
+    "gn:country_code":"PT",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736529,
+    "gn:latitude":41.13865,
+    "gn:longitude":-8.48994,
+    "gn:modification_date":"2018-01-24",
+    "gn:name":"Pedrogo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736529
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d3ba1a6c65efa3e6af454aa6c90e6195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209687415
+        }
+    ],
+    "wof:id":1209687415,
+    "wof:lastmodified":1536279363,
+    "wof:name":"Pedrogo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.489939999999999,
+    41.13865,
+    -8.489939999999999,
+    41.13865
+],
+  "geometry": {"coordinates":[-8.48994,41.13865],"type":"Point"}
+}

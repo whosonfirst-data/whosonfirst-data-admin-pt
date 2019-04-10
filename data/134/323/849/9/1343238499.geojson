@@ -1,0 +1,67 @@
+{
+  "id": 1343238499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58174,40.01351,-8.58174,40.01351",
+    "geom:latitude":40.01351,
+    "geom:longitude":-8.58174,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1015",
+    "gn:admin3_code":"101510.0",
+    "gn:asciiname":"Galiana",
+    "gn:country_code":"PT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739115,
+    "gn:latitude":40.01351,
+    "gn:longitude":-8.58174,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Galiana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739115
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e74b950502b8081fbe5c3f748f206e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343238499,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1343238499,
+    "wof:lastmodified":1537063905,
+    "wof:name":"Galiana",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58174,
+    40.01351,
+    -8.58174,
+    40.01351
+],
+  "geometry": {"coordinates":[-8.58174,40.01351],"type":"Point"}
+}

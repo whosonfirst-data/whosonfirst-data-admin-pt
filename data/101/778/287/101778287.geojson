@@ -1,0 +1,120 @@
+{
+  "id": 101778287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":819379.665796,
+    "geom:bbox":"-8.29418105089,38.9799504092,-8.27981477386,38.9911231184",
+    "geom:latitude":38.985411,
+    "geom:longitude":-8.285879,
+    "iso:country":"PT",
+    "lbl:latitude":38.985879,
+    "lbl:longitude":-8.284791,
+    "mps:latitude":38.985879,
+    "mps:longitude":-8.284791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:dut_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:eng_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:fre_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:ger_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:msa_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:por_x_colloquial":[
+        "Couco"
+    ],
+    "name:por_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Cou\u00e7o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Cou\u00e7o",
+    "qs:la_lc":"*PT11409026",
+    "qs:level":"locality",
+    "qs:loc":"Cou\u00e7o",
+    "qs:loc_alt":"Couco",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":38.983333,
+    "wd:longitude":-8.283333,
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02681114-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268902,
+        "gp:id":739999,
+        "qs:id":360230,
+        "qs_pg:id":360230,
+        "wd:id":"Q1137951",
+        "wk:page":"Cou\u00e7o"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"57acb5264f563af7412beacc34645176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778287,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778287,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653242,
+    "wof:name":"Cou\u00e7o",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29418105088621,
+    38.97995040923968,
+    -8.27981477386174,
+    38.99112311840412
+],
+  "geometry": {"coordinates":[[[-8.28467720107028,38.99112311840412],[-8.28442889195463,38.99024609276194],[-8.28330459293716,38.99046219511058],[-8.28305630672673,38.98958516420987],[-8.28193201505673,38.98980125016789],[-8.2816837517509,38.98892421400899],[-8.28055946742882,38.98914028357694],[-8.27981477386174,38.98650915358166],[-8.28093901711748,38.98629309404021],[-8.28044257342714,38.98453900448391],[-8.28156678296824,38.98432293857957],[-8.28107034875302,38.98256884804488],[-8.28219452458222,38.98235277577794],[-8.28169809984308,38.98059868426446],[-8.28507050718531,38.97995040923968],[-8.28581528127387,38.98258151355725],[-8.2880636032412,38.98214924492476],[-8.28831190706705,38.98302626917962],[-8.29168438350939,38.98237775835906],[-8.29143603863224,38.98150074413377],[-8.29368429718312,38.9810683450462],[-8.29418105088621,38.98282235820528],[-8.29305689741636,38.98303857095908],[-8.29330527441084,38.98391557800727],[-8.29218110091381,38.98413178105949],[-8.29242947344159,38.98500878953462],[-8.29130527991674,38.98522498288474],[-8.29155364797725,38.98610199278716],[-8.2881809882864,38.9867505045907],[-8.28867766994216,38.9885045387083],[-8.28755340998458,38.98872068990318],[-8.28805010113359,38.99047472304323],[-8.28467720107028,38.99112311840412]]],"type":"Polygon"}
+}

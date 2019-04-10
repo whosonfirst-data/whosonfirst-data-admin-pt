@@ -1,0 +1,67 @@
+{
+  "id": 1243258541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29215,37.15648,-8.29215,37.15648",
+    "geom:latitude":37.15648,
+    "geom:longitude":-8.29215,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0813",
+    "gn:admin3_code":"81302.0",
+    "gn:asciiname":"Taipas",
+    "gn:country_code":"PT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262785,
+    "gn:latitude":37.15648,
+    "gn:longitude":-8.29215,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Taipas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262785
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a72cb831f53468a328cf879c5999fedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243258541,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1243258541,
+    "wof:lastmodified":1537073324,
+    "wof:name":"Taipas",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29215,
+    37.15648,
+    -8.29215,
+    37.15648
+],
+  "geometry": {"coordinates":[-8.29215,37.15648],"type":"Point"}
+}

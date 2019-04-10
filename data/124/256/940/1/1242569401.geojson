@@ -1,0 +1,67 @@
+{
+  "id": 1242569401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14923,40.14092,-8.14923,40.14092",
+    "geom:latitude":40.14092,
+    "geom:longitude":-8.14923,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60604.0",
+    "gn:asciiname":"Ponte de Sotao",
+    "gn:country_code":"PT",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736046,
+    "gn:latitude":40.14092,
+    "gn:longitude":-8.14923,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte de Sot\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736046
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e31c2f9fd41d114c400e3ba428b41d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242569401,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1242569401,
+    "wof:lastmodified":1537072390,
+    "wof:name":"Ponte de Sotao",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14923,
+    40.14092,
+    -8.14923,
+    40.14092
+],
+  "geometry": {"coordinates":[-8.14923,40.14092],"type":"Point"}
+}

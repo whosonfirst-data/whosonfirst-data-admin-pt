@@ -1,0 +1,67 @@
+{
+  "id": 1310361919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00597,40.72255,-8.00597,40.72255",
+    "geom:latitude":40.72255,
+    "geom:longitude":-8.00597,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182304.0",
+    "gn:asciiname":"Sao Miguel do Mato",
+    "gn:country_code":"PT",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734394,
+    "gn:latitude":40.72255,
+    "gn:longitude":-8.00597,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Miguel do Mato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734394
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"25db6cf35e25742c2b7ffa14872a5cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310361919,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1310361919,
+    "wof:lastmodified":1536624818,
+    "wof:name":"Sao Miguel do Mato",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00597,
+    40.72255,
+    -8.00597,
+    40.72255
+],
+  "geometry": {"coordinates":[-8.00597,40.72255],"type":"Point"}
+}

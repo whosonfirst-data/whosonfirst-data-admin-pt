@@ -1,0 +1,67 @@
+{
+  "id": 1276448717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13732,41.41753,-8.13732,41.41753",
+    "geom:latitude":41.41753,
+    "geom:longitude":-8.13732,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0307",
+    "gn:admin3_code":"30722.0",
+    "gn:asciiname":"Casadela",
+    "gn:country_code":"PT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741249,
+    "gn:latitude":41.41753,
+    "gn:longitude":-8.13732,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casadela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741249
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b0a3eae19661c3917b9bd04a588710db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276448717,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1276448717,
+    "wof:lastmodified":1536621928,
+    "wof:name":"Casadela",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13732,
+    41.41753,
+    -8.13732,
+    41.41753
+],
+  "geometry": {"coordinates":[-8.13732,41.41753],"type":"Point"}
+}

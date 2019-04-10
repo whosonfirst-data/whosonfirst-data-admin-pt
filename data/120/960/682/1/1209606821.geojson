@@ -1,0 +1,63 @@
+{
+  "id": 1209606821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49346,40.2461,-8.49346,40.2461",
+    "geom:latitude":40.2461,
+    "geom:longitude":-8.49346,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60305.0",
+    "gn:asciiname":"Sao Facundo",
+    "gn:country_code":"PT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734526,
+    "gn:latitude":40.2461,
+    "gn:longitude":-8.49346,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Facundo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734526
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"85bc2b2b47efb417763f015bf84939cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209606821
+        }
+    ],
+    "wof:id":1209606821,
+    "wof:lastmodified":1536281984,
+    "wof:name":"Sao Facundo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49346,
+    40.2461,
+    -8.49346,
+    40.2461
+],
+  "geometry": {"coordinates":[-8.49346,40.2461],"type":"Point"}
+}

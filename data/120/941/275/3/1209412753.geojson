@@ -1,0 +1,63 @@
+{
+  "id": 1209412753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68783,39.85028,-7.68783,39.85028",
+    "geom:latitude":39.85028,
+    "geom:longitude":-7.68783,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"50223.0",
+    "gn:asciiname":"Sarzedas",
+    "gn:country_code":"PT",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263152,
+    "gn:latitude":39.85028,
+    "gn:longitude":-7.68783,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sarzedas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263152
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3d60a95812a963da78e147ae3e148adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209412753
+        }
+    ],
+    "wof:id":1209412753,
+    "wof:lastmodified":1536287785,
+    "wof:name":"Sarzedas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68783,
+    39.85028,
+    -7.68783,
+    39.85028
+],
+  "geometry": {"coordinates":[-7.68783,39.85028],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1125823839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57204,41.56268,-8.57204,41.56268",
+    "geom:latitude":41.56268,
+    "geom:longitude":-8.57204,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5404,
+    "gn:population":5404,
+    "iso:country":"PT",
+    "lbl:latitude":41.56268,
+    "lbl:longitude":-8.57204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Maria"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739118,
+    "qs_pg:gn_pop":5404,
+    "qs_pg:name":"Galegos-Santa Maria",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":510782,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":25953339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739118,
+        "gp:id":25953339,
+        "qs_pg:id":510782
+    },
+    "wof:country":"PT",
+    "wof:created":1497292186,
+    "wof:geomhash":"1f1335523dd74becbad500c7dd418d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125823839,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125823839,
+    "wof:lastmodified":1509394279,
+    "wof:name":"Galegos-Santa Maria",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":5404,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57204,
+    41.56268,
+    -8.57204,
+    41.56268
+],
+  "geometry": {"coordinates":[-8.57204,41.56268],"type":"Point"}
+}

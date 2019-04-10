@@ -1,0 +1,105 @@
+{
+  "id": 101849943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.819542,37.826573,-25.819542,37.826573",
+    "geom:latitude":37.826573,
+    "geom:longitude":-25.819542,
+    "iso:country":"PT",
+    "lbl:latitude":37.826573,
+    "lbl:longitude":-25.819542,
+    "mps:latitude":37.826573,
+    "mps:longitude":-25.819542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "name:eng_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "name:ger_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "name:may_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "name:por_x_colloquial":[
+        "Candelaria"
+    ],
+    "name:por_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0435\u043b\u0430\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Candel\u00e1ria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Candel\u00e1ria",
+    "qs:loc_alt":"Candelaria",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264f56a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":8013509,
+        "gp:id":537956,
+        "qs:id":231983,
+        "qs_pg:id":983551,
+        "wd:id":"Q1997726"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1cedeb9db1bef831f8ed09e7c5d4d3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849943,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849943,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815543,
+    "wof:name":"Candel\u00e1ria",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.819542,
+    37.826573,
+    -25.819542,
+    37.826573
+],
+  "geometry": {"coordinates":[-25.819542,37.826573],"type":"Point"}
+}

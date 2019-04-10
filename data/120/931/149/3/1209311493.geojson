@@ -1,0 +1,63 @@
+{
+  "id": 1209311493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51067,40.32817,-8.51067,40.32817",
+    "geom:latitude":40.32817,
+    "geom:longitude":-8.51067,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0602",
+    "gn:admin3_code":"60208.0",
+    "gn:asciiname":"Porto de Carros",
+    "gn:country_code":"PT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735921,
+    "gn:latitude":40.32817,
+    "gn:longitude":-8.51067,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Porto de Carros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735921
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bb83faa03c889cf6e500b2383f92c2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209311493
+        }
+    ],
+    "wof:id":1209311493,
+    "wof:lastmodified":1536291013,
+    "wof:name":"Porto de Carros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51067,
+    40.32817,
+    -8.51067,
+    40.32817
+],
+  "geometry": {"coordinates":[-8.51067,40.32817],"type":"Point"}
+}

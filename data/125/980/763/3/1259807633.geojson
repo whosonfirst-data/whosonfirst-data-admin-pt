@@ -1,0 +1,67 @@
+{
+  "id": 1259807633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35377,41.49601,-8.35377,41.49601",
+    "geom:latitude":41.49601,
+    "geom:longitude":-8.35377,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30858.0",
+    "gn:asciiname":"Gaias",
+    "gn:country_code":"PT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739139,
+    "gn:latitude":41.49601,
+    "gn:longitude":-8.35377,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gaias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739139
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ca2ea285d553a8cbca9f027bb8726fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259807633,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259807633,
+    "wof:lastmodified":1536888046,
+    "wof:name":"Gaias",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35377,
+    41.49601,
+    -8.35377,
+    41.49601
+],
+  "geometry": {"coordinates":[-8.35377,41.49601],"type":"Point"}
+}

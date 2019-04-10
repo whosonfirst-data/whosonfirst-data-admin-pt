@@ -1,0 +1,67 @@
+{
+  "id": 1310018753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14979,40.92629,-8.14979,40.92629",
+    "geom:latitude":40.92629,
+    "geom:longitude":-8.14979,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10412.0",
+    "gn:asciiname":"Janarde",
+    "gn:country_code":"PT",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738673,
+    "gn:latitude":40.92629,
+    "gn:longitude":-8.14979,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Janarde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738673
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40d55dd458696170d56a3b96252cbdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310018753,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310018753,
+    "wof:lastmodified":1536622104,
+    "wof:name":"Janarde",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14979,
+    40.92629,
+    -8.14979,
+    40.92629
+],
+  "geometry": {"coordinates":[-8.14979,40.92629],"type":"Point"}
+}

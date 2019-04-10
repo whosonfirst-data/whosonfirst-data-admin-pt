@@ -1,0 +1,71 @@
+{
+  "id": 1310129987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31743,41.4865,-8.31743,41.4865",
+    "geom:latitude":41.4865,
+    "geom:longitude":-8.31743,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30842.0",
+    "gn:asciiname":"Prazins",
+    "gn:country_code":"PT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735725,
+    "gn:latitude":41.4865,
+    "gn:longitude":-8.31743,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Prazins",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Eufemia",
+        "Prazins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735725
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"faedf085bce874791016e7eb31bda72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310129987,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310129987,
+    "wof:lastmodified":1537683164,
+    "wof:name":"Prazins",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31743,
+    41.4865,
+    -8.31743,
+    41.4865
+],
+  "geometry": {"coordinates":[-8.31743,41.4865],"type":"Point"}
+}

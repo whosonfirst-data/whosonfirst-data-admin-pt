@@ -1,0 +1,67 @@
+{
+  "id": 1343236453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83233,41.81388,-8.83233,41.81388",
+    "geom:latitude":41.81388,
+    "geom:longitude":-8.83233,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"160220.0",
+    "gn:asciiname":"Sarrape",
+    "gn:country_code":"PT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734256,
+    "gn:latitude":41.81388,
+    "gn:longitude":-8.83233,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sarrape",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734256
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"621301b32040200e6ec788fa53ebfc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343236453,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1343236453,
+    "wof:lastmodified":1537066770,
+    "wof:name":"Sarrape",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83233,
+    41.81388,
+    -8.83233,
+    41.81388
+],
+  "geometry": {"coordinates":[-8.83233,41.81388],"type":"Point"}
+}

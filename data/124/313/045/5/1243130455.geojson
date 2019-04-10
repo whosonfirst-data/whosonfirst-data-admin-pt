@@ -1,0 +1,71 @@
+{
+  "id": 1243130455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-31.15388,39.48076,-31.15388,39.48076",
+    "geom:latitude":39.48076,
+    "geom:longitude":-31.15388,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4802",
+    "gn:admin3_code":"480202.0",
+    "gn:asciiname":"Cedros",
+    "gn:country_code":"PT",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781341,
+    "gn:latitude":39.48076,
+    "gn:longitude":-31.15388,
+    "gn:modification_date":"2018-05-21",
+    "gn:name":"Cedros",
+    "gn:population":128,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781341,
+        "wk:page":"Cedros_%28Santa_Cruz_das_Flores%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ce60fc6754bff0335464f5681a08591b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243130455,
+            "region_id":85687465
+        }
+    ],
+    "wof:id":1243130455,
+    "wof:lastmodified":1537571952,
+    "wof:name":"Cedros",
+    "wof:parent_id":85687465,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -31.15388,
+    39.48076,
+    -31.15388,
+    39.48076
+],
+  "geometry": {"coordinates":[-31.15388,39.48076],"type":"Point"}
+}

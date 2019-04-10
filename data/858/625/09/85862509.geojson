@@ -1,0 +1,101 @@
+{
+  "id": 85862509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":816001.104929,
+    "geom:bbox":"-9.17083740234,38.7540832115,-9.16259765625,38.7669334839",
+    "geom:latitude":38.760579,
+    "geom:longitude":-9.166019,
+    "iso:country":"PT",
+    "lbl:latitude":38.762109,
+    "lbl:longitude":-9.168181,
+    "mps:latitude":38.761214,
+    "mps:longitude":-9.166098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Telheiras"
+    ],
+    "name:unk_x_variant":[
+        "Telheiras"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:id":0,
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Telheiras",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":77,
+    "qs:photo_sum":214,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105204
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a5501520085d6b94c97b3da6318e5c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862509,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862509,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Telheiras",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17083740233986,
+    38.75408321152516,
+    -9.16259765624989,
+    38.76693348390006
+],
+  "geometry": {"coordinates":[[[-9.16698677077736,38.76693348390006],[-9.16370170808349,38.76693347821971],[-9.16259765624989,38.7669334783851],[-9.16259765624989,38.76265033830009],[-9.16259765624989,38.76050866910006],[-9.16259765624989,38.7598006623209],[-9.16259765624989,38.75836693560009],[-9.16259765624989,38.75729600457517],[-9.16259765624989,38.75408327580006],[-9.16370185767477,38.75408326990593],[-9.16370189790888,38.75408321152516],[-9.16698660370974,38.75408321152516],[-9.16698662020733,38.75408327469481],[-9.16809082030994,38.75408327580006],[-9.16809082030986,38.75836692622323],[-9.17083740233977,38.75836692947645],[-9.17083740233986,38.76050866106267],[-9.17083740233986,38.76265033830009],[-9.17083740233977,38.76289216925633],[-9.16809082030977,38.76406632183229],[-9.16809082030994,38.76551742574142],[-9.16809082030994,38.76693348390006],[-9.16698677077736,38.76693348390006]]],"type":"Polygon"}
+}

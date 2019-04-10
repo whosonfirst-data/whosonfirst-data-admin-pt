@@ -1,0 +1,69 @@
+{
+  "id": 101832899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:bbox":"-9.11516362527,38.6335278251,-9.10059847926,38.6398073735",
+    "geom:latitude":38.637016,
+    "geom:longitude":-9.103778,
+    "iso:country":"PT",
+    "lbl:latitude":38.636745,
+    "lbl:longitude":-9.103485,
+    "mps:latitude":38.636745,
+    "mps:longitude":-9.103485,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Murtinheira",
+    "qs:loc_alt":"Murtinheira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381444,
+        "qs:id":7
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1d1d762cdb359e3dca8f8bf7ed720ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832899,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832899,
+    "wof:lastmodified":1477508565,
+    "wof:name":"Murtinheira",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11516362526987,
+    38.63352782507093,
+    -9.10059847926311,
+    38.63980737347555
+],
+  "geometry": {"coordinates":[[[[-9.10195505071755,38.63466713192599],[-9.1051182631212,38.63352782507093],[-9.10630201146773,38.63755892594128],[-9.10518549889139,38.63778445669482],[-9.10568924683855,38.63949966485768],[-9.10059847926311,38.63980737347555],[-9.10195505071755,38.63466713192599]]],[[[-9.11405554860738,38.63576912309259],[-9.11516362526987,38.63762180228468],[-9.11463144991706,38.63772936120165],[-9.11405554860738,38.63576912309259]]]],"type":"MultiPolygon"}
+}

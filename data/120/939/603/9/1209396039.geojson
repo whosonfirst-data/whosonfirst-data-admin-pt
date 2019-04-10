@@ -1,0 +1,63 @@
+{
+  "id": 1209396039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25545,40.32145,-7.25545,40.32145",
+    "geom:latitude":40.32145,
+    "geom:longitude":-7.25545,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0911",
+    "gn:admin3_code":"91133.0",
+    "gn:asciiname":"Aguas Radium",
+    "gn:country_code":"PT",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743305,
+    "gn:latitude":40.32145,
+    "gn:longitude":-7.25545,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"\u00c1guas Radium",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743305
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"874e361b0a4e0954c160fca26fe8a3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209396039
+        }
+    ],
+    "wof:id":1209396039,
+    "wof:lastmodified":1536288298,
+    "wof:name":"Aguas Radium",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25545,
+    40.32145,
+    -7.25545,
+    40.32145
+],
+  "geometry": {"coordinates":[-7.25545,40.32145],"type":"Point"}
+}

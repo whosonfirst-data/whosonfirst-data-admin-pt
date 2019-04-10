@@ -1,0 +1,64 @@
+{
+  "id": 1108942507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15144269028,38.7302762754,-9.15144269028,38.7302762754",
+    "geom:latitude":38.730276,
+    "geom:longitude":-9.151443,
+    "iso:country":"PT",
+    "lbl:latitude":38.730276,
+    "lbl:longitude":-9.151443,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:pol_x_preferred":[
+        "S\u00e3o Sebasti\u00e3o da Pedreira"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363138,
+    "wof:geomhash":"dbf28b2f66fa069f2a32be457812c7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942507,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942507,
+    "wof:lastmodified":1497292363,
+    "wof:name":"Sao Sebastiao da Pedreira",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15144269028038,
+    38.73027627544717,
+    -9.15144269028038,
+    38.73027627544717
+],
+  "geometry": {"coordinates":[-9.15144269028038,38.73027627544717],"type":"Point"}
+}

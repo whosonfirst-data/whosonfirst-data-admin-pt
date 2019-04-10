@@ -1,0 +1,82 @@
+{
+  "id": 101759113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":327257.013176,
+    "geom:bbox":"-9.12620154814,38.8665634746,-9.11782399502,38.8731361311",
+    "geom:latitude":38.869929,
+    "geom:longitude":-9.122246,
+    "iso:country":"PT",
+    "lbl:latitude":38.869706,
+    "lbl:longitude":-9.122246,
+    "mps:latitude":38.869706,
+    "mps:longitude":-9.122246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Zambujal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Zambujal",
+    "qs:loc_alt":"Zambujal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f645a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2261505,
+        "gp:id":751162,
+        "qs:id":188402,
+        "qs_pg:id":1060561
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a715656d5b1e4306c89326167a617123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759113,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759113,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1507750665,
+    "wof:name":"Zambujal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12620154813965,
+    38.8665634745588,
+    -9.11782399502249,
+    38.87313613105323
+],
+  "geometry": {"coordinates":[[[-9.11782399502249,38.87059763687535],[-9.12003020832663,38.86737317127699],[-9.12404632690544,38.8665634745588],[-9.12482258445789,38.86918673341961],[-9.12594276306368,38.86896085421961],[-9.12620154813965,38.86983526634577],[-9.12508135609272,38.8700611490205],[-9.1258577283557,38.87268438376424],[-9.12361724389757,38.87313613105323],[-9.12335847046893,38.87226171453273],[-9.1211179866167,38.8727134029948],[-9.12085924963412,38.87183897751663],[-9.11973901129755,38.87206479881911],[-9.11948029731656,38.87119036785788],[-9.11836006585497,38.87141617271749],[-9.11810137487464,38.87054173627371],[-9.11782399502249,38.87059763687535]]],"type":"Polygon"}
+}

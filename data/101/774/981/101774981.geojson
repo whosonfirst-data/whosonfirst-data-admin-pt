@@ -1,0 +1,126 @@
+{
+  "id": 101774981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":589230.519404,
+    "geom:bbox":"-7.16694736862,41.305154362,-7.14653439187,41.3113610357",
+    "geom:latitude":41.308815,
+    "geom:longitude":-7.155722,
+    "iso:country":"PT",
+    "lbl:latitude":41.308734,
+    "lbl:longitude":-7.152474,
+    "mps:latitude":41.308734,
+    "mps:longitude":-7.152474,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u09ab\u09cd\u09b2\u09cb\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:chi_x_preferred":[
+        "\u8d39\u6d1b\u5c14\u9547"
+    ],
+    "name:dut_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:eng_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:fin_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:fre_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:ita_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:nan_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:pol_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:por_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u0424\u043b\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:tur_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0430-\u0424\u043b\u043e\u0440"
+    ],
+    "name:vol_x_preferred":[
+        "Vila Flor"
+    ],
+    "name:war_x_preferred":[
+        "Vila Flor"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Bragan\u00e7a",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Flor",
+    "qs:la_lc":"*PT10410179",
+    "qs:level":"locality",
+    "qs:loc":"Vila Flor",
+    "qs:loc_alt":"Vila Flor",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":750683,
+        "qs:id":6,
+        "wd:id":"Q552556"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f27bb1037842e6d5d3a3c1e5978707db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101774981,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":101774981,
+    "wof:lastmodified":1514498180,
+    "wof:name":"Vila Flor",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16694736862001,
+    41.30515436203683,
+    -7.14653439187322,
+    41.31136103568087
+],
+  "geometry": {"coordinates":[[[-7.1585286872662,41.31136103568087],[-7.15828031131923,41.31048320826847],[-7.15711312998019,41.31068725075221],[-7.1568647789681,41.30980941825339],[-7.14869442865461,41.3112373099811],[-7.14794975550143,41.30860373150529],[-7.14678258174985,41.30880765135947],[-7.14653439187322,41.3079297850644],[-7.1477015502723,41.30772586857341],[-7.14745335461987,41.30684800392208],[-7.14978762053954,41.30644013672924],[-7.14953940376176,41.3055622770849],[-7.15187361207967,41.30515436203683],[-7.15237011661293,41.30691006614944],[-7.15353724138242,41.30670608142873],[-7.15378552336762,41.30758392754012],[-7.15728690336255,41.30697188141062],[-7.15753524097835,41.30784971570654],[-7.16103660646434,41.30723753667178],[-7.16128499971057,41.30811535914955],[-7.16361924041621,41.30770716483443],[-7.16386767394488,41.30858497885822],[-7.16503479954974,41.3083808578661],[-7.16528325801306,41.30925866680167],[-7.16645039223476,41.30905452879739],[-7.16694736862001,41.3108101347691],[-7.16578020369934,41.31101427950773],[-7.16553172606257,41.31013647401545],[-7.1585286872662,41.31136103568087]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310080823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86904,37.96063,-8.86904,37.96063",
+    "geom:latitude":37.96063,
+    "geom:longitude":-8.86904,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1513",
+    "gn:admin3_code":"151301.0",
+    "gn:asciiname":"Rua Jose Pacheco",
+    "gn:country_code":"PT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8593838,
+    "gn:latitude":37.96063,
+    "gn:longitude":-8.86904,
+    "gn:modification_date":"2013-08-03",
+    "gn:name":"Rua Jos\u00e9 Pacheco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8593838
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"34da392cd368b3c393fbdec1d522d76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310080823,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1310080823,
+    "wof:lastmodified":1537030840,
+    "wof:name":"Rua Jose Pacheco",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86904,
+    37.96063,
+    -8.86904,
+    37.96063
+],
+  "geometry": {"coordinates":[-8.86904,37.96063],"type":"Point"}
+}

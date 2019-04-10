@@ -1,0 +1,67 @@
+{
+  "id": 1192994615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75,41.36667,-8.75,41.36667",
+    "geom:latitude":41.36667,
+    "geom:longitude":-8.75,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1316",
+    "gn:admin3_code":"131628.0",
+    "gn:asciiname":"Povoacao",
+    "gn:country_code":"PT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735833,
+    "gn:latitude":41.36667,
+    "gn:longitude":-8.75,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Povoa\u00e7\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735833
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63c955940162aa38f9d0215809ad075d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1192994615,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1192994615,
+    "wof:lastmodified":1536377198,
+    "wof:name":"Povoacao",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75,
+    41.36667,
+    -8.75,
+    41.36667
+],
+  "geometry": {"coordinates":[-8.75,41.36667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125943057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.030353,32.705627,-17.030353,32.705627",
+    "geom:latitude":32.705627,
+    "geom:longitude":-17.030353,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":32.705627,
+    "lbl:longitude":-17.030353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Espig\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1334757,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868044,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55868044,
+        "qs_pg:id":1334757
+    },
+    "wof:country":"PT",
+    "wof:created":1497297182,
+    "wof:geomhash":"359dd309ef35fe4f5e257626e2e2e17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125943057,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125943057,
+    "wof:lastmodified":1509402187,
+    "wof:name":"Espig\u00e3o",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.030353,
+    32.705627,
+    -17.030353,
+    32.705627
+],
+  "geometry": {"coordinates":[-17.030353,32.705627],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260042407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50494,38.4871,-8.50494,38.4871",
+    "geom:latitude":38.4871,
+    "geom:longitude":-8.50494,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1501",
+    "gn:admin3_code":"150105.0",
+    "gn:asciiname":"Serra dos Clerigos",
+    "gn:country_code":"PT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263012,
+    "gn:latitude":38.4871,
+    "gn:longitude":-8.50494,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Serra dos Cl\u00e9rigos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263012
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"df4fe447eff355285d217cdcfe6ff527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260042407,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1260042407,
+    "wof:lastmodified":1537045456,
+    "wof:name":"Serra dos Clerigos",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50494,
+    38.4871,
+    -8.50494,
+    38.4871
+],
+  "geometry": {"coordinates":[-8.50494,38.4871],"type":"Point"}
+}

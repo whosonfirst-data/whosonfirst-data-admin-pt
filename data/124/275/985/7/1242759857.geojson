@@ -1,0 +1,67 @@
+{
+  "id": 1242759857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59506,39.22679,-7.59506,39.22679",
+    "geom:latitude":39.22679,
+    "geom:longitude":-7.59506,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1206",
+    "gn:admin3_code":"120602.0",
+    "gn:asciiname":"Montes Novos",
+    "gn:country_code":"PT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265805,
+    "gn:latitude":39.22679,
+    "gn:longitude":-7.59506,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Montes Novos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265805
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1b18ad8a572f25d523dc26925a8d1e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242759857,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1242759857,
+    "wof:lastmodified":1536801205,
+    "wof:name":"Montes Novos",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59506,
+    39.22679,
+    -7.59506,
+    39.22679
+],
+  "geometry": {"coordinates":[-7.59506,39.22679],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209824353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61402,40.79822,-8.61402,40.79822",
+    "geom:latitude":40.79822,
+    "geom:longitude":-8.61402,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0108",
+    "gn:admin3_code":"10805.0",
+    "gn:asciiname":"Rua Nova",
+    "gn:country_code":"PT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734976,
+    "gn:latitude":40.79822,
+    "gn:longitude":-8.61402,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rua Nova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734976
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"325576459f7d49880ff1818df09e7889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209824353,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1209824353,
+    "wof:lastmodified":1536375305,
+    "wof:name":"Rua Nova",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61402,
+    40.79822,
+    -8.61402,
+    40.79822
+],
+  "geometry": {"coordinates":[-8.61402,40.79822],"type":"Point"}
+}

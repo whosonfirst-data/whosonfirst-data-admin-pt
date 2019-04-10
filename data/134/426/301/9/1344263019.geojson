@@ -1,0 +1,67 @@
+{
+  "id": 1344263019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04231,41.58801,-8.04231,41.58801",
+    "geom:latitude":41.58801,
+    "geom:longitude":-8.04231,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0304",
+    "gn:admin3_code":"30405.0",
+    "gn:asciiname":"Carrazedo",
+    "gn:country_code":"PT",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741425,
+    "gn:latitude":41.58801,
+    "gn:longitude":-8.04231,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carrazedo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741425
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bc1a6270f79b654c54b1482394f99ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344263019,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344263019,
+    "wof:lastmodified":1537077301,
+    "wof:name":"Carrazedo",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04231,
+    41.58801,
+    -8.04231,
+    41.58801
+],
+  "geometry": {"coordinates":[-8.04231,41.58801],"type":"Point"}
+}

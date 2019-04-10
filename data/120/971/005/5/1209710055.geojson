@@ -1,0 +1,67 @@
+{
+  "id": 1209710055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08104,37.1853,-8.08104,37.1853",
+    "geom:latitude":37.1853,
+    "geom:longitude":-8.08104,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80809.0",
+    "gn:asciiname":"Castelao",
+    "gn:country_code":"PT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269549,
+    "gn:latitude":37.1853,
+    "gn:longitude":-8.08104,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Castel\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269549
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8969e1b72b14defd2849ca691c91f1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209710055,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1209710055,
+    "wof:lastmodified":1536391098,
+    "wof:name":"Castelao",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08104,
+    37.1853,
+    -8.08104,
+    37.1853
+],
+  "geometry": {"coordinates":[-8.08104,37.1853],"type":"Point"}
+}

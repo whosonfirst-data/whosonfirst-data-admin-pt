@@ -1,0 +1,81 @@
+{
+  "id": 101912173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"-9.42673787625,39.0069445313,-9.41631225141,39.0199944162",
+    "geom:latitude":39.012393,
+    "geom:longitude":-9.420977,
+    "iso:country":"PT",
+    "lbl:latitude":39.015721,
+    "lbl:longitude":-9.420542,
+    "mps:latitude":39.015721,
+    "mps:longitude":-9.420542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Teresa Louren\u00e7o"
+    ],
+    "name:spa_x_preferred":[
+        "Teresa Gille Louren\u00e7o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"2",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Encarna\u00e7\u00e3o",
+    "qs:la_lc":"*PT11109049",
+    "qs:level":"locality",
+    "qs:loc":"S. Louren\u00e7o",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":237,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":748232,
+        "qs:id":1061426,
+        "qs_pg:id":1061426,
+        "wd:id":"Q4756354"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63b798a7a2b341fb7cc3aac8360efc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101912173,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101912173,
+    "wof:lastmodified":1527653267,
+    "wof:name":"S. Louren\u00e7o",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42673787624744,
+    39.00694453125772,
+    -9.41631225141316,
+    39.01999441621223
+],
+  "geometry": {"coordinates":[[[-9.41871716691662,39.01700420112229],[-9.41769769796724,39.01362871832913],[-9.41657594826552,39.01385808052873],[-9.41631225141316,39.01298484088653],[-9.41743398765874,39.01275548222509],[-9.41717028710082,39.01188224408281],[-9.4182920031817,39.01165287597945],[-9.41732948876006,39.00846533198239],[-9.42520663573856,39.00694453125772],[-9.42535246182069,39.00742729409882],[-9.42647408386517,39.0071978327797],[-9.42673787624744,39.0080710451914],[-9.42561624075176,39.00830051004971],[-9.4258800294358,39.00917372396174],[-9.42475837377793,39.00940317938068],[-9.42502215876254,39.01027639479247],[-9.420535415215,39.01119410083413],[-9.42132666724024,39.01381377730223],[-9.42244840355636,39.0135843596446],[-9.42350359662322,39.01707721890864],[-9.42238180648235,39.01730665072228],[-9.42317326333665,39.01992628438427],[-9.42284152593936,39.01999412237762],[-9.4228400890467,39.01999441621223],[-9.41871766993086,39.01700586661315],[-9.41871716691662,39.01700420112229]]],"type":"Polygon"}
+}

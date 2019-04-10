@@ -1,0 +1,63 @@
+{
+  "id": 1209383729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01072,40.63543,-8.01072,40.63543",
+    "geom:latitude":40.63543,
+    "geom:longitude":-8.01072,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182331.0",
+    "gn:asciiname":"Casal",
+    "gn:country_code":"PT",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741222,
+    "gn:latitude":40.63543,
+    "gn:longitude":-8.01072,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741222
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6e8f7865a506c37aeae942214e99a602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209383729
+        }
+    ],
+    "wof:id":1209383729,
+    "wof:lastmodified":1536288696,
+    "wof:name":"Casal",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01072,
+    40.63543,
+    -8.01072,
+    40.63543
+],
+  "geometry": {"coordinates":[-8.01072,40.63543],"type":"Point"}
+}

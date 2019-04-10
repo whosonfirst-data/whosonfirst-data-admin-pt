@@ -1,0 +1,134 @@
+{
+  "id": 101832809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:area_square_m":840161.433281,
+    "geom:bbox":"-9.24365994987,38.6627837074,-9.22579237584,38.6753393974",
+    "geom:latitude":38.670811,
+    "geom:longitude":-9.235321,
+    "gn:population":5603,
+    "iso:country":"PT",
+    "lbl:latitude":38.672064,
+    "lbl:longitude":-9.237862,
+    "mps:latitude":38.672064,
+    "mps:longitude":-9.237862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Trafaria"
+    ],
+    "name:dut_x_preferred":[
+        "Trafaria"
+    ],
+    "name:eng_x_preferred":[
+        "Trafaria"
+    ],
+    "name:fre_x_preferred":[
+        "Trafaria"
+    ],
+    "name:ger_x_preferred":[
+        "Trafaria"
+    ],
+    "name:ita_x_preferred":[
+        "Trafaria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30e9\u30d5\u30a1\u30ea\u30a2"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0430\u0444\u0430\u0440\u0438\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Trafaria"
+    ],
+    "name:msa_x_preferred":[
+        "Trafaria"
+    ],
+    "name:nld_x_preferred":[
+        "Trafaria"
+    ],
+    "name:pol_x_preferred":[
+        "Trafaria"
+    ],
+    "name:por_x_preferred":[
+        "Trafaria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0444\u0430\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Trafaria"
+    ],
+    "name:tur_x_preferred":[
+        "Trafaria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Costa da Caparica",
+    "qs:la_lc":"*PT11503030",
+    "qs:level":"locality",
+    "qs:loc":"Trafaria",
+    "qs:loc_alt":"Trafaria",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026bf61c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262544,
+        "gp:id":749526,
+        "qs:id":911449,
+        "qs_pg:id":911449,
+        "wd:id":"Q1767492",
+        "wk:page":"Trafaria"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2427acf4104ce8a1d72fd98279897f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832809,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832809,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642788,
+    "wof:name":"Trafaria",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":5603,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24365994986715,
+    38.66278370736421,
+    -9.22579237584353,
+    38.67533939743515
+],
+  "geometry": {"coordinates":[[[[-9.23205672512967,38.66675587689883],[-9.23283314240086,38.66937882924145],[-9.23394982912492,38.6691517918515],[-9.2342086672499,38.67002610177104],[-9.23867540199456,38.66911780912039],[-9.23841651064185,38.66824351309475],[-9.24064981216907,38.66778929619989],[-9.24032362684301,38.66668777899338],[-9.24316261424985,38.66827879774445],[-9.24365994986715,38.66995786792972],[-9.24254327553592,38.67018501909854],[-9.24280223540939,38.67105929861646],[-9.24168554123082,38.6712864403404],[-9.24220346297091,38.67303500024013],[-9.23997000176132,38.67348925882641],[-9.24022895031834,38.6743635426833],[-9.23687866952019,38.67504484408278],[-9.23661976089073,38.67417054980291],[-9.23550300085321,38.67439762095398],[-9.23524411506719,38.67352332117258],[-9.22630990584702,38.67533939743515],[-9.22579237584353,38.67359073622288],[-9.23025942626998,38.67268282924141],[-9.22948304300616,38.67005986389108],[-9.23059974934114,38.66983286526124],[-9.22982341191522,38.66720989208341],[-9.23205672512967,38.66675587689883]]],[[[-9.23335726633775,38.66278370736421],[-9.23578456763209,38.66414400993699],[-9.23488900222696,38.66432613302942],[-9.235406645929,38.66607475722651],[-9.23205672512967,38.66675587689883],[-9.23153916126137,38.66500723186613],[-9.23377239510785,38.66455317889404],[-9.23325481613216,38.66280453964055],[-9.23335726633775,38.66278370736421]]]],"type":"MultiPolygon"}
+}

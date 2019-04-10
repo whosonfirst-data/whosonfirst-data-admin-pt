@@ -1,0 +1,67 @@
+{
+  "id": 1225955737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23801,37.37522,-8.23801,37.37522",
+    "geom:latitude":37.37522,
+    "geom:longitude":-8.23801,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0202",
+    "gn:admin3_code":"20206.0",
+    "gn:asciiname":"Santa Suzana",
+    "gn:country_code":"PT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263470,
+    "gn:latitude":37.37522,
+    "gn:longitude":-8.23801,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santa Suzana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263470
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4e85cf915a3be0d8994640b97991bb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225955737,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1225955737,
+    "wof:lastmodified":1536853744,
+    "wof:name":"Santa Suzana",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23801,
+    37.37522,
+    -8.23801,
+    37.37522
+],
+  "geometry": {"coordinates":[-8.23801,37.37522],"type":"Point"}
+}

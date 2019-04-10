@@ -1,0 +1,105 @@
+{
+  "id": 101759413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000173,
+    "geom:bbox":"-8.55702963626,41.2259355017,-8.54122308523,41.2452777398",
+    "geom:latitude":41.235353,
+    "geom:longitude":-8.549696,
+    "iso:country":"PT",
+    "lbl:latitude":41.234825,
+    "lbl:longitude":-8.549157,
+    "mps:latitude":41.234825,
+    "mps:longitude":-8.549157,
+    "mz:hierarchy_label":1,
+    "name:deu_x_preferred":[
+        "Campo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Campo"
+    ],
+    "name:por_x_colloquial":[
+        "S Pedro Fins",
+        "S. Pedro Fins",
+        "Sao Pedro Fins",
+        "Sao Pedro de Fins"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Pedro Fins",
+        "Campo"
+    ],
+    "name:por_x_variant":[
+        "S\u00e3o Pedro de Fins"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Campo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u666e"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Pedro Fins",
+    "qs:loc_alt":"Sao Pedro Fins",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273527c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734350,
+        "gp:id":748368,
+        "qs:id":180502
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c10ff71668b2796483f0b97ef4357890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759413,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759413,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1467243801,
+    "wof:name":"S\u00e3o Pedro Fins",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55702963626356,
+    41.22593550173895,
+    -8.54122308523017,
+    41.24527773978093
+],
+  "geometry": {"coordinates":[[[-8.54642748743527,41.22825464244312],[-8.54750826350187,41.22907809087468],[-8.55420334470449,41.22593550173895],[-8.55440151899194,41.22594651142168],[-8.55516760161754,41.22844539318544],[-8.55651842422981,41.22818909425098],[-8.55645458078232,41.22912546481467],[-8.55427343428164,41.22953927910487],[-8.55454122481922,41.2304127302952],[-8.55337924005852,41.23063315683885],[-8.55418262835923,41.23325350998027],[-8.55660756988095,41.23279346674565],[-8.55702963626356,41.23363759951093],[-8.55445044500033,41.23412695727092],[-8.55659334794308,41.24111446798162],[-8.55310681113468,41.24177579650154],[-8.55337467528562,41.24264923773183],[-8.55221246694742,41.24286965711394],[-8.55274819610287,41.24461654116965],[-8.54926143792102,41.24527773978093],[-8.54872579868282,41.24353083404122],[-8.54756356151239,41.24375119927697],[-8.54622471810552,41.23938388401001],[-8.54548104143674,41.2395248620403],[-8.54354586850451,41.23672961224906],[-8.54122308523017,41.23413356035417],[-8.5416964985144,41.23192429836109],[-8.54497747431441,41.23130228361185],[-8.54417452376305,41.22868183207964],[-8.54642748743527,41.22825464244312]]],"type":"Polygon"}
+}

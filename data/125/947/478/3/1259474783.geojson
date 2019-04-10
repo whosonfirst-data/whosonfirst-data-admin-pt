@@ -1,0 +1,67 @@
+{
+  "id": 1259474783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70319,40.26806,-8.70319,40.26806",
+    "geom:latitude":40.26806,
+    "geom:longitude":-8.70319,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61002.0",
+    "gn:asciiname":"Resgatados",
+    "gn:country_code":"PT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735241,
+    "gn:latitude":40.26806,
+    "gn:longitude":-8.70319,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Resgatados",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735241
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"61afe16752f09d2bdef06fc1f325ce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259474783,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259474783,
+    "wof:lastmodified":1536870277,
+    "wof:name":"Resgatados",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70319,
+    40.26806,
+    -8.70319,
+    40.26806
+],
+  "geometry": {"coordinates":[-8.70319,40.26806],"type":"Point"}
+}

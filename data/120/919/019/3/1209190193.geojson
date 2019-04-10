@@ -1,0 +1,63 @@
+{
+  "id": 1209190193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45781,39.52333,-8.45781,39.52333",
+    "geom:latitude":39.52333,
+    "geom:longitude":-8.45781,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141809.0",
+    "gn:asciiname":"Bexiga",
+    "gn:country_code":"PT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270898,
+    "gn:latitude":39.52333,
+    "gn:longitude":-8.45781,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bexiga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270898
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1287395a3a6409bb8e1f5c166fcd2669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209190193
+        }
+    ],
+    "wof:id":1209190193,
+    "wof:lastmodified":1536294960,
+    "wof:name":"Bexiga",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45781,
+    39.52333,
+    -8.45781,
+    39.52333
+],
+  "geometry": {"coordinates":[-8.45781,39.52333],"type":"Point"}
+}

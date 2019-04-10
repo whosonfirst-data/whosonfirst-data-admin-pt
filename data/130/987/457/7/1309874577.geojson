@@ -1,0 +1,67 @@
+{
+  "id": 1309874577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22927,40.61755,-8.22927,40.61755",
+    "geom:latitude":40.61755,
+    "geom:longitude":-8.22927,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1810",
+    "gn:admin3_code":"181001.0",
+    "gn:asciiname":"Covelo",
+    "gn:country_code":"PT",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740332,
+    "gn:latitude":40.61755,
+    "gn:longitude":-8.22927,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Covelo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740332
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2e16d6979c9f3dca3402264e4efcfd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309874577,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1309874577,
+    "wof:lastmodified":1536831121,
+    "wof:name":"Covelo",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22927,
+    40.61755,
+    -8.22927,
+    40.61755
+],
+  "geometry": {"coordinates":[-8.22927,40.61755],"type":"Point"}
+}

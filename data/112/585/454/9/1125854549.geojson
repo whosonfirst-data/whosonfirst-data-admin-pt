@@ -1,0 +1,80 @@
+{
+  "id": 1125854549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.910542,38.574474,-7.910542,38.574474",
+    "geom:latitude":38.574474,
+    "geom:longitude":-7.910542,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.574474,
+    "lbl:longitude":-7.910542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Evora-S\u00e3o Mamede",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Evora",
+    "qs_pg:photos":171,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":171,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1262203,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":22661043,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Evora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22661043,
+        "qs_pg:id":1262203
+    },
+    "wof:country":"PT",
+    "wof:created":1497293556,
+    "wof:geomhash":"25c2d3ae4a587417a2c5d0f07afac25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125854549,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1125854549,
+    "wof:lastmodified":1509396140,
+    "wof:name":"Evora-S\u00e3o Mamede",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.910542,
+    38.574474,
+    -7.910542,
+    38.574474
+],
+  "geometry": {"coordinates":[-7.910542,38.574474],"type":"Point"}
+}

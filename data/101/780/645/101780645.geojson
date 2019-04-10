@@ -1,0 +1,126 @@
+{
+  "id": 101780645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":749742.226948,
+    "geom:bbox":"-8.30800113488,37.1578091428,-8.29710633314,37.1718619356",
+    "geom:latitude":37.163579,
+    "geom:longitude":-8.302363,
+    "iso:country":"PT",
+    "lbl:latitude":37.163232,
+    "lbl:longitude":-8.303353,
+    "mps:latitude":37.163232,
+    "mps:longitude":-8.303353,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Algoz"
+    ],
+    "name:dut_x_preferred":[
+        "Algoz"
+    ],
+    "name:eng_x_preferred":[
+        "Algoz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06af\u0627\u0632"
+    ],
+    "name:fre_x_preferred":[
+        "Algoz"
+    ],
+    "name:ger_x_preferred":[
+        "Algoz"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0433\u043e\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Algoz"
+    ],
+    "name:msa_x_preferred":[
+        "Algoz"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u06af\u0627\u0632"
+    ],
+    "name:por_x_preferred":[
+        "Algoz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u043e\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Algoz"
+    ],
+    "name:tur_x_preferred":[
+        "Algoz"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Algoz",
+    "qs:la_lc":"*PT10813028",
+    "qs:level":"locality",
+    "qs:loc":"Algoz",
+    "qs:loc_alt":"Algoz",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":37.163564,
+    "wd:longitude":-8.30475,
+    "wd:wordcount":589,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c040e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271980,
+        "gp:id":735870,
+        "qs:id":286029,
+        "qs_pg:id":286029,
+        "wd:id":"Q2652888",
+        "wk:page":"Algoz"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b670cd919fcb816848582b1a710bbed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780645,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780645,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715866,
+    "wof:name":"Algoz",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30800113487868,
+    37.15780914281771,
+    -8.29710633314085,
+    37.17186193561878
+],
+  "geometry": {"coordinates":[[[-8.30095394955498,37.16505987348535],[-8.30000731120327,37.16154222038568],[-8.29891173135923,37.16175761322808],[-8.2986751058952,37.16087819182729],[-8.29757953296195,37.16109356882021],[-8.29710633314085,37.15933471372625],[-8.29820188066793,37.15911934308883],[-8.2979652809039,37.15823991575098],[-8.30015633317817,37.15780914281771],[-8.30039295834609,37.15868856379996],[-8.30367953142047,37.15804229983337],[-8.30391620326037,37.15892170930164],[-8.30501172873329,37.15870625945917],[-8.3052484218432,37.15958566376906],[-8.30743948080982,37.15915471971351],[-8.30767620789157,37.16003411568573],[-8.30658066860423,37.16024959722819],[-8.30705412307725,37.16200838959134],[-8.30595855259128,37.16222386482099],[-8.30666876047525,37.16486204805551],[-8.3077643690703,37.1646465632877],[-8.30800113487868,37.16552595056021],[-8.30471425359326,37.16617237638616],[-8.30495098986052,37.16705177121776],[-8.30275968128024,37.16748266476509],[-8.30323312870684,37.16924146120743],[-8.30104174611768,37.16967231678018],[-8.30127845727395,37.17055171839127],[-8.30018274457791,37.17076713034675],[-8.30041945159758,37.17164653315774],[-8.29932372039707,37.17186193561878],[-8.2983769945746,37.16834429978587],[-8.29947267494362,37.1681289100402],[-8.29899933803705,37.16637008660837],[-8.30009498719858,37.16615469054688],[-8.29985831889354,37.16527527904111],[-8.30095394955498,37.16505987348535]]],"type":"Polygon"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101776183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":759145.95168,
+    "geom:bbox":"-8.17749142409,40.5672698498,-8.16379613509,40.5786247009",
+    "geom:latitude":40.572116,
+    "geom:longitude":-8.170641,
+    "iso:country":"PT",
+    "lbl:latitude":40.572459,
+    "lbl:longitude":-8.170174,
+    "mps:latitude":40.572459,
+    "mps:longitude":-8.170174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Caramulo"
+    ],
+    "name:dut_x_preferred":[
+        "Caramulo"
+    ],
+    "name:eng_x_preferred":[
+        "Caramulo"
+    ],
+    "name:fre_x_preferred":[
+        "Caramulo"
+    ],
+    "name:ger_x_preferred":[
+        "Caramulo"
+    ],
+    "name:may_x_preferred":[
+        "Caramulo"
+    ],
+    "name:msa_x_preferred":[
+        "Caramulo"
+    ],
+    "name:por_x_preferred":[
+        "Caramulo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Guard\u00e3o",
+    "qs:la_lc":"*PT11821083",
+    "qs:level":"locality",
+    "qs:loc":"Caramulo",
+    "qs:loc_alt":"Caramulo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":40.566667,
+    "wd:longitude":-8.166667,
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027192e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2741516,
+        "gp:id":738179,
+        "qs:id":1353006,
+        "qs_pg:id":1353006,
+        "wd:id":"Q1035381",
+        "wk:page":"Caramulo"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fd52dc64dfef5eab03761f6e5d06872d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776183,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101776183,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688313,
+    "wof:name":"Caramulo",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17749142408763,
+    40.56726984981179,
+    -8.16379613509116,
+    40.5786247008927
+],
+  "geometry": {"coordinates":[[[-8.16931094965946,40.5786247008927],[-8.16828048380432,40.57512283675089],[-8.16712908551597,40.57533838242659],[-8.16687150818615,40.57446290828045],[-8.16456872041914,40.57489395245915],[-8.16379613509116,40.57226749804283],[-8.1649474884307,40.57205199308481],[-8.16417494724163,40.56942553241595],[-8.16647754551997,40.56899450313631],[-8.16673507876351,40.56986998492789],[-8.1701889689009,40.56922333003968],[-8.16993139170813,40.56834785867653],[-8.17568766538824,40.56726984981179],[-8.17620297604839,40.56902075591438],[-8.17505170568188,40.56923639145134],[-8.17582470117532,40.57186274712757],[-8.17697601548849,40.57164710115768],[-8.17749142408763,40.573397988713],[-8.17634008047412,40.57361364163893],[-8.17659778481584,40.57448908611264],[-8.16968949168785,40.57578274300715],[-8.17046239973166,40.57840912790158],[-8.16931094965946,40.5786247008927]]],"type":"Polygon"}
+}

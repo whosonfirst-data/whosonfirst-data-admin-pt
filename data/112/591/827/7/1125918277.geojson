@@ -1,0 +1,89 @@
+{
+  "id": 1125918277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34599,41.41938,-8.34599,41.41938",
+    "geom:latitude":41.41938,
+    "geom:longitude":-8.34599,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10223,
+    "gn:population":10223,
+    "iso:country":"PT",
+    "lbl:latitude":41.41938,
+    "lbl:longitude":-8.34599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "S\u00e3o Crist\u00f3v\u00e3o"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734170,
+    "qs_pg:gn_pop":10223,
+    "qs_pg:name":"Selho-S\u00e3o Crist\u00f3v\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":61074,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":25953343,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734170,
+        "gp:id":25953343,
+        "qs_pg:id":61074
+    },
+    "wof:country":"PT",
+    "wof:created":1497296394,
+    "wof:geomhash":"a3c178ce3b1f067b55ed004c5a0d6343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125918277,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125918277,
+    "wof:lastmodified":1509400669,
+    "wof:name":"Selho-S\u00e3o Crist\u00f3v\u00e3o",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":10223,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34599,
+    41.41938,
+    -8.34599,
+    41.41938
+],
+  "geometry": {"coordinates":[-8.34599,41.41938],"type":"Point"}
+}

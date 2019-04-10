@@ -1,0 +1,124 @@
+{
+  "id": 1125869415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86349,39.8521,-8.86349,39.8521",
+    "geom:latitude":39.8521,
+    "geom:longitude":-8.86349,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.8521,
+    "lbl:longitude":-8.86349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Monte Real"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Real"
+    ],
+    "name:fre_x_preferred":[
+        "Monte Real"
+    ],
+    "name:ger_x_preferred":[
+        "Monte Real"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30fb\u30ea\u30a2\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0420\u0435\u0430\u043b"
+    ],
+    "name:lit_x_preferred":[
+        "Monte Realis"
+    ],
+    "name:may_x_preferred":[
+        "Monte Real"
+    ],
+    "name:por_x_preferred":[
+        "Monte Real"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0420\u0435\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Real"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2265844,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Monte Real",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":72,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":72,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1353181,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":744141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265844,
+        "gp:id":744141,
+        "qs_pg:id":1353181,
+        "wd:id":"Q1945916"
+    },
+    "wof:country":"PT",
+    "wof:created":1497294213,
+    "wof:geomhash":"adf5a219e8d1d241b4a5a7930779273a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125869415,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125869415,
+    "wof:lastmodified":1534379448,
+    "wof:name":"Monte Real",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101777137
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86349,
+    39.8521,
+    -8.86349,
+    39.8521
+],
+  "geometry": {"coordinates":[-8.86349,39.8521],"type":"Point"}
+}

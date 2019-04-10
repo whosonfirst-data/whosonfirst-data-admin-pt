@@ -1,0 +1,67 @@
+{
+  "id": 1309675241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3565,39.7223,-8.3565,39.7223",
+    "geom:latitude":39.7223,
+    "geom:longitude":-8.3565,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1411",
+    "gn:admin3_code":"141102.0",
+    "gn:asciiname":"Fonte da Laje",
+    "gn:country_code":"PT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268102,
+    "gn:latitude":39.7223,
+    "gn:longitude":-8.3565,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fonte da Laje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268102
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ad4a7e333dc2364aab7bc6f1bd589a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309675241,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1309675241,
+    "wof:lastmodified":1536620411,
+    "wof:name":"Fonte da Laje",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3565,
+    39.7223,
+    -8.3565,
+    39.7223
+],
+  "geometry": {"coordinates":[-8.3565,39.7223],"type":"Point"}
+}

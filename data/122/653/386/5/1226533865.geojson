@@ -1,0 +1,67 @@
+{
+  "id": 1226533865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76904,40.16221,-8.76904,40.16221",
+    "geom:latitude":40.16221,
+    "geom:longitude":-8.76904,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"60507.0",
+    "gn:asciiname":"Serra de Sao Bento",
+    "gn:country_code":"PT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734050,
+    "gn:latitude":40.16221,
+    "gn:longitude":-8.76904,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Serra de S\u00e3o Bento",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734050
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"179e06d48a2c29b87d39d79a3259195f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226533865,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226533865,
+    "wof:lastmodified":1537014508,
+    "wof:name":"Serra de Sao Bento",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76904,
+    40.16221,
+    -8.76904,
+    40.16221
+],
+  "geometry": {"coordinates":[-8.76904,40.16221],"type":"Point"}
+}

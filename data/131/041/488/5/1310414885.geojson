@@ -1,0 +1,67 @@
+{
+  "id": 1310414885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41436,40.55962,-8.41436,40.55962",
+    "geom:latitude":40.55962,
+    "geom:longitude":-8.41436,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"10120.0",
+    "gn:asciiname":"Candam",
+    "gn:country_code":"PT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741596,
+    "gn:latitude":40.55962,
+    "gn:longitude":-8.41436,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Candam",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741596
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fd29af290974d84a869b6c487b8ef8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310414885,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310414885,
+    "wof:lastmodified":1537045769,
+    "wof:name":"Candam",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41436,
+    40.55962,
+    -8.41436,
+    40.55962
+],
+  "geometry": {"coordinates":[-8.41436,40.55962],"type":"Point"}
+}

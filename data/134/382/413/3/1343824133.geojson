@@ -1,0 +1,67 @@
+{
+  "id": 1343824133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83211,39.40159,-8.83211,39.40159",
+    "geom:latitude":39.40159,
+    "geom:longitude":-8.83211,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141604.0",
+    "gn:asciiname":"Vale de Carros",
+    "gn:country_code":"PT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262219,
+    "gn:latitude":39.40159,
+    "gn:longitude":-8.83211,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Carros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262219
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c041fe28c6a0a0ad0a20919679e51cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343824133,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1343824133,
+    "wof:lastmodified":1536719523,
+    "wof:name":"Vale de Carros",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83211,
+    39.40159,
+    -8.83211,
+    39.40159
+],
+  "geometry": {"coordinates":[-8.83211,39.40159],"type":"Point"}
+}

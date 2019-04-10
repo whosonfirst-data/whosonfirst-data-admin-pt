@@ -1,0 +1,67 @@
+{
+  "id": 1293077363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65087,41.12616,-8.65087,41.12616",
+    "geom:latitude":41.12616,
+    "geom:longitude":-8.65087,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131704.0",
+    "gn:asciiname":"Paniceiro",
+    "gn:country_code":"PT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736784,
+    "gn:latitude":41.12616,
+    "gn:longitude":-8.65087,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Paniceiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736784
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7c3d3c33e7f395ca4677ce845d32bb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293077363,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1293077363,
+    "wof:lastmodified":1536880695,
+    "wof:name":"Paniceiro",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65087,
+    41.12616,
+    -8.65087,
+    41.12616
+],
+  "geometry": {"coordinates":[-8.65087,41.12616],"type":"Point"}
+}

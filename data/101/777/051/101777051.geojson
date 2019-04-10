@@ -1,0 +1,80 @@
+{
+  "id": 101777051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"-9.34051229137,39.1787222504,-9.32450260746,39.187805549",
+    "geom:latitude":39.183157,
+    "geom:longitude":-9.331297,
+    "iso:country":"PT",
+    "lbl:latitude":39.184626,
+    "lbl:longitude":-9.329175,
+    "mps:latitude":39.184626,
+    "mps:longitude":-9.329175,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Maceira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Maceira",
+    "qs:la_lc":"*PT11113208",
+    "qs:level":"locality",
+    "qs:loc":"Maceira",
+    "qs:loc_alt":"Maceira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02715fda-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266915,
+        "gp:id":742939,
+        "qs:id":1353123,
+        "qs_pg:id":1353123
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a12376043e5fbe7aba8ca54a77f8351e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777051,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101777051,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497299085,
+    "wof:name":"Maceira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34051229137424,
+    39.17872225044681,
+    -9.32450260745725,
+    39.18780554902122
+],
+  "geometry": {"coordinates":[[[-9.32720958101464,39.18780554902122],[-9.32615472336897,39.18431225819199],[-9.32502995047014,39.18454064061399],[-9.32450260745725,39.18279397598309],[-9.3312509809179,39.18142352859746],[-9.33098724265574,39.18055021448561],[-9.33998458799067,39.17872225044681],[-9.34051229137424,39.18046881999339],[-9.33263944785205,39.18206838367291],[-9.33343079136085,39.18468829717472],[-9.33230603175735,39.18491676480937],[-9.33256981891742,39.1857900688035],[-9.33144503900235,39.18601852695707],[-9.33170882237181,39.18689183246835],[-9.32720958101464,39.18780554902122]]],"type":"Polygon"}
+}

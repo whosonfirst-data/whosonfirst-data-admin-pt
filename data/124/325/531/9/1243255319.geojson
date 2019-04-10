@@ -1,0 +1,67 @@
+{
+  "id": 1243255319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82469,40.18597,-7.82469,40.18597",
+    "geom:latitude":40.18597,
+    "geom:longitude":-7.82469,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61203.0",
+    "gn:asciiname":"Covanca",
+    "gn:country_code":"PT",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740371,
+    "gn:latitude":40.18597,
+    "gn:longitude":-7.82469,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Covanca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740371
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"99f5ead0f998409cceb8760ad9352e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243255319,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243255319,
+    "wof:lastmodified":1537077946,
+    "wof:name":"Covanca",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82469,
+    40.18597000000001,
+    -7.82469,
+    40.18597000000001
+],
+  "geometry": {"coordinates":[-7.82469,40.18597000000001],"type":"Point"}
+}

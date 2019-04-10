@@ -1,0 +1,72 @@
+{
+  "id": 1125423481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01499,38.90072,-8.01499,38.90072",
+    "geom:latitude":38.90072,
+    "geom:longitude":-8.01499,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.90072,
+    "lbl:longitude":-8.01499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8011944,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pavia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155622,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8011944,
+        "qs_pg:id":1155622
+    },
+    "wof:country":"PT",
+    "wof:created":1497052699,
+    "wof:geomhash":"9cfb057e19bf853379672e2203b16ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125423481,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1125423481,
+    "wof:lastmodified":1509390542,
+    "wof:name":"Pavia",
+    "wof:parent_id":85687363,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01499,
+    38.90072,
+    -8.01499,
+    38.90072
+],
+  "geometry": {"coordinates":[-8.01499,38.90072],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101759143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":790320.769699,
+    "geom:bbox":"-9.15337297918,38.7915778777,-9.13828049261,38.8031013661",
+    "geom:latitude":38.797928,
+    "geom:longitude":-9.14527,
+    "iso:country":"PT",
+    "lbl:latitude":38.79878,
+    "lbl:longitude":-9.144127,
+    "mps:latitude":38.79878,
+    "mps:longitude":-9.144127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fetaes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Fetais",
+    "qs:loc_alt":"Fetais",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268232,
+        "gp:id":29381113,
+        "qs:id":4,
+        "qs_pg:id":207311
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5c39c03b363776c184f897709908537a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759143,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759143,
+    "wof:lastmodified":1504310319,
+    "wof:name":"Fetais",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1533729791783,
+    38.79157787767997,
+    -9.13828049261423,
+    38.80310136614457
+],
+  "geometry": {"coordinates":[[[-9.14589700766908,38.79157787767997],[-9.14597800000013,38.7934189999998],[-9.15118400000011,38.79531099999986],[-9.15294608681347,38.79478169781328],[-9.1533729791783,38.79577777999799],[-9.15183981678712,38.79608768081249],[-9.15235707542934,38.79783651900891],[-9.14788118242166,38.79874104538698],[-9.14839837206364,38.80048990329772],[-9.14727935563189,38.80071600945394],[-9.14753795136846,38.80159043885925],[-9.14641891498405,38.80181653553399],[-9.14667466336482,38.80268133412335],[-9.14467951126369,38.80310136614457],[-9.14214405104411,38.80249768514],[-9.13828049261423,38.80032443352314],[-9.14274773204886,38.79452909587815],[-9.14516245606757,38.79223510806031],[-9.14589700766908,38.79157787767997]]],"type":"Polygon"}
+}

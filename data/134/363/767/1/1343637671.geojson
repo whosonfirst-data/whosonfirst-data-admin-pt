@@ -1,0 +1,67 @@
+{
+  "id": 1343637671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75391,41.3581,-8.75391,41.3581",
+    "geom:latitude":41.3581,
+    "geom:longitude":-8.75391,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1316",
+    "gn:admin3_code":"131628.0",
+    "gn:asciiname":"Bairro Piscatorio",
+    "gn:country_code":"PT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742492,
+    "gn:latitude":41.3581,
+    "gn:longitude":-8.75391,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Bairro Piscat\u00f3rio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742492
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"50d4b580b594f3b4b60db4a47e9feeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343637671,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1343637671,
+    "wof:lastmodified":1536987174,
+    "wof:name":"Bairro Piscatorio",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75391,
+    41.3581,
+    -8.75391,
+    41.3581
+],
+  "geometry": {"coordinates":[-8.75391,41.3581],"type":"Point"}
+}

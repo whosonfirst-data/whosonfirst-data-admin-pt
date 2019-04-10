@@ -1,0 +1,87 @@
+{
+  "id": 1343517683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.0058,39.08577,-28.0058,39.08577",
+    "geom:latitude":39.08577,
+    "geom:longitude":-28.0058,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4401",
+    "gn:admin3_code":"440104.0",
+    "gn:asciiname":"Santa Cruz da Graciosa",
+    "gn:country_code":"PT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372644,
+    "gn:latitude":39.08577,
+    "gn:longitude":-28.0058,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Santa Cruz da Graciosa",
+    "gn:population":1776,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4\ub2e4\uadf8\ub77c\uc2dc\uc624\uc790"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Kruz da Grasioza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0448-\u0434\u0430-\u0413\u0440\u0430\u0441\u0438\u043e\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Santa Cruz",
+        "Santa Cruz da Graciosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u4ec0\u9054\u683c\u62c9\u897f\u5967\u85a9"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372644,
+        "wk:page":"Santa_Cruz_da_Graciosa"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b0bf3611eac8e167edf3ee0818cf75ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343517683,
+            "region_id":85687459
+        }
+    ],
+    "wof:id":1343517683,
+    "wof:lastmodified":1537683179,
+    "wof:name":"Santa Cruz da Graciosa",
+    "wof:parent_id":85687459,
+    "wof:placetype":"locality",
+    "wof:population":1776,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.0058,
+    39.08577,
+    -28.0058,
+    39.08577
+],
+  "geometry": {"coordinates":[-28.0058,39.08577],"type":"Point"}
+}

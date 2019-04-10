@@ -1,0 +1,110 @@
+{
+  "id": 1125912963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83171,39.8993,-8.83171,39.8993",
+    "geom:latitude":39.8993,
+    "geom:longitude":-8.83171,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4463,
+    "gn:population":4463,
+    "iso:country":"PT",
+    "lbl:latitude":39.8993,
+    "lbl:longitude":-8.83171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Monte Redondo"
+    ],
+    "name:eng_x_preferred":[
+        "Monte Redondo"
+    ],
+    "name:fre_x_preferred":[
+        "Monte Redondo"
+    ],
+    "name:ger_x_preferred":[
+        "Monte Redondo"
+    ],
+    "name:por_x_preferred":[
+        "Monte Redondo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435-\u0420\u0435\u0434\u043e\u043d\u0434\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Redondo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2265841,
+    "qs_pg:gn_pop":4463,
+    "qs_pg:name":"Monte Redondo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1034635,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":744146,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265841,
+        "gp:id":744146,
+        "qs_pg:id":1034635,
+        "wd:id":"Q1025551"
+    },
+    "wof:country":"PT",
+    "wof:created":1497296202,
+    "wof:geomhash":"2c019732acf6db13e9f0748e4d975519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125912963,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125912963,
+    "wof:lastmodified":1514498083,
+    "wof:name":"Monte Redondo",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:population":4463,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83171,
+    39.8993,
+    -8.83171,
+    39.8993
+],
+  "geometry": {"coordinates":[-8.83171,39.8993],"type":"Point"}
+}

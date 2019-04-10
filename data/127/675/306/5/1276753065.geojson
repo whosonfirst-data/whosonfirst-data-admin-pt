@@ -1,0 +1,67 @@
+{
+  "id": 1276753065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.17891,32.86574,-17.17891,32.86574",
+    "geom:latitude":32.86574,
+    "geom:longitude":-17.17891,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3106",
+    "gn:admin3_code":"310602.0",
+    "gn:asciiname":"Santa do Porto Moniz",
+    "gn:country_code":"PT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051330,
+    "gn:latitude":32.86574,
+    "gn:longitude":-17.17891,
+    "gn:modification_date":"2018-03-01",
+    "gn:name":"Santa do Porto Moniz",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Madeira",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051330
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9340f1ddf9fb99c69b1314f1feefdb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276753065,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1276753065,
+    "wof:lastmodified":1536713823,
+    "wof:name":"Santa do Porto Moniz",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.17891,
+    32.86574,
+    -17.17891,
+    32.86574
+],
+  "geometry": {"coordinates":[-17.17891,32.86574],"type":"Point"}
+}

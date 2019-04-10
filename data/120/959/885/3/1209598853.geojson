@@ -1,0 +1,63 @@
+{
+  "id": 1209598853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04842,39.30242,-9.04842,39.30242",
+    "geom:latitude":39.30242,
+    "geom:longitude":-9.04842,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1104",
+    "gn:admin3_code":"110406.0",
+    "gn:asciiname":"Painho",
+    "gn:country_code":"PT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265290,
+    "gn:latitude":39.30242,
+    "gn:longitude":-9.04842,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Painho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265290
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2c5d803a55a985887243e90bffe40bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209598853
+        }
+    ],
+    "wof:id":1209598853,
+    "wof:lastmodified":1536282234,
+    "wof:name":"Painho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04842,
+    39.30242,
+    -9.04842,
+    39.30242
+],
+  "geometry": {"coordinates":[-9.04842,39.30242],"type":"Point"}
+}

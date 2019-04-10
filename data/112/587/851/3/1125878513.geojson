@@ -1,0 +1,85 @@
+{
+  "id": 1125878513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39848,41.55526,-8.39848,41.55526",
+    "geom:latitude":41.55526,
+    "geom:longitude":-8.39848,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"STNB",
+    "gn:gn_pop":200,
+    "gn:population":200,
+    "iso:country":"PT",
+    "lbl:latitude":41.55526,
+    "lbl:longitude":-8.39848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:por_x_preferred":[
+        "INL"
+    ],
+    "name:por_x_variant":[
+        "Laborat\u00f3rio Ib\u00e9rico Internacional de Nanotecnologia"
+    ],
+    "name:spa_x_preferred":[
+        "Laboratorio Ib\u00e9rico Internacional de Nanotecnolog\u00eda"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"STNB",
+    "qs_pg:gn_id":6953536,
+    "qs_pg:gn_pop":200,
+    "qs_pg:name":"International Iberian Nanotechnology Laboratory",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":653188,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6953536,
+        "qs_pg:id":653188
+    },
+    "wof:country":"PT",
+    "wof:created":1497294667,
+    "wof:geomhash":"e6499abc3906482a0cc0096c24224afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125878513,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125878513,
+    "wof:lastmodified":1509397922,
+    "wof:name":"International Iberian Nanotechnology Laboratory",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39848,
+    41.55526,
+    -8.39848,
+    41.55526
+],
+  "geometry": {"coordinates":[-8.39848,41.55526],"type":"Point"}
+}

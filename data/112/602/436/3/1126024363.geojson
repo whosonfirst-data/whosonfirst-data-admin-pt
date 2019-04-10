@@ -1,0 +1,89 @@
+{
+  "id": 1126024363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96468,40.87676,-6.96468,40.87676",
+    "geom:latitude":40.87676,
+    "geom:longitude":-6.96468,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.87676,
+    "lbl:longitude":-6.96468,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Castello Rodrigo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2740987,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Castelo Rodrigo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos":196,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":196,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":315257,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":739163,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740987,
+        "gp:id":739163,
+        "qs_pg:id":315257
+    },
+    "wof:country":"PT",
+    "wof:created":1497301036,
+    "wof:geomhash":"a65277232c088b0d3fcca28f7194e6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126024363,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1126024363,
+    "wof:lastmodified":1509407449,
+    "wof:name":"Castelo Rodrigo",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96468,
+    40.87676,
+    -6.96468,
+    40.87676
+],
+  "geometry": {"coordinates":[-6.96468,40.87676],"type":"Point"}
+}

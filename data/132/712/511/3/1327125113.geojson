@@ -1,0 +1,67 @@
+{
+  "id": 1327125113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30582,38.57203,-8.30582,38.57203",
+    "geom:latitude":38.57203,
+    "geom:longitude":-8.30582,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0706",
+    "gn:admin3_code":"70606.0",
+    "gn:asciiname":"Sao Romao",
+    "gn:country_code":"PT",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263235,
+    "gn:latitude":38.57203,
+    "gn:longitude":-8.30582,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Rom\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263235
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2fc530a2e2a95fef8dedf7a1ae626fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327125113,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1327125113,
+    "wof:lastmodified":1536624675,
+    "wof:name":"Sao Romao",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30582,
+    38.57203,
+    -8.30582,
+    38.57203
+],
+  "geometry": {"coordinates":[-8.30582,38.57203],"type":"Point"}
+}

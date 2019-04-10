@@ -1,0 +1,67 @@
+{
+  "id": 1209948387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03986,41.34647,-7.03986,41.34647",
+    "geom:latitude":41.34647,
+    "geom:longitude":-7.03986,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"40119.0",
+    "gn:asciiname":"Vilarelhos",
+    "gn:country_code":"PT",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732432,
+    "gn:latitude":41.34647,
+    "gn:longitude":-7.03986,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilarelhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732432
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2c7efd59b66a355eb91086111f9bf6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209948387,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1209948387,
+    "wof:lastmodified":1536385319,
+    "wof:name":"Vilarelhos",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03986,
+    41.34647,
+    -7.03986,
+    41.34647
+],
+  "geometry": {"coordinates":[-7.03986,41.34647],"type":"Point"}
+}

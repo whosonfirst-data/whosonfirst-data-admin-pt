@@ -1,0 +1,100 @@
+{
+  "id": 101832909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000154,
+    "geom:area_square_m":1484705.502702,
+    "geom:bbox":"-9.04962453585,38.6380071053,-9.0325279789,38.6544496986",
+    "geom:latitude":38.646572,
+    "geom:longitude":-9.040847,
+    "iso:country":"PT",
+    "lbl:latitude":38.647035,
+    "lbl:longitude":-9.039283,
+    "mps:latitude":38.647035,
+    "mps:longitude":-9.039283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "name:eng_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "name:fre_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "name:ger_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0430-\u0410\u043c\u043e\u0440\u0435\u0439\u0440\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0430-\u0410\u043c\u043e\u0440\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vale da Amoreira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alto do Seixalinho",
+    "qs:la_lc":"*PT11504061",
+    "qs:level":"locality",
+    "qs:loc":"Vale da Amoreira",
+    "qs:loc_alt":"Vale da Amoreira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014558,
+        "gp:id":23412818,
+        "qs:id":1164977,
+        "qs_pg:id":1164977,
+        "wd:id":"Q2218117"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"23598ac121a496d3e2e8a206e80b86f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832909,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832909,
+    "wof:lastmodified":1514498172,
+    "wof:name":"Vale da Amoreira",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0496245358533,
+    38.63800710526249,
+    -9.03252797890474,
+    38.6544496986466
+],
+  "geometry": {"coordinates":[[[-9.03528726582812,38.65187525851633],[-9.03594906009442,38.65174212289259],[-9.034412788216,38.64649209125133],[-9.03272211012961,38.64683222596994],[-9.0325573194956,38.64501234775258],[-9.0327839590085,38.64496675361522],[-9.03252797890474,38.64409173386844],[-9.03364477960224,38.64386704834169],[-9.03338879559078,38.64299203002525],[-9.03450557648432,38.64276733500799],[-9.03427058496044,38.64196407219953],[-9.04760686803274,38.63800710526249],[-9.0496245358533,38.65013045829454],[-9.03672386870738,38.6544496986466],[-9.03528726582812,38.65187525851633]],[[-9.04411569461524,38.64731900148672],[-9.04858294575962,38.64641963391682],[-9.04704588345112,38.64116981371689],[-9.04592916037814,38.64139465436472],[-9.04567302968354,38.64051967386422],[-9.04232286164449,38.64119410793489],[-9.04411569461524,38.64731900148672]]],"type":"Polygon"}
+}

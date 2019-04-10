@@ -1,0 +1,67 @@
+{
+  "id": 1260149379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62155,41.08911,-7.62155,41.08911",
+    "geom:latitude":41.08911,
+    "geom:longitude":-7.62155,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"180108.0",
+    "gn:asciiname":"Ribeira de Goujoim",
+    "gn:country_code":"PT",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735173,
+    "gn:latitude":41.08911,
+    "gn:longitude":-7.62155,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ribeira de Goujoim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735173
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"50f70e4990db8dde7aa3155b70af7287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260149379,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1260149379,
+    "wof:lastmodified":1536894451,
+    "wof:name":"Ribeira de Goujoim",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62155,
+    41.08911,
+    -7.62155,
+    41.08911
+],
+  "geometry": {"coordinates":[-7.62155,41.08911],"type":"Point"}
+}

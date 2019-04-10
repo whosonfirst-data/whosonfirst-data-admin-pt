@@ -1,0 +1,67 @@
+{
+  "id": 1243384961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5531,40.31015,-8.5531,40.31015",
+    "geom:latitude":40.31015,
+    "geom:longitude":-8.5531,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0602",
+    "gn:admin3_code":"60212.0",
+    "gn:asciiname":"Pena",
+    "gn:country_code":"PT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736487,
+    "gn:latitude":40.31015,
+    "gn:longitude":-8.5531,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736487
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2bd3bd43ce0f9078450c9d33bd42cc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243384961,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243384961,
+    "wof:lastmodified":1536894036,
+    "wof:name":"Pena",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5531,
+    40.31015,
+    -8.5531,
+    40.31015
+],
+  "geometry": {"coordinates":[-8.5531,40.31015],"type":"Point"}
+}

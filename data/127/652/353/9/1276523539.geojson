@@ -1,0 +1,67 @@
+{
+  "id": 1276523539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75485,39.43177,-8.75485,39.43177",
+    "geom:latitude":39.43177,
+    "geom:longitude":-8.75485,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141602.0",
+    "gn:asciiname":"Canal",
+    "gn:country_code":"PT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270318,
+    "gn:latitude":39.43177,
+    "gn:longitude":-8.75485,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Canal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270318
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7be197dd6c64f67f0b676720b4293ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276523539,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1276523539,
+    "wof:lastmodified":1537020287,
+    "wof:name":"Canal",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75485,
+    39.43177,
+    -8.75485,
+    39.43177
+],
+  "geometry": {"coordinates":[-8.75485,39.43177],"type":"Point"}
+}

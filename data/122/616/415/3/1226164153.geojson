@@ -1,0 +1,67 @@
+{
+  "id": 1226164153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07672,40.18162,-8.07672,40.18162",
+    "geom:latitude":40.18162,
+    "geom:longitude":-8.07672,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60105.0",
+    "gn:asciiname":"Sequeiros",
+    "gn:country_code":"PT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734101,
+    "gn:latitude":40.18162,
+    "gn:longitude":-8.07672,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sequeiros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734101
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"11b862567202f3d24863b432e536df39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226164153,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226164153,
+    "wof:lastmodified":1537049150,
+    "wof:name":"Sequeiros",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07672,
+    40.18162,
+    -8.07672,
+    40.18162
+],
+  "geometry": {"coordinates":[-8.07672,40.18162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242929913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7299,41.13089,-7.7299,41.13089",
+    "geom:latitude":41.13089,
+    "geom:longitude":-7.7299,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1801",
+    "gn:admin3_code":"180107.0",
+    "gn:asciiname":"Balteiro",
+    "gn:country_code":"PT",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742454,
+    "gn:latitude":41.13089,
+    "gn:longitude":-7.7299,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Balteiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742454
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3d6e802e2246f7006067f5fb72e643e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242929913,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1242929913,
+    "wof:lastmodified":1537051249,
+    "wof:name":"Balteiro",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7299,
+    41.13089,
+    -7.7299,
+    41.13089
+],
+  "geometry": {"coordinates":[-7.7299,41.13089],"type":"Point"}
+}

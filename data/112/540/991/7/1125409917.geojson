@@ -1,0 +1,72 @@
+{
+  "id": 1125409917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71,41.38441,-8.71,41.38441",
+    "geom:latitude":41.38441,
+    "geom:longitude":-8.71,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.38441,
+    "lbl:longitude":-8.71,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012926,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Touguinh\u00f3",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155637,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012926,
+        "qs_pg:id":1155637
+    },
+    "wof:country":"PT",
+    "wof:created":1497049923,
+    "wof:geomhash":"1b7870e13f0a9f9b40dc15a1d6b55db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409917,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125409917,
+    "wof:lastmodified":1509390233,
+    "wof:name":"Touguinh\u00f3",
+    "wof:parent_id":85687411,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71,
+    41.38441,
+    -8.71,
+    41.38441
+],
+  "geometry": {"coordinates":[-8.71,41.38441],"type":"Point"}
+}

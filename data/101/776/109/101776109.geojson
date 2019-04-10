@@ -1,0 +1,116 @@
+{
+  "id": 101776109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":409659.234783,
+    "geom:bbox":"-8.63107698709,39.3036984342,-8.62208596319,39.3188134657",
+    "geom:latitude":39.310369,
+    "geom:longitude":-8.62626,
+    "iso:country":"PT",
+    "lbl:latitude":39.309362,
+    "lbl:longitude":-8.62626,
+    "mps:latitude":39.309362,
+    "mps:longitude":-8.62626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:dut_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:eng_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:fra_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:fre_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:ger_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:nld_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:por_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0435-\u0424\u0438\u0433\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "name:tur_x_preferred":[
+        "Vale de Figueira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vale de Figueira",
+    "qs:la_lc":"*PT11416243",
+    "qs:level":"locality",
+    "qs:loc":"Vale de Figueira",
+    "qs:loc_alt":"Vale de Figueira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.307222,
+    "wd:longitude":-8.6275,
+    "wd:wordcount":579,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026e4d68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262189,
+        "gp:id":749955,
+        "qs:id":1166793,
+        "qs_pg:id":1166793,
+        "wd:id":"Q2296522"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d08d906cbc69a08b3f373a9440e0b9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776109,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101776109,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688309,
+    "wof:name":"Vale de Figueira",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63107698709467,
+    39.30369843420596,
+    -8.62208596319266,
+    39.31881346566848
+],
+  "geometry": {"coordinates":[[[-8.62558061341377,39.31267941718795],[-8.62481533381759,39.31005288279886],[-8.62368665124694,39.31027312958429],[-8.6231765399437,39.30852209008475],[-8.62543384333742,39.30808159714718],[-8.62492371483881,39.30633056360699],[-8.62718093682565,39.30589003202027],[-8.6269258592327,39.30501451920088],[-8.6280544465983,39.30479423719885],[-8.62779936470918,39.3039187258691],[-8.62892793172546,39.30369843420596],[-8.62969324727328,39.30632495207101],[-8.63082184911673,39.3061046370168],[-8.63107698709467,39.30698013565382],[-8.62994837145595,39.30720045414046],[-8.63020350513938,39.30807595426762],[-8.62794622660027,39.30851655882435],[-8.6284564672842,39.31026756698185],[-8.62732779058507,39.31048785648403],[-8.62783804167765,39.31223886373772],[-8.62670933082427,39.31245914701043],[-8.62696445682377,39.31333465115677],[-8.62583572561368,39.31355492476678],[-8.62634597851769,39.31530593409911],[-8.62521721314852,39.31552620147875],[-8.62547234005274,39.31640170666481],[-8.6243435543239,39.3166219643814],[-8.62459867692792,39.31749747105835],[-8.62346987083856,39.31771771911139],[-8.6237249891422,39.31859322727922],[-8.62259616269131,39.31881346566848],[-8.62208596319266,39.317062440526],[-8.62321476203692,39.31684220900178],[-8.62270457293778,39.31509118295781],[-8.62383333762068,39.3148709452023],[-8.62357824352085,39.31399543270038],[-8.6247069878458,39.31377518528149],[-8.62445188944588,39.31289967426989],[-8.62558061341377,39.31267941718795]]],"type":"Polygon"}
+}

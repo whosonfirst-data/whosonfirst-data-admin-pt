@@ -1,0 +1,120 @@
+{
+  "id": 101759209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000182,
+    "geom:area_square_m":1757450.297159,
+    "geom:bbox":"-9.42736954962,38.7253212567,-9.40099258532,38.7422552787",
+    "geom:latitude":38.732774,
+    "geom:longitude":-9.410615,
+    "gn:population":33315,
+    "iso:country":"PT",
+    "lbl:latitude":38.732815,
+    "lbl:longitude":-9.408217,
+    "mps:latitude":38.732815,
+    "mps:longitude":-9.408217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u0431\u0438\u0434\u0435\u0448\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:pol_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:por_x_colloquial":[
+        "Aloabideche"
+    ],
+    "name:por_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:por_x_variant":[
+        "Aloabid\u00e8che"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u0431\u0438\u0434\u0435\u0448\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:swa_x_preferred":[
+        "Alcabideche"
+    ],
+    "name:unk_x_variant":[
+        "Aloabid\u00e8che"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Alcabideche",
+    "qs:loc_alt":"Alcabideche",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026b5ac2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272215,
+        "gp:id":735565,
+        "loc:id":"n82236747",
+        "qs:id":911185,
+        "qs_pg:id":911185,
+        "wd:id":"Q1826465",
+        "wk:page":"Alcabideche"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e70a1cfdfcbeabb406935e67ae787194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759209,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759209,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714683,
+    "wof:name":"Alcabideche",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":33315,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42736954961555,
+    38.72532125669721,
+    -9.40099258531541,
+    38.74225527869339
+],
+  "geometry": {"coordinates":[[[-9.40137909184494,38.73973368564492],[-9.40186172659935,38.73792380531557],[-9.4032378669657,38.73459209706016],[-9.40258601100271,38.73220195852917],[-9.40171686971871,38.7314776741257],[-9.40099258531541,38.72930482091562],[-9.40108193807242,38.72909930957451],[-9.40122162582111,38.7295660616652],[-9.40680760503113,38.7284207609091],[-9.40654605623234,38.7275471139028],[-9.40766321894154,38.72731801849613],[-9.40739750377168,38.72643043380293],[-9.41069799632032,38.72619039798133],[-9.41439184677739,38.72532125669721],[-9.41641984310678,38.72662496862336],[-9.41788661716913,38.72892989929278],[-9.4120611332221,38.73012517437439],[-9.41284608376043,38.73274604261377],[-9.42401807981491,38.7304537446513],[-9.42333649348171,38.72817924636985],[-9.42550264491274,38.72749329841685],[-9.42599058021102,38.72912155143354],[-9.42710771689605,38.72889222824483],[-9.42736954961555,38.72976580331135],[-9.42625239963263,38.72999513001139],[-9.42651422869631,38.73086870654231],[-9.42427988228059,38.73132732820454],[-9.42454169438815,38.73220090971108],[-9.42230729490331,38.73265948671354],[-9.42256909005198,38.73353307319564],[-9.41251384513492,38.73559606170227],[-9.41277553019796,38.73646967773101],[-9.41054093194583,38.73692798450026],[-9.4108026000365,38.7378016055028],[-9.40968527768206,38.73803074301304],[-9.40994694210445,38.73890436548021],[-9.40547753331066,38.739820800328],[-9.40600078460659,38.74156806720106],[-9.40264857870523,38.74225527869339],[-9.40186383599882,38.73963434373957],[-9.40137909184494,38.73973368564492]]],"type":"Polygon"}
+}

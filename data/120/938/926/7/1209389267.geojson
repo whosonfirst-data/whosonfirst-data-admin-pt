@@ -1,0 +1,63 @@
+{
+  "id": 1209389267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50229,41.8461,-8.50229,41.8461",
+    "geom:latitude":41.8461,
+    "geom:longitude":-8.50229,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160121.0",
+    "gn:asciiname":"Represas",
+    "gn:country_code":"PT",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735252,
+    "gn:latitude":41.8461,
+    "gn:longitude":-8.50229,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Represas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735252
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b8abd6aa1ecde9b2e11aab87ec452384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209389267
+        }
+    ],
+    "wof:id":1209389267,
+    "wof:lastmodified":1536288517,
+    "wof:name":"Represas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.502289999999999,
+    41.8461,
+    -8.502289999999999,
+    41.8461
+],
+  "geometry": {"coordinates":[-8.50229,41.8461],"type":"Point"}
+}

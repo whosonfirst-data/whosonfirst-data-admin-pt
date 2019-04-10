@@ -1,0 +1,105 @@
+{
+  "id": 85862559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16431443.976151,
+    "geom:bbox":"-9.243294,38.712825,-9.243294,38.712825",
+    "geom:latitude":38.712825,
+    "geom:longitude":-9.243294,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.712825,
+    "lbl:longitude":-9.243294,
+    "mps:latitude":38.71936,
+    "mps:longitude":-9.245996,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:por_x_preferred":[
+        "Miraflores"
+    ],
+    "name:unk_x_variant":[
+        "Miraflores"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":8010564,
+    "qs:gn_nam_loc":"Oeiras, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":863,
+    "qs:local_sum":863,
+    "qs:localhoods":1,
+    "qs:name":"Miraflores",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Oeiras",
+    "qs:name_local":"Oeiras",
+    "qs:photo_max":203,
+    "qs:photo_sum":863,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":51,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596619,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596619,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101759105,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105217,
+        "qs:id":338577,
+        "qs_pg:id":338577
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"71fcd7ae8fcf15a6b890811ee6407dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759105,
+            "neighbourhood_id":85862559,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862559,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1531870603,
+    "wof:name":"Miraflores",
+    "wof:parent_id":101759105,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.243294,
+    38.712825,
+    -9.243294,
+    38.712825
+],
+  "geometry": {"coordinates":[-9.243294,38.712825],"type":"Point"}
+}

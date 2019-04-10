@@ -1,0 +1,80 @@
+{
+  "id": 101759003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":367148.309362,
+    "geom:bbox":"-9.42633585764,38.7092383804,-9.41750626971,38.7153985604",
+    "geom:latitude":38.712634,
+    "geom:longitude":-9.421493,
+    "iso:country":"PT",
+    "lbl:latitude":38.71289,
+    "lbl:longitude":-9.421492,
+    "mps:latitude":38.71289,
+    "mps:longitude":-9.421492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Fontainhas"
+    ],
+    "name:spa_x_preferred":[
+        "Fonta\u00ednhas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Fonta\u00ednhas",
+    "qs:loc_alt":"Fontainhas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.415,
+    "wd:longitude":-8.65,
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":736051,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2b884e7afbd4cd45ec5fa6d9a71bcf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759003,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759003,
+    "wof:lastmodified":1527714683,
+    "wof:name":"Fonta\u00ednhas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4263358576373,
+    38.70923838042648,
+    -9.41750626971179,
+    38.71539856037128
+],
+  "geometry": {"coordinates":[[[-9.41822969899778,38.70923838042648],[-9.41823055411515,38.7092421429428],[-9.42120012016886,38.71083556863022],[-9.42494837491961,38.70981331733452],[-9.42627043665692,38.71422687018998],[-9.4263358576373,38.71421343727667],[-9.42619768255196,38.71431213376621],[-9.42330054493863,38.71467427596798],[-9.42228654677388,38.71489156128894],[-9.41924455227979,38.71539856037128],[-9.41772355503281,38.71532613193096],[-9.41750626971179,38.71315327872105],[-9.41794084035382,38.71090799707054],[-9.41815812567478,38.70931457138329],[-9.41822969899778,38.70923838042648]]],"type":"Polygon"}
+}

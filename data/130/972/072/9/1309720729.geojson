@@ -1,0 +1,65 @@
+{
+  "id": 1309720729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23538,40.57424,-8.23538,40.57424",
+    "geom:latitude":40.57424,
+    "geom:longitude":-8.23538,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bracal",
+    "gn:country_code":"PT",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742039,
+    "gn:latitude":40.57424,
+    "gn:longitude":-8.23538,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Bra\u00e7al",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742039
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"486e945b20ec5e9e84f5bf08ad040140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309720729,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1309720729,
+    "wof:lastmodified":1537051484,
+    "wof:name":"Bracal",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23538,
+    40.57424,
+    -8.23538,
+    40.57424
+],
+  "geometry": {"coordinates":[-8.23538,40.57424],"type":"Point"}
+}

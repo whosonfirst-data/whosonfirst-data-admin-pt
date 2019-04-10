@@ -1,0 +1,63 @@
+{
+  "id": 1209306363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83333,40.03333,-8.83333,40.03333",
+    "geom:latitude":40.03333,
+    "geom:longitude":-8.83333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"60508.0",
+    "gn:asciiname":"Capela",
+    "gn:country_code":"PT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741530,
+    "gn:latitude":40.03333,
+    "gn:longitude":-8.83333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Capela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741530
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2eb236a9cad2f2fa7174205917565cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209306363
+        }
+    ],
+    "wof:id":1209306363,
+    "wof:lastmodified":1536291182,
+    "wof:name":"Capela",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83333,
+    40.03333,
+    -8.83333,
+    40.03333
+],
+  "geometry": {"coordinates":[-8.83333,40.03333],"type":"Point"}
+}

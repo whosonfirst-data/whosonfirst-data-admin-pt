@@ -1,0 +1,67 @@
+{
+  "id": 1242734425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86081,40.54247,-7.86081,40.54247",
+    "geom:latitude":40.54247,
+    "geom:longitude":-7.86081,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1809",
+    "gn:admin3_code":"180903.0",
+    "gn:asciiname":"Algeraz",
+    "gn:country_code":"PT",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743084,
+    "gn:latitude":40.54247,
+    "gn:longitude":-7.86081,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Algeraz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743084
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ab3bc8c6a58a57f6c5d62ac28b7dad71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242734425,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1242734425,
+    "wof:lastmodified":1536836975,
+    "wof:name":"Algeraz",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86081,
+    40.54247,
+    -7.86081,
+    40.54247
+],
+  "geometry": {"coordinates":[-7.86081,40.54247],"type":"Point"}
+}

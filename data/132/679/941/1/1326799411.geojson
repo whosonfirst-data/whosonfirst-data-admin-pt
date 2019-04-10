@@ -1,0 +1,67 @@
+{
+  "id": 1326799411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31839,40.40063,-8.31839,40.40063",
+    "geom:latitude":40.40063,
+    "geom:longitude":-8.31839,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"180804.0",
+    "gn:asciiname":"Vale de Mouro",
+    "gn:country_code":"PT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733094,
+    "gn:latitude":40.40063,
+    "gn:longitude":-8.31839,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Mouro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733094
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9ac2491acab01c726b8e30c400c6c182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326799411,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1326799411,
+    "wof:lastmodified":1537092945,
+    "wof:name":"Vale de Mouro",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31839,
+    40.40063,
+    -8.31839,
+    40.40063
+],
+  "geometry": {"coordinates":[-8.31839,40.40063],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243237611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87927,41.70371,-7.87927,41.70371",
+    "geom:latitude":41.70371,
+    "geom:longitude":-7.87927,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1702",
+    "gn:admin3_code":"170206.0",
+    "gn:asciiname":"Coimbro",
+    "gn:country_code":"PT",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740633,
+    "gn:latitude":41.70371,
+    "gn:longitude":-7.87927,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Coimbr\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740633
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0d90c60b32f620b4a78ebd86113ac227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243237611,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1243237611,
+    "wof:lastmodified":1536606841,
+    "wof:name":"Coimbro",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87927,
+    41.70371,
+    -7.87927,
+    41.70371
+],
+  "geometry": {"coordinates":[-7.87927,41.70371],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101849961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.354643,37.83192,-25.354643,37.83192",
+    "geom:latitude":37.83192,
+    "geom:longitude":-25.354643,
+    "iso:country":"PT",
+    "lbl:latitude":37.83192,
+    "lbl:longitude":-25.354643,
+    "mps:latitude":37.83192,
+    "mps:longitude":-25.354643,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lomba da Maia"
+    ],
+    "name:msa_x_preferred":[
+        "Lomba da Maia"
+    ],
+    "name:por_x_preferred":[
+        "Lomba da Maia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0431\u0430-\u0434\u0430-\u041c\u0430\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Lomba da Maia"
+    ],
+    "name:tur_x_preferred":[
+        "Lomba da Maia"
+    ],
+    "name:unk_x_variant":[
+        "Lomba da Maia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lombo da Maia",
+    "qs:loc_alt":"Lombo da Maia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1119,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650668-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372927,
+        "gp:id":538131,
+        "qs:id":5,
+        "wd:id":"Q2451862",
+        "wk:page":"Lomba da Maia"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c8170a88ae67fbe010ea740dbbd2d2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849961,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849961,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741198,
+    "wof:name":"Lombo da Maia",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.354643,
+    37.83192,
+    -25.354643,
+    37.83192
+],
+  "geometry": {"coordinates":[-25.354643,37.83192],"type":"Point"}
+}

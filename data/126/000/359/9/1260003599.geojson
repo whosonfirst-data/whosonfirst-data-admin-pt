@@ -1,0 +1,67 @@
+{
+  "id": 1260003599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22638,41.66286,-8.22638,41.66286",
+    "geom:latitude":41.66286,
+    "geom:longitude":-8.22638,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0310",
+    "gn:admin3_code":"31015.0",
+    "gn:asciiname":"Vilar-a-Monte",
+    "gn:country_code":"PT",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732485,
+    "gn:latitude":41.66286,
+    "gn:longitude":-8.22638,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilar-a-Monte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732485
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"193030083791d729fd2c260c3523ba0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260003599,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1260003599,
+    "wof:lastmodified":1536603071,
+    "wof:name":"Vilar-a-Monte",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22638,
+    41.66286,
+    -8.22638,
+    41.66286
+],
+  "geometry": {"coordinates":[-8.22638,41.66286],"type":"Point"}
+}

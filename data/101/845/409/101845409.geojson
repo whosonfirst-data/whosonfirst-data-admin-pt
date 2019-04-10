@@ -1,0 +1,81 @@
+{
+  "id": 101845409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":359662.049792,
+    "geom:bbox":"-8.71288359745,39.7927626212,-8.70336949296,39.8012874435",
+    "geom:latitude":39.797604,
+    "geom:longitude":-8.708281,
+    "iso:country":"PT",
+    "lbl:latitude":39.798748,
+    "lbl:longitude":-8.709398,
+    "mps:latitude":39.798748,
+    "mps:longitude":-8.709398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Colmeias"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Colmeias",
+    "qs:la_lc":"*PT11009109",
+    "qs:level":"locality",
+    "qs:loc":"Colmeias",
+    "qs:loc_alt":"Colmeias",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02748fca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2269132,
+        "gp:id":739699,
+        "qs:id":218614
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7a5456e226981ad454a253a61278237b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845409,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101845409,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642313,
+    "wof:name":"Colmeias",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71288359744881,
+    39.79276262115127,
+    -8.70336949296001,
+    39.80128744345802
+],
+  "geometry": {"coordinates":[[[-8.7106103046554,39.80128744345802],[-8.71035063306317,39.80041282302506],[-8.70807734140044,39.80085581107164],[-8.70755808367988,39.79910655041601],[-8.70528482128049,39.79954947169841],[-8.70502523514995,39.79867483147757],[-8.70388860789348,39.79889626883011],[-8.70336949296001,39.7971469755924],[-8.70677927011025,39.79648264491038],[-8.70600054414263,39.79385872197759],[-8.70486400068967,39.79408016825255],[-8.70460445889273,39.79320551990861],[-8.70687751093203,39.79276262115127],[-8.70713708085003,39.79363726250762],[-8.70827361081183,39.7934157898427],[-8.70931204405792,39.79691432192664],[-8.71158519622674,39.79647130905579],[-8.71288359744881,39.80084439563558],[-8.7106103046554,39.80128744345802]]],"type":"Polygon"}
+}

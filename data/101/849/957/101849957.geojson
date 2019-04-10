@@ -1,0 +1,90 @@
+{
+  "id": 101849957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.495176,37.827809,-25.495176,37.827809",
+    "geom:latitude":37.827809,
+    "geom:longitude":-25.495176,
+    "iso:country":"PT",
+    "lbl:latitude":37.827809,
+    "lbl:longitude":-25.495176,
+    "mps:latitude":37.827809,
+    "mps:longitude":-25.495176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Ribeirinha"
+    ],
+    "name:por_x_variant":[
+        "Riberinha"
+    ],
+    "name:unk_x_variant":[
+        "Riberinha"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ribeirinha",
+    "qs:loc_alt":"Ribeirinha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02651784-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372695,
+        "gp:id":538296,
+        "qs:id":1211020,
+        "qs_pg:id":464415
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"548bc21d514cea23d4835db901ef64b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849957,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849957,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741196,
+    "wof:name":"Ribeirinha",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.495176,
+    37.827809,
+    -25.495176,
+    37.827809
+],
+  "geometry": {"coordinates":[-25.495176,37.827809],"type":"Point"}
+}

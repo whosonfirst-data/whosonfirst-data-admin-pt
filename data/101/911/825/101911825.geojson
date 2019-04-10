@@ -1,0 +1,75 @@
+{
+  "id": 101911825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":157980.601399,
+    "geom:bbox":"-7.98351316352,41.6547003557,-7.97468878931,41.6588426976",
+    "geom:latitude":41.65686,
+    "geom:longitude":-7.978499,
+    "iso:country":"PT",
+    "lbl:latitude":41.656736,
+    "lbl:longitude":-7.978064,
+    "mps:latitude":41.656736,
+    "mps:longitude":-7.978064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Vila Real",
+    "qs:a1r":"1",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Salto",
+    "qs:la_lc":"*PT11706268",
+    "qs:level":"locality",
+    "qs:loc":"Mina da Borralha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742112,
+        "gp:id":737436,
+        "qs:id":996978,
+        "qs_pg:id":898541
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dae8e624f0d585db9a49021732d79f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101911825,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":101911825,
+    "wof:lastmodified":1507750786,
+    "wof:name":"Mina da Borralha",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98351316352409,
+    41.65470035569416,
+    -7.97468878931159,
+    41.65884269755213
+],
+  "geometry": {"coordinates":[[[-7.97693200912744,41.65470035569416],[-7.98351316352409,41.65811262583634],[-7.97951591220044,41.65884269755213],[-7.97925325118229,41.65796783696317],[-7.97691052225372,41.65839559968299],[-7.97638529227458,41.6566458588959],[-7.97521394786475,41.65685971263878],[-7.97468878931159,41.65510995754738],[-7.97693200912744,41.65470035569416]]],"type":"Polygon"}
+}

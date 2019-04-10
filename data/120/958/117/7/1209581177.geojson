@@ -1,0 +1,63 @@
+{
+  "id": 1209581177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46993,38.01495,-8.46993,38.01495",
+    "geom:latitude":38.01495,
+    "geom:longitude":-8.46993,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1509",
+    "gn:admin3_code":"150901.0",
+    "gn:asciiname":"Vale Grande",
+    "gn:country_code":"PT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261962,
+    "gn:latitude":38.01495,
+    "gn:longitude":-8.46993,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Grande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261962
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"576720bf47307c62a34e1c0099e4b404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209581177
+        }
+    ],
+    "wof:id":1209581177,
+    "wof:lastmodified":1536282783,
+    "wof:name":"Vale Grande",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46993,
+    38.01495,
+    -8.46993,
+    38.01495
+],
+  "geometry": {"coordinates":[-8.46993,38.01495],"type":"Point"}
+}

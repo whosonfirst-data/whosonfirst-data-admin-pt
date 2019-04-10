@@ -1,0 +1,74 @@
+{
+  "id": 1293448107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.53333,37.81667,-25.53333,37.81667",
+    "geom:latitude":37.81667,
+    "geom:longitude":-25.53333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4205",
+    "gn:admin3_code":"420511.0",
+    "gn:asciiname":"Ribeira Seca",
+    "gn:country_code":"PT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372700,
+    "gn:latitude":37.81667,
+    "gn:longitude":-25.53333,
+    "gn:modification_date":"2018-02-05",
+    "gn:name":"Ribeira Seca",
+    "gn:population":2950,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ribeira Secca",
+        "Ribeira Seca"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372700
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63e0cbbde4681c17fd3aeb24f4bc9b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293448107,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1293448107,
+    "wof:lastmodified":1537683180,
+    "wof:name":"Ribeira Seca",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:population":2950,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.53333,
+    37.81667,
+    -25.53333,
+    37.81667
+],
+  "geometry": {"coordinates":[-25.53333,37.81667],"type":"Point"}
+}

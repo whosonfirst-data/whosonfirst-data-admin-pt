@@ -1,0 +1,67 @@
+{
+  "id": 1259505743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39845,40.36682,-7.39845,40.36682",
+    "geom:latitude":40.36682,
+    "geom:longitude":-7.39845,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"50303.0",
+    "gn:asciiname":"Aldeia do Souto",
+    "gn:country_code":"PT",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743162,
+    "gn:latitude":40.36682,
+    "gn:longitude":-7.39845,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldeia do Souto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743162
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"36eed22f0cf63f680ebf10d6cd10e019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259505743,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1259505743,
+    "wof:lastmodified":1536825919,
+    "wof:name":"Aldeia do Souto",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39845,
+    40.36682,
+    -7.39845,
+    40.36682
+],
+  "geometry": {"coordinates":[-7.39845,40.36682],"type":"Point"}
+}

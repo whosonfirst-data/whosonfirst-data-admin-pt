@@ -1,0 +1,101 @@
+{
+  "id": 101759153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":575839.014372,
+    "geom:bbox":"-9.16440475967,38.8120980996,-9.15074321197,38.8212103172",
+    "geom:latitude":38.816103,
+    "geom:longitude":-9.158494,
+    "iso:country":"PT",
+    "lbl:latitude":38.815298,
+    "lbl:longitude":-9.15839,
+    "mps:latitude":38.815298,
+    "mps:longitude":-9.15839,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "name:ger_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0442\u043e\u043d\u0438\u0443-\u0434\u0443\u0448-\u041a\u0430\u0432\u0430\u043b\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0442\u043e\u043d\u0438\u0443-\u0434\u0443\u0448-\u041a\u0430\u0432\u0430\u043b\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Ant\u00f3nio dos Cavaleiros"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Santo Ant\u00f3nio dos Cavaleiros",
+    "qs:loc_alt":"Santo Antonio dos Cavaleiros",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012515,
+        "gp:id":22661041,
+        "qs:id":8,
+        "qs_pg:id":1118245,
+        "wd:id":"Q1024976"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1833267323a1cd44b0ccdabe3e456fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759153,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759153,
+    "wof:lastmodified":1527714680,
+    "wof:name":"Santo Ant\u00f3nio dos Cavaleiros",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16440475966982,
+    38.81209809961746,
+    -9.15074321196835,
+    38.82121031722284
+],
+  "geometry": {"coordinates":[[[-9.15426963620268,38.81876374013592],[-9.15074321196835,38.81576960635198],[-9.15391526327556,38.81512869206983],[-9.15365648798627,38.81425430184009],[-9.15589491690076,38.81380191363161],[-9.15567058873143,38.81304395865459],[-9.16246357636112,38.81209809961746],[-9.16218626039955,38.81348467942507],[-9.16411803961455,38.82012517047667],[-9.16440475966982,38.82045600130976],[-9.16283326818433,38.82121031722284],[-9.16244280921313,38.81989188039552],[-9.16132351704823,38.8201181605985],[-9.16080570822254,38.81836944107908],[-9.15968643630453,38.81859570137527],[-9.1594275596305,38.81772133511743],[-9.15426963620268,38.81876374013592]]],"type":"Polygon"}
+}

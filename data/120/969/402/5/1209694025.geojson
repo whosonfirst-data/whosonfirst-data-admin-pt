@@ -1,0 +1,63 @@
+{
+  "id": 1209694025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64776,40.45919,-7.64776,40.45919",
+    "geom:latitude":40.45919,
+    "geom:longitude":-7.64776,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0906",
+    "gn:admin3_code":"90613.0",
+    "gn:asciiname":"Pacos da Serra",
+    "gn:country_code":"PT",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736885,
+    "gn:latitude":40.45919,
+    "gn:longitude":-7.64776,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pa\u00e7os da Serra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736885
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7d89ac143e57f93ddf02ed3323a2c01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209694025
+        }
+    ],
+    "wof:id":1209694025,
+    "wof:lastmodified":1536279139,
+    "wof:name":"Pacos da Serra",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.647760000000001,
+    40.45919,
+    -7.647760000000001,
+    40.45919
+],
+  "geometry": {"coordinates":[-7.64776,40.45919],"type":"Point"}
+}

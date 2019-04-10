@@ -1,0 +1,73 @@
+{
+  "id": 1209371017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.26935,38.6563,-27.26935,38.6563",
+    "geom:latitude":38.6563,
+    "geom:longitude":-27.26935,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4301",
+    "gn:admin3_code":"430116.0",
+    "gn:asciiname":"Sao Mateus",
+    "gn:country_code":"PT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372600,
+    "gn:latitude":38.6563,
+    "gn:longitude":-27.26935,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"S\u00e3o Mateus",
+    "gn:population":3757,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Matheus",
+        "S\u00e3o Mateus da Calheta",
+        "S\u00e3o Matheus da Calheta",
+        "S\u00e3o Mateus"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372600,
+        "wk:page":"S%C3%A3o_Mateus_da_Calheta"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7a6fd38c77c34305e2287ffdfe551cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209371017
+        }
+    ],
+    "wof:id":1209371017,
+    "wof:lastmodified":1537683179,
+    "wof:name":"Sao Mateus",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:population":3757,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.26935,
+    38.6563,
+    -27.26935,
+    38.6563
+],
+  "geometry": {"coordinates":[-27.26935,38.6563],"type":"Point"}
+}

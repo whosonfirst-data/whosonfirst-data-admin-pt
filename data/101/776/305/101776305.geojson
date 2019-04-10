@@ -1,0 +1,77 @@
+{
+  "id": 101776305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"-8.49163094129,41.1103296333,-8.48235034147,41.1164507147",
+    "geom:latitude":41.113555,
+    "geom:longitude":-8.486159,
+    "iso:country":"PT",
+    "lbl:latitude":41.113962,
+    "lbl:longitude":-8.485842,
+    "mps:latitude":41.113962,
+    "mps:longitude":-8.485842,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Gens"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Foz do Sousa",
+    "qs:la_lc":"*PT11304038",
+    "qs:level":"locality",
+    "qs:loc":"Gens",
+    "qs:loc_alt":"Gens",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02711c0a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739031,
+        "gp:id":741812,
+        "qs:id":387428
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5bd5499cf79b17199c66af98328af613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776305,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776305,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625896,
+    "wof:name":"Gens",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49163094128517,
+    41.11032963330695,
+    -8.48235034147297,
+    41.11645071469661
+],
+  "geometry": {"coordinates":[[[-8.48413866366997,41.11251637141203],[-8.48360683381514,41.1107687327688],[-8.48592687870388,41.11032963330695],[-8.48645876822741,41.11207725759721],[-8.48877884423712,41.11163808974192],[-8.48904483410649,41.11251189189858],[-8.49136491139825,41.11207266282537],[-8.49163094128517,41.1129464559292],[-8.48931083416016,41.11338569218117],[-8.48957684439881,41.11425949058992],[-8.48841676521045,41.11447909203986],[-8.48868277071563,41.11535289216368],[-8.48288219310552,41.11645071469661],[-8.48235034147297,41.11470307668736],[-8.48351044143067,41.11448354637986],[-8.48297860068669,41.11273590805388],[-8.48413866366997,41.11251637141203]]],"type":"Polygon"}
+}

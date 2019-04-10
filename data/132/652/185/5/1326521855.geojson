@@ -1,0 +1,67 @@
+{
+  "id": 1326521855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83095,40.33829,-7.83095,40.33829",
+    "geom:latitude":40.33829,
+    "geom:longitude":-7.83095,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0611",
+    "gn:admin3_code":"61113.0",
+    "gn:asciiname":"Sao Pedro",
+    "gn:country_code":"PT",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734377,
+    "gn:latitude":40.33829,
+    "gn:longitude":-7.83095,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Pedro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734377
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aee53c19e5b96f5417d0c1f72c17f8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326521855,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1326521855,
+    "wof:lastmodified":1536998296,
+    "wof:name":"Sao Pedro",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83095,
+    40.33829,
+    -7.83095,
+    40.33829
+],
+  "geometry": {"coordinates":[-7.83095,40.33829],"type":"Point"}
+}

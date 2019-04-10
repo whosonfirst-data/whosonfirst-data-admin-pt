@@ -1,0 +1,80 @@
+{
+  "id": 1125862381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.668727,40.602125,-8.668727,40.602125",
+    "geom:latitude":40.602125,
+    "geom:longitude":-8.668727,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":40.602125,
+    "lbl:longitude":-8.668727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ilhavo-S\u00e3o Salvador",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Aveiro",
+    "qs_pg:photos":338,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":338,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1193755,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742199,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Aveiro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":742199,
+        "qs_pg:id":1193755
+    },
+    "wof:country":"PT",
+    "wof:created":1497293883,
+    "wof:geomhash":"a9fae458fe5a2f5029ea6eaa3ee6fec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125862381,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1125862381,
+    "wof:lastmodified":1509396715,
+    "wof:name":"Ilhavo-S\u00e3o Salvador",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.668727,
+    40.602125,
+    -8.668727,
+    40.602125
+],
+  "geometry": {"coordinates":[-8.668727,40.602125],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343494211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45198,41.52117,-8.45198,41.52117",
+    "geom:latitude":41.52117,
+    "geom:longitude":-8.45198,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0303",
+    "gn:admin3_code":"30306.0",
+    "gn:asciiname":"Noval",
+    "gn:country_code":"PT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737109,
+    "gn:latitude":41.52117,
+    "gn:longitude":-8.45198,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Noval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737109
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1a14a463ddfb72e30ab8c7feb31aa4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343494211,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1343494211,
+    "wof:lastmodified":1536697741,
+    "wof:name":"Noval",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45198,
+    41.52117,
+    -8.45198,
+    41.52117
+],
+  "geometry": {"coordinates":[-8.45198,41.52117],"type":"Point"}
+}

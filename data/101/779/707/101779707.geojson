@@ -1,0 +1,149 @@
+{
+  "id": 101779707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":869478.105206,
+    "geom:bbox":"-7.71213820319,38.2991893785,-7.69370017544,38.3128474816",
+    "geom:latitude":38.306123,
+    "geom:longitude":-7.703578,
+    "iso:country":"PT",
+    "lbl:latitude":38.309871,
+    "lbl:longitude":-7.705254,
+    "mps:latitude":38.309871,
+    "mps:longitude":-7.705254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Portel"
+    ],
+    "name:cat_x_preferred":[
+        "Portel"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u7279\u723e"
+    ],
+    "name:dan_x_preferred":[
+        "Portel"
+    ],
+    "name:dut_x_preferred":[
+        "Portel"
+    ],
+    "name:eng_x_preferred":[
+        "Portel"
+    ],
+    "name:fre_x_preferred":[
+        "Portel"
+    ],
+    "name:ger_x_preferred":[
+        "Portel"
+    ],
+    "name:hun_x_preferred":[
+        "Portel"
+    ],
+    "name:ita_x_preferred":[
+        "Portel"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\ud154"
+    ],
+    "name:may_x_preferred":[
+        "Perbandaran Portel"
+    ],
+    "name:nan_x_preferred":[
+        "Portel"
+    ],
+    "name:pol_x_preferred":[
+        "Portel"
+    ],
+    "name:por_x_colloquial":[
+        "Porteles Joao Baptista"
+    ],
+    "name:por_x_preferred":[
+        "Portel"
+    ],
+    "name:por_x_variant":[
+        "Porteles Jo\u00e3o Baptista"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Portel"
+    ],
+    "name:tur_x_preferred":[
+        "Portel"
+    ],
+    "name:unk_x_variant":[
+        "Porteles Jo\u00e3o Baptista"
+    ],
+    "name:vol_x_preferred":[
+        "Portel"
+    ],
+    "name:war_x_preferred":[
+        "Portel"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*\u00c9vora",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Portel",
+    "qs:la_lc":"*PT10709050",
+    "qs:level":"locality",
+    "qs:loc":"Portel",
+    "qs:loc_alt":"Portel",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0268bea2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264503,
+        "gp:id":746106,
+        "qs:id":1250215,
+        "qs_pg:id":1250215,
+        "wd:id":"Q591694"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d39c1fb016be7266a43450bfb49e6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779707,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":101779707,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815495,
+    "wof:name":"Portel",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71213820318872,
+    38.29918937852,
+    -7.69370017543679,
+    38.31284748160351
+],
+  "geometry": {"coordinates":[[[-7.70416497543522,38.31284748160351],[-7.70392883444237,38.31196774850719],[-7.70281404993801,38.3121767286641],[-7.70163354259773,38.307778019088],[-7.70051881929038,38.30798697039916],[-7.69957462366949,38.30446795619417],[-7.69845994812545,38.30467688184444],[-7.69822393438392,38.30379712041577],[-7.69710926632047,38.30400602994757],[-7.69687327469956,38.30312626346017],[-7.69575861411681,38.30333515687403],[-7.69528668380525,38.30157561190384],[-7.69417204413082,38.30178448602078],[-7.69370017543679,38.30002492717801],[-7.69815859106529,38.29918937852],[-7.69863056716088,38.30094891192698],[-7.69974518305611,38.30073998605963],[-7.69998119756787,38.30161974676463],[-7.70109582094182,38.30141080477966],[-7.70133185757277,38.30229056042538],[-7.70244648842549,38.30208160232252],[-7.70386297136741,38.30736007764972],[-7.70720706990505,38.30673306845352],[-7.70673479357998,38.30497360328371],[-7.7078494543419,38.30476458070541],[-7.70761331580127,38.30388484848288],[-7.70984259262769,38.30346677087709],[-7.71007875801752,38.304346496736],[-7.71119340093099,38.30413743534473],[-7.71213820318872,38.30765630725057],[-7.70990880400905,38.30807444255436],[-7.7101449994729,38.30895416219602],[-7.70903027752939,38.30916321362304],[-7.70926646826672,38.31004293456749],[-7.70815172694449,38.31025197623825],[-7.70838791295444,38.31113169848544],[-7.70727315225258,38.31134073039971],[-7.70750933353474,38.31222045394992],[-7.70416497543522,38.31284748160351]]],"type":"Polygon"}
+}

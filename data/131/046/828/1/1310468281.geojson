@@ -1,0 +1,67 @@
+{
+  "id": 1310468281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48431,39.59324,-8.48431,39.59324",
+    "geom:latitude":39.59324,
+    "geom:longitude":-8.48431,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141803.0",
+    "gn:asciiname":"Ponte",
+    "gn:country_code":"PT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264550,
+    "gn:latitude":39.59324,
+    "gn:longitude":-8.48431,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264550
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7d26e899542106fed49d08c5d4263b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310468281,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1310468281,
+    "wof:lastmodified":1536970359,
+    "wof:name":"Ponte",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48431,
+    39.59324,
+    -8.48431,
+    39.59324
+],
+  "geometry": {"coordinates":[-8.48431,39.59324],"type":"Point"}
+}

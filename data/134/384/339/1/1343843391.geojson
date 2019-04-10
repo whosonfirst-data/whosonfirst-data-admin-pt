@@ -1,0 +1,67 @@
+{
+  "id": 1343843391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55829,38.2868,-7.55829,38.2868",
+    "geom:latitude":38.2868,
+    "geom:longitude":-7.55829,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0709",
+    "gn:admin3_code":"70902.0",
+    "gn:asciiname":"Amieira",
+    "gn:country_code":"PT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271709,
+    "gn:latitude":38.2868,
+    "gn:longitude":-7.55829,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Amieira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271709
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"440af0fe41c779fcbed624b3cc2980f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343843391,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1343843391,
+    "wof:lastmodified":1536691417,
+    "wof:name":"Amieira",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55829,
+    38.2868,
+    -7.55829,
+    38.2868
+],
+  "geometry": {"coordinates":[-7.55829,38.2868],"type":"Point"}
+}

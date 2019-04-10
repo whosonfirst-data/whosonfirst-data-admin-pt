@@ -1,0 +1,67 @@
+{
+  "id": 1293023003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84415,39.63779,-7.84415,39.63779",
+    "geom:latitude":39.63779,
+    "geom:longitude":-7.84415,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0508",
+    "gn:admin3_code":"50805.0",
+    "gn:asciiname":"Sao Pedro do Esteval",
+    "gn:country_code":"PT",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263238,
+    "gn:latitude":39.63779,
+    "gn:longitude":-7.84415,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Pedro do Esteval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263238
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"25357521093f4fa13730e6cbe44122de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293023003,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1293023003,
+    "wof:lastmodified":1536959695,
+    "wof:name":"Sao Pedro do Esteval",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84415,
+    39.63779,
+    -7.84415,
+    39.63779
+],
+  "geometry": {"coordinates":[-7.84415,39.63779],"type":"Point"}
+}

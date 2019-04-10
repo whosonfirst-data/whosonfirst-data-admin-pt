@@ -1,0 +1,67 @@
+{
+  "id": 1327209825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85301,39.53418,-7.85301,39.53418",
+    "geom:latitude":39.53418,
+    "geom:longitude":-7.85301,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141305.0",
+    "gn:asciiname":"Montargil",
+    "gn:country_code":"PT",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266232,
+    "gn:latitude":39.53418,
+    "gn:longitude":-7.85301,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Montargil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266232
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9d464561b7d8663e5f805677637c9721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327209825,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1327209825,
+    "wof:lastmodified":1537001546,
+    "wof:name":"Montargil",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85301,
+    39.53418,
+    -7.85301,
+    39.53418
+],
+  "geometry": {"coordinates":[-7.85301,39.53418],"type":"Point"}
+}

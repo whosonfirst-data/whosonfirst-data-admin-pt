@@ -1,0 +1,67 @@
+{
+  "id": 1343283107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25005,40.20122,-8.25005,40.20122",
+    "geom:latitude":40.20122,
+    "geom:longitude":-8.25005,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0617",
+    "gn:admin3_code":"61703.0",
+    "gn:asciiname":"Vendinha",
+    "gn:country_code":"PT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732821,
+    "gn:latitude":40.20122,
+    "gn:longitude":-8.25005,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vendinha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732821
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2b29de3072f696df208c6217bddfc025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343283107,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1343283107,
+    "wof:lastmodified":1537001532,
+    "wof:name":"Vendinha",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25005,
+    40.20122,
+    -8.25005,
+    40.20122
+],
+  "geometry": {"coordinates":[-8.25005,40.20122],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101849969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.456236,37.725037,-25.456236,37.725037",
+    "geom:latitude":37.725037,
+    "geom:longitude":-25.456236,
+    "iso:country":"PT",
+    "lbl:latitude":37.725037,
+    "lbl:longitude":-25.456236,
+    "mps:latitude":37.725037,
+    "mps:longitude":-25.456236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "\u00c1gua de Alto"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c1gua de Alto"
+    ],
+    "name:por_x_colloquial":[
+        "Agua de Alto"
+    ],
+    "name:por_x_preferred":[
+        "\u00c1gua de Alto"
+    ],
+    "name:por_x_variant":[
+        "Agua d'Alto",
+        "Agua do Alto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0443\u0430-\u0434\u0435-\u0410\u043b\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c1gua de Alto"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c1gua de Alto"
+    ],
+    "name:unk_x_variant":[
+        "Agua d\u2019Alto"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u00c1gua de Alto",
+    "qs:loc_alt":"Agua de Alto",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":818,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264ec96-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3373378,
+        "gp:id":537851,
+        "qs:id":496589,
+        "qs_pg:id":496589,
+        "wd:id":"Q2451558",
+        "wk:page":"\u00c1gua de Alto"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54d19108221af0915acecf5e72d8ae32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849969,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849969,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741201,
+    "wof:name":"\u00c1gua de Alto",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.456236,
+    37.725037,
+    -25.456236,
+    37.725037
+],
+  "geometry": {"coordinates":[-25.456236,37.725037],"type":"Point"}
+}

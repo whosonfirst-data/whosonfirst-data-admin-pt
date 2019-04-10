@@ -1,0 +1,67 @@
+{
+  "id": 1309897565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6,40.23333,-8.6,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":-8.6,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61011.0",
+    "gn:asciiname":"Povoa de Santa Catarina",
+    "gn:country_code":"PT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735793,
+    "gn:latitude":40.23333,
+    "gn:longitude":-8.6,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00f3voa de Santa Catarina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735793
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c37bd8cdf5049dc9dbd64b0d8ea8fc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309897565,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1309897565,
+    "wof:lastmodified":1536798911,
+    "wof:name":"Povoa de Santa Catarina",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6,
+    40.23333,
+    -8.6,
+    40.23333
+],
+  "geometry": {"coordinates":[-8.6,40.23333],"type":"Point"}
+}

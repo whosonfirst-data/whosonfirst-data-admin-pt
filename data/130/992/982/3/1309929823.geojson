@@ -1,0 +1,67 @@
+{
+  "id": 1309929823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3855,41.60382,-8.3855,41.60382",
+    "geom:latitude":41.60382,
+    "geom:longitude":-8.3855,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0303",
+    "gn:admin3_code":"30327.0",
+    "gn:asciiname":"Cortinhal",
+    "gn:country_code":"PT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740491,
+    "gn:latitude":41.60382,
+    "gn:longitude":-8.3855,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cortinhal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740491
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"baef75afd6d76f57edcf4c73c961804f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309929823,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1309929823,
+    "wof:lastmodified":1536752308,
+    "wof:name":"Cortinhal",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3855,
+    41.60382,
+    -8.3855,
+    41.60382
+],
+  "geometry": {"coordinates":[-8.3855,41.60382],"type":"Point"}
+}

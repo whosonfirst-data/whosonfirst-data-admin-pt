@@ -1,0 +1,67 @@
+{
+  "id": 1242661115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1,38.8,-9.1,38.8",
+    "geom:latitude":38.8,
+    "geom:longitude":-9.1,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1107",
+    "gn:admin3_code":"110722.0",
+    "gn:asciiname":"Cumieira",
+    "gn:country_code":"PT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268766,
+    "gn:latitude":38.8,
+    "gn:longitude":-9.1,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cumieira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268766
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54b6dffd18037081d8cefd89173de16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242661115,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1242661115,
+    "wof:lastmodified":1536944058,
+    "wof:name":"Cumieira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1,
+    38.8,
+    -9.1,
+    38.8
+],
+  "geometry": {"coordinates":[-9.1,38.8],"type":"Point"}
+}

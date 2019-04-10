@@ -1,0 +1,96 @@
+{
+  "id": 101874833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.456512,40.60853,-8.456512,40.60853",
+    "geom:latitude":40.60853,
+    "geom:longitude":-8.456512,
+    "iso:country":"PT",
+    "lbl:latitude":40.60853,
+    "lbl:longitude":-8.456512,
+    "mps:latitude":40.60853,
+    "mps:longitude":-8.456512,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mouriscas"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0440\u0438\u0448\u043a\u0430\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Mouriscas"
+    ],
+    "name:por_x_preferred":[
+        "Mouriscas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0438\u0448\u043a\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Mouriscas"
+    ],
+    "name:tur_x_preferred":[
+        "Mouriscas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mourisca",
+    "qs:loc_alt":"Mourisca",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29382935,
+        "qs:id":1,
+        "wd:id":"Q1950999"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"773cb6a52ee3ce590b19e0428030a024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874833,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101874833,
+    "wof:lastmodified":1544751814,
+    "wof:name":"Mourisca",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.456512,
+    40.60853,
+    -8.456512,
+    40.60853
+],
+  "geometry": {"coordinates":[-8.456512,40.60853],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293655583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74925,39.2238,-8.74925,39.2238",
+    "geom:latitude":39.2238,
+    "geom:longitude":-8.74925,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141616.0",
+    "gn:asciiname":"Pinheirinho",
+    "gn:country_code":"PT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264715,
+    "gn:latitude":39.2238,
+    "gn:longitude":-8.74925,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pinheirinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264715
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cec7f8ec2032cd410b8c2e04402e5f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293655583,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1293655583,
+    "wof:lastmodified":1537040325,
+    "wof:name":"Pinheirinho",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74925,
+    39.2238,
+    -8.74925,
+    39.2238
+],
+  "geometry": {"coordinates":[-8.74925,39.2238],"type":"Point"}
+}

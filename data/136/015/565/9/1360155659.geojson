@@ -1,0 +1,65 @@
+{
+  "id": 1360155659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19741,39.24944,-9.19741,39.24944",
+    "geom:latitude":39.24944,
+    "geom:longitude":-9.19741,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cantarola",
+    "gn:country_code":"PT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270239,
+    "gn:latitude":39.24944,
+    "gn:longitude":-9.19741,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Cantarola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270239
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"87f7ced77cf61a11412023d9a019b35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360155659,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1360155659,
+    "wof:lastmodified":1536842924,
+    "wof:name":"Cantarola",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19741,
+    39.24944,
+    -9.19741,
+    39.24944
+],
+  "geometry": {"coordinates":[-9.19741,39.24944],"type":"Point"}
+}

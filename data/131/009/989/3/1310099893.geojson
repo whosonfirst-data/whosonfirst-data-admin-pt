@@ -1,0 +1,67 @@
+{
+  "id": 1310099893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00384,37.12819,-8.00384,37.12819",
+    "geom:latitude":37.12819,
+    "geom:longitude":-8.00384,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80808.0",
+    "gn:asciiname":"Vale de Ras",
+    "gn:country_code":"PT",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262102,
+    "gn:latitude":37.12819,
+    "gn:longitude":-8.00384,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Vale de R\u00e3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262102
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"38683e20d505d539285120140fbeabee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310099893,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1310099893,
+    "wof:lastmodified":1537003830,
+    "wof:name":"Vale de Ras",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00384,
+    37.12819,
+    -8.00384,
+    37.12819
+],
+  "geometry": {"coordinates":[-8.00384,37.12819],"type":"Point"}
+}

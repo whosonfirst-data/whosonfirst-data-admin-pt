@@ -1,0 +1,125 @@
+{
+  "id": 101759151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":642301.108831,
+    "geom:bbox":"-9.13612512784,38.7984661555,-9.12507500054,38.8086848059",
+    "geom:latitude":38.803824,
+    "geom:longitude":-9.130171,
+    "gn:population":20177,
+    "iso:country":"PT",
+    "lbl:latitude":38.803544,
+    "lbl:longitude":-9.129727,
+    "mps:latitude":38.803544,
+    "mps:longitude":-9.129727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cze_x_preferred":[
+        "Camarate"
+    ],
+    "name:dut_x_preferred":[
+        "Camarate"
+    ],
+    "name:eng_x_preferred":[
+        "Camarate"
+    ],
+    "name:fre_x_preferred":[
+        "Camarate"
+    ],
+    "name:ger_x_preferred":[
+        "Camarate"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0440\u0430\u0442\u0435"
+    ],
+    "name:may_x_preferred":[
+        "Camarate"
+    ],
+    "name:pol_x_preferred":[
+        "Camarate"
+    ],
+    "name:por_x_preferred":[
+        "Camarate"
+    ],
+    "name:por_x_variant":[
+        "Camrate"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0440\u0430\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Camarate"
+    ],
+    "name:unk_x_variant":[
+        "Camrate"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Camarate",
+    "qs:loc_alt":"Camarate",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":889,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02686f7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270377,
+        "gp:id":737960,
+        "qs:id":1231561,
+        "qs_pg:id":1231561,
+        "wd:id":"Q1028029",
+        "wk:page":"Camarate"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8997abfb0fcd3c690ba952e996873a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759151,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759151,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714675,
+    "wof:name":"Camarate",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":20177,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13612512784181,
+    38.79846615550542,
+    -9.12507500053607,
+    38.80868480587327
+],
+  "geometry": {"coordinates":[[[-9.12589585074431,38.80861435440266],[-9.12541431596287,38.80698440790474],[-9.12507500053607,38.80705287667314],[-9.12681055352522,38.80213547653716],[-9.12607751230524,38.79938657196226],[-9.12644834492238,38.79947928011649],[-9.12910454134305,38.79923780771458],[-9.13016556313073,38.79846615550542],[-9.1318814739646,38.80092811452766],[-9.13465840658614,38.80225621273814],[-9.13612512784181,38.80225621273814],[-9.13490040535146,38.80698014234417],[-9.13488444426173,38.80692614509576],[-9.13264612725737,38.80737803541592],[-9.13238769052543,38.80650356346433],[-9.12791103152426,38.80740717476448],[-9.12816941463313,38.80828166059257],[-9.12617178567126,38.80868480587327],[-9.12589585074431,38.80861435440266]]],"type":"Polygon"}
+}

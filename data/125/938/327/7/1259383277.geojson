@@ -1,0 +1,67 @@
+{
+  "id": 1259383277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55869,41.45713,-8.55869,41.45713",
+    "geom:latitude":41.45713,
+    "geom:longitude":-8.55869,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30284.0",
+    "gn:asciiname":"Monte de Luvar",
+    "gn:country_code":"PT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737459,
+    "gn:latitude":41.45713,
+    "gn:longitude":-8.55869,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte de Luvar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737459
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"06d786f88fd69f2ee68b467131fb26af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259383277,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259383277,
+    "wof:lastmodified":1537001814,
+    "wof:name":"Monte de Luvar",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55869,
+    41.45713,
+    -8.55869,
+    41.45713
+],
+  "geometry": {"coordinates":[-8.55869,41.45713],"type":"Point"}
+}

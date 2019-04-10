@@ -1,0 +1,63 @@
+{
+  "id": 1209183763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02474,39.10084,-7.02474,39.10084",
+    "geom:latitude":39.10084,
+    "geom:longitude":-7.02474,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1204",
+    "gn:admin3_code":"120403.0",
+    "gn:asciiname":"Defezinha",
+    "gn:country_code":"PT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268712,
+    "gn:latitude":39.10084,
+    "gn:longitude":-7.02474,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Defezinha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268712
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"edac5bb9cf814bb4082a3b40abfbc734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209183763
+        }
+    ],
+    "wof:id":1209183763,
+    "wof:lastmodified":1536295170,
+    "wof:name":"Defezinha",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02474,
+    39.10084000000001,
+    -7.02474,
+    39.10084000000001
+],
+  "geometry": {"coordinates":[-7.02474,39.10084000000001],"type":"Point"}
+}

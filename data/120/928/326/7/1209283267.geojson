@@ -1,0 +1,63 @@
+{
+  "id": 1209283267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90257,41.0668,-7.90257,41.0668",
+    "geom:latitude":41.0668,
+    "geom:longitude":-7.90257,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1813",
+    "gn:admin3_code":"181310.0",
+    "gn:asciiname":"Ferreiros",
+    "gn:country_code":"PT",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739638,
+    "gn:latitude":41.0668,
+    "gn:longitude":-7.90257,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ferreir\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739638
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e6e9d39d7165745fedb5d95cc4e0edb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209283267
+        }
+    ],
+    "wof:id":1209283267,
+    "wof:lastmodified":1536291947,
+    "wof:name":"Ferreiros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90257,
+    41.0668,
+    -7.90257,
+    41.0668
+],
+  "geometry": {"coordinates":[-7.90257,41.0668],"type":"Point"}
+}

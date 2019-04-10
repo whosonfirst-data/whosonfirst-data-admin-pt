@@ -1,0 +1,67 @@
+{
+  "id": 1242763891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15334,39.49643,-9.15334,39.49643",
+    "geom:latitude":39.49643,
+    "geom:longitude":-9.15334,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1006",
+    "gn:admin3_code":"100610.0",
+    "gn:asciiname":"Salir de Porto",
+    "gn:country_code":"PT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263608,
+    "gn:latitude":39.49643,
+    "gn:longitude":-9.15334,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Salir de Porto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263608
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8f77712a92687aba2edafe63965e0447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242763891,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1242763891,
+    "wof:lastmodified":1536795622,
+    "wof:name":"Salir de Porto",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15334,
+    39.49643,
+    -9.15334,
+    39.49643
+],
+  "geometry": {"coordinates":[-9.15334,39.49643],"type":"Point"}
+}

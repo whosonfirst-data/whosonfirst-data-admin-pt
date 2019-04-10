@@ -1,0 +1,65 @@
+{
+  "id": 1343439933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2901,39.29793,-9.2901,39.29793",
+    "geom:latitude":39.29793,
+    "geom:longitude":-9.2901,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Carnide",
+    "gn:country_code":"PT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270147,
+    "gn:latitude":39.29793,
+    "gn:longitude":-9.2901,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Carnide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270147
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b228e64cb2bcef3304059f10357d5ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343439933,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1343439933,
+    "wof:lastmodified":1536776512,
+    "wof:name":"Carnide",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2901,
+    39.29793,
+    -9.2901,
+    39.29793
+],
+  "geometry": {"coordinates":[-9.2901,39.29793],"type":"Point"}
+}

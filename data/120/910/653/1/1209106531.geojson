@@ -1,0 +1,63 @@
+{
+  "id": 1209106531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53366,41.50578,-8.53366,41.50578",
+    "geom:latitude":41.50578,
+    "geom:longitude":-8.53366,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30270.0",
+    "gn:asciiname":"Justamonte",
+    "gn:country_code":"PT",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738614,
+    "gn:latitude":41.50578,
+    "gn:longitude":-8.53366,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Justamonte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738614
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6660b634e91e4b29cb3ddccad8e29526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209106531
+        }
+    ],
+    "wof:id":1209106531,
+    "wof:lastmodified":1536297552,
+    "wof:name":"Justamonte",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.533660000000001,
+    41.50578,
+    -8.533660000000001,
+    41.50578
+],
+  "geometry": {"coordinates":[-8.53366,41.50578],"type":"Point"}
+}

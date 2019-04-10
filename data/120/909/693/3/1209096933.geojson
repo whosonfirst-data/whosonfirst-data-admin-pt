@@ -1,0 +1,64 @@
+{
+  "id": 1209096933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16601,38.54079,-8.16601,38.54079",
+    "geom:latitude":38.54079,
+    "geom:longitude":-8.16601,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0706",
+    "gn:admin3_code":"70605.0",
+    "gn:asciiname":"Escoural",
+    "gn:country_code":"PT",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268525,
+    "gn:latitude":38.54079,
+    "gn:longitude":-8.16601,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Escoural",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268525,
+        "wk:page":"Escoural"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"289439ef44b9f9588b49fe78446481ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209096933
+        }
+    ],
+    "wof:id":1209096933,
+    "wof:lastmodified":1537571937,
+    "wof:name":"Escoural",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16601,
+    38.54079,
+    -8.16601,
+    38.54079
+],
+  "geometry": {"coordinates":[-8.16601,38.54079],"type":"Point"}
+}

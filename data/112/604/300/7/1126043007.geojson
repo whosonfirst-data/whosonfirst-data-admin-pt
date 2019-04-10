@@ -1,0 +1,80 @@
+{
+  "id": 1126043007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3358035,39.276973,-9.3358035,39.276973",
+    "geom:latitude":39.276973,
+    "geom:longitude":-9.335804,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":39.276973,
+    "lbl:longitude":-9.335804,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Casal do Alto Foz",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":32,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":32,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":974083,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29382407,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29382407,
+        "qs_pg:id":974083
+    },
+    "wof:country":"PT",
+    "wof:created":1497302268,
+    "wof:geomhash":"73f4659feb7beb257663e1250f54138e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126043007,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1126043007,
+    "wof:lastmodified":1509408666,
+    "wof:name":"Casal do Alto Foz",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3358035,
+    39.276973,
+    -9.3358035,
+    39.276973
+],
+  "geometry": {"coordinates":[-9.3358035,39.276973],"type":"Point"}
+}

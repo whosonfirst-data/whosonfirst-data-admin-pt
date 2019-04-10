@@ -1,0 +1,63 @@
+{
+  "id": 1209516339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43429,41.3655,-8.43429,41.3655",
+    "geom:latitude":41.3655,
+    "geom:longitude":-8.43429,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0312",
+    "gn:admin3_code":"31204.0",
+    "gn:asciiname":"Canicos",
+    "gn:country_code":"PT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741553,
+    "gn:latitude":41.3655,
+    "gn:longitude":-8.43429,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cani\u00e7os",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741553
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"729c447675bd6ade97cc0a8faabd2ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209516339
+        }
+    ],
+    "wof:id":1209516339,
+    "wof:lastmodified":1536284721,
+    "wof:name":"Canicos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.434289999999999,
+    41.3655,
+    -8.434289999999999,
+    41.3655
+],
+  "geometry": {"coordinates":[-8.43429,41.3655],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243435435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46928,40.59542,-7.46928,40.59542",
+    "geom:latitude":40.59542,
+    "geom:longitude":-7.46928,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0903",
+    "gn:admin3_code":"90310.0",
+    "gn:asciiname":"Carvalheda",
+    "gn:country_code":"PT",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741302,
+    "gn:latitude":40.59542,
+    "gn:longitude":-7.46928,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carvalheda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741302
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"62235c16efed2922888ef5f548aef4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243435435,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1243435435,
+    "wof:lastmodified":1536820515,
+    "wof:name":"Carvalheda",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46928,
+    40.59542,
+    -7.46928,
+    40.59542
+],
+  "geometry": {"coordinates":[-7.46928,40.59542],"type":"Point"}
+}

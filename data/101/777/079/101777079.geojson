@@ -1,0 +1,77 @@
+{
+  "id": 101777079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:bbox":"-8.38813844667,39.5143140849,-8.37239859766,39.52591419",
+    "geom:latitude":39.520189,
+    "geom:longitude":-8.379949,
+    "iso:country":"PT",
+    "lbl:latitude":39.518919,
+    "lbl:longitude":-8.379412,
+    "mps:latitude":39.518919,
+    "mps:longitude":-8.379412,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Linhaceira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Asseiceira",
+    "qs:la_lc":"*PT11418025",
+    "qs:level":"locality",
+    "qs:loc":"Linhaceira",
+    "qs:loc_alt":"Linhaceira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027554c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267065,
+        "gp:id":29387303,
+        "qs:id":975332
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d3a8cdb11ec1c1d1118ebbeedac48690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777079,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101777079,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625899,
+    "wof:name":"Linhaceira",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38813844666652,
+    39.51431408488082,
+    -8.37239859766476,
+    39.52591419003176
+],
+  "geometry": {"coordinates":[[[-8.37932880831346,39.52591419003176],[-8.37831599537645,39.52240998797981],[-8.37265170735623,39.5234972028386],[-8.37239859766476,39.52262113050534],[-8.37466430455726,39.52218629085201],[-8.37339875830151,39.51780593465367],[-8.37566429927864,39.51737107646619],[-8.37541119047148,39.51649500631925],[-8.37654393717298,39.51627756090113],[-8.37629082385735,39.51540149225474],[-8.3819543893573,39.51431408488082],[-8.38372687031114,39.52044640596978],[-8.384859661571,39.52022886115634],[-8.38511292497702,39.52110489597737],[-8.38624572366103,39.52088733459669],[-8.38649901050849,39.52176336409684],[-8.38763181661648,39.52154578614864],[-8.38813844666652,39.52329783259665],[-8.38700561261351,39.523515417368],[-8.38725892787215,39.52439144113907],[-8.386126073296,39.52460901616604],[-8.38587277201111,39.52373298898317],[-8.38020847076996,39.52482064970803],[-8.38046170218126,39.52569669394711],[-8.37932880831346,39.52591419003176]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309900249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10365,39.99177,-8.10365,39.99177",
+    "geom:latitude":39.99177,
+    "geom:longitude":-8.10365,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60601.0",
+    "gn:asciiname":"Camelinho",
+    "gn:country_code":"PT",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270366,
+    "gn:latitude":39.99177,
+    "gn:longitude":-8.10365,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Camelinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270366
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0ce2d4438074de6eddee90972342de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309900249,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1309900249,
+    "wof:lastmodified":1536795192,
+    "wof:name":"Camelinho",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10365,
+    39.99177,
+    -8.10365,
+    39.99177
+],
+  "geometry": {"coordinates":[-8.10365,39.99177],"type":"Point"}
+}

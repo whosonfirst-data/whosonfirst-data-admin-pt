@@ -1,0 +1,71 @@
+{
+  "id": 1344235291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73267,40.38339,-7.73267,40.38339",
+    "geom:latitude":40.38339,
+    "geom:longitude":-7.73267,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0912",
+    "gn:admin3_code":"91228.0",
+    "gn:asciiname":"Vila Cova a Coelheira",
+    "gn:country_code":"PT",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732667,
+    "gn:latitude":40.38339,
+    "gn:longitude":-7.73267,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vila Cova \u00e0 Coelheira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Miguel",
+        "Vila Cova \u00e0 Coelheira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732667
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"10bd95fe63b57a352bd0c1bff688279f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344235291,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1344235291,
+    "wof:lastmodified":1537683157,
+    "wof:name":"Vila Cova a Coelheira",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73267,
+    40.38339000000001,
+    -7.73267,
+    40.38339000000001
+],
+  "geometry": {"coordinates":[-7.73267,40.38339000000001],"type":"Point"}
+}

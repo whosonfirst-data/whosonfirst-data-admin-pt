@@ -1,0 +1,67 @@
+{
+  "id": 1343747479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64504,38.3316,-7.64504,38.3316",
+    "geom:latitude":38.3316,
+    "geom:longitude":-7.64504,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0709",
+    "gn:admin3_code":"70902.0",
+    "gn:asciiname":"Cu Marinho",
+    "gn:country_code":"PT",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268781,
+    "gn:latitude":38.3316,
+    "gn:longitude":-7.64504,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cu Marinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268781
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5a00a8bd98d9e1e26b3154d3c7f0e82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343747479,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1343747479,
+    "wof:lastmodified":1536828694,
+    "wof:name":"Cu Marinho",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64504,
+    38.3316,
+    -7.64504,
+    38.3316
+],
+  "geometry": {"coordinates":[-7.64504,38.3316],"type":"Point"}
+}

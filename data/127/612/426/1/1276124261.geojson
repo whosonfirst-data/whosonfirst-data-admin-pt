@@ -1,0 +1,67 @@
+{
+  "id": 1276124261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60568,41.57128,-8.60568,41.57128",
+    "geom:latitude":41.57128,
+    "geom:longitude":-8.60568,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30243.0",
+    "gn:asciiname":"Raindos",
+    "gn:country_code":"PT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735487,
+    "gn:latitude":41.57128,
+    "gn:longitude":-8.60568,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Raindos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735487
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40328abbe3eda065de527a407555b5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276124261,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1276124261,
+    "wof:lastmodified":1537056232,
+    "wof:name":"Raindos",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60568,
+    41.57128,
+    -8.60568,
+    41.57128
+],
+  "geometry": {"coordinates":[-8.60568,41.57128],"type":"Point"}
+}

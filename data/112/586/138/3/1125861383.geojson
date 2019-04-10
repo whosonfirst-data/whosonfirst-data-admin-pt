@@ -1,0 +1,117 @@
+{
+  "id": 1125861383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.507,41.03508,-8.507,41.03508",
+    "geom:latitude":41.03508,
+    "geom:longitude":-8.507,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6449,
+    "gn:population":6449,
+    "iso:country":"PT",
+    "lbl:latitude":41.03508,
+    "lbl:longitude":-8.507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "Sandim"
+    ],
+    "name:dut_x_preferred":[
+        "Sandim"
+    ],
+    "name:eng_x_preferred":[
+        "Sandim"
+    ],
+    "name:fre_x_preferred":[
+        "Sandim"
+    ],
+    "name:ger_x_preferred":[
+        "Sandim"
+    ],
+    "name:may_x_preferred":[
+        "Sandim"
+    ],
+    "name:por_x_preferred":[
+        "Sandim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Sandim"
+    ],
+    "name:tur_x_preferred":[
+        "Sandim"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734803,
+    "qs_pg:gn_pop":6449,
+    "qs_pg:name":"Sandim",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":208253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":56041030,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734803,
+        "gp:id":56041030,
+        "qs_pg:id":208253,
+        "wd:id":"Q2117368"
+    },
+    "wof:country":"PT",
+    "wof:created":1497293843,
+    "wof:geomhash":"d78cd346247568e1833b7cbc4f1e263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125861383,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125861383,
+    "wof:lastmodified":1514498133,
+    "wof:name":"Sandim",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":6449,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.507,
+    41.03508,
+    -8.507,
+    41.03508
+],
+  "geometry": {"coordinates":[-8.507,41.03508],"type":"Point"}
+}

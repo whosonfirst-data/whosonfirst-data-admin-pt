@@ -1,0 +1,67 @@
+{
+  "id": 1343318435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54452,40.94905,-7.54452,40.94905",
+    "geom:latitude":40.94905,
+    "geom:longitude":-7.54452,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1818",
+    "gn:admin3_code":"181806.0",
+    "gn:asciiname":"Faia",
+    "gn:country_code":"PT",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8659195,
+    "gn:latitude":40.94905,
+    "gn:longitude":-7.54452,
+    "gn:modification_date":"2014-01-10",
+    "gn:name":"Faia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8659195
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0ae008fa8561a18d631294865deb036a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343318435,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343318435,
+    "wof:lastmodified":1536951579,
+    "wof:name":"Faia",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54452,
+    40.94905,
+    -7.54452,
+    40.94905
+],
+  "geometry": {"coordinates":[-7.54452,40.94905],"type":"Point"}
+}

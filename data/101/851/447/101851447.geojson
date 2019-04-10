@@ -1,0 +1,81 @@
+{
+  "id": 101851447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90469,39.758461,-8.90469,39.758461",
+    "geom:latitude":39.758461,
+    "geom:longitude":-8.90469,
+    "iso:country":"PT",
+    "lbl:latitude":39.758461,
+    "lbl:longitude":-8.90469,
+    "mps:latitude":39.758461,
+    "mps:longitude":-8.90469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Trutas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Trutas",
+    "qs:loc_alt":"Trutas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026b5a2c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262484,
+        "gp:id":749651,
+        "qs:id":7
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"736346fe0b354959784ae9f573a9d7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851447,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101851447,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741795,
+    "wof:name":"Trutas",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90469,
+    39.758461,
+    -8.90469,
+    39.758461
+],
+  "geometry": {"coordinates":[-8.90469,39.758461],"type":"Point"}
+}

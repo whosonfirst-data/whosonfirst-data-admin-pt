@@ -1,0 +1,67 @@
+{
+  "id": 1310205281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53786,41.5427,-8.53786,41.5427",
+    "geom:latitude":41.5427,
+    "geom:longitude":-8.53786,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30211.0",
+    "gn:asciiname":"Loureiro",
+    "gn:country_code":"PT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738177,
+    "gn:latitude":41.5427,
+    "gn:longitude":-8.53786,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Loureiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738177
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"13821feaab6202ee254c3140624ce47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310205281,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310205281,
+    "wof:lastmodified":1536851485,
+    "wof:name":"Loureiro",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53786,
+    41.5427,
+    -8.53786,
+    41.5427
+],
+  "geometry": {"coordinates":[-8.53786,41.5427],"type":"Point"}
+}

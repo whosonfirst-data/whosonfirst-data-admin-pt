@@ -1,0 +1,101 @@
+{
+  "id": 101849959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.430483,37.821678,-25.430483,37.821678",
+    "geom:latitude":37.821678,
+    "geom:longitude":-25.430483,
+    "iso:country":"PT",
+    "lbl:latitude":37.821678,
+    "lbl:longitude":-25.430483,
+    "mps:latitude":37.821678,
+    "mps:longitude":-25.430483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Porto Formoso"
+    ],
+    "name:msa_x_preferred":[
+        "Porto Formoso"
+    ],
+    "name:por_x_preferred":[
+        "Porto Formoso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443-\u0424\u043e\u0440\u043c\u043e\u0437\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Porto Formoso"
+    ],
+    "name:tur_x_preferred":[
+        "Porto Formoso"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Porto Formoso",
+    "qs:loc_alt":"Porto Formoso",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":473,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650f82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372771,
+        "gp:id":538225,
+        "qs:id":1218815,
+        "qs_pg:id":1218815,
+        "wd:id":"Q2451740",
+        "wk:page":"Porto Formoso"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3a739bf159e8ee8e1aaf8e433b497fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849959,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849959,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741197,
+    "wof:name":"Porto Formoso",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.430483,
+    37.821678,
+    -25.430483,
+    37.821678
+],
+  "geometry": {"coordinates":[-25.430483,37.821678],"type":"Point"}
+}

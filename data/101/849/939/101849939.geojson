@@ -1,0 +1,90 @@
+{
+  "id": 101849939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.386837,37.831085,-25.386837,37.831085",
+    "geom:latitude":37.831085,
+    "geom:longitude":-25.386837,
+    "iso:country":"PT",
+    "lbl:latitude":37.831085,
+    "lbl:longitude":-25.386837,
+    "mps:latitude":37.831085,
+    "mps:longitude":-25.386837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Maia"
+    ],
+    "name:por_x_variant":[
+        "Maia S Migue",
+        "Maia S. Migue",
+        "Maia Sao Migue"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Maia",
+    "qs:loc_alt":"Maia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026507ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372901,
+        "gp:id":538151,
+        "qs:id":1156218,
+        "qs_pg:id":1156218,
+        "wd:id":"Q980072",
+        "wk:page":"Maia (Ribeira Grande)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b7b8092e4384de2885e3d7eaa8594a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849939,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849939,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741188,
+    "wof:name":"Maia",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.386837,
+    37.831085,
+    -25.386837,
+    37.831085
+],
+  "geometry": {"coordinates":[-25.386837,37.831085],"type":"Point"}
+}

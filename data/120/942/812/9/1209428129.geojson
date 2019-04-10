@@ -1,0 +1,63 @@
+{
+  "id": 1209428129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45,40.65,-8.45,40.65",
+    "geom:latitude":40.65,
+    "geom:longitude":-8.45,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"10112.0",
+    "gn:asciiname":"Alto da Boa Vista",
+    "gn:country_code":"PT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743022,
+    "gn:latitude":40.65,
+    "gn:longitude":-8.45,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alto da Boa Vista",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743022
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6c2066924d19d6680942036b6705983a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209428129
+        }
+    ],
+    "wof:id":1209428129,
+    "wof:lastmodified":1536287317,
+    "wof:name":"Alto da Boa Vista",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45,
+    40.65,
+    -8.45,
+    40.65
+],
+  "geometry": {"coordinates":[-8.45,40.65],"type":"Point"}
+}

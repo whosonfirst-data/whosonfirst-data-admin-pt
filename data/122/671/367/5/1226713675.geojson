@@ -1,0 +1,67 @@
+{
+  "id": 1226713675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40008,41.11337,-8.40008,41.11337",
+    "geom:latitude":41.11337,
+    "geom:longitude":-8.40008,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1310",
+    "gn:admin3_code":"131020.0",
+    "gn:asciiname":"Santa Comba",
+    "gn:country_code":"PT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734755,
+    "gn:latitude":41.11337,
+    "gn:longitude":-8.40008,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santa Comba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734755
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f21bec1bcc4b888ef38fec8a46c33408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226713675,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1226713675,
+    "wof:lastmodified":1536762221,
+    "wof:name":"Santa Comba",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40008,
+    41.11337,
+    -8.40008,
+    41.11337
+],
+  "geometry": {"coordinates":[-8.40008,41.11337],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125873201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34204,41.03819,-8.34204,41.03819",
+    "geom:latitude":41.03819,
+    "geom:longitude":-8.34204,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.03819,
+    "lbl:longitude":-8.34204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2735484,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gaiva",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Viana do Castelo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":355294,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868950,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Viana do Castelo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735484,
+        "gp:id":55868950,
+        "qs_pg:id":355294
+    },
+    "wof:country":"PT",
+    "wof:created":1497294404,
+    "wof:geomhash":"621721e2a859a936aa9899d882e6f815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125873201,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1125873201,
+    "wof:lastmodified":1509397491,
+    "wof:name":"Gaiva",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34204,
+    41.03819,
+    -8.34204,
+    41.03819
+],
+  "geometry": {"coordinates":[-8.34204,41.03819],"type":"Point"}
+}

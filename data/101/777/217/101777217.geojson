@@ -1,0 +1,100 @@
+{
+  "id": 101777217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:bbox":"-7.86760773288,40.3975094798,-7.85241654779,40.406005892",
+    "geom:latitude":40.401671,
+    "geom:longitude":-7.860762,
+    "iso:country":"PT",
+    "lbl:latitude":40.402075,
+    "lbl:longitude":-7.860878,
+    "mps:latitude":40.402075,
+    "mps:longitude":-7.860878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lagares"
+    ],
+    "name:glg_x_preferred":[
+        "Lagares"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u0433\u0430\u0440\u0435\u0448"
+    ],
+    "name:lat_x_preferred":[
+        "Lagares"
+    ],
+    "name:nld_x_preferred":[
+        "Lagares"
+    ],
+    "name:por_x_preferred":[
+        "Lagares"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0433\u0430\u0440\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Lagares"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u52a0\u91cc\u4ec0"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lagares",
+    "qs:la_lc":"*PT10611069",
+    "qs:level":"locality",
+    "qs:loc":"Lagares",
+    "qs:loc_alt":"Lagares",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8011865,
+        "gp:id":742369,
+        "qs:id":999546,
+        "wd:id":"Q543222"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f0ea079008c70b383abd131d9bf77e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777217,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777217,
+    "wof:lastmodified":1527688509,
+    "wof:name":"Lagares",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86760773288125,
+    40.39750947983447,
+    -7.85241654779423,
+    40.40600589200619
+],
+  "geometry": {"coordinates":[[[-7.86082409855112,40.40600589200619],[-7.86031990195789,40.40425258176606],[-7.85917068086042,40.40446442399053],[-7.85841450157517,40.40183443472705],[-7.85496692983162,40.40246985043603],[-7.85521893617755,40.40334652556123],[-7.85406971764769,40.40355830742635],[-7.85381772591933,40.40268162889765],[-7.85266851534186,40.40289339397157],[-7.85241654779423,40.40201671021487],[-7.85356574375459,40.40180494854428],[-7.85331377115295,40.40092826636624],[-7.85446294583238,40.40071649471162],[-7.85421096817777,40.39983981411206],[-7.85536012157701,40.39962803247374],[-7.85561211384675,40.40050470966986],[-7.86480521799905,40.3988099474131],[-7.86455310881894,40.39793329745123],[-7.8668512889646,40.39750947983447],[-7.86760773288125,40.40013940381016],[-7.86301117056951,40.40098702636186],[-7.86376752524262,40.40361697476794],[-7.86491671966695,40.40340507899396],[-7.86516887164447,40.4042817214056],[-7.86401966260445,40.40449362058519],[-7.86427180953569,40.40537026457673],[-7.86082409855112,40.40600589200619]]],"type":"Polygon"}
+}

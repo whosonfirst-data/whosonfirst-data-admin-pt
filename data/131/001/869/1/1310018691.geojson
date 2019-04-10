@@ -1,0 +1,67 @@
+{
+  "id": 1310018691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.66436,40.49663,-8.66436,40.49663",
+    "geom:latitude":40.49663,
+    "geom:longitude":-8.66436,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0118",
+    "gn:admin3_code":"11810.0",
+    "gn:asciiname":"Ervedal",
+    "gn:country_code":"PT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739979,
+    "gn:latitude":40.49663,
+    "gn:longitude":-8.66436,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ervedal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739979
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"46dbfb76895602d64a210e4fabdb7ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310018691,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310018691,
+    "wof:lastmodified":1536622194,
+    "wof:name":"Ervedal",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66436,
+    40.49663,
+    -8.66436,
+    40.49663
+],
+  "geometry": {"coordinates":[-8.66436,40.49663],"type":"Point"}
+}

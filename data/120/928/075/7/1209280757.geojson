@@ -1,0 +1,63 @@
+{
+  "id": 1209280757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76624,39.28605,-8.76624,39.28605",
+    "geom:latitude":39.28605,
+    "geom:longitude":-8.76624,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141613.0",
+    "gn:asciiname":"Baixinho",
+    "gn:country_code":"PT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271222,
+    "gn:latitude":39.28605,
+    "gn:longitude":-8.76624,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Baixinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271222
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"05831eefaa31f93292c1e8ab08d332ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209280757
+        }
+    ],
+    "wof:id":1209280757,
+    "wof:lastmodified":1536292031,
+    "wof:name":"Baixinho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76624,
+    39.28605,
+    -8.76624,
+    39.28605
+],
+  "geometry": {"coordinates":[-8.76624,39.28605],"type":"Point"}
+}

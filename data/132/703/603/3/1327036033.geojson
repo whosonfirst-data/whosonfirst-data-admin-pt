@@ -1,0 +1,67 @@
+{
+  "id": 1327036033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27746,41.3789,-8.27746,41.3789",
+    "geom:latitude":41.3789,
+    "geom:longitude":-8.27746,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0314",
+    "gn:admin3_code":"31405.0",
+    "gn:asciiname":"Tagilde",
+    "gn:country_code":"PT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733708,
+    "gn:latitude":41.3789,
+    "gn:longitude":-8.27746,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Tagilde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733708
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f1721cab049e6d8c850b61d8b52bb177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327036033,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1327036033,
+    "wof:lastmodified":1536755185,
+    "wof:name":"Tagilde",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27746,
+    41.3789,
+    -8.27746,
+    41.3789
+],
+  "geometry": {"coordinates":[-8.27746,41.3789],"type":"Point"}
+}

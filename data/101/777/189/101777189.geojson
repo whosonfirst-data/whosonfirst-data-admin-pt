@@ -1,0 +1,86 @@
+{
+  "id": 101777189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:bbox":"-8.53394665146,40.2262014177,-8.51943290459,40.2358267802",
+    "geom:latitude":40.230731,
+    "geom:longitude":-8.526226,
+    "iso:country":"PT",
+    "lbl:latitude":40.231829,
+    "lbl:longitude":-8.525126,
+    "mps:latitude":40.231829,
+    "mps:longitude":-8.525126,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "S Silvestre",
+        "S. Silvestre",
+        "Sao Silvestre"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Silvestre"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Silvestre",
+    "qs:la_lc":"*PT10603244",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Silvestre",
+    "qs:loc_alt":"Sao Silvestre",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a8a98-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734321,
+        "gp:id":748412,
+        "qs:id":188343,
+        "qs_pg:id":188343
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f33b2baa88eefcf5aec8234a807adbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777189,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777189,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497298089,
+    "wof:name":"S\u00e3o Silvestre",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53394665146158,
+    40.22620141770909,
+    -8.51943290458792,
+    40.2358267801543
+],
+  "geometry": {"coordinates":[[[-8.52494739449963,40.2358267801543],[-8.524687216742,40.2349520735275],[-8.5235426753855,40.23517162444949],[-8.52302237807532,40.23342219847473],[-8.52187785861133,40.23364172907947],[-8.52083743933406,40.23014284027147],[-8.51969297048828,40.23036234355084],[-8.51943290458792,40.22948761308692],[-8.52057735907135,40.22926811331212],[-8.52031728863011,40.22839338444982],[-8.52375056799588,40.22773481581447],[-8.52349046429435,40.22686009556389],[-8.52692363907607,40.22620141770909],[-8.5271837858557,40.22707612744375],[-8.5260393867369,40.22729570353778],[-8.52681984294162,40.22991983183681],[-8.53139757071784,40.22904140556693],[-8.53087714188075,40.22729201665391],[-8.53316590731424,40.22685273772299],[-8.53394665146158,40.22947679719584],[-8.53280222908791,40.22969645383341],[-8.53306248243354,40.23057114002268],[-8.53191803886216,40.23079078686345],[-8.53217828767595,40.23166547465553],[-8.5276003875714,40.23254394300318],[-8.52812079978912,40.2342933409293],[-8.52697627894401,40.23451293176726],[-8.52723648543031,40.23538763138146],[-8.52494739449963,40.2358267801543]]],"type":"Polygon"}
+}

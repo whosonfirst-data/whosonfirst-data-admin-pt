@@ -1,0 +1,63 @@
+{
+  "id": 1209623887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37105,40.76362,-8.37105,40.76362",
+    "geom:latitude":40.76362,
+    "geom:longitude":-8.37105,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0117",
+    "gn:admin3_code":"11707.0",
+    "gn:asciiname":"Espinheiro",
+    "gn:country_code":"PT",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739874,
+    "gn:latitude":40.76362,
+    "gn:longitude":-8.37105,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Espinheiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739874
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"117fd3ffb26f3ec2a727bf9e1658fc84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209623887
+        }
+    ],
+    "wof:id":1209623887,
+    "wof:lastmodified":1536281422,
+    "wof:name":"Espinheiro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37105,
+    40.76362,
+    -8.37105,
+    40.76362
+],
+  "geometry": {"coordinates":[-8.37105,40.76362],"type":"Point"}
+}

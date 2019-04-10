@@ -1,0 +1,113 @@
+{
+  "id": 85862533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000107,
+    "geom:area_square_m":1031436.050409,
+    "geom:bbox":"-9.18018181618,38.713375677,-9.16259765625,38.7219476329",
+    "geom:latitude":38.717653,
+    "geom:longitude":-9.170489,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.719086,
+    "lbl:longitude":-9.165022,
+    "mps:latitude":38.717662,
+    "mps:longitude":-9.169444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Campo de Ourique"
+    ],
+    "name:por_x_preferred":[
+        "Campo de Ourique"
+    ],
+    "name:spa_x_preferred":[
+        "Campo de Ourique"
+    ],
+    "name:unk_x_variant":[
+        "Campo de Ourique"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Campo de Ourique",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":493,
+    "qs:photo_sum":1340,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105209,
+        "qs:id":1061851,
+        "qs_pg:id":1061851,
+        "wd:id":"Q2883431"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d86b5c4c73cc8dd7bddf83a0cbbb490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862533,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862533,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Campo de Ourique",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18018181618186,
+    38.71337567701249,
+    -9.16259765624989,
+    38.7219476329001
+],
+  "geometry": {"coordinates":[[[-9.16259765624989,38.7219476329001],[-9.16259765624989,38.71980474260005],[-9.16259765624989,38.71909683406008],[-9.16259765624989,38.71836967799227],[-9.16259765624989,38.71766178810006],[-9.16534423827989,38.71766178810006],[-9.16534423827989,38.71551876930005],[-9.16534423827989,38.71481087106072],[-9.16534423827989,38.71337567915576],[-9.16809082030986,38.71337567701249],[-9.17028505323412,38.71337567879854],[-9.17083740233994,38.7133756863001],[-9.17358398436994,38.7133756863001],[-9.17358398436994,38.71408356585373],[-9.17440682852106,38.71443508310789],[-9.17441250406802,38.7144569038506],[-9.17633056640739,38.71527630211504],[-9.17907714843818,38.71410295935627],[-9.18018181618186,38.71551870505002],[-9.17962445737891,38.71766177202537],[-9.17907714843994,38.71766177556155],[-9.17633056640801,38.71766178197642],[-9.17633056640835,38.71980474260005],[-9.17633056640739,38.7200470710029],[-9.17390639243996,38.72108277383457],[-9.1735839843717,38.72087615565042],[-9.17167334657654,38.72087615565042],[-9.17083740233977,38.72194762434019],[-9.16809082030977,38.72194762434019],[-9.16534423827989,38.72194762576677],[-9.16314995442065,38.72194762861436],[-9.16259765624989,38.7219476329001]]],"type":"Polygon"}
+}

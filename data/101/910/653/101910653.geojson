@@ -1,0 +1,79 @@
+{
+  "id": 101910653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"-8.68062770742,40.7915730725,-8.67308321974,40.802068583",
+    "geom:latitude":40.796934,
+    "geom:longitude":-8.676798,
+    "gn:elevation":110,
+    "iso:country":"PT",
+    "lbl:latitude":40.797263,
+    "lbl:longitude":-8.675798,
+    "mps:latitude":40.797263,
+    "mps:longitude":-8.675798,
+    "mz:hierarchy_label":1,
+    "name:eng_x_preferred":[
+        "Scott"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"8",
+    "qs:adm0":"Portugal",
+    "qs:la":"Torreira",
+    "qs:la_lc":"*PT10112046",
+    "qs:level":"locality",
+    "qs:loc":"Quintas do Norte",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4221698,
+        "gp:id":24899398,
+        "qs:id":960923,
+        "qs_pg:id":483315
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63942e1208d5e7b62d99ee17204ded39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101910653,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101910653,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497290980,
+    "wof:name":"Quintas do Norte",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.680627707425,
+    40.79157307252564,
+    -8.67308321973718,
+    40.80206858300608
+],
+  "geometry": {"coordinates":[[[-8.67725555587816,40.80206858300608],[-8.67672278748694,40.80032151320222],[-8.67556880553099,40.80054314503082],[-8.674769773035,40.79792251527266],[-8.67361582801715,40.79814412290608],[-8.67308321973718,40.79639701970103],[-8.67539104398679,40.79595380536949],[-8.67485841756707,40.79420670890732],[-8.67601228971432,40.79398508878609],[-8.67574597704009,40.79311154128828],[-8.67805367072862,40.7926682679572],[-8.67778733885115,40.7917947257348],[-8.67894116039355,40.79157307252564],[-8.67920750694157,40.79244661115797],[-8.68036133606626,40.79222494093625],[-8.680627707425,40.79309847407325],[-8.67832001274593,40.79354180827517],[-8.67858636490297,40.79441534668831],[-8.67743249225913,40.79463699724539],[-8.67769883988433,40.79551053734434],[-8.67654494547986,40.79573217806876],[-8.67761037869502,40.79922633378197],[-8.67876433179532,40.79900467869589],[-8.67956355722356,40.8016252647127],[-8.67725555587816,40.80206858300608]]],"type":"Polygon"}
+}

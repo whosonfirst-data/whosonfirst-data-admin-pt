@@ -1,0 +1,67 @@
+{
+  "id": 1192993591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05,38.65,-9.05,38.65",
+    "geom:latitude":38.65,
+    "geom:longitude":-9.05,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1504",
+    "gn:admin3_code":"150402.0",
+    "gn:asciiname":"Casal do Estacal",
+    "gn:country_code":"PT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269734,
+    "gn:latitude":38.65,
+    "gn:longitude":-9.05,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal do Estacal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269734
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0176805990474bd8679ce5b17c833227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1192993591,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1192993591,
+    "wof:lastmodified":1536378241,
+    "wof:name":"Casal do Estacal",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05,
+    38.65,
+    -9.05,
+    38.65
+],
+  "geometry": {"coordinates":[-9.05,38.65],"type":"Point"}
+}

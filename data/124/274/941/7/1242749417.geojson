@@ -1,0 +1,67 @@
+{
+  "id": 1242749417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75335,41.38144,-8.75335,41.38144",
+    "geom:latitude":41.38144,
+    "geom:longitude":-8.75335,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1313",
+    "gn:admin3_code":"131310.0",
+    "gn:asciiname":"Nova Sintra",
+    "gn:country_code":"PT",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737107,
+    "gn:latitude":41.38144,
+    "gn:longitude":-8.75335,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Nova Sintra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737107
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2bed942feeebe47c71736b764f67fc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242749417,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1242749417,
+    "wof:lastmodified":1536815546,
+    "wof:name":"Nova Sintra",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75335,
+    41.38144000000001,
+    -8.75335,
+    41.38144000000001
+],
+  "geometry": {"coordinates":[-8.75335,41.38144000000001],"type":"Point"}
+}

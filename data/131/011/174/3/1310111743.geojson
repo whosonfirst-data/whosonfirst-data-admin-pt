@@ -1,0 +1,67 @@
+{
+  "id": 1310111743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63976,41.5905,-8.63976,41.5905",
+    "geom:latitude":41.5905,
+    "geom:longitude":-8.63976,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30218.0",
+    "gn:asciiname":"Arieira",
+    "gn:country_code":"PT",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742745,
+    "gn:latitude":41.5905,
+    "gn:longitude":-8.63976,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Arieira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742745
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d07fc01e566f2e0be3955ee6f9826af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310111743,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310111743,
+    "wof:lastmodified":1536986627,
+    "wof:name":"Arieira",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63976,
+    41.5905,
+    -8.63976,
+    41.5905
+],
+  "geometry": {"coordinates":[-8.63976,41.5905],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 101758933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":760902.251185,
+    "geom:bbox":"-9.32811592263,38.78183611,-9.30946646683,38.7893353298",
+    "geom:latitude":38.786083,
+    "geom:longitude":-9.317702,
+    "iso:country":"PT",
+    "lbl:latitude":38.786142,
+    "lbl:longitude":-9.317569,
+    "mps:latitude":38.786142,
+    "mps:longitude":-9.317569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mem Martim"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Casais de Mem Martins",
+    "qs:loc_alt":"Casais de Mem Martins",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266464,
+        "gp:id":743440,
+        "qs:id":8,
+        "qs_pg:id":1142069
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9436bf2da7e4ba0c28db34a632439da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758933,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758933,
+    "wof:lastmodified":1504310318,
+    "wof:name":"Casais de Mem Martins",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32811592262755,
+    38.78183611003499,
+    -9.30946646683418,
+    38.78933532976691
+],
+  "geometry": {"coordinates":[[[-9.31246892341744,38.78183611003499],[-9.32195326125697,38.78451754586388],[-9.32479881373376,38.78555726696101],[-9.32739748469351,38.78539485002619],[-9.32742547755839,38.78572143345014],[-9.32811592262755,38.78739822861809],[-9.32348548182136,38.78780087564473],[-9.3219510276993,38.78933532976691],[-9.32195326125697,38.78922365188311],[-9.31538660169525,38.78884059674186],[-9.31308827084865,38.78884059674186],[-9.31024271837197,38.78643282156941],[-9.30960301577534,38.78611297027106],[-9.30960516174252,38.78607756181265],[-9.30946646683418,38.78448257036672],[-9.31192264300756,38.78398182900617],[-9.31166197172212,38.78310793227092],[-9.31278027505516,38.78287991564741],[-9.31246892341744,38.78183611003499]]],"type":"Polygon"}
+}

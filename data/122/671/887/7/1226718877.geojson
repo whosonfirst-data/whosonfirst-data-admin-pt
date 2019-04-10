@@ -1,0 +1,76 @@
+{
+  "id": 1226718877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99408,40.58382,-7.99408,40.58382",
+    "geom:latitude":40.58382,
+    "geom:longitude":-7.99408,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1821",
+    "gn:admin3_code":"182116.0",
+    "gn:asciiname":"Parada de Gonta",
+    "gn:country_code":"PT",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736743,
+    "gn:latitude":40.58382,
+    "gn:longitude":-7.99408,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"Parada de Gonta",
+    "gn:population":754,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parada Gonta",
+        "Parada",
+        "Parada de Gonta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736743,
+        "wk:page":"Parada_de_Gonta"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"db6200c17a7768bc72460aefd4499b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226718877,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1226718877,
+    "wof:lastmodified":1537683166,
+    "wof:name":"Parada de Gonta",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:population":754,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99408,
+    40.58382,
+    -7.99408,
+    40.58382
+],
+  "geometry": {"coordinates":[-7.99408,40.58382],"type":"Point"}
+}

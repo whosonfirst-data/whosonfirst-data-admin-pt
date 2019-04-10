@@ -1,0 +1,63 @@
+{
+  "id": 1209573911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16573,40.45375,-8.16573,40.45375",
+    "geom:latitude":40.45375,
+    "geom:longitude":-8.16573,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1808",
+    "gn:admin3_code":"180808.0",
+    "gn:asciiname":"Rio Milheiros",
+    "gn:country_code":"PT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735086,
+    "gn:latitude":40.45375,
+    "gn:longitude":-8.16573,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rio Milheiros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735086
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f65307ca2da8bd3479181fccda4b428b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209573911
+        }
+    ],
+    "wof:id":1209573911,
+    "wof:lastmodified":1536282998,
+    "wof:name":"Rio Milheiros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16573,
+    40.45375,
+    -8.16573,
+    40.45375
+],
+  "geometry": {"coordinates":[-8.16573,40.45375],"type":"Point"}
+}

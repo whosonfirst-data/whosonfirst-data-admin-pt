@@ -1,0 +1,82 @@
+{
+  "id": 1126058379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25977,40.81352,-7.25977,40.81352",
+    "geom:latitude":40.81352,
+    "geom:longitude":-7.25977,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.81352,
+    "lbl:longitude":-7.25977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2740640,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cogula",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1070507,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":739668,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740640,
+        "gp:id":739668,
+        "qs_pg:id":1070507
+    },
+    "wof:country":"PT",
+    "wof:created":1497303612,
+    "wof:geomhash":"f4794b59547f52957973da0e333509fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126058379,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1126058379,
+    "wof:lastmodified":1509409776,
+    "wof:name":"Cogula",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25977,
+    40.81352,
+    -7.25977,
+    40.81352
+],
+  "geometry": {"coordinates":[-7.25977,40.81352],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209926863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31762,40.54392,-8.31762,40.54392",
+    "geom:latitude":40.54392,
+    "geom:longitude":-8.31762,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"10101.0",
+    "gn:asciiname":"Vila Mendo",
+    "gn:country_code":"PT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732589,
+    "gn:latitude":40.54392,
+    "gn:longitude":-8.31762,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Mendo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732589
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e908f181b1b0bcb555bfbd84c03ba820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209926863,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1209926863,
+    "wof:lastmodified":1536394507,
+    "wof:name":"Vila Mendo",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31762,
+    40.54392,
+    -8.31762,
+    40.54392
+],
+  "geometry": {"coordinates":[-8.31762,40.54392],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101759169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1145402.356923,
+    "geom:bbox":"-9.12218530469,38.7748835,-9.10520719937,38.789195143",
+    "geom:latitude":38.782772,
+    "geom:longitude":-9.112131,
+    "iso:country":"PT",
+    "lbl:latitude":38.783074,
+    "lbl:longitude":-9.111552,
+    "mps:latitude":38.783074,
+    "mps:longitude":-9.111552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Portela"
+    ],
+    "name:eng_x_preferred":[
+        "Portela"
+    ],
+    "name:fre_x_preferred":[
+        "Portela"
+    ],
+    "name:ger_x_preferred":[
+        "Portela"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Portela"
+    ],
+    "name:por_x_preferred":[
+        "Portela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Portela"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Portela",
+    "qs:loc_alt":"Portela",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264c766-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264494,
+        "gp:id":746149,
+        "qs:id":23821,
+        "qs_pg:id":235300,
+        "wd:id":"Q1024837",
+        "wk:page":"Portela (Loures)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"676dc9b9a792cb4dc11c3b22f88c8635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759169,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759169,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498115,
+    "wof:name":"Portela",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12218530469073,
+    38.77488349999987,
+    -9.10520719936738,
+    38.78919514300105
+],
+  "geometry": {"coordinates":[[[-9.107360291502,38.78639601587952],[-9.10652687176798,38.7841457825977],[-9.10544024595953,38.78028222416771],[-9.10568171836144,38.77786750014889],[-9.10520719936738,38.77492548238655],[-9.10622300000017,38.77488349999987],[-9.11053200000015,38.77775949999983],[-9.11421600000017,38.78040299999986],[-9.12218530469073,38.7828050089106],[-9.11666871264657,38.78800934102765],[-9.11382278791024,38.78919514300105],[-9.11352957142225,38.78897523063506],[-9.11026969399694,38.78680197901821],[-9.107360291502,38.78639601587952]]],"type":"Polygon"}
+}

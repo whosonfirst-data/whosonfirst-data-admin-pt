@@ -1,0 +1,130 @@
+{
+  "id": 101776263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000235,
+    "geom:bbox":"-8.74049897135,41.2909159203,-8.71442257732,41.3153537341",
+    "geom:latitude":41.30335,
+    "geom:longitude":-8.730146,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.309782,
+    "lbl:longitude":-8.734294,
+    "mps:latitude":41.309782,
+    "mps:longitude":-8.734294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vila Ch\u00e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u0428\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Vila Ch\u00e3"
+    ],
+    "name:por_x_colloquial":[
+        "Vila Cha"
+    ],
+    "name:por_x_preferred":[
+        "Vila Ch\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u0428\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Ch\u00e3"
+    ],
+    "name:tur_x_preferred":[
+        "Vila Ch\u00e3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u9547"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Ch\u00e3",
+    "qs:la_lc":"*PT11316273",
+    "qs:level":"locality",
+    "qs:loc":"Vila Ch\u00e3",
+    "qs:loc_alt":"Vila Cha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2732700,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vila Ch\u00e3",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":750612,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02722af0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2732700,
+        "gp:id":750612,
+        "qs:id":1187350,
+        "qs_pg:id":1187350,
+        "wd:id":"Q1549243",
+        "wk:page":"Vila Ch\u00e3 (Vila do Conde)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ecc51cb932431fddd7ea26be6cea26b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776263,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776263,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379446,
+    "wof:name":"Vila Ch\u00e3",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125907053
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74049897134734,
+    41.2909159203262,
+    -8.71442257731854,
+    41.31535373405666
+],
+  "geometry": {"coordinates":[[[-8.7346053420996,41.31535373405666],[-8.73433434567431,41.31448098060105],[-8.73084533597296,41.31514869139704],[-8.72976163410192,41.31165761475751],[-8.72627273856358,41.31232515984198],[-8.72546020619416,41.30970679957278],[-8.72662313371023,41.30948430904363],[-8.72553984277192,41.30599315008476],[-8.73251689504474,41.30465801024854],[-8.73062090674176,41.2985485624676],[-8.72713272801639,41.29921611660723],[-8.72740350737723,41.30008891150845],[-8.72507798847374,41.30053388721757],[-8.7237243453398,41.29616985723356],[-8.71907351963551,41.29705957317947],[-8.71934416757273,41.29793239757038],[-8.71469316533268,41.29882191151432],[-8.71442257731854,41.29794907252426],[-8.71558532382909,41.29772671799481],[-8.71450301566347,41.29423535768137],[-8.72264161777736,41.29267859911687],[-8.72237096184688,41.29180577984738],[-8.7270213713997,41.2909159203262],[-8.72756281344522,41.29266152776381],[-8.72640019204056,41.29288402024957],[-8.72667091366674,41.29375682477456],[-8.72550826999691,41.29397930737531],[-8.72659120046058,41.29747052111543],[-8.73240464542971,41.29635789971792],[-8.7321338223494,41.2954851173867],[-8.73329647449071,41.29526255614974],[-8.73275482954955,41.29351699310075],[-8.73508005205707,41.29307184462857],[-8.73697620084363,41.29918123095871],[-8.73581348840969,41.2994038375333],[-8.73906503441947,41.30987689877111],[-8.74022792661179,41.30965424834505],[-8.74049897134734,41.31052698745941],[-8.73933606417233,41.31074964154072],[-8.73987815487857,41.31249512138726],[-8.73871521043441,41.31271776923961],[-8.73925731277546,41.31446324880721],[-8.7346053420996,41.31535373405666]]],"type":"Polygon"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209579053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08532,41.26204,-8.08532,41.26204",
+    "geom:latitude":41.26204,
+    "geom:longitude":-8.08532,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1301",
+    "gn:admin3_code":"130110.0",
+    "gn:asciiname":"Figueiredo",
+    "gn:country_code":"PT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739579,
+    "gn:latitude":41.26204,
+    "gn:longitude":-8.08532,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Figueiredo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739579
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4bd6fa5b596ead22d5c7cdcda89e771b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209579053
+        }
+    ],
+    "wof:id":1209579053,
+    "wof:lastmodified":1536282846,
+    "wof:name":"Figueiredo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08532,
+    41.26204,
+    -8.08532,
+    41.26204
+],
+  "geometry": {"coordinates":[-8.08532,41.26204],"type":"Point"}
+}

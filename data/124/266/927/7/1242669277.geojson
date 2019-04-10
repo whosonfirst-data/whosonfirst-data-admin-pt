@@ -1,0 +1,67 @@
+{
+  "id": 1242669277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06582,40.11434,-8.06582,40.11434",
+    "geom:latitude":40.11434,
+    "geom:longitude":-8.06582,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60602.0",
+    "gn:asciiname":"Corterredor",
+    "gn:country_code":"PT",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740511,
+    "gn:latitude":40.11434,
+    "gn:longitude":-8.06582,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Corterredor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740511
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"30953344608354e51ab60dd7449dcf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242669277,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1242669277,
+    "wof:lastmodified":1536932519,
+    "wof:name":"Corterredor",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06582,
+    40.11434000000001,
+    -8.06582,
+    40.11434000000001
+],
+  "geometry": {"coordinates":[-8.06582,40.11434000000001],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101759027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":551722.762549,
+    "geom:bbox":"-9.3838865895,38.6947422365,-9.37394574387,38.7033358573",
+    "geom:latitude":38.699486,
+    "geom:longitude":-9.378499,
+    "iso:country":"PT",
+    "lbl:latitude":38.699642,
+    "lbl:longitude":-9.378097,
+    "mps:latitude":38.699642,
+    "mps:longitude":-9.378097,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_colloquial":[
+        "S Pedro do Estoril",
+        "S. Pedro do Estoril",
+        "Sao Pedro do Estoril"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Pedro do Estoril",
+        "Forte de S\u00e3o Pedro do Estoril"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Pedro do Estoril",
+    "qs:loc_alt":"Sao Pedro do Estoril",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1477,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027303d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263237,
+        "gp:id":748364,
+        "qs:id":1353363,
+        "qs_pg:id":1353363,
+        "wd:id":"Q5472499"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e796cfd3c678256825edeeb245a75ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759027,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759027,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714682,
+    "wof:name":"S\u00e3o Pedro do Estoril",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38388658950112,
+    38.69474223645966,
+    -9.37394574386582,
+    38.7033358572524
+],
+  "geometry": {"coordinates":[[[-9.38270321281726,38.70232064076129],[-9.37441227814026,38.7033358572524],[-9.37394574386582,38.7017736237957],[-9.37506257977714,38.70154492232513],[-9.37407062981816,38.69822301283256],[-9.37421372073237,38.69783601695082],[-9.37591028306684,38.69488071481982],[-9.37658641490469,38.69474223645966],[-9.37684733366279,38.69561602886591],[-9.37796406345427,38.69538729672706],[-9.37822500510924,38.69626108359074],[-9.37934174160006,38.69603233503574],[-9.37960270615275,38.69690611635679],[-9.38071944934245,38.69667735138557],[-9.38098043679372,38.69755112716354],[-9.38321392997648,38.69709355147171],[-9.38347495361768,38.69796731820514],[-9.38388658950112,38.69788297819707],[-9.38270321281726,38.70232064076129]]],"type":"Polygon"}
+}

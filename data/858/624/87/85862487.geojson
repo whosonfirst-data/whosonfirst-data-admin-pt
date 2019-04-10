@@ -1,0 +1,110 @@
+{
+  "id": 85862487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1186812.454359,
+    "geom:bbox":"-9.15023803711,38.7383804868,-9.13402754416,38.7512152803",
+    "geom:latitude":38.744661,
+    "geom:longitude":-9.141364,
+    "iso:country":"PT",
+    "lbl:latitude":38.742595,
+    "lbl:longitude":-9.145137,
+    "mps:latitude":38.743387,
+    "mps:longitude":-9.142324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"bullring and transit station",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Campo Pequeno, Lisbon, Portugal"
+    ],
+    "name:por_x_preferred":[
+        "Campo Pequeno"
+    ],
+    "name:unk_x_variant":[
+        "Campo Pequeno"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"campo pequeno",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Campo Pequeno",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":1007,
+    "qs:photo_sum":3256,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6620263,
+        "gp:id":20105199,
+        "qs:id":1179657,
+        "qs_pg:id":1179657
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"df23c3c5c9bd9c9a6bd7d6a5768f4cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862487,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862487,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497309342,
+    "wof:name":"Campo Pequeno",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15023803710983,
+    38.73838048684514,
+    -9.13402754416097,
+    38.75121528027721
+],
+  "geometry": {"coordinates":[[[-9.13513183593997,38.75121528027721],[-9.13402759428718,38.74979935890009],[-9.13402754416097,38.74979929462536],[-9.13458441003519,38.74765728795032],[-9.13430359838463,38.74657710242404],[-9.13513183366624,38.74551517508935],[-9.13513183593989,38.74337299537645],[-9.13787841796977,38.74337299212323],[-9.13787841796986,38.74123074577527],[-9.13787841796986,38.73908843386278],[-9.14007280336494,38.73908843760788],[-9.14062499999977,38.73838048684738],[-9.14199829101739,38.73896735618503],[-9.14337158202983,38.73838048684514],[-9.14392377866758,38.73908843787619],[-9.14556596533851,38.73908843439852],[-9.14611816405991,38.73908844190008],[-9.14611816405983,38.73979638345516],[-9.14611816405983,38.74123074443776],[-9.14831256211536,38.74123074791525],[-9.14886474608991,38.74123075380005],[-9.14886474608991,38.74230188283575],[-9.15023803710983,38.74230188346395],[-9.15023803710983,38.74337300150009],[-9.15023803710983,38.74349404006077],[-9.14886474609088,38.74408095341762],[-9.14886474609116,38.74551517552314],[-9.14611816405983,38.74551517877636],[-9.14611816405983,38.74765729463776],[-9.14337158202983,38.74765729788592],[-9.14337158202994,38.74979934952314],[-9.14062499809435,38.74979935348459],[-9.13979680003507,38.75086129192933],[-9.13787841796977,38.75004133910805],[-9.13513183593997,38.75121528027721]]],"type":"Polygon"}
+}

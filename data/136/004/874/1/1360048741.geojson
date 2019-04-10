@@ -1,0 +1,70 @@
+{
+  "id": 1360048741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46835,39.56399,-8.46835,39.56399",
+    "geom:latitude":39.56399,
+    "geom:longitude":-8.46835,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1419",
+    "gn:admin3_code":"141902.0",
+    "gn:asciiname":"Paialvo",
+    "gn:country_code":"PT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265300,
+    "gn:latitude":39.56399,
+    "gn:longitude":-8.46835,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Paialvo",
+    "gn:population":2599,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265300
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5ead2715f968abbb5c1803ca973d4013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360048741,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1360048741,
+    "wof:lastmodified":1536997496,
+    "wof:name":"Paialvo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":2599,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46835,
+    39.56399,
+    -8.46835,
+    39.56399
+],
+  "geometry": {"coordinates":[-8.46835,39.56399],"type":"Point"}
+}

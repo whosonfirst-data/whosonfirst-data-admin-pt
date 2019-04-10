@@ -1,0 +1,111 @@
+{
+  "id": 101778289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":749424.491183,
+    "geom:bbox":"-8.64859064134,39.0365117628,-8.63720507615,39.0496597564",
+    "geom:latitude":39.04268,
+    "geom:longitude":-8.642257,
+    "iso:country":"PT",
+    "lbl:latitude":39.042,
+    "lbl:longitude":-8.642171,
+    "mps:latitude":39.042,
+    "mps:longitude":-8.642171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:dut_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:eng_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:fre_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:ger_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u0438\u044f-\u0434\u0443-\u0420\u0438\u0431\u0430\u0442\u0435\u0436\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:msa_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:por_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u043e\u0440\u0438\u044f-\u0434\u0443-\u0420\u0438\u0431\u0430\u0442\u0435\u0436\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "name:tur_x_preferred":[
+        "Gl\u00f3ria do Ribatejo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Gl\u00f3ria do Ribatejo",
+    "qs:la_lc":"*PT11415018",
+    "qs:level":"locality",
+    "qs:loc":"Gl\u00f3ria do Ribatejo",
+    "qs:loc_alt":"Gloria do Ribatejo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.033333,
+    "wd:longitude":-8.633333,
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":741868,
+        "qs:id":949583,
+        "wd:id":"Q1532673"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"35ab77fc386fc7a00fc233112eced3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778289,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778289,
+    "wof:lastmodified":1527653242,
+    "wof:name":"Gl\u00f3ria do Ribatejo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64859064133782,
+    39.03651176280709,
+    -8.63720507614914,
+    39.04965975637509
+],
+  "geometry": {"coordinates":[[[-8.64086391406414,39.04965975637509],[-8.64035691716208,39.04790816808486],[-8.63923257846562,39.04812846318629],[-8.63897910776734,39.04725266270441],[-8.63785477624265,39.04747294135927],[-8.63760132859375,39.04659713551666],[-8.63872564647227,39.04637686027081],[-8.63720507614914,39.04112200468529],[-8.63832930568958,39.04090173685393],[-8.63782249683715,39.0391501095288],[-8.64456757446709,39.03782826968961],[-8.64431410229872,39.03695247355085],[-8.64656238245072,39.03651176280709],[-8.64681588189706,39.03738755212743],[-8.64569173141848,39.03760791742604],[-8.64695930150799,39.041986851785],[-8.64808352018667,39.04176646943779],[-8.64859064133782,39.04351802269258],[-8.64521788402618,39.04417915108621],[-8.6454714177836,39.04505493501512],[-8.64209856126394,39.04571595630938],[-8.64311262661676,39.04921911342063],[-8.64086391406414,39.04965975637509]]],"type":"Polygon"}
+}

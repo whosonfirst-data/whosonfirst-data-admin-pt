@@ -1,0 +1,67 @@
+{
+  "id": 1360159259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45785,41.83457,-8.45785,41.83457",
+    "geom:latitude":41.83457,
+    "geom:longitude":-8.45785,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160122.0",
+    "gn:asciiname":"Telhado",
+    "gn:country_code":"PT",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733609,
+    "gn:latitude":41.83457,
+    "gn:longitude":-8.45785,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Telhado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733609
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"393841af9ded3db65612b86893d6e267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360159259,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1360159259,
+    "wof:lastmodified":1536837728,
+    "wof:name":"Telhado",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45785,
+    41.83457,
+    -8.45785,
+    41.83457
+],
+  "geometry": {"coordinates":[-8.45785,41.83457],"type":"Point"}
+}

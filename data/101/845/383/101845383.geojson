@@ -1,0 +1,102 @@
+{
+  "id": 101845383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:bbox":"-8.66877294536,37.5709481085,-8.66020844038,37.5836751758",
+    "geom:latitude":37.578,
+    "geom:longitude":-8.66512,
+    "iso:country":"PT",
+    "lbl:latitude":37.577692,
+    "lbl:longitude":-8.665899,
+    "mps:latitude":37.577692,
+    "mps:longitude":-8.665899,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0430\u0432\u0438\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0438\u043d\u044c\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:nld_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:por_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0430\u0432\u0438\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0438\u043d\u044c\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u963f\u7ef4\u65af\u5854-\u675c\u4ec0\u76ae\u6d85\u9c81\u4ec0"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Boavista Dos Pinheiros",
+    "qs:la_lc":"*PT10211168",
+    "qs:level":"locality",
+    "qs:loc":"Boavista dos Pinheiros",
+    "qs:loc_alt":"Boavista dos Pinheiros",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0268d784-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270814,
+        "gp:id":737327,
+        "qs:id":1158188,
+        "qs_pg:id":1158188,
+        "wd:id":"Q887613",
+        "wk:page":"Boavista dos Pinheiros"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3bdfdc960dd4e5ff08bf93b2401ffbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845383,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101845383,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642313,
+    "wof:name":"Boavista dos Pinheiros",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66877294535732,
+    37.57094810854164,
+    -8.66020844038059,
+    37.58367517575203
+],
+  "geometry": {"coordinates":[[[-8.66558893925941,37.58367517575203],[-8.66485680354884,37.58104219424155],[-8.6604524164801,37.58192151762171],[-8.66020844038059,37.58104384001433],[-8.66241062026438,37.58060421034173],[-8.66192264328492,37.5788488622228],[-8.66412474768953,37.57840919471698],[-8.66241692782285,37.57226545910339],[-8.66351788107835,37.57204562917531],[-8.66327392944487,37.57116794792688],[-8.66437486383705,37.57094810854164],[-8.66559477491307,37.57533647839153],[-8.66669576750115,37.57511660989974],[-8.66693978917141,37.57599427458877],[-8.66804078858127,37.57577439008935],[-8.66877294535732,37.57840736231753],[-8.66767190741245,37.5786272566441],[-8.66840410550918,37.581260220682],[-8.66730302300135,37.58148011210369],[-8.66754709393388,37.58235776605517],[-8.66644599255403,37.58257764801954],[-8.6666900595124,37.58345530324539],[-8.66558893925941,37.58367517575203]]],"type":"Polygon"}
+}

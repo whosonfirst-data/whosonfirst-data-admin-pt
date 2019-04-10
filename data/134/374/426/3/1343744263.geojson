@@ -1,0 +1,67 @@
+{
+  "id": 1343744263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32621,39.46961,-7.32621,39.46961",
+    "geom:latitude":39.46961,
+    "geom:longitude":-7.32621,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1210",
+    "gn:admin3_code":"121001.0",
+    "gn:asciiname":"Pombal",
+    "gn:country_code":"PT",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264576,
+    "gn:latitude":39.46961,
+    "gn:longitude":-7.32621,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pombal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264576
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"587bbcd235749a4331784a5c1446e20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343744263,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1343744263,
+    "wof:lastmodified":1536833250,
+    "wof:name":"Pombal",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32621,
+    39.46961,
+    -7.32621,
+    39.46961
+],
+  "geometry": {"coordinates":[-7.32621,39.46961],"type":"Point"}
+}

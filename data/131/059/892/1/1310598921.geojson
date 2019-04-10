@@ -1,0 +1,74 @@
+{
+  "id": 1310598921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14577,39.67604,-8.14577,39.67604",
+    "geom:latitude":39.67604,
+    "geom:longitude":-8.14577,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0510",
+    "gn:admin3_code":"51003.0",
+    "gn:asciiname":"Vila de Rei",
+    "gn:country_code":"PT",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2261649,
+    "gn:latitude":39.67604,
+    "gn:longitude":-8.14577,
+    "gn:modification_date":"2017-12-04",
+    "gn:name":"Vila de Rei",
+    "gn:population":3452,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vila do Rei",
+        "Vila de Rei"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261649
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63fa6b926fb2a7653d86516611035269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310598921,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1310598921,
+    "wof:lastmodified":1537683142,
+    "wof:name":"Vila de Rei",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:population":3452,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14577,
+    39.67604,
+    -8.14577,
+    39.67604
+],
+  "geometry": {"coordinates":[-8.14577,39.67604],"type":"Point"}
+}

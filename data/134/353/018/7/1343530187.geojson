@@ -1,0 +1,67 @@
+{
+  "id": 1343530187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1019,40.5315,-8.1019,40.5315",
+    "geom:latitude":40.5315,
+    "geom:longitude":-8.1019,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1821",
+    "gn:admin3_code":"182111.0",
+    "gn:asciiname":"Molelos",
+    "gn:country_code":"PT",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737529,
+    "gn:latitude":40.5315,
+    "gn:longitude":-8.1019,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Molelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737529
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"04e4db2837715865f6f65f870a7d23a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343530187,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343530187,
+    "wof:lastmodified":1536645170,
+    "wof:name":"Molelos",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1019,
+    40.5315,
+    -8.1019,
+    40.5315
+],
+  "geometry": {"coordinates":[-8.1019,40.5315],"type":"Point"}
+}

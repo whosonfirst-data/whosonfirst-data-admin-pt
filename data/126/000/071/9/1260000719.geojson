@@ -1,0 +1,67 @@
+{
+  "id": 1260000719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60418,40.25715,-8.60418,40.25715",
+    "geom:latitude":40.25715,
+    "geom:longitude":-8.60418,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61011.0",
+    "gn:asciiname":"Outeiro Longo",
+    "gn:country_code":"PT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736942,
+    "gn:latitude":40.25715,
+    "gn:longitude":-8.60418,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Outeiro Longo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736942
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d361e893c03a3763e2cd0766272fe138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260000719,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1260000719,
+    "wof:lastmodified":1536607568,
+    "wof:name":"Outeiro Longo",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60418,
+    40.25715,
+    -8.60418,
+    40.25715
+],
+  "geometry": {"coordinates":[-8.60418,40.25715],"type":"Point"}
+}

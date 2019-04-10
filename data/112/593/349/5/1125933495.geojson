@@ -1,0 +1,80 @@
+{
+  "id": 1125933495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.379062,39.363103,-9.379062,39.363103",
+    "geom:latitude":39.363103,
+    "geom:longitude":-9.379062,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":39.363103,
+    "lbl:longitude":-9.379062,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Peniche-Ajuda",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":88,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985337,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":23413032,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23413032,
+        "qs_pg:id":985337
+    },
+    "wof:country":"PT",
+    "wof:created":1497296887,
+    "wof:geomhash":"3b3f4579d85c59861d9262889de24c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125933495,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125933495,
+    "wof:lastmodified":1509401539,
+    "wof:name":"Peniche-Ajuda",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.379062,
+    39.363103,
+    -9.379062,
+    39.363103
+],
+  "geometry": {"coordinates":[-9.379062,39.363103],"type":"Point"}
+}

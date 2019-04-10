@@ -1,0 +1,80 @@
+{
+  "id": 1125892267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.238273,38.739297,-7.238273,38.739297",
+    "geom:latitude":38.739297,
+    "geom:longitude":-7.238273,
+    "gn:gn_country":"PT",
+    "iso:country":"PT",
+    "lbl:latitude":38.739297,
+    "lbl:longitude":-7.238273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:name":"Juromenha-Nossa Senhora do Loreto",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Evora",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1329726,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":23412992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Evora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412992,
+        "qs_pg:id":1329726
+    },
+    "wof:country":"PT",
+    "wof:created":1497295375,
+    "wof:geomhash":"c776615caa292e335db76a6de238ded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125892267,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1125892267,
+    "wof:lastmodified":1509398871,
+    "wof:name":"Juromenha-Nossa Senhora do Loreto",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.238273,
+    38.739297,
+    -7.238273,
+    38.739297
+],
+  "geometry": {"coordinates":[-7.238273,38.739297],"type":"Point"}
+}

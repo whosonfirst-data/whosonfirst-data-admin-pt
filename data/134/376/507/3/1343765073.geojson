@@ -1,0 +1,67 @@
+{
+  "id": 1343765073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44691,40.56434,-8.44691,40.56434",
+    "geom:latitude":40.56434,
+    "geom:longitude":-8.44691,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"10104.0",
+    "gn:asciiname":"Sardao",
+    "gn:country_code":"PT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734275,
+    "gn:latitude":40.56434,
+    "gn:longitude":-8.44691,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sard\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734275
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0585d8e14868eabee7486f18c267cac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343765073,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1343765073,
+    "wof:lastmodified":1536804150,
+    "wof:name":"Sardao",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44691,
+    40.56434,
+    -8.44691,
+    40.56434
+],
+  "geometry": {"coordinates":[-8.44691,40.56434],"type":"Point"}
+}

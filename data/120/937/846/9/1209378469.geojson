@@ -1,0 +1,63 @@
+{
+  "id": 1209378469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61679,41.08553,-8.61679,41.08553",
+    "geom:latitude":41.08553,
+    "geom:longitude":-8.61679,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131724.0",
+    "gn:asciiname":"Cadavao",
+    "gn:country_code":"PT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741778,
+    "gn:latitude":41.08553,
+    "gn:longitude":-8.61679,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cadav\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741778
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"863b1d314909533595fe48b1f318cd21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209378469
+        }
+    ],
+    "wof:id":1209378469,
+    "wof:lastmodified":1536288867,
+    "wof:name":"Cadavao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61679,
+    41.08553,
+    -8.61679,
+    41.08553
+],
+  "geometry": {"coordinates":[-8.61679,41.08553],"type":"Point"}
+}

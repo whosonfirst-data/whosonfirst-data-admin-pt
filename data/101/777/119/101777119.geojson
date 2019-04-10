@@ -1,0 +1,70 @@
+{
+  "id": 101777119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"-8.75525985379,39.8421065799,-8.74346122492,39.8477836333",
+    "geom:latitude":39.844496,
+    "geom:longitude":-8.750071,
+    "iso:country":"PT",
+    "lbl:latitude":39.844672,
+    "lbl:longitude":-8.751457,
+    "mps:latitude":39.844672,
+    "mps:longitude":-8.751457,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Bidoeira de Cima",
+    "qs:la_lc":"*PT11009265",
+    "qs:level":"locality",
+    "qs:loc":"Bidoeira de Cima",
+    "qs:loc_alt":"Bidoeira de Cima",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014334,
+        "gp:id":737267,
+        "qs:id":180063
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9dd827f527999ad48b9709a6b6cc1a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777119,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777119,
+    "wof:lastmodified":1466625899,
+    "wof:name":"Bidoeira de Cima",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75525985378874,
+    39.8421065799476,
+    -8.74346122492,
+    39.84778363325006
+],
+  "geometry": {"coordinates":[[[-8.75210851381684,39.84778363325006],[-8.75158738178385,39.84603478020921],[-8.75045007868192,39.84625678748699],[-8.74992901391192,39.84450791967356],[-8.74651714842952,39.84517384124536],[-8.74625667294833,39.84429939391055],[-8.74398209024162,39.84474326859527],[-8.74346122492,39.8429943540857],[-8.74801025058309,39.8421065799476],[-8.74827073468089,39.84298102414942],[-8.75054523501774,39.8425370508495],[-8.75080575704789,39.84341148609923],[-8.75308025843628,39.84296745297451],[-8.75334081839924,39.84384187927083],[-8.75447807300606,39.84361983939704],[-8.75525985378874,39.84624309612337],[-8.75412255694249,39.84646514651922],[-8.75438315600957,39.84733956505505],[-8.75210851381684,39.84778363325006]]],"type":"Polygon"}
+}

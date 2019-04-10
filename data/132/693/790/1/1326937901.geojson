@@ -1,0 +1,67 @@
+{
+  "id": 1326937901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14965,38.06863,-7.14965,38.06863",
+    "geom:latitude":38.06863,
+    "geom:longitude":-7.14965,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0210",
+    "gn:admin3_code":"21005.0",
+    "gn:asciiname":"Santo Aleixo",
+    "gn:country_code":"PT",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263454,
+    "gn:latitude":38.06863,
+    "gn:longitude":-7.14965,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Santo Aleixo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263454
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2419212e96faea2fcf06eb68cd4f8c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326937901,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1326937901,
+    "wof:lastmodified":1536896409,
+    "wof:name":"Santo Aleixo",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14965,
+    38.06863,
+    -7.14965,
+    38.06863
+],
+  "geometry": {"coordinates":[-7.14965,38.06863],"type":"Point"}
+}

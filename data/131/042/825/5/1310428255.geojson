@@ -1,0 +1,72 @@
+{
+  "id": 1310428255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89315,41.1833,-6.89315,41.1833",
+    "geom:latitude":41.1833,
+    "geom:longitude":-6.89315,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0409",
+    "gn:admin3_code":"40905.0",
+    "gn:asciiname":"Carvicais",
+    "gn:country_code":"PT",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741258,
+    "gn:latitude":41.1833,
+    "gn:longitude":-6.89315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Carvi\u00e7ais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carvi\u00e7aes",
+        "Carvi\u00e7ais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741258,
+        "wk:page":"Carvi%C3%A7ais"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c675ba36546fc4279dc6f62f64f60ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310428255,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1310428255,
+    "wof:lastmodified":1537683173,
+    "wof:name":"Carvicais",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89315,
+    41.1833,
+    -6.89315,
+    41.1833
+],
+  "geometry": {"coordinates":[-6.89315,41.1833],"type":"Point"}
+}

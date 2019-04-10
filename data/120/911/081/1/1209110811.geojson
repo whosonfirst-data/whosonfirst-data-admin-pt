@@ -1,0 +1,63 @@
+{
+  "id": 1209110811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88673,41.90103,-6.88673,41.90103",
+    "geom:latitude":41.90103,
+    "geom:longitude":-6.88673,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"40229.0",
+    "gn:asciiname":"Fontes de Transbaceiro",
+    "gn:country_code":"PT",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739413,
+    "gn:latitude":41.90103,
+    "gn:longitude":-6.88673,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fontes de Transbaceiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739413
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e5ae317c8912b4f1c362c7652098ef5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209110811
+        }
+    ],
+    "wof:id":1209110811,
+    "wof:lastmodified":1536297413,
+    "wof:name":"Fontes de Transbaceiro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88673,
+    41.90103,
+    -6.88673,
+    41.90103
+],
+  "geometry": {"coordinates":[-6.88673,41.90103],"type":"Point"}
+}

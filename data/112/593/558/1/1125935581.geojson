@@ -1,0 +1,80 @@
+{
+  "id": 1125935581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45659,41.586094,-8.45659,41.586094",
+    "geom:latitude":41.586094,
+    "geom:longitude":-8.45659,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.586094,
+    "lbl:longitude":-8.45659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Merelim-S\u00e9-S\u00e3o Paio",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos":85,
+    "qs_pg:photos_1k":17,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":85,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985724,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":25953340,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":25953340,
+        "qs_pg:id":985724
+    },
+    "wof:country":"PT",
+    "wof:created":1497296956,
+    "wof:geomhash":"c70930e84f3df0f2591bedcb9b43a211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125935581,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125935581,
+    "wof:lastmodified":1509401684,
+    "wof:name":"Merelim-S\u00e9-S\u00e3o Paio",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45659,
+    41.586094,
+    -8.45659,
+    41.586094
+],
+  "geometry": {"coordinates":[-8.45659,41.586094],"type":"Point"}
+}

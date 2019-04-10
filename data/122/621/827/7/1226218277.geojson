@@ -1,0 +1,67 @@
+{
+  "id": 1226218277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30985,39.70171,-8.30985,39.70171",
+    "geom:latitude":39.70171,
+    "geom:longitude":-8.30985,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1411",
+    "gn:admin3_code":"141101.0",
+    "gn:asciiname":"Venda da Serra",
+    "gn:country_code":"PT",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261766,
+    "gn:latitude":39.70171,
+    "gn:longitude":-8.30985,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Venda da Serra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261766
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cd176b4ee5ccf62ef13debb8ec7d3df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226218277,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1226218277,
+    "wof:lastmodified":1536972872,
+    "wof:name":"Venda da Serra",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30985,
+    39.70171,
+    -8.30985,
+    39.70171
+],
+  "geometry": {"coordinates":[-8.30985,39.70171],"type":"Point"}
+}

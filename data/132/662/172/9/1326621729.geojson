@@ -1,0 +1,67 @@
+{
+  "id": 1326621729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14881,40.16647,-8.14881,40.16647",
+    "geom:latitude":40.16647,
+    "geom:longitude":-8.14881,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60605.0",
+    "gn:asciiname":"Monteira",
+    "gn:country_code":"PT",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737445,
+    "gn:latitude":40.16647,
+    "gn:longitude":-8.14881,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monteira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737445
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"10905d7825774b59f23e3d3d6afe75d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326621729,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1326621729,
+    "wof:lastmodified":1536853885,
+    "wof:name":"Monteira",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14881,
+    40.16647,
+    -8.14881,
+    40.16647
+],
+  "geometry": {"coordinates":[-8.14881,40.16647],"type":"Point"}
+}

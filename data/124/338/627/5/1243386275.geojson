@@ -1,0 +1,67 @@
+{
+  "id": 1243386275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14399,41.26848,-7.14399,41.26848",
+    "geom:latitude":41.26848,
+    "geom:longitude":-7.14399,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0410",
+    "gn:admin3_code":"41008.0",
+    "gn:asciiname":"Nabo",
+    "gn:country_code":"PT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737228,
+    "gn:latitude":41.26848,
+    "gn:longitude":-7.14399,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Nabo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737228
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a8ee8c60ffaf711098bda32ffe815c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243386275,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1243386275,
+    "wof:lastmodified":1536892056,
+    "wof:name":"Nabo",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14399,
+    41.26848,
+    -7.14399,
+    41.26848
+],
+  "geometry": {"coordinates":[-7.14399,41.26848],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327346345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49872,40.97364,-8.49872,40.97364",
+    "geom:latitude":40.97364,
+    "geom:longitude":-8.49872,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10911.0",
+    "gn:asciiname":"Metal",
+    "gn:country_code":"PT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737695,
+    "gn:latitude":40.97364,
+    "gn:longitude":-8.49872,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Metal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737695
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1aeac21b70ffac7d71e7aa294d0962a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327346345,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1327346345,
+    "wof:lastmodified":1536804868,
+    "wof:name":"Metal",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49872,
+    40.97364,
+    -8.49872,
+    40.97364
+],
+  "geometry": {"coordinates":[-8.49872,40.97364],"type":"Point"}
+}

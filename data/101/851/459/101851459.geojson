@@ -1,0 +1,73 @@
+{
+  "id": 101851459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.655243,41.204852,-8.655243,41.204852",
+    "geom:latitude":41.204852,
+    "geom:longitude":-8.655243,
+    "iso:country":"PT",
+    "lbl:latitude":41.204852,
+    "lbl:longitude":-8.655243,
+    "mps:latitude":41.204852,
+    "mps:longitude":-8.655243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Monte dos Pipos",
+    "qs:loc_alt":"Monte dos Pipos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381879,
+        "qs:id":5
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a9f6e7e03f34939ed1b36690ddc8add5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851459,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101851459,
+    "wof:lastmodified":1544741801,
+    "wof:name":"Monte dos Pipos",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.655243,
+    41.204852,
+    -8.655243,
+    41.204852
+],
+  "geometry": {"coordinates":[-8.655243,41.204852],"type":"Point"}
+}

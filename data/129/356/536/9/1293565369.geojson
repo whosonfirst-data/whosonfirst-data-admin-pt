@@ -1,0 +1,67 @@
+{
+  "id": 1293565369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17212,41.3678,-8.17212,41.3678",
+    "geom:latitude":41.3678,
+    "geom:longitude":-8.17212,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1303",
+    "gn:admin3_code":"130305.0",
+    "gn:asciiname":"Friande",
+    "gn:country_code":"PT",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739214,
+    "gn:latitude":41.3678,
+    "gn:longitude":-8.17212,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Friande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739214
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4462431dcc104ebd498a312c8a921e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293565369,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1293565369,
+    "wof:lastmodified":1536674836,
+    "wof:name":"Friande",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17212,
+    41.3678,
+    -8.17212,
+    41.3678
+],
+  "geometry": {"coordinates":[-8.17212,41.3678],"type":"Point"}
+}

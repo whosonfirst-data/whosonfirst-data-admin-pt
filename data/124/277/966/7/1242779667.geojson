@@ -1,0 +1,67 @@
+{
+  "id": 1242779667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58972,37.51738,-8.58972,37.51738",
+    "geom:latitude":37.51738,
+    "geom:longitude":-8.58972,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21109.0",
+    "gn:asciiname":"Cascalhos",
+    "gn:country_code":"PT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269587,
+    "gn:latitude":37.51738,
+    "gn:longitude":-8.58972,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cascalhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269587
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"15accce73feef961ea43dd0c088ffbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242779667,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1242779667,
+    "wof:lastmodified":1536773251,
+    "wof:name":"Cascalhos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58972,
+    37.51738,
+    -8.58972,
+    37.51738
+],
+  "geometry": {"coordinates":[-8.58972,37.51738],"type":"Point"}
+}

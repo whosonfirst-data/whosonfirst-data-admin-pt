@@ -1,0 +1,67 @@
+{
+  "id": 1226725723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51472,39.58925,-8.51472,39.58925",
+    "geom:latitude":39.58925,
+    "geom:longitude":-8.51472,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1419",
+    "gn:admin3_code":"141902.0",
+    "gn:asciiname":"Assentiz",
+    "gn:country_code":"PT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271413,
+    "gn:latitude":39.58925,
+    "gn:longitude":-8.51472,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Assentiz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271413
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4efec94a1da3bede5c9f473c6e9025a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226725723,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1226725723,
+    "wof:lastmodified":1536744145,
+    "wof:name":"Assentiz",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51472,
+    39.58925,
+    -8.51472,
+    39.58925
+],
+  "geometry": {"coordinates":[-8.51472,39.58925],"type":"Point"}
+}

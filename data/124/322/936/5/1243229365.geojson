@@ -1,0 +1,67 @@
+{
+  "id": 1243229365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68274,37.78973,-8.68274,37.78973",
+    "geom:latitude":37.78973,
+    "geom:longitude":-8.68274,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1509",
+    "gn:admin3_code":"150903.0",
+    "gn:asciiname":"Fonte Santa de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268036,
+    "gn:latitude":37.78973,
+    "gn:longitude":-8.68274,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fonte Santa de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268036
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8979183bf62cd0edf4f0a6bd98b82d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243229365,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1243229365,
+    "wof:lastmodified":1536619459,
+    "wof:name":"Fonte Santa de Cima",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68274,
+    37.78973,
+    -8.68274,
+    37.78973
+],
+  "geometry": {"coordinates":[-8.68274,37.78973],"type":"Point"}
+}

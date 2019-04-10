@@ -1,0 +1,65 @@
+{
+  "id": 1310425735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49404,38.52862,-8.49404,38.52862",
+    "geom:latitude":38.52862,
+    "geom:longitude":-8.49404,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Casebres",
+    "gn:country_code":"PT",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269584,
+    "gn:latitude":38.52862,
+    "gn:longitude":-8.49404,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Casebres",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269584
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aff780ca0ebddfe1b292a56f918be0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310425735,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1310425735,
+    "wof:lastmodified":1537030769,
+    "wof:name":"Casebres",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49404,
+    38.52862,
+    -8.49404,
+    38.52862
+],
+  "geometry": {"coordinates":[-8.49404,38.52862],"type":"Point"}
+}

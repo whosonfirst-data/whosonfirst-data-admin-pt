@@ -1,0 +1,100 @@
+{
+  "id": 101759075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000281,
+    "geom:area_square_m":2713759.956825,
+    "geom:bbox":"-9.26728419217,38.698388207,-9.23713183482,38.7148380011",
+    "geom:latitude":38.705819,
+    "geom:longitude":-9.252373,
+    "iso:country":"PT",
+    "lbl:latitude":38.706502,
+    "lbl:longitude":-9.255101,
+    "mps:latitude":38.706502,
+    "mps:longitude":-9.255101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "name:eng_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "name:fre_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "name:ger_x_preferred":[
+        "Cruz Quebrada \u2013 Dafundo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0443\u0448-\u041a\u0435\u0431\u0440\u0430\u0434\u0430 - \u0414\u0430\u0444\u0443\u043d\u0434\u0443"
+    ],
+    "name:pol_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "name:por_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0448-\u041a\u0435\u0431\u0440\u0430\u0434\u0430 - \u0414\u0430\u0444\u0443\u043d\u0434\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Cruz Quebrada - Dafundo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Cruz-Quebrada/Dafundo",
+    "qs:loc_alt":"Cruz-Quebrada/Dafundo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012541,
+        "gp:id":740198,
+        "qs:id":239586,
+        "wd:id":"Q1021364"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cb01730c6cbebb523508c4f84cf40258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759075,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759075,
+    "wof:lastmodified":1514498018,
+    "wof:name":"Cruz-Quebrada/Dafundo",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26728419217392,
+    38.69838820700147,
+    -9.23713183481749,
+    38.71483800113151
+],
+  "geometry": {"coordinates":[[[-9.23925118029871,38.70703457279353],[-9.23898378380471,38.70613260604637],[-9.23786651835559,38.70635972130185],[-9.23713183481749,38.70388105129786],[-9.24047767566213,38.6991840054967],[-9.24052138975651,38.69933148976168],[-9.24498993435964,38.69842284172802],[-9.24524912344805,38.69929707575119],[-9.24971761652256,38.69838820700147],[-9.24997686844222,38.69926242508325],[-9.25221110230746,38.69880790620095],[-9.25247039041733,38.69968211529647],[-9.2547046247094,38.69922753775609],[-9.25496394901023,38.70010173786409],[-9.25943239222005,38.69919241376772],[-9.26072942342097,38.70356331426706],[-9.26184658443134,38.70333593352808],[-9.26262495778769,38.70595843902942],[-9.26325679940913,38.70582982006289],[-9.26464741995869,38.71156612982981],[-9.26728419217392,38.71475801198505],[-9.26144372695359,38.71348834563287],[-9.25659242040297,38.71385448197634],[-9.25331402321899,38.71483800113151],[-9.25201571611007,38.71193226617328],[-9.24954429579174,38.70891164133985],[-9.24624906870088,38.70763016413781],[-9.24286230752415,38.70735556188021],[-9.23925118029871,38.70703457279353]]],"type":"Polygon"}
+}

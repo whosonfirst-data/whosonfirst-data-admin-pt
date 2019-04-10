@@ -1,0 +1,63 @@
+{
+  "id": 1209379233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67853,41.32349,-7.67853,41.32349",
+    "geom:latitude":41.32349,
+    "geom:longitude":-7.67853,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1714",
+    "gn:admin3_code":"171417.0",
+    "gn:asciiname":"Alvites",
+    "gn:country_code":"PT",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742980,
+    "gn:latitude":41.32349,
+    "gn:longitude":-7.67853,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alvites",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742980
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c7e0a1f669c84096a9eb2a32b9980c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209379233
+        }
+    ],
+    "wof:id":1209379233,
+    "wof:lastmodified":1536288842,
+    "wof:name":"Alvites",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67853,
+    41.32349,
+    -7.67853,
+    41.32349
+],
+  "geometry": {"coordinates":[-7.67853,41.32349],"type":"Point"}
+}

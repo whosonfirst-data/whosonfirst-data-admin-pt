@@ -1,0 +1,99 @@
+{
+  "id": 1125983075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.76667,37.9,-25.76667,37.9",
+    "geom:latitude":37.9,
+    "geom:longitude":-25.76667,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":37.9,
+    "lbl:longitude":-25.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Bretanha"
+    ],
+    "name:eng_x_preferred":[
+        "Bretanha"
+    ],
+    "name:por_x_preferred":[
+        "Bretanha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0442\u0430\u043d\u044c\u044f"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3373281,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bretanha",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Azores",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994155,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":537918,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Azores",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373281,
+        "gp:id":537918,
+        "qs_pg:id":994155,
+        "wd:id":"Q3204128"
+    },
+    "wof:country":"PT",
+    "wof:created":1497298653,
+    "wof:geomhash":"a4361dbea54451690b1795e311b85efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125983075,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1125983075,
+    "wof:lastmodified":1514497987,
+    "wof:name":"Bretanha",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.76667,
+    37.9,
+    -25.76667,
+    37.9
+],
+  "geometry": {"coordinates":[-25.76667,37.9],"type":"Point"}
+}

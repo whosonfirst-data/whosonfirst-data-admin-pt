@@ -1,0 +1,63 @@
+{
+  "id": 1209204257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6178,37.30093,-7.6178,37.30093",
+    "geom:latitude":37.30093,
+    "geom:longitude":-7.6178,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"80403.0",
+    "gn:asciiname":"Funchosa",
+    "gn:country_code":"PT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267818,
+    "gn:latitude":37.30093,
+    "gn:longitude":-7.6178,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Funchosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267818
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"23a0aa155ae28a646b4dc341d5ce0cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209204257
+        }
+    ],
+    "wof:id":1209204257,
+    "wof:lastmodified":1536294506,
+    "wof:name":"Funchosa",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6178,
+    37.30093,
+    -7.6178,
+    37.30093
+],
+  "geometry": {"coordinates":[-7.6178,37.30093],"type":"Point"}
+}

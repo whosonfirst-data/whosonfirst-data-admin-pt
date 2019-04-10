@@ -1,0 +1,67 @@
+{
+  "id": 1226771261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88135,40.0757,-7.88135,40.0757",
+    "geom:latitude":40.0757,
+    "geom:longitude":-7.88135,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61201.0",
+    "gn:asciiname":"Foz do Ribeiro",
+    "gn:country_code":"PT",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739335,
+    "gn:latitude":40.0757,
+    "gn:longitude":-7.88135,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Foz do Ribeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739335
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bf61008d176e3bb3034ac2ed275c0d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226771261,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226771261,
+    "wof:lastmodified":1536678838,
+    "wof:name":"Foz do Ribeiro",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88135,
+    40.0757,
+    -7.88135,
+    40.0757
+],
+  "geometry": {"coordinates":[-7.88135,40.0757],"type":"Point"}
+}

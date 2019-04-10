@@ -1,0 +1,63 @@
+{
+  "id": 1209609551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4622,40.16474,-8.4622,40.16474",
+    "geom:latitude":40.16474,
+    "geom:longitude":-8.4622,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60304.0",
+    "gn:asciiname":"Adro Velho",
+    "gn:country_code":"PT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743379,
+    "gn:latitude":40.16474,
+    "gn:longitude":-8.4622,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Adro Velho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743379
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8662c8b2b68290af64db356f66a6d113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209609551
+        }
+    ],
+    "wof:id":1209609551,
+    "wof:lastmodified":1536281893,
+    "wof:name":"Adro Velho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4622,
+    40.16474,
+    -8.4622,
+    40.16474
+],
+  "geometry": {"coordinates":[-8.4622,40.16474],"type":"Point"}
+}

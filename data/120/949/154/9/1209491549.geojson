@@ -1,0 +1,63 @@
+{
+  "id": 1209491549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.621,41.10974,-8.621,41.10974",
+    "geom:latitude":41.10974,
+    "geom:longitude":-8.621,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131724.0",
+    "gn:asciiname":"Touca",
+    "gn:country_code":"PT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733460,
+    "gn:latitude":41.10974,
+    "gn:longitude":-8.621,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Touca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733460
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54cf775f829c4d76766840b4aca89f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209491549
+        }
+    ],
+    "wof:id":1209491549,
+    "wof:lastmodified":1536285469,
+    "wof:name":"Touca",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.621,
+    41.10974,
+    -8.621,
+    41.10974
+],
+  "geometry": {"coordinates":[-8.621,41.10974],"type":"Point"}
+}

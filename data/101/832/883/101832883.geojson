@@ -1,0 +1,90 @@
+{
+  "id": 101832883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":926127.129996,
+    "geom:bbox":"-9.12245628997,38.6042617383,-9.10114449848,38.6175296184",
+    "geom:latitude":38.6105,
+    "geom:longitude":-9.10845,
+    "iso:country":"PT",
+    "lbl:latitude":38.610477,
+    "lbl:longitude":-9.106806,
+    "mps:latitude":38.610477,
+    "mps:longitude":-9.106806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fogueteiro"
+    ],
+    "name:eng_x_preferred":[
+        "Fogueteiro"
+    ],
+    "name:por_x_preferred":[
+        "Fogueteiro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Fogueteiro",
+    "qs:loc_alt":"Fogueteiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269d170-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268168,
+        "gp:id":741138,
+        "qs:id":343145,
+        "qs_pg:id":343145,
+        "wd:id":"Q5464144"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6b6a7acef5c9c013c76742cbded95173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832883,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832883,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642787,
+    "wof:name":"Fogueteiro",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12245628997027,
+    38.60426173831388,
+    -9.10114449848174,
+    38.61752961837658
+],
+  "geometry": {"coordinates":[[[[-9.10751314274455,38.61600042804508],[-9.10114449848174,38.60940482558868],[-9.10184510906134,38.60602535616192],[-9.10512798060694,38.60536207805728],[-9.10487130969005,38.60448724832634],[-9.10598729128412,38.60426173831388],[-9.10624397550112,38.60513656459977],[-9.108475945858,38.60468549894063],[-9.11052997258156,38.61168398152768],[-9.1116460544518,38.61145840175595],[-9.11190286362614,38.61233319956079],[-9.11413503452815,38.61188199437578],[-9.11439187976111,38.61275678327024],[-9.11550796879209,38.61253115785678],[-9.11573492517493,38.6133040750388],[-9.10988132955322,38.61752961837658],[-9.10932492317039,38.61563432281093],[-9.10751314274455,38.61600042804508]]],[[[-9.12245628997027,38.60463907078793],[-9.12030931496912,38.60970690854219],[-9.11945844606424,38.60987898171993],[-9.11920155323554,38.60900420603093],[-9.12031756995174,38.60877852638509],[-9.11954690829947,38.60615419755993],[-9.12066287863792,38.60592851534352],[-9.12040599703215,38.60505373848207],[-9.12245628997027,38.60463907078793]]]],"type":"MultiPolygon"}
+}

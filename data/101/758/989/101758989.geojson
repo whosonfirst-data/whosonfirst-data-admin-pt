@@ -1,0 +1,123 @@
+{
+  "id": 101758989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":538349.21795,
+    "geom:bbox":"-9.44402413243,38.6993631355,-9.43428086571,38.7094385095",
+    "geom:latitude":38.70445,
+    "geom:longitude":-9.439765,
+    "iso:country":"PT",
+    "lbl:latitude":38.704858,
+    "lbl:longitude":-9.439285,
+    "mps:latitude":38.704858,
+    "mps:longitude":-9.439285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arg_x_preferred":[
+        "Torre"
+    ],
+    "name:ceb_x_preferred":[
+        "Torre"
+    ],
+    "name:deu_x_preferred":[
+        "Torre"
+    ],
+    "name:eus_x_preferred":[
+        "Torre"
+    ],
+    "name:fin_x_preferred":[
+        "Torre"
+    ],
+    "name:fra_x_preferred":[
+        "Torre"
+    ],
+    "name:glg_x_preferred":[
+        "Torre"
+    ],
+    "name:hbs_x_preferred":[
+        "Torre"
+    ],
+    "name:ita_x_preferred":[
+        "Torre"
+    ],
+    "name:nld_x_preferred":[
+        "Torre"
+    ],
+    "name:pol_x_preferred":[
+        "Torre"
+    ],
+    "name:por_x_preferred":[
+        "Torre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0440\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Torre"
+    ],
+    "name:spa_x_preferred":[
+        "Torre"
+    ],
+    "name:srp_x_preferred":[
+        "Tore"
+    ],
+    "name:swe_x_preferred":[
+        "Torre"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Torre",
+    "qs:loc_alt":"Torre",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":730,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":749436,
+        "qs:id":1
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8c39aceec256a6134bb902c366013461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758989,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758989,
+    "wof:lastmodified":1527689313,
+    "wof:name":"Torre",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44402413242949,
+    38.69936313547902,
+    -9.43428086571276,
+    38.70943850954473
+],
+  "geometry": {"coordinates":[[[-9.43428086571276,38.70365226510984],[-9.44307006577571,38.69936313547902],[-9.44402413242949,38.70121163962074],[-9.44384306132861,38.70347502838126],[-9.44257556362277,38.70528573938958],[-9.44194181476985,38.70854501920468],[-9.44189926996347,38.70916191889671],[-9.44055329803757,38.70943850954473],[-9.43949735490855,38.70854501920468],[-9.43804878610177,38.70827341255341],[-9.43614753954301,38.70718698594834],[-9.43524218403883,38.70501413273826],[-9.43428086571276,38.70365226510984]]],"type":"Polygon"}
+}

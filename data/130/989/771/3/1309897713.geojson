@@ -1,0 +1,67 @@
+{
+  "id": 1309897713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34206,40.17258,-8.34206,40.17258",
+    "geom:latitude":40.17258,
+    "geom:longitude":-8.34206,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60904.0",
+    "gn:asciiname":"Chas",
+    "gn:country_code":"PT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740778,
+    "gn:latitude":40.17258,
+    "gn:longitude":-8.34206,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ch\u00e3s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740778
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0846b4d435cd8fdbdf677a2d0ffcf15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309897713,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1309897713,
+    "wof:lastmodified":1536798692,
+    "wof:name":"Chas",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34206,
+    40.17258,
+    -8.34206,
+    40.17258
+],
+  "geometry": {"coordinates":[-8.34206,40.17258],"type":"Point"}
+}

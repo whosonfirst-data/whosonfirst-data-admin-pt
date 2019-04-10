@@ -1,0 +1,67 @@
+{
+  "id": 1343839151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.13868,40.64261,-7.13868,40.64261",
+    "geom:latitude":40.64261,
+    "geom:longitude":-7.13868,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0910",
+    "gn:admin3_code":"91019.0",
+    "gn:asciiname":"Pomares",
+    "gn:country_code":"PT",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736099,
+    "gn:latitude":40.64261,
+    "gn:longitude":-7.13868,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pomares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736099
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ef2af69f7dd2d7137620f44c91a2d7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343839151,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1343839151,
+    "wof:lastmodified":1536697595,
+    "wof:name":"Pomares",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.13868,
+    40.64261,
+    -7.13868,
+    40.64261
+],
+  "geometry": {"coordinates":[-7.13868,40.64261],"type":"Point"}
+}

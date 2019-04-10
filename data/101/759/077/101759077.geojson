@@ -1,0 +1,92 @@
+{
+  "id": 101759077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1815517.138299,
+    "geom:bbox":"-9.23572184827,38.7006047677,-9.2169335,38.7171554172",
+    "geom:latitude":38.710439,
+    "geom:longitude":-9.225095,
+    "iso:country":"PT",
+    "lbl:latitude":38.710995,
+    "lbl:longitude":-9.22396,
+    "mps:latitude":38.710995,
+    "mps:longitude":-9.22396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Miraflores"
+    ],
+    "name:fra_x_preferred":[
+        "Miraflores"
+    ],
+    "name:glg_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ita_x_preferred":[
+        "Miraflores"
+    ],
+    "name:nld_x_preferred":[
+        "Miraflores"
+    ],
+    "name:por_x_preferred":[
+        "Miraflores"
+    ],
+    "name:spa_x_preferred":[
+        "Miraflores"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Miraflores",
+    "qs:loc_alt":"Miraflores",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":260,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4e7645740a2b8a0017e5e71eed6dc72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759077,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759077,
+    "wof:lastmodified":1527714676,
+    "wof:name":"Miraflores",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2357218482714,
+    38.70060476773682,
+    -9.21693350000015,
+    38.71715541720624
+],
+  "geometry": {"coordinates":[[[-9.22599995803017,38.70060476773682],[-9.22565389938256,38.7041518688751],[-9.22785071744318,38.70753863005189],[-9.23215281947859,38.7091862435974],[-9.23382697984948,38.70871747869353],[-9.23417470773586,38.70989083165108],[-9.23529203937409,38.70966375767489],[-9.23555117735816,38.71053800967832],[-9.2357218482714,38.71050331886931],[-9.2328816265096,38.71715541720624],[-9.23215281947859,38.71687510680965],[-9.226660774327,38.71614283412271],[-9.22116872917542,38.7166005045521],[-9.21883335884542,38.71691188726265],[-9.21710400000012,38.714077],[-9.21866300000016,38.71224649999982],[-9.2174310000002,38.71064399999989],[-9.21693350000015,38.708828],[-9.21793000000019,38.7071454999998],[-9.21871750000014,38.703705],[-9.22065550000019,38.70259849999979],[-9.22269700000015,38.7018369999999],[-9.22599995803017,38.70060476773682]]],"type":"Polygon"}
+}

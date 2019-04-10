@@ -1,0 +1,67 @@
+{
+  "id": 1309695641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15096,39.16013,-9.15096,39.16013",
+    "geom:latitude":39.16013,
+    "geom:longitude":-9.15096,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1113",
+    "gn:admin3_code":"111308.0",
+    "gn:asciiname":"Messejana",
+    "gn:country_code":"PT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266434,
+    "gn:latitude":39.16013,
+    "gn:longitude":-9.15096,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Messejana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266434
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b4a166cc025121416e3470fa87cb156a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309695641,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1309695641,
+    "wof:lastmodified":1537086772,
+    "wof:name":"Messejana",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15096,
+    39.16013,
+    -9.15096,
+    39.16013
+],
+  "geometry": {"coordinates":[-9.15096,39.16013],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101776249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":589363.851884,
+    "geom:bbox":"-8.38707278349,40.3797470652,-8.37393194937,40.3880579811",
+    "geom:latitude":40.383763,
+    "geom:longitude":-8.381113,
+    "gn:population":2593,
+    "iso:country":"PT",
+    "lbl:latitude":40.383681,
+    "lbl:longitude":-8.381661,
+    "mps:latitude":40.383681,
+    "mps:longitude":-8.381661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Luso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0441\u0443"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Luso",
+    "qs:la_lc":"*PT10111040",
+    "qs:level":"locality",
+    "qs:loc":"Luso",
+    "qs:loc_alt":"Luso",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027485b6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738108,
+        "gp:id":742902,
+        "qs:id":1219891,
+        "qs_pg:id":1219891,
+        "wd:id":"Q1024828",
+        "wk:page":"Luso (Mealhada)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7de21a599eb79ac485e87f76fd784d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776249,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776249,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1505337878,
+    "wof:name":"Luso",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":2593,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3870727834917,
+    40.37974706524892,
+    -8.37393194937431,
+    40.3880579811331
+],
+  "geometry": {"coordinates":[[[-8.38122480673792,40.3880579811331],[-8.3809655535353,40.38718298390023],[-8.37981799768534,40.38740092834314],[-8.37929954971469,40.38565092123736],[-8.37700447545251,40.38608675609265],[-8.37674529517153,40.38521174272529],[-8.37445022253235,40.38564751719287],[-8.37393194937431,40.38389747083278],[-8.37622696405674,40.38346171034374],[-8.37570867220171,40.38171167043271],[-8.38029850361181,40.38084001722655],[-8.38003931446002,40.37996500842604],[-8.38118674073183,40.37974706524892],[-8.38144594436898,40.3806220705543],[-8.38374080536664,40.38018613716588],[-8.38400004779044,40.38106113359692],[-8.38514748251492,40.38084314338511],[-8.3854067492415,40.38171813443694],[-8.3865541916108,40.38150012738151],[-8.3870727834917,40.38325009684206],[-8.38592531215153,40.38346811089031],[-8.38670323016549,40.38609306144446],[-8.38211310254457,40.38696502610759],[-8.38237237023645,40.38784001984465],[-8.38122480673792,40.3880579811331]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193010645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58979,40.25293,-7.58979,40.25293",
+    "geom:latitude":40.25293,
+    "geom:longitude":-7.58979,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"50308.0",
+    "gn:asciiname":"Cortes de Baixo",
+    "gn:country_code":"PT",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740505,
+    "gn:latitude":40.25293,
+    "gn:longitude":-7.58979,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cortes de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740505
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7acbb8409a426e305f50e2a2d7a9a774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193010645,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1193010645,
+    "wof:lastmodified":1536383868,
+    "wof:name":"Cortes de Baixo",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58979,
+    40.25293,
+    -7.58979,
+    40.25293
+],
+  "geometry": {"coordinates":[-7.58979,40.25293],"type":"Point"}
+}

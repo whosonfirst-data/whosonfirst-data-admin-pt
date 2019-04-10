@@ -1,0 +1,72 @@
+{
+  "id": 1276143609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55278,40.21781,-8.55278,40.21781",
+    "geom:latitude":40.21781,
+    "geom:longitude":-8.55278,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60321.0",
+    "gn:asciiname":"Sao Martinho da Arvore",
+    "gn:country_code":"PT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734419,
+    "gn:latitude":40.21781,
+    "gn:longitude":-8.55278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00e3o Martinho da \u00c1rvore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Martinho d\u2019Arvore",
+        "S\u00e3o Martinho de \u00c1rvore",
+        "S\u00e3o Martinho da \u00c1rvore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734419
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"959dc84c3275f86978fffa832b1ff5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276143609,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1276143609,
+    "wof:lastmodified":1537683161,
+    "wof:name":"Sao Martinho da Arvore",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55278,
+    40.21781,
+    -8.55278,
+    40.21781
+],
+  "geometry": {"coordinates":[-8.55278,40.21781],"type":"Point"}
+}

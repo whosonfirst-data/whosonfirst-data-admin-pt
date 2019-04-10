@@ -1,0 +1,67 @@
+{
+  "id": 1310263313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24938,40.69206,-8.24938,40.69206",
+    "geom:latitude":40.69206,
+    "geom:longitude":-8.24938,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1810",
+    "gn:admin3_code":"181006.0",
+    "gn:asciiname":"Entre Aguas",
+    "gn:country_code":"PT",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740023,
+    "gn:latitude":40.69206,
+    "gn:longitude":-8.24938,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Entre \u00c1guas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740023
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"de66425d7c06ec45365af9e241fde585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310263313,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1310263313,
+    "wof:lastmodified":1536769385,
+    "wof:name":"Entre Aguas",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24938,
+    40.69206,
+    -8.24938,
+    40.69206
+],
+  "geometry": {"coordinates":[-8.24938,40.69206],"type":"Point"}
+}

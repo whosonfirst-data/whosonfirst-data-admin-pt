@@ -1,0 +1,74 @@
+{
+  "id": 1276502747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.06667,36.98333,-25.06667,36.98333",
+    "geom:latitude":36.98333,
+    "geom:longitude":-25.06667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4101",
+    "gn:admin3_code":"410102.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"PT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372657,
+    "gn:latitude":36.98333,
+    "gn:longitude":-25.06667,
+    "gn:modification_date":"2018-05-18",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":405,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa B\u00e1rbara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372657,
+        "wk:page":"Santa_B%C3%A1rbara_%28Vila_do_Porto%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7a9207f0521ebe6be573a5be6f122c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276502747,
+            "region_id":85687429
+        }
+    ],
+    "wof:id":1276502747,
+    "wof:lastmodified":1537683179,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":85687429,
+    "wof:placetype":"locality",
+    "wof:population":405,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.06667,
+    36.98333,
+    -25.06667,
+    36.98333
+],
+  "geometry": {"coordinates":[-25.06667,36.98333],"type":"Point"}
+}

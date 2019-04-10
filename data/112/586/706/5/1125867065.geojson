@@ -1,0 +1,108 @@
+{
+  "id": 1125867065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.76667,38.6,-28.76667,38.6",
+    "geom:latitude":38.6,
+    "geom:longitude":-28.76667,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.6,
+    "lbl:longitude":-28.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Praia do Norte"
+    ],
+    "name:eng_x_preferred":[
+        "Praia do Norte"
+    ],
+    "name:ger_x_preferred":[
+        "Praia do Norte"
+    ],
+    "name:por_x_preferred":[
+        "Praia do Norte"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0439\u0430-\u0434\u0443-\u041d\u043e\u0440\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Praia do Norte"
+    ],
+    "name:unk_x_variant":[
+        "Praya da Norte"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3372758,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Praia do Norte",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Azores",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":133781,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":538241,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Azores",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372758,
+        "gp:id":538241,
+        "qs_pg:id":133781,
+        "wd:id":"Q1997698"
+    },
+    "wof:country":"PT",
+    "wof:created":1497294095,
+    "wof:geomhash":"33cbadd4edd4096cc4be463b8a3f7e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125867065,
+            "region_id":85687455
+        }
+    ],
+    "wof:id":1125867065,
+    "wof:lastmodified":1514498122,
+    "wof:name":"Praia do Norte",
+    "wof:parent_id":85687455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.76667,
+    38.6,
+    -28.76667,
+    38.6
+],
+  "geometry": {"coordinates":[-28.76667,38.6],"type":"Point"}
+}

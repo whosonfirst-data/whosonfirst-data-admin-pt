@@ -1,0 +1,69 @@
+{
+  "id": 101759129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:bbox":"-9.10845256873,38.8095016442,-9.09911987752,38.8242054116",
+    "geom:latitude":38.818209,
+    "geom:longitude":-9.104053,
+    "iso:country":"PT",
+    "lbl:latitude":38.818543,
+    "lbl:longitude":-9.103964,
+    "mps:latitude":38.818543,
+    "mps:longitude":-9.103964,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro da Fraternidade",
+    "qs:loc_alt":"Bairro da Fraternidade",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56069234,
+        "qs:id":1
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"74ff1b7b5d2ad183e49d7bacbf58c13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759129,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759129,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro da Fraternidade",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1084525687312,
+    38.80950164419187,
+    -9.0991198775186,
+    38.82420541157808
+],
+  "geometry": {"coordinates":[[[-9.0991198775186,38.8231278343153],[-9.09958446172772,38.82111463607555],[-9.10246208029906,38.81216204496496],[-9.1036260056373,38.80950164419187],[-9.10389067839793,38.81039860978342],[-9.10500996363965,38.81017300541305],[-9.10604240420173,38.81367123011586],[-9.10716173655373,38.81344559892602],[-9.1084525687312,38.81781831726352],[-9.10733316930197,38.81804396578383],[-9.1081077427296,38.82066758307224],[-9.10698829650073,38.82089322903278],[-9.10779727661082,38.82363311129131],[-9.10512654193911,38.82420541157808],[-9.10150287410858,38.82367251925012],[-9.0991198775186,38.8231278343153]]],"type":"Polygon"}
+}

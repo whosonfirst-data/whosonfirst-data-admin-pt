@@ -1,0 +1,67 @@
+{
+  "id": 1259695435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26254,37.71775,-8.26254,37.71775",
+    "geom:latitude":37.71775,
+    "geom:longitude":-8.26254,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0212",
+    "gn:admin3_code":"21203.0",
+    "gn:asciiname":"Aldeia Nova",
+    "gn:country_code":"PT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272062,
+    "gn:latitude":37.71775,
+    "gn:longitude":-8.26254,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldeia Nova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272062
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aa0f9a8e3a1a1f4a776c3892fc88f9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259695435,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1259695435,
+    "wof:lastmodified":1537047743,
+    "wof:name":"Aldeia Nova",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26254,
+    37.71775,
+    -8.26254,
+    37.71775
+],
+  "geometry": {"coordinates":[-8.26254,37.71775],"type":"Point"}
+}

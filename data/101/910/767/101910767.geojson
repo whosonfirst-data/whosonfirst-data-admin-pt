@@ -1,0 +1,106 @@
+{
+  "id": 101910767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":569479.638108,
+    "geom:bbox":"-8.93924935035,39.5573959539,-8.92017634651,39.5707974312",
+    "geom:latitude":39.564806,
+    "geom:longitude":-8.931449,
+    "iso:country":"PT",
+    "lbl:latitude":39.565387,
+    "lbl:longitude":-8.931594,
+    "mps:latitude":39.565387,
+    "mps:longitude":-8.931594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:dut_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:eng_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:epo_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:fre_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:ger_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:ita_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:may_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:por_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:spa_x_preferred":[
+        "Aljubarrota"
+    ],
+    "name:unk_x_variant":[
+        "Aljubarrota"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"5",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Aljubarrota (Prazeres)",
+    "qs:la_lc":"*PT11001116",
+    "qs:level":"locality",
+    "qs:loc":"Aljubarrota-Prazeres",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271966,
+        "gp:id":23412905,
+        "qs:id":32483,
+        "wd:id":"Q2623372"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cd408c0dfe4eb14cc0af5d4550081144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101910767,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101910767,
+    "wof:lastmodified":1514497946,
+    "wof:name":"Aljubarrota-Prazeres",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93924935035369,
+    39.55739595390452,
+    -8.92017634651273,
+    39.57079743122472
+],
+  "geometry": {"coordinates":[[[-8.92296265149906,39.57079743122472],[-8.92270169746666,39.56992323215428],[-8.92043726303683,39.57037095218601],[-8.92017634651273,39.56949674413107],[-8.92244075317905,39.569049031117],[-8.92217981863485,39.56817482811266],[-8.92444417058141,39.56772706959026],[-8.92418321802035,39.56685287163697],[-8.92757965375318,39.56618114589759],[-8.92731866929967,39.56530695650468],[-8.92958289833149,39.56485908071102],[-8.92932189586776,39.56398489636939],[-8.93498228110349,39.56286499465898],[-8.93341605471579,39.55761995257444],[-8.93454802829956,39.55739595390452],[-8.9350700925242,39.55914430211988],[-8.93620208711258,39.55892028330146],[-8.93646314771587,39.55979445094601],[-8.93759514943594,39.55957041548879],[-8.93785623365898,39.56044457765404],[-8.93898824250999,39.56022052555733],[-8.93924935035369,39.56109468224304],[-8.93811732762987,39.56131873785051],[-8.93837843134861,39.5621928960781],[-8.93724638800904,39.5624169420675],[-8.93750748760226,39.56329110183736],[-8.93637542364615,39.56351513820829],[-8.93689762432894,39.56526345886368],[-8.93576552587928,39.56548748912678],[-8.93602662696776,39.56636165001254],[-8.92470513288669,39.56860126557649],[-8.9249661049368,39.56947545959571],[-8.92383390457195,39.56969935244075],[-8.92409487248585,39.57057354800236],[-8.92296265149906,39.57079743122472]]],"type":"Polygon"}
+}

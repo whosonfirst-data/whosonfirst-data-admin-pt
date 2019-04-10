@@ -1,0 +1,63 @@
+{
+  "id": 1209217701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53792,41.018,-8.53792,41.018",
+    "geom:latitude":41.018,
+    "geom:longitude":-8.53792,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10901.0",
+    "gn:asciiname":"Serzedelo",
+    "gn:country_code":"PT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734033,
+    "gn:latitude":41.018,
+    "gn:longitude":-8.53792,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Serzedelo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734033
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b836dd0d090e4e8df5c679d48cf3218b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209217701
+        }
+    ],
+    "wof:id":1209217701,
+    "wof:lastmodified":1536294074,
+    "wof:name":"Serzedelo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53792,
+    41.018,
+    -8.53792,
+    41.018
+],
+  "geometry": {"coordinates":[-8.53792,41.018],"type":"Point"}
+}

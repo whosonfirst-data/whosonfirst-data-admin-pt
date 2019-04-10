@@ -1,0 +1,63 @@
+{
+  "id": 1209336643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28618,39.80387,-8.28618,39.80387",
+    "geom:latitude":39.80387,
+    "geom:longitude":-8.28618,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50904.0",
+    "gn:asciiname":"Varzea de Pedro Mouro",
+    "gn:country_code":"PT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261826,
+    "gn:latitude":39.80387,
+    "gn:longitude":-8.28618,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"V\u00e1rzea de Pedro Mouro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261826
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"68bff645255105d54a1fe2360ae71dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209336643
+        }
+    ],
+    "wof:id":1209336643,
+    "wof:lastmodified":1536290198,
+    "wof:name":"Varzea de Pedro Mouro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28618,
+    39.80387,
+    -8.28618,
+    39.80387
+],
+  "geometry": {"coordinates":[-8.28618,39.80387],"type":"Point"}
+}

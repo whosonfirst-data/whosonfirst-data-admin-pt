@@ -1,0 +1,105 @@
+{
+  "id": 1125870157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.45,38.53333,-28.45,38.53333",
+    "geom:latitude":38.53333,
+    "geom:longitude":-28.45,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.53333,
+    "lbl:longitude":-28.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bandeiras"
+    ],
+    "name:eng_x_preferred":[
+        "Bandeiras"
+    ],
+    "name:ger_x_preferred":[
+        "Bandeiras"
+    ],
+    "name:por_x_preferred":[
+        "Bandeiras"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u0435\u0439\u0440\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Bandeiras"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3373314,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bandeiras",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Azores",
+    "qs_pg:photos":134,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":134,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":23919,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":537898,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Azores",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373314,
+        "gp:id":537898,
+        "qs_pg:id":23919,
+        "wd:id":"Q1997703"
+    },
+    "wof:country":"PT",
+    "wof:created":1497294252,
+    "wof:geomhash":"407b8cd59301bc93fd081e379e743113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125870157,
+            "region_id":85687447
+        }
+    ],
+    "wof:id":1125870157,
+    "wof:lastmodified":1553816587,
+    "wof:name":"Bandeiras",
+    "wof:parent_id":85687447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.45,
+    38.53333,
+    -28.45,
+    38.53333
+],
+  "geometry": {"coordinates":[-28.45,38.53333],"type":"Point"}
+}

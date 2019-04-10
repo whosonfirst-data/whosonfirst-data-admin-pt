@@ -1,0 +1,67 @@
+{
+  "id": 1293859689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08301,39.53719,-8.08301,39.53719",
+    "geom:latitude":39.53719,
+    "geom:longitude":-8.08301,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"140106.0",
+    "gn:asciiname":"Lercas",
+    "gn:country_code":"PT",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267083,
+    "gn:latitude":39.53719,
+    "gn:longitude":-8.08301,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lercas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267083
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2644077d7020132491737e6e5c2454d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293859689,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1293859689,
+    "wof:lastmodified":1536747469,
+    "wof:name":"Lercas",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08301,
+    39.53719,
+    -8.08301,
+    39.53719
+],
+  "geometry": {"coordinates":[-8.08301,39.53719],"type":"Point"}
+}

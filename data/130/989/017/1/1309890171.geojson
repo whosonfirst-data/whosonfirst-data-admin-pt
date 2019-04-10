@@ -1,0 +1,67 @@
+{
+  "id": 1309890171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75741,37.13018,-8.75741,37.13018",
+    "geom:latitude":37.13018,
+    "geom:longitude":-8.75741,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0807",
+    "gn:admin3_code":"80701.0",
+    "gn:asciiname":"Pedregosa",
+    "gn:country_code":"PT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265025,
+    "gn:latitude":37.13018,
+    "gn:longitude":-8.75741,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pedregosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265025
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2d66f1071a1d5cba94caee57d1893b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309890171,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1309890171,
+    "wof:lastmodified":1536809137,
+    "wof:name":"Pedregosa",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75741,
+    37.13018,
+    -8.75741,
+    37.13018
+],
+  "geometry": {"coordinates":[-8.75741,37.13018],"type":"Point"}
+}

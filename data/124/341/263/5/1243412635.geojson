@@ -1,0 +1,67 @@
+{
+  "id": 1243412635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97466,40.71283,-7.97466,40.71283",
+    "geom:latitude":40.71283,
+    "geom:longitude":-7.97466,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182304.0",
+    "gn:asciiname":"Queirela",
+    "gn:country_code":"PT",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735664,
+    "gn:latitude":40.71283,
+    "gn:longitude":-7.97466,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Queirela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735664
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"434b21d86f93d160388ec03f0a9616b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243412635,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1243412635,
+    "wof:lastmodified":1536853228,
+    "wof:name":"Queirela",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97466,
+    40.71283,
+    -7.97466,
+    40.71283
+],
+  "geometry": {"coordinates":[-7.97466,40.71283],"type":"Point"}
+}

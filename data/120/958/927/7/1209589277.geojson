@@ -1,0 +1,63 @@
+{
+  "id": 1209589277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20063,38.98906,-9.20063,38.98906",
+    "geom:latitude":38.98906,
+    "geom:longitude":-9.20063,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1112",
+    "gn:admin3_code":"111202.0",
+    "gn:asciiname":"Pero Negro",
+    "gn:country_code":"PT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264813,
+    "gn:latitude":38.98906,
+    "gn:longitude":-9.20063,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pero Negro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264813
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"df3fcf4d776907bf3ff79e66e0a1ce3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209589277
+        }
+    ],
+    "wof:id":1209589277,
+    "wof:lastmodified":1536282532,
+    "wof:name":"Pero Negro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20063,
+    38.98906,
+    -9.20063,
+    38.98906
+],
+  "geometry": {"coordinates":[-9.20063,38.98906],"type":"Point"}
+}

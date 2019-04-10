@@ -1,0 +1,63 @@
+{
+  "id": 1209396139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89816,40.90543,-6.89816,40.90543",
+    "geom:latitude":40.90543,
+    "geom:longitude":-6.89816,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0904",
+    "gn:admin3_code":"90410.0",
+    "gn:asciiname":"Mata de Lobos",
+    "gn:country_code":"PT",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737848,
+    "gn:latitude":40.90543,
+    "gn:longitude":-6.89816,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mata de Lobos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737848
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fcca8684e953a6c751e27025cf4455c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209396139
+        }
+    ],
+    "wof:id":1209396139,
+    "wof:lastmodified":1536288295,
+    "wof:name":"Mata de Lobos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.898160000000002,
+    40.90543,
+    -6.898160000000002,
+    40.90543
+],
+  "geometry": {"coordinates":[-6.89816,40.90543],"type":"Point"}
+}

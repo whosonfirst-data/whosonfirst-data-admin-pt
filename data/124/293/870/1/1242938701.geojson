@@ -1,0 +1,67 @@
+{
+  "id": 1242938701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12751,38.5343,-9.12751,38.5343",
+    "geom:latitude":38.5343,
+    "geom:longitude":-9.12751,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1511",
+    "gn:admin3_code":"151101.0",
+    "gn:asciiname":"Apostica",
+    "gn:country_code":"PT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271620,
+    "gn:latitude":38.5343,
+    "gn:longitude":-9.12751,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aposti\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271620
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a06e5ac824e3fdb0b2fb1185ac39e664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242938701,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1242938701,
+    "wof:lastmodified":1537039038,
+    "wof:name":"Apostica",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12751,
+    38.5343,
+    -9.12751,
+    38.5343
+],
+  "geometry": {"coordinates":[-9.12751,38.5343],"type":"Point"}
+}

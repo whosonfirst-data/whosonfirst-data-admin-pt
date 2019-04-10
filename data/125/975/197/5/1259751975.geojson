@@ -1,0 +1,71 @@
+{
+  "id": 1259751975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79245,41.06287,-7.79245,41.06287",
+    "geom:latitude":41.06287,
+    "geom:longitude":-7.79245,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1805",
+    "gn:admin3_code":"180504.0",
+    "gn:asciiname":"Britiande",
+    "gn:country_code":"PT",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741987,
+    "gn:latitude":41.06287,
+    "gn:longitude":-7.79245,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Britiande",
+    "gn:population":934,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741987,
+        "wk:page":"Britiande"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2f504d41025c42b82e6b737f95233136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259751975,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1259751975,
+    "wof:lastmodified":1537571946,
+    "wof:name":"Britiande",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:population":934,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79245,
+    41.06287,
+    -7.79245,
+    41.06287
+],
+  "geometry": {"coordinates":[-7.79245,41.06287],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125883889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06702,41.11156,-8.06702,41.11156",
+    "geom:latitude":41.11156,
+    "geom:longitude":-8.06702,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.11156,
+    "lbl:longitude":-8.06702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2736465,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Penalta",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906795,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29382152,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736465,
+        "gp:id":29382152,
+        "qs_pg:id":906795
+    },
+    "wof:country":"PT",
+    "wof:created":1497294975,
+    "wof:geomhash":"812e811b0c2926cd0f35a8c97465af63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125883889,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125883889,
+    "wof:lastmodified":1509398372,
+    "wof:name":"Penalta",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06702,
+    41.11156,
+    -8.06702,
+    41.11156
+],
+  "geometry": {"coordinates":[-8.06702,41.11156],"type":"Point"}
+}

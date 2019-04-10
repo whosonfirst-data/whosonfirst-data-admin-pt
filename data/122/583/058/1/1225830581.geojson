@@ -1,0 +1,67 @@
+{
+  "id": 1225830581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16667,38.4,-8.16667,38.4",
+    "geom:latitude":38.4,
+    "geom:longitude":-8.16667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0713",
+    "gn:admin3_code":"71301.0",
+    "gn:asciiname":"Bairro da Lago",
+    "gn:country_code":"PT",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271236,
+    "gn:latitude":38.4,
+    "gn:longitude":-8.16667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bairro da Lago",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271236
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d76e4b3c420eaa67bc6b11cfbba9799f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225830581,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1225830581,
+    "wof:lastmodified":1537034074,
+    "wof:name":"Bairro da Lago",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16667,
+    38.4,
+    -8.16667,
+    38.4
+],
+  "geometry": {"coordinates":[-8.16667,38.4],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259850599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02463,39.08722,-9.02463,39.08722",
+    "geom:latitude":39.08722,
+    "geom:longitude":-9.02463,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"110107.0",
+    "gn:asciiname":"Findal",
+    "gn:country_code":"PT",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268182,
+    "gn:latitude":39.08722,
+    "gn:longitude":-9.02463,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Findal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268182
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cfbd7df3e4a93745fed351035f71482a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259850599,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1259850599,
+    "wof:lastmodified":1536825706,
+    "wof:name":"Findal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02463,
+    39.08722,
+    -9.02463,
+    39.08722
+],
+  "geometry": {"coordinates":[-9.02463,39.08722],"type":"Point"}
+}

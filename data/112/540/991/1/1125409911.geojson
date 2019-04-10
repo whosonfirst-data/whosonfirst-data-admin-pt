@@ -1,0 +1,78 @@
+{
+  "id": 1125409911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18391,38.71115,-9.18391,38.71115",
+    "geom:latitude":38.71115,
+    "geom:longitude":-9.18391,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.71115,
+    "lbl:longitude":-9.18391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u043d\u0442\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u043d\u0442\u0430\u0440\u0430"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012461,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alc\u00e2ntara",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155631,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012461,
+        "qs_pg:id":1155631
+    },
+    "wof:country":"PT",
+    "wof:created":1497049921,
+    "wof:geomhash":"d0c1324c441482d4d3faf57c30d1e6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409911,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125409911,
+    "wof:lastmodified":1509390233,
+    "wof:name":"Alc\u00e2ntara",
+    "wof:parent_id":85687367,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18391,
+    38.71115,
+    -9.18391,
+    38.71115
+],
+  "geometry": {"coordinates":[-9.18391,38.71115],"type":"Point"}
+}

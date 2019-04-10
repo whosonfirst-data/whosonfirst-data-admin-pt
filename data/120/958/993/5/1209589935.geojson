@@ -1,0 +1,63 @@
+{
+  "id": 1209589935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43624,41.81895,-8.43624,41.81895",
+    "geom:latitude":41.81895,
+    "geom:longitude":-8.43624,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160147.0",
+    "gn:asciiname":"Fonte Arcada",
+    "gn:country_code":"PT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739474,
+    "gn:latitude":41.81895,
+    "gn:longitude":-8.43624,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fonte Arcada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739474
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"90414d50869bc37b893f1b35bfb34c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209589935
+        }
+    ],
+    "wof:id":1209589935,
+    "wof:lastmodified":1536282513,
+    "wof:name":"Fonte Arcada",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43624,
+    41.81895,
+    -8.43624,
+    41.81895
+],
+  "geometry": {"coordinates":[-8.43624,41.81895],"type":"Point"}
+}

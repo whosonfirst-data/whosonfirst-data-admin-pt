@@ -1,0 +1,111 @@
+{
+  "id": 1125812887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33639,40.16287,-8.33639,40.16287",
+    "geom:latitude":40.16287,
+    "geom:longitude":-8.33639,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.16287,
+    "lbl:longitude":-8.33639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Semide"
+    ],
+    "name:eng_x_preferred":[
+        "Semide"
+    ],
+    "name:fre_x_preferred":[
+        "Semide"
+    ],
+    "name:ger_x_preferred":[
+        "Semide"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0434\u0435"
+    ],
+    "name:por_x_preferred":[
+        "Semide"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Semide"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734163,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Semide",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Coimbra",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1166790,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":748600,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Coimbra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734163,
+        "gp:id":748600,
+        "qs_pg:id":1166790,
+        "wd:id":"Q770548"
+    },
+    "wof:country":"PT",
+    "wof:created":1497291729,
+    "wof:geomhash":"d877139e1efd26b12d746ae1998e80f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125812887,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1125812887,
+    "wof:lastmodified":1514498146,
+    "wof:name":"Semide",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33639,
+    40.16287,
+    -8.33639,
+    40.16287
+],
+  "geometry": {"coordinates":[-8.33639,40.16287],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309691645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95646,39.49012,-8.95646,39.49012",
+    "geom:latitude":39.49012,
+    "geom:longitude":-8.95646,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"100108.0",
+    "gn:asciiname":"Chao do Galego",
+    "gn:country_code":"PT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269303,
+    "gn:latitude":39.49012,
+    "gn:longitude":-8.95646,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ch\u00e3o do Galego",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269303
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d00a146280da8c8b04e65eba564061de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309691645,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1309691645,
+    "wof:lastmodified":1537092479,
+    "wof:name":"Chao do Galego",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95646,
+    39.49012000000001,
+    -8.95646,
+    39.49012000000001
+],
+  "geometry": {"coordinates":[-8.95646,39.49012000000001],"type":"Point"}
+}

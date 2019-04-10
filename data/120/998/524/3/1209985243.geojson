@@ -1,0 +1,67 @@
+{
+  "id": 1209985243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89773,40.89487,-7.89773,40.89487",
+    "geom:latitude":40.89487,
+    "geom:longitude":-7.89773,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"180304.0",
+    "gn:asciiname":"Folgosa",
+    "gn:country_code":"PT",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739522,
+    "gn:latitude":40.89487,
+    "gn:longitude":-7.89773,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Folgosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739522
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2114e8ea9923b91591b50bdc6a8ce5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209985243,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1209985243,
+    "wof:lastmodified":1536388907,
+    "wof:name":"Folgosa",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89773,
+    40.89487,
+    -7.89773,
+    40.89487
+],
+  "geometry": {"coordinates":[-7.89773,40.89487],"type":"Point"}
+}

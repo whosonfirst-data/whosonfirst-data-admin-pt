@@ -1,0 +1,63 @@
+{
+  "id": 1209202753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09613,40.39681,-7.09613,40.39681",
+    "geom:latitude":40.39681,
+    "geom:longitude":-7.09613,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0911",
+    "gn:admin3_code":"91109.0",
+    "gn:asciiname":"Baracal",
+    "gn:country_code":"PT",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742437,
+    "gn:latitude":40.39681,
+    "gn:longitude":-7.09613,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bara\u00e7al",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742437
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc05f7ea4379eeba06b56de6af6c8ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209202753
+        }
+    ],
+    "wof:id":1209202753,
+    "wof:lastmodified":1536294554,
+    "wof:name":"Baracal",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0961300000000005,
+    40.39681,
+    -7.0961300000000005,
+    40.39681
+],
+  "geometry": {"coordinates":[-7.09613,40.39681],"type":"Point"}
+}

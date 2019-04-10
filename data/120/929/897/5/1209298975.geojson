@@ -1,0 +1,63 @@
+{
+  "id": 1209298975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66238,37.13739,-7.66238,37.13739",
+    "geom:latitude":37.13739,
+    "geom:longitude":-7.66238,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81406.0",
+    "gn:asciiname":"Poco do Alamo",
+    "gn:country_code":"PT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264623,
+    "gn:latitude":37.13739,
+    "gn:longitude":-7.66238,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Po\u00e7o do \u00c1lamo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264623
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e4c685b141839f2a47a18f71c3e3e774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209298975
+        }
+    ],
+    "wof:id":1209298975,
+    "wof:lastmodified":1536291424,
+    "wof:name":"Poco do Alamo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6623800000000015,
+    37.13739,
+    -7.6623800000000015,
+    37.13739
+],
+  "geometry": {"coordinates":[-7.66238,37.13739],"type":"Point"}
+}

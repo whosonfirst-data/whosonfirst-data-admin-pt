@@ -1,0 +1,67 @@
+{
+  "id": 1209935139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.6315,37.4665,-7.6315,37.4665",
+    "geom:latitude":37.4665,
+    "geom:longitude":-7.6315,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0802",
+    "gn:admin3_code":"80204.0",
+    "gn:asciiname":"Tesouro",
+    "gn:country_code":"PT",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262684,
+    "gn:latitude":37.4665,
+    "gn:longitude":-7.6315,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Tesouro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262684
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"00c6716d8ae3df4dd04f9ee7490c2f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209935139,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1209935139,
+    "wof:lastmodified":1536390992,
+    "wof:name":"Tesouro",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.6315,
+    37.4665,
+    -7.6315,
+    37.4665
+],
+  "geometry": {"coordinates":[-7.6315,37.4665],"type":"Point"}
+}

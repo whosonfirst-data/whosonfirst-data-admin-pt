@@ -1,0 +1,67 @@
+{
+  "id": 1193241629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04559,39.72877,-8.04559,39.72877",
+    "geom:latitude":39.72877,
+    "geom:longitude":-8.04559,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141303.0",
+    "gn:asciiname":"Colos",
+    "gn:country_code":"PT",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269127,
+    "gn:latitude":39.72877,
+    "gn:longitude":-8.04559,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Colos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269127
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3e01fdfd42d19a2e78e261a3bde970ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193241629,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1193241629,
+    "wof:lastmodified":1536377795,
+    "wof:name":"Colos",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04559,
+    39.72877,
+    -8.04559,
+    39.72877
+],
+  "geometry": {"coordinates":[-8.04559,39.72877],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209818713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28333,40.96667,-8.28333,40.96667",
+    "geom:latitude":40.96667,
+    "geom:longitude":-8.28333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0106",
+    "gn:admin3_code":"10606.0",
+    "gn:asciiname":"Celada",
+    "gn:country_code":"PT",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740895,
+    "gn:latitude":40.96667,
+    "gn:longitude":-8.28333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Celada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740895
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c166e31924501f6516bfd64356a6bac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209818713,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1209818713,
+    "wof:lastmodified":1536381078,
+    "wof:name":"Celada",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28333,
+    40.96667,
+    -8.28333,
+    40.96667
+],
+  "geometry": {"coordinates":[-8.28333,40.96667],"type":"Point"}
+}

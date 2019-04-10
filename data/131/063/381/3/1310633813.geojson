@@ -1,0 +1,67 @@
+{
+  "id": 1310633813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40044,41.74961,-8.40044,41.74961",
+    "geom:latitude":41.74961,
+    "geom:longitude":-8.40044,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31301.0",
+    "gn:asciiname":"Cabo",
+    "gn:country_code":"PT",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504576,
+    "gn:latitude":41.74961,
+    "gn:longitude":-8.40044,
+    "gn:modification_date":"2013-03-13",
+    "gn:name":"Cabo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504576
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5aa6f2b8f123d6a9f5413db55a132ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310633813,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310633813,
+    "wof:lastmodified":1536732108,
+    "wof:name":"Cabo",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40044,
+    41.74961,
+    -8.40044,
+    41.74961
+],
+  "geometry": {"coordinates":[-8.40044,41.74961],"type":"Point"}
+}

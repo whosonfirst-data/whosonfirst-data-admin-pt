@@ -1,0 +1,67 @@
+{
+  "id": 1326986327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.78333,37.9,-25.78333,37.9",
+    "geom:latitude":37.9,
+    "geom:longitude":-25.78333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4203",
+    "gn:admin3_code":"420324.0",
+    "gn:asciiname":"Pilar",
+    "gn:country_code":"PT",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372795,
+    "gn:latitude":37.9,
+    "gn:longitude":-25.78333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Pilar",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372795
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fa727b84973f92aae0a13ef5ca6e7daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326986327,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1326986327,
+    "wof:lastmodified":1536826161,
+    "wof:name":"Pilar",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.78333,
+    37.9,
+    -25.78333,
+    37.9
+],
+  "geometry": {"coordinates":[-25.78333,37.9],"type":"Point"}
+}

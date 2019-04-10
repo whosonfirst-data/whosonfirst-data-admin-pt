@@ -1,0 +1,114 @@
+{
+  "id": 101776105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":589491.346199,
+    "geom:bbox":"-8.21663277835,39.4213203852,-8.20632788051,39.4329182546",
+    "geom:latitude":39.427357,
+    "geom:longitude":-8.210749,
+    "iso:country":"PT",
+    "lbl:latitude":39.427594,
+    "lbl:longitude":-8.210671,
+    "mps:latitude":39.427594,
+    "mps:longitude":-8.210671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rossio ao Sul do Tejo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u0438\u0443-\u0430\u0443-\u0421\u0443\u043b-\u0434\u0443-\u0422\u0435\u0436\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Rossio ao Sul do Tejo"
+    ],
+    "name:por_x_colloquial":[
+        "S Miguel de Rio Torto",
+        "S. Miguel de Rio Torto",
+        "Sao Miguel de Rio Torto",
+        "Sao Miguel do Rio Torto"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Miguel de Rio Torto",
+        "Rossio ao Sul do Tejo"
+    ],
+    "name:por_x_variant":[
+        "S\u00e3o Miguel do Rio Torto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0438\u0443-\u0430\u0443-\u0421\u0443\u043b-\u0434\u0443-\u0422\u0435\u0436\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Rossio ao Sul do Tejo"
+    ],
+    "name:tur_x_preferred":[
+        "Rossio ao Sul do Tejo"
+    ],
+    "name:unk_x_variant":[
+        "Rocio-d\u2019Abramtes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Miguel do Rio Torto",
+    "qs:la_lc":"*PT11401122",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Miguel do Rio Torto",
+    "qs:loc_alt":"Sao Miguel do Rio Torto",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269a63c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263715,
+        "gp:id":747523,
+        "qs:id":1254632,
+        "qs_pg:id":306724
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f6355416bd949cb5675f875b3b53d166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776105,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101776105,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1504310314,
+    "wof:name":"S\u00e3o Miguel do Rio Torto",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21663277834602,
+    39.42132038515342,
+    -8.20632788050926,
+    39.4329182545905
+],
+  "geometry": {"coordinates":[[[-8.20807941839809,39.4329182545905],[-8.20632788050926,39.42678119906952],[-8.20745956409877,39.42656577930057],[-8.20720936783613,39.42568905288107],[-8.20834103101174,39.42547362333681],[-8.20759045644036,39.42284344283019],[-8.20872207129543,39.42262801025333],[-8.20847188451125,39.42175128300147],[-8.21073506694268,39.42132038515342],[-8.21173598178621,39.42482725582619],[-8.21399925000588,39.42439627842202],[-8.21500042606448,39.42790309181214],[-8.21613210629943,39.42768756990102],[-8.21663277834602,39.42944095848452],[-8.21436935559331,39.42987200265202],[-8.21461967773359,39.43074870084837],[-8.21348794270779,39.43096420658446],[-8.21323763452392,39.43008750501514],[-8.20984243254662,39.43073393322192],[-8.21034297452115,39.43248735470144],[-8.20807941839809,39.4329182545905]]],"type":"Polygon"}
+}

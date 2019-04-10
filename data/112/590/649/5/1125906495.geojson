@@ -1,0 +1,80 @@
+{
+  "id": 1125906495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.362985,38.649723,-7.362985,38.649723",
+    "geom:latitude":38.649723,
+    "geom:longitude":-7.362985,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.649723,
+    "lbl:longitude":-7.362985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alandroal-Nossa Senhora da Concei\u00e7\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Evora",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32479,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":23412898,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Evora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412898,
+        "qs_pg:id":32479
+    },
+    "wof:country":"PT",
+    "wof:created":1497296006,
+    "wof:geomhash":"6e43485e599a4914c3f7102747cad7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125906495,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1125906495,
+    "wof:lastmodified":1509399782,
+    "wof:name":"Alandroal-Nossa Senhora da Concei\u00e7\u00e3o",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.362985,
+    38.649723,
+    -7.362985,
+    38.649723
+],
+  "geometry": {"coordinates":[-7.362985,38.649723],"type":"Point"}
+}

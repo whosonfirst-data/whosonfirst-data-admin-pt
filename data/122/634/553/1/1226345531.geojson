@@ -1,0 +1,67 @@
+{
+  "id": 1226345531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43642,40.86011,-8.43642,40.86011",
+    "geom:latitude":40.86011,
+    "geom:longitude":-8.43642,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0113",
+    "gn:admin3_code":"11312.0",
+    "gn:asciiname":"Pinhao",
+    "gn:country_code":"PT",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736225,
+    "gn:latitude":40.86011,
+    "gn:longitude":-8.43642,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pinh\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736225
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"55aca4b87e200bc5741dad32bca14063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226345531,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1226345531,
+    "wof:lastmodified":1536790156,
+    "wof:name":"Pinhao",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43642,
+    40.86011,
+    -8.43642,
+    40.86011
+],
+  "geometry": {"coordinates":[-8.43642,40.86011],"type":"Point"}
+}

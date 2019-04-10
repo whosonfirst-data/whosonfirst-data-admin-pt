@@ -1,0 +1,67 @@
+{
+  "id": 1343949721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.94097,40.36006,-7.94097,40.36006",
+    "geom:latitude":40.36006,
+    "geom:longitude":-7.94097,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0616",
+    "gn:admin3_code":"61604.0",
+    "gn:asciiname":"Vila Cha",
+    "gn:country_code":"PT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732708,
+    "gn:latitude":40.36006,
+    "gn:longitude":-7.94097,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Ch\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732708
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a68fed362421b9882c5721f5ffe5e8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343949721,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1343949721,
+    "wof:lastmodified":1537034083,
+    "wof:name":"Vila Cha",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94097,
+    40.36006,
+    -7.94097,
+    40.36006
+],
+  "geometry": {"coordinates":[-7.94097,40.36006],"type":"Point"}
+}

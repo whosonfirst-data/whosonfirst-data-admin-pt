@@ -1,0 +1,67 @@
+{
+  "id": 1343683183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02934,40.18508,-8.02934,40.18508",
+    "geom:latitude":40.18508,
+    "geom:longitude":-8.02934,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60105.0",
+    "gn:asciiname":"Pracerias",
+    "gn:country_code":"PT",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735757,
+    "gn:latitude":40.18508,
+    "gn:longitude":-8.02934,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pracerias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735757
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ccbbd23afa9fe43771e76256429fc4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343683183,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1343683183,
+    "wof:lastmodified":1536923002,
+    "wof:name":"Pracerias",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02934,
+    40.18508,
+    -8.02934,
+    40.18508
+],
+  "geometry": {"coordinates":[-8.02934,40.18508],"type":"Point"}
+}

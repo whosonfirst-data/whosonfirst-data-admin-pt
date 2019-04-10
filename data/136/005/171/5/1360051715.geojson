@@ -1,0 +1,67 @@
+{
+  "id": 1360051715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33601,39.75138,-8.33601,39.75138",
+    "geom:latitude":39.75138,
+    "geom:longitude":-8.33601,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1411",
+    "gn:admin3_code":"141102.0",
+    "gn:asciiname":"Menexas",
+    "gn:country_code":"PT",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266452,
+    "gn:latitude":39.75138,
+    "gn:longitude":-8.33601,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Menexas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266452
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0437f67501e3de65660707cf3bc8f307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360051715,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1360051715,
+    "wof:lastmodified":1536993117,
+    "wof:name":"Menexas",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33601,
+    39.75138,
+    -8.33601,
+    39.75138
+],
+  "geometry": {"coordinates":[-8.33601,39.75138],"type":"Point"}
+}

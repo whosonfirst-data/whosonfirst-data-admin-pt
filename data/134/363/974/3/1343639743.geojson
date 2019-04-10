@@ -1,0 +1,67 @@
+{
+  "id": 1343639743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58332,40.51181,-7.58332,40.51181",
+    "geom:latitude":40.51181,
+    "geom:longitude":-7.58332,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0906",
+    "gn:admin3_code":"90617.0",
+    "gn:asciiname":"Sao Paio",
+    "gn:country_code":"PT",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734388,
+    "gn:latitude":40.51181,
+    "gn:longitude":-7.58332,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Paio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734388
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3e959357d3b206444b63332f49e7a0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343639743,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1343639743,
+    "wof:lastmodified":1536984178,
+    "wof:name":"Sao Paio",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58332,
+    40.51181,
+    -7.58332,
+    40.51181
+],
+  "geometry": {"coordinates":[-7.58332,40.51181],"type":"Point"}
+}

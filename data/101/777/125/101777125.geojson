@@ -1,0 +1,114 @@
+{
+  "id": 101777125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":1078965.78336,
+    "geom:bbox":"-8.86115946377,39.8632328266,-8.83544050013,39.8730709545",
+    "geom:latitude":39.867858,
+    "geom:longitude":-8.847476,
+    "iso:country":"PT",
+    "lbl:latitude":39.870262,
+    "lbl:longitude":-8.847671,
+    "mps:latitude":39.870262,
+    "mps:longitude":-8.847671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Carreira"
+    ],
+    "name:dut_x_preferred":[
+        "Carreira"
+    ],
+    "name:eng_x_preferred":[
+        "Carreira"
+    ],
+    "name:fra_x_preferred":[
+        "Carreira"
+    ],
+    "name:fre_x_preferred":[
+        "Carreira"
+    ],
+    "name:ger_x_preferred":[
+        "Carreira"
+    ],
+    "name:glg_x_preferred":[
+        "Carreira"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0439\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Carreira"
+    ],
+    "name:por_x_preferred":[
+        "Carreira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Carreira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Carreira",
+    "qs:la_lc":"*PT11009303",
+    "qs:level":"locality",
+    "qs:loc":"Carreira",
+    "qs:loc_alt":"Carreira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026d859a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270059,
+        "gp:id":29381102,
+        "qs:id":40790,
+        "wd:id":"Q1044931"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a77a802723a851bc24d8753cf7fa5abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777125,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777125,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815491,
+    "wof:name":"Carreira",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8611594637743,
+    39.86323282655195,
+    -8.83544050013171,
+    39.87307095452235
+],
+  "geometry": {"coordinates":[[[-8.84514653841848,39.87307095452235],[-8.84462248572225,39.87132278361054],[-8.84348500359692,39.87154589359113],[-8.84296101837219,39.86979770783057],[-8.84068608997001,39.8702438740815],[-8.84042414025049,39.86936977122724],[-8.83928667990023,39.86959283102345],[-8.8390247540832,39.86871872269569],[-8.83674984108666,39.86916479563018],[-8.83544050013171,39.86479418951814],[-8.843402083797,39.86323282655195],[-8.84392598771672,39.86498102550451],[-8.84278861092122,39.86520412401126],[-8.84357449829213,39.86782641839324],[-8.84698673487901,39.86715705154171],[-8.84724875921086,39.86803113519375],[-8.8517983688368,39.86713844712699],[-8.85153628821956,39.86626437757923],[-8.85494838163311,39.86559473349149],[-8.854686268639,39.8647206725729],[-8.85923557477969,39.86382764308325],[-8.85975992314826,39.86557573475187],[-8.86089726076904,39.86535243732277],[-8.8611594637743,39.86622647670214],[-8.86002211208546,39.86644977765906],[-8.86054651946807,39.86819785761963],[-8.85599693194536,39.86909095765787],[-8.855734779616,39.86821690454246],[-8.85232255956839,39.86888658037157],[-8.85284678963274,39.87063470581455],[-8.85170934116576,39.87085791174064],[-8.85197145687596,39.87173197506348],[-8.84514653841848,39.87307095452235]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193093351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.43333,38.53333,-28.43333,38.53333",
+    "geom:latitude":38.53333,
+    "geom:longitude":-28.43333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4602",
+    "gn:admin3_code":"460201.0",
+    "gn:asciiname":"Farrobo",
+    "gn:country_code":"PT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373085,
+    "gn:latitude":38.53333,
+    "gn:longitude":-28.43333,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Farrobo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373085
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9f1f0c85199de89d4ae56ffac0aa999c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193093351,
+            "region_id":85687447
+        }
+    ],
+    "wof:id":1193093351,
+    "wof:lastmodified":1536368047,
+    "wof:name":"Farrobo",
+    "wof:parent_id":85687447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.43333,
+    38.53333,
+    -28.43333,
+    38.53333
+],
+  "geometry": {"coordinates":[-28.43333,38.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327203593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.84435,39.26109,-7.84435,39.26109",
+    "geom:latitude":39.26109,
+    "geom:longitude":-7.84435,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Cortico",
+    "gn:country_code":"PT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268957,
+    "gn:latitude":39.26109,
+    "gn:longitude":-7.84435,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Corti\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268957
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"82f37a7fb704727fddd8b153cee56044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327203593,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1327203593,
+    "wof:lastmodified":1537010638,
+    "wof:name":"Cortico",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84435,
+    39.26109,
+    -7.84435,
+    39.26109
+],
+  "geometry": {"coordinates":[-7.84435,39.26109],"type":"Point"}
+}

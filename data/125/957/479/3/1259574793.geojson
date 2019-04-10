@@ -1,0 +1,67 @@
+{
+  "id": 1259574793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.70818,40.29007,-8.70818,40.29007",
+    "geom:latitude":40.29007,
+    "geom:longitude":-8.70818,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61002.0",
+    "gn:asciiname":"Pelicanos",
+    "gn:country_code":"PT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736492,
+    "gn:latitude":40.29007,
+    "gn:longitude":-8.70818,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pelicanos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736492
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0f939b40d2572562cf0c0b6a2b5cfc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259574793,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259574793,
+    "wof:lastmodified":1536727792,
+    "wof:name":"Pelicanos",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.70818,
+    40.29007,
+    -8.70818,
+    40.29007
+],
+  "geometry": {"coordinates":[-8.70818,40.29007],"type":"Point"}
+}

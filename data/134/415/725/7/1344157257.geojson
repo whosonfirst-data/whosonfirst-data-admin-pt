@@ -1,0 +1,67 @@
+{
+  "id": 1344157257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48549,41.39792,-8.48549,41.39792",
+    "geom:latitude":41.39792,
+    "geom:longitude":-8.48549,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0312",
+    "gn:admin3_code":"31220.0",
+    "gn:asciiname":"Pouve",
+    "gn:country_code":"PT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735863,
+    "gn:latitude":41.39792,
+    "gn:longitude":-8.48549,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pouve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735863
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"957c0e8f23fbf998d44aa55f758f3a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344157257,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344157257,
+    "wof:lastmodified":1536735984,
+    "wof:name":"Pouve",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48549,
+    41.39792,
+    -8.48549,
+    41.39792
+],
+  "geometry": {"coordinates":[-8.48549,41.39792],"type":"Point"}
+}

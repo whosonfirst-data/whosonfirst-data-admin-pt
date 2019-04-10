@@ -1,0 +1,65 @@
+{
+  "id": 1226319131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29065,39.985,-8.29065,39.985",
+    "geom:latitude":39.985,
+    "geom:longitude":-8.29065,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Silveira Grande",
+    "gn:country_code":"PT",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262933,
+    "gn:latitude":39.985,
+    "gn:longitude":-8.29065,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Silveira Grande",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262933
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9655cbeef8ca1d3b8cc930e1280a86c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226319131,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226319131,
+    "wof:lastmodified":1536827006,
+    "wof:name":"Silveira Grande",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29065,
+    39.985,
+    -8.29065,
+    39.985
+],
+  "geometry": {"coordinates":[-8.29065,39.985],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276430797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81141,37.09087,-8.81141,37.09087",
+    "geom:latitude":37.09087,
+    "geom:longitude":-8.81141,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0815",
+    "gn:admin3_code":"81502.0",
+    "gn:asciiname":"Vale de Boi",
+    "gn:country_code":"PT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262234,
+    "gn:latitude":37.09087,
+    "gn:longitude":-8.81141,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Boi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262234
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c81350d025f9e4846341362d3911899b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276430797,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1276430797,
+    "wof:lastmodified":1536647665,
+    "wof:name":"Vale de Boi",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81141,
+    37.09087,
+    -8.81141,
+    37.09087
+],
+  "geometry": {"coordinates":[-8.81141,37.09087],"type":"Point"}
+}

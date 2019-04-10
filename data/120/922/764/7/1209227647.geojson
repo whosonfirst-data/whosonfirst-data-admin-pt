@@ -1,0 +1,63 @@
+{
+  "id": 1209227647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38674,40.75629,-8.38674,40.75629",
+    "geom:latitude":40.75629,
+    "geom:longitude":-8.38674,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0117",
+    "gn:admin3_code":"11707.0",
+    "gn:asciiname":"Vila Fria",
+    "gn:country_code":"PT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732625,
+    "gn:latitude":40.75629,
+    "gn:longitude":-8.38674,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Fria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732625
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"30e77f8eb44bdc3e80dceb00a348b88e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209227647
+        }
+    ],
+    "wof:id":1209227647,
+    "wof:lastmodified":1536293743,
+    "wof:name":"Vila Fria",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38674,
+    40.75629,
+    -8.38674,
+    40.75629
+],
+  "geometry": {"coordinates":[-8.38674,40.75629],"type":"Point"}
+}

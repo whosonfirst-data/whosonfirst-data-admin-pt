@@ -1,0 +1,67 @@
+{
+  "id": 1193249989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77945,41.4276,-8.77945,41.4276",
+    "geom:latitude":41.4276,
+    "geom:longitude":-8.77945,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1313",
+    "gn:admin3_code":"131302.0",
+    "gn:asciiname":"Areosa",
+    "gn:country_code":"PT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742767,
+    "gn:latitude":41.4276,
+    "gn:longitude":-8.77945,
+    "gn:modification_date":"2018-01-15",
+    "gn:name":"Areosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742767
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3f169e55e8157c60abd56f4b9af00ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193249989,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1193249989,
+    "wof:lastmodified":1536369067,
+    "wof:name":"Areosa",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77945,
+    41.4276,
+    -8.77945,
+    41.4276
+],
+  "geometry": {"coordinates":[-8.77945,41.4276],"type":"Point"}
+}

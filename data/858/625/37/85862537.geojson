@@ -1,0 +1,105 @@
+{
+  "id": 85862537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":519144.236693,
+    "geom:bbox":"-9.16589657529,38.7113883968,-9.15435791016,38.7198047426",
+    "geom:latitude":38.7156,
+    "geom:longitude":-9.160536,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.707319,
+    "lbl:longitude":-9.16537,
+    "mps:latitude":38.715542,
+    "mps:longitude":-9.160538,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Estrela"
+    ],
+    "name:unk_x_variant":[
+        "Estrela"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Estrela",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":436,
+    "qs:photo_sum":1801,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105210,
+        "qs:id":1061852,
+        "qs_pg:id":1061852
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1b649c4b36b714a46ea1dbebb6e0d95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862537,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862537,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Estrela",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16589657529306,
+    38.71138839677168,
+    -9.15435791015992,
+    38.71980474260005
+],
+  "geometry": {"coordinates":[[[-9.15985107421989,38.71909683405785],[-9.15985107421989,38.71766178197642],[-9.15765681520648,38.71766178431677],[-9.15710449218992,38.71766178810006],[-9.15710449218992,38.71551876930005],[-9.15435791015992,38.71551876930005],[-9.15435791015992,38.71516482185579],[-9.15435791015992,38.7133756863001],[-9.15518643464679,38.71337568202529],[-9.1565521439172,38.7133756821619],[-9.15694335206041,38.71187157675509],[-9.15710449218992,38.71176832177363],[-9.1576974046398,38.71138839677168],[-9.15777971175507,38.71140949286651],[-9.15847778320122,38.71230411828132],[-9.1598510742183,38.71230411811577],[-9.15985107421866,38.7133756863001],[-9.16259765624989,38.7133756863001],[-9.16315000535553,38.71337567879854],[-9.16534423827989,38.71337567915576],[-9.16534423827989,38.71481087106072],[-9.16589657529306,38.71551875325021],[-9.16561789066009,38.71659028270037],[-9.16589656901854,38.71766177202537],[-9.16534423827989,38.71836967799449],[-9.16397094726733,38.71778297583599],[-9.16259765624989,38.71836967799227],[-9.16259765624989,38.71909683406008],[-9.16259765624989,38.71980474260005],[-9.15985107421989,38.71980474260005],[-9.15985107421989,38.71909683405785]]],"type":"Polygon"}
+}

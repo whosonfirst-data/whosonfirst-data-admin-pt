@@ -1,0 +1,108 @@
+{
+  "id": 101778191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:bbox":"-8.16573128183,38.3870658151,-8.1413472639,38.3975418495",
+    "geom:latitude":38.391955,
+    "geom:longitude":-8.153078,
+    "iso:country":"PT",
+    "lbl:latitude":38.393974,
+    "lbl:longitude":-8.155294,
+    "mps:latitude":38.393974,
+    "mps:longitude":-8.155294,
+    "mz:hierarchy_label":1,
+    "name:cat_x_preferred":[
+        "Tractat d'Alca\u00e7ovas"
+    ],
+    "name:deu_x_preferred":[
+        "Vertrag von Alc\u00e1\u00e7ovas"
+    ],
+    "name:epo_x_preferred":[
+        "Traktato de Alc\u00e1\u00e7ovas"
+    ],
+    "name:fra_x_preferred":[
+        "Trait\u00e9 d\u2019Alc\u00e1\u00e7ovas"
+    ],
+    "name:glg_x_preferred":[
+        "Tratado de Alc\u00e1\u00e7ovas"
+    ],
+    "name:hun_x_preferred":[
+        "Alc\u00e1\u00e7ovasi szerz\u0151d\u00e9s"
+    ],
+    "name:ita_x_preferred":[
+        "Trattato di Alc\u00e1\u00e7ovas"
+    ],
+    "name:nor_x_preferred":[
+        "Alca\u00e7ovastraktaten"
+    ],
+    "name:por_x_colloquial":[
+        "Alcacovas"
+    ],
+    "name:por_x_preferred":[
+        "Alc\u00e1\u00e7ovas",
+        "Tratado das Alc\u00e1\u00e7ovas-Toledo"
+    ],
+    "name:spa_x_preferred":[
+        "Tratado de Alc\u00e1\u00e7ovas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*\u00c9vora",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alc\u00e1\u00e7ovas",
+    "qs:la_lc":"*PT10713015",
+    "qs:level":"locality",
+    "qs:loc":"Alc\u00e1\u00e7ovas",
+    "qs:loc_alt":"Alcacovas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270eed8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272211,
+        "gp:id":735568,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ec602bfe78335234ffc34376d9b2791e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778191,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":101778191,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1467244868,
+    "wof:name":"Alc\u00e1\u00e7ovas",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16573128182682,
+    38.38706581510843,
+    -8.14134726390324,
+    38.39754184953756
+],
+  "geometry": {"coordinates":[[[-8.15405037502455,38.39754184953756],[-8.15332246942859,38.3949072136819],[-8.15220744046866,38.3951214888159],[-8.15196483652488,38.39424326975541],[-8.14861975311533,38.39488600778088],[-8.14789211534907,38.39225130968975],[-8.14677711547534,38.39246552004533],[-8.14629209505654,38.39070903851729],[-8.14183214152609,38.39156572453129],[-8.14134726390324,38.38980920921324],[-8.15026685903547,38.38809568252788],[-8.15123707829321,38.39160860104465],[-8.15235205371494,38.39139433897043],[-8.15259464424304,38.39227256053101],[-8.15928444867194,38.3909866969808],[-8.15904177784762,38.39010849501204],[-8.16238655736009,38.3894653984936],[-8.16214385532891,38.38858720440032],[-8.16325875622096,38.38837281630356],[-8.16301604974666,38.38749462355338],[-8.16524580642391,38.38706581510843],[-8.16573128182682,38.38882218561986],[-8.16350147163229,38.38925100713061],[-8.16374419598037,38.39012919603482],[-8.16262926832786,38.39034359066414],[-8.16287198823284,38.39122178091196],[-8.15841216293251,38.39207924320743],[-8.15865483824638,38.39295744459707],[-8.15753985324818,38.39317178111412],[-8.15826789265662,38.39580638354744],[-8.15603782400615,38.39623503738801],[-8.15628049491198,38.3971132408866],[-8.15405037502455,38.39754184953756]]],"type":"Polygon"}
+}

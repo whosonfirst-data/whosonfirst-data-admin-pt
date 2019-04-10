@@ -1,0 +1,72 @@
+{
+  "id": 1226517385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35783,38.24754,-8.35783,38.24754",
+    "geom:latitude":38.24754,
+    "geom:longitude":-8.35783,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1501",
+    "gn:admin3_code":"150104.0",
+    "gn:asciiname":"Sao Romao do Sado",
+    "gn:country_code":"PT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263229,
+    "gn:latitude":38.24754,
+    "gn:longitude":-8.35783,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00e3o Rom\u00e3o do Sado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Rom\u00e3o",
+        "S\u00e3o Rom\u00e3o de S\u00e1d\u00e3o",
+        "S\u00e3o Rom\u00e3o do Sado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263229
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4fe86636cecaa3167874d9a501b7c579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226517385,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1226517385,
+    "wof:lastmodified":1537683144,
+    "wof:name":"Sao Romao do Sado",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35783,
+    38.24754,
+    -8.35783,
+    38.24754
+],
+  "geometry": {"coordinates":[-8.35783,38.24754],"type":"Point"}
+}

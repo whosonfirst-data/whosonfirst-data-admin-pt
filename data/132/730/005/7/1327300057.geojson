@@ -1,0 +1,67 @@
+{
+  "id": 1327300057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9118,39.40123,-8.9118,39.40123",
+    "geom:latitude":39.40123,
+    "geom:longitude":-8.9118,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1414",
+    "gn:admin3_code":"141401.0",
+    "gn:asciiname":"Fonte Longa",
+    "gn:country_code":"PT",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8260607,
+    "gn:latitude":39.40123,
+    "gn:longitude":-8.9118,
+    "gn:modification_date":"2012-04-24",
+    "gn:name":"Fonte Longa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260607
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40f97645f1b7a543f4d38f324c59dbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327300057,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1327300057,
+    "wof:lastmodified":1536870943,
+    "wof:name":"Fonte Longa",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9118,
+    39.40123,
+    -8.9118,
+    39.40123
+],
+  "geometry": {"coordinates":[-8.9118,39.40123],"type":"Point"}
+}

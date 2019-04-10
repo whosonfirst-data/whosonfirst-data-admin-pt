@@ -1,0 +1,67 @@
+{
+  "id": 1276546247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18157,41.58355,-7.18157,41.58355",
+    "geom:latitude":41.58355,
+    "geom:longitude":-7.18157,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0407",
+    "gn:admin3_code":"40701.0",
+    "gn:asciiname":"Vale de Martinho",
+    "gn:country_code":"PT",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733102,
+    "gn:latitude":41.58355,
+    "gn:longitude":-7.18157,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Martinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733102
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dee816fb9d43691bfa6210b52cc67a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276546247,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1276546247,
+    "wof:lastmodified":1536989892,
+    "wof:name":"Vale de Martinho",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18157,
+    41.58355,
+    -7.18157,
+    41.58355
+],
+  "geometry": {"coordinates":[-7.18157,41.58355],"type":"Point"}
+}

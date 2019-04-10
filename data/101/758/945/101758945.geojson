@@ -1,0 +1,80 @@
+{
+  "id": 101758945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:bbox":"-9.36585571583,38.7618892898,-9.35508309679,38.7763293214",
+    "geom:latitude":38.769179,
+    "geom:longitude":-9.359969,
+    "iso:country":"PT",
+    "lbl:latitude":38.769314,
+    "lbl:longitude":-9.359533,
+    "mps:latitude":38.769314,
+    "mps:longitude":-9.359533,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Abrunheira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Abrunheira",
+    "qs:loc_alt":"Abrunheira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026966d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272443,
+        "gp:id":735316,
+        "qs:id":1225361,
+        "qs_pg:id":1225361
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3c030aef3fc37ceb7b8a4e1277f07bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758945,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758945,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497295550,
+    "wof:name":"Abrunheira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36585571582918,
+    38.76188928978058,
+    -9.35508309678767,
+    38.77632932136601
+],
+  "geometry": {"coordinates":[[[-9.35775171419056,38.77555287682799],[-9.35663917624737,38.7708802174667],[-9.35508309678767,38.76511357005751],[-9.35555543987107,38.76302176497387],[-9.35996241977489,38.76212079092238],[-9.35989322879431,38.76188928978058],[-9.36139894871206,38.76264214973935],[-9.36240582365645,38.76493050188583],[-9.36240582365645,38.76767652446159],[-9.36313809634339,38.76950720617873],[-9.3642365053737,38.77051408112322],[-9.36570795833541,38.77114470382111],[-9.36507178043382,38.77127481114212],[-9.36585571582918,38.773895997154],[-9.36361967016347,38.77435324744317],[-9.36414228857336,38.77610070861095],[-9.36302422914724,38.77632932136601],[-9.36276292846378,38.77545558829627],[-9.36164487576224,38.77568418461237],[-9.36138359804721,38.77481044599881],[-9.35775171419056,38.77555287682799]]],"type":"Polygon"}
+}

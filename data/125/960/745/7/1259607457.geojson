@@ -1,0 +1,67 @@
+{
+  "id": 1259607457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01746,41.45597,-8.01746,41.45597",
+    "geom:latitude":41.45597,
+    "geom:longitude":-8.01746,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0305",
+    "gn:admin3_code":"30518.0",
+    "gn:asciiname":"Ribas",
+    "gn:country_code":"PT",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735205,
+    "gn:latitude":41.45597,
+    "gn:longitude":-8.01746,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ribas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735205
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"119e0043b47d4d36a852108e2c973e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259607457,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259607457,
+    "wof:lastmodified":1536680243,
+    "wof:name":"Ribas",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01746,
+    41.45597,
+    -8.01746,
+    41.45597
+],
+  "geometry": {"coordinates":[-8.01746,41.45597],"type":"Point"}
+}

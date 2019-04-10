@@ -1,0 +1,84 @@
+{
+  "id": 101779683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:bbox":"-7.30656543822,37.9427177013,-7.29344192748,37.950993704",
+    "geom:latitude":37.947167,
+    "geom:longitude":-7.299282,
+    "iso:country":"PT",
+    "lbl:latitude":37.94704,
+    "lbl:longitude":-7.298736,
+    "mps:latitude":37.94704,
+    "mps:longitude":-7.298736,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Vila Verde de Ficalho"
+    ],
+    "name:por_x_variant":[
+        "Ficalho",
+        "Villa Verde"
+    ],
+    "name:unk_x_variant":[
+        "Ficalho"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Verde de Ficalho",
+    "qs:la_lc":"*PT10213071",
+    "qs:level":"locality",
+    "qs:loc":"Vila Verde de Ficalho",
+    "qs:loc_alt":"Vila Verde de Ficalho",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0267feea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2261578,
+        "gp:id":750871,
+        "qs:id":206615
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"407ef65a45ccd7c3dee20d8246fa6044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779683,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779683,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1501262281,
+    "wof:name":"Vila Verde de Ficalho",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.306565438223,
+    37.94271770132025,
+    -7.2934419274776,
+    37.95099370403966
+],
+  "geometry": {"coordinates":[[[-7.29481277053509,37.95099370403966],[-7.2934419274776,37.94570491901266],[-7.29566180863378,37.94529686672581],[-7.29543333752468,37.94441540223346],[-7.29876307645691,37.94380323639439],[-7.29853457381046,37.94292177929185],[-7.29964446204622,37.94271770132025],[-7.29987297799994,37.9435991553417],[-7.30098287382509,37.94339506140295],[-7.30143995751115,37.94515795772503],[-7.30254987423257,37.94495384473686],[-7.30277844196678,37.94583528703697],[-7.30610819773824,37.94522286150817],[-7.306565438223,37.94698572205624],[-7.30434555353111,37.94739403095775],[-7.30480277435009,37.94915689642289],[-7.29481277053509,37.95099370403966]]],"type":"Polygon"}
+}

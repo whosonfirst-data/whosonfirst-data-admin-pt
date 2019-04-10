@@ -1,0 +1,67 @@
+{
+  "id": 1360291397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74006,41.49705,-8.74006,41.49705",
+    "geom:latitude":41.49705,
+    "geom:longitude":-8.74006,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0306",
+    "gn:admin3_code":"30607.0",
+    "gn:asciiname":"Agra",
+    "gn:country_code":"PT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743362,
+    "gn:latitude":41.49705,
+    "gn:longitude":-8.74006,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Agra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743362
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b0b4dd3a7a55659ef82d027827c53858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360291397,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1360291397,
+    "wof:lastmodified":1536647576,
+    "wof:name":"Agra",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74006,
+    41.49705,
+    -8.74006,
+    41.49705
+],
+  "geometry": {"coordinates":[-8.74006,41.49705],"type":"Point"}
+}

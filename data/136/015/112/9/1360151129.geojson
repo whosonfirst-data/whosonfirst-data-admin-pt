@@ -1,0 +1,67 @@
+{
+  "id": 1360151129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34722,39.5808,-8.34722,39.5808",
+    "geom:latitude":39.5808,
+    "geom:longitude":-8.34722,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141813.0",
+    "gn:asciiname":"Pero Calvo",
+    "gn:country_code":"PT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264825,
+    "gn:latitude":39.5808,
+    "gn:longitude":-8.34722,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pero Calvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264825
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fc1a61a9f1eee4055481fd9801d2d522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360151129,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1360151129,
+    "wof:lastmodified":1536849417,
+    "wof:name":"Pero Calvo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34722,
+    39.5808,
+    -8.34722,
+    39.5808
+],
+  "geometry": {"coordinates":[-8.34722,39.5808],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125772339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16621,38.79079,-9.16621,38.79079",
+    "geom:latitude":38.79079,
+    "geom:longitude":-9.16621,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5959,
+    "gn:population":5959,
+    "iso:country":"PT",
+    "lbl:latitude":38.79079,
+    "lbl:longitude":-9.16621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2265422,
+    "qs_pg:gn_pop":5959,
+    "qs_pg:name":"Olival do Basto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":573440,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265422,
+        "qs_pg:id":573440
+    },
+    "wof:country":"PT",
+    "wof:created":1497290111,
+    "wof:geomhash":"95decfff84c7acf42f5c684f4cb9f87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125772339,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125772339,
+    "wof:lastmodified":1509391063,
+    "wof:name":"Olival do Basto",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":5959,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16621,
+    38.79079,
+    -9.16621,
+    38.79079
+],
+  "geometry": {"coordinates":[-9.16621,38.79079],"type":"Point"}
+}

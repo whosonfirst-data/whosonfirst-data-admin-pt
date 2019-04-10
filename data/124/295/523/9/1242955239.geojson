@@ -1,0 +1,67 @@
+{
+  "id": 1242955239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0874,38.96101,-7.0874,38.96101",
+    "geom:latitude":38.96101,
+    "geom:longitude":-7.0874,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1204",
+    "gn:admin3_code":"120401.0",
+    "gn:asciiname":"Vale Morto",
+    "gn:country_code":"PT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261936,
+    "gn:latitude":38.96101,
+    "gn:longitude":-7.0874,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Morto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261936
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2381b4ed559b4e92ab4ff612bd317d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242955239,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1242955239,
+    "wof:lastmodified":1537016086,
+    "wof:name":"Vale Morto",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0874,
+    38.96101,
+    -7.0874,
+    38.96101
+],
+  "geometry": {"coordinates":[-7.0874,38.96101],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310191613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95317,39.50397,-8.95317,39.50397",
+    "geom:latitude":39.50397,
+    "geom:longitude":-8.95317,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"100108.0",
+    "gn:asciiname":"Carris",
+    "gn:country_code":"PT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270028,
+    "gn:latitude":39.50397,
+    "gn:longitude":-8.95317,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270028
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cee4957c215aa4ecb6be0850c784bdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310191613,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1310191613,
+    "wof:lastmodified":1536871266,
+    "wof:name":"Carris",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95317,
+    39.50397,
+    -8.95317,
+    39.50397
+],
+  "geometry": {"coordinates":[-8.95317,39.50397],"type":"Point"}
+}

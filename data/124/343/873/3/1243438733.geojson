@@ -1,0 +1,67 @@
+{
+  "id": 1243438733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7,37.15,-7.7,37.15",
+    "geom:latitude":37.15,
+    "geom:longitude":-7.7,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81407.0",
+    "gn:asciiname":"Cerro da Zorra",
+    "gn:country_code":"PT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269383,
+    "gn:latitude":37.15,
+    "gn:longitude":-7.7,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro da Zorra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269383
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b1e9b3e6f254833d01224c0622878623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243438733,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1243438733,
+    "wof:lastmodified":1536815872,
+    "wof:name":"Cerro da Zorra",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7,
+    37.15,
+    -7.7,
+    37.15
+],
+  "geometry": {"coordinates":[-7.7,37.15],"type":"Point"}
+}

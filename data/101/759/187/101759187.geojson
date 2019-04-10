@@ -1,0 +1,113 @@
+{
+  "id": 101759187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000137,
+    "geom:area_square_m":1320223.545659,
+    "geom:bbox":"-9.10134976724,38.8108559114,-9.08503172525,38.8255062515",
+    "geom:latitude":38.81797,
+    "geom:longitude":-9.093427,
+    "gn:population":18925,
+    "iso:country":"PT",
+    "lbl:latitude":38.817936,
+    "lbl:longitude":-9.093427,
+    "mps:latitude":38.817936,
+    "mps:longitude":-9.093427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u0443\u0430\u043d-\u0434\u0430-\u0422\u0430\u043b\u044c\u044f"
+    ],
+    "name:por_x_colloquial":[
+        "S Joao da Talha",
+        "S. Joao da Talha",
+        "Sao Joao da Talha"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u0443\u0430\u043d-\u0434\u0430-\u0422\u0430\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Jo\u00e3o da Talha"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:loc_alt":"Sao Joao da Talha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026cdb5e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263326,
+        "gp:id":748193,
+        "qs:id":262480,
+        "qs_pg:id":262480,
+        "wd:id":"Q1024823"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"33bc846e335c8c90df1bee64e8c39105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759187,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759187,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498158,
+    "wof:name":"S\u00e3o Jo\u00e3o da Talha",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":18925,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10134976724328,
+    38.81085591135553,
+    -9.08503172524507,
+    38.825506251474
+],
+  "geometry": {"coordinates":[[[-9.08860977673248,38.81085591135553],[-9.10134976724328,38.81562257447183],[-9.09958446172772,38.82111463607555],[-9.0991198775186,38.8231278343153],[-9.09857101202039,38.825506251474],[-9.09726001200596,38.82492161633246],[-9.08524835535479,38.81956506674476],[-9.08503172524507,38.81883037748901],[-9.08615119533113,38.81860498906372],[-9.08563541998132,38.81685576003969],[-9.08675485668465,38.81663036557961],[-9.08598122480282,38.81400651737817],[-9.08821999807242,38.8135557103534],[-9.08796211298113,38.81268109719673],[-9.08908147638869,38.81245567770799],[-9.08860977673248,38.81085591135553]]],"type":"Polygon"}
+}

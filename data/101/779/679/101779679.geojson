@@ -1,0 +1,108 @@
+{
+  "id": 101779679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":459756.352978,
+    "geom:bbox":"-7.41783177722,37.9795435693,-7.40534760013,37.9872676994",
+    "geom:latitude":37.983374,
+    "geom:longitude":-7.411768,
+    "iso:country":"PT",
+    "lbl:latitude":37.982723,
+    "lbl:longitude":-7.410728,
+    "mps:latitude":37.982723,
+    "mps:longitude":-7.410728,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u74e6\u83b1-\u8fea\u74e6\u5c14\u53e4"
+    ],
+    "name:dut_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:eng_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:fre_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:ger_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0435-\u0412\u0430\u0440\u0433\u0443"
+    ],
+    "name:por_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0435-\u0412\u0430\u0440\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "name:tur_x_preferred":[
+        "Vale de Vargo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vale de Vargo",
+    "qs:la_lc":"*PT10213063",
+    "qs:level":"locality",
+    "qs:loc":"Vale de Vargo",
+    "qs:loc_alt":"Vale de Vargo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026843c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262074,
+        "gp:id":750090,
+        "qs:id":6,
+        "wd:id":"Q1655566"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"21189e89e8092d197a3f73921cfb4e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779679,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779679,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688555,
+    "wof:name":"Vale de Vargo",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41783177722272,
+    37.9795435693398,
+    -7.40534760012787,
+    37.98726769935041
+],
+  "geometry": {"coordinates":[[[-7.41362085304945,37.98726769935041],[-7.41293004887928,37.98462453820287],[-7.40959916768668,37.98524076653098],[-7.40936895646104,37.98435969978038],[-7.40714836679973,37.98477044801655],[-7.40691819064205,37.98388937319828],[-7.40580790047659,37.98409472488078],[-7.40534760012787,37.98233256345441],[-7.40756812146378,37.98192185961136],[-7.40733795734775,37.98104078231069],[-7.40844819606593,37.98083541415957],[-7.40821802709252,37.97995433809979],[-7.41043846063155,37.9795435693398],[-7.4106686562173,37.98042463919404],[-7.41177887764951,37.9802192323798],[-7.41200909499213,37.98110029726894],[-7.41311932396741,37.98089487446396],[-7.41334956306724,37.98177593438714],[-7.41445979958525,37.98157049559103],[-7.41469006044372,37.98245155054838],[-7.41580030450388,37.98224609576062],[-7.41626087819333,37.98400819387973],[-7.41737114310161,37.98380271999599],[-7.41783177722272,37.98556480445603],[-7.41672148570018,37.98577028454883],[-7.41695180213606,37.98665132708982],[-7.41362085304945,37.98726769935041]]],"type":"Polygon"}
+}

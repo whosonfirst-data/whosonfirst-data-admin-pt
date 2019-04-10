@@ -1,0 +1,67 @@
+{
+  "id": 1292984403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.43922,38.73183,-9.43922,38.73183",
+    "geom:latitude":38.73183,
+    "geom:longitude":-9.43922,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1105",
+    "gn:admin3_code":"110501.0",
+    "gn:asciiname":"Murches",
+    "gn:country_code":"PT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265639,
+    "gn:latitude":38.73183,
+    "gn:longitude":-9.43922,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Murches",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265639
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"107576d1058291661f9db0754c03cfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292984403,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1292984403,
+    "wof:lastmodified":1537014563,
+    "wof:name":"Murches",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.43922,
+    38.73183,
+    -9.43922,
+    38.73183
+],
+  "geometry": {"coordinates":[-9.43922,38.73183],"type":"Point"}
+}

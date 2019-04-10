@@ -1,0 +1,67 @@
+{
+  "id": 1226218931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73395,40.01829,-8.73395,40.01829",
+    "geom:latitude":40.01829,
+    "geom:longitude":-8.73395,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1015",
+    "gn:admin3_code":"101506.0",
+    "gn:asciiname":"Casais do Porto",
+    "gn:country_code":"PT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741229,
+    "gn:latitude":40.01829,
+    "gn:longitude":-8.73395,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casais do Porto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741229
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ade3c992ac26258be776e3e2d9416b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226218931,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1226218931,
+    "wof:lastmodified":1536971963,
+    "wof:name":"Casais do Porto",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73395,
+    40.01829,
+    -8.73395,
+    40.01829
+],
+  "geometry": {"coordinates":[-8.73395,40.01829],"type":"Point"}
+}

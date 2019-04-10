@@ -1,0 +1,72 @@
+{
+  "id": 101910765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"-9.26754806995,38.9059307943,-9.25720278822,38.9131495313",
+    "geom:latitude":38.909392,
+    "geom:longitude":-9.261614,
+    "iso:country":"PT",
+    "lbl:latitude":38.910138,
+    "lbl:longitude":-9.260242,
+    "mps:latitude":38.910138,
+    "mps:longitude":-9.260242,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"4",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Santo Est\u00eav\u00e3o das Gal\u00e9s",
+    "qs:la_lc":"*PT11109120",
+    "qs:level":"locality",
+    "qs:loc":"Avessada",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381714,
+        "qs:id":135587,
+        "qs_pg:id":135587
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7374a3b6964550239b80b4b88f398aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101910765,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101910765,
+    "wof:lastmodified":1497294448,
+    "wof:name":"Avessada",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2675480699474,
+    38.90593079432318,
+    -9.25720278821848,
+    38.91314953127613
+],
+  "geometry": {"coordinates":[[[-9.26022642194351,38.91314953127613],[-9.25996553664851,38.91227562818381],[-9.25884500971438,38.91250309528107],[-9.25858414749251,38.91162918666396],[-9.257463627368,38.91185663729118],[-9.25720278821848,38.91098272315014],[-9.25832329490783,38.91075527602391],[-9.25727998093208,38.90725961323108],[-9.25840042726151,38.90703216713871],[-9.25813960942349,38.90615824988282],[-9.25926003569685,38.90593079432318],[-9.25952086696725,38.9068047080786],[-9.26064130004863,38.90657723605057],[-9.26116301836225,38.90832505048883],[-9.26676521871087,38.90718746082047],[-9.2675480699474,38.9098091147743],[-9.26194566811188,38.91094675696917],[-9.262206570638,38.91182065508212],[-9.26108605695651,38.91204814811738],[-9.26134695568692,38.91292204770815],[-9.26022642194351,38.91314953127613]]],"type":"Polygon"}
+}

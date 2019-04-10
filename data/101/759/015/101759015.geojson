@@ -1,0 +1,90 @@
+{
+  "id": 101759015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000207,
+    "geom:bbox":"-9.40323786697,38.721579402,-9.38354570259,38.7411341455",
+    "geom:latitude":38.733189,
+    "geom:longitude":-9.395079,
+    "iso:country":"PT",
+    "lbl:latitude":38.733915,
+    "lbl:longitude":-9.395749,
+    "mps:latitude":38.733915,
+    "mps:longitude":-9.395749,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Alcoitao",
+        "Alcoutao"
+    ],
+    "name:por_x_preferred":[
+        "Alcoit\u00e3o"
+    ],
+    "name:por_x_variant":[
+        "Alcout\u00e3o"
+    ],
+    "name:unk_x_variant":[
+        "Alcout\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Alcoit\u00e3o",
+    "qs:loc_alt":"Alcoitao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02679dec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272141,
+        "gp:id":735625,
+        "qs:id":1014052,
+        "qs_pg:id":1014052
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0b93880ebe2a292d2ebf29ab20c6001c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759015,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759015,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497300509,
+    "wof:name":"Alcoit\u00e3o",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4032378669657,
+    38.721579401957,
+    -9.38354570258701,
+    38.74113414546269
+],
+  "geometry": {"coordinates":[[[-9.38354570258701,38.73699966716185],[-9.38447890091896,38.73596823742645],[-9.38694146789038,38.73509909614251],[-9.38694146789038,38.73270895761152],[-9.38983860550366,38.73089824660303],[-9.3920114587138,38.72836325119135],[-9.39346002752052,38.72539368513753],[-9.39644299257191,38.721579401957],[-9.39802301926164,38.7235105456889],[-9.40077529999439,38.72568339889892],[-9.40126499464492,38.72574908964475],[-9.40129291030803,38.72584237094497],[-9.40017575445682,38.7260713912259],[-9.40108193807242,38.72909930957451],[-9.40099258531541,38.72930482091562],[-9.40171686971871,38.7314776741257],[-9.40258601100271,38.73220195852917],[-9.4032378669657,38.73459209706016],[-9.40186172659935,38.73792380531557],[-9.40137909184494,38.73973368564492],[-9.39454547306389,38.74113414546269],[-9.39331517063988,38.74031394384656],[-9.3902731761458,38.73980694476421],[-9.38810032293571,38.73893780348033],[-9.38354570258701,38.73699966716185]]],"type":"Polygon"}
+}

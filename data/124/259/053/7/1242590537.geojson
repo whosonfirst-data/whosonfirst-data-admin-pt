@@ -1,0 +1,67 @@
+{
+  "id": 1242590537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39909,40.93242,-8.39909,40.93242",
+    "geom:latitude":40.93242,
+    "geom:longitude":-8.39909,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10409.0",
+    "gn:asciiname":"Gestosa",
+    "gn:country_code":"PT",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739014,
+    "gn:latitude":40.93242,
+    "gn:longitude":-8.39909,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gestosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739014
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f73f29c5df5d98a1ff6c025267a12dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242590537,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1242590537,
+    "wof:lastmodified":1537043146,
+    "wof:name":"Gestosa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39909,
+    40.93242,
+    -8.39909,
+    40.93242
+],
+  "geometry": {"coordinates":[-8.39909,40.93242],"type":"Point"}
+}

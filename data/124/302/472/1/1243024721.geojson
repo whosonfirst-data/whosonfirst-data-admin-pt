@@ -1,0 +1,67 @@
+{
+  "id": 1243024721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15453,40.57577,-8.15453,40.57577",
+    "geom:latitude":40.57577,
+    "geom:longitude":-8.15453,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1821",
+    "gn:admin3_code":"182118.0",
+    "gn:asciiname":"Guardao",
+    "gn:country_code":"PT",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738779,
+    "gn:latitude":40.57577,
+    "gn:longitude":-8.15453,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Guard\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738779
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8c6c03baeadc408ff48c0d8ba5ffa440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243024721,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1243024721,
+    "wof:lastmodified":1536917122,
+    "wof:name":"Guardao",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15453,
+    40.57577,
+    -8.15453,
+    40.57577
+],
+  "geometry": {"coordinates":[-8.15453,40.57577],"type":"Point"}
+}

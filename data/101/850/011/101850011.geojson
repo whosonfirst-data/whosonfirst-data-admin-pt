@@ -1,0 +1,116 @@
+{
+  "id": 101850011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.253477,38.790439,-27.253477,38.790439",
+    "geom:latitude":38.790439,
+    "geom:longitude":-27.253477,
+    "gn:population":1425,
+    "iso:country":"PT",
+    "lbl:latitude":38.790439,
+    "lbl:longitude":-27.253477,
+    "mps:latitude":38.790439,
+    "mps:longitude":-27.253477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:dut_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:eng_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:fre_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:ger_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:nan_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:por_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0448\u043a\u043e\u0439\u0442\u0443\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:tur_x_preferred":[
+        "Biscoitos"
+    ],
+    "name:unk_x_variant":[
+        "S\u00e3o Pedro Biscoutos"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Biscoitos",
+    "qs:loc_alt":"Biscoitos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373300,
+        "gp:id":537909,
+        "qs:id":147510,
+        "qs_pg:id":147510,
+        "wd:id":"Q616959",
+        "wk:page":"Biscoitos"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"78f7d66b798eaea7c72acf3e94cbd6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101850011,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":101850011,
+    "wof:lastmodified":1544741220,
+    "wof:name":"Biscoitos",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:population":1425,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.253477,
+    38.790439,
+    -27.253477,
+    38.790439
+],
+  "geometry": {"coordinates":[-27.253477,38.790439],"type":"Point"}
+}

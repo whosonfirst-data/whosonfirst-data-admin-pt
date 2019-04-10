@@ -1,0 +1,89 @@
+{
+  "id": 1126019181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01233,38.58558,-8.01233,38.58558",
+    "geom:latitude":38.58558,
+    "geom:longitude":-8.01233,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.58558,
+    "lbl:longitude":-8.01233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "S\u00e3o Mathias"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2263272,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e3o Matias",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Evora",
+    "qs_pg:photos":75,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":75,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":309668,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":748295,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Evora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263272,
+        "gp:id":748295,
+        "qs_pg:id":309668
+    },
+    "wof:country":"PT",
+    "wof:created":1497300727,
+    "wof:geomhash":"153db5221129fa61a73c736e346a2dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126019181,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1126019181,
+    "wof:lastmodified":1509407109,
+    "wof:name":"S\u00e3o Matias",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01233,
+    38.58558,
+    -8.01233,
+    38.58558
+],
+  "geometry": {"coordinates":[-8.01233,38.58558],"type":"Point"}
+}

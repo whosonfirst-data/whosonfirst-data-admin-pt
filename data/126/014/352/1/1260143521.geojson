@@ -1,0 +1,67 @@
+{
+  "id": 1260143521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91667,39.28333,-8.91667,39.28333",
+    "geom:latitude":39.28333,
+    "geom:longitude":-8.91667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1414",
+    "gn:admin3_code":"141408.0",
+    "gn:asciiname":"Ameiro",
+    "gn:country_code":"PT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271752,
+    "gn:latitude":39.28333,
+    "gn:longitude":-8.91667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ameiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271752
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"24ea408cdc8009fa7a3b3c87210b7002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260143521,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1260143521,
+    "wof:lastmodified":1536902912,
+    "wof:name":"Ameiro",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91667,
+    39.28333,
+    -8.91667,
+    39.28333
+],
+  "geometry": {"coordinates":[-8.91667,39.28333],"type":"Point"}
+}

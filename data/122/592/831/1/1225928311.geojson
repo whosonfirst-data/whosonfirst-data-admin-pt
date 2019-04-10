@@ -1,0 +1,67 @@
+{
+  "id": 1225928311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48861,37.19732,-7.48861,37.19732",
+    "geom:latitude":37.19732,
+    "geom:longitude":-7.48861,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0804",
+    "gn:admin3_code":"80402.0",
+    "gn:asciiname":"Sao Bartolomeu",
+    "gn:country_code":"PT",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263402,
+    "gn:latitude":37.19732,
+    "gn:longitude":-7.48861,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Bartolomeu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263402
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a107f0d47a9714c146166f572e04cd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225928311,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1225928311,
+    "wof:lastmodified":1536894383,
+    "wof:name":"Sao Bartolomeu",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48861,
+    37.19732,
+    -7.48861,
+    37.19732
+],
+  "geometry": {"coordinates":[-7.48861,37.19732],"type":"Point"}
+}

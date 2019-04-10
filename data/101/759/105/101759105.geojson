@@ -1,0 +1,138 @@
+{
+  "id": 101759105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000193,
+    "geom:area_square_m":1862770.857451,
+    "geom:bbox":"-9.25331402322,38.7070345728,-9.23288162651,38.7209026066",
+    "geom:latitude":38.714204,
+    "geom:longitude":-9.24342,
+    "gn:population":20895,
+    "iso:country":"PT",
+    "lbl:latitude":38.714096,
+    "lbl:longitude":-9.244636,
+    "mps:latitude":38.714096,
+    "mps:longitude":-9.244636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:dut_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:eng_x_preferred":[
+        "Linda a Velha"
+    ],
+    "name:fao_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:fre_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:ger_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:kal_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0430-\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:nno_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:nob_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:pol_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:por_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:por_x_variant":[
+        "Linda A Velha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0434\u0430-\u0430-\u0412\u0435\u043b\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:swe_x_preferred":[
+        "Linda-a-Velha"
+    ],
+    "name:unk_x_variant":[
+        "Linda-a-Velha"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Linda a Velha",
+    "qs:loc_alt":"Linda a Velha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c1e30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267067,
+        "gp:id":742664,
+        "qs:id":685366,
+        "qs_pg:id":685366,
+        "wd:id":"Q1013294"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3dd6165fb56ad4f70457eec62e4722c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759105,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759105,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498066,
+    "wof:name":"Linda a Velha",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":20895,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25331402321899,
+    38.70703457279353,
+    -9.2328816265096,
+    38.7209026065874
+],
+  "geometry": {"coordinates":[[[-9.23925118029871,38.70703457279353],[-9.24286230752415,38.70735556188021],[-9.24624906870088,38.70763016413781],[-9.24954429579174,38.70891164133985],[-9.25201571611007,38.71193226617328],[-9.25331402321899,38.71483800113151],[-9.25293105696863,38.71495289100659],[-9.25052998753824,38.71859087499195],[-9.24670673913016,38.7209026065874],[-9.24130622806445,38.72035340207231],[-9.23691259194322,38.71870578852679],[-9.2328816265096,38.71715541720624],[-9.2357218482714,38.71050331886931],[-9.24002049170946,38.7096295705814],[-9.23925118029871,38.70703457279353]]],"type":"Polygon"}
+}

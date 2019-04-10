@@ -1,0 +1,90 @@
+{
+  "id": 1125991571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27511,39.90413,-8.27511,39.90413",
+    "geom:latitude":39.90413,
+    "geom:longitude":-8.27511,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.90413,
+    "lbl:longitude":-8.27511,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2268188,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Figueir\u00f3 dos Vinhos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":456,
+    "qs_pg:photos_1k":92,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":456,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1353079,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741111,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268188,
+        "gp:id":741111,
+        "qs_pg:id":1353079
+    },
+    "wof:country":"PT",
+    "wof:created":1497299082,
+    "wof:geomhash":"a9119fcca09c2db884d48e75f2fa53ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125991571,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125991571,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Figueir\u00f3 dos Vinhos",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101776115
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27511,
+    39.90413,
+    -8.27511,
+    39.90413
+],
+  "geometry": {"coordinates":[-8.27511,39.90413],"type":"Point"}
+}

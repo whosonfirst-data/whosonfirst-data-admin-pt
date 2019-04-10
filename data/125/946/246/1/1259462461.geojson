@@ -1,0 +1,67 @@
+{
+  "id": 1259462461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62577,39.80722,-8.62577,39.80722",
+    "geom:latitude":39.80722,
+    "geom:longitude":-8.62577,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1015",
+    "gn:admin3_code":"101512.0",
+    "gn:asciiname":"Valongo",
+    "gn:country_code":"PT",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261869,
+    "gn:latitude":39.80722,
+    "gn:longitude":-8.62577,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Valongo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261869
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8f81ca1fd4892abbb16e0a90081caced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259462461,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1259462461,
+    "wof:lastmodified":1536888635,
+    "wof:name":"Valongo",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62577,
+    39.80722,
+    -8.62577,
+    39.80722
+],
+  "geometry": {"coordinates":[-8.62577,39.80722],"type":"Point"}
+}

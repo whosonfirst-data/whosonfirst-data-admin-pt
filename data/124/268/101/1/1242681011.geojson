@@ -1,0 +1,67 @@
+{
+  "id": 1242681011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69441,40.49816,-8.69441,40.49816",
+    "geom:latitude":40.49816,
+    "geom:longitude":-8.69441,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0118",
+    "gn:admin3_code":"11801.0",
+    "gn:asciiname":"Parada de Baixo",
+    "gn:country_code":"PT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736749,
+    "gn:latitude":40.49816,
+    "gn:longitude":-8.69441,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Parada de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736749
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ea40063854a548f2e0ab5fee05ac630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242681011,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1242681011,
+    "wof:lastmodified":1536915279,
+    "wof:name":"Parada de Baixo",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69441,
+    40.49816,
+    -8.69441,
+    40.49816
+],
+  "geometry": {"coordinates":[-8.69441,40.49816],"type":"Point"}
+}

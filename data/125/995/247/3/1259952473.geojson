@@ -1,0 +1,69 @@
+{
+  "id": 1259952473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.16867,39.1818,-7.16867,39.1818",
+    "geom:latitude":39.1818,
+    "geom:longitude":-7.16867,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Marco",
+    "gn:country_code":"PT",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266747,
+    "gn:latitude":39.1818,
+    "gn:longitude":-7.16867,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Marco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Madrid",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85682643,
+        102191581,
+        404330369,
+        85633129,
+        404227383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266747
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc08714d80cd419be43e4e055f290c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404330369,
+            "locality_id":1259952473,
+            "macroregion_id":404227383,
+            "region_id":85682643
+        }
+    ],
+    "wof:id":1259952473,
+    "wof:lastmodified":1536679838,
+    "wof:name":"Marco",
+    "wof:parent_id":404330369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16867,
+    39.1818,
+    -7.16867,
+    39.1818
+],
+  "geometry": {"coordinates":[-7.16867,39.1818],"type":"Point"}
+}

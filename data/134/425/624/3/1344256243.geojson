@@ -1,0 +1,70 @@
+{
+  "id": 1344256243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75282,41.86982,-6.75282,41.86982",
+    "geom:latitude":41.86982,
+    "geom:longitude":-6.75282,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"40234.0",
+    "gn:asciiname":"Rabal",
+    "gn:country_code":"PT",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735496,
+    "gn:latitude":41.86982,
+    "gn:longitude":-6.75282,
+    "gn:modification_date":"2018-02-11",
+    "gn:name":"Rabal",
+    "gn:population":171,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735496
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"65a3b6e07794927cd83ab3ec8a7e39b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344256243,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1344256243,
+    "wof:lastmodified":1537087105,
+    "wof:name":"Rabal",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:population":171,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75282,
+    41.86982,
+    -6.75282,
+    41.86982
+],
+  "geometry": {"coordinates":[-6.75282,41.86982],"type":"Point"}
+}

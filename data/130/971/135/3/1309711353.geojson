@@ -1,0 +1,67 @@
+{
+  "id": 1309711353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.25962,41.34265,-7.25962,41.34265",
+    "geom:latitude":41.34265,
+    "geom:longitude":-7.25962,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0410",
+    "gn:admin3_code":"41005.0",
+    "gn:asciiname":"Vieiro",
+    "gn:country_code":"PT",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732746,
+    "gn:latitude":41.34265,
+    "gn:longitude":-7.25962,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vieiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732746
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6b13dee1a9fa005eb522b1dca38717ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309711353,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1309711353,
+    "wof:lastmodified":1537064442,
+    "wof:name":"Vieiro",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.25962,
+    41.34265,
+    -7.25962,
+    41.34265
+],
+  "geometry": {"coordinates":[-7.25962,41.34265],"type":"Point"}
+}

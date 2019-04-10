@@ -1,0 +1,67 @@
+{
+  "id": 1327103459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05567,40.7858,-8.05567,40.7858",
+    "geom:latitude":40.7858,
+    "geom:longitude":-8.05567,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1816",
+    "gn:admin3_code":"181612.0",
+    "gn:asciiname":"Sao Felix",
+    "gn:country_code":"PT",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734524,
+    "gn:latitude":40.7858,
+    "gn:longitude":-8.05567,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o F\u00e9lix",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734524
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"07695fe803263280f2c6938446ea521e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327103459,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1327103459,
+    "wof:lastmodified":1536658188,
+    "wof:name":"Sao Felix",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05567,
+    40.7858,
+    -8.05567,
+    40.7858
+],
+  "geometry": {"coordinates":[-8.05567,40.7858],"type":"Point"}
+}

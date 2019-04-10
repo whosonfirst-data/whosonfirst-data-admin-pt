@@ -1,0 +1,118 @@
+{
+  "id": 101779649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":779633.727059,
+    "geom:bbox":"-8.79019871974,37.7224363881,-8.77304279028,37.7325427018",
+    "geom:latitude":37.727396,
+    "geom:longitude":-8.780186,
+    "gn:population":4393,
+    "iso:country":"PT",
+    "lbl:latitude":37.727403,
+    "lbl:longitude":-8.780316,
+    "mps:latitude":37.727403,
+    "mps:longitude":-8.780316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:dut_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:eng_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:fre_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u041c\u0438\u043b\u0444\u043e\u043d\u0442\u0435\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:por_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u041c\u0438\u043b\u0444\u043e\u043d\u0442\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Nova de Milfontes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Nova de Milfontes",
+    "qs:la_lc":"*PT10211117",
+    "qs:level":"locality",
+    "qs:loc":"Vila Nova de Milfontes",
+    "qs:loc_alt":"Vila Nova de Milfontes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.716667,
+    "wd:longitude":-8.783333,
+    "wd:wordcount":781,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02674d92-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2261617,
+        "gp:id":750801,
+        "qs:id":1353443,
+        "qs_pg:id":1353443,
+        "wd:id":"Q1304376",
+        "wk:page":"Vila Nova de Milfontes"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d5f5ade93976821a17c37b23bdb502e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779649,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779649,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688554,
+    "wof:name":"Vila Nova de Milfontes",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:population":4393,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79019871974009,
+    37.72243638810716,
+    -8.77304279027987,
+    37.73254270180064
+],
+  "geometry": {"coordinates":[[[-8.77353564134211,37.73254270180064],[-8.77304279027987,37.73078849574608],[-8.7741459083885,37.73056729767734],[-8.77340666038623,37.72793598345805],[-8.77671586198386,37.72727234247816],[-8.77646942522478,37.72639524364388],[-8.77757246732182,37.72617400777926],[-8.77732602663582,37.7252969102442],[-8.77842904973193,37.7250756649313],[-8.77793616948043,37.7233214704504],[-8.7823480976665,37.72243638810716],[-8.78259458489873,37.72331347312121],[-8.78480053817992,37.7228708488048],[-8.78504706018225,37.72374792519338],[-8.78945894510503,37.72286251027089],[-8.79019871974009,37.72549368767267],[-8.7890957189731,37.72571507046285],[-8.78860255269888,37.72396094758602],[-8.78419059177565,37.72484632472492],[-8.78517675386422,37.72835461538432],[-8.78297063359145,37.72879725389203],[-8.78321717075653,37.72967432815165],[-8.78211408856401,37.7298956315804],[-8.78236062180503,37.73077270713992],[-8.77905129990239,37.73143655081333],[-8.7792978034135,37.73231363428971],[-8.77819467100323,37.73253489330921],[-8.77794818039519,37.73165780652465],[-8.77353564134211,37.73254270180064]]],"type":"Polygon"}
+}

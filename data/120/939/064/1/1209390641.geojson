@@ -1,0 +1,63 @@
+{
+  "id": 1209390641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77941,39.25323,-8.77941,39.25323",
+    "geom:latitude":39.25323,
+    "geom:longitude":-8.77941,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141606.0",
+    "gn:asciiname":"Casais do Paul",
+    "gn:country_code":"PT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269823,
+    "gn:latitude":39.25323,
+    "gn:longitude":-8.77941,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casais do Paul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269823
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"08563dfb731dc7080083c0c329d36ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209390641
+        }
+    ],
+    "wof:id":1209390641,
+    "wof:lastmodified":1536288472,
+    "wof:name":"Casais do Paul",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77941,
+    39.25323,
+    -8.77941,
+    39.25323
+],
+  "geometry": {"coordinates":[-8.77941,39.25323],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226134243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86573,40.43802,-7.86573,40.43802",
+    "geom:latitude":40.43802,
+    "geom:longitude":-7.86573,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0611",
+    "gn:admin3_code":"61121.0",
+    "gn:asciiname":"Vila Franca",
+    "gn:country_code":"PT",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732637,
+    "gn:latitude":40.43802,
+    "gn:longitude":-7.86573,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Franca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732637
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"794e06fe1d7cbe374b571a9524c13446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226134243,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226134243,
+    "wof:lastmodified":1537091106,
+    "wof:name":"Vila Franca",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86573,
+    40.43802,
+    -7.86573,
+    40.43802
+],
+  "geometry": {"coordinates":[-7.86573,40.43802],"type":"Point"}
+}

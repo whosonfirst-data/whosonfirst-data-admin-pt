@@ -1,0 +1,67 @@
+{
+  "id": 1343966827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37001,40.9916,-8.37001,40.9916",
+    "geom:latitude":40.9916,
+    "geom:longitude":-8.37001,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10417.0",
+    "gn:asciiname":"Lazaro",
+    "gn:country_code":"PT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738353,
+    "gn:latitude":40.9916,
+    "gn:longitude":-8.37001,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"L\u00e1zaro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738353
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ba9b0398db9221b33e310d0f80c23664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343966827,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1343966827,
+    "wof:lastmodified":1537010019,
+    "wof:name":"Lazaro",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37001,
+    40.9916,
+    -8.37001,
+    40.9916
+],
+  "geometry": {"coordinates":[-8.37001,40.9916],"type":"Point"}
+}

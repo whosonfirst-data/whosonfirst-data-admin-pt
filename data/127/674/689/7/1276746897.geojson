@@ -1,0 +1,71 @@
+{
+  "id": 1276746897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32215,38.69105,-9.32215,38.69105",
+    "geom:latitude":38.69105,
+    "geom:longitude":-9.32215,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1110",
+    "gn:admin3_code":"111004.0",
+    "gn:asciiname":"Carcavelos",
+    "gn:country_code":"PT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270184,
+    "gn:latitude":38.69105,
+    "gn:longitude":-9.32215,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Carcavelos",
+    "gn:population":20366,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270184,
+        "wk:page":"Carcavelos"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"42ff88c3be043a3726302fd48fe6dce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276746897,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1276746897,
+    "wof:lastmodified":1537571937,
+    "wof:name":"Carcavelos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":20366,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32215,
+    38.69105,
+    -9.32215,
+    38.69105
+],
+  "geometry": {"coordinates":[-9.32215,38.69105],"type":"Point"}
+}

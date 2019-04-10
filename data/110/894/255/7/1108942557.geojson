@@ -1,0 +1,61 @@
+{
+  "id": 1108942557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16020815375,38.7190238999,-9.16020815375,38.7190238999",
+    "geom:latitude":38.719024,
+    "geom:longitude":-9.160208,
+    "iso:country":"PT",
+    "lbl:latitude":38.719024,
+    "lbl:longitude":-9.160208,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363167,
+    "wof:geomhash":"34a2678b11a2b4eb2db8c26924dd0d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942557,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942557,
+    "wof:lastmodified":1492123641,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1602081537514,
+    38.7190238998837,
+    -9.1602081537514,
+    38.7190238998837
+],
+  "geometry": {"coordinates":[-9.1602081537514,38.7190238998837],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310406179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39471,41.73555,-8.39471,41.73555",
+    "geom:latitude":41.73555,
+    "geom:longitude":-8.39471,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31301.0",
+    "gn:asciiname":"Sa",
+    "gn:country_code":"PT",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504575,
+    "gn:latitude":41.73555,
+    "gn:longitude":-8.39471,
+    "gn:modification_date":"2013-03-13",
+    "gn:name":"S\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504575
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0b1e19137bc0363ff376b78d8e12796d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310406179,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310406179,
+    "wof:lastmodified":1537057774,
+    "wof:name":"Sa",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39471,
+    41.73555,
+    -8.39471,
+    41.73555
+],
+  "geometry": {"coordinates":[-8.39471,41.73555],"type":"Point"}
+}

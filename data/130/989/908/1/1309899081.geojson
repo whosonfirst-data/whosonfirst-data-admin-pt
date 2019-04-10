@@ -1,0 +1,67 @@
+{
+  "id": 1309899081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14481,39.85695,-8.14481,39.85695",
+    "geom:latitude":39.85695,
+    "geom:longitude":-8.14481,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50903.0",
+    "gn:asciiname":"Mourisco",
+    "gn:country_code":"PT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265670,
+    "gn:latitude":39.85695,
+    "gn:longitude":-8.14481,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mourisco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265670
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ee24ba9387565a7e07e692219b9fa8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309899081,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1309899081,
+    "wof:lastmodified":1536796819,
+    "wof:name":"Mourisco",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14481,
+    39.85695,
+    -8.14481,
+    39.85695
+],
+  "geometry": {"coordinates":[-8.14481,39.85695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259675445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6041,40.06354,-8.6041,40.06354",
+    "geom:latitude":40.06354,
+    "geom:longitude":-8.6041,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0615",
+    "gn:admin3_code":"61509.0",
+    "gn:asciiname":"Pinheiro",
+    "gn:country_code":"PT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736218,
+    "gn:latitude":40.06354,
+    "gn:longitude":-8.6041,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pinheiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736218
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a0902dbda2f51831d4609943bf7d6c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259675445,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259675445,
+    "wof:lastmodified":1537075539,
+    "wof:name":"Pinheiro",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6041,
+    40.06354,
+    -8.6041,
+    40.06354
+],
+  "geometry": {"coordinates":[-8.6041,40.06354],"type":"Point"}
+}

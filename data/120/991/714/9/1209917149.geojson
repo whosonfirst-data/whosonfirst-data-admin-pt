@@ -1,0 +1,67 @@
+{
+  "id": 1209917149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46246,40.70045,-8.46246,40.70045",
+    "geom:latitude":40.70045,
+    "geom:longitude":-8.46246,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"10208.0",
+    "gn:asciiname":"Vale Maior",
+    "gn:country_code":"PT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733026,
+    "gn:latitude":40.70045,
+    "gn:longitude":-8.46246,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Maior",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733026
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ab97608f4591a3d23f8d759037350945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209917149,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1209917149,
+    "wof:lastmodified":1536372490,
+    "wof:name":"Vale Maior",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46246,
+    40.70045,
+    -8.46246,
+    40.70045
+],
+  "geometry": {"coordinates":[-8.46246,40.70045],"type":"Point"}
+}

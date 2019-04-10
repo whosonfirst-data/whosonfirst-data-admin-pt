@@ -1,0 +1,114 @@
+{
+  "id": 101759135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1002625.582213,
+    "geom:bbox":"-9.1542696362,38.8138623274,-9.13948756148,38.8274605928",
+    "geom:latitude":38.820072,
+    "geom:longitude":-9.14554,
+    "iso:country":"PT",
+    "lbl:latitude":38.819862,
+    "lbl:longitude":-9.144811,
+    "mps:latitude":38.819862,
+    "mps:longitude":-9.144811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0440\u0438\u0435\u043b\u0430\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Frielas"
+    ],
+    "name:dut_x_preferred":[
+        "Frielas"
+    ],
+    "name:eng_x_preferred":[
+        "Frielas"
+    ],
+    "name:fre_x_preferred":[
+        "Frielas"
+    ],
+    "name:ger_x_preferred":[
+        "Frielas"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u0438\u0435\u043b\u0430\u0448"
+    ],
+    "name:pol_x_preferred":[
+        "Frielas"
+    ],
+    "name:por_x_preferred":[
+        "Frielas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0438\u0435\u043b\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Frielas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Frielas",
+    "qs:loc_alt":"Frielas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273b5e6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267837,
+        "gp:id":741585,
+        "qs:id":325008,
+        "qs_pg:id":325008,
+        "wd:id":"Q1024850"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bf68df9e0cadd704eb952093f762368a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759135,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759135,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714674,
+    "wof:name":"Frielas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15426963620268,
+    38.81386232735377,
+    -9.13948756148079,
+    38.82746059279634
+],
+  "geometry": {"coordinates":[[[-9.15074321196835,38.81576960635198],[-9.15426963620268,38.81876374013592],[-9.15159256628414,38.81930477009826],[-9.15185134911172,38.82017916067775],[-9.14961269371128,38.82063146101325],[-9.15013023438792,38.8223802500259],[-9.14789149910399,38.82283251242836],[-9.14815025694992,38.82370691086146],[-9.14703086605493,38.82393302610035],[-9.14728962004142,38.82480742599364],[-9.14617020917331,38.82503353174786],[-9.14642895929961,38.82590793310135],[-9.14419009105382,38.82636011268272],[-9.14444882390592,38.82723451896987],[-9.14332936652721,38.82746059279634],[-9.14307064708873,38.82658618303594],[-9.1419511965625,38.82681224043046],[-9.13948756148079,38.81848331937232],[-9.14045374423102,38.81795191885976],[-9.14305076879674,38.81448921943871],[-9.14306595254249,38.81454055846189],[-9.14642368273883,38.81386232735377],[-9.14719973865817,38.816485566604],[-9.15074321196835,38.81576960635198]]],"type":"Polygon"}
+}

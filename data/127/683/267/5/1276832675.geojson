@@ -1,0 +1,67 @@
+{
+  "id": 1276832675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31955,39.57267,-8.31955,39.57267",
+    "geom:latitude":39.57267,
+    "geom:longitude":-8.31955,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141815.0",
+    "gn:asciiname":"Vale do Roxo",
+    "gn:country_code":"PT",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262015,
+    "gn:latitude":39.57267,
+    "gn:longitude":-8.31955,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale do Roxo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262015
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b7fce15cc5e3de3d8da443d8e6f2a48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276832675,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1276832675,
+    "wof:lastmodified":1536603845,
+    "wof:name":"Vale do Roxo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31955,
+    39.57267,
+    -8.31955,
+    39.57267
+],
+  "geometry": {"coordinates":[-8.31955,39.57267],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 101777197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":799179.664836,
+    "geom:bbox":"-8.81913101597,40.1400658414,-8.80296506817,40.1483587216",
+    "geom:latitude":40.144459,
+    "geom:longitude":-8.810456,
+    "iso:country":"PT",
+    "lbl:latitude":40.144517,
+    "lbl:longitude":-8.810456,
+    "mps:latitude":40.144517,
+    "mps:longitude":-8.810456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Vila Verde"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Verde",
+    "qs:la_lc":"*PT10605131",
+    "qs:level":"locality",
+    "qs:loc":"Vila Verde",
+    "qs:loc_alt":"Vila Verde",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.65,
+    "wd:longitude":-8.433333,
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02728298-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2732337,
+        "gp:id":750865,
+        "qs:id":306798,
+        "qs_pg:id":306798
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"166e8274239635cd9d711085ec71982b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777197,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777197,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688513,
+    "wof:name":"Vila Verde",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81913101596524,
+    40.14006584141634,
+    -8.80296506817456,
+    40.1483587215991
+],
+  "geometry": {"coordinates":[[[-8.81447426672344,40.1483587215991],[-8.81421069117653,40.14748487028106],[-8.81078388502374,40.14815352648043],[-8.81052036214572,40.14727966258062],[-8.80595124762334,40.14817100425398],[-8.80568779166185,40.14729712422803],[-8.80454551002487,40.14751992293196],[-8.80296506817456,40.14227658081859],[-8.80753381141858,40.14138539151611],[-8.80727038220118,40.14051150856824],[-8.80955468394126,40.14006584141634],[-8.81008160927382,40.14181359118811],[-8.81350809558762,40.14114496968966],[-8.81377161587153,40.14201883102692],[-8.81605593405743,40.14157300994003],[-8.81631949275425,40.14244686224362],[-8.81746165573537,40.14222392825428],[-8.81772523860411,40.14309777507128],[-8.81886740892367,40.14287482426857],[-8.81913101596524,40.14374866559814],[-8.81684663993758,40.14419456103519],[-8.81737382684361,40.14594225207259],[-8.81623159998674,40.14616518698949],[-8.81649519409279,40.14703903314904],[-8.81535294608688,40.14726195834822],[-8.81561653587931,40.14813580611781],[-8.81447426672344,40.1483587215991]]],"type":"Polygon"}
+}

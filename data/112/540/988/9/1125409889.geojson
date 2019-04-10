@@ -1,0 +1,72 @@
+{
+  "id": 1125409889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38519,40.93625,-8.38519,40.93625",
+    "geom:latitude":40.93625,
+    "geom:longitude":-8.38519,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.93625,
+    "lbl:longitude":-8.38519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8010734,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Escariz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155617,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010734,
+        "qs_pg:id":1155617
+    },
+    "wof:country":"PT",
+    "wof:created":1497049918,
+    "wof:geomhash":"f55bc2f6b6d57b2336a4c18bd70cce91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409889,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1125409889,
+    "wof:lastmodified":1509390232,
+    "wof:name":"Escariz",
+    "wof:parent_id":85687409,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38519,
+    40.93625,
+    -8.38519,
+    40.93625
+],
+  "geometry": {"coordinates":[-8.38519,40.93625],"type":"Point"}
+}

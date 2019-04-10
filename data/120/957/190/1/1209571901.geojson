@@ -1,0 +1,63 @@
+{
+  "id": 1209571901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23443,40.68256,-8.23443,40.68256",
+    "geom:latitude":40.68256,
+    "geom:longitude":-8.23443,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1824",
+    "gn:admin3_code":"182403.0",
+    "gn:asciiname":"Cercosa",
+    "gn:country_code":"PT",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740866,
+    "gn:latitude":40.68256,
+    "gn:longitude":-8.23443,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cercosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740866
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4a8e6737ecb6d7a14f84e7a1fcb9a4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209571901
+        }
+    ],
+    "wof:id":1209571901,
+    "wof:lastmodified":1536283057,
+    "wof:name":"Cercosa",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23443,
+    40.68256,
+    -8.23443,
+    40.68256
+],
+  "geometry": {"coordinates":[-8.23443,40.68256],"type":"Point"}
+}

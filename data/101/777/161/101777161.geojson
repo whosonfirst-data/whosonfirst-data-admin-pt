@@ -1,0 +1,77 @@
+{
+  "id": 101777161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:bbox":"-7.53327019523,40.2073334959,-7.52180316697,40.2136402745",
+    "geom:latitude":40.210511,
+    "geom:longitude":-7.527309,
+    "iso:country":"PT",
+    "lbl:latitude":40.210988,
+    "lbl:longitude":-7.526744,
+    "mps:latitude":40.210988,
+    "mps:longitude":-7.526744,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Dominguizo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Dominguizo",
+    "qs:la_lc":"*PT10503096",
+    "qs:level":"locality",
+    "qs:loc":"Dominguizo",
+    "qs:loc_alt":"Dominguizo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0271a9cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740118,
+        "gp:id":740371,
+        "qs:id":180168
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6aa51dc6e96ce0e21110aba2483592b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777161,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777161,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625899,
+    "wof:name":"Dominguizo",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53327019523164,
+    40.2073334958742,
+    -7.52180316696865,
+    40.21364027449249
+],
+  "geometry": {"coordinates":[[[-7.52483491087298,40.21364027449249],[-7.52458880609964,40.21276233823437],[-7.52344205142151,40.21297014159825],[-7.52319597054446,40.21209220021819],[-7.52204922395077,40.21229998689103],[-7.52180316696865,40.21142204038921],[-7.5229498989903,40.21121425704246],[-7.52270383675847,40.21033631207132],[-7.52499725219883,40.20992071193496],[-7.52475117014853,40.20904277182007],[-7.52819120094534,40.20841928136076],[-7.52794508451046,40.20754134942899],[-7.52909173389924,40.2073334958742],[-7.52933786490223,40.20821142447954],[-7.53277781784277,40.20758777365313],[-7.53327019523164,40.20934360551172],[-7.5286834617873,40.21017513983645],[-7.52942192298838,40.21280891407781],[-7.52483491087298,40.21364027449249]]],"type":"Polygon"}
+}

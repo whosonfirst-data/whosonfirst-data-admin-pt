@@ -1,0 +1,71 @@
+{
+  "id": 1242751641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37445,38.89674,-9.37445,38.89674",
+    "geom:latitude":38.89674,
+    "geom:longitude":-9.37445,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:admin3_code":"111110.0",
+    "gn:asciiname":"Alvarinhos",
+    "gn:country_code":"PT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271807,
+    "gn:latitude":38.89674,
+    "gn:longitude":-9.37445,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alvarinhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alvarinhas",
+        "Alvarinhos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271807
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8fd8a7c403d3eed80d0484ab1f352f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242751641,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1242751641,
+    "wof:lastmodified":1537683155,
+    "wof:name":"Alvarinhos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37445,
+    38.89674,
+    -9.37445,
+    38.89674
+],
+  "geometry": {"coordinates":[-9.37445,38.89674],"type":"Point"}
+}

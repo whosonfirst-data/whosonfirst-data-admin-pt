@@ -1,0 +1,75 @@
+{
+  "id": 1259458651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68717,39.14325,-8.68717,39.14325",
+    "geom:latitude":39.14325,
+    "geom:longitude":-8.68717,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1403",
+    "gn:admin3_code":"140302.0",
+    "gn:asciiname":"Bemfica",
+    "gn:country_code":"PT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270961,
+    "gn:latitude":39.14325,
+    "gn:longitude":-8.68717,
+    "gn:modification_date":"2018-05-21",
+    "gn:name":"Bemfica",
+    "gn:population":3067,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemfica do Ribatejo",
+        "Benfica",
+        "Bemfica"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270961
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4c4190b1391a8ef6efbb5d7bac5a9fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259458651,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1259458651,
+    "wof:lastmodified":1537683154,
+    "wof:name":"Bemfica",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":3067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68717,
+    39.14325,
+    -8.68717,
+    39.14325
+],
+  "geometry": {"coordinates":[-8.68717,39.14325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293289109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7951,37.10674,-8.7951,37.10674",
+    "geom:latitude":37.10674,
+    "geom:longitude":-8.7951,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0815",
+    "gn:admin3_code":"81501.0",
+    "gn:asciiname":"Barao de Sao Miguel",
+    "gn:country_code":"PT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271161,
+    "gn:latitude":37.10674,
+    "gn:longitude":-8.7951,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bar\u00e3o de S\u00e3o Miguel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar\u00e3o de S\u00e3o Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271161,
+        "wk:page":"Bar%C3%A3o_de_S%C3%A3o_Miguel"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dae6e3fdcef1f4b9d29d74aae6341988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293289109,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1293289109,
+    "wof:lastmodified":1537683154,
+    "wof:name":"Barao de Sao Miguel",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7951,
+    37.10674,
+    -8.7951,
+    37.10674
+],
+  "geometry": {"coordinates":[-8.7951,37.10674],"type":"Point"}
+}

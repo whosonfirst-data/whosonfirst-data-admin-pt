@@ -1,0 +1,67 @@
+{
+  "id": 1260307119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07318,40.29986,-8.07318,40.29986",
+    "geom:latitude":40.29986,
+    "geom:longitude":-8.07318,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0616",
+    "gn:admin3_code":"61613.0",
+    "gn:asciiname":"Gualdim",
+    "gn:country_code":"PT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738787,
+    "gn:latitude":40.29986,
+    "gn:longitude":-8.07318,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gualdim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738787
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3661c492b51fb5baa07ad76899ea9b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260307119,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1260307119,
+    "wof:lastmodified":1536680265,
+    "wof:name":"Gualdim",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07318,
+    40.29986,
+    -8.07318,
+    40.29986
+],
+  "geometry": {"coordinates":[-8.07318,40.29986],"type":"Point"}
+}

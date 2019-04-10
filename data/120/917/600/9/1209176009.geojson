@@ -1,0 +1,63 @@
+{
+  "id": 1209176009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41664,41.93223,-8.41664,41.93223",
+    "geom:latitude":41.93223,
+    "geom:longitude":-8.41664,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160106.0",
+    "gn:asciiname":"Cabreiro",
+    "gn:country_code":"PT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741823,
+    "gn:latitude":41.93223,
+    "gn:longitude":-8.41664,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cabreiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741823
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ca0ad9355bfa004fedbc8e226e505efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209176009
+        }
+    ],
+    "wof:id":1209176009,
+    "wof:lastmodified":1536295421,
+    "wof:name":"Cabreiro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41664,
+    41.93223,
+    -8.41664,
+    41.93223
+],
+  "geometry": {"coordinates":[-8.41664,41.93223],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 101779699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":689643.872854,
+    "geom:bbox":"-8.39752153076,37.9318389813,-8.38534188004,37.9414869892",
+    "geom:latitude":37.936852,
+    "geom:longitude":-8.391817,
+    "iso:country":"PT",
+    "lbl:latitude":37.937165,
+    "lbl:longitude":-8.391933,
+    "mps:latitude":37.937165,
+    "mps:longitude":-8.391933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Alvalade"
+    ],
+    "name:fra_x_preferred":[
+        "Alvalade"
+    ],
+    "name:nld_x_preferred":[
+        "Alvalade"
+    ],
+    "name:por_x_preferred":[
+        "Alvalade"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0432\u0430\u043b\u0430\u0434\u0435"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alvalade",
+    "qs:la_lc":"*PT11509020",
+    "qs:level":"locality",
+    "qs:loc":"Alvalade",
+    "qs:loc_alt":"Alvalade",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269b01e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271812,
+        "gp:id":736019,
+        "qs:id":2
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1ef7f6077cb3aae17e36fe613cb7d14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779699,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101779699,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688555,
+    "wof:name":"Alvalade",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39752153075699,
+    37.93183898129536,
+    -8.3853418800378,
+    37.94148698916939
+],
+  "geometry": {"coordinates":[[[-8.39209216325975,37.94148698916939],[-8.39184934797902,37.9406089342848],[-8.39074204859111,37.94082577428816],[-8.39049925528076,37.93994771417857],[-8.38828466453992,37.94038134919197],[-8.38804190629105,37.93950328059515],[-8.38693461493892,37.93972007560569],[-8.38669187865878,37.93884200178508],[-8.38558459435063,37.93905878071092],[-8.3853418800378,37.93818070166697],[-8.38644915125411,37.93796392600342],[-8.38547833038803,37.93445160326638],[-8.38658554319579,37.93423482782953],[-8.38682824819023,37.93511290819333],[-8.39236428697029,37.93402882238036],[-8.39187875497248,37.93227269231534],[-8.39409307580024,37.93183898129536],[-8.39433586353505,37.9327170407829],[-8.39544302796332,37.93250016277915],[-8.3956858376622,37.93337821704137],[-8.39679300912849,37.93316132295394],[-8.39752153075699,37.93579546417658],[-8.3964143200285,37.93601236805512],[-8.39690001933536,37.93776845892035],[-8.39579277637955,37.93798535650541],[-8.39603562626371,37.93886340225885],[-8.39492836416753,37.93908029028637],[-8.39541406439594,37.94083638243524],[-8.39209216325975,37.94148698916939]]],"type":"Polygon"}
+}

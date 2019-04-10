@@ -1,0 +1,80 @@
+{
+  "id": 101779661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:bbox":"-8.09046341815,37.9611331385,-8.08111824405,37.9692573881",
+    "geom:latitude":37.96507,
+    "geom:longitude":-8.085888,
+    "iso:country":"PT",
+    "lbl:latitude":37.964433,
+    "lbl:longitude":-8.085817,
+    "mps:latitude":37.964433,
+    "mps:longitude":-8.085817,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Ervidel"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Ervidel",
+    "qs:la_lc":"*PT10201022",
+    "qs:level":"locality",
+    "qs:loc":"Ervidel",
+    "qs:loc_alt":"Ervidel",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026d4de6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268546,
+        "gp:id":740581,
+        "qs:id":270131,
+        "qs_pg:id":270131
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"29e111f270dafa95a576e7614770a3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779661,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779661,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497290845,
+    "wof:name":"Ervidel",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09046341814565,
+    37.96113313846081,
+    -8.08111824404796,
+    37.96925738808017
+],
+  "geometry": {"coordinates":[[[-8.08698571803444,37.96925738808017],[-8.08674672127944,37.96837839888872],[-8.08563825821028,37.9685916891936],[-8.08516031728993,37.96683369859215],[-8.08294342592683,37.96726022780479],[-8.08270449492682,37.96638122318069],[-8.08159605346628,37.96659446530384],[-8.08111824404796,37.96483644383994],[-8.0822266591743,37.96462320814527],[-8.08174885841601,37.96286518539284],[-8.08396561811674,37.96243868832352],[-8.08372670452934,37.96155968048134],[-8.0859434140491,37.96113313846081],[-8.08618235396523,37.96201213987433],[-8.08729071294408,37.96179884638246],[-8.08752967477375,37.96267784265166],[-8.08863804095267,37.96246453310067],[-8.08911601719166,37.96422251341949],[-8.09022440373451,37.96400918459346],[-8.09046341814565,37.96488816864274],[-8.08935501843831,37.96510150068417],[-8.08983304718737,37.96685946942364],[-8.08872461518285,37.96707279505068],[-8.08920265260974,37.96883076250174],[-8.08698571803444,37.96925738808017]]],"type":"Polygon"}
+}

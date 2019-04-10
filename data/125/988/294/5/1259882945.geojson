@@ -1,0 +1,67 @@
+{
+  "id": 1259882945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75,40.5,-8.75,40.5",
+    "geom:latitude":40.5,
+    "geom:longitude":-8.75,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0118",
+    "gn:admin3_code":"11804.0",
+    "gn:asciiname":"Palheiro do Ariao",
+    "gn:country_code":"PT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736817,
+    "gn:latitude":40.5,
+    "gn:longitude":-8.75,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Palheiro do Ari\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736817
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9eff6943c5ff374ab11b7adbb23dfe26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259882945,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1259882945,
+    "wof:lastmodified":1536780429,
+    "wof:name":"Palheiro do Ariao",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75,
+    40.5,
+    -8.75,
+    40.5
+],
+  "geometry": {"coordinates":[-8.75,40.5],"type":"Point"}
+}

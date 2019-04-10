@@ -1,0 +1,127 @@
+{
+  "id": 101759191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":947095.511905,
+    "geom:bbox":"-9.0914956953,38.8375188315,-9.07339444086,38.8485892403",
+    "geom:latitude":38.843298,
+    "geom:longitude":-9.08252,
+    "gn:population":18573,
+    "iso:country":"PT",
+    "lbl:latitude":38.843557,
+    "lbl:longitude":-9.082383,
+    "mps:latitude":38.843557,
+    "mps:longitude":-9.082383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Santa Iria de Az\u00f3ia"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Iria de Azoia"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Iria de Az\u00f3ia"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Iria de Az\u00f3ia"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0418\u0440\u0438\u044f-\u0434\u0435-\u0410\u0437\u043e\u0439\u044f"
+    ],
+    "name:por_x_colloquial":[
+        "Santa Iria da Azoia",
+        "Sta Iria da Azoia",
+        "Sta. Iria da Azoia"
+    ],
+    "name:por_x_preferred":[
+        "Santa Iria de Azoia"
+    ],
+    "name:por_x_variant":[
+        "Santa Iria",
+        "Santa Iria da Az\u00f3ia",
+        "Santa Iria de Az\u00f3ia",
+        "Sta Iria",
+        "Sta Iria da Az\u00f3ia",
+        "Sta Iria de Azoia",
+        "Sta. Iria",
+        "Sta. Iria da Az\u00f3ia",
+        "Sta. Iria de Azoia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0418\u0440\u0438\u044f-\u0434\u0435-\u0410\u0437\u043e\u0439\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Iria de Az\u00f3ia"
+    ],
+    "name:unk_x_variant":[
+        "Santa Iria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Santa Iria de Az\u00f3ia",
+    "qs:loc_alt":"Santa Iria de Azoia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026dd982-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263523,
+        "gp:id":747877,
+        "qs:id":218362,
+        "qs_pg:id":218362,
+        "wd:id":"Q2057078"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f620126c8103daf1b4b265963e9294f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759191,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759191,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498135,
+    "wof:name":"Santa Iria de Az\u00f3ia",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":18573,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09149569530138,
+    38.83751883149569,
+    -9.07339444086102,
+    38.84858924028663
+],
+  "geometry": {"coordinates":[[[-9.07964365960601,38.83751883149569],[-9.08508979040579,38.84125796607458],[-9.08711478125224,38.84253690766167],[-9.08945950749552,38.84360269231775],[-9.09149569530138,38.84533345195274],[-9.09052529215154,38.84658688935463],[-9.08884331736863,38.84858924028663],[-9.08818056590826,38.84829214480436],[-9.08626215352746,38.84807898787312],[-9.08391742728418,38.84786583094194],[-9.08242532876574,38.84690662475134],[-9.07912139633197,38.84573426162979],[-9.07729950886687,38.8448992298749],[-9.07640784974393,38.84187591942208],[-9.07528797918513,38.84210120600949],[-9.07503006915022,38.84122658669651],[-9.07391020548346,38.84145185685463],[-9.07339444086102,38.83970260528736],[-9.07787374877364,38.83880147456478],[-9.077615827008,38.83792685962555],[-9.07964365960601,38.83751883149569]]],"type":"Polygon"}
+}

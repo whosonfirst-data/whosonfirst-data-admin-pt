@@ -1,0 +1,68 @@
+{
+  "id": 1209598869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35,39.13333,-9.35,39.13333",
+    "geom:latitude":39.13333,
+    "geom:longitude":-9.35,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1113",
+    "gn:admin3_code":"111301.0",
+    "gn:asciiname":"Povoa",
+    "gn:cc2":"PT",
+    "gn:country_code":"PT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264381,
+    "gn:latitude":39.13333,
+    "gn:longitude":-9.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"P\u00f3voa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moinho da Povoa",
+        "P\u00f3voa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264381
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9dda7784bfc9a81d1e193a7497da8966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209598869
+        }
+    ],
+    "wof:id":1209598869,
+    "wof:lastmodified":1537683147,
+    "wof:name":"Povoa",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35,
+    39.13333,
+    -9.35,
+    39.13333
+],
+  "geometry": {"coordinates":[-9.35,39.13333],"type":"Point"}
+}

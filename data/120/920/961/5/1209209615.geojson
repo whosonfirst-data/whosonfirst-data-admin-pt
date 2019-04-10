@@ -1,0 +1,63 @@
+{
+  "id": 1209209615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03385,37.21346,-8.03385,37.21346",
+    "geom:latitude":37.21346,
+    "geom:longitude":-8.03385,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80807.0",
+    "gn:asciiname":"Cerro dos Passarinhos",
+    "gn:country_code":"PT",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269374,
+    "gn:latitude":37.21346,
+    "gn:longitude":-8.03385,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro dos Passarinhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269374
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d57f1223bb397bea66bfec32f4a60f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209209615
+        }
+    ],
+    "wof:id":1209209615,
+    "wof:lastmodified":1536294333,
+    "wof:name":"Cerro dos Passarinhos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03385,
+    37.21346,
+    -8.03385,
+    37.21346
+],
+  "geometry": {"coordinates":[-8.03385,37.21346],"type":"Point"}
+}

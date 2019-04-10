@@ -1,0 +1,71 @@
+{
+  "id": 1243535631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.28348,40.91267,-7.28348,40.91267",
+    "geom:latitude":40.91267,
+    "geom:longitude":-7.28348,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0909",
+    "gn:admin3_code":"90916.0",
+    "gn:asciiname":"Valflor",
+    "gn:country_code":"PT",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732991,
+    "gn:latitude":40.91267,
+    "gn:longitude":-7.28348,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Valflor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vale de Ladr\u00f5es",
+        "Valflor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732991
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e840c719994ee9fb0c2dd22f529760c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243535631,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1243535631,
+    "wof:lastmodified":1537683158,
+    "wof:name":"Valflor",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.28348,
+    40.91267,
+    -7.28348,
+    40.91267
+],
+  "geometry": {"coordinates":[-7.28348,40.91267],"type":"Point"}
+}

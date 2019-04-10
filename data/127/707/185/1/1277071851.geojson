@@ -1,0 +1,67 @@
+{
+  "id": 1277071851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64099,40.0921,-7.64099,40.0921",
+    "geom:latitude":40.0921,
+    "geom:longitude":-7.64099,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0504",
+    "gn:admin3_code":"50412.0",
+    "gn:asciiname":"Acor",
+    "gn:country_code":"PT",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743419,
+    "gn:latitude":40.0921,
+    "gn:longitude":-7.64099,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"A\u00e7or",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743419
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c5aedbf2f019dfe787ae76c9146862c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1277071851,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1277071851,
+    "wof:lastmodified":1536783823,
+    "wof:name":"Acor",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64099,
+    40.0921,
+    -7.64099,
+    40.0921
+],
+  "geometry": {"coordinates":[-7.64099,40.0921],"type":"Point"}
+}

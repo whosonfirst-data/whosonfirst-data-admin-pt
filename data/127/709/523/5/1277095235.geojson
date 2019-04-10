@@ -1,0 +1,67 @@
+{
+  "id": 1277095235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78366,37.4278,-8.78366,37.4278",
+    "geom:latitude":37.4278,
+    "geom:longitude":-8.78366,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Aldeia Nova do Concelho",
+    "gn:country_code":"PT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272055,
+    "gn:latitude":37.4278,
+    "gn:longitude":-8.78366,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Aldeia Nova do Concelho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272055
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"190a8663212c7987de1b3f5fd2d85bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1277095235,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1277095235,
+    "wof:lastmodified":1536749514,
+    "wof:name":"Aldeia Nova do Concelho",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78366,
+    37.4278,
+    -8.78366,
+    37.4278
+],
+  "geometry": {"coordinates":[-8.78366,37.4278],"type":"Point"}
+}

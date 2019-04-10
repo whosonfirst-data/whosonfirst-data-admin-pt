@@ -1,0 +1,67 @@
+{
+  "id": 1193161299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64439,41.64612,-8.64439,41.64612",
+    "geom:latitude":41.64612,
+    "geom:longitude":-8.64439,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30212.0",
+    "gn:asciiname":"Aparecida",
+    "gn:country_code":"PT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742840,
+    "gn:latitude":41.64612,
+    "gn:longitude":-8.64439,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aparecida",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742840
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4bef0688d771303cacac91af38a5b549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193161299,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1193161299,
+    "wof:lastmodified":1536367471,
+    "wof:name":"Aparecida",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64439,
+    41.64612,
+    -8.64439,
+    41.64612
+],
+  "geometry": {"coordinates":[-8.64439,41.64612],"type":"Point"}
+}

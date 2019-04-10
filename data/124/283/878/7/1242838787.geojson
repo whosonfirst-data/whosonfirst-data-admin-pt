@@ -1,0 +1,67 @@
+{
+  "id": 1242838787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52825,41.67675,-7.52825,41.67675",
+    "geom:latitude":41.67675,
+    "geom:longitude":-7.52825,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1703",
+    "gn:admin3_code":"170349.0",
+    "gn:asciiname":"Redial",
+    "gn:country_code":"PT",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735357,
+    "gn:latitude":41.67675,
+    "gn:longitude":-7.52825,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Redial",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735357
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8b1542d0db0d5bba50e825dd24a20a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242838787,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1242838787,
+    "wof:lastmodified":1536687626,
+    "wof:name":"Redial",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52825,
+    41.67675,
+    -7.52825,
+    41.67675
+],
+  "geometry": {"coordinates":[-7.52825,41.67675],"type":"Point"}
+}

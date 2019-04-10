@@ -1,0 +1,67 @@
+{
+  "id": 1259792405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67059,40.47455,-8.67059,40.47455",
+    "geom:latitude":40.47455,
+    "geom:longitude":-8.67059,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0118",
+    "gn:admin3_code":"11806.0",
+    "gn:asciiname":"Ponte de Vagos",
+    "gn:country_code":"PT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736045,
+    "gn:latitude":40.47455,
+    "gn:longitude":-8.67059,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte de Vagos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736045
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4b7445272a74a9d82efbf070c338ffe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259792405,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1259792405,
+    "wof:lastmodified":1536910570,
+    "wof:name":"Ponte de Vagos",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67059,
+    40.47455,
+    -8.67059,
+    40.47455
+],
+  "geometry": {"coordinates":[-8.67059,40.47455],"type":"Point"}
+}

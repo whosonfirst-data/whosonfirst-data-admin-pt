@@ -1,0 +1,63 @@
+{
+  "id": 1209578705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62601,39.76403,-8.62601,39.76403",
+    "geom:latitude":39.76403,
+    "geom:longitude":-8.62601,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142105.0",
+    "gn:asciiname":"Casal Monte",
+    "gn:country_code":"PT",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269673,
+    "gn:latitude":39.76403,
+    "gn:longitude":-8.62601,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal Monte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269673
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a2158a78663a5f010764ce22109e5258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209578705
+        }
+    ],
+    "wof:id":1209578705,
+    "wof:lastmodified":1536282856,
+    "wof:name":"Casal Monte",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62601,
+    39.76403,
+    -8.62601,
+    39.76403
+],
+  "geometry": {"coordinates":[-8.62601,39.76403],"type":"Point"}
+}

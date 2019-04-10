@@ -1,0 +1,67 @@
+{
+  "id": 1226008405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24571,41.09137,-8.24571,41.09137",
+    "geom:latitude":41.09137,
+    "geom:longitude":-8.24571,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1307",
+    "gn:admin3_code":"130701.0",
+    "gn:asciiname":"Memorial",
+    "gn:country_code":"PT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737736,
+    "gn:latitude":41.09137,
+    "gn:longitude":-8.24571,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Memorial",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737736
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5622fe2ab0c782f87bd5a38b4b1e1c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226008405,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1226008405,
+    "wof:lastmodified":1536779662,
+    "wof:name":"Memorial",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24571,
+    41.09137,
+    -8.24571,
+    41.09137
+],
+  "geometry": {"coordinates":[-8.24571,41.09137],"type":"Point"}
+}

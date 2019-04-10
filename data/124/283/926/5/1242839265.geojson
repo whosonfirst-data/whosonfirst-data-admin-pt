@@ -1,0 +1,67 @@
+{
+  "id": 1242839265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54121,41.90716,-8.54121,41.90716",
+    "geom:latitude":41.90716,
+    "geom:longitude":-8.54121,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160506.0",
+    "gn:asciiname":"Provado",
+    "gn:country_code":"PT",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735691,
+    "gn:latitude":41.90716,
+    "gn:longitude":-8.54121,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Provado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735691
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2cfc0a625288d65adaa956241ae31dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242839265,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1242839265,
+    "wof:lastmodified":1536686896,
+    "wof:name":"Provado",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54121,
+    41.90716,
+    -8.54121,
+    41.90716
+],
+  "geometry": {"coordinates":[-8.54121,41.90716],"type":"Point"}
+}

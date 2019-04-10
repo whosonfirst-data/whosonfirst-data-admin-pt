@@ -1,0 +1,89 @@
+{
+  "id": 1125994197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21439,38.4202,-9.21439,38.4202",
+    "geom:latitude":38.4202,
+    "geom:longitude":-9.21439,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.4202,
+    "lbl:longitude":-9.21439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Senhora do Cabo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2265495,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nossa Senhora do Cabo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Set\u00fabal",
+    "qs_pg:photos":3105,
+    "qs_pg:photos_1k":629,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3105,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1158430,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":744613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Set\u00fabal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265495,
+        "gp:id":744613,
+        "qs_pg:id":1158430
+    },
+    "wof:country":"PT",
+    "wof:created":1497299207,
+    "wof:geomhash":"7f9c68f8f3d4ce354f0b59475adf713a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125994197,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1125994197,
+    "wof:lastmodified":1509405608,
+    "wof:name":"Nossa Senhora do Cabo",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21439,
+    38.4202,
+    -9.21439,
+    38.4202
+],
+  "geometry": {"coordinates":[-9.21439,38.4202],"type":"Point"}
+}

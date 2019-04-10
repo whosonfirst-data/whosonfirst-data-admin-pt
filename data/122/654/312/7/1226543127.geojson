@@ -1,0 +1,67 @@
+{
+  "id": 1226543127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54698,40.45266,-8.54698,40.45266",
+    "geom:latitude":40.45266,
+    "geom:longitude":-8.54698,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"10310.0",
+    "gn:asciiname":"Levira",
+    "gn:country_code":"PT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8425907,
+    "gn:latitude":40.45266,
+    "gn:longitude":-8.54698,
+    "gn:modification_date":"2012-11-16",
+    "gn:name":"Levira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425907
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1bce9ecc1309a6312c4efa80653aefde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226543127,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1226543127,
+    "wof:lastmodified":1537001033,
+    "wof:name":"Levira",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54698,
+    40.45266,
+    -8.54698,
+    40.45266
+],
+  "geometry": {"coordinates":[-8.54698,40.45266],"type":"Point"}
+}

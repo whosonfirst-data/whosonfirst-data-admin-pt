@@ -1,0 +1,67 @@
+{
+  "id": 1360007825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17388,39.86116,-8.17388,39.86116",
+    "geom:latitude":39.86116,
+    "geom:longitude":-8.17388,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50903.0",
+    "gn:asciiname":"Seixo Fundeiro",
+    "gn:country_code":"PT",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263095,
+    "gn:latitude":39.86116,
+    "gn:longitude":-8.17388,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Seixo Fundeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263095
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2467d488c4decd3bdbadaa3e54cf5863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360007825,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1360007825,
+    "wof:lastmodified":1537054757,
+    "wof:name":"Seixo Fundeiro",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17388,
+    39.86116,
+    -8.17388,
+    39.86116
+],
+  "geometry": {"coordinates":[-8.17388,39.86116],"type":"Point"}
+}

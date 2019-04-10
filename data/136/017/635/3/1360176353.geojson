@@ -1,0 +1,67 @@
+{
+  "id": 1360176353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31833,40.09256,-8.31833,40.09256",
+    "geom:latitude":40.09256,
+    "geom:longitude":-8.31833,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60902.0",
+    "gn:asciiname":"Corvo",
+    "gn:country_code":"PT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740468,
+    "gn:latitude":40.09256,
+    "gn:longitude":-8.31833,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Corvo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740468
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40bff9b21a0845baa4612e4c14ffc2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360176353,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1360176353,
+    "wof:lastmodified":1536813412,
+    "wof:name":"Corvo",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31833,
+    40.09256,
+    -8.31833,
+    40.09256
+],
+  "geometry": {"coordinates":[-8.31833,40.09256],"type":"Point"}
+}

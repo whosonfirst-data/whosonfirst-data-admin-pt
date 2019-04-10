@@ -1,0 +1,110 @@
+{
+  "id": 101759417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":893562.620794,
+    "geom:bbox":"-8.65555166487,41.0441889976,-8.64420472394,41.0599476251",
+    "geom:latitude":41.051799,
+    "geom:longitude":-8.650696,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.050572,
+    "lbl:longitude":-8.650696,
+    "mps:latitude":41.050572,
+    "mps:longitude":-8.650696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Aguda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05d5\u05d3\u05d4"
+    ],
+    "name:por_x_preferred":[
+        "Aguda"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Aguda",
+    "qs:loc_alt":"Aguda",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aguda",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":230,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":230,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":952752,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":735483,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":127,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026de72e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2743296,
+        "gp:id":29381269,
+        "qs:id":1000901,
+        "qs_pg:id":952752
+    },
+    "wof:concordances_alt":{
+        "gp:id":735483
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"826ac12bc54120484e1305e7802be87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759417,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759417,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379447,
+    "wof:name":"Aguda",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126024469
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65555166487303,
+    41.044188997557,
+    -8.64420472393601,
+    41.05994762506799
+],
+  "geometry": {"coordinates":[[[-8.65066975489805,41.05958259029546],[-8.65029471365642,41.05742610315599],[-8.6491659706947,41.05617194430971],[-8.64967198559873,41.0560752357564],[-8.64886843188685,41.05345523162237],[-8.64655132357257,41.05389809777785],[-8.64574795106,41.05127805492907],[-8.64420472393601,41.05157295752599],[-8.64438394626137,41.04876514109526],[-8.64842005526606,41.04799374057984],[-8.64769502981562,41.04562891744825],[-8.65215878147848,41.044188997557],[-8.65358951875044,41.04885453712518],[-8.65474796692661,41.04863303084608],[-8.65555166487303,41.05125299269127],[-8.65439317218295,41.05147450980775],[-8.65466107714195,41.05234783024594],[-8.65350256243863,41.05256933749064],[-8.65554325008696,41.0592203840223],[-8.65331304421386,41.05994762506799],[-8.65306082134157,41.05912557741385],[-8.65066975489805,41.05958259029546]]],"type":"Polygon"}
+}

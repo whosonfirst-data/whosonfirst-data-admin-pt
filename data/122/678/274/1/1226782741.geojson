@@ -1,0 +1,71 @@
+{
+  "id": 1226782741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62946,41.45859,-8.62946,41.45859",
+    "geom:latitude":41.45859,
+    "geom:longitude":-8.62946,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30240.0",
+    "gn:asciiname":"Gueral",
+    "gn:country_code":"PT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738772,
+    "gn:latitude":41.45859,
+    "gn:longitude":-8.62946,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Gueral",
+    "gn:population":2568,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738772,
+        "wk:page":"Gueral"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3d8aa07064f5cc401f2076bfb7d152f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226782741,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1226782741,
+    "wof:lastmodified":1537571944,
+    "wof:name":"Gueral",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":2568,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62946,
+    41.45859,
+    -8.62946,
+    41.45859
+],
+  "geometry": {"coordinates":[-8.62946,41.45859],"type":"Point"}
+}

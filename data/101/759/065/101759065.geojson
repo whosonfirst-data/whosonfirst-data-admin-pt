@@ -1,0 +1,81 @@
+{
+  "id": 101759065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:bbox":"-9.27621768537,38.7365529868,-9.2626489396,38.7479249223",
+    "geom:latitude":38.743037,
+    "geom:longitude":-9.269926,
+    "iso:country":"PT",
+    "lbl:latitude":38.743183,
+    "lbl:longitude":-9.270055,
+    "mps:latitude":38.743183,
+    "mps:longitude":-9.270055,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Queluz de Baixo",
+        "Farol M\u00fasica"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Queluz de Baixo",
+    "qs:loc_alt":"Queluz de Baixo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270b22e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264267,
+        "gp:id":55867394,
+        "qs:id":1160920,
+        "qs_pg:id":1160920
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2e00822334a07c7cc74747cf42fa76fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759065,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759065,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497290526,
+    "wof:name":"Queluz de Baixo",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27621768536909,
+    38.73655298678096,
+    -9.26264893959757,
+    38.74792492231683
+],
+  "geometry": {"coordinates":[[[-9.26611975302603,38.73767629294213],[-9.26879632582614,38.73693792803158],[-9.2694067050362,38.73677146097441],[-9.26947699822762,38.73700800007094],[-9.27171233976111,38.73655298678096],[-9.27275164412765,38.74004934820289],[-9.27498706606679,38.73959425529586],[-9.27621768536909,38.74373303854816],[-9.27459166347103,38.7452687258961],[-9.27338430146176,38.74792492231683],[-9.26408761398966,38.74792492231683],[-9.26264893959757,38.7467401316411],[-9.26399066567706,38.74646718911299],[-9.26373089740792,38.745593080574],[-9.26484872417802,38.74536564303833],[-9.26458895214091,38.74449153595617],[-9.26570675899677,38.74426408897244],[-9.26518721696198,38.74251587569302],[-9.26630499056381,38.74228842274715],[-9.2657854601436,38.74054020832307],[-9.2669032004942,38.74031274941552],[-9.26611975302603,38.73767629294213]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225821583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06232,41.13068,-8.06232,41.13068",
+    "geom:latitude":41.13068,
+    "geom:longitude":-8.06232,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1302",
+    "gn:admin3_code":"130206.0",
+    "gn:asciiname":"Pedreda",
+    "gn:country_code":"PT",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736555,
+    "gn:latitude":41.13068,
+    "gn:longitude":-8.06232,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pedreda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736555
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2a00eff470c50bc8d563b3851e44912e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225821583,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1225821583,
+    "wof:lastmodified":1537046642,
+    "wof:name":"Pedreda",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06232,
+    41.13068,
+    -8.06232,
+    41.13068
+],
+  "geometry": {"coordinates":[-8.06232,41.13068],"type":"Point"}
+}

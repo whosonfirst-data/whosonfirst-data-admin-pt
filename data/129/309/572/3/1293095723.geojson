@@ -1,0 +1,67 @@
+{
+  "id": 1293095723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8099,40.39415,-7.8099,40.39415",
+    "geom:latitude":40.39415,
+    "geom:longitude":-7.8099,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0611",
+    "gn:admin3_code":"61110.0",
+    "gn:asciiname":"Meruge",
+    "gn:country_code":"PT",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737715,
+    "gn:latitude":40.39415,
+    "gn:longitude":-7.8099,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Meruge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737715
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2bee3a3b805fba6943f23ff87c695e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293095723,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1293095723,
+    "wof:lastmodified":1536853791,
+    "wof:name":"Meruge",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8099,
+    40.39415,
+    -7.8099,
+    40.39415
+],
+  "geometry": {"coordinates":[-7.8099,40.39415],"type":"Point"}
+}

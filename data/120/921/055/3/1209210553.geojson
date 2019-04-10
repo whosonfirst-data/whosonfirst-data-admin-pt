@@ -1,0 +1,63 @@
+{
+  "id": 1209210553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42918,38.72558,-8.42918,38.72558",
+    "geom:latitude":38.72558,
+    "geom:longitude":-8.42918,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0706",
+    "gn:admin3_code":"70608.0",
+    "gn:asciiname":"Sesmaria da Ameira",
+    "gn:country_code":"PT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262983,
+    "gn:latitude":38.72558,
+    "gn:longitude":-8.42918,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sesmaria da Ameira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262983
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bbcd7391059c11338e6a07eed3f0fd8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209210553
+        }
+    ],
+    "wof:id":1209210553,
+    "wof:lastmodified":1536294305,
+    "wof:name":"Sesmaria da Ameira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42918,
+    38.72558,
+    -8.42918,
+    38.72558
+],
+  "geometry": {"coordinates":[-8.42918,38.72558],"type":"Point"}
+}

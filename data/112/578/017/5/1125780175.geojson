@@ -1,0 +1,80 @@
+{
+  "id": 1125780175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.016792,32.757757,-17.016792,32.757757",
+    "geom:latitude":32.757757,
+    "geom:longitude":-17.016792,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":32.757757,
+    "lbl:longitude":-17.016792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cascalho-S\u00e3o Vicente",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos":42,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":42,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192386,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868420,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55868420,
+        "qs_pg:id":192386
+    },
+    "wof:country":"PT",
+    "wof:created":1497290432,
+    "wof:geomhash":"bc9da3c3c5c85679ae00a523d66e46e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125780175,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125780175,
+    "wof:lastmodified":1509391510,
+    "wof:name":"Cascalho-S\u00e3o Vicente",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.016792,
+    32.757757,
+    -17.016792,
+    32.757757
+],
+  "geometry": {"coordinates":[-17.016792,32.757757],"type":"Point"}
+}

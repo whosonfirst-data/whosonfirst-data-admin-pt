@@ -1,0 +1,67 @@
+{
+  "id": 1343264953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38624,40.98636,-8.38624,40.98636",
+    "geom:latitude":40.98636,
+    "geom:longitude":-8.38624,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10417.0",
+    "gn:asciiname":"Baloca",
+    "gn:country_code":"PT",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742470,
+    "gn:latitude":40.98636,
+    "gn:longitude":-8.38624,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Baloca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742470
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"020e9029671d9640472fea1acf864463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343264953,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1343264953,
+    "wof:lastmodified":1537027186,
+    "wof:name":"Baloca",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38624,
+    40.98636,
+    -8.38624,
+    40.98636
+],
+  "geometry": {"coordinates":[-8.38624,40.98636],"type":"Point"}
+}

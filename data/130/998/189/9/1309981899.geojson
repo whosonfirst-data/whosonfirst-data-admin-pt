@@ -1,0 +1,67 @@
+{
+  "id": 1309981899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03076,39.45444,-8.03076,39.45444",
+    "geom:latitude":39.45444,
+    "geom:longitude":-8.03076,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"140103.0",
+    "gn:asciiname":"Monte Galego",
+    "gn:country_code":"PT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265917,
+    "gn:latitude":39.45444,
+    "gn:longitude":-8.03076,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Galego",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265917
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ca9e1af345709d96b675de8fe95a8472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309981899,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1309981899,
+    "wof:lastmodified":1536677378,
+    "wof:name":"Monte Galego",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03076,
+    39.45444000000001,
+    -8.03076,
+    39.45444000000001
+],
+  "geometry": {"coordinates":[-8.03076,39.45444000000001],"type":"Point"}
+}

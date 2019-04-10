@@ -1,0 +1,74 @@
+{
+  "id": 1343320543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64039,40.92195,-7.64039,40.92195",
+    "geom:latitude":40.92195,
+    "geom:longitude":-7.64039,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"180714.0",
+    "gn:asciiname":"Pera Velha",
+    "gn:country_code":"PT",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736388,
+    "gn:latitude":40.92195,
+    "gn:longitude":-7.64039,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"P\u00eara Velha",
+    "gn:population":214,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00eara Velha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736388,
+        "wk:page":"P%C3%AAra_Velha"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b7444e9ff5135bf42437ca14c15055ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343320543,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343320543,
+    "wof:lastmodified":1537683165,
+    "wof:name":"Pera Velha",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64039,
+    40.92195,
+    -7.64039,
+    40.92195
+],
+  "geometry": {"coordinates":[-7.64039,40.92195],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277059787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32318,39.26026,-9.32318,39.26026",
+    "geom:latitude":39.26026,
+    "geom:longitude":-9.32318,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110801.0",
+    "gn:asciiname":"Seixal",
+    "gn:country_code":"PT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263112,
+    "gn:latitude":39.26026,
+    "gn:longitude":-9.32318,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Seixal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263112
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8de988ed65d3a8cff38ede67ba6eebd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1277059787,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1277059787,
+    "wof:lastmodified":1536799856,
+    "wof:name":"Seixal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32318,
+    39.26026,
+    -9.32318,
+    39.26026
+],
+  "geometry": {"coordinates":[-9.32318,39.26026],"type":"Point"}
+}

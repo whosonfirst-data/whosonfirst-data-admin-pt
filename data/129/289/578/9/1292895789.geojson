@@ -1,0 +1,67 @@
+{
+  "id": 1292895789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96255,37.16132,-7.96255,37.16132",
+    "geom:latitude":37.16132,
+    "geom:longitude":-7.96255,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80808.0",
+    "gn:asciiname":"Cerro de Apra",
+    "gn:country_code":"PT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269379,
+    "gn:latitude":37.16132,
+    "gn:longitude":-7.96255,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro de Apra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269379
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"781ecd54c9fca9c96473cbba21ccb1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292895789,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1292895789,
+    "wof:lastmodified":1536645474,
+    "wof:name":"Cerro de Apra",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96255,
+    37.16132,
+    -7.96255,
+    37.16132
+],
+  "geometry": {"coordinates":[-7.96255,37.16132],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 101777145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1298835.312895,
+    "geom:bbox":"-9.03359241839,39.5810082761,-9.01503435635,39.593294804",
+    "geom:latitude":39.587213,
+    "geom:longitude":-9.023704,
+    "iso:country":"PT",
+    "lbl:latitude":39.586935,
+    "lbl:longitude":-9.023704,
+    "mps:latitude":39.586935,
+    "mps:longitude":-9.023704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:eng_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:fre_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:ger_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u0434\u0443-\u0434\u0443\u0448-\u0424\u0440\u0430\u0434\u0435\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e1rio Franco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u0434\u0443-\u0434\u0443\u0448-\u0424\u0440\u0430\u0434\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Valado dos Frades"
+    ],
+    "name:unk_x_variant":[
+        "Valado dos Frades"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Valado Dos Frades",
+    "qs:la_lc":"*PT11011030",
+    "qs:level":"locality",
+    "qs:loc":"Valado de Frades",
+    "qs:loc_alt":"Valado de Frades",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262432,
+        "gp:id":749737,
+        "qs:id":273315,
+        "wd:id":"Q1542827"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7fcd95493fdbab9fcc8d5ce47430391c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777145,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777145,
+    "wof:lastmodified":1514498171,
+    "wof:name":"Valado de Frades",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03359241839087,
+    39.58100827609019,
+    -9.01503435635107,
+    39.59329480402357
+],
+  "geometry": {"coordinates":[[[-9.01966036251764,39.59329480402357],[-9.01913550313537,39.59154710916539],[-9.01687086135189,39.59199710846542],[-9.01634609665473,39.59024939158934],[-9.01747839319046,39.59002440555935],[-9.01669127800659,39.58740282600127],[-9.0155590230853,39.58762780144968],[-9.01503435635107,39.58588006480647],[-9.01616658353151,39.58565509641141],[-9.01590425098681,39.58478122865108],[-9.01703645752207,39.58455625065392],[-9.01677412090322,39.58368238444359],[-9.02243498260003,39.58255731516357],[-9.02217258643907,39.58168346461127],[-9.02556898054075,39.58100827609019],[-9.02609386585499,39.58275595405058],[-9.02722601139828,39.58253085789909],[-9.02748848261911,39.58340469038387],[-9.02862063524969,39.58317957757652],[-9.02888313013551,39.58405340455425],[-9.03114744279014,39.58360313249852],[-9.03193506945007,39.58622458038803],[-9.03306725720427,39.58599941408039],[-9.03359241839087,39.58774702905453],[-9.03132798063348,39.58819736265997],[-9.0315905481973,39.5890711742386],[-9.02932605557646,39.58952146238886],[-9.02958860520658,39.59039527904827],[-9.02619177380581,39.59107062339365],[-9.02645429162857,39.59194444866267],[-9.01966036251764,39.59329480402357]]],"type":"Polygon"}
+}

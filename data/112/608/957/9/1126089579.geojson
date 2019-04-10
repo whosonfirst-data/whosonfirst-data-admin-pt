@@ -1,0 +1,92 @@
+{
+  "id": 1126089579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10335,38.73327,-9.10335,38.73327",
+    "geom:latitude":38.73327,
+    "geom:longitude":-9.10335,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.73327,
+    "lbl:longitude":-9.10335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2271001,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Beato",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":273,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":273,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080817,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":737105,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271001,
+        "gp:id":737105,
+        "qs_pg:id":1080817
+    },
+    "wof:country":"PT",
+    "wof:created":1497313467,
+    "wof:geomhash":"dc9f799d2842426105c2afd60e9b7d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1126089579,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1126089579,
+    "wof:lastmodified":1534379448,
+    "wof:name":"Beato",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        85798907
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10335,
+    38.73327,
+    -9.10335,
+    38.73327
+],
+  "geometry": {"coordinates":[-9.10335,38.73327],"type":"Point"}
+}

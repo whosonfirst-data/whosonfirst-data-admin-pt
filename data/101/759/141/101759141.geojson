@@ -1,0 +1,87 @@
+{
+  "id": 101759141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":633457.089879,
+    "geom:bbox":"-9.13428844516,38.8230869565,-9.11999098106,38.8361258817",
+    "geom:latitude":38.830367,
+    "geom:longitude":-9.125808,
+    "gn:population":10712,
+    "iso:country":"PT",
+    "lbl:latitude":38.831835,
+    "lbl:longitude":-9.1257,
+    "mps:latitude":38.831835,
+    "mps:longitude":-9.1257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Unhos",
+        "Uni\u00e3o das Freguesias de Camarate"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Unhos",
+    "qs:loc_alt":"Unhos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270c8f4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262465,
+        "gp:id":749680,
+        "qs:id":937316,
+        "qs_pg:id":937316
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"64c5f814fa2d294345e6fcbaf68f1bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759141,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759141,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1505337767,
+    "wof:name":"Unhos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":10712,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13428844516119,
+    38.82308695649488,
+    -9.11999098105878,
+    38.83612588165244
+],
+  "geometry": {"coordinates":[[[-9.12305586192838,38.82308695649488],[-9.12710611849099,38.82475045472614],[-9.12722469661225,38.82515161368889],[-9.12610522790459,38.825377485258],[-9.12636371179468,38.82625195368365],[-9.12524422311452,38.82647781576361],[-9.12601969179036,38.82910121938454],[-9.12713922072402,38.82887534689337],[-9.12843192649774,38.83324762868523],[-9.13179067523936,38.83256988138237],[-9.13153207473425,38.83169543946133],[-9.13377118092734,38.8312435500668],[-9.13428844516119,38.83299241800972],[-9.13204928529228,38.83344432129218],[-9.13230790489359,38.83431875919024],[-9.12335089567205,38.83612588165244],[-9.12257538761781,38.83350247861324],[-9.12369499645956,38.83327664408245],[-9.12291953403792,38.83065323335893],[-9.12403909606047,38.83042739627854],[-9.12326367926772,38.82780397786871],[-9.12214415750344,38.82802980453897],[-9.12188571774249,38.82715532424425],[-9.12076620284216,38.82738113448477],[-9.11999098105878,38.82475767112817],[-9.12334938533621,38.82408023275326],[-9.12305586192838,38.82308695649488]]],"type":"Polygon"}
+}

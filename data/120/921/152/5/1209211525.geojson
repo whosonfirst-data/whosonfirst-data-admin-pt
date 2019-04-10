@@ -1,0 +1,63 @@
+{
+  "id": 1209211525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17483,40.16749,-8.17483,40.16749",
+    "geom:latitude":40.16749,
+    "geom:longitude":-8.17483,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0607",
+    "gn:admin3_code":"60704.0",
+    "gn:asciiname":"Quatro Aguas",
+    "gn:country_code":"PT",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735681,
+    "gn:latitude":40.16749,
+    "gn:longitude":-8.17483,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Quatro \u00c1guas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735681
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ac62bde0152dc981fb7f9d055fa76f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209211525
+        }
+    ],
+    "wof:id":1209211525,
+    "wof:lastmodified":1536294275,
+    "wof:name":"Quatro Aguas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17483,
+    40.16749,
+    -8.17483,
+    40.16749
+],
+  "geometry": {"coordinates":[-8.17483,40.16749],"type":"Point"}
+}

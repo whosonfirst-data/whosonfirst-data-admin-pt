@@ -1,0 +1,63 @@
+{
+  "id": 1209128237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14144,39.73321,-8.14144,39.73321",
+    "geom:latitude":39.73321,
+    "geom:longitude":-8.14144,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0510",
+    "gn:admin3_code":"51001.0",
+    "gn:asciiname":"Relva do Boi",
+    "gn:country_code":"PT",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263960,
+    "gn:latitude":39.73321,
+    "gn:longitude":-8.14144,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Relva do Boi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263960
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cdcd06dcf55641e4c0cd22f7a01654e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209128237
+        }
+    ],
+    "wof:id":1209128237,
+    "wof:lastmodified":1536296888,
+    "wof:name":"Relva do Boi",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14144,
+    39.73321,
+    -8.14144,
+    39.73321
+],
+  "geometry": {"coordinates":[-8.14144,39.73321],"type":"Point"}
+}

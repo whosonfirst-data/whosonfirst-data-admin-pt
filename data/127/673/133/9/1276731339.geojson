@@ -1,0 +1,67 @@
+{
+  "id": 1276731339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62382,40.6866,-7.62382,40.6866",
+    "geom:latitude":40.6866,
+    "geom:longitude":-7.62382,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1811",
+    "gn:admin3_code":"181111.0",
+    "gn:asciiname":"Campina",
+    "gn:country_code":"PT",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741653,
+    "gn:latitude":40.6866,
+    "gn:longitude":-7.62382,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Campina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741653
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c171a017cda9d34e799885be43dd10c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276731339,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1276731339,
+    "wof:lastmodified":1536742413,
+    "wof:name":"Campina",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62382,
+    40.6866,
+    -7.62382,
+    40.6866
+],
+  "geometry": {"coordinates":[-7.62382,40.6866],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 101778207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":949314.867994,
+    "geom:bbox":"-9.44490169176,38.8392169383,-9.42331892653,38.851858919",
+    "geom:latitude":38.846126,
+    "geom:longitude":-9.435156,
+    "iso:country":"PT",
+    "lbl:latitude":38.848293,
+    "lbl:longitude":-9.439489,
+    "mps:latitude":38.848293,
+    "mps:longitude":-9.439489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fontanelas"
+    ],
+    "name:eng_x_preferred":[
+        "Fontanelas"
+    ],
+    "name:por_x_preferred":[
+        "Fontanelas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o das Lampas",
+    "qs:la_lc":"*PT11111108",
+    "qs:level":"locality",
+    "qs:loc":"Fontanelas",
+    "qs:loc_alt":"Fontanelas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":38.85,
+    "wd:longitude":-9.433333,
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f23be-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268126,
+        "gp:id":741191,
+        "qs:id":246743,
+        "qs_pg:id":246743,
+        "wd:id":"Q5465145",
+        "wk:page":"Fontanelas"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f67b94114c847b6bf4e51571d7bca9eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778207,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778207,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653258,
+    "wof:name":"Fontanelas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44490169176225,
+    38.83921693831689,
+    -9.42331892653158,
+    38.85185891901739
+],
+  "geometry": {"coordinates":[[[-9.43792441272092,38.85185891901739],[-9.43766157762315,38.85098554070998],[-9.43654250865535,38.85121505082788],[-9.43627969661486,38.85034166695067],[-9.43516063434845,38.85057116059909],[-9.43463506607395,38.84882437966093],[-9.43351602387145,38.84905385331575],[-9.43299052109217,38.84730705715094],[-9.43187149895374,38.84753651081292],[-9.43134606166308,38.84578969942277],[-9.43022705958879,38.84601913309308],[-9.42970168778038,38.84427230647884],[-9.4285827057704,38.84450172015892],[-9.42832004776017,38.84362830026254],[-9.42384410660486,38.84454581145292],[-9.42331892653158,38.8427989373485],[-9.42667581221747,38.84211084450573],[-9.4261505907275,38.84036398336002],[-9.43174513351988,38.83921693831689],[-9.4320078062122,38.84009035229803],[-9.43088889760634,38.84031979071511],[-9.43220233960994,38.8446868475703],[-9.43779715002421,38.84353943796577],[-9.43832272824824,38.84528621115481],[-9.44167961474022,38.84459758892586],[-9.44273104782081,38.84809106846018],[-9.44385005009764,38.84786148772866],[-9.44490169176225,38.85135492043071],[-9.44378263604523,38.85158451526684],[-9.44351972444269,38.85071115663328],[-9.43792441272092,38.85185891901739]]],"type":"Polygon"}
+}

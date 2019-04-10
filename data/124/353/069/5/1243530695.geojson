@@ -1,0 +1,67 @@
+{
+  "id": 1243530695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.582,41.19194,-8.582,41.19194",
+    "geom:latitude":41.19194,
+    "geom:longitude":-8.582,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1306",
+    "gn:admin3_code":"130617.0",
+    "gn:asciiname":"Giesta",
+    "gn:country_code":"PT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739002,
+    "gn:latitude":41.19194,
+    "gn:longitude":-8.582,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Giesta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739002
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9cb00b0e340f24cae5ff3b12e8566e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243530695,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1243530695,
+    "wof:lastmodified":1536684122,
+    "wof:name":"Giesta",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.582,
+    41.19194,
+    -8.582,
+    41.19194
+],
+  "geometry": {"coordinates":[-8.582,41.19194],"type":"Point"}
+}

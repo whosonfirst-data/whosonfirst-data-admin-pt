@@ -1,0 +1,67 @@
+{
+  "id": 1259758391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40832,38.17755,-8.40832,38.17755",
+    "geom:latitude":38.17755,
+    "geom:longitude":-8.40832,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1505",
+    "gn:admin3_code":"150502.0",
+    "gn:asciiname":"Caniceira",
+    "gn:country_code":"PT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270261,
+    "gn:latitude":38.17755,
+    "gn:longitude":-8.40832,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Caniceira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270261
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f68448ff707922e7cc5e2217c701b229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259758391,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1259758391,
+    "wof:lastmodified":1536959296,
+    "wof:name":"Caniceira",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40832,
+    38.17755,
+    -8.40832,
+    38.17755
+],
+  "geometry": {"coordinates":[-8.40832,38.17755],"type":"Point"}
+}

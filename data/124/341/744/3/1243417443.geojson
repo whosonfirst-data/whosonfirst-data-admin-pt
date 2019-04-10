@@ -1,0 +1,70 @@
+{
+  "id": 1243417443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21667,39.43333,-8.21667,39.43333",
+    "geom:latitude":39.43333,
+    "geom:longitude":-8.21667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"140112.0",
+    "gn:asciiname":"Sao Miguel de Rio Torto",
+    "gn:country_code":"PT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263262,
+    "gn:latitude":39.43333,
+    "gn:longitude":-8.21667,
+    "gn:modification_date":"2018-05-17",
+    "gn:name":"S\u00e3o Miguel de Rio Torto",
+    "gn:population":4881,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263262
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ae84af03b3b69c56b4b3cd9dbac5baa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243417443,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1243417443,
+    "wof:lastmodified":1536846309,
+    "wof:name":"Sao Miguel de Rio Torto",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":4881,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21667,
+    39.43333,
+    -8.21667,
+    39.43333
+],
+  "geometry": {"coordinates":[-8.21667,39.43333],"type":"Point"}
+}

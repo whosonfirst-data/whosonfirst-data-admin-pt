@@ -1,0 +1,111 @@
+{
+  "id": 101776289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":269646.770377,
+    "geom:bbox":"-8.67197992205,41.3289067844,-8.66159147134,41.3343663841",
+    "geom:latitude":41.33197,
+    "geom:longitude":-8.665988,
+    "iso:country":"PT",
+    "lbl:latitude":41.332158,
+    "lbl:longitude":-8.665988,
+    "mps:latitude":41.332158,
+    "mps:longitude":-8.665988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:dut_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:eng_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:fre_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:ger_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0439\u0440\u0430\u043d"
+    ],
+    "name:por_x_colloquial":[
+        "Vairao"
+    ],
+    "name:por_x_preferred":[
+        "Vair\u00e3o",
+        "Fornelo e Vair\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0440\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "name:tur_x_preferred":[
+        "Vair\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vair\u00e3o",
+    "qs:la_lc":"*PT11316265",
+    "qs:level":"locality",
+    "qs:loc":"Vair\u00e3o",
+    "qs:loc_alt":"Vairao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273d666-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733269,
+        "gp:id":749718,
+        "qs:id":937326,
+        "wd:id":"Q2256483"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c90836317ff899b13a89b09b49f60e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776289,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776289,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498171,
+    "wof:name":"Vair\u00e3o",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67197992205161,
+    41.32890678442953,
+    -8.66159147133675,
+    41.33436638413127
+],
+  "geometry": {"coordinates":[[[-8.66410548863087,41.33436638413127],[-8.66383536001553,41.33349341577093],[-8.66267182202193,41.33371518165728],[-8.66159147133675,41.33022327476101],[-8.66275494926799,41.33000152344857],[-8.66248487250687,41.32912854564779],[-8.66364832814367,41.32890678442953],[-8.66418852206419,41.3306527308564],[-8.66767893537087,41.32998734404532],[-8.66821926086089,41.33173326105486],[-8.67170969870551,41.33106773043545],[-8.67197992205161,41.33194067517275],[-8.67081643504025,41.33216253590643],[-8.67108665374775,41.33303548239968],[-8.66410548863087,41.33436638413127]]],"type":"Polygon"}
+}

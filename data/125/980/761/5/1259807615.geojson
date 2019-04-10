@@ -1,0 +1,67 @@
+{
+  "id": 1259807615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0666,41.37873,-8.0666,41.37873",
+    "geom:latitude":41.37873,
+    "geom:longitude":-8.0666,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0305",
+    "gn:admin3_code":"30507.0",
+    "gn:asciiname":"Carvalho",
+    "gn:country_code":"PT",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741283,
+    "gn:latitude":41.37873,
+    "gn:longitude":-8.0666,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carvalho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741283
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7d91230589c2d9699b8256801bbbcacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259807615,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259807615,
+    "wof:lastmodified":1536888070,
+    "wof:name":"Carvalho",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0666,
+    41.37873,
+    -8.0666,
+    41.37873
+],
+  "geometry": {"coordinates":[-8.0666,41.37873],"type":"Point"}
+}

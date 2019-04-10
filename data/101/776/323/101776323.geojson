@@ -1,0 +1,110 @@
+{
+  "id": 101776323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:bbox":"-7.52454056778,41.2874411092,-7.51404718971,41.2961647729",
+    "geom:latitude":41.291625,
+    "geom:longitude":-7.518481,
+    "iso:country":"PT",
+    "lbl:latitude":41.291044,
+    "lbl:longitude":-7.518402,
+    "mps:latitude":41.291044,
+    "mps:longitude":-7.518402,
+    "mz:hierarchy_label":1,
+    "name:cat_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:deu_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:fin_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0438\u0436\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:mwl_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Sanfins do Douro"
+    ],
+    "name:spa_x_preferred":[
+        "Alij\u00f3"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Vila Real",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Sanfins do Douro",
+    "qs:la_lc":"*PT11701126",
+    "qs:level":"locality",
+    "qs:loc":"Sanfins do Douro",
+    "qs:loc_alt":"Sanfins do Douro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027255f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734789,
+        "gp:id":747777,
+        "qs:id":28443,
+        "qs_pg:id":28443
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"467cfe9eb0b81e270f4eae2b0f0bb52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776323,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":101776323,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497290006,
+    "wof:name":"Sanfins do Douro",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52454056777748,
+    41.28744110922207,
+    -7.51404718970826,
+    41.29616477289585
+],
+  "geometry": {"coordinates":[[[-7.5157199271365,41.29616477289585],[-7.51546653269918,41.29528803839662],[-7.51430055912181,41.29549627924428],[-7.51404718970826,41.29461953955507],[-7.51521314802483,41.29441130213741],[-7.51495977311293,41.29353456411832],[-7.51612570931536,41.29332631651175],[-7.51460557327823,41.28806587201507],[-7.518103066126,41.28744110922207],[-7.51835644349887,41.28831784408283],[-7.52068810164423,41.28790126060824],[-7.52170183080722,41.29140815500443],[-7.52403358358197,41.29099148961535],[-7.52454056777748,41.29274491252426],[-7.5187109818483,41.29378650817131],[-7.51921785252244,41.29553995834749],[-7.5157199271365,41.29616477289585]]],"type":"Polygon"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209686851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34832,39.14681,-9.34832,39.14681",
+    "geom:latitude":39.14681,
+    "geom:longitude":-9.34832,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1113",
+    "gn:admin3_code":"111301.0",
+    "gn:asciiname":"Povoa d'Alem",
+    "gn:country_code":"PT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264368,
+    "gn:latitude":39.14681,
+    "gn:longitude":-9.34832,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00f3voa d\u2019Al\u00e9m",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264368
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9c6d56b9bd2924df3a1b3c899fe06a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209686851
+        }
+    ],
+    "wof:id":1209686851,
+    "wof:lastmodified":1536279381,
+    "wof:name":"Povoa d'Alem",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34832,
+    39.14681,
+    -9.34832,
+    39.14681
+],
+  "geometry": {"coordinates":[-9.34832,39.14681],"type":"Point"}
+}

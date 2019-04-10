@@ -1,0 +1,71 @@
+{
+  "id": 1226110855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-31.25095,39.41312,-31.25095,39.41312",
+    "geom:latitude":39.41312,
+    "geom:longitude":-31.25095,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4801",
+    "gn:admin3_code":"480107.0",
+    "gn:asciiname":"Mosteiro",
+    "gn:country_code":"PT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781370,
+    "gn:latitude":39.41312,
+    "gn:longitude":-31.25095,
+    "gn:modification_date":"2018-03-01",
+    "gn:name":"Mosteiro",
+    "gn:population":43,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781370,
+        "wk:page":"Mosteiro_%28Lajes_das_Flores%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f335d7a8cf958b8acf865edfecbbafd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226110855,
+            "region_id":85687465
+        }
+    ],
+    "wof:id":1226110855,
+    "wof:lastmodified":1537571952,
+    "wof:name":"Mosteiro",
+    "wof:parent_id":85687465,
+    "wof:placetype":"locality",
+    "wof:population":43,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -31.25095,
+    39.41312,
+    -31.25095,
+    39.41312
+],
+  "geometry": {"coordinates":[-31.25095,39.41312],"type":"Point"}
+}

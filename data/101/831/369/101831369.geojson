@@ -1,0 +1,69 @@
+{
+  "id": 101831369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:bbox":"-8.62204951202,40.8509544546,-8.60798647443,40.8636866878",
+    "geom:latitude":40.857255,
+    "geom:longitude":-8.614185,
+    "iso:country":"PT",
+    "lbl:latitude":40.856885,
+    "lbl:longitude":-8.614292,
+    "mps:latitude":40.856885,
+    "mps:longitude":-8.614292,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"V\u00e1lega",
+    "qs:la_lc":"*PT10115070",
+    "qs:level":"locality",
+    "qs:loc":"Arruela",
+    "qs:loc_alt":"Arruela",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":748180,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d31ebb8f4c9c791dfa9aaeea01e8e218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101831369,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101831369,
+    "wof:lastmodified":1477508564,
+    "wof:name":"Arruela",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62204951201903,
+    40.85095445457608,
+    -8.60798647442721,
+    40.86368668779278
+],
+  "geometry": {"coordinates":[[[-8.60798647442721,40.8601497254266],[-8.61400176553792,40.85117709166173],[-8.6151658591474,40.85095445457608],[-8.61569762701305,40.85270181685013],[-8.61685269526015,40.85248085997142],[-8.61738453310937,40.85422820749159],[-8.62200485299184,40.85334421688697],[-8.62204951201903,40.85349089397204],[-8.61276438843333,40.86368668779278],[-8.60798647442721,40.8601497254266]]],"type":"Polygon"}
+}

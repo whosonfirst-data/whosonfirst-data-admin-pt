@@ -1,0 +1,67 @@
+{
+  "id": 1209872345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.7,38.61667,-28.7,38.61667",
+    "geom:latitude":38.61667,
+    "geom:longitude":-28.7,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4701",
+    "gn:admin3_code":"470103.0",
+    "gn:asciiname":"Joana Alves",
+    "gn:country_code":"PT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372980,
+    "gn:latitude":38.61667,
+    "gn:longitude":-28.7,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Joana Alves",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372980
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"96e620b12cd101cc63315162f7bedb06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209872345,
+            "region_id":85687455
+        }
+    ],
+    "wof:id":1209872345,
+    "wof:lastmodified":1536372233,
+    "wof:name":"Joana Alves",
+    "wof:parent_id":85687455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.7,
+    38.61667,
+    -28.7,
+    38.61667
+],
+  "geometry": {"coordinates":[-28.7,38.61667],"type":"Point"}
+}

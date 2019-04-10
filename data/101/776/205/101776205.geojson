@@ -1,0 +1,69 @@
+{
+  "id": 101776205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-8.46540694259,40.9029511816,-8.45437044258,40.9127906836",
+    "geom:latitude":40.90798,
+    "geom:longitude":-8.459136,
+    "iso:country":"PT",
+    "lbl:latitude":40.909891,
+    "lbl:longitude":-8.45784,
+    "mps:latitude":40.909891,
+    "mps:longitude":-8.45784,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Macieira de Sarnes",
+    "qs:la_lc":"*PT10113050",
+    "qs:level":"locality",
+    "qs:loc":"Cruzeiro",
+    "qs:loc_alt":"Cruzeiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29386954,
+        "qs:id":5
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ec2525afb147945b6ce000e82ca3915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776205,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776205,
+    "wof:lastmodified":1477508541,
+    "wof:name":"Cruzeiro",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46540694258772,
+    40.90295118159611,
+    -8.45437044258318,
+    40.9127906836066
+],
+  "geometry": {"coordinates":[[[-8.45668346299988,40.90885590676999],[-8.45562733679418,40.90535932757103],[-8.4567837772463,40.90514022204422],[-8.45704780847518,40.90601436609631],[-8.45936069781158,40.90557610752734],[-8.459624768705,40.90645024257844],[-8.46309409419518,40.90579274305958],[-8.46230177862122,40.90317036434044],[-8.46345816197066,40.90295118159611],[-8.46372227187305,40.90382530614983],[-8.46487866296007,40.90360610637987],[-8.46540694258772,40.90535434272971],[-8.46425052191836,40.90557354962641],[-8.46451466206247,40.90644766854888],[-8.46335821954699,40.90666686554562],[-8.4636223549798,40.90754098615457],[-8.45899645520643,40.90841765375512],[-8.45978874446064,40.91104004707915],[-8.45747566347842,40.91147832146999],[-8.45773975046461,40.91235245595107],[-8.45542661167224,40.9127906836066],[-8.45437044258318,40.90929410592662],[-8.45668346299988,40.90885590676999]]],"type":"Polygon"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 101845443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000044,
+    "geom:area_square_m":409548.90085,
+    "geom:bbox":"-8.58726440738,40.498845347,-8.56933793259,40.5064927659",
+    "geom:latitude":40.503441,
+    "geom:longitude":-8.579354,
+    "iso:country":"PT",
+    "lbl:latitude":40.503818,
+    "lbl:longitude":-8.578742,
+    "mps:latitude":40.503818,
+    "mps:longitude":-8.578742,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:por_x_preferred":[
+        "Sobreiro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Troviscal",
+    "qs:la_lc":"*PT10114065",
+    "qs:level":"locality",
+    "qs:loc":"Sobreiro",
+    "qs:loc_alt":"Sobreiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02746022-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733900,
+        "gp:id":748976,
+        "qs:id":261727
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1852a56d3e503ba915b523ce4da10bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845443,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101845443,
+    "wof:lastmodified":1534985977,
+    "wof:name":"Sobreiro",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        1175613445
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58726440737644,
+    40.4988453470188,
+    -8.56933793258935,
+    40.50649276594265
+],
+  "geometry": {"coordinates":[[[-8.56933793258935,40.50192243236779],[-8.57278502430376,40.50126170963347],[-8.5733105356619,40.5030101706102],[-8.57905569472791,40.50190866337988],[-8.57826722491427,40.49928602219336],[-8.5805651528193,40.4988453470188],[-8.58135370971246,40.5014679669498],[-8.58020470569488,40.50168832184607],[-8.58099330873927,40.50431093528982],[-8.58673847703017,40.50320897403617],[-8.58726440737644,40.50495733805207],[-8.58611535859325,40.50517776411613],[-8.58637832420698,40.50605194681481],[-8.5840801767522,40.50649276594265],[-8.5838172401692,40.50561857615583],[-8.58151909393678,40.50605933474384],[-8.58125619635405,40.50518513596768],[-8.57665987854102,40.50606647861156],[-8.57587141978843,40.50344382835954],[-8.57242423911055,40.50410466314611],[-8.57189873686065,40.50235619888809],[-8.5696006397385,40.50279667443033],[-8.56933793258935,40.50192243236779]]],"type":"Polygon"}
+}

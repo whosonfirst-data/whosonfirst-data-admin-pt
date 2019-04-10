@@ -1,0 +1,70 @@
+{
+  "id": 1343540243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40112,38.70527,-9.40112,38.70527",
+    "geom:latitude":38.70527,
+    "geom:longitude":-9.40112,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1105",
+    "gn:admin3_code":"110504.0",
+    "gn:asciiname":"Costa do Estoril",
+    "gn:country_code":"PT",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6545008,
+    "gn:latitude":38.70527,
+    "gn:longitude":-9.40112,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Costa do Estoril",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Costa de Estoril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6545008
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4b5f919d337f6ad6ad60b47fb54261f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343540243,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1343540243,
+    "wof:lastmodified":1537560554,
+    "wof:name":"Costa do Estoril",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40112,
+    38.70527,
+    -9.40112,
+    38.70527
+],
+  "geometry": {"coordinates":[-9.40112,38.70527],"type":"Point"}
+}

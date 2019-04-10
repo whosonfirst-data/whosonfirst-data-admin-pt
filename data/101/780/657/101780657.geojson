@@ -1,0 +1,127 @@
+{
+  "id": 101780657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":879702.400155,
+    "geom:bbox":"-8.34585856601,37.1146893262,-8.33419900801,37.1285110304",
+    "geom:latitude":37.12089,
+    "geom:longitude":-8.339151,
+    "iso:country":"PT",
+    "lbl:latitude":37.119988,
+    "lbl:longitude":-8.339063,
+    "mps:latitude":37.119988,
+    "mps:longitude":-8.339063,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:dut_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:eng_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:fre_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:ger_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0430"
+    ],
+    "name:may_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:msa_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:por_x_colloquial":[
+        "Pera"
+    ],
+    "name:por_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:tur_x_preferred":[
+        "P\u00eara"
+    ],
+    "name:unk_x_variant":[
+        "P\u00eara"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"P\u00eara",
+    "qs:la_lc":"*PT10813044",
+    "qs:level":"locality",
+    "qs:loc":"Pera",
+    "qs:loc_alt":"Pera",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0275654e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264900,
+        "gp:id":745554,
+        "qs:id":1116011,
+        "qs_pg:id":1116011,
+        "wd:id":"Q2991238",
+        "wk:page":"P\u00eara (Silves)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e786f0715d762a737099ae28c683125b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780657,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780657,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815496,
+    "wof:name":"Pera",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34585856600808,
+    37.11468932623814,
+    -8.33419900800703,
+    37.12851103038344
+],
+  "geometry": {"coordinates":[[[-8.3352938993238,37.12126039215144],[-8.33458341318533,37.11862229901959],[-8.33567826068463,37.11840651083259],[-8.33520462075273,37.11664777851746],[-8.3373942476826,37.1162161768807],[-8.33715741522269,37.1153368141068],[-8.3404417741674,37.11468932623814],[-8.34067864464464,37.11556867947087],[-8.34177343204897,37.11535282168006],[-8.34224722405833,37.11711151582944],[-8.34334203101463,37.11689563901615],[-8.34405282133207,37.11953365580962],[-8.34514766051387,37.11931775679147],[-8.34585856600808,37.12195574617431],[-8.34147902242762,37.12281930445999],[-8.3417159573732,37.12369864301149],[-8.34062104431626,37.12391450411025],[-8.34085797515877,37.12479384385864],[-8.33976304363119,37.12500969547682],[-8.3399999703696,37.12588903642211],[-8.33890502037031,37.12610487855937],[-8.33914194300417,37.12698422070196],[-8.33695200026671,37.1274158733512],[-8.33718890611595,37.12829521987214],[-8.33609391337694,37.12851103038344],[-8.33419900800703,37.12147617721735],[-8.3352938993238,37.12126039215144]]],"type":"Polygon"}
+}

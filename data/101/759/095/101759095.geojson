@@ -1,0 +1,69 @@
+{
+  "id": 101759095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:bbox":"-9.21358181485,38.7944083597,-9.19804885761,38.805999035",
+    "geom:latitude":38.799796,
+    "geom:longitude":-9.206551,
+    "iso:country":"PT",
+    "lbl:latitude":38.800508,
+    "lbl:longitude":-9.206699,
+    "mps:latitude":38.800508,
+    "mps:longitude":-9.206699,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro Trigache e Casal Novo",
+    "qs:loc_alt":"Bairro Trigache e Casal Novo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":740850,
+        "qs:id":6
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"52469e0b8521ba80d26ea0a8b24e0612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759095,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759095,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro Trigache e Casal Novo",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21358181485294,
+    38.79440835967722,
+    -9.19804885761107,
+    38.80599903496716
+],
+  "geometry": {"coordinates":[[[-9.2024710091469,38.80480852645672],[-9.20263288771309,38.80418799195292],[-9.20178773430661,38.80213547653716],[-9.19973521889068,38.79984148871932],[-9.19804885761107,38.79785753427274],[-9.204177730455,38.79661559381327],[-9.20365813282928,38.79486376421403],[-9.20903190636278,38.79440835967722],[-9.21358181485294,38.7958897252322],[-9.20951485116649,38.80599903496716],[-9.2024710091469,38.80480852645672]]],"type":"Polygon"}
+}

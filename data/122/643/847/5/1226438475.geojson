@@ -1,0 +1,67 @@
+{
+  "id": 1226438475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68728,37.14537,-8.68728,37.14537",
+    "geom:latitude":37.14537,
+    "geom:longitude":-8.68728,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0807",
+    "gn:admin3_code":"80706.0",
+    "gn:asciiname":"Cerro Ruivo",
+    "gn:country_code":"PT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269372,
+    "gn:latitude":37.14537,
+    "gn:longitude":-8.68728,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro Ruivo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269372
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1b1a349af9d9100613b8f51ea5aa5509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226438475,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1226438475,
+    "wof:lastmodified":1536656055,
+    "wof:name":"Cerro Ruivo",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68728,
+    37.14537,
+    -8.68728,
+    37.14537
+],
+  "geometry": {"coordinates":[-8.68728,37.14537],"type":"Point"}
+}

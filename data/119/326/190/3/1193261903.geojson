@@ -1,0 +1,67 @@
+{
+  "id": 1193261903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3287,38.91897,-9.3287,38.91897",
+    "geom:latitude":38.91897,
+    "geom:longitude":-9.3287,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110908.0",
+    "gn:asciiname":"Ventureira",
+    "gn:country_code":"PT",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261724,
+    "gn:latitude":38.91897,
+    "gn:longitude":-9.3287,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ventureira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261724
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"392a165d81126c391df740c0f1d681f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193261903,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1193261903,
+    "wof:lastmodified":1536379963,
+    "wof:name":"Ventureira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3287,
+    38.91897,
+    -9.3287,
+    38.91897
+],
+  "geometry": {"coordinates":[-9.3287,38.91897],"type":"Point"}
+}

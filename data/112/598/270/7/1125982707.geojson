@@ -1,0 +1,91 @@
+{
+  "id": 1125982707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43376,41.20116,-8.43376,41.20116",
+    "geom:latitude":41.20116,
+    "geom:longitude":-8.43376,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6034,
+    "gn:population":6034,
+    "iso:country":"PT",
+    "lbl:latitude":41.20116,
+    "lbl:longitude":-8.43376,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0434\u0440\u0430"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739080,
+    "qs_pg:gn_pop":6034,
+    "qs_pg:name":"Gandra",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1248738,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":24899963,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739080,
+        "gp:id":24899963,
+        "qs_pg:id":1248738
+    },
+    "wof:country":"PT",
+    "wof:created":1497298635,
+    "wof:geomhash":"0892750a2f65ba2cb39daa3d2fd6e660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125982707,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125982707,
+    "wof:lastmodified":1509404868,
+    "wof:name":"Gandra",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":6034,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43376,
+    41.20116,
+    -8.43376,
+    41.20116
+],
+  "geometry": {"coordinates":[-8.43376,41.20116],"type":"Point"}
+}

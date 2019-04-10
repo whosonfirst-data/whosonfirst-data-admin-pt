@@ -1,0 +1,83 @@
+{
+  "id": 101832803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:bbox":"-9.10758669655,38.6394996649,-9.09297785172,38.6481377739",
+    "geom:latitude":38.643312,
+    "geom:longitude":-9.100614,
+    "iso:country":"PT",
+    "lbl:latitude":38.642195,
+    "lbl:longitude":-9.102938,
+    "mps:latitude":38.642195,
+    "mps:longitude":-9.102938,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Seixal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Seixal",
+    "qs:loc_alt":"Seixal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1520,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270fa72-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263115,
+        "gp:id":748557,
+        "qs:id":1074874,
+        "qs_pg:id":1074874,
+        "wd:id":"Q990448"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"855da909d5ba600b1ce74fc7cea7adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832803,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832803,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642783,
+    "wof:name":"Seixal",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10758669654598,
+    38.63949966485768,
+    -9.0929778517164,
+    38.6481377738545
+],
+  "geometry": {"coordinates":[[[-9.0929778517164,38.64673595177243],[-9.09690808603699,38.64316263237737],[-9.0972804143621,38.64308747484563],[-9.09721939333707,38.64287959571271],[-9.10059847926311,38.63980737347555],[-9.10568924683855,38.63949966485768],[-9.10621317475483,38.64128358366821],[-9.10732974060687,38.64105803912003],[-9.10758669654598,38.64193281237795],[-9.10647011737399,38.64215836037528],[-9.10672706945564,38.64303313506781],[-9.10561047047366,38.64325867359219],[-9.10586741869662,38.64413344971911],[-9.10140090458918,38.64503548838223],[-9.10114400965494,38.6441606984605],[-9.09779409591334,38.64483708141887],[-9.09856468918628,38.64746147617763],[-9.09521459713397,38.6481377738545],[-9.09495776322552,38.64726296727139],[-9.09384106622497,38.64748837053423],[-9.09358425510106,38.64661355849046],[-9.0929778517164,38.64673595177243]]],"type":"Polygon"}
+}

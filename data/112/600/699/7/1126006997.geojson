@@ -1,0 +1,117 @@
+{
+  "id": 1126006997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41398,40.88266,-8.41398,40.88266",
+    "geom:latitude":40.88266,
+    "geom:longitude":-8.41398,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.88266,
+    "lbl:longitude":-8.41398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u5361\u96f7\u6208\u8428"
+    ],
+    "name:dut_x_preferred":[
+        "Carregosa"
+    ],
+    "name:eng_x_preferred":[
+        "Carregosa"
+    ],
+    "name:fre_x_preferred":[
+        "Carregosa"
+    ],
+    "name:ger_x_preferred":[
+        "Carregosa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0433\u043e\u0437\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Carregosa"
+    ],
+    "name:por_x_preferred":[
+        "Carregosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0433\u043e\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Carregosa"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2741402,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Carregosa",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":244931,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29381348,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741402,
+        "gp:id":29381348,
+        "qs_pg:id":244931,
+        "wd:id":"Q2259219"
+    },
+    "wof:country":"PT",
+    "wof:created":1497300030,
+    "wof:geomhash":"d181228fcd9e5f1672b75f9f9a591e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126006997,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1126006997,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Carregosa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101831393
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41398,
+    40.88266,
+    -8.41398,
+    40.88266
+],
+  "geometry": {"coordinates":[-8.41398,40.88266],"type":"Point"}
+}

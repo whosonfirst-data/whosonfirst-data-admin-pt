@@ -1,0 +1,118 @@
+{
+  "id": 101759063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":2162507.106372,
+    "geom:bbox":"-9.31069827188,38.7427332657,-9.28672617208,38.7605708052",
+    "geom:latitude":38.751429,
+    "geom:longitude":-9.298419,
+    "iso:country":"PT",
+    "lbl:latitude":38.74931,
+    "lbl:longitude":-9.298021,
+    "mps:latitude":38.74931,
+    "mps:longitude":-9.298021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bpy_x_preferred":[
+        "\u09b8\u09be\u0993 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u0443\u0441"
+    ],
+    "name:mlg_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:por_x_colloquial":[
+        "S Marcos",
+        "S. Marcos",
+        "Sao Marcos"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Marcos"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Marcos",
+    "qs:loc_alt":"Sao Marcos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026cd8f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263290,
+        "gp:id":748258,
+        "qs:id":325113,
+        "qs_pg:id":325113
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"886867863a8f4f654b7d97243637adbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759063,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759063,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714678,
+    "wof:name":"S\u00e3o Marcos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31069827187918,
+    38.74273326567658,
+    -9.28672617207974,
+    38.76057080517108
+],
+  "geometry": {"coordinates":[[[-9.30946704321047,38.75574401374075],[-9.30863927213511,38.75565203917677],[-9.30670749292005,38.75661792878418],[-9.30453424130326,38.75782529079351],[-9.30295792286302,38.75788834353108],[-9.30168700727,38.75362211861926],[-9.29833339921987,38.7543056955837],[-9.29859369063843,38.75517967540361],[-9.29747579477635,38.75540751201737],[-9.29825668657412,38.75802944976124],[-9.29713874410186,38.75825728391811],[-9.29743804165054,38.7592621486811],[-9.29559976243399,38.75975707000845],[-9.29308458102264,38.76057080517108],[-9.29214643764794,38.75742049981693],[-9.28991053363256,38.75787601188426],[-9.28965033935594,38.75700200616245],[-9.28956554715285,38.75701927832552],[-9.29004589719091,38.75468614956918],[-9.28775190937313,38.75118479974202],[-9.28672617207974,38.75065293596043],[-9.289804424789,38.74695903270924],[-9.29403019182183,38.74454430869059],[-9.29994626566764,38.74273326567658],[-9.3029646706911,38.74768344991492],[-9.30719043772382,38.7486493395225],[-9.30960516174252,38.75033964633559],[-9.31069827187918,38.75549287983682],[-9.30946704321047,38.75574401374075]],[[-9.29497973189871,38.75498915614725],[-9.29419903526008,38.75236717306802],[-9.29084542874335,38.75305048580617],[-9.2916260053139,38.75567250030679],[-9.29497973189871,38.75498915614725]]],"type":"Polygon"}
+}

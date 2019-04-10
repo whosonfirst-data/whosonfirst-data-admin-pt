@@ -1,0 +1,81 @@
+{
+  "id": 1125270255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91096,40.91464,-7.91096,40.91464",
+    "geom:latitude":40.91464,
+    "geom:longitude":-7.91096,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.91464,
+    "lbl:longitude":-7.91096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Castro Daire Municipality"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30c8\u30ed\u30fb\u30c0\u30a4\u30ec"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0440\u0443-\u0414\u0430\u0439\u0440\u0438"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8013762,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Castro Daire",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904371,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8013762,
+        "qs_pg:id":904371
+    },
+    "wof:country":"PT",
+    "wof:created":1497042096,
+    "wof:geomhash":"bfde190abf0fe5bc88b1bdf1e21a32a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125270255,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1125270255,
+    "wof:lastmodified":1509386998,
+    "wof:name":"Castro Daire",
+    "wof:parent_id":85687401,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91096,
+    40.91464,
+    -7.91096,
+    40.91464
+],
+  "geometry": {"coordinates":[-7.91096,40.91464],"type":"Point"}
+}

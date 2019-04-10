@@ -1,0 +1,75 @@
+{
+  "id": 101759361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000047,
+    "geom:bbox":"-8.62115514916,41.0897698193,-8.61111616598,41.0987814359",
+    "geom:latitude":41.095065,
+    "geom:longitude":-8.616737,
+    "geonames:id":"2737493,2737494",
+    "iso:country":"PT",
+    "lbl:latitude":41.095667,
+    "lbl:longitude":-8.616813,
+    "mps:latitude":41.095667,
+    "mps:longitude":-8.616813,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Monte",
+    "qs:loc_alt":"Monte",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381407
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b13aa4f54885452ecf79f5331bd2e430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759361,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759361,
+    "wof:lastmodified":1534985977,
+    "wof:name":"Monte",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        1175613441
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6211551491632,
+    41.089769819266,
+    -8.61111616598384,
+    41.09878143587292
+],
+  "geometry": {"coordinates":[[[-8.61232068990898,41.09831427492531],[-8.61205924252818,41.09746111348068],[-8.61111616598384,41.09764088593806],[-8.61259145529908,41.09548469386181],[-8.61421250481925,41.09247417332438],[-8.61446687536892,41.09330432764853],[-8.61794490656092,41.09264107523001],[-8.61767722717667,41.09176767844565],[-8.61883654168196,41.09154657092347],[-8.61839495180379,41.09010570040101],[-8.62074611974964,41.089769819266],[-8.6211551491632,41.09110431539062],[-8.61999584901088,41.09132544990507],[-8.62079865185052,41.09394445389887],[-8.62043640102803,41.09463273046151],[-8.6189556323273,41.09818657534299],[-8.61621621023113,41.09855676751823],[-8.61590729124356,41.09878143587292],[-8.6147354415304,41.09826061377811],[-8.61232068990898,41.09831427492531]]],"type":"Polygon"}
+}

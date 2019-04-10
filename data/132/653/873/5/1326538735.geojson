@@ -1,0 +1,65 @@
+{
+  "id": 1326538735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23541,40.59773,-8.23541,40.59773",
+    "geom:latitude":40.59773,
+    "geom:longitude":-8.23541,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sao Joao do Monte",
+    "gn:country_code":"PT",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734470,
+    "gn:latitude":40.59773,
+    "gn:longitude":-8.23541,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"S\u00e3o Jo\u00e3o do Monte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734470
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b429be85dff0645cb63f7f14e3c09b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326538735,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1326538735,
+    "wof:lastmodified":1536974133,
+    "wof:name":"Sao Joao do Monte",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23541,
+    40.59773,
+    -8.23541,
+    40.59773
+],
+  "geometry": {"coordinates":[-8.23541,40.59773],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125953347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.025147,38.485256,-8.025147,38.485256",
+    "geom:latitude":38.485256,
+    "geom:longitude":-8.025147,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.485256,
+    "lbl:longitude":-8.025147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Pero Peao",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Evora",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":8682,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":56041440,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Evora",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56041440,
+        "qs_pg:id":8682
+    },
+    "wof:country":"PT",
+    "wof:created":1497297536,
+    "wof:geomhash":"b64304ba862b8ce8ef4d989e3426c1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125953347,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1125953347,
+    "wof:lastmodified":1509402835,
+    "wof:name":"Pero Peao",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.025147,
+    38.485256,
+    -8.025147,
+    38.485256
+],
+  "geometry": {"coordinates":[-8.025147,38.485256],"type":"Point"}
+}

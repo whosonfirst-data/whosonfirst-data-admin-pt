@@ -1,0 +1,67 @@
+{
+  "id": 1192976779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.2,38.68333,-28.2,38.68333",
+    "geom:latitude":38.68333,
+    "geom:longitude":-28.2,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4502",
+    "gn:admin3_code":"450204.0",
+    "gn:asciiname":"Ribeira do Almeida",
+    "gn:country_code":"PT",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372717,
+    "gn:latitude":38.68333,
+    "gn:longitude":-28.2,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Ribeira do Almeida",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372717
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e72f4b6e13d6a3d5b83ef6e9288ff257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1192976779,
+            "region_id":85687451
+        }
+    ],
+    "wof:id":1192976779,
+    "wof:lastmodified":1536372430,
+    "wof:name":"Ribeira do Almeida",
+    "wof:parent_id":85687451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.2,
+    38.68333,
+    -28.2,
+    38.68333
+],
+  "geometry": {"coordinates":[-28.2,38.68333],"type":"Point"}
+}

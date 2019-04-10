@@ -1,0 +1,96 @@
+{
+  "id": 101778223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":489602.53001,
+    "geom:bbox":"-8.96332516753,39.2016134535,-8.95320304994,39.2162784186",
+    "geom:latitude":39.209432,
+    "geom:longitude":-8.957824,
+    "gn:population":3923,
+    "iso:country":"PT",
+    "lbl:latitude":39.212016,
+    "lbl:longitude":-8.9579,
+    "mps:latitude":39.212016,
+    "mps:longitude":-8.9579,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Perdig\u00e3o Queiroga"
+    ],
+    "name:fra_x_preferred":[
+        "Perdig\u00e3o Queiroga"
+    ],
+    "name:mlg_x_preferred":[
+        "Perdig\u00e3o Queiroga"
+    ],
+    "name:por_x_preferred":[
+        "Alcoentre",
+        "Perdig\u00e3o Queiroga"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alcoentre",
+    "qs:la_lc":"*PT11103016",
+    "qs:level":"locality",
+    "qs:loc":"Alcoentre",
+    "qs:loc_alt":"Alcoentre",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02740460-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272143,
+        "gp:id":735622,
+        "qs:id":139299,
+        "qs_pg:id":139299
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7ca427b89f2e2d3aabc59ee8eaa98dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778223,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778223,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1505337889,
+    "wof:name":"Alcoentre",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":3923,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96332516753137,
+    39.20161345349351,
+    -8.95320304993527,
+    39.21627841863886
+],
+  "geometry": {"coordinates":[[[-8.95466511478116,39.2108070984462],[-8.95804364517022,39.2101348578916],[-8.95726698773967,39.20751123984132],[-8.95614085857642,39.20773532264076],[-8.9556231623651,39.20598622707621],[-8.95449705390752,39.2062102898667],[-8.95320304993527,39.20183749889298],[-8.95432909006485,39.20161345349351],[-8.95510550460773,39.20423712358661],[-8.95960976283493,39.20334076974564],[-8.95986864156743,39.20421530856567],[-8.95761649837948,39.2046635185452],[-8.95839311027419,39.20728714399064],[-8.95951922617974,39.20706303508888],[-8.9600370428526,39.20881210185286],[-8.96116317946155,39.20858797294079],[-8.96168106193619,39.21033702481873],[-8.9628072192487,39.21011287589511],[-8.96332516753137,39.21186191288535],[-8.95994659369052,39.21253434138174],[-8.9602055412542,39.21340886734504],[-8.95682686672131,39.21408118881106],[-8.95734470868069,39.21583025567327],[-8.95509217115108,39.21627841863886],[-8.95483327270631,39.21540387923903],[-8.95595953111467,39.21517980776224],[-8.95466511478116,39.2108070984462]]],"type":"Polygon"}
+}

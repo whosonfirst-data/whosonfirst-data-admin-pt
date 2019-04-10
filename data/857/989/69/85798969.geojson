@@ -1,0 +1,111 @@
+{
+  "id": 85798969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":795168.99774,
+    "geom:bbox":"-9.21203613281,38.7048027029,-9.20104980469,38.7155187693",
+    "geom:latitude":38.710161,
+    "geom:longitude":-9.206935,
+    "gn:latitude":38.71269,
+    "gn:longitude":-9.20694,
+    "iso:country":"PT",
+    "lbl:latitude":38.7125,
+    "lbl:longitude":-9.207112,
+    "mps:latitude":38.710031,
+    "mps:longitude":-9.206491,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_colloquial":[
+        "Caramao"
+    ],
+    "name:por_x_preferred":[
+        "Caram\u00e3o"
+    ],
+    "name:unk_x_variant":[
+        "Caram\u00e3o"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Caram\u00e3o",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Caram\u00e3o",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":59,
+    "qs:photo_sum":191,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270215,
+        "gp:id":738175,
+        "qs:id":978981,
+        "qs_pg:id":978981
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"516164d70fd7ca39f3d4b5aaf645220a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798969,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798969,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497309102,
+    "wof:name":"Caram\u00e3o",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21203613281136,
+    38.70480270294026,
+    -9.20104980468989,
+    38.71551876930005
+],
+  "geometry": {"coordinates":[[[-9.2037963867198,38.70480270436694],[-9.20654296874977,38.70480270294026],[-9.20928955077986,38.70480270436694],[-9.20928955077986,38.70694604356267],[-9.20928955077977,38.70908931803763],[-9.21203613280986,38.70908932128587],[-9.2120361328102,38.71123253900002],[-9.21203613281082,38.71264827435377],[-9.21203613281136,38.71551870505002],[-9.21203613280994,38.71551876930005],[-9.20764761143315,38.71551876930005],[-9.20654296875006,38.71551876930005],[-9.20654296875006,38.7133756863001],[-9.2037963867198,38.71337567692315],[-9.2037963867198,38.71123253287638],[-9.20104980468989,38.71123253006965],[-9.20104980468989,38.7090893205216],[-9.20104980468989,38.70694604356267],[-9.2037963867198,38.70694604222311],[-9.2037963867198,38.70480270436694]]],"type":"Polygon"}
+}

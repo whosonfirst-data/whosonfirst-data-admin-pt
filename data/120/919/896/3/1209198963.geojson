@@ -1,0 +1,63 @@
+{
+  "id": 1209198963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77048,37.40487,-8.77048,37.40487",
+    "geom:latitude":37.40487,
+    "geom:longitude":-8.77048,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Fonte Ferrenha",
+    "gn:country_code":"PT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268068,
+    "gn:latitude":37.40487,
+    "gn:longitude":-8.77048,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fonte Ferrenha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268068
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d81ed7d6990d8fcd8a8051c32bab087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209198963
+        }
+    ],
+    "wof:id":1209198963,
+    "wof:lastmodified":1536294676,
+    "wof:name":"Fonte Ferrenha",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.770480000000001,
+    37.40487,
+    -8.770480000000001,
+    37.40487
+],
+  "geometry": {"coordinates":[-8.77048,37.40487],"type":"Point"}
+}

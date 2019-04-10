@@ -1,0 +1,67 @@
+{
+  "id": 1293760083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33254,39.92722,-8.33254,39.92722",
+    "geom:latitude":39.92722,
+    "geom:longitude":-8.33254,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1008",
+    "gn:admin3_code":"100801.0",
+    "gn:asciiname":"Fato",
+    "gn:country_code":"PT",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268324,
+    "gn:latitude":39.92722,
+    "gn:longitude":-8.33254,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268324
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a2e286b70d6e6a5af68650a1196bfd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293760083,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1293760083,
+    "wof:lastmodified":1536890877,
+    "wof:name":"Fato",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33254,
+    39.92722,
+    -8.33254,
+    39.92722
+],
+  "geometry": {"coordinates":[-8.33254,39.92722],"type":"Point"}
+}

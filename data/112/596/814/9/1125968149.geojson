@@ -1,0 +1,82 @@
+{
+  "id": 1125968149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39724,38.97339,-9.39724,38.97339",
+    "geom:latitude":38.97339,
+    "geom:longitude":-9.39724,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.97339,
+    "lbl:longitude":-9.39724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2268111,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fonte Boa dos Nabos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":188186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741223,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268111,
+        "gp:id":741223,
+        "qs_pg:id":188186
+    },
+    "wof:country":"PT",
+    "wof:created":1497298054,
+    "wof:geomhash":"8e5448d44801fb656f9ad1d31bdc1e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125968149,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125968149,
+    "wof:lastmodified":1509403783,
+    "wof:name":"Fonte Boa dos Nabos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39724,
+    38.97339,
+    -9.39724,
+    38.97339
+],
+  "geometry": {"coordinates":[-9.39724,38.97339],"type":"Point"}
+}

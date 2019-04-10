@@ -1,0 +1,80 @@
+{
+  "id": 1126001579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.876153,40.00053,-6.876153,40.00053",
+    "geom:latitude":40.00053,
+    "geom:longitude":-6.876153,
+    "gn:gn_country":"PT",
+    "iso:country":"PT",
+    "lbl:latitude":40.00053,
+    "lbl:longitude":-6.876153,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:name":"Fonte Santa",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Castelo Branco",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":42129,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29384393,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Castelo Branco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29384393,
+        "qs_pg:id":42129
+    },
+    "wof:country":"PT",
+    "wof:created":1497299678,
+    "wof:geomhash":"a654c3ef97c325a6a914da388a31a3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126001579,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1126001579,
+    "wof:lastmodified":1509406184,
+    "wof:name":"Fonte Santa",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.876153,
+    40.00053,
+    -6.876153,
+    40.00053
+],
+  "geometry": {"coordinates":[-6.876153,40.00053],"type":"Point"}
+}

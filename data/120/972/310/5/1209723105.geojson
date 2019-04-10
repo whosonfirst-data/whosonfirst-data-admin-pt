@@ -1,0 +1,67 @@
+{
+  "id": 1209723105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33379,37.9884,-7.33379,37.9884",
+    "geom:latitude":37.9884,
+    "geom:longitude":-7.33379,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0213",
+    "gn:admin3_code":"21307.0",
+    "gn:asciiname":"Monte Novo da Ferradura",
+    "gn:country_code":"PT",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265862,
+    "gn:latitude":37.9884,
+    "gn:longitude":-7.33379,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Novo da Ferradura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265862
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6959f6ecd693310bf59c719b3058c14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209723105,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1209723105,
+    "wof:lastmodified":1536385473,
+    "wof:name":"Monte Novo da Ferradura",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33379,
+    37.9884,
+    -7.33379,
+    37.9884
+],
+  "geometry": {"coordinates":[-7.33379,37.9884],"type":"Point"}
+}

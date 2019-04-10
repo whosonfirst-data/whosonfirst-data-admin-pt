@@ -1,0 +1,67 @@
+{
+  "id": 1226726201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00633,41.19068,-8.00633,41.19068",
+    "geom:latitude":41.19068,
+    "geom:longitude":-8.00633,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1302",
+    "gn:admin3_code":"130211.0",
+    "gn:asciiname":"Boscras",
+    "gn:country_code":"PT",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742105,
+    "gn:latitude":41.19068,
+    "gn:longitude":-8.00633,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Boscras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742105
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6619b4b4d603a4b425c14d7b31a52206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226726201,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1226726201,
+    "wof:lastmodified":1536743478,
+    "wof:name":"Boscras",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00633,
+    41.19068,
+    -8.00633,
+    41.19068
+],
+  "geometry": {"coordinates":[-8.00633,41.19068],"type":"Point"}
+}

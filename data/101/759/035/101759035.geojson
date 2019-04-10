@@ -1,0 +1,93 @@
+{
+  "id": 101759035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-9.37904676789,38.7083730017,-9.37123152375,38.7160872559",
+    "geom:latitude":38.712545,
+    "geom:longitude":-9.37533,
+    "iso:country":"PT",
+    "lbl:latitude":38.712629,
+    "lbl:longitude":-9.375404,
+    "mps:latitude":38.712629,
+    "mps:longitude":-9.375404,
+    "mz:hierarchy_label":1,
+    "name:bpy_x_preferred":[
+        "\u09b2\u09bf\u09ad\u09cd\u09b0\u09be\u09ae\u09c7\u09a8\u099f\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Livramento"
+    ],
+    "name:fra_x_preferred":[
+        "Livramento"
+    ],
+    "name:nld_x_preferred":[
+        "Livramento"
+    ],
+    "name:por_x_preferred":[
+        "Livramento"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0432\u0440\u0430\u043c\u0435\u043d\u0442\u0443"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Livramento",
+    "qs:loc_alt":"Livramento",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026fa0d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267048,
+        "gp:id":742682,
+        "qs:id":1253842
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"122a6b1de5e023104e2bfa6f11ef0ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759035,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759035,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1467243093,
+    "wof:name":"Livramento",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37904676789378,
+    38.70837300165886,
+    -9.37123152374869,
+    38.71608725585804
+],
+  "geometry": {"coordinates":[[[-9.37279256116227,38.70981809739118],[-9.37730848532578,38.70837300165886],[-9.3774574249482,38.70847229474055],[-9.3771504178701,38.70853517401423],[-9.37845562903459,38.71290401494787],[-9.37895315985719,38.71280211523538],[-9.37904676789378,38.71467427596798],[-9.37703598881973,38.71608725585804],[-9.37674370344735,38.71510903207093],[-9.3733925379513,38.71579517773722],[-9.37313152377084,38.7149214002124],[-9.37201446871489,38.71515008609276],[-9.37123152374869,38.71252873076708],[-9.37234853890021,38.71230005538871],[-9.37208756316539,38.71142626969782],[-9.37320455842189,38.71119758489994],[-9.37279256116227,38.70981809739118]]],"type":"Polygon"}
+}

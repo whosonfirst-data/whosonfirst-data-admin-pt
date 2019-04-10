@@ -1,0 +1,67 @@
+{
+  "id": 1226265029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5415,38.79235,-7.5415,38.79235",
+    "geom:latitude":38.79235,
+    "geom:longitude":-7.5415,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0704",
+    "gn:admin3_code":"70402.0",
+    "gn:asciiname":"Aldeia dos Mourinhos",
+    "gn:country_code":"PT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272072,
+    "gn:latitude":38.79235,
+    "gn:longitude":-7.5415,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldeia dos Mourinhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272072
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"33d1d340e5c543f1050668656cf5af9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226265029,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1226265029,
+    "wof:lastmodified":1536906084,
+    "wof:name":"Aldeia dos Mourinhos",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5415,
+    38.79235,
+    -7.5415,
+    38.79235
+],
+  "geometry": {"coordinates":[-7.5415,38.79235],"type":"Point"}
+}

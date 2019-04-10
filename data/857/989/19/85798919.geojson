@@ -1,0 +1,111 @@
+{
+  "id": 85798919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":906050.594625,
+    "geom:bbox":"-9.2076472856,38.7440992303,-9.19555664062,38.7554992179",
+    "geom:latitude":38.749943,
+    "geom:longitude":-9.202092,
+    "gn:latitude":38.75,
+    "gn:longitude":-9.2,
+    "iso:country":"PT",
+    "lbl:latitude":38.752202,
+    "lbl:longitude":-9.201822,
+    "mps:latitude":38.750144,
+    "mps:longitude":-9.202207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_colloquial":[
+        "Benfica"
+    ],
+    "name:por_x_preferred":[
+        "Benfica"
+    ],
+    "name:unk_x_variant":[
+        "Benfica"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Benfica",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Benfica",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":93,
+    "qs:photo_sum":429,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270962,
+        "gp:id":737200,
+        "qs:id":1074860,
+        "qs_pg:id":1074860
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c1fd18b2580725b6da50971f52ea6b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798919,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798919,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497313293,
+    "wof:name":"Benfica",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20764728560295,
+    38.744099230266,
+    -9.19555664062113,
+    38.75549921790362
+],
+  "geometry": {"coordinates":[[[-9.20104980468909,38.75549921790362],[-9.19830322265733,38.75432520626541],[-9.19830322265838,38.75408327580006],[-9.19830322265787,38.75194134337627],[-9.19555664062113,38.75194134012305],[-9.19555664062148,38.74979935086269],[-9.19555664062148,38.74765729686692],[-9.19830322265838,38.74765729544023],[-9.19913856532793,38.74658621232523],[-9.2002144620177,38.74658621232523],[-9.20104980248206,38.74551518049907],[-9.20187806120163,38.74445321092138],[-9.2037963867198,38.74527306577826],[-9.20654296875006,38.744099230266],[-9.20764728560295,38.74551512062519],[-9.20764726889365,38.74551518490009],[-9.20709039465447,38.74765728795032],[-9.20737118766857,38.74873736941733],[-9.20654296874986,38.74979935086269],[-9.20654296874986,38.75194134146261],[-9.20654296874997,38.75408327580006],[-9.20654296874977,38.75549921790211],[-9.2037963867198,38.7543252062663],[-9.20104980468909,38.75549921790362]]],"type":"Polygon"}
+}

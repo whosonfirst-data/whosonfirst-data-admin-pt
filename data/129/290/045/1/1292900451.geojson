@@ -1,0 +1,67 @@
+{
+  "id": 1292900451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56667,40.18333,-8.56667,40.18333",
+    "geom:latitude":40.18333,
+    "geom:longitude":-8.56667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61008.0",
+    "gn:asciiname":"Montes de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737420,
+    "gn:latitude":40.18333,
+    "gn:longitude":-8.56667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Montes de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737420
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"705c04015fc9addc8c2e7a14c25c6b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292900451,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1292900451,
+    "wof:lastmodified":1536638209,
+    "wof:name":"Montes de Cima",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56667,
+    40.18333,
+    -8.56667,
+    40.18333
+],
+  "geometry": {"coordinates":[-8.56667,40.18333],"type":"Point"}
+}

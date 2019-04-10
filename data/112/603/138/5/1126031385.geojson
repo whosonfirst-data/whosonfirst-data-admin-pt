@@ -1,0 +1,87 @@
+{
+  "id": 1126031385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46932,40.1382,-8.46932,40.1382",
+    "geom:latitude":40.1382,
+    "geom:longitude":-8.46932,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.1382,
+    "lbl:longitude":-8.46932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sernache dos Alhos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2740844,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cernache",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Coimbra",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1025723,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":739339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Coimbra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740844,
+        "gp:id":739339,
+        "qs_pg:id":1025723
+    },
+    "wof:country":"PT",
+    "wof:created":1497301493,
+    "wof:geomhash":"28e19bf89f0b0d2209ee6eff6d0eb35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126031385,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1126031385,
+    "wof:lastmodified":1509407931,
+    "wof:name":"Cernache",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46932,
+    40.1382,
+    -8.46932,
+    40.1382
+],
+  "geometry": {"coordinates":[-8.46932,40.1382],"type":"Point"}
+}

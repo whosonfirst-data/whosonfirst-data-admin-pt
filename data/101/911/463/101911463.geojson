@@ -1,0 +1,81 @@
+{
+  "id": 101911463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":529824.822419,
+    "geom:bbox":"-8.71123591948,37.1079845164,-8.69653227474,37.1147963391",
+    "geom:latitude":37.111746,
+    "geom:longitude":-8.704796,
+    "iso:country":"PT",
+    "lbl:latitude":37.111497,
+    "lbl:longitude":-8.705297,
+    "mps:latitude":37.111497,
+    "mps:longitude":-8.705297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"3",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Luz",
+    "qs:la_lc":"*PT10807036",
+    "qs:level":"locality",
+    "qs:loc":"Funchal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":32.65,
+    "wd:longitude":-16.916667,
+    "wd:population":111892,
+    "wd:wordcount":3051,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29382343,
+        "qs:id":135613,
+        "qs_pg:id":135613
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9fc3dd31e8dbf737f2f97ed552b64f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101911463,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101911463,
+    "wof:lastmodified":1527715544,
+    "wof:name":"Funchal",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:population":111892,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71123591947605,
+    37.10798451641489,
+    -8.69653227473975,
+    37.11479633912398
+],
+  "geometry": {"coordinates":[[[-8.69810907322403,37.11479633912398],[-8.69786762810782,37.11391813308103],[-8.69677369853054,37.11413814041174],[-8.69653227473975,37.11325992910969],[-8.7009079072746,37.11237983690575],[-8.70042498505921,37.11062343414721],[-8.70261271555802,37.11018332516738],[-8.70237124233887,37.10930512723417],[-8.70893421675879,37.10798451641489],[-8.70965888935348,37.11061904584062],[-8.71075273557818,37.11039889008532],[-8.71123591947605,37.11215522644505],[-8.70904817073784,37.11259553827824],[-8.7092897505832,37.11347370990575],[-8.70272628723262,37.11479436151961],[-8.70248478298606,37.11391617045342],[-8.69810907322403,37.11479633912398]]],"type":"Polygon"}
+}

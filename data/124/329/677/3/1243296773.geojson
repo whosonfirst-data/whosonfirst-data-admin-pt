@@ -1,0 +1,67 @@
+{
+  "id": 1243296773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39876,41.74553,-8.39876,41.74553",
+    "geom:latitude":41.74553,
+    "geom:longitude":-8.39876,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31301.0",
+    "gn:asciiname":"Saragoche",
+    "gn:country_code":"PT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504583,
+    "gn:latitude":41.74553,
+    "gn:longitude":-8.39876,
+    "gn:modification_date":"2013-03-13",
+    "gn:name":"Saragoche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504583
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"13ceab864400d37881b0dce9474a0c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243296773,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1243296773,
+    "wof:lastmodified":1537020403,
+    "wof:name":"Saragoche",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39876,
+    41.74553,
+    -8.39876,
+    41.74553
+],
+  "geometry": {"coordinates":[-8.39876,41.74553],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 101851451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.796662,41.13073,-7.796662,41.13073",
+    "geom:latitude":41.13073,
+    "geom:longitude":-7.796662,
+    "iso:country":"PT",
+    "lbl:latitude":41.13073,
+    "lbl:longitude":-7.796662,
+    "mps:latitude":41.13073,
+    "mps:longitude":-7.796662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cambres"
+    ],
+    "name:deu_x_preferred":[
+        "Cambres"
+    ],
+    "name:dut_x_preferred":[
+        "Cambres"
+    ],
+    "name:eng_x_preferred":[
+        "Cambres"
+    ],
+    "name:fre_x_preferred":[
+        "Cambres"
+    ],
+    "name:ger_x_preferred":[
+        "Cambres"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0431\u0440\u0435\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Cambres"
+    ],
+    "name:msa_x_preferred":[
+        "Cambres"
+    ],
+    "name:nan_x_preferred":[
+        "Cambres"
+    ],
+    "name:oci_x_preferred":[
+        "Cambres"
+    ],
+    "name:por_x_preferred":[
+        "Cambres"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0431\u0440\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Cambres"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cambres",
+    "qs:loc_alt":"Cambres",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.133333,
+    "wd:longitude":-7.8,
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026fe952-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2741674,
+        "gp:id":29382287,
+        "qs:id":1248744,
+        "wd:id":"Q64446"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c13267e8c04d61164d5f29fff9bc1b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851451,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101851451,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741797,
+    "wof:name":"Cambres",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.796662,
+    41.13073,
+    -7.796662,
+    41.13073
+],
+  "geometry": {"coordinates":[-7.796662,41.13073],"type":"Point"}
+}

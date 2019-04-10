@@ -1,0 +1,155 @@
+{
+  "id": 101779645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":979443.496899,
+    "geom:bbox":"-7.89777229275,38.1606435801,-7.88435154122,38.1751003448",
+    "geom:latitude":38.166526,
+    "geom:longitude":-7.891729,
+    "iso:country":"PT",
+    "lbl:latitude":38.165604,
+    "lbl:longitude":-7.892746,
+    "mps:latitude":38.165604,
+    "mps:longitude":-7.892746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Cuba"
+    ],
+    "name:cat_x_preferred":[
+        "Cuba"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u5df4"
+    ],
+    "name:dut_x_preferred":[
+        "Cuba"
+    ],
+    "name:eng_x_preferred":[
+        "Cuba Municipality"
+    ],
+    "name:fin_x_preferred":[
+        "Cuba"
+    ],
+    "name:fre_x_preferred":[
+        "Cuba"
+    ],
+    "name:ger_x_preferred":[
+        "Cuba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Cuba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30fc\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ubc14"
+    ],
+    "name:may_x_preferred":[
+        "Cuba"
+    ],
+    "name:nan_x_preferred":[
+        "Cuba"
+    ],
+    "name:nau_x_preferred":[
+        "Cuba"
+    ],
+    "name:nob_x_preferred":[
+        "Cuba"
+    ],
+    "name:pol_x_preferred":[
+        "Cuba"
+    ],
+    "name:por_x_preferred":[
+        "Cuba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cuba"
+    ],
+    "name:tur_x_preferred":[
+        "Cuba Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0648\u0628\u0627\u060c \u067e\u0631\u062a\u06af\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Cuba"
+    ],
+    "name:vol_x_preferred":[
+        "Cuba"
+    ],
+    "name:war_x_preferred":[
+        "Cuba"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Cuba",
+    "qs:la_lc":"*PT10207012",
+    "qs:level":"locality",
+    "qs:loc":"Cuba",
+    "qs:loc_alt":"Cuba",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a3cfa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268789,
+        "gp:id":740210,
+        "qs:id":2,
+        "wd:id":"Q552580"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7a836b332b5aa387b17a46e2253237c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779645,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779645,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815495,
+    "wof:name":"Cuba",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89777229275455,
+    38.16064358013688,
+    -7.88435154122226,
+    38.17510034481558
+],
+  "geometry": {"coordinates":[[[-7.89070101953763,38.17137190283182],[-7.8899879273323,38.1687338836374],[-7.88776376923545,38.16915604532096],[-7.88752611593077,38.16827669538395],[-7.88641404125087,38.16848775367765],[-7.88570117367249,38.16584968285235],[-7.88458913297291,38.16606071864885],[-7.88435154122226,38.16518135470312],[-7.88546356860797,38.164970322106],[-7.88522597227353,38.16409095945681],[-7.8863379803833,38.1638799171605],[-7.88610037946597,38.1630005558082],[-7.88943632808247,38.16236736112984],[-7.88919869595986,38.16148800747294],[-7.89364649072201,38.16064358013688],[-7.89388417608677,38.16152292099423],[-7.8949961231782,38.16131177871745],[-7.89523383058565,38.16219111447094],[-7.89634578502222,38.16197995609662],[-7.89777229275455,38.16725591143802],[-7.89666025845054,38.16746708901871],[-7.89713580428969,38.16922573197354],[-7.89491166452729,38.16964806124497],[-7.8951494239239,38.17052738627007],[-7.89403733177744,38.17073853475915],[-7.89427508659543,38.17161786108238],[-7.89316297516694,38.17182899987341],[-7.89340072540529,38.17270832749483],[-7.89228859469341,38.17291945658803],[-7.89252634035199,38.17379878550742],[-7.89141419035576,38.17400990490194],[-7.89165193143361,38.17488923511996],[-7.89053976215263,38.17510034481558],[-7.88958890352501,38.17158299972431],[-7.89070101953763,38.17137190283182]]],"type":"Polygon"}
+}

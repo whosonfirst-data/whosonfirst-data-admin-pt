@@ -1,0 +1,89 @@
+{
+  "id": 101759131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":448034.860668,
+    "geom:bbox":"-9.14142611632,38.8122022382,-9.12850287898,38.8184833194",
+    "geom:latitude":38.815443,
+    "geom:longitude":-9.134358,
+    "gn:population":7182,
+    "iso:country":"PT",
+    "lbl:latitude":38.815162,
+    "lbl:longitude":-9.132645,
+    "mps:latitude":38.815162,
+    "mps:longitude":-9.132645,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_colloquial":[
+        "Apelacao"
+    ],
+    "name:por_x_preferred":[
+        "Apela\u00e7\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Apela\u00e7\u00e3o",
+    "qs:loc_alt":"Apelacao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026938be-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271623,
+        "gp:id":736263,
+        "qs:id":206168,
+        "qs_pg:id":206168
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5dcc49f7514f57694657dbe787c82519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759131,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759131,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1505337767,
+    "wof:name":"Apela\u00e7\u00e3o",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":7182,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14142611631911,
+    38.81220223818315,
+    -9.12850287897851,
+    38.81848331937232
+],
+  "geometry": {"coordinates":[[[-9.13578509538894,38.81799661570403],[-9.1342961979833,38.81783118265884],[-9.13115705675892,38.81698602925235],[-9.12946674994589,38.81698602925235],[-9.12918448658547,38.81697860126917],[-9.12922527754392,38.81686529305142],[-9.12898380514213,38.81445056903266],[-9.12850287897851,38.81284748182088],[-9.13169997672514,38.81220223818315],[-9.13195844387843,38.8130767050003],[-9.13419694797187,38.8126248248638],[-9.13471396453417,38.81437373858006],[-9.13788826162966,38.81373284712942],[-9.14142611631911,38.81665542274237],[-9.14045374423102,38.81795191885976],[-9.13948756148079,38.81848331937232],[-9.13910606050808,38.81719356200972],[-9.13574811216745,38.81787154186298],[-9.13578509538894,38.81799661570403]]],"type":"Polygon"}
+}

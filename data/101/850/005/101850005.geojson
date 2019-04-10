@@ -1,0 +1,114 @@
+{
+  "id": 101850005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.12157,38.649856,-27.12157,38.649856",
+    "geom:latitude":38.649856,
+    "geom:longitude":-27.12157,
+    "iso:country":"PT",
+    "lbl:latitude":38.649856,
+    "lbl:longitude":-27.12157,
+    "mps:latitude":38.649856,
+    "mps:longitude":-27.12157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:dut_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:eng_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:fre_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:ger_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:por_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:por_x_variant":[
+        "Port Judea",
+        "Pt Judea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0443-\u0416\u0443\u0434\u0435\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Porto Judeu"
+    ],
+    "name:unk_x_variant":[
+        "Port Judea"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Porto Judeu",
+    "qs:loc_alt":"Porto Judeu",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650fb4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372770,
+        "gp:id":538226,
+        "qs:id":1218817,
+        "qs_pg:id":1218817,
+        "wd:id":"Q1999450",
+        "wk:page":"Porto Judeu"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aebb10ffdd836484d55a3860ce1dc59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101850005,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":101850005,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741217,
+    "wof:name":"Porto Judeu",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.12157,
+    38.649856,
+    -27.12157,
+    38.649856
+],
+  "geometry": {"coordinates":[-27.12157,38.649856],"type":"Point"}
+}

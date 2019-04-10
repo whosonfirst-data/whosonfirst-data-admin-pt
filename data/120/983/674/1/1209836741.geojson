@@ -1,0 +1,67 @@
+{
+  "id": 1209836741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02465,39.99514,-8.02465,39.99514",
+    "geom:latitude":39.99514,
+    "geom:longitude":-8.02465,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61208.0",
+    "gn:asciiname":"Trinhao",
+    "gn:country_code":"PT",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262501,
+    "gn:latitude":39.99514,
+    "gn:longitude":-8.02465,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Trinh\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262501
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"226d5c981d22f8b80a8e525e8bfe760e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209836741,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1209836741,
+    "wof:lastmodified":1536394567,
+    "wof:name":"Trinhao",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02465,
+    39.99514,
+    -8.02465,
+    39.99514
+],
+  "geometry": {"coordinates":[-8.02465,39.99514],"type":"Point"}
+}

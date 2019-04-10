@@ -1,0 +1,73 @@
+{
+  "id": 1276444031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9465,38.07203,-7.9465,38.07203",
+    "geom:latitude":38.07203,
+    "geom:longitude":-7.9465,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"20514.0",
+    "gn:asciiname":"Sao Brissos",
+    "gn:country_code":"PT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263375,
+    "gn:latitude":38.07203,
+    "gn:longitude":-7.9465,
+    "gn:modification_date":"2018-02-12",
+    "gn:name":"S\u00e3o Brissos",
+    "gn:population":572,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Brissos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263375
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"53e6bebb9e78aa4fa8c1ce3909a36d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276444031,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1276444031,
+    "wof:lastmodified":1537683145,
+    "wof:name":"Sao Brissos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:population":572,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9465,
+    38.07203,
+    -7.9465,
+    38.07203
+],
+  "geometry": {"coordinates":[-7.9465,38.07203],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209578687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40687,39.72059,-8.40687,39.72059",
+    "geom:latitude":39.72059,
+    "geom:longitude":-8.40687,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1411",
+    "gn:admin3_code":"141104.0",
+    "gn:asciiname":"Almogade",
+    "gn:country_code":"PT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271906,
+    "gn:latitude":39.72059,
+    "gn:longitude":-8.40687,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Almogade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271906
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"646bfcb06154ed7baeb3d9cfd84087b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209578687
+        }
+    ],
+    "wof:id":1209578687,
+    "wof:lastmodified":1536282856,
+    "wof:name":"Almogade",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40687,
+    39.72059,
+    -8.40687,
+    39.72059
+],
+  "geometry": {"coordinates":[-8.40687,39.72059],"type":"Point"}
+}

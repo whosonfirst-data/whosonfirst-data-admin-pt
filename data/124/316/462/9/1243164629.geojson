@@ -1,0 +1,67 @@
+{
+  "id": 1243164629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09526,39.66025,-8.09526,39.66025",
+    "geom:latitude":39.66025,
+    "geom:longitude":-8.09526,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0510",
+    "gn:admin3_code":"51003.0",
+    "gn:asciiname":"Quinta das Laranjeiras",
+    "gn:country_code":"PT",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264208,
+    "gn:latitude":39.66025,
+    "gn:longitude":-8.09526,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Quinta das Laranjeiras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264208
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9ebc05c8ba7ed77e7e0b346caf703421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243164629,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1243164629,
+    "wof:lastmodified":1536715229,
+    "wof:name":"Quinta das Laranjeiras",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09526,
+    39.66025,
+    -8.09526,
+    39.66025
+],
+  "geometry": {"coordinates":[-8.09526,39.66025],"type":"Point"}
+}

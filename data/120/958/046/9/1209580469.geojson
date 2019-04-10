@@ -1,0 +1,63 @@
+{
+  "id": 1209580469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63978,41.8663,-8.63978,41.8663",
+    "geom:latitude":41.8663,
+    "geom:longitude":-8.63978,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160519.0",
+    "gn:asciiname":"Sabariz",
+    "gn:country_code":"PT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734933,
+    "gn:latitude":41.8663,
+    "gn:longitude":-8.63978,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sabariz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734933
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6d8ba21fc26910785f606fbc33feb674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209580469
+        }
+    ],
+    "wof:id":1209580469,
+    "wof:lastmodified":1536282805,
+    "wof:name":"Sabariz",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63978,
+    41.8663,
+    -8.63978,
+    41.8663
+],
+  "geometry": {"coordinates":[-8.63978,41.8663],"type":"Point"}
+}

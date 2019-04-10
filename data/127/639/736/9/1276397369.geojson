@@ -1,0 +1,67 @@
+{
+  "id": 1276397369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.65,37.75,-25.65,37.75",
+    "geom:latitude":37.75,
+    "geom:longitude":-25.65,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4203",
+    "gn:admin3_code":"420314.0",
+    "gn:asciiname":"Belem",
+    "gn:country_code":"PT",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373305,
+    "gn:latitude":37.75,
+    "gn:longitude":-25.65,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Bel\u00e9m",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373305
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c77f17e4ba78c1c031ac0fdc553687e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276397369,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1276397369,
+    "wof:lastmodified":1536693083,
+    "wof:name":"Belem",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.65,
+    37.75,
+    -25.65,
+    37.75
+],
+  "geometry": {"coordinates":[-25.65,37.75],"type":"Point"}
+}

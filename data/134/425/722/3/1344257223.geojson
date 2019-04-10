@@ -1,0 +1,67 @@
+{
+  "id": 1344257223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09331,41.4008,-8.09331,41.4008",
+    "geom:latitude":41.4008,
+    "geom:longitude":-8.09331,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0305",
+    "gn:admin3_code":"30503.0",
+    "gn:asciiname":"Borba",
+    "gn:country_code":"PT",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742127,
+    "gn:latitude":41.4008,
+    "gn:longitude":-8.09331,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Borba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742127
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"358ba9e9efdd7aaf85e9fc914c0cd27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344257223,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344257223,
+    "wof:lastmodified":1537085687,
+    "wof:name":"Borba",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09331,
+    41.4008,
+    -8.09331,
+    41.4008
+],
+  "geometry": {"coordinates":[-8.09331,41.4008],"type":"Point"}
+}

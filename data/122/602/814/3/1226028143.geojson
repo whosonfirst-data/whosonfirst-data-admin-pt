@@ -1,0 +1,67 @@
+{
+  "id": 1226028143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32945,39.25461,-9.32945,39.25461",
+    "geom:latitude":39.25461,
+    "geom:longitude":-9.32945,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110801.0",
+    "gn:asciiname":"Areia Branca",
+    "gn:country_code":"PT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271583,
+    "gn:latitude":39.25461,
+    "gn:longitude":-9.32945,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Areia Branca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271583
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"07edc0ffc21f496c93ee2c8a63cbec6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226028143,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1226028143,
+    "wof:lastmodified":1536750450,
+    "wof:name":"Areia Branca",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32945,
+    39.25461,
+    -9.32945,
+    39.25461
+],
+  "geometry": {"coordinates":[-9.32945,39.25461],"type":"Point"}
+}

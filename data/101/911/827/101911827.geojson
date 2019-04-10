@@ -1,0 +1,73 @@
+{
+  "id": 101911827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:bbox":"-8.75869147555,41.6214704278,-8.74738763056,41.6306123992",
+    "geom:latitude":41.625877,
+    "geom:longitude":-8.752822,
+    "iso:country":"PT",
+    "lbl:latitude":41.624891,
+    "lbl:longitude":-8.753378,
+    "mps:latitude":41.624891,
+    "mps:longitude":-8.753378,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viana do Castelo",
+    "qs:a1r":"1",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Alvar\u00e3es",
+    "qs:la_lc":"*PT11609025",
+    "qs:level":"locality",
+    "qs:loc":"Al\u00e9m do Ribeiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743123,
+        "gp:id":29386991,
+        "qs:id":234176,
+        "qs_pg:id":234176
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f3b3cf6bb13a73ae07f5a675ec9f7c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101911827,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":101911827,
+    "wof:lastmodified":1497298238,
+    "wof:name":"Al\u00e9m do Ribeiro",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75869147555301,
+    41.62147042779009,
+    -8.74738763056274,
+    41.6306123991817
+],
+  "geometry": {"coordinates":[[[-8.74738763056274,41.62541856054713],[-8.7508590959435,41.6247563771139],[-8.75031199418555,41.62301167100844],[-8.7514805448061,41.62278871848764],[-8.75120699456738,41.62191636628938],[-8.75354404317454,41.62147042779009],[-8.75381762377629,41.62234277260688],[-8.7561546730501,41.62189677227565],[-8.75642829456478,41.62276910781884],[-8.75759682324536,41.62254608354317],[-8.75869147555301,41.62603539203542],[-8.75518568504668,41.62670446832459],[-8.7554593289567,41.62757680179493],[-8.75429070208372,41.62779980368936],[-8.75456434136191,41.62867213896061],[-8.7533956918769,41.62889513093285],[-8.75366932652258,41.62976746800462],[-8.74924020797732,41.6306123991817],[-8.74738763056274,41.62541856054713]]],"type":"Polygon"}
+}

@@ -1,0 +1,134 @@
+{
+  "id": 101777115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":309724.812271,
+    "geom:bbox":"-9.00777679782,39.550299674,-8.99123041474,39.5590139818",
+    "geom:latitude":39.554636,
+    "geom:longitude":-8.998719,
+    "iso:country":"PT",
+    "lbl:latitude":39.553434,
+    "lbl:longitude":-8.99803,
+    "mps:latitude":39.553434,
+    "mps:longitude":-8.99803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Vestiaria coccinea"
+    ],
+    "name:bre_x_preferred":[
+        "Drepanis coccinea"
+    ],
+    "name:cat_x_preferred":[
+        "Vestiaria coccinea"
+    ],
+    "name:ceb_x_preferred":[
+        "Vestiaria coccinea"
+    ],
+    "name:dan_x_preferred":[
+        "Iiwi"
+    ],
+    "name:dut_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:eng_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:eus_x_preferred":[
+        "Iiwi"
+    ],
+    "name:fin_x_preferred":[
+        "Iivi"
+    ],
+    "name:fra_x_preferred":[
+        "Iiwi rouge"
+    ],
+    "name:fre_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:ger_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:hun_x_preferred":[
+        "Skarl\u00e1tgyapjasmad\u00e1r"
+    ],
+    "name:ita_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0448\u0442\u0438\u0430\u0440\u0438\u044f"
+    ],
+    "name:por_x_preferred":[
+        "Vestiaria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0448\u0442\u0438\u0430\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Vestiaria coccinea"
+    ],
+    "name:vie_x_preferred":[
+        "Vestiaria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vestiaria",
+    "qs:la_lc":"*PT11001159",
+    "qs:level":"locality",
+    "qs:loc":"Vestiaria",
+    "qs:loc_alt":"Vestiaria",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02719630-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2261698,
+        "gp:id":750526,
+        "qs:id":900997,
+        "wd:id":"Q1683086"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f1e0eff7981d5db5189949d0ceb6e3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777115,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777115,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498175,
+    "wof:name":"Vestiaria",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00777679781976,
+    39.5502996740089,
+    -8.99123041474127,
+    39.5590139817815
+],
+  "geometry": {"coordinates":[[[-9.00577522534036,39.5590139817815],[-9.00551322391584,39.5581400456968],[-9.00438142681935,39.55836487505974],[-9.00385748101803,39.55661698991713],[-9.00159392196383,39.55706659518484],[-9.00133199144136,39.55619264260611],[-9.00020021562869,39.55641742203295],[-8.99993830873848,39.55554346395729],[-8.99880654002169,39.5557682267397],[-8.99854465676225,39.55489426316711],[-8.99741289514219,39.55511900930526],[-8.99715103551279,39.55424504023659],[-8.99149219531409,39.5553685564704],[-8.99123041474127,39.55449456782696],[-8.99236218243954,39.5542698943475],[-8.99183862289192,39.55252191817431],[-8.9941020825915,39.55207254592199],[-8.99436388519212,39.55294652795698],[-8.99775906562735,39.55227236059523],[-8.99723538706826,39.55052441566869],[-8.99836707265581,39.5502996740089],[-8.99967641162311,39.55466950390559],[-9.00080815972387,39.5544447315205],[-9.00107007069494,39.55531868805133],[-9.00220182589112,39.55509389902198],[-9.00246376049313,39.55596785005548],[-9.00472727831271,39.55551822558397],[-9.00525123226981,39.55726610763566],[-9.00751477846256,39.55681641658293],[-9.00777679781976,39.5576903475997],[-9.00664501424916,39.55791520321009],[-9.00690702953028,39.55878913577249],[-9.00577522534036,39.5590139817815]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125375791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58805,39.10957,-7.58805,39.10957",
+    "geom:latitude":39.10957,
+    "geom:longitude":-7.58805,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":1133,
+    "gn:population":1133,
+    "iso:country":"PT",
+    "lbl:latitude":39.10957,
+    "lbl:longitude":-7.58805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6930693,
+    "qs_pg:gn_pop":1133,
+    "qs_pg:name":"Cabe\u00e7o de Vide",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":652912,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930693,
+        "qs_pg:id":652912
+    },
+    "wof:country":"PT",
+    "wof:created":1497047730,
+    "wof:geomhash":"3ab71073f56d009cca9ae0fea1238243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125375791,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1125375791,
+    "wof:lastmodified":1509389453,
+    "wof:name":"Cabe\u00e7o de Vide",
+    "wof:parent_id":85687373,
+    "wof:placetype":"localadmin",
+    "wof:population":1133,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58805,
+    39.10957,
+    -7.58805,
+    39.10957
+],
+  "geometry": {"coordinates":[-7.58805,39.10957],"type":"Point"}
+}

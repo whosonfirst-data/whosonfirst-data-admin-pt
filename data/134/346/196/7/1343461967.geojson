@@ -1,0 +1,67 @@
+{
+  "id": 1343461967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55282,40.91106,-8.55282,40.91106",
+    "geom:latitude":40.91106,
+    "geom:longitude":-8.55282,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10928.0",
+    "gn:asciiname":"Macieira",
+    "gn:country_code":"PT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738064,
+    "gn:latitude":40.91106,
+    "gn:longitude":-8.55282,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Macieira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738064
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"026a23c6bdc70e7222994ca465561391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343461967,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1343461967,
+    "wof:lastmodified":1536743674,
+    "wof:name":"Macieira",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55282,
+    40.91106,
+    -8.55282,
+    40.91106
+],
+  "geometry": {"coordinates":[-8.55282,40.91106],"type":"Point"}
+}

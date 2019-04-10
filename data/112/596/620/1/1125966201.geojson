@@ -1,0 +1,80 @@
+{
+  "id": 1125966201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2543,39.092707,-9.2543,39.092707",
+    "geom:latitude":39.092707,
+    "geom:longitude":-9.2543,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":39.092707,
+    "lbl:longitude":-9.2543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Torres Vedras-S\u00e3o Pedro e Santiago",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":73423,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":22660997,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22660997,
+        "qs_pg:id":73423
+    },
+    "wof:country":"PT",
+    "wof:created":1497297986,
+    "wof:geomhash":"657c80e11fd0ab432c99bd411d94631f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125966201,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125966201,
+    "wof:lastmodified":1509403671,
+    "wof:name":"Torres Vedras-S\u00e3o Pedro e Santiago",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2543,
+    39.092707,
+    -9.2543,
+    39.092707
+],
+  "geometry": {"coordinates":[-9.2543,39.092707],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85862555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":56804.504521,
+    "geom:bbox":"-9.20379638672,38.7048027044,-9.20104980469,38.7069460436",
+    "geom:latitude":38.705874,
+    "geom:longitude":-9.202423,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.710966,
+    "lbl:longitude":-9.200764,
+    "mps:latitude":38.705875,
+    "mps:longitude":-9.202423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Alto da Ajuda"
+    ],
+    "name:unk_x_variant":[
+        "Alto da Ajuda"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Alto da Ajuda",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":35,
+    "qs:photo_sum":35,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105216,
+        "qs:id":338576,
+        "qs_pg:id":338576
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4c4b59ec97f658ff70efb464c281ed26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862555,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862555,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Alto da Ajuda",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2037963867198,
+    38.70480270436694,
+    -9.20104980468989,
+    38.70694604356267
+],
+  "geometry": {"coordinates":[[[-9.2037963867198,38.70480270436694],[-9.2037963867198,38.70694604222311],[-9.20104980468989,38.70694604356267],[-9.20104980468989,38.70480270538594],[-9.2037963867198,38.70480270436694]]],"type":"Polygon"}
+}

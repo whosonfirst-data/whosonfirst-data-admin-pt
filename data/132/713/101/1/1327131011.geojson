@@ -1,0 +1,67 @@
+{
+  "id": 1327131011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09864,40.22028,-8.09864,40.22028",
+    "geom:latitude":40.22028,
+    "geom:longitude":-8.09864,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60113.0",
+    "gn:asciiname":"Aveia",
+    "gn:country_code":"PT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742612,
+    "gn:latitude":40.22028,
+    "gn:longitude":-8.09864,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aveia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742612
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2f14d294c76960fc9f7f55ddc97372d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327131011,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1327131011,
+    "wof:lastmodified":1536615836,
+    "wof:name":"Aveia",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09864,
+    40.22028,
+    -8.09864,
+    40.22028
+],
+  "geometry": {"coordinates":[-8.09864,40.22028],"type":"Point"}
+}

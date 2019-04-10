@@ -1,0 +1,118 @@
+{
+  "id": 101778233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":459663.679749,
+    "geom:bbox":"-9.1226784276,38.8979032893,-9.11267710867,38.9059986181",
+    "geom:latitude":38.90158,
+    "geom:longitude":-9.118512,
+    "gn:population":4614,
+    "iso:country":"PT",
+    "lbl:latitude":38.900985,
+    "lbl:longitude":-9.119107,
+    "mps:latitude":38.900985,
+    "mps:longitude":-9.119107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Bucelas"
+    ],
+    "name:eng_x_preferred":[
+        "Bucelas"
+    ],
+    "name:fre_x_preferred":[
+        "Bucelas"
+    ],
+    "name:ger_x_preferred":[
+        "Bucelas"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0441\u0435\u043b\u0430\u0448"
+    ],
+    "name:pol_x_preferred":[
+        "Bucelas"
+    ],
+    "name:por_x_preferred":[
+        "Bucelas"
+    ],
+    "name:por_x_variant":[
+        "Bucellas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u0435\u043b\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Bucelas"
+    ],
+    "name:unk_x_variant":[
+        "Bucellas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Bucelas",
+    "qs:la_lc":"*PT11107020",
+    "qs:level":"locality",
+    "qs:loc":"Bucelas",
+    "qs:loc_alt":"Bucelas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027354e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270649,
+        "gp:id":737620,
+        "qs:id":139293,
+        "qs_pg:id":139293,
+        "wd:id":"Q997658"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fca95058ed46d77404e5b8662dad955d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778233,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778233,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653249,
+    "wof:name":"Bucelas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":4614,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12267842759508,
+    38.89790328927745,
+    -9.11267710866622,
+    38.90599861807817
+],
+  "geometry": {"coordinates":[[[-9.12147281501535,38.90599861807817],[-9.12121384131376,38.9051242371109],[-9.11785149587683,38.90580172608372],[-9.11681585831735,38.90230414041145],[-9.11569511719483,38.90252993021005],[-9.11543624518788,38.90165552529623],[-9.11319477013387,38.90210705901296],[-9.11267710866622,38.90035822925961],[-9.11379782255921,38.90013247584045],[-9.11353899271347,38.89925806142776],[-9.12026305720616,38.89790328927745],[-9.1205219678078,38.8987776828348],[-9.12164263566154,38.89855183858663],[-9.12267842759508,38.90204937882453],[-9.12155770590505,38.90227523697979],[-9.12259359712954,38.90577275899011],[-9.12147281501535,38.90599861807817]]],"type":"Polygon"}
+}

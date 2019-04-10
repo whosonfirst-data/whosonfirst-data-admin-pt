@@ -1,0 +1,71 @@
+{
+  "id": 1243478287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41889,41.45541,-8.41889,41.45541",
+    "geom:latitude":41.45541,
+    "geom:longitude":-8.41889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30853.0",
+    "gn:asciiname":"Airao",
+    "gn:country_code":"PT",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743264,
+    "gn:latitude":41.45541,
+    "gn:longitude":-8.41889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Air\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Jo\u00e3o",
+        "Air\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743264
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e889946ec2d8b15838f2f4e4374e9b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243478287,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1243478287,
+    "wof:lastmodified":1537683177,
+    "wof:name":"Airao",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41889,
+    41.45541,
+    -8.41889,
+    41.45541
+],
+  "geometry": {"coordinates":[-8.41889,41.45541],"type":"Point"}
+}

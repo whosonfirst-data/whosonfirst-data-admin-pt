@@ -1,0 +1,73 @@
+{
+  "id": 101849915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.198638,38.794899,-9.198638,38.794899",
+    "geom:latitude":38.794899,
+    "geom:longitude":-9.198638,
+    "iso:country":"PT",
+    "lbl:latitude":38.794899,
+    "lbl:longitude":-9.198638,
+    "mps:latitude":38.794899,
+    "mps:longitude":-9.198638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bairro das Queimadas Sol Nascente",
+    "qs:loc_alt":"Bairro das Queimadas Sol Nascente",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412828,
+        "qs:id":3
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bf65b148b14546bb56708b548910e87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849915,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101849915,
+    "wof:lastmodified":1544741175,
+    "wof:name":"Bairro das Queimadas Sol Nascente",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.198638,
+    38.794899,
+    -9.198638,
+    38.794899
+],
+  "geometry": {"coordinates":[-9.198638,38.794899],"type":"Point"}
+}

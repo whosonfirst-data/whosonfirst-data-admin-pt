@@ -1,0 +1,67 @@
+{
+  "id": 1327255033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22908,40.21536,-8.22908,40.21536",
+    "geom:latitude":40.21536,
+    "geom:longitude":-8.22908,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0617",
+    "gn:admin3_code":"61704.0",
+    "gn:asciiname":"Sao Miguel",
+    "gn:country_code":"PT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734405,
+    "gn:latitude":40.21536,
+    "gn:longitude":-8.22908,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Miguel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734405
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"87cdb93287041938f0fb7c09064944c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327255033,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1327255033,
+    "wof:lastmodified":1536937720,
+    "wof:name":"Sao Miguel",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22908,
+    40.21536,
+    -8.22908,
+    40.21536
+],
+  "geometry": {"coordinates":[-8.22908,40.21536],"type":"Point"}
+}

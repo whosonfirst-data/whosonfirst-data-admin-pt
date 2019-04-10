@@ -1,0 +1,91 @@
+{
+  "id": 101832863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000237,
+    "geom:area_square_m":2292924.575634,
+    "geom:bbox":"-9.13816796224,38.6046023422,-9.11898757595,38.6244552814",
+    "geom:latitude":38.616051,
+    "geom:longitude":-9.127457,
+    "iso:country":"PT",
+    "lbl:latitude":38.615082,
+    "lbl:longitude":-9.127275,
+    "mps:latitude":38.615082,
+    "mps:longitude":-9.127275,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Foros de Amora"
+    ],
+    "name:eng_x_preferred":[
+        "Foros de Amora"
+    ],
+    "name:por_x_preferred":[
+        "Foros de Amora"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Foros de Amora",
+    "qs:loc_alt":"Foros de Amora",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0265427c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6930182,
+        "gp:id":24900142,
+        "qs:id":887553,
+        "qs_pg:id":887553,
+        "wd:id":"Q5470404"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6e642526861c69f88e15037a59f72607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832863,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832863,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642789,
+    "wof:name":"Foros de Amora",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13816796223955,
+    38.60460234220318,
+    -9.11898757595009,
+    38.62445528136743
+],
+  "geometry": {"coordinates":[[[-9.12144997199783,38.62377728192934],[-9.11898757595009,38.6220455396043],[-9.11980498006682,38.61351578697941],[-9.12048611194029,38.6133780643068],[-9.12022918128611,38.61250329668547],[-9.1235773715843,38.61182617762262],[-9.12280651666225,38.60920189369375],[-9.12030931496912,38.60970690854219],[-9.12245628997027,38.60463907078793],[-9.12263789166917,38.60460234220318],[-9.12289479986896,38.60547711216861],[-9.12401075076076,38.60525139121057],[-9.12426768171298,38.60612615571],[-9.12538363941906,38.60590041838981],[-9.12564059312456,38.60677517742317],[-9.12645409628453,38.60661059969379],[-9.13807592139614,38.61445315931275],[-9.13739641296269,38.61459069896887],[-9.13816796223955,38.61721481455322],[-9.13705185695329,38.61744070694266],[-9.13756624387133,38.61919011414255],[-9.13533396062337,38.61964187398206],[-9.13481962690935,38.61789245297524],[-9.13035508894239,38.61879579005324],[-9.13112644408437,38.62141995995114],[-9.13447497701708,38.62074244545562],[-9.13515345610222,38.62304990202881],[-9.13385780973118,38.62445528136743],[-9.12144997199783,38.62377728192934]]],"type":"Polygon"}
+}

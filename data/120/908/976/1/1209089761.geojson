@@ -1,0 +1,63 @@
+{
+  "id": 1209089761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23333,38.91667,-9.23333,38.91667",
+    "geom:latitude":38.91667,
+    "geom:longitude":-9.23333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110916.0",
+    "gn:asciiname":"Casa do Ninho",
+    "gn:country_code":"PT",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269906,
+    "gn:latitude":38.91667,
+    "gn:longitude":-9.23333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casa do Ninho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269906
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"595a660e1e759ce4d4e43606a4cfd053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209089761
+        }
+    ],
+    "wof:id":1209089761,
+    "wof:lastmodified":1536298071,
+    "wof:name":"Casa do Ninho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23333,
+    38.91667,
+    -9.23333,
+    38.91667
+],
+  "geometry": {"coordinates":[-9.23333,38.91667],"type":"Point"}
+}

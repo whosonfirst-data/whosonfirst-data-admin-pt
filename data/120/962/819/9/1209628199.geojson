@@ -1,0 +1,63 @@
+{
+  "id": 1209628199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56038,40.51616,-8.56038,40.51616",
+    "geom:latitude":40.51616,
+    "geom:longitude":-8.56038,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0114",
+    "gn:admin3_code":"11403.0",
+    "gn:asciiname":"Malhapao",
+    "gn:country_code":"PT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737981,
+    "gn:latitude":40.51616,
+    "gn:longitude":-8.56038,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Malhap\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737981
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9847366f2fc60001dc150eebb1f63281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209628199
+        }
+    ],
+    "wof:id":1209628199,
+    "wof:lastmodified":1536281281,
+    "wof:name":"Malhapao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56038,
+    40.51616,
+    -8.56038,
+    40.51616
+],
+  "geometry": {"coordinates":[-8.56038,40.51616],"type":"Point"}
+}

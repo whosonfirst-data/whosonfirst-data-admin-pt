@@ -1,0 +1,72 @@
+{
+  "id": 101910757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"-8.79568886144,37.0916595831,-8.78645632469,37.0995609549",
+    "geom:latitude":37.095368,
+    "geom:longitude":-8.791363,
+    "iso:country":"PT",
+    "lbl:latitude":37.094976,
+    "lbl:longitude":-8.792447,
+    "mps:latitude":37.094976,
+    "mps:longitude":-8.792447,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"2",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Bar\u00e3o de S\u00e3o Miguel",
+    "qs:la_lc":"*PT10815012",
+    "qs:level":"locality",
+    "qs:loc":"Alma Verde",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55867532,
+        "qs:id":136654,
+        "qs_pg:id":136654
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3dcc04310278e589cd67a6a0dfd962a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101910757,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101910757,
+    "wof:lastmodified":1497292116,
+    "wof:name":"Alma Verde",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79568886143579,
+    37.09165958314355,
+    -8.78645632468516,
+    37.09956095491094
+],
+  "geometry": {"coordinates":[[[-8.79204273362478,37.09956095491094],[-8.79107258571753,37.09604925443335],[-8.78669878946755,37.09693351681733],[-8.78645632468516,37.09605557361459],[-8.78754977004667,37.09583453021588],[-8.78730730144554,37.09495658823403],[-8.78840072831736,37.09473553545615],[-8.78767333732907,37.09210170708138],[-8.78986009788753,37.09165958314355],[-8.79010257793988,37.09253752146316],[-8.79119596191896,37.09231643729828],[-8.79143846330044,37.09319437033548],[-8.79362523865598,37.09275215761323],[-8.79435287078218,37.09538592502628],[-8.79544628730252,37.09516478996369],[-8.79568886143579,37.09604270511971],[-8.79459543234208,37.096263843435],[-8.79508058174167,37.09801967415905],[-8.79398712158218,37.09824080634928],[-8.79422969684788,37.09911872191742],[-8.79204273362478,37.09956095491094]]],"type":"Polygon"}
+}

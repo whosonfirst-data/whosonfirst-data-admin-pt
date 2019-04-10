@@ -1,0 +1,63 @@
+{
+  "id": 1209276147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56953,41.66015,-8.56953,41.66015",
+    "geom:latitude":41.66015,
+    "geom:longitude":-8.56953,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1607",
+    "gn:admin3_code":"160731.0",
+    "gn:asciiname":"Quinteiros",
+    "gn:country_code":"PT",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735529,
+    "gn:latitude":41.66015,
+    "gn:longitude":-8.56953,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Quinteiros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735529
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2e350679993fd61a7fa0dfc0be8abbcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209276147
+        }
+    ],
+    "wof:id":1209276147,
+    "wof:lastmodified":1536292188,
+    "wof:name":"Quinteiros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56953,
+    41.66015,
+    -8.56953,
+    41.66015
+],
+  "geometry": {"coordinates":[-8.56953,41.66015],"type":"Point"}
+}

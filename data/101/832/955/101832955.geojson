@@ -1,0 +1,80 @@
+{
+  "id": 101832955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:bbox":"-9.39612310283,38.8038628502,-9.38314690182,38.8199299075",
+    "geom:latitude":38.815268,
+    "geom:longitude":-9.389201,
+    "iso:country":"PT",
+    "lbl:latitude":38.815578,
+    "lbl:longitude":-9.388718,
+    "mps:latitude":38.815578,
+    "mps:longitude":-9.388718,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Cabriz"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Sintra (S\u00e3o Martinho)",
+    "qs:la_lc":"*PT11111116",
+    "qs:level":"locality",
+    "qs:loc":"Cabriz",
+    "qs:loc_alt":"Cabriz",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026d95f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270510,
+        "gp:id":737808,
+        "qs:id":188106,
+        "qs_pg:id":188106
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8a86e1ef64652b71f6dd2f338d7d574d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832955,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101832955,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497298038,
+    "wof:name":"Cabriz",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39612310283303,
+    38.80386285020046,
+    -9.38314690181977,
+    38.81992990752985
+],
+  "geometry": {"coordinates":[[[[-9.39456128012478,38.8125275404106],[-9.39347453799161,38.81855657550682],[-9.39314375210341,38.81745377019877],[-9.38643176872108,38.81882741334698],[-9.3866936910855,38.81970100878527],[-9.3855749906096,38.81992990752985],[-9.38531308160157,38.8190563085783],[-9.3841943878478,38.8192851908683],[-9.38314690181977,38.81579076061166],[-9.38426554215158,38.81556189237335],[-9.3840036814326,38.81468828322193],[-9.38512230177741,38.81445940555562],[-9.38486043736094,38.81358579787735],[-9.39045337282681,38.81244123300883],[-9.39071530400605,38.81331482312146],[-9.39456128012478,38.8125275404106]]],[[[-9.39542895561982,38.8077138446385],[-9.39481164139499,38.81113858452215],[-9.3938797600606,38.80803102355878],[-9.39542895561982,38.8077138446385]]],[[[-9.39612310283303,38.80386285020046],[-9.39570302536936,38.80619335869369],[-9.39506893396953,38.80407870243897],[-9.39612310283303,38.80386285020046]]]],"type":"MultiPolygon"}
+}

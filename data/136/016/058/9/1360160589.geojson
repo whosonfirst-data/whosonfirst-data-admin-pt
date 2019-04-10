@@ -1,0 +1,67 @@
+{
+  "id": 1360160589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64381,39.71806,-8.64381,39.71806",
+    "geom:latitude":39.71806,
+    "geom:longitude":-8.64381,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142117.0",
+    "gn:asciiname":"Vales",
+    "gn:country_code":"PT",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261909,
+    "gn:latitude":39.71806,
+    "gn:longitude":-8.64381,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vales",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261909
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"18193f1c8be5ada78101d65f4840eb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360160589,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1360160589,
+    "wof:lastmodified":1536835789,
+    "wof:name":"Vales",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64381,
+    39.71806,
+    -8.64381,
+    39.71806
+],
+  "geometry": {"coordinates":[-8.64381,39.71806],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101776281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"-8.39939669193,41.134844028,-8.38915273702,41.141618294",
+    "geom:latitude":41.138683,
+    "geom:longitude":-8.393867,
+    "iso:country":"PT",
+    "lbl:latitude":41.138959,
+    "lbl:longitude":-8.393518,
+    "mps:latitude":41.138959,
+    "mps:longitude":-8.393518,
+    "mz:hierarchy_label":1,
+    "name:deu_x_preferred":[
+        "Santiago de Pi\u00e3es"
+    ],
+    "name:nld_x_preferred":[
+        "Santiago de Pi\u00e3es"
+    ],
+    "name:por_x_preferred":[
+        "Casconha",
+        "Santiago de Pi\u00e3es"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u0443-\u0434\u0435-\u041f\u0438\u0430\u0439\u043d\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Santiago de Pi\u00e3es"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Sobreira",
+    "qs:la_lc":"*PT11310208",
+    "qs:level":"locality",
+    "qs:loc":"Casconha",
+    "qs:loc_alt":"Casconha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02698f3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2741076,
+        "gp:id":739051,
+        "qs:id":386857
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9d72e3555593acfb3ff6f9c52fa42a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776281,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776281,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1467243923,
+    "wof:name":"Casconha",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39939669193177,
+    41.13484402796837,
+    -8.38915273701684,
+    41.14161829398961
+],
+  "geometry": {"coordinates":[[[-8.39359262697405,41.14161829398961],[-8.39332778477632,41.14074420978886],[-8.39216696539717,41.14096269453876],[-8.39137254455983,41.13834042003884],[-8.39021176293892,41.1385588805424],[-8.38915273701684,41.13506247417706],[-8.39031345881534,41.13484402796837],[-8.39057821503434,41.13571812877933],[-8.39173894467626,41.13549966547498],[-8.39200372599481,41.13637376084989],[-8.39316446347925,41.1361552804492],[-8.39342926989809,41.13702937038761],[-8.39459001522448,41.13681087289035],[-8.39485484674475,41.13768495739163],[-8.39601559991269,41.13746644279752],[-8.39654532330655,41.1392145990626],[-8.39886686811911,41.13877751500672],[-8.39939669193177,41.14052564951885],[-8.39359262697405,41.14161829398961]]],"type":"Polygon"}
+}

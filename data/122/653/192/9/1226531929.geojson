@@ -1,0 +1,67 @@
+{
+  "id": 1226531929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99214,37.33693,-7.99214,37.33693",
+    "geom:latitude":37.33693,
+    "geom:longitude":-7.99214,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80803.0",
+    "gn:asciiname":"Portela",
+    "gn:country_code":"PT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264497,
+    "gn:latitude":37.33693,
+    "gn:longitude":-7.99214,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Portela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264497
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"85f218974075a5e4f6ba669147af5fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226531929,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1226531929,
+    "wof:lastmodified":1537017258,
+    "wof:name":"Portela",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99214,
+    37.33693,
+    -7.99214,
+    37.33693
+],
+  "geometry": {"coordinates":[-7.99214,37.33693],"type":"Point"}
+}

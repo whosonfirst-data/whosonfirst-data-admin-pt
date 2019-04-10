@@ -1,0 +1,67 @@
+{
+  "id": 1327021545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34772,40.0552,-8.34772,40.0552",
+    "geom:latitude":40.0552,
+    "geom:longitude":-8.34772,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60905.0",
+    "gn:asciiname":"Sao Gens",
+    "gn:country_code":"PT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734513,
+    "gn:latitude":40.0552,
+    "gn:longitude":-8.34772,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Gens",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734513
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7f68a4eafc6573a90ea9053dda9c511c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327021545,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1327021545,
+    "wof:lastmodified":1536776754,
+    "wof:name":"Sao Gens",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34772,
+    40.0552,
+    -8.34772,
+    40.0552
+],
+  "geometry": {"coordinates":[-8.34772,40.0552],"type":"Point"}
+}

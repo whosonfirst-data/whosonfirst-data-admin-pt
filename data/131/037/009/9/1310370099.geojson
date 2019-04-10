@@ -1,0 +1,67 @@
+{
+  "id": 1310370099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58743,41.93559,-8.58743,41.93559",
+    "geom:latitude":41.93559,
+    "geom:longitude":-8.58743,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160508.0",
+    "gn:asciiname":"Penedo",
+    "gn:country_code":"PT",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736439,
+    "gn:latitude":41.93559,
+    "gn:longitude":-8.58743,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Penedo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736439
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6c7fd4e3f39cce270072437f3ec74010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310370099,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1310370099,
+    "wof:lastmodified":1536612465,
+    "wof:name":"Penedo",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58743,
+    41.93559000000001,
+    -8.58743,
+    41.93559000000001
+],
+  "geometry": {"coordinates":[-8.58743,41.93559000000001],"type":"Point"}
+}

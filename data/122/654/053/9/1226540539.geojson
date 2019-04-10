@@ -1,0 +1,67 @@
+{
+  "id": 1226540539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2263,41.4165,-8.2263,41.4165",
+    "geom:latitude":41.4165,
+    "geom:longitude":-8.2263,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0307",
+    "gn:admin3_code":"30710.0",
+    "gn:asciiname":"Fareja",
+    "gn:country_code":"PT",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739753,
+    "gn:latitude":41.4165,
+    "gn:longitude":-8.2263,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fareja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739753
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6078284de59ab4e8962525dbae1007f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226540539,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1226540539,
+    "wof:lastmodified":1537004823,
+    "wof:name":"Fareja",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2263,
+    41.4165,
+    -8.2263,
+    41.4165
+],
+  "geometry": {"coordinates":[-8.2263,41.4165],"type":"Point"}
+}

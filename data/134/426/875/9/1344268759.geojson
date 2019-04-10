@@ -1,0 +1,67 @@
+{
+  "id": 1344268759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68952,37.65876,-8.68952,37.65876",
+    "geom:latitude":37.65876,
+    "geom:longitude":-8.68952,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21106.0",
+    "gn:asciiname":"Troviscais",
+    "gn:country_code":"PT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262490,
+    "gn:latitude":37.65876,
+    "gn:longitude":-8.68952,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Troviscais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262490
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7f7f5246da5543a9cee9c14294458efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344268759,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1344268759,
+    "wof:lastmodified":1537069115,
+    "wof:name":"Troviscais",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68952,
+    37.65876,
+    -8.68952,
+    37.65876
+],
+  "geometry": {"coordinates":[-8.68952,37.65876],"type":"Point"}
+}

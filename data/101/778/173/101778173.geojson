@@ -1,0 +1,107 @@
+{
+  "id": 101778173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":589587.872045,
+    "geom:bbox":"-9.00840950388,38.7161195201,-8.99413002402,38.7250718316",
+    "geom:latitude":38.720605,
+    "geom:longitude":-9.001965,
+    "iso:country":"PT",
+    "lbl:latitude":38.721167,
+    "lbl:longitude":-9.003047,
+    "mps:latitude":38.721167,
+    "mps:longitude":-9.003047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Samouco"
+    ],
+    "name:eng_x_preferred":[
+        "Samouco"
+    ],
+    "name:epo_x_preferred":[
+        "Samouco"
+    ],
+    "name:fre_x_preferred":[
+        "Samouco"
+    ],
+    "name:ger_x_preferred":[
+        "Samouco"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u043a\u0443"
+    ],
+    "name:por_x_preferred":[
+        "Samouco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Samouco"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Samouco",
+    "qs:la_lc":"*PT11502026",
+    "qs:level":"locality",
+    "qs:loc":"Samouco",
+    "qs:loc_alt":"Samouco",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026e4c00-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263584,
+        "gp:id":747732,
+        "qs:id":1081441,
+        "qs_pg:id":1081441,
+        "wd:id":"Q1021377"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cd6d92ed5e45d91549d49c4e0c29605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778173,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101778173,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498133,
+    "wof:name":"Samouco",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00840950387931,
+    38.71611952008362,
+    -8.99413002402315,
+    38.72507183161377
+],
+  "geometry": {"coordinates":[[[-9.00298153059646,38.72507183161377],[-9.00272539676848,38.7241968174369],[-9.0016072292035,38.72442118292292],[-9.00083892455871,38.72179611806945],[-8.996366350127,38.72269340928392],[-8.9966223886791,38.72356844665717],[-8.99438603579733,38.72401702146396],[-8.99413002402315,38.72314197721414],[-8.99524819031569,38.72291769972225],[-8.99499217459493,38.7220426569105],[-8.99722846096057,38.72159406996411],[-8.99569240426717,38.71634381234753],[-8.99681045741227,38.71611952008362],[-8.99732246531465,38.7178696070813],[-8.99844053875017,38.71764529499683],[-8.99869657024902,38.71852033205687],[-8.9998146505896,38.71829600358888],[-9.00007070491614,38.71917103521008],[-9.00342494720593,38.71849796181982],[-9.0031688527248,38.71762294051501],[-9.00764103149402,38.7167253418574],[-9.00840950387931,38.71935035849469],[-9.00729142876037,38.71957478789489],[-9.00754759173174,38.72044979287767],[-9.00531139527351,38.72089861972307],[-9.00633603454969,38.72439864715983],[-9.00298153059646,38.72507183161377]]],"type":"Polygon"}
+}

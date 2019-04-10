@@ -1,0 +1,66 @@
+{
+  "id": 1226435011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11021,39.4473,-9.11021,39.4473",
+    "geom:latitude":39.4473,
+    "geom:longitude":-9.11021,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0502",
+    "gn:asciiname":"Barrantes",
+    "gn:country_code":"PT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271090,
+    "gn:latitude":39.4473,
+    "gn:longitude":-9.11021,
+    "gn:modification_date":"2012-11-16",
+    "gn:name":"Barrantes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271090
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f7078beb8a8d409413651b61b4299501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226435011,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1226435011,
+    "wof:lastmodified":1536661025,
+    "wof:name":"Barrantes",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11021,
+    39.4473,
+    -9.11021,
+    39.4473
+],
+  "geometry": {"coordinates":[-9.11021,39.4473],"type":"Point"}
+}

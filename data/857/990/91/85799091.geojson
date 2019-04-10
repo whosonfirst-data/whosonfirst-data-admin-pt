@@ -1,0 +1,110 @@
+{
+  "id": 85799091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5602058.107411,
+    "geom:bbox":"-9.197505,38.770189,-9.197505,38.770189",
+    "geom:latitude":38.770189,
+    "geom:longitude":-9.197505,
+    "gn:latitude":38.76771,
+    "gn:longitude":-9.19935,
+    "gn:population":23249,
+    "iso:country":"PT",
+    "lbl:latitude":38.770189,
+    "lbl:longitude":-9.197505,
+    "mps:latitude":38.770189,
+    "mps:longitude":-9.197505,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:por_x_preferred":[
+        "Pontinha"
+    ],
+    "name:unk_x_variant":[
+        "Pontinha"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":8010570,
+    "qs:gn_nam_loc":"Odivelas, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Pontinha",
+    "qs:local_max":218,
+    "qs:local_sum":218,
+    "qs:localhoods":1,
+    "qs:name":"Pontinha",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Odivelas",
+    "qs:name_local":"Odivelas",
+    "qs:photo_max":113,
+    "qs:photo_sum":218,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":23388415,
+    "qs:woe_lau":0,
+    "qs:woe_local":23388415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264526,
+        "gp:id":746077,
+        "qs:id":458306,
+        "qs_pg:id":458306,
+        "wd:id":"Q2103898",
+        "wk:page":"Pontinha (Odivelas)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c9329ab71060e6c52e8a1517f62b7065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":-1,
+            "neighbourhood_id":85799091,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85799091,
+    "wof:lastmodified":1531861975,
+    "wof:name":"Pontinha",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":23249,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.197505,
+    38.770189,
+    -9.197505,
+    38.770189
+],
+  "geometry": {"coordinates":[-9.197505,38.770189],"type":"Point"}
+}

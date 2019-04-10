@@ -1,0 +1,111 @@
+{
+  "id": 101759179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1550912.373344,
+    "geom:bbox":"-9.13115705676,38.7828050089,-9.11377104382,38.7993993973",
+    "geom:latitude":38.79008,
+    "geom:longitude":-9.122628,
+    "iso:country":"PT",
+    "lbl:latitude":38.790275,
+    "lbl:longitude":-9.122496,
+    "mps:latitude":38.790275,
+    "mps:longitude":-9.122496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:dut_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:eng_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:fre_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:ger_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0438\u043e\u0440-\u0412\u0435\u043b\u044c\u044e"
+    ],
+    "name:pol_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:por_x_preferred":[
+        "Prior Velho"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043e\u0440-\u0412\u0435\u043b\u044c\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Prior Velho"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Prior Velho",
+    "qs:loc_alt":"Prior Velho",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02745df2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6620294,
+        "gp:id":22660989,
+        "qs:id":1078736,
+        "qs_pg:id":1078736,
+        "wd:id":"Q1024836",
+        "wk:page":"Sacav\u00e9m e Prior Velho"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"46d551ef09d268db95edd8da61ca5ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759179,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759179,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498122,
+    "wof:name":"Prior Velho",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13115705675892,
+    38.7828050089106,
+    -9.11377104382416,
+    38.79939939725244
+],
+  "geometry": {"coordinates":[[[-9.11502212066489,38.79422101039995],[-9.11377104382416,38.78921670303697],[-9.11666871264657,38.78800934102765],[-9.12218530469073,38.7828050089106],[-9.12238600000018,38.7828655],[-9.1224625000001,38.78288849999984],[-9.12284850000015,38.78300499999989],[-9.1294690000002,38.7840574999999],[-9.13105270907067,38.78446229520387],[-9.13115705675892,38.78487019980321],[-9.12970822234774,38.78800934102765],[-9.12620687252058,38.7958571940884],[-9.12548245531497,38.79754750090149],[-9.12548245531497,38.79898292017936],[-9.12494698479242,38.79939939725244],[-9.12282625889429,38.79694381989691],[-9.12041153487559,38.79634013889222],[-9.11642724024478,38.79440835967722],[-9.11502212066489,38.79422101039995]]],"type":"Polygon"}
+}

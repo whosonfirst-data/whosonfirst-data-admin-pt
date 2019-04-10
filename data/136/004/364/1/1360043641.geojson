@@ -1,0 +1,67 @@
+{
+  "id": 1360043641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.26667,37.85,-25.26667,37.85",
+    "geom:latitude":37.85,
+    "geom:longitude":-25.26667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4202",
+    "gn:admin3_code":"420201.0",
+    "gn:asciiname":"Feteira Pequena",
+    "gn:country_code":"PT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373068,
+    "gn:latitude":37.85,
+    "gn:longitude":-25.26667,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Feteira Pequena",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373068
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"634ac2fe7ec0a0beadce7ad64a2c7d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360043641,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1360043641,
+    "wof:lastmodified":1537004858,
+    "wof:name":"Feteira Pequena",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.26667,
+    37.85,
+    -25.26667,
+    37.85
+],
+  "geometry": {"coordinates":[-25.26667,37.85],"type":"Point"}
+}

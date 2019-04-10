@@ -1,0 +1,67 @@
+{
+  "id": 1276189797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38626,41.85332,-8.38626,41.85332",
+    "geom:latitude":41.85332,
+    "geom:longitude":-8.38626,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160149.0",
+    "gn:asciiname":"Penacova",
+    "gn:country_code":"PT",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736471,
+    "gn:latitude":41.85332,
+    "gn:longitude":-8.38626,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Penacova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736471
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"43a13a5d7542045627aa7a585d17dddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276189797,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1276189797,
+    "wof:lastmodified":1536970983,
+    "wof:name":"Penacova",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38626,
+    41.85332,
+    -8.38626,
+    41.85332
+],
+  "geometry": {"coordinates":[-8.38626,41.85332],"type":"Point"}
+}

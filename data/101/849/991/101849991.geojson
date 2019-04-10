@@ -1,0 +1,93 @@
+{
+  "id": 101849991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.173409,38.771912,-27.173409,38.771912",
+    "geom:latitude":38.771912,
+    "geom:longitude":-27.173409,
+    "iso:country":"PT",
+    "lbl:latitude":38.771912,
+    "lbl:longitude":-27.173409,
+    "mps:latitude":38.771912,
+    "mps:longitude":-27.173409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Agualva"
+    ],
+    "name:por_x_preferred":[
+        "Agualva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0443\u0430\u043b\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Agualva"
+    ],
+    "name:tur_x_preferred":[
+        "Agualva"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Agualva",
+    "qs:loc_alt":"Agualva",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373373,
+        "gp:id":537855,
+        "qs:id":1165766,
+        "qs_pg:id":1165766,
+        "wd:id":"Q2451898",
+        "wk:page":"Agualva (Praia da Vit\u00f3ria)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0176d41342c01b9477f1ed9f09e35be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849991,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":101849991,
+    "wof:lastmodified":1544741211,
+    "wof:name":"Agualva",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.173409,
+    38.771912,
+    -27.173409,
+    38.771912
+],
+  "geometry": {"coordinates":[-27.173409,38.771912],"type":"Point"}
+}

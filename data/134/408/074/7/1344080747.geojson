@@ -1,0 +1,67 @@
+{
+  "id": 1344080747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46621,41.49659,-8.46621,41.49659",
+    "geom:latitude":41.49659,
+    "geom:longitude":-8.46621,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0303",
+    "gn:admin3_code":"30361.0",
+    "gn:asciiname":"Macada",
+    "gn:country_code":"PT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738097,
+    "gn:latitude":41.49659,
+    "gn:longitude":-8.46621,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Macada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738097
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"780fd2cabe0cfa4b96903292dc3d2c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344080747,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344080747,
+    "wof:lastmodified":1536845288,
+    "wof:name":"Macada",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46621,
+    41.49659000000001,
+    -8.46621,
+    41.49659000000001
+],
+  "geometry": {"coordinates":[-8.46621,41.49659000000001],"type":"Point"}
+}

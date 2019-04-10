@@ -1,0 +1,67 @@
+{
+  "id": 1310476289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37901,41.9852,-8.37901,41.9852",
+    "geom:latitude":41.9852,
+    "geom:longitude":-8.37901,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1604",
+    "gn:admin3_code":"160415.0",
+    "gn:asciiname":"Arado",
+    "gn:country_code":"PT",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742832,
+    "gn:latitude":41.9852,
+    "gn:longitude":-8.37901,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Arado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742832
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7a8e4f0e9b213df7e2cc627ff9aaf17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310476289,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1310476289,
+    "wof:lastmodified":1536959057,
+    "wof:name":"Arado",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37901,
+    41.9852,
+    -8.37901,
+    41.9852
+],
+  "geometry": {"coordinates":[-8.37901,41.9852],"type":"Point"}
+}

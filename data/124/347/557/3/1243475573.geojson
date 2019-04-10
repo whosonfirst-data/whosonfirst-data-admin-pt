@@ -1,0 +1,67 @@
+{
+  "id": 1243475573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07975,40.227,-8.07975,40.227",
+    "geom:latitude":40.227,
+    "geom:longitude":-8.07975,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60102.0",
+    "gn:asciiname":"Vale da Nogueira",
+    "gn:country_code":"PT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733192,
+    "gn:latitude":40.227,
+    "gn:longitude":-8.07975,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale da Nogueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733192
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b424260a4fe152cd4fc913f1f609174e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243475573,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243475573,
+    "wof:lastmodified":1536763914,
+    "wof:name":"Vale da Nogueira",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07975,
+    40.227,
+    -8.07975,
+    40.227
+],
+  "geometry": {"coordinates":[-8.07975,40.227],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343942277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63305,37.19375,-7.63305,37.19375",
+    "geom:latitude":37.19375,
+    "geom:longitude":-7.63305,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81405.0",
+    "gn:asciiname":"Carricos",
+    "gn:country_code":"PT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270039,
+    "gn:latitude":37.19375,
+    "gn:longitude":-7.63305,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carri\u00e7os",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270039
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d894f409761bd236066212f99098f6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343942277,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1343942277,
+    "wof:lastmodified":1537044472,
+    "wof:name":"Carricos",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63305,
+    37.19375,
+    -7.63305,
+    37.19375
+],
+  "geometry": {"coordinates":[-7.63305,37.19375],"type":"Point"}
+}

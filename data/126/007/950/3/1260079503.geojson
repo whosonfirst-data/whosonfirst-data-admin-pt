@@ -1,0 +1,67 @@
+{
+  "id": 1260079503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11896,41.55396,-7.11896,41.55396",
+    "geom:latitude":41.55396,
+    "geom:longitude":-7.11896,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0407",
+    "gn:admin3_code":"40720.0",
+    "gn:asciiname":"Paradela",
+    "gn:country_code":"PT",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736723,
+    "gn:latitude":41.55396,
+    "gn:longitude":-7.11896,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Paradela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736723
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"21307963aef67428f85398ca5f343624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260079503,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1260079503,
+    "wof:lastmodified":1536992932,
+    "wof:name":"Paradela",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11896,
+    41.55396,
+    -7.11896,
+    41.55396
+],
+  "geometry": {"coordinates":[-7.11896,41.55396],"type":"Point"}
+}

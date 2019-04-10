@@ -1,0 +1,63 @@
+{
+  "id": 1209287029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18472,39.11434,-8.18472,39.11434",
+    "geom:latitude":39.11434,
+    "geom:longitude":-8.18472,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1213",
+    "gn:admin3_code":"121302.0",
+    "gn:asciiname":"Biquinha",
+    "gn:country_code":"PT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270857,
+    "gn:latitude":39.11434,
+    "gn:longitude":-8.18472,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Biquinha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270857
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"afae52987a3780d3027920ab06192275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209287029
+        }
+    ],
+    "wof:id":1209287029,
+    "wof:lastmodified":1536291824,
+    "wof:name":"Biquinha",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18472,
+    39.11434000000001,
+    -8.18472,
+    39.11434000000001
+],
+  "geometry": {"coordinates":[-8.18472,39.11434000000001],"type":"Point"}
+}

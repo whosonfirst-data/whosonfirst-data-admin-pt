@@ -1,0 +1,63 @@
+{
+  "id": 1209207097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38333,40.36667,-7.38333,40.36667",
+    "geom:latitude":40.36667,
+    "geom:longitude":-7.38333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0503",
+    "gn:admin3_code":"50326.0",
+    "gn:asciiname":"Aldeia do Mato",
+    "gn:country_code":"PT",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743164,
+    "gn:latitude":40.36667,
+    "gn:longitude":-7.38333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldeia do Mato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743164
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc0cc7f1dc9d57246a596e41c02952e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209207097
+        }
+    ],
+    "wof:id":1209207097,
+    "wof:lastmodified":1536294418,
+    "wof:name":"Aldeia do Mato",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38333,
+    40.36667,
+    -7.38333,
+    40.36667
+],
+  "geometry": {"coordinates":[-7.38333,40.36667],"type":"Point"}
+}

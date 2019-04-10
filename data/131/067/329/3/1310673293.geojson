@@ -1,0 +1,67 @@
+{
+  "id": 1310673293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2127,38.95498,-7.2127,38.95498",
+    "geom:latitude":38.95498,
+    "geom:longitude":-7.2127,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1207",
+    "gn:admin3_code":"120708.0",
+    "gn:asciiname":"Sao Vicente",
+    "gn:country_code":"PT",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263196,
+    "gn:latitude":38.95498,
+    "gn:longitude":-7.2127,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Vicente",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263196
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c9141b27fbbe51668cc30f517be553d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310673293,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1310673293,
+    "wof:lastmodified":1536674846,
+    "wof:name":"Sao Vicente",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2127,
+    38.95498,
+    -7.2127,
+    38.95498
+],
+  "geometry": {"coordinates":[-7.2127,38.95498],"type":"Point"}
+}

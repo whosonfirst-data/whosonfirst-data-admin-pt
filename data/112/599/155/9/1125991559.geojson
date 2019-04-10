@@ -1,0 +1,145 @@
+{
+  "id": 1125991559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9635,40.89262,-6.9635,40.89262",
+    "geom:latitude":40.89262,
+    "geom:longitude":-6.9635,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.89262,
+    "lbl:longitude":-6.9635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:chi_x_preferred":[
+        "\u83f2\u84cb\u62c9\u8fea\u5361\u65af\u7279\u76e7\u7f85\u5fb7\u91cc\u53e4"
+    ],
+    "name:dut_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:eng_x_preferred":[
+        "Figueira de Castelo Rodrigo Municipality"
+    ],
+    "name:fre_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:ger_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:ita_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:may_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:nan_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:nob_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:pol_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:por_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u0433\u0435\u0439\u0440\u0430-\u0434\u0438-\u041a\u0430\u0448\u0442\u0435\u043b\u0443-\u0420\u043e\u0434\u0440\u0438\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:tur_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:vie_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:vol_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "name:war_x_preferred":[
+        "Figueira de Castelo Rodrigo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739589,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Figueira de Castelo Rodrigo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos":105,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":105,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1353076,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741070,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739589,
+        "gp:id":741070,
+        "qs_pg:id":1353076,
+        "wd:id":"Q644782"
+    },
+    "wof:country":"PT",
+    "wof:created":1497299082,
+    "wof:geomhash":"cdf8530cd600c027329ef479f15d45ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125991559,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125991559,
+    "wof:lastmodified":1534379445,
+    "wof:name":"Figueira de Castelo Rodrigo",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101774891
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9635,
+    40.89262,
+    -6.9635,
+    40.89262
+],
+  "geometry": {"coordinates":[-6.9635,40.89262],"type":"Point"}
+}

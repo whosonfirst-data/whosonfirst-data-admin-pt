@@ -1,0 +1,80 @@
+{
+  "id": 1209771843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.06667,38.73333,-27.06667,38.73333",
+    "geom:latitude":38.73333,
+    "geom:longitude":-27.06667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4302",
+    "gn:admin3_code":"430207.0",
+    "gn:asciiname":"Praia da Vitoria",
+    "gn:country_code":"PT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372760,
+    "gn:latitude":38.73333,
+    "gn:longitude":-27.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Praia da Vit\u00f3ria",
+    "gn:population":6061,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Praia da Vit\u00f3ria"
+    ],
+    "name:und_x_variant":[
+        "Vila da Praia da Vit\u00f3ria",
+        "Praia da Victoria",
+        "Vila da Praia da Victoria",
+        "Praia",
+        "Praia da Vit\u00f3ria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372760
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3f3a991408978b49006c1b78d2cbff54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209771843,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":1209771843,
+    "wof:lastmodified":1537683181,
+    "wof:name":"Praia da Vitoria",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:population":6061,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.06667,
+    38.73333,
+    -27.06667,
+    38.73333
+],
+  "geometry": {"coordinates":[-27.06667,38.73333],"type":"Point"}
+}

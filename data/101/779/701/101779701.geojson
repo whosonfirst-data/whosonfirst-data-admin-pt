@@ -1,0 +1,106 @@
+{
+  "id": 101779701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":289841.48305,
+    "geom:bbox":"-8.75863617557,38.0488453618,-8.75013427929,38.0563093032",
+    "geom:latitude":38.052507,
+    "geom:longitude":-8.754098,
+    "gn:population":10601,
+    "iso:country":"PT",
+    "lbl:latitude":38.053801,
+    "lbl:longitude":-8.752616,
+    "mps:latitude":38.053801,
+    "mps:longitude":-8.752616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u0623\u0646\u062f\u0631\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Santo Andr\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Vila Nova de Santo Andr\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0646\u0648\u0627 \u062f\u0633\u0627\u0646\u062a\u0648 \u0622\u0646\u062f\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Vila Nova de Santo Andr\u00e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d0-\u10dc\u10dd\u10d5\u10d0-\u10d3\u10d4-\u10e1\u10d0\u10dc\u10e2\u10e3-\u10d0\u10dc\u10d3\u10e0\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0443-\u0410\u043d\u0434\u0440\u0435"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0646\u0648\u0627 \u062f\u0633\u0627\u0646\u062a\u0648 \u0622\u0646\u062f\u0631\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Vila Nova de Santo Andr\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Nova de Santo Andr\u00e9"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Santo Andr\u00e9",
+    "qs:la_lc":"*PT11509071",
+    "qs:level":"locality",
+    "qs:loc":"Vila Nova de Santo Andr\u00e9",
+    "qs:loc_alt":"Vila Nova de Santo Andre",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263439,
+        "gp:id":748022,
+        "qs:id":911420
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fb1d3d8d401c71db206ec0be1d3793ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779701,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101779701,
+    "wof:lastmodified":1505337897,
+    "wof:name":"Vila Nova de Santo Andr\u00e9",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":10601,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75863617556513,
+    38.04884536184016,
+    -8.75013427928889,
+    38.05630930316278
+],
+  "geometry": {"coordinates":[[[-8.75273207171415,38.05630930316278],[-8.75248377426328,38.05543257284461],[-8.75137556493303,38.05565367916626],[-8.75013427928889,38.05126998098086],[-8.75124242322835,38.05104889132707],[-8.75099418026207,38.05017214903836],[-8.75210230493224,38.04995104989507],[-8.75259882609788,38.05170452581046],[-8.75592324140803,38.05104113144205],[-8.75542664178585,38.04928767552934],[-8.75764283538888,38.04884536184016],[-8.75863617556513,38.05235223900928],[-8.75420355437041,38.05323686844423],[-8.75494849794848,38.05586704537967],[-8.75273207171415,38.05630930316278]]],"type":"Polygon"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209379263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68878,41.64329,-7.68878,41.64329",
+    "geom:latitude":41.64329,
+    "geom:longitude":-7.68878,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1702",
+    "gn:admin3_code":"170209.0",
+    "gn:asciiname":"Curros",
+    "gn:country_code":"PT",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740186,
+    "gn:latitude":41.64329,
+    "gn:longitude":-7.68878,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Curros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740186
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b70c96f81f9f63c97630f3cc7b8e2e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209379263
+        }
+    ],
+    "wof:id":1209379263,
+    "wof:lastmodified":1536288841,
+    "wof:name":"Curros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68878,
+    41.64329,
+    -7.68878,
+    41.64329
+],
+  "geometry": {"coordinates":[-7.68878,41.64329],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293560059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12279,38.87103,-9.12279,38.87103",
+    "geom:latitude":38.87103,
+    "geom:longitude":-9.12279,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1107",
+    "gn:admin3_code":"110716.0",
+    "gn:asciiname":"Zambujal",
+    "gn:country_code":"PT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261506,
+    "gn:latitude":38.87103,
+    "gn:longitude":-9.12279,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Zambujal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261506
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b0f0db7912054dd91583b936945b6293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293560059,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1293560059,
+    "wof:lastmodified":1536682508,
+    "wof:name":"Zambujal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12279,
+    38.87103,
+    -9.12279,
+    38.87103
+],
+  "geometry": {"coordinates":[-9.12279,38.87103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343720537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21187,40.70099,-8.21187,40.70099",
+    "geom:latitude":40.70099,
+    "geom:longitude":-8.21187,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1810",
+    "gn:admin3_code":"181005.0",
+    "gn:asciiname":"Ponte Fora",
+    "gn:country_code":"PT",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736039,
+    "gn:latitude":40.70099,
+    "gn:longitude":-8.21187,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte Fora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736039
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d1e9d360c6078e905ff47e27aa9c301b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343720537,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343720537,
+    "wof:lastmodified":1536867370,
+    "wof:name":"Ponte Fora",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21187,
+    40.70099,
+    -8.21187,
+    40.70099
+],
+  "geometry": {"coordinates":[-8.21187,40.70099],"type":"Point"}
+}

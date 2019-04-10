@@ -1,0 +1,73 @@
+{
+  "id": 1310129931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19726,41.78046,-8.19726,41.78046",
+    "geom:latitude":41.78046,
+    "geom:longitude":-8.19726,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0310",
+    "gn:admin3_code":"31003.0",
+    "gn:asciiname":"Vilarinho das Furnas",
+    "gn:cc2":"PT",
+    "gn:country_code":"PT",
+    "gn:dem":568,
+    "gn:elevation":"550.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2732389,
+    "gn:latitude":41.78046,
+    "gn:longitude":-8.19726,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilarinho das Furnas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Vilarinho da Furna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732389,
+        "wk:page":"Vilarinho_da_Furna"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e19f234178cf107a1aa41e6433013a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310129931,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310129931,
+    "wof:lastmodified":1537683157,
+    "wof:name":"Vilarinho das Furnas",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19726,
+    41.78046,
+    -8.19726,
+    41.78046
+],
+  "geometry": {"coordinates":[-8.19726,41.78046],"type":"Point"}
+}

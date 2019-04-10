@@ -1,0 +1,80 @@
+{
+  "id": 1125934609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.621349,40.650559,-8.621349,40.650559",
+    "geom:latitude":40.650559,
+    "geom:longitude":-8.621349,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":40.650559,
+    "lbl:longitude":-8.621349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cabo Lu\u00eds",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Aveiro",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":492765,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":740629,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Aveiro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":740629,
+        "qs_pg:id":492765
+    },
+    "wof:country":"PT",
+    "wof:created":1497296922,
+    "wof:geomhash":"55ca42cb7dc73edebeb863cbfdbc8fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125934609,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1125934609,
+    "wof:lastmodified":1509401614,
+    "wof:name":"Cabo Lu\u00eds",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.621349,
+    40.650559,
+    -8.621349,
+    40.650559
+],
+  "geometry": {"coordinates":[-8.621349,40.650559],"type":"Point"}
+}

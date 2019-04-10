@@ -1,0 +1,112 @@
+{
+  "id": 101777207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":489496.183701,
+    "geom:bbox":"-8.5133970827,40.2329926474,-8.50345958157,40.2426203471",
+    "geom:latitude":40.238303,
+    "geom:longitude":-8.508931,
+    "iso:country":"PT",
+    "lbl:latitude":40.237873,
+    "lbl:longitude":-8.509345,
+    "mps:latitude":40.237873,
+    "mps:longitude":-8.509345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u0443\u0430\u043d-\u0434\u0443-\u041a\u0430\u043c\u043f\u0443"
+    ],
+    "name:por_x_colloquial":[
+        "S Joao do Campo",
+        "S. Joao do Campo",
+        "Sao Joao do Campo"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u0443\u0430\u043d-\u0434\u0443-\u041a\u0430\u043c\u043f\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Campo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o do Campo",
+    "qs:la_lc":"*PT10603201",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Jo\u00e3o do Campo",
+    "qs:loc_alt":"Sao Joao do Campo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027574c6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734472,
+        "gp:id":748205,
+        "qs:id":1158458,
+        "qs_pg:id":1158458,
+        "wd:id":"Q1307982"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dc50cb934bb54c27cbd04d178f02a8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777207,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777207,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498159,
+    "wof:name":"S\u00e3o Jo\u00e3o do Campo",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51339708270308,
+    40.23299264739597,
+    -8.50345958156834,
+    40.24262034709847
+],
+  "geometry": {"coordinates":[[[-8.50460427467829,40.24065149177369],[-8.50434434572787,40.23977672396666],[-8.50548901763403,40.23955739575456],[-8.50496916044483,40.23780786144391],[-8.5061137967773,40.23758852693015],[-8.50585386853908,40.23671376042608],[-8.50699848367037,40.23649441610809],[-8.50647862790811,40.2347448844028],[-8.50876778020267,40.23430616985814],[-8.50850783831191,40.2334314081595],[-8.51079693454778,40.23299264739597],[-8.51339708270308,40.24174010873702],[-8.5099629970257,40.24239833503731],[-8.50944297505066,40.24064883695723],[-8.50486421344715,40.24152625767977],[-8.50512416203492,40.24240102168517],[-8.50397944017908,40.24262034709847],[-8.50345958156834,40.24087081018087],[-8.50460427467829,40.24065149177369]]],"type":"Polygon"}
+}

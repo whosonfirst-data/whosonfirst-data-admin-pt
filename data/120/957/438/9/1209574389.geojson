@@ -1,0 +1,63 @@
+{
+  "id": 1209574389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73029,41.22694,-7.73029,41.22694",
+    "geom:latitude":41.22694,
+    "geom:longitude":-7.73029,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1714",
+    "gn:admin3_code":"171418.0",
+    "gn:asciiname":"Nogueira",
+    "gn:country_code":"PT",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737151,
+    "gn:latitude":41.22694,
+    "gn:longitude":-7.73029,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Nogueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737151
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2fb3accac85b16bfa986598647c2512b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209574389
+        }
+    ],
+    "wof:id":1209574389,
+    "wof:lastmodified":1536282984,
+    "wof:name":"Nogueira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.730289999999999,
+    41.22694,
+    -7.730289999999999,
+    41.22694
+],
+  "geometry": {"coordinates":[-7.73029,41.22694],"type":"Point"}
+}

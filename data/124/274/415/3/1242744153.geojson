@@ -1,0 +1,67 @@
+{
+  "id": 1242744153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74131,39.23501,-8.74131,39.23501",
+    "geom:latitude":39.23501,
+    "geom:longitude":-8.74131,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1416",
+    "gn:admin3_code":"141606.0",
+    "gn:asciiname":"Ponte Celeiro",
+    "gn:country_code":"PT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264546,
+    "gn:latitude":39.23501,
+    "gn:longitude":-8.74131,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte Celeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264546
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3591edd1509372c31890bd1e16de8848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242744153,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1242744153,
+    "wof:lastmodified":1536823053,
+    "wof:name":"Ponte Celeiro",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74131,
+    39.23501,
+    -8.74131,
+    39.23501
+],
+  "geometry": {"coordinates":[-8.74131,39.23501],"type":"Point"}
+}

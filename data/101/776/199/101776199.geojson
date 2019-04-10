@@ -1,0 +1,92 @@
+{
+  "id": 101776199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":499460.743228,
+    "geom:bbox":"-8.4791052158,40.3802020917,-8.46872979163,40.3885124597",
+    "geom:latitude":40.384444,
+    "geom:longitude":-8.474373,
+    "iso:country":"PT",
+    "lbl:latitude":40.384628,
+    "lbl:longitude":-8.474472,
+    "mps:latitude":40.384628,
+    "mps:longitude":-8.474472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Antes"
+    ],
+    "name:glg_x_preferred":[
+        "Antes"
+    ],
+    "name:nld_x_preferred":[
+        "Antes"
+    ],
+    "name:por_x_preferred":[
+        "Antes"
+    ],
+    "name:spa_x_preferred":[
+        "Antes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Antes",
+    "qs:la_lc":"*PT10111015",
+    "qs:level":"locality",
+    "qs:loc":"Antes",
+    "qs:loc_alt":"Antes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f83b8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2742851,
+        "gp:id":736250,
+        "qs:id":914671
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"220d0c9ac5ff071f677c38906ea19d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776199,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776199,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688309,
+    "wof:name":"Antes",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47910521580332,
+    40.38020209173811,
+    -8.46872979162617,
+    40.38851245973029
+],
+  "geometry": {"coordinates":[[[-8.47107404172834,40.38851245973029],[-8.47055302822696,40.38676305368892],[-8.47170033049008,40.38654404518832],[-8.47039789699068,40.38217051451932],[-8.46925066706495,40.38238950546241],[-8.46872979162617,40.38064007292257],[-8.47102418674558,40.38020209173811],[-8.4715451200467,40.38195151023353],[-8.47728113226964,40.38085628867299],[-8.47754168603655,40.38173097752144],[-8.47868888233108,40.38151188967117],[-8.47894946042641,40.38238657311348],[-8.47780224966766,40.38260566447627],[-8.47910521580332,40.38697907084492],[-8.47795792584202,40.38719816642976],[-8.47821853420118,40.38807284553582],[-8.47707122289779,40.38829193129084],[-8.4768106290062,40.38741724867174],[-8.47107404172834,40.38851245973029]]],"type":"Polygon"}
+}

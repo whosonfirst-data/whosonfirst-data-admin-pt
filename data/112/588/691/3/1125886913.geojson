@@ -1,0 +1,85 @@
+{
+  "id": 1125886913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68525,41.50031,-8.68525,41.50031",
+    "geom:latitude":41.50031,
+    "geom:longitude":-8.68525,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.50031,
+    "lbl:longitude":-8.68525,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Vila Secca"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2732345,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vila Seca-Vila Seca",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905255,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29386764,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732345,
+        "gp:id":29386764,
+        "qs_pg:id":905255
+    },
+    "wof:country":"PT",
+    "wof:created":1497295123,
+    "wof:geomhash":"55252bfdb5829d1feff6a1a1ab5b65b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125886913,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125886913,
+    "wof:lastmodified":1509398571,
+    "wof:name":"Vila Seca-Vila Seca",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68525,
+    41.50031,
+    -8.68525,
+    41.50031
+],
+  "geometry": {"coordinates":[-8.68525,41.50031],"type":"Point"}
+}

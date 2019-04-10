@@ -1,0 +1,67 @@
+{
+  "id": 1242674603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31155,40.01366,-8.31155,40.01366",
+    "geom:latitude":40.01366,
+    "geom:longitude":-8.31155,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0614",
+    "gn:admin3_code":"61402.0",
+    "gn:asciiname":"Traquinai",
+    "gn:country_code":"PT",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733432,
+    "gn:latitude":40.01366,
+    "gn:longitude":-8.31155,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Traquinai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733432
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"30c5bc2ab9738b0b9d817921424546e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242674603,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1242674603,
+    "wof:lastmodified":1536924803,
+    "wof:name":"Traquinai",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31155,
+    40.01366,
+    -8.31155,
+    40.01366
+],
+  "geometry": {"coordinates":[-8.31155,40.01366],"type":"Point"}
+}

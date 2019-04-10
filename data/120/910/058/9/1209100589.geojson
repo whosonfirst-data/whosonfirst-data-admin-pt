@@ -1,0 +1,63 @@
+{
+  "id": 1209100589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77283,40.28117,-8.77283,40.28117",
+    "geom:latitude":40.28117,
+    "geom:longitude":-8.77283,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"60515.0",
+    "gn:asciiname":"Pedros",
+    "gn:country_code":"PT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736527,
+    "gn:latitude":40.28117,
+    "gn:longitude":-8.77283,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pedros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736527
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"63ad6db1caf34f6342701d6ae61831fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209100589
+        }
+    ],
+    "wof:id":1209100589,
+    "wof:lastmodified":1536297746,
+    "wof:name":"Pedros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77283,
+    40.28117,
+    -8.77283,
+    40.28117
+],
+  "geometry": {"coordinates":[-8.77283,40.28117],"type":"Point"}
+}

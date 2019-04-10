@@ -1,0 +1,79 @@
+{
+  "id": 1125957403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.65,37.75,-25.65,37.75",
+    "geom:latitude":37.75,
+    "geom:longitude":-25.65,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7880,
+    "gn:population":7880,
+    "iso:country":"PT",
+    "lbl:latitude":37.75,
+    "lbl:longitude":-25.65,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Rosto do C\u00e3o"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3372677,
+    "qs_pg:gn_pop":7880,
+    "qs_pg:name":"Rosto de C\u00e3o",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":583007,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372677,
+        "qs_pg:id":583007
+    },
+    "wof:country":"PT",
+    "wof:created":1497297666,
+    "wof:geomhash":"c77f17e4ba78c1c031ac0fdc553687e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125957403,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1125957403,
+    "wof:lastmodified":1509403080,
+    "wof:name":"Rosto de C\u00e3o",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:population":7880,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.65,
+    37.75,
+    -25.65,
+    37.75
+],
+  "geometry": {"coordinates":[-25.65,37.75],"type":"Point"}
+}

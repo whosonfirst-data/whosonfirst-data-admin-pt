@@ -1,0 +1,67 @@
+{
+  "id": 1310696263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0278,37.19437,-8.0278,37.19437",
+    "geom:latitude":37.19437,
+    "geom:longitude":-8.0278,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80811.0",
+    "gn:asciiname":"Ponte de Tor",
+    "gn:country_code":"PT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264536,
+    "gn:latitude":37.19437,
+    "gn:longitude":-8.0278,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ponte de Tor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264536
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"44e5007f5d1b5061749e16ce79f96e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310696263,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1310696263,
+    "wof:lastmodified":1536640848,
+    "wof:name":"Ponte de Tor",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0278,
+    37.19437,
+    -8.0278,
+    37.19437
+],
+  "geometry": {"coordinates":[-8.0278,37.19437],"type":"Point"}
+}

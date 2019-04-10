@@ -1,0 +1,80 @@
+{
+  "id": 1125900203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.380296,38.800654,-9.380296,38.800654",
+    "geom:latitude":38.800654,
+    "geom:longitude":-9.380296,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.800654,
+    "lbl:longitude":-9.380296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sintra-Santa Maria e S\u00e3o Miguel",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":849,
+    "qs_pg:photos_1k":172,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":849,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1121071,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":22661033,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22661033,
+        "qs_pg:id":1121071
+    },
+    "wof:country":"PT",
+    "wof:created":1497295771,
+    "wof:geomhash":"09afd62ff503ed4cb2a4f0797103ce5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125900203,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125900203,
+    "wof:lastmodified":1509399355,
+    "wof:name":"Sintra-Santa Maria e S\u00e3o Miguel",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.380296,
+    38.800654,
+    -9.380296,
+    38.800654
+],
+  "geometry": {"coordinates":[-9.380296,38.800654],"type":"Point"}
+}

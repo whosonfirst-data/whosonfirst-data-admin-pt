@@ -1,0 +1,120 @@
+{
+  "id": 101759147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000109,
+    "geom:area_square_m":1051697.090945,
+    "geom:bbox":"-9.14693610829,38.8000297553,-9.13454069668,38.8166554227",
+    "geom:latitude":38.807696,
+    "geom:longitude":-9.140068,
+    "iso:country":"PT",
+    "lbl:latitude":38.80673,
+    "lbl:longitude":-9.139646,
+    "mps:latitude":38.80673,
+    "mps:longitude":-9.139646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:glg_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u043e\u0437\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0416\u043e\u0437\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Jos\u00e9"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro de S\u00e3o Jos\u00e9",
+    "qs:loc_alt":"Bairro de Sao Jose",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":736263,
+        "qs:id":9,
+        "wd:id":"Q1786370"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"768c3c4148bd05fd46ce9ad2cde56aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759147,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759147,
+    "wof:lastmodified":1514497965,
+    "wof:name":"Bairro de S\u00e3o Jos\u00e9",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14693610828778,
+    38.80002975533779,
+    -9.13454069668097,
+    38.81665542274237
+],
+  "geometry": {"coordinates":[[[-9.13788826162966,38.81373284712942],[-9.13807175196706,38.81369580038006],[-9.13729612076799,38.81107245802252],[-9.13505768281146,38.81152440895465],[-9.13454069668097,38.80977549010402],[-9.13565989212333,38.80954952805638],[-9.13490040535146,38.80698014234417],[-9.13612512784181,38.80225621273814],[-9.13695239440392,38.80225621273814],[-9.13815975641319,38.80020369732216],[-9.1385076403821,38.80002975533779],[-9.13828049261423,38.80032443352314],[-9.14214405104411,38.80249768514],[-9.14467951126369,38.80310136614457],[-9.14667466336482,38.80268133412335],[-9.14693610828778,38.8035653952449],[-9.14581703854964,38.8037914859093],[-9.14607563611605,38.80466591621507],[-9.14495654642269,38.80489199739708],[-9.14547374338338,38.80664085890993],[-9.14435462033174,38.80686693408131],[-9.14487182866293,38.80861579448163],[-9.14375267225034,38.80884186364165],[-9.14401127732873,38.80971629429291],[-9.14289210095654,38.80994235396935],[-9.14340931293799,38.81169121617478],[-9.14229010320008,38.81191726983911],[-9.14305076879674,38.81448921943871],[-9.14142611631911,38.81665542274237],[-9.13788826162966,38.81373284712942]]],"type":"Polygon"}
+}

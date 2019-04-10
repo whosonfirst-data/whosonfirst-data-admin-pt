@@ -1,0 +1,71 @@
+{
+  "id": 101831363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:bbox":"-8.61612145344,40.8708317102,-8.59478241272,40.8835410624",
+    "geom:latitude":40.876291,
+    "geom:longitude":-8.605231,
+    "geonames:id":"2733928,2733929",
+    "iso:country":"PT",
+    "lbl:latitude":40.877153,
+    "lbl:longitude":-8.606282,
+    "mps:latitude":40.877153,
+    "mps:longitude":-8.606282,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"V\u00e1lega",
+    "qs:la_lc":"*PT10115070",
+    "qs:level":"locality",
+    "qs:loc":"Sobral",
+    "qs:loc_alt":"Sobral",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733928,
+        "gp:id":748916,
+        "qs:id":388972
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"09645d73aa82e8938c02c06235a04d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101831363,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101831363,
+    "wof:lastmodified":1466626131,
+    "wof:name":"Sobral",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61612145343963,
+    40.87083171015428,
+    -8.59478241272257,
+    40.88354106242355
+],
+  "geometry": {"coordinates":[[[-8.59478241272257,40.87611438924489],[-8.59586494252068,40.8712849472102],[-8.59823763582011,40.87083171015428],[-8.61612145343963,40.87573417758489],[-8.61541537913251,40.87586920238545],[-8.61594751775635,40.87761650534077],[-8.6124809495912,40.87827934382],[-8.6127469899024,40.87915300321743],[-8.61043587949752,40.87959483547689],[-8.61070190047127,40.88046850015405],[-8.60839073220029,40.88091028579822],[-8.6086567338333,40.88178395575488],[-8.60518988398155,40.88244654412216],[-8.60545585152704,40.88332022294458],[-8.60430020597482,40.88354106242355],[-8.60243874932308,40.87742524579852],[-8.60128319988064,40.87764604672964],[-8.60075147585962,40.8758986463385],[-8.59959594880871,40.87611942665239],[-8.59933011674491,40.87524572003224],[-8.59478241272257,40.87611438924489]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226076925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09719,41.54352,-7.09719,41.54352",
+    "geom:latitude":41.54352,
+    "geom:longitude":-7.09719,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0407",
+    "gn:admin3_code":"40705.0",
+    "gn:asciiname":"Avantos",
+    "gn:country_code":"PT",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742616,
+    "gn:latitude":41.54352,
+    "gn:longitude":-7.09719,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Avantos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742616
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d8ac86f85414113ac672d862793101f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226076925,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1226076925,
+    "wof:lastmodified":1536680315,
+    "wof:name":"Avantos",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09719,
+    41.54352,
+    -7.09719,
+    41.54352
+],
+  "geometry": {"coordinates":[-7.09719,41.54352],"type":"Point"}
+}

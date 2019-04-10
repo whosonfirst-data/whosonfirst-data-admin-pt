@@ -1,0 +1,101 @@
+{
+  "id": 101777171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":459522.943461,
+    "geom:bbox":"-7.64121219867,40.1963025227,-7.62974969956,40.2043277745",
+    "geom:latitude":40.200661,
+    "geom:longitude":-7.635384,
+    "iso:country":"PT",
+    "lbl:latitude":40.201398,
+    "lbl:longitude":-7.635297,
+    "mps:latitude":40.201398,
+    "mps:longitude":-7.635297,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Paul"
+    ],
+    "name:eng_x_preferred":[
+        "Paul"
+    ],
+    "name:fre_x_preferred":[
+        "Paul"
+    ],
+    "name:ger_x_preferred":[
+        "Paul"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0443\u043b"
+    ],
+    "name:por_x_preferred":[
+        "Paul"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0443\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Paul"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Paul",
+    "qs:la_lc":"*PT10503142",
+    "qs:level":"locality",
+    "qs:loc":"Pa\u00fal",
+    "qs:loc_alt":"Paul",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0274edee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2736598,
+        "gp:id":745300,
+        "qs:id":206388,
+        "wd:id":"Q2058612"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"80ac4c6e4cd5f6fd2a7c8f8bf23fc88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777171,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777171,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815491,
+    "wof:name":"Pa\u00fal",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64121219866826,
+    40.19630252274476,
+    -7.62974969956247,
+    40.20432777446342
+],
+  "geometry": {"coordinates":[[[-7.63188605211212,40.20432777446342],[-7.6313909967202,40.20257254684009],[-7.63024468837818,40.20278159938653],[-7.62974969956247,40.20102635784565],[-7.63089597881935,40.20081731198752],[-7.63040099840612,40.19906206990566],[-7.63498593390085,40.19822577967199],[-7.63523347758303,40.199103388239],[-7.63867215435044,40.19847602030148],[-7.63817698912618,40.19672082142898],[-7.6404693495416,40.19630252274476],[-7.64121219866826,40.19893529826822],[-7.64006597810805,40.19914446432426],[-7.64031359869676,40.20002205589435],[-7.63916735707403,40.20023121194095],[-7.63966259730023,40.20198639634765],[-7.63737003632372,40.20240468175768],[-7.63761764141907,40.20328227794027],[-7.63188605211212,40.20432777446342]]],"type":"Polygon"}
+}

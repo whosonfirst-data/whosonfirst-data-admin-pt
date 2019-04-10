@@ -1,0 +1,73 @@
+{
+  "id": 101851457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.708211,41.256233,-8.708211,41.256233",
+    "geom:latitude":41.256233,
+    "geom:longitude":-8.708211,
+    "iso:country":"PT",
+    "lbl:latitude":41.256233,
+    "lbl:longitude":-8.708211,
+    "mps:latitude":41.256233,
+    "mps:longitude":-8.708211,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Antela",
+    "qs:loc_alt":"Antela",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":742603,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5971b3ec65b86c1ae0a6ef21df759e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851457,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101851457,
+    "wof:lastmodified":1544741800,
+    "wof:name":"Antela",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.708211,
+    41.256233,
+    -8.708211,
+    41.256233
+],
+  "geometry": {"coordinates":[-8.708211,41.256233],"type":"Point"}
+}

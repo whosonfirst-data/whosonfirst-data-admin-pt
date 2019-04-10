@@ -1,0 +1,92 @@
+{
+  "id": 1126082519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16007,38.71189,-9.16007,38.71189",
+    "geom:latitude":38.71189,
+    "geom:longitude":-9.16007,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.71189,
+    "lbl:longitude":-9.16007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012474,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lapa",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":1503,
+    "qs_pg:photos_1k":305,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1503,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1051080,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742546,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012474,
+        "gp:id":742546,
+        "qs_pg:id":1051080
+    },
+    "wof:country":"PT",
+    "wof:created":1497312172,
+    "wof:geomhash":"2a81801188215934b01254ab7fc6d3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1126082519,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1126082519,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Lapa",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        85799003
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16007,
+    38.71189,
+    -9.16007,
+    38.71189
+],
+  "geometry": {"coordinates":[-9.16007,38.71189],"type":"Point"}
+}

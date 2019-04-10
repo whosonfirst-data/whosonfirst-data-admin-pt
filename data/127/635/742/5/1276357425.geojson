@@ -1,0 +1,67 @@
+{
+  "id": 1276357425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7333,40.1412,-8.7333,40.1412",
+    "geom:latitude":40.1412,
+    "geom:longitude":-8.7333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61001.0",
+    "gn:asciiname":"Presalves",
+    "gn:country_code":"PT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735707,
+    "gn:latitude":40.1412,
+    "gn:longitude":-8.7333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Presalves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735707
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a7b49f9901f7e780c51ce24beec9b524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276357425,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1276357425,
+    "wof:lastmodified":1536746037,
+    "wof:name":"Presalves",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7333,
+    40.1412,
+    -8.7333,
+    40.1412
+],
+  "geometry": {"coordinates":[-8.7333,40.1412],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226411221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82993,41.11641,-7.82993,41.11641",
+    "geom:latitude":41.11641,
+    "geom:longitude":-7.82993,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1805",
+    "gn:admin3_code":"180502.0",
+    "gn:asciiname":"Avoes",
+    "gn:country_code":"PT",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742562,
+    "gn:latitude":41.11641,
+    "gn:longitude":-7.82993,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Av\u00f5es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742562
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"eefb80c6bc2246da1d5b0acf095509ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226411221,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1226411221,
+    "wof:lastmodified":1536695581,
+    "wof:name":"Avoes",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82993,
+    41.11641,
+    -7.82993,
+    41.11641
+],
+  "geometry": {"coordinates":[-7.82993,41.11641],"type":"Point"}
+}

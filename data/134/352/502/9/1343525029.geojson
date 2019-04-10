@@ -1,0 +1,67 @@
+{
+  "id": 1343525029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.306,41.17249,-8.306,41.17249",
+    "geom:latitude":41.17249,
+    "geom:longitude":-8.306,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1311",
+    "gn:admin3_code":"131128.0",
+    "gn:asciiname":"Rans",
+    "gn:country_code":"PT",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735453,
+    "gn:latitude":41.17249,
+    "gn:longitude":-8.306,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rans",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735453
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f75873265a61947931769d0dfd6c494e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343525029,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1343525029,
+    "wof:lastmodified":1536653105,
+    "wof:name":"Rans",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.306,
+    41.17249,
+    -8.306,
+    41.17249
+],
+  "geometry": {"coordinates":[-8.306,41.17249],"type":"Point"}
+}

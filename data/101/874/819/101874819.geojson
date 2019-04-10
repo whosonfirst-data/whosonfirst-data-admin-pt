@@ -1,0 +1,83 @@
+{
+  "id": 101874819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.448484,39.48511,-8.448484,39.48511",
+    "geom:latitude":39.48511,
+    "geom:longitude":-8.448484,
+    "iso:country":"PT",
+    "lbl:latitude":39.48511,
+    "lbl:longitude":-8.448484,
+    "mps:latitude":39.48511,
+    "mps:longitude":-8.448484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Atalaia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Atalaia",
+    "qs:loc_alt":"Atalaia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273aae2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271387,
+        "gp:id":736599,
+        "qs:id":1158177,
+        "qs_pg:id":1158177
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc1f2dc195f3a43f60a19160011b7947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874819,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101874819,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751808,
+    "wof:name":"Atalaia",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.448484,
+    39.48511,
+    -8.448484,
+    39.48511
+],
+  "geometry": {"coordinates":[-8.448484,39.48511],"type":"Point"}
+}

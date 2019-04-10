@@ -1,0 +1,111 @@
+{
+  "id": 1125812725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44557,39.98898,-7.44557,39.98898",
+    "geom:latitude":39.98898,
+    "geom:longitude":-7.44557,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.98898,
+    "lbl:longitude":-7.44557,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lardosa"
+    ],
+    "name:eng_x_preferred":[
+        "Lardosa"
+    ],
+    "name:fre_x_preferred":[
+        "Lardosa"
+    ],
+    "name:ger_x_preferred":[
+        "Lardosa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u0440\u0434\u043e\u0437\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Lardosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0434\u043e\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lardosa"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2267126,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lardosa",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Castelo Branco",
+    "qs_pg:photos":92,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":92,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1166767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742573,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Castelo Branco",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267126,
+        "gp:id":742573,
+        "qs_pg:id":1166767,
+        "wd:id":"Q1024238"
+    },
+    "wof:country":"PT",
+    "wof:created":1497291724,
+    "wof:geomhash":"f41d00e50ebdd48607afdbd36103d477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125812725,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1125812725,
+    "wof:lastmodified":1514498059,
+    "wof:name":"Lardosa",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44557,
+    39.98898,
+    -7.44557,
+    39.98898
+],
+  "geometry": {"coordinates":[-7.44557,39.98898],"type":"Point"}
+}

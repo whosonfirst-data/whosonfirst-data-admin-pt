@@ -1,0 +1,135 @@
+{
+  "id": 85799111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":641153.164809,
+    "geom:bbox":"-9.21863406491,38.7026593072,-9.20928955078,38.7126482744",
+    "geom:latitude":38.707034,
+    "geom:longitude":-9.213985,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.704068,
+    "lbl:longitude":-9.213554,
+    "mps:latitude":38.706623,
+    "mps:longitude":-9.214362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:fra_x_preferred":[
+        "Stade du Restelo"
+    ],
+    "name:glg_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:hrv_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:ita_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:nld_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:por_x_preferred":[
+        "Restelo"
+    ],
+    "name:por_x_variant":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443 \u0420\u0435\u0448\u0442\u0435\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Estadio del Restelo"
+    ],
+    "name:swe_x_preferred":[
+        "Est\u00e1dio do Restelo"
+    ],
+    "name:unk_x_variant":[
+        "Restelo"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Restelo",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":37,
+    "qs:photo_sum":91,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":747176,
+        "qs:id":239897,
+        "qs_pg:id":239897
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"11e36f38e9f35d9d60d124d7623c1f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85799111,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85799111,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1536864470,
+    "wof:name":"Restelo",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21863406491292,
+    38.70265930720008,
+    -9.20928955077977,
+    38.71264827435377
+],
+  "geometry": {"coordinates":[[[-9.2120361328102,38.71123253900002],[-9.21203613280986,38.70908932128587],[-9.20928955077977,38.70908931803763],[-9.20928955077986,38.70694604356267],[-9.20928955077986,38.70480270436694],[-9.2101258960887,38.70373097725037],[-9.21203613280986,38.70373097725037],[-9.21203613280994,38.70265930720008],[-9.21752929687995,38.70265930720008],[-9.21752929687852,38.70407500134084],[-9.21752929687844,38.70553028291555],[-9.21863406491292,38.7069459873503],[-9.21752929687995,38.71119335522175],[-9.21752166547981,38.71122269474172],[-9.2161789001949,38.71087853280287],[-9.21535021121116,38.71123253900002],[-9.21203613281082,38.71264827435377],[-9.2120361328102,38.71123253900002]]],"type":"Polygon"}
+}

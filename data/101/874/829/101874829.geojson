@@ -1,0 +1,116 @@
+{
+  "id": 101874829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.588141,40.678644,-8.588141,40.678644",
+    "geom:latitude":40.678644,
+    "geom:longitude":-8.588141,
+    "iso:country":"PT",
+    "lbl:latitude":40.678644,
+    "lbl:longitude":-8.588141,
+    "mps:latitude":40.678644,
+    "mps:longitude":-8.588141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5361\u897f\u4e9a"
+    ],
+    "name:dut_x_preferred":[
+        "Cacia"
+    ],
+    "name:eng_x_preferred":[
+        "Cacia"
+    ],
+    "name:fre_x_preferred":[
+        "Cacia"
+    ],
+    "name:ger_x_preferred":[
+        "Cacia"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Cacia"
+    ],
+    "name:por_x_preferred":[
+        "Cacia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Cacia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cacia",
+    "qs:loc_alt":"Cacia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":40.683333,
+    "wd:longitude":-8.6,
+    "wd:wordcount":1496,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027368ca-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2741789,
+        "gp:id":737833,
+        "qs:id":1001135,
+        "qs_pg:id":1001135,
+        "wd:id":"Q2257798",
+        "wk:page":"Cacia"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a5c794d98e0daeaa61efada733ac4909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874829,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101874829,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751812,
+    "wof:name":"Cacia",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.588141,
+    40.678644,
+    -8.588141,
+    40.678644
+],
+  "geometry": {"coordinates":[-8.588141,40.678644],"type":"Point"}
+}

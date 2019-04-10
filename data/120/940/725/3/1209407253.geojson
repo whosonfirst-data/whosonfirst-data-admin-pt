@@ -1,0 +1,63 @@
+{
+  "id": 1209407253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15139,40.1034,-7.15139,40.1034",
+    "geom:latitude":40.1034,
+    "geom:longitude":-7.15139,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0507",
+    "gn:admin3_code":"50703.0",
+    "gn:asciiname":"Aldeia de Joao Pires",
+    "gn:country_code":"PT",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743176,
+    "gn:latitude":40.1034,
+    "gn:longitude":-7.15139,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldeia de Jo\u00e3o Pires",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743176
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ad5cd8b88258e256a26d27445292739e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209407253
+        }
+    ],
+    "wof:id":1209407253,
+    "wof:lastmodified":1536287954,
+    "wof:name":"Aldeia de Joao Pires",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.151389999999999,
+    40.1034,
+    -7.151389999999999,
+    40.1034
+],
+  "geometry": {"coordinates":[-7.15139,40.1034],"type":"Point"}
+}

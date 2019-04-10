@@ -1,0 +1,67 @@
+{
+  "id": 1293386845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3377,40.07034,-8.3377,40.07034",
+    "geom:latitude":40.07034,
+    "geom:longitude":-8.3377,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60905.0",
+    "gn:asciiname":"Albarrol",
+    "gn:country_code":"PT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743238,
+    "gn:latitude":40.07034,
+    "gn:longitude":-8.3377,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Albarrol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743238
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dbc4d043a012bd4182b0c626d2c32586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293386845,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1293386845,
+    "wof:lastmodified":1536932901,
+    "wof:name":"Albarrol",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3377,
+    40.07034,
+    -8.3377,
+    40.07034
+],
+  "geometry": {"coordinates":[-8.3377,40.07034],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260054573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3838,42.04267,-8.3838,42.04267",
+    "geom:latitude":42.04267,
+    "geom:longitude":-8.3838,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1604",
+    "gn:admin3_code":"160427.0",
+    "gn:asciiname":"Vila Martins",
+    "gn:country_code":"PT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732602,
+    "gn:latitude":42.04267,
+    "gn:longitude":-8.3838,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Martins",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732602
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"67adebd137fd3151971e44fa0a359cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260054573,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1260054573,
+    "wof:lastmodified":1537028546,
+    "wof:name":"Vila Martins",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3838,
+    42.04267,
+    -8.3838,
+    42.04267
+],
+  "geometry": {"coordinates":[-8.3838,42.04267],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259672799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.87088,32.65772,-16.87088,32.65772",
+    "geom:latitude":32.65772,
+    "geom:longitude":-16.87088,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3103",
+    "gn:admin3_code":"310306.0",
+    "gn:asciiname":"Sao Goncalo",
+    "gn:country_code":"PT",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263341,
+    "gn:latitude":32.65772,
+    "gn:longitude":-16.87088,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"S\u00e3o Gon\u00e7alo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Madeira",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Gon\u00e7alo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263341,
+        "wk:page":"S%C3%A3o_Gon%C3%A7alo_%28Funchal%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0ba4f9f760fcca3c1fa04348ee2a7099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259672799,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1259672799,
+    "wof:lastmodified":1537683145,
+    "wof:name":"Sao Goncalo",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.87088,
+    32.65772,
+    -16.87088,
+    32.65772
+],
+  "geometry": {"coordinates":[-16.87088,32.65772],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259565497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78098,39.39984,-7.78098,39.39984",
+    "geom:latitude":39.39984,
+    "geom:longitude":-7.78098,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1209",
+    "gn:admin3_code":"120903.0",
+    "gn:asciiname":"Castelo Cernado",
+    "gn:country_code":"PT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269512,
+    "gn:latitude":39.39984,
+    "gn:longitude":-7.78098,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Castelo Cernado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269512
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0f4a8cfe2c1d7835e5c4f0edb90fa812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259565497,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1259565497,
+    "wof:lastmodified":1536740628,
+    "wof:name":"Castelo Cernado",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78098,
+    39.39984000000001,
+    -7.78098,
+    39.39984000000001
+],
+  "geometry": {"coordinates":[-7.78098,39.39984000000001],"type":"Point"}
+}

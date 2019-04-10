@@ -1,0 +1,95 @@
+{
+  "id": 101845397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:bbox":"-7.50133782873,39.3202682038,-7.49609097045,39.3318525625",
+    "geom:latitude":39.32622,
+    "geom:longitude":-7.498619,
+    "iso:country":"PT",
+    "lbl:latitude":39.326893,
+    "lbl:longitude":-7.499016,
+    "mps:latitude":39.326893,
+    "mps:longitude":-7.499016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fortinet"
+    ],
+    "name:jpn_x_preferred":[
+        "Fortinet"
+    ],
+    "name:por_x_preferred":[
+        "Fortios"
+    ],
+    "name:rus_x_preferred":[
+        "Fortinet"
+    ],
+    "name:spa_x_preferred":[
+        "Fortinet"
+    ],
+    "name:ukr_x_preferred":[
+        "Fortinet"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Fortios",
+    "qs:la_lc":"*PT11214047",
+    "qs:level":"locality",
+    "qs:loc":"Fortios",
+    "qs:loc_alt":"Fortios",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1223,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02682834-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267962,
+        "gp:id":741416,
+        "qs:id":937005,
+        "wd:id":"Q2749364"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9aa42abdee051b02f4648b5fb1bdb1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845397,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101845397,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642310,
+    "wof:name":"Fortios",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5013378287328,
+    39.32026820378888,
+    -7.49609097044976,
+    39.33185256253489
+],
+  "geometry": {"coordinates":[[[-7.49804706626912,39.32068235188797],[-7.50031041416156,39.32026820378888],[-7.50055029070268,39.32114728822734],[-7.49941860580964,39.32135437209917],[-7.5013378287328,39.32838700788261],[-7.49907421564001,39.32880118794282],[-7.49955405490061,39.33055934161507],[-7.49842221096452,39.33076641836954],[-7.49866213000462,39.33164549571057],[-7.49753026582357,39.33185256253489],[-7.49609097044976,39.32657805171482],[-7.49722275034117,39.32637100432328],[-7.49650318161389,39.32373373402265],[-7.49763491317418,39.32352668317776],[-7.4973950608254,39.32264759267019],[-7.49852677214778,39.32244053189544],[-7.49804706626912,39.32068235188797]]],"type":"Polygon"}
+}

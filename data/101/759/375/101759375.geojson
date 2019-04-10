@@ -1,0 +1,69 @@
+{
+  "id": 101759375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:bbox":"-8.65672644451,41.0719895519,-8.64609263358,41.088348613",
+    "geom:latitude":41.080172,
+    "geom:longitude":-8.651765,
+    "iso:country":"PT",
+    "lbl:latitude":41.080172,
+    "lbl:longitude":-8.651663,
+    "mps:latitude":41.080172,
+    "mps:longitude":-8.651663,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Moutadas",
+    "qs:loc_alt":"Moutadas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381450,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e2d7f94ca8956ccffdfa595e02479fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759375,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759375,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Moutadas",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65672644451058,
+    41.07198955191762,
+    -8.64609263357511,
+    41.08834861296265
+],
+  "geometry": {"coordinates":[[[-8.64628579544376,41.08538249936595],[-8.64704396361822,41.08242564348524],[-8.64750670383717,41.08029703847814],[-8.64741415579334,41.07770569325191],[-8.64609263357511,41.07498005367671],[-8.65578185927433,41.07198955191762],[-8.65672644451058,41.07506653488753],[-8.6555675299291,41.07528807853515],[-8.65583562707536,41.07616136778796],[-8.65467669045654,41.07638290156098],[-8.65628539952496,41.0816226189948],[-8.65512636658542,41.0818441609714],[-8.65646716519973,41.08621055816042],[-8.65530805077788,41.08643210472678],[-8.65578589359592,41.08798747438277],[-8.65098790960786,41.08834861296265],[-8.64986723419412,41.08469826919509],[-8.64628579544376,41.08538249936595]]],"type":"Polygon"}
+}

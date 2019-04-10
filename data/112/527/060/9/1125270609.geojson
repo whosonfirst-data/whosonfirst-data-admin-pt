@@ -1,0 +1,72 @@
+{
+  "id": 1125270609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77317,39.51778,-8.77317,39.51778",
+    "geom:latitude":39.51778,
+    "geom:longitude":-8.77317,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.51778,
+    "lbl:longitude":-8.77317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012423,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e3o Bento",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155629,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012423,
+        "qs_pg:id":1155629
+    },
+    "wof:country":"PT",
+    "wof:created":1497042109,
+    "wof:geomhash":"9b4fabb9a7c283de8e334b6d6d489fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125270609,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125270609,
+    "wof:lastmodified":1509387010,
+    "wof:name":"S\u00e3o Bento",
+    "wof:parent_id":85687381,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77317,
+    39.51778,
+    -8.77317,
+    39.51778
+],
+  "geometry": {"coordinates":[-8.77317,39.51778],"type":"Point"}
+}

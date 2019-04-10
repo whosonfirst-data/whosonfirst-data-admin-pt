@@ -1,0 +1,93 @@
+{
+  "id": 101849947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.704916,37.862007,-25.704916,37.862007",
+    "geom:latitude":37.862007,
+    "geom:longitude":-25.704916,
+    "iso:country":"PT",
+    "lbl:latitude":37.862007,
+    "lbl:longitude":-25.704916,
+    "mps:latitude":37.862007,
+    "mps:longitude":-25.704916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_colloquial":[
+        "Santo Antonio",
+        "Sto Antonio",
+        "Sto. Antonio"
+    ],
+    "name:por_x_preferred":[
+        "Santo Ant\u00f3nio"
+    ],
+    "name:por_x_variant":[
+        "Sto Ant\u00f3nio",
+        "Sto. Ant\u00f3nio"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santo Ant\u00f3nio",
+    "qs:loc_alt":"Santo Antonio",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":227,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02651c48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372630,
+        "gp:id":538343,
+        "qs:id":1139945,
+        "qs_pg:id":1139945
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"08bcb15f21c419df022dbf3c73150c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849947,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849947,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741192,
+    "wof:name":"Santo Ant\u00f3nio",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.704916,
+    37.862007,
+    -25.704916,
+    37.862007
+],
+  "geometry": {"coordinates":[-25.704916,37.862007],"type":"Point"}
+}

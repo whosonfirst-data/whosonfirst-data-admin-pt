@@ -1,0 +1,109 @@
+{
+  "id": 85798949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":579974.670048,
+    "geom:bbox":"-9.2018780612,38.7398148199,-9.19006347656,38.7476572969",
+    "geom:latitude":38.744127,
+    "geom:longitude":-9.195488,
+    "gn:latitude":38.46319,
+    "gn:longitude":-9.056,
+    "iso:country":"PT",
+    "lbl:latitude":38.749272,
+    "lbl:longitude":-9.1941,
+    "mps:latitude":38.74419,
+    "mps:longitude":-9.195375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Calhariz"
+    ],
+    "name:unk_x_variant":[
+        "Calharis",
+        "Calhariz"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"19",
+    "qs:gn_name":"Calhariz",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Calhariz",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":40,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270411,
+        "gp:id":737912,
+        "qs:id":1116009,
+        "qs_pg:id":1116009
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"55949a1a54610996d1cd727ce7ec1c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798949,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798949,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497315355,
+    "wof:name":"Calhariz",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20187806120163,
+    38.73981481988514,
+    -9.19006347656,
+    38.74765729686692
+],
+  "geometry": {"coordinates":[[[-9.19281005858988,38.74765729508354],[-9.19281005858988,38.74551518490009],[-9.19006347656,38.74551518490009],[-9.19006347656,38.744099230266],[-9.19006347656,38.74123075380005],[-9.19006347656,38.74123068955011],[-9.19445227365179,38.74123068955011],[-9.19555664062148,38.73981481988514],[-9.19830322265733,38.74098858497248],[-9.19830322265838,38.74123075380005],[-9.1983032226585,38.74337299212323],[-9.2015972138845,38.74337298542538],[-9.20187806120163,38.74445321092138],[-9.20104980248206,38.74551518049907],[-9.2002144620177,38.74658621232523],[-9.19913856532793,38.74658621232523],[-9.19830322265838,38.74765729544023],[-9.19555664062148,38.74765729686692],[-9.19281005858988,38.74765729508354]]],"type":"Polygon"}
+}

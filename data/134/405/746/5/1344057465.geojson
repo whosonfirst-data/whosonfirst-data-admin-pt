@@ -1,0 +1,67 @@
+{
+  "id": 1344057465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59806,41.38576,-8.59806,41.38576",
+    "geom:latitude":41.38576,
+    "geom:longitude":-8.59806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0312",
+    "gn:admin3_code":"31215.0",
+    "gn:asciiname":"Agua de Saude",
+    "gn:country_code":"PT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743321,
+    "gn:latitude":41.38576,
+    "gn:longitude":-8.59806,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"\u00c1gua de Sa\u00fade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743321
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"da679f6287459fbb30e1e4cd79b1f419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344057465,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1344057465,
+    "wof:lastmodified":1536879103,
+    "wof:name":"Agua de Saude",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59806,
+    41.38576,
+    -8.59806,
+    41.38576
+],
+  "geometry": {"coordinates":[-8.59806,41.38576],"type":"Point"}
+}

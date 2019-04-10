@@ -1,0 +1,63 @@
+{
+  "id": 1209206319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0316,40.36848,-8.0316,40.36848",
+    "geom:latitude":40.36848,
+    "geom:longitude":-8.0316,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0616",
+    "gn:admin3_code":"61614.0",
+    "gn:asciiname":"Sao Fagundo",
+    "gn:country_code":"PT",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734525,
+    "gn:latitude":40.36848,
+    "gn:longitude":-8.0316,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Fagundo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734525
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c6634fd84f65d574654e212f2f86fb1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209206319
+        }
+    ],
+    "wof:id":1209206319,
+    "wof:lastmodified":1536294443,
+    "wof:name":"Sao Fagundo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0316,
+    40.36848,
+    -8.0316,
+    40.36848
+],
+  "geometry": {"coordinates":[-8.0316,40.36848],"type":"Point"}
+}

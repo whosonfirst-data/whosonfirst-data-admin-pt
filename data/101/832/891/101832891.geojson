@@ -1,0 +1,68 @@
+{
+  "id": 101832891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:bbox":"-9.11980498007,38.6131802995,-9.10928498208,38.625100135",
+    "geom:latitude":38.618993,
+    "geom:longitude":-9.114829,
+    "iso:country":"PT",
+    "lbl:latitude":38.619053,
+    "lbl:longitude":-9.11493,
+    "mps:latitude":38.619053,
+    "mps:longitude":-9.11493,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Paivas",
+    "qs:loc_alt":"Paivas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5f8a6a6cf795e3b365971e75ee22e6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832891,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832891,
+    "wof:lastmodified":1466626138,
+    "wof:name":"Paivas",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11980498006682,
+    38.6131802995103,
+    -9.10928498207647,
+    38.62510013496319
+],
+  "geometry": {"coordinates":[[[-9.10928498207647,38.61952582093079],[-9.10933382866114,38.61841261296587],[-9.11009537275663,38.61825871701194],[-9.10988132955322,38.61752961837658],[-9.11573492517493,38.6133040750388],[-9.11576483678226,38.61340594128717],[-9.11688093263302,38.6131802995103],[-9.11713782338126,38.61405507747645],[-9.11980498006682,38.61351578697941],[-9.11898757595009,38.6220455396043],[-9.113286820751,38.62510013496319],[-9.11275279502883,38.62328185223578],[-9.11052025292156,38.62373303682858],[-9.10928498207647,38.61952582093079]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 101831331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:bbox":"-7.94941530243,40.6914848933,-7.93256208681,40.7001818025",
+    "geom:latitude":40.695695,
+    "geom:longitude":-7.941179,
+    "iso:country":"PT",
+    "lbl:latitude":40.695361,
+    "lbl:longitude":-7.941179,
+    "mps:latitude":40.695361,
+    "mps:longitude":-7.941179,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Viseu (S\u00e3o Jos\u00e9)",
+    "qs:la_lc":"*PT11823280",
+    "qs:level":"locality",
+    "qs:loc":"Moselos",
+    "qs:loc_alt":"Moselos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737269,
+        "gp:id":744415,
+        "qs:id":7
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ab8ed01d0544af197ada4c73290122e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101831331,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101831331,
+    "wof:lastmodified":1477508564,
+    "wof:name":"Moselos",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94941530242551,
+    40.69148489329871,
+    -7.93256208681311,
+    40.70018180254147
+],
+  "geometry": {"coordinates":[[[-7.938057553254,40.6927062328802],[-7.94467655597214,40.69148489329871],[-7.94493182868177,40.69236094717564],[-7.94608587157245,40.69214795079171],[-7.94634116878808,40.69302399939482],[-7.94749521965895,40.69281098611418],[-7.94800587283487,40.69456307094521],[-7.949159946463,40.6943500373178],[-7.94941530242551,40.69522607354537],[-7.94826121401951,40.69543911062226],[-7.94851656493574,40.69631514847322],[-7.94505421458967,40.69695418935601],[-7.94530953089901,40.6978302357287],[-7.93256208681311,40.70018180254147],[-7.938057553254,40.6927062328802]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293087315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81786,39.68026,-8.81786,39.68026",
+    "geom:latitude":39.68026,
+    "geom:longitude":-8.81786,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100404.0",
+    "gn:asciiname":"Picoto",
+    "gn:country_code":"PT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264742,
+    "gn:latitude":39.68026,
+    "gn:longitude":-8.81786,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Picoto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264742
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8af524a99bebd643f827968cdfd19fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293087315,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1293087315,
+    "wof:lastmodified":1536865720,
+    "wof:name":"Picoto",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81786,
+    39.68026,
+    -8.81786,
+    39.68026
+],
+  "geometry": {"coordinates":[-8.81786,39.68026],"type":"Point"}
+}

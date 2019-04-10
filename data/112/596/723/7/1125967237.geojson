@@ -1,0 +1,82 @@
+{
+  "id": 1125967237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52772,40.14835,-8.52772,40.14835",
+    "geom:latitude":40.14835,
+    "geom:longitude":-8.52772,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.14835,
+    "lbl:longitude":-8.52772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2742874,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Anobra",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Coimbra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":188068,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":736227,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Coimbra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742874,
+        "gp:id":736227,
+        "qs_pg:id":188068
+    },
+    "wof:country":"PT",
+    "wof:created":1497298022,
+    "wof:geomhash":"22c48c62be86512722e56f4878f37f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125967237,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1125967237,
+    "wof:lastmodified":1509403732,
+    "wof:name":"Anobra",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52772,
+    40.14835,
+    -8.52772,
+    40.14835
+],
+  "geometry": {"coordinates":[-8.52772,40.14835],"type":"Point"}
+}

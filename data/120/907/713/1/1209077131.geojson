@@ -1,0 +1,63 @@
+{
+  "id": 1209077131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33333,39.2,-9.33333,39.2",
+    "geom:latitude":39.2,
+    "geom:longitude":-9.33333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110810.0",
+    "gn:asciiname":"Casal do Cigano",
+    "gn:country_code":"PT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269737,
+    "gn:latitude":39.2,
+    "gn:longitude":-9.33333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal do Cigano",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269737
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a5ef94d12c30b5f967aaf92e9956f0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209077131
+        }
+    ],
+    "wof:id":1209077131,
+    "wof:lastmodified":1536298458,
+    "wof:name":"Casal do Cigano",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33333,
+    39.2,
+    -9.33333,
+    39.2
+],
+  "geometry": {"coordinates":[-9.33333,39.2],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209614269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89804,41.54271,-6.89804,41.54271",
+    "geom:latitude":41.54271,
+    "geom:longitude":-6.89804,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0405",
+    "gn:admin3_code":"40533.0",
+    "gn:asciiname":"Vale da Porca",
+    "gn:country_code":"PT",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733187,
+    "gn:latitude":41.54271,
+    "gn:longitude":-6.89804,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale da Porca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733187
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d86ea6fbbd29faf2d96058c77bc7d724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209614269
+        }
+    ],
+    "wof:id":1209614269,
+    "wof:lastmodified":1536281743,
+    "wof:name":"Vale da Porca",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.898039999999999,
+    41.54271,
+    -6.898039999999999,
+    41.54271
+],
+  "geometry": {"coordinates":[-6.89804,41.54271],"type":"Point"}
+}

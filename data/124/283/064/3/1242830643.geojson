@@ -1,0 +1,71 @@
+{
+  "id": 1242830643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.05331,38.67601,-28.05331,38.67601",
+    "geom:latitude":38.67601,
+    "geom:longitude":-28.05331,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4502",
+    "gn:admin3_code":"450202.0",
+    "gn:asciiname":"Faja do Ouvidor",
+    "gn:country_code":"PT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373093,
+    "gn:latitude":38.67601,
+    "gn:longitude":-28.05331,
+    "gn:modification_date":"2018-05-21",
+    "gn:name":"Faj\u00e3 do Ouvidor",
+    "gn:population":90,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373093,
+        "wk:page":"Faj%C3%A3_do_Ouvidor"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0d9b978a3ada4d223069e461bbbe4633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242830643,
+            "region_id":85687451
+        }
+    ],
+    "wof:id":1242830643,
+    "wof:lastmodified":1537571949,
+    "wof:name":"Faja do Ouvidor",
+    "wof:parent_id":85687451,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.05331,
+    38.67601,
+    -28.05331,
+    38.67601
+],
+  "geometry": {"coordinates":[-28.05331,38.67601],"type":"Point"}
+}

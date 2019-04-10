@@ -1,0 +1,67 @@
+{
+  "id": 1260061271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.51567,40.56975,-7.51567,40.56975",
+    "geom:latitude":40.56975,
+    "geom:longitude":-7.51567,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0905",
+    "gn:admin3_code":"90515.0",
+    "gn:asciiname":"Vila Ruiva",
+    "gn:country_code":"PT",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732355,
+    "gn:latitude":40.56975,
+    "gn:longitude":-7.51567,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Vila Ruiva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732355
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0241677f216188213728d902d1c4ab23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260061271,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1260061271,
+    "wof:lastmodified":1537019239,
+    "wof:name":"Vila Ruiva",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.51567,
+    40.56975,
+    -7.51567,
+    40.56975
+],
+  "geometry": {"coordinates":[-7.51567,40.56975],"type":"Point"}
+}

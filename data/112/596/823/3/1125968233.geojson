@@ -1,0 +1,82 @@
+{
+  "id": 1125968233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71946,41.03048,-7.71946,41.03048",
+    "geom:latitude":41.03048,
+    "geom:longitude":-7.71946,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.03048,
+    "lbl:longitude":-7.71946,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2738822,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Granja Nova",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Viseu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":188198,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742048,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Viseu",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738822,
+        "gp:id":742048,
+        "qs_pg:id":188198
+    },
+    "wof:country":"PT",
+    "wof:created":1497298058,
+    "wof:geomhash":"ca6afc19edc129d2d2f9b1c12f8af263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125968233,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1125968233,
+    "wof:lastmodified":1509403786,
+    "wof:name":"Granja Nova",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71946,
+    41.03048,
+    -7.71946,
+    41.03048
+],
+  "geometry": {"coordinates":[-7.71946,41.03048],"type":"Point"}
+}

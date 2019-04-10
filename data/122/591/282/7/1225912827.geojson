@@ -1,0 +1,75 @@
+{
+  "id": 1225912827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.71365,38.52198,-28.71365,38.52198",
+    "geom:latitude":38.52198,
+    "geom:longitude":-28.71365,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4701",
+    "gn:admin3_code":"470102.0",
+    "gn:asciiname":"Castelo Branco",
+    "gn:country_code":"PT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373200,
+    "gn:latitude":38.52198,
+    "gn:longitude":-28.71365,
+    "gn:modification_date":"2018-03-01",
+    "gn:name":"Castelo Branco",
+    "gn:population":1309,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castello Branco",
+        "Castelo Branco"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373200,
+        "wk:page":"Castelo_Branco_%28Horta%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"79b491929abd3d3512590e5df0a335bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225912827,
+            "region_id":85687455
+        }
+    ],
+    "wof:id":1225912827,
+    "wof:lastmodified":1537683182,
+    "wof:name":"Castelo Branco",
+    "wof:parent_id":85687455,
+    "wof:placetype":"locality",
+    "wof:population":1309,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.71365,
+    38.52198,
+    -28.71365,
+    38.52198
+],
+  "geometry": {"coordinates":[-28.71365,38.52198],"type":"Point"}
+}

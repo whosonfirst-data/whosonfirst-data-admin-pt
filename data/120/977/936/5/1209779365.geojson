@@ -1,0 +1,65 @@
+{
+  "id": 1209779365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71525,40.37478,-8.71525,40.37478",
+    "geom:latitude":40.37478,
+    "geom:longitude":-8.71525,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cavadas",
+    "gn:country_code":"PT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740946,
+    "gn:latitude":40.37478,
+    "gn:longitude":-8.71525,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Cavadas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740946
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e4dfaa255060ff626e7251d1769b934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209779365,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1209779365,
+    "wof:lastmodified":1536375383,
+    "wof:name":"Cavadas",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71525,
+    40.37478,
+    -8.71525,
+    40.37478
+],
+  "geometry": {"coordinates":[-8.71525,40.37478],"type":"Point"}
+}

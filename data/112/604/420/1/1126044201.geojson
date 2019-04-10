@@ -1,0 +1,91 @@
+{
+  "id": 1126044201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29943,41.35534,-8.29943,41.35534",
+    "geom:latitude":41.35534,
+    "geom:longitude":-8.29943,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5573,
+    "gn:population":5573,
+    "iso:country":"PT",
+    "lbl:latitude":41.35534,
+    "lbl:longitude":-8.29943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santa Eul\u00e1lia"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2742330,
+    "qs_pg:gn_pop":5573,
+    "qs_pg:name":"Barrosos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":461640,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29381379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742330,
+        "gp:id":29381379,
+        "qs_pg:id":461640
+    },
+    "wof:country":"PT",
+    "wof:created":1497302332,
+    "wof:geomhash":"ac108d29471dca9bc80e0afdee773363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126044201,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1126044201,
+    "wof:lastmodified":1509408747,
+    "wof:name":"Barrosos",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":5573,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29943,
+    41.35534,
+    -8.29943,
+    41.35534
+],
+  "geometry": {"coordinates":[-8.29943,41.35534],"type":"Point"}
+}

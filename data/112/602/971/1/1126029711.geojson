@@ -1,0 +1,93 @@
+{
+  "id": 1126029711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.91019,32.7366605,-16.91019,32.7366605",
+    "geom:latitude":32.73666,
+    "geom:longitude":-16.91019,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":32.73666,
+    "lbl:longitude":-16.91019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ribeiro Frio"
+    ],
+    "name:ger_x_preferred":[
+        "Ribeiro Frio"
+    ],
+    "name:hun_x_preferred":[
+        "Ribeiro Frio"
+    ],
+    "name:por_x_preferred":[
+        "Ribeiro Frio"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ribeiro Frio",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos":1284,
+    "qs_pg:photos_1k":260,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1284,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1193780,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":747323,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":747323,
+        "qs_pg:id":1193780,
+        "wd:id":"Q1248968"
+    },
+    "wof:country":"PT",
+    "wof:created":1497301384,
+    "wof:geomhash":"c8909d6578f1dde13400085870a66e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126029711,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1126029711,
+    "wof:lastmodified":1553816711,
+    "wof:name":"Ribeiro Frio",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.91019,
+    32.7366605,
+    -16.91019,
+    32.7366605
+],
+  "geometry": {"coordinates":[-16.91019,32.7366605],"type":"Point"}
+}

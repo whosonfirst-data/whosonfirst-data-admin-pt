@@ -1,0 +1,72 @@
+{
+  "id": 1343519877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.25,37.76667,-25.25,37.76667",
+    "geom:latitude":37.76667,
+    "geom:longitude":-25.25,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4204",
+    "gn:admin3_code":"420405.0",
+    "gn:asciiname":"Matas",
+    "gn:cc2":"PT",
+    "gn:country_code":"PT",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372881,
+    "gn:latitude":37.76667,
+    "gn:longitude":-25.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Matas",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mattas",
+        "Matas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372881
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6bff193e5725c4adcf86b2b35fa488ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343519877,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":1343519877,
+    "wof:lastmodified":1537683181,
+    "wof:name":"Matas",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.25,
+    37.76667,
+    -25.25,
+    37.76667
+],
+  "geometry": {"coordinates":[-25.25,37.76667],"type":"Point"}
+}

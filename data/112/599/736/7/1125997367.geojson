@@ -1,0 +1,80 @@
+{
+  "id": 1125997367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5959295,37.2875745,-7.5959295,37.2875745",
+    "geom:latitude":37.287574,
+    "geom:longitude":-7.595929,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":37.287574,
+    "lbl:longitude":-7.595929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Alta Mora",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Faro",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321393,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29382471,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Faro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29382471,
+        "qs_pg:id":1321393
+    },
+    "wof:country":"PT",
+    "wof:created":1497299435,
+    "wof:geomhash":"3ae083f22b5cf258ffa009908e41a01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125997367,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1125997367,
+    "wof:lastmodified":1509405870,
+    "wof:name":"Alta Mora",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5959295,
+    37.2875745,
+    -7.5959295,
+    37.2875745
+],
+  "geometry": {"coordinates":[-7.5959295,37.2875745],"type":"Point"}
+}

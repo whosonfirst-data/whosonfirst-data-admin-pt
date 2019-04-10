@@ -1,0 +1,85 @@
+{
+  "id": 1126055683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63889,41.19332,-8.63889,41.19332",
+    "geom:latitude":41.19332,
+    "geom:longitude":-8.63889,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.19332,
+    "lbl:longitude":-8.63889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Padr\u00e3o da L\u00e9gua"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2736869,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Padr\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061986,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29383493,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736869,
+        "gp:id":29383493,
+        "qs_pg:id":1061986
+    },
+    "wof:country":"PT",
+    "wof:created":1497303156,
+    "wof:geomhash":"17ba09dedf1bbdf3d57ae940af795659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126055683,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1126055683,
+    "wof:lastmodified":1509409616,
+    "wof:name":"Padr\u00e3o",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63889,
+    41.19332,
+    -8.63889,
+    41.19332
+],
+  "geometry": {"coordinates":[-8.63889,41.19332],"type":"Point"}
+}

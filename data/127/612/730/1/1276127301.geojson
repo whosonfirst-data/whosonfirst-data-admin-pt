@@ -1,0 +1,67 @@
+{
+  "id": 1276127301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47522,40.76711,-8.47522,40.76711",
+    "geom:latitude":40.76711,
+    "geom:longitude":-8.47522,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0102",
+    "gn:admin3_code":"10204.0",
+    "gn:asciiname":"Souto",
+    "gn:country_code":"PT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733815,
+    "gn:latitude":40.76711,
+    "gn:longitude":-8.47522,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Souto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733815
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2adfbfd6404679edb63af32428ecdeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276127301,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1276127301,
+    "wof:lastmodified":1537052373,
+    "wof:name":"Souto",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47522,
+    40.76711,
+    -8.47522,
+    40.76711
+],
+  "geometry": {"coordinates":[-8.47522,40.76711],"type":"Point"}
+}

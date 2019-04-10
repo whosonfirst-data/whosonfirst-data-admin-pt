@@ -1,0 +1,67 @@
+{
+  "id": 1193129653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01785,39.8628,-8.01785,39.8628",
+    "geom:latitude":39.8628,
+    "geom:longitude":-8.01785,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50913.0",
+    "gn:asciiname":"Troviscal",
+    "gn:country_code":"PT",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262488,
+    "gn:latitude":39.8628,
+    "gn:longitude":-8.01785,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Troviscal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262488
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e3413a5a7a89f26e5a750c341c981886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193129653,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1193129653,
+    "wof:lastmodified":1536377173,
+    "wof:name":"Troviscal",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01785,
+    39.8628,
+    -8.01785,
+    39.8628
+],
+  "geometry": {"coordinates":[-8.01785,39.8628],"type":"Point"}
+}

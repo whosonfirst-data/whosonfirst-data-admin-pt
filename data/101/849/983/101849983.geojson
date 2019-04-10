@@ -1,0 +1,102 @@
+{
+  "id": 101849983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.117079,38.746097,-27.117079,38.746097",
+    "geom:latitude":38.746097,
+    "geom:longitude":-27.117079,
+    "iso:country":"PT",
+    "lbl:latitude":38.746097,
+    "lbl:longitude":-27.117079,
+    "mps:latitude":38.746097,
+    "mps:longitude":-27.117079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fontinhas"
+    ],
+    "name:por_x_preferred":[
+        "Fontinhas"
+    ],
+    "name:por_x_variant":[
+        "Areeiro",
+        "Arieiro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0438\u043d\u044c\u044f\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Fontinhas"
+    ],
+    "name:tur_x_preferred":[
+        "Fontinhas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Fontinhas",
+    "qs:loc_alt":"Fontinhas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026501fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3373041,
+        "gp:id":538075,
+        "qs:id":987450,
+        "qs_pg:id":987450,
+        "wd:id":"Q2451790",
+        "wk:page":"Fontinhas"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40eb5788cb9581bfb79e4b04ee502a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849983,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":101849983,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741208,
+    "wof:name":"Fontinhas",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.117079,
+    38.746097,
+    -27.117079,
+    38.746097
+],
+  "geometry": {"coordinates":[-27.117079,38.746097],"type":"Point"}
+}

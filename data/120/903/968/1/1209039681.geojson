@@ -1,0 +1,63 @@
+{
+  "id": 1209039681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.32009,41.38456,-8.32009,41.38456",
+    "geom:latitude":41.38456,
+    "geom:longitude":-8.32009,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0314",
+    "gn:admin3_code":"31403.0",
+    "gn:asciiname":"Teixogueiras",
+    "gn:country_code":"PT",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733630,
+    "gn:latitude":41.38456,
+    "gn:longitude":-8.32009,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Teixogueiras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733630
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a9457a6f9536b88f2fe623c6e806e9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209039681
+        }
+    ],
+    "wof:id":1209039681,
+    "wof:lastmodified":1536299585,
+    "wof:name":"Teixogueiras",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.320089999999999,
+    41.38456,
+    -8.320089999999999,
+    41.38456
+],
+  "geometry": {"coordinates":[-8.32009,41.38456],"type":"Point"}
+}

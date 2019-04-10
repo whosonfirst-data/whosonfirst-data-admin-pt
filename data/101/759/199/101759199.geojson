@@ -1,0 +1,108 @@
+{
+  "id": 101759199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":699906.975602,
+    "geom:bbox":"-9.1073602915,38.7749254824,-9.099128,38.7866812428",
+    "geom:latitude":38.780842,
+    "geom:longitude":-9.102733,
+    "gn:population":11488,
+    "iso:country":"PT",
+    "lbl:latitude":38.780934,
+    "lbl:longitude":-9.102654,
+    "mps:latitude":38.780934,
+    "mps:longitude":-9.102654,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Moscavide"
+    ],
+    "name:fre_x_preferred":[
+        "Moscavide"
+    ],
+    "name:ger_x_preferred":[
+        "Moscavide"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u0448\u043a\u0430\u0432\u0438\u0434\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Moscavide"
+    ],
+    "name:por_x_preferred":[
+        "Moscavide"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0448\u043a\u0430\u0432\u0438\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Moscavide"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Moscavide",
+    "qs:loc_alt":"Moscavide",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026d3a22-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265726,
+        "gp:id":744296,
+        "qs:id":3,
+        "qs_pg:id":220725,
+        "wd:id":"Q1003027"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cd3439b9c436ca3be6d524a55a77b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759199,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759199,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498085,
+    "wof:name":"Moscavide",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":11488,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.107360291502,
+    38.77492548238655,
+    -9.09912800000018,
+    38.78668124281739
+],
+  "geometry": {"coordinates":[[[-9.10520719936738,38.77492548238655],[-9.10568171836144,38.77786750014889],[-9.10544024595953,38.78028222416771],[-9.10652687176798,38.7841457825977],[-9.107360291502,38.78639601587952],[-9.10507803735669,38.78607756181265],[-9.10000711691742,38.78668124281739],[-9.09930601296395,38.77920280064717],[-9.0994575000002,38.779167],[-9.09912800000018,38.77517699999981],[-9.10504950000012,38.77493199999981],[-9.10520719936738,38.77492548238655]]],"type":"Polygon"}
+}

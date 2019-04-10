@@ -1,0 +1,67 @@
+{
+  "id": 1193113383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12383,41.16193,-8.12383,41.16193",
+    "geom:latitude":41.16193,
+    "geom:longitude":-8.12383,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1307",
+    "gn:admin3_code":"130722.0",
+    "gn:asciiname":"Quinta",
+    "gn:country_code":"PT",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735639,
+    "gn:latitude":41.16193,
+    "gn:longitude":-8.12383,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Quint\u00e3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735639
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"eed3222ae44188d84ad00403e2893eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193113383,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1193113383,
+    "wof:lastmodified":1536370832,
+    "wof:name":"Quinta",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12383,
+    41.16193,
+    -8.12383,
+    41.16193
+],
+  "geometry": {"coordinates":[-8.12383,41.16193],"type":"Point"}
+}

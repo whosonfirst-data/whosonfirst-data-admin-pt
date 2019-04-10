@@ -1,0 +1,123 @@
+{
+  "id": 101778285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":509577.852102,
+    "geom:bbox":"-8.66303740206,39.2889913518,-8.65258487551,39.3021226668",
+    "geom:latitude":39.295054,
+    "geom:longitude":-8.657992,
+    "iso:country":"PT",
+    "lbl:latitude":39.295241,
+    "lbl:longitude":-8.658071,
+    "mps:latitude":39.295241,
+    "mps:longitude":-8.658071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:dut_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:eng_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:fra_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:fre_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:ger_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u043d\u044c\u043e\u0439\u043d\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:msa_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:por_x_colloquial":[
+        "Alcanhoes"
+    ],
+    "name:por_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043a\u0430\u043d\u044c\u043e\u0439\u043d\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "name:tur_x_preferred":[
+        "Alcanh\u00f5es"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alcanh\u00f5es",
+    "qs:la_lc":"*PT11416057",
+    "qs:level":"locality",
+    "qs:loc":"Alcanh\u00f5es",
+    "qs:loc_alt":"Alcanhoes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.295778,
+    "wd:longitude":-8.659903,
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270168e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272188,
+        "gp:id":735583,
+        "qs:id":179974,
+        "wd:id":"Q2296664",
+        "wk:page":"Alcanh\u00f5es"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d9119e16afe989e1f0a8967f14aeb518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778285,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778285,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653257,
+    "wof:name":"Alcanh\u00f5es",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66303740205768,
+    39.28899135179824,
+    -8.65258487551267,
+    39.30212266682145
+],
+  "geometry": {"coordinates":[[[-8.66067419737294,39.30212266682145],[-8.65965223031804,39.2986210256297],[-8.65852382661109,39.29884167420363],[-8.65826837241116,39.29796625560363],[-8.65713997592536,39.29818688765062],[-8.65611830935899,39.29468518004518],[-8.65498996144544,39.29490578525747],[-8.654734582358,39.29403035005544],[-8.65360624166681,39.29425093874249],[-8.65258487551267,39.29074916473661],[-8.65484144008121,39.2903080017569],[-8.65458609474513,39.28943256026156],[-8.65684260551745,39.28899135179824],[-8.65760875272531,39.29161764983274],[-8.65873703961199,39.29139701566118],[-8.65975875745715,39.29489870538316],[-8.66088709290636,39.29467804437689],[-8.66165352249061,39.29730428092233],[-8.6627818927235,39.29708359651556],[-8.66303740205768,39.2979590013673],[-8.66190901804185,39.29817968921128],[-8.66293109537344,39.30168130290377],[-8.66067419737294,39.30212266682145]]],"type":"Polygon"}
+}

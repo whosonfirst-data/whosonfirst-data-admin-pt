@@ -1,0 +1,108 @@
+{
+  "id": 101849975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.70208,37.770676,-25.70208,37.770676",
+    "geom:latitude":37.770676,
+    "geom:longitude":-25.70208,
+    "gn:population":6981,
+    "iso:country":"PT",
+    "lbl:latitude":37.770676,
+    "lbl:longitude":-25.70208,
+    "mps:latitude":37.770676,
+    "mps:longitude":-25.70208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Arrifes"
+    ],
+    "name:msa_x_preferred":[
+        "Arrifes"
+    ],
+    "name:pol_x_preferred":[
+        "Arrifes"
+    ],
+    "name:por_x_preferred":[
+        "Arrifes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u0438\u0444\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Arrifes"
+    ],
+    "name:unk_x_variant":[
+        "Arrafes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Arrifes",
+    "qs:loc_alt":"Arrifes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":858,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264f06a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3373329,
+        "gp:id":537887,
+        "qs:id":1060214,
+        "qs_pg:id":1060214,
+        "wd:id":"Q2452009",
+        "wk:page":"Arrifes"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d38cf0614734c49f82b042f795934987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849975,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849975,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741204,
+    "wof:name":"Arrifes",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:population":6981,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.70208,
+    37.770676,
+    -25.70208,
+    37.770676
+],
+  "geometry": {"coordinates":[-25.70208,37.770676],"type":"Point"}
+}

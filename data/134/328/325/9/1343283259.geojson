@@ -1,0 +1,67 @@
+{
+  "id": 1343283259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06878,40.0343,-8.06878,40.0343",
+    "geom:latitude":40.0343,
+    "geom:longitude":-8.06878,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60601.0",
+    "gn:asciiname":"Casal de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741177,
+    "gn:latitude":40.0343,
+    "gn:longitude":-8.06878,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741177
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"14a4b78205a37f7c75be51231571d35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343283259,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1343283259,
+    "wof:lastmodified":1537001308,
+    "wof:name":"Casal de Cima",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06878,
+    40.0343,
+    -8.06878,
+    40.0343
+],
+  "geometry": {"coordinates":[-8.06878,40.0343],"type":"Point"}
+}

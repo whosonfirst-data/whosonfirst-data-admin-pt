@@ -1,0 +1,67 @@
+{
+  "id": 1293652455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35687,39.64867,-8.35687,39.64867",
+    "geom:latitude":39.64867,
+    "geom:longitude":-8.35687,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141805.0",
+    "gn:asciiname":"Olas",
+    "gn:country_code":"PT",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265457,
+    "gn:latitude":39.64867,
+    "gn:longitude":-8.35687,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Olas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265457
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4709bea8e7bac9542899982716945cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293652455,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1293652455,
+    "wof:lastmodified":1537044715,
+    "wof:name":"Olas",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35687,
+    39.64867,
+    -8.35687,
+    39.64867
+],
+  "geometry": {"coordinates":[-8.35687,39.64867],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1108942565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21449609153,38.710931585,-9.21449609153,38.710931585",
+    "geom:latitude":38.710932,
+    "geom:longitude":-9.214496,
+    "iso:country":"PT",
+    "lbl:latitude":38.710932,
+    "lbl:longitude":-9.214496,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363172,
+    "wof:geomhash":"dfc8f2962a6f953c023bb5e39ca07e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942565,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942565,
+    "wof:lastmodified":1492123641,
+    "wof:name":"San Francisco Xavier",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21449609152789,
+    38.7109315849957,
+    -9.21449609152789,
+    38.7109315849957
+],
+  "geometry": {"coordinates":[-9.21449609152789,38.7109315849957],"type":"Point"}
+}

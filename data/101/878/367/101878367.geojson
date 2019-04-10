@@ -1,0 +1,72 @@
+{
+  "id": 101878367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:bbox":"-9.3826624835,38.7076201269,-9.37715041787,38.7129040149",
+    "geom:latitude":38.710188,
+    "geom:longitude":-9.379921,
+    "iso:country":"PT",
+    "lbl:latitude":38.710139,
+    "lbl:longitude":-9.379869,
+    "mps:latitude":38.710139,
+    "mps:longitude":-9.379869,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Galiza",
+    "qs:loc_alt":"Galiza",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point disambiguated",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267747,
+        "gp:id":741702,
+        "qs:id":9,
+        "qs_pg:id":188192
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"45206d36bdd4c3513d3d3f453adb633a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101878367,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101878367,
+    "wof:lastmodified":1497298056,
+    "wof:name":"Galiza",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38266248350487,
+    38.70762012693456,
+    -9.3771504178701,
+    38.71290401494809
+],
+  "geometry": {"coordinates":[[[-9.37835728404502,38.70828799121648],[-9.38161812103664,38.70762012693456],[-9.38221372289638,38.70961334380678],[-9.38266248350487,38.71111514774134],[-9.38154551441841,38.71134394289624],[-9.38180661577343,38.71221769649304],[-9.37895315985708,38.7128021152356],[-9.37845562903459,38.71290401494809],[-9.3771504178701,38.7085351740144],[-9.37745742494809,38.70847229474089],[-9.37835728404502,38.70828799121648]]],"type":"Polygon"}
+}

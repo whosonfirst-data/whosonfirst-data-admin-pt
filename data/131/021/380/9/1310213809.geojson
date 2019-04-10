@@ -1,0 +1,67 @@
+{
+  "id": 1310213809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5185,40.93176,-8.5185,40.93176",
+    "geom:latitude":40.93176,
+    "geom:longitude":-8.5185,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10923.0",
+    "gn:asciiname":"Carvalhosa",
+    "gn:country_code":"PT",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741269,
+    "gn:latitude":40.93176,
+    "gn:longitude":-8.5185,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carvalhosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741269
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"949c39e304189dda007fc580aa6c314c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310213809,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310213809,
+    "wof:lastmodified":1536839149,
+    "wof:name":"Carvalhosa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5185,
+    40.93176,
+    -8.5185,
+    40.93176
+],
+  "geometry": {"coordinates":[-8.5185,40.93176],"type":"Point"}
+}

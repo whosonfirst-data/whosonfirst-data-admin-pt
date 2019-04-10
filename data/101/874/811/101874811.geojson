@@ -1,0 +1,76 @@
+{
+  "id": 101874811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.139377,38.638915,-9.139377,38.638915",
+    "geom:latitude":38.638915,
+    "geom:longitude":-9.139377,
+    "iso:country":"PT",
+    "lbl:latitude":38.638915,
+    "lbl:longitude":-9.139377,
+    "mps:latitude":38.638915,
+    "mps:longitude":-9.139377,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Santa Marta de Corroios",
+    "qs:loc_alt":"Santa Marta de Corroios",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734671,
+        "gp:id":29381440,
+        "qs:id":1,
+        "qs_pg:id":1112843
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6e9e9c9593322f7d505a356fed573870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874811,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101874811,
+    "wof:lastmodified":1544751804,
+    "wof:name":"Santa Marta de Corroios",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.139377,
+    38.638915,
+    -9.139377,
+    38.638915
+],
+  "geometry": {"coordinates":[-9.139377,38.638915],"type":"Point"}
+}

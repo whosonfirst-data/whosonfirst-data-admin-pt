@@ -1,0 +1,67 @@
+{
+  "id": 1259548307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78295,41.75857,-8.78295,41.75857",
+    "geom:latitude":41.75857,
+    "geom:longitude":-8.78295,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1609",
+    "gn:admin3_code":"160925.0",
+    "gn:asciiname":"Vilares",
+    "gn:country_code":"PT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732427,
+    "gn:latitude":41.75857,
+    "gn:longitude":-8.78295,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732427
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"76212d07235ee5710f8b8c1436dcee7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259548307,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1259548307,
+    "wof:lastmodified":1536766075,
+    "wof:name":"Vilares",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78295,
+    41.75857,
+    -8.78295,
+    41.75857
+],
+  "geometry": {"coordinates":[-8.78295,41.75857],"type":"Point"}
+}

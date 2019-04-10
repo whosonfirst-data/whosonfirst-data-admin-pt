@@ -1,0 +1,94 @@
+{
+  "id": 1125945483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.14974,32.71502,-17.14974,32.71502",
+    "geom:latitude":32.71502,
+    "geom:longitude":-17.14974,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3241,
+    "gn:population":3241,
+    "iso:country":"PT",
+    "lbl:latitude":32.71502,
+    "lbl:longitude":-17.14974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Arco da Calheta, Madeira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043a\u0443-\u0434\u0430-\u041a\u0430\u043b\u044c\u0435\u0442\u0430"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2271598,
+    "qs_pg:gn_pop":3241,
+    "qs_pg:name":"Arco da Calheta",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":218563,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":736298,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271598,
+        "gp:id":736298,
+        "qs_pg:id":218563
+    },
+    "wof:country":"PT",
+    "wof:created":1497297265,
+    "wof:geomhash":"36f97173d7c81d0cf764ebc4ccbc0103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125945483,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125945483,
+    "wof:lastmodified":1509402367,
+    "wof:name":"Arco da Calheta",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":3241,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.14974,
+    32.71502,
+    -17.14974,
+    32.71502
+],
+  "geometry": {"coordinates":[-17.14974,32.71502],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209581975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02277,39.66426,-8.02277,39.66426",
+    "geom:latitude":39.66426,
+    "geom:longitude":-8.02277,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141302.0",
+    "gn:asciiname":"Pero Goncalves",
+    "gn:country_code":"PT",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264819,
+    "gn:latitude":39.66426,
+    "gn:longitude":-8.02277,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00earo Gon\u00e7alves",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264819
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1e6cb36d2a22dfe78866fd3c4f3ae474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209581975
+        }
+    ],
+    "wof:id":1209581975,
+    "wof:lastmodified":1536282759,
+    "wof:name":"Pero Goncalves",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02277,
+    39.66426,
+    -8.02277,
+    39.66426
+],
+  "geometry": {"coordinates":[-8.02277,39.66426],"type":"Point"}
+}

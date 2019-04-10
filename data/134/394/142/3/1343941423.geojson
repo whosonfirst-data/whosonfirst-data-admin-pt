@@ -1,0 +1,74 @@
+{
+  "id": 1343941423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31702,39.17768,-9.31702,39.17768",
+    "geom:latitude":39.17768,
+    "geom:longitude":-9.31702,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110808.0",
+    "gn:asciiname":"Vimeiro",
+    "gn:country_code":"PT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261572,
+    "gn:latitude":39.17768,
+    "gn:longitude":-9.31702,
+    "gn:modification_date":"2018-03-03",
+    "gn:name":"Vimeiro",
+    "gn:population":1470,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vimieiro",
+        "Vimeiro"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261572
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"325135be82e5de6c29a5cb7754d18d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343941423,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1343941423,
+    "wof:lastmodified":1537683142,
+    "wof:name":"Vimeiro",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":1470,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31702,
+    39.17768,
+    -9.31702,
+    39.17768
+],
+  "geometry": {"coordinates":[-9.31702,39.17768],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 1125983251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68908,41.18207,-8.68908,41.18207",
+    "geom:latitude":41.18207,
+    "geom:longitude":-8.68908,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":28070,
+    "gn:population":28070,
+    "iso:country":"PT",
+    "lbl:latitude":41.18207,
+    "lbl:longitude":-8.68908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Matosinhos Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0648\u0633\u06cc\u0646\u0648\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10dd\u10d6\u10d8\u10dc\u10d8\u10e3\u10e8\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Matozinjosas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u062a\u0648\u0633\u06cc\u0646\u0648\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u043e\u0437\u0438\u043d\u044c\u044e\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Matozinhos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2737824,
+    "qs_pg:gn_pop":28070,
+    "qs_pg:name":"Matosinhos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":1461,
+    "qs_pg:photos_1k":296,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1461,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":796912,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":743334,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737824,
+        "gp:id":743334,
+        "qs_pg:id":796912
+    },
+    "wof:country":"PT",
+    "wof:created":1497298662,
+    "wof:geomhash":"eb134fb416f1563f7dbe8b1fea6c0816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125983251,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125983251,
+    "wof:lastmodified":1534379447,
+    "wof:name":"Matosinhos",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":28070,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101759281
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68908,
+    41.18207,
+    -8.68908,
+    41.18207
+],
+  "geometry": {"coordinates":[-8.68908,41.18207],"type":"Point"}
+}

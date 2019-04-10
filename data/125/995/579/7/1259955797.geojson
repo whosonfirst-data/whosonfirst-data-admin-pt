@@ -1,0 +1,67 @@
+{
+  "id": 1259955797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9098,39.2966,-8.9098,39.2966",
+    "geom:latitude":39.2966,
+    "geom:longitude":-8.9098,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1414",
+    "gn:admin3_code":"141408.0",
+    "gn:asciiname":"Boicas",
+    "gn:country_code":"PT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270793,
+    "gn:latitude":39.2966,
+    "gn:longitude":-8.9098,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Boi\u00e7as",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270793
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"649a951a6788246ae50d19331ff1be9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259955797,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1259955797,
+    "wof:lastmodified":1536675036,
+    "wof:name":"Boicas",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9098,
+    39.2966,
+    -8.9098,
+    39.2966
+],
+  "geometry": {"coordinates":[-8.9098,39.2966],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101777173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":329652.462971,
+    "geom:bbox":"-7.62585653484,40.2495463719,-7.61928537758,40.2607042985",
+    "geom:latitude":40.256451,
+    "geom:longitude":-7.622132,
+    "iso:country":"PT",
+    "lbl:latitude":40.258031,
+    "lbl:longitude":-7.622455,
+    "mps:latitude":40.258031,
+    "mps:longitude":-7.622455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:eng_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:fre_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:ger_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0423\u043d\u044c\u044f\u0439\u0448-\u0434\u0430-\u0421\u0435\u0440\u0440\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:por_x_variant":[
+        "Unhaes da Serra",
+        "Unhais do Serra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u044c\u044f\u0439\u0448-\u0434\u0430-\u0421\u0435\u0440\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Unhais da Serra"
+    ],
+    "name:unk_x_variant":[
+        "Unhais do Serra"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Unhais da Serra",
+    "qs:la_lc":"*PT10503258",
+    "qs:level":"locality",
+    "qs:loc":"Unhais da Serra",
+    "qs:loc_alt":"Unhais da Serra",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02736244-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733313,
+        "gp:id":749677,
+        "qs:id":1331451,
+        "qs_pg:id":1331451,
+        "wd:id":"Q1024269"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"da9ef72bdba16b681b75b1ceb79d921e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777173,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777173,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498171,
+    "wof:name":"Unhais da Serra",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62585653484297,
+    40.24954637186039,
+    -7.61928537758371,
+    40.26070429850347
+],
+  "geometry": {"coordinates":[[[-7.62126723918658,40.26070429850347],[-7.62101947362282,40.25982671851824],[-7.61987214794556,40.26003567784704],[-7.61937667414884,40.25828050576786],[-7.62052397066634,40.25807155313453],[-7.61928537758371,40.25368360809966],[-7.620432594676,40.25347465883505],[-7.62018488964645,40.25259706776217],[-7.62133208562835,40.25238810847634],[-7.62058898313597,40.24975533447241],[-7.62173612885954,40.24954637186039],[-7.62223155028289,40.25130154963983],[-7.62337871862081,40.2510925669655],[-7.62362645798868,40.25197014980051],[-7.62247927507588,40.25217913582242],[-7.62272700925701,40.25305672020022],[-7.62157980523398,40.25326569620188],[-7.62232302038132,40.25589844855045],[-7.62347026813387,40.25568946250542],[-7.62371803987253,40.25656703966428],[-7.6248652956661,40.25635803690216],[-7.62585653484297,40.25986831409625],[-7.62126723918658,40.26070429850347]]],"type":"Polygon"}
+}

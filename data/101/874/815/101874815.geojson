@@ -1,0 +1,83 @@
+{
+  "id": 101874815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.368738,38.781214,-9.368738,38.781214",
+    "geom:latitude":38.781214,
+    "geom:longitude":-9.368738,
+    "iso:country":"PT",
+    "lbl:latitude":38.781214,
+    "lbl:longitude":-9.368738,
+    "mps:latitude":38.781214,
+    "mps:longitude":-9.368738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Ranholas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ranholas",
+    "qs:loc_alt":"Ranholas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026be5aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264066,
+        "gp:id":746921,
+        "qs:id":37897,
+        "qs_pg:id":37897
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d795608c37bb26a5e65b852afd629958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874815,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101874815,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751806,
+    "wof:name":"Ranholas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.368738,
+    38.781214,
+    -9.368738,
+    38.781214
+],
+  "geometry": {"coordinates":[-9.368738,38.781214],"type":"Point"}
+}

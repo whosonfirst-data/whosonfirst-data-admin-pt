@@ -1,0 +1,78 @@
+{
+  "id": 1125381667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55186,40.60386,-7.55186,40.60386",
+    "geom:latitude":40.60386,
+    "geom:longitude":-7.55186,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.60386,
+    "lbl:longitude":-7.55186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Fornos de Algodres Municipality"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0443\u0448-\u0434\u0438-\u0410\u043b\u0433\u043e\u0434\u0440\u0438\u0448"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014402,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fornos de Algodres",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381212,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014402,
+        "qs_pg:id":381212
+    },
+    "wof:country":"PT",
+    "wof:created":1497048084,
+    "wof:geomhash":"494e779fbaf5ff6a2797f4943b61f173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125381667,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125381667,
+    "wof:lastmodified":1509389591,
+    "wof:name":"Fornos de Algodres",
+    "wof:parent_id":85687397,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55186,
+    40.60386,
+    -7.55186,
+    40.60386
+],
+  "geometry": {"coordinates":[-7.55186,40.60386],"type":"Point"}
+}

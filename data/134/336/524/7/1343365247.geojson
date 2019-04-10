@@ -1,0 +1,71 @@
+{
+  "id": 1343365247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41526,41.69862,-8.41526,41.69862",
+    "geom:latitude":41.69862,
+    "geom:longitude":-8.41526,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31335.0",
+    "gn:asciiname":"Pico",
+    "gn:country_code":"PT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736272,
+    "gn:latitude":41.69862,
+    "gn:longitude":-8.41526,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pico",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Crist\u00f3v\u00e3o",
+        "Pico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736272
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5de8489b05b4e3b2dd18cbf5169751db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343365247,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1343365247,
+    "wof:lastmodified":1537683165,
+    "wof:name":"Pico",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41526,
+    41.69862,
+    -8.41526,
+    41.69862
+],
+  "geometry": {"coordinates":[-8.41526,41.69862],"type":"Point"}
+}

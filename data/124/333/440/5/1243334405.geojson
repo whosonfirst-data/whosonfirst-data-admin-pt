@@ -1,0 +1,67 @@
+{
+  "id": 1243334405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.404,38.86257,-9.404,38.86257",
+    "geom:latitude":38.86257,
+    "geom:longitude":-9.404,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:admin3_code":"111110.0",
+    "gn:asciiname":"Sacario",
+    "gn:country_code":"PT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263668,
+    "gn:latitude":38.86257,
+    "gn:longitude":-9.404,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sac\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263668
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3eb340d33000e5505d2e6bc9575e8dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243334405,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1243334405,
+    "wof:lastmodified":1536966958,
+    "wof:name":"Sacario",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.404,
+    38.86257,
+    -9.404,
+    38.86257
+],
+  "geometry": {"coordinates":[-9.404,38.86257],"type":"Point"}
+}

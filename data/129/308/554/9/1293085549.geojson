@@ -1,0 +1,67 @@
+{
+  "id": 1293085549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88943,37.0501,-7.88943,37.0501",
+    "geom:latitude":37.0501,
+    "geom:longitude":-7.88943,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0805",
+    "gn:admin3_code":"80501.0",
+    "gn:asciiname":"Ferradeira",
+    "gn:country_code":"PT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268285,
+    "gn:latitude":37.0501,
+    "gn:longitude":-7.88943,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ferradeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268285
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"77dc8d9a08d62370fdef6d21dee65680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293085549,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1293085549,
+    "wof:lastmodified":1536868419,
+    "wof:name":"Ferradeira",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88943,
+    37.0501,
+    -7.88943,
+    37.0501
+],
+  "geometry": {"coordinates":[-7.88943,37.0501],"type":"Point"}
+}

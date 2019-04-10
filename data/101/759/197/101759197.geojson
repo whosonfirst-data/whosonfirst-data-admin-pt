@@ -1,0 +1,103 @@
+{
+  "id": 101759197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000271,
+    "geom:bbox":"-9.07330688262,38.8671093458,-9.05149646318,38.8863852853",
+    "geom:latitude":38.876668,
+    "geom:longitude":-9.061795,
+    "iso:country":"PT",
+    "lbl:latitude":38.876522,
+    "lbl:longitude":-9.061588,
+    "mps:latitude":38.876522,
+    "mps:longitude":-9.061588,
+    "mz:hierarchy_label":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0641\u0648\u0627 \u062f\u064a \u0633\u0627\u0646\u062a\u0627 \u0625\u0631\u064a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "P\u00f3voa de Santa Iria"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0648\u0627 \u062f \u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00f3voa de Santa Iria"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10d5\u10e3\u10d0-\u10d3\u10d4-\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d8\u10e0\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0432\u0443\u0430-\u0434\u0435-\u0421\u0430\u043d\u0442\u0430-\u0418\u0440\u0438\u044f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0648\u0648\u0627 \u062f \u0633\u0627\u0646\u062a\u0627 \u0627\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00f3voa de Santa Iria"
+    ],
+    "name:por_x_preferred":[
+        "P\u00f3voa de Santa Iria"
+    ],
+    "name:spa_x_preferred":[
+        "P\u00f3voa de Santa Iria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Forte da Casa",
+    "qs:loc_alt":"Forte da Casa",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014705,
+        "gp:id":22660998,
+        "qs:id":2,
+        "qs_pg:id":1078737
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b30ca70f3b733886a0e1cb97e473c013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759197,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759197,
+    "wof:lastmodified":1497290402,
+    "wof:name":"Forte da Casa",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07330688262476,
+    38.86710934580373,
+    -9.05149646317983,
+    38.88638528530288
+],
+  "geometry": {"coordinates":[[[-9.05418983697973,38.87115088636688],[-9.05596932641794,38.87031347957253],[-9.05785411098782,38.86748630271774],[-9.0595504171007,38.86710934580373],[-9.06539324926706,38.86974804420146],[-9.06954089423249,38.87012510283483],[-9.06932787959067,38.87016792700445],[-9.07061814784964,38.87454091072038],[-9.07268561002303,38.87412523758945],[-9.07330688262476,38.87677976597877],[-9.07251286993147,38.87693941776297],[-9.07302912812338,38.87868857826919],[-9.07078817434456,38.87913909744549],[-9.07104629083204,38.88001368162548],[-9.06992579065007,38.88023892521835],[-9.07070015696632,38.88286267613637],[-9.07182069752736,38.8826374221444],[-9.0720788521715,38.88351199831015],[-9.06871717043515,38.88418773175999],[-9.06820095145076,38.88243855662654],[-9.06035698640102,38.88401476534438],[-9.06061499688769,38.88488937817118],[-9.05837377809758,38.88533961366664],[-9.05863177119107,38.88621423142087],[-9.05778018003338,38.88638528530288],[-9.05182280036439,38.88011435933555],[-9.05149646317983,38.87375078423759],[-9.05476287572475,38.87309475489849],[-9.05418983697973,38.87115088636688]]],"type":"Polygon"}
+}

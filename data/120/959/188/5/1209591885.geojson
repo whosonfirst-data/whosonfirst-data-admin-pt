@@ -1,0 +1,63 @@
+{
+  "id": 1209591885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38531,41.28712,-8.38531,41.28712",
+    "geom:latitude":41.28712,
+    "geom:longitude":-8.38531,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1309",
+    "gn:admin3_code":"130910.0",
+    "gn:asciiname":"Meixomil",
+    "gn:country_code":"PT",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737752,
+    "gn:latitude":41.28712,
+    "gn:longitude":-8.38531,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Meixomil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737752
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6232a3d7a712eea6b45d540c5db15bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209591885
+        }
+    ],
+    "wof:id":1209591885,
+    "wof:lastmodified":1536282452,
+    "wof:name":"Meixomil",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38531,
+    41.28712,
+    -8.38531,
+    41.28712
+],
+  "geometry": {"coordinates":[-8.38531,41.28712],"type":"Point"}
+}

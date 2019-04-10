@@ -1,0 +1,63 @@
+{
+  "id": 1209615497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.74465,41.54874,-8.74465,41.54874",
+    "geom:latitude":41.54874,
+    "geom:longitude":-8.74465,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0306",
+    "gn:admin3_code":"30613.0",
+    "gn:asciiname":"Palmeira de Faro",
+    "gn:country_code":"PT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736798,
+    "gn:latitude":41.54874,
+    "gn:longitude":-8.74465,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Palmeira de Faro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736798
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5211f11aeea7098ce3ef377429d0874d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209615497
+        }
+    ],
+    "wof:id":1209615497,
+    "wof:lastmodified":1536281702,
+    "wof:name":"Palmeira de Faro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74465,
+    41.54874,
+    -8.74465,
+    41.54874
+],
+  "geometry": {"coordinates":[-8.74465,41.54874],"type":"Point"}
+}

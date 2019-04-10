@@ -1,0 +1,67 @@
+{
+  "id": 1226405945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92494,41.12518,-7.92494,41.12518",
+    "geom:latitude":41.12518,
+    "geom:longitude":-7.92494,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1302",
+    "gn:admin3_code":"130204.0",
+    "gn:asciiname":"Frende",
+    "gn:country_code":"PT",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739220,
+    "gn:latitude":41.12518,
+    "gn:longitude":-7.92494,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Frende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739220
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0a9f84cc558f9c121017b28f7bf86b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226405945,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1226405945,
+    "wof:lastmodified":1536703257,
+    "wof:name":"Frende",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92494,
+    41.12518,
+    -7.92494,
+    41.12518
+],
+  "geometry": {"coordinates":[-7.92494,41.12518],"type":"Point"}
+}

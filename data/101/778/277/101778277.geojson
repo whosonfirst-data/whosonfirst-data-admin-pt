@@ -1,0 +1,105 @@
+{
+  "id": 101778277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":309752.664938,
+    "geom:bbox":"-8.82877282488,39.1675102442,-8.82304473476,39.1793457313",
+    "geom:latitude":39.173303,
+    "geom:longitude":-8.826057,
+    "iso:country":"PT",
+    "lbl:latitude":39.171084,
+    "lbl:longitude":-8.826535,
+    "mps:latitude":39.171084,
+    "mps:longitude":-8.826535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "name:eng_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "name:fre_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "name:ger_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0430-\u041f\u0438\u043d\u0442\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0435-\u0434\u0430-\u041f\u0438\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vale da Pinta"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Vale da Pinta",
+    "qs:la_lc":"*PT11406060",
+    "qs:level":"locality",
+    "qs:loc":"Vale da Pinta",
+    "qs:loc_alt":"Vale da Pinta",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026e7266-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262322,
+        "gp:id":749846,
+        "qs:id":1139321,
+        "qs_pg:id":1139321,
+        "wd:id":"Q1376688"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6d367573edf3cff2e24055d1d4882c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778277,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778277,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498172,
+    "wof:name":"Vale da Pinta",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82877282487692,
+    39.16751024424383,
+    -8.82304473476108,
+    39.17934573126382
+],
+  "geometry": {"coordinates":[[[-8.82523688428637,39.16795532047269],[-8.82748851505914,39.16751024424383],[-8.82877282487692,39.1718853479893],[-8.82764694440647,39.17210790989543],[-8.82841760375453,39.17473295888374],[-8.82729167567936,39.17495551809833],[-8.82754856753439,39.17583053394515],[-8.82529666430003,39.17627562012302],[-8.82606731504495,39.17890067657788],[-8.82381530342997,39.17934573126382],[-8.82304473476108,39.17672065408829],[-8.82417070281838,39.17649814363233],[-8.82365701071609,39.17474808925022],[-8.82478294484144,39.17452557264738],[-8.82452609942243,39.17365054595786],[-8.82565201329533,39.17342801975542],[-8.82462467230499,39.16992790713061],[-8.82575052490006,39.16970538168761],[-8.82523688428637,39.16795532047269]]],"type":"Polygon"}
+}

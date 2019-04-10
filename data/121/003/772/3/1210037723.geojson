@@ -1,0 +1,67 @@
+{
+  "id": 1210037723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31115,40.29216,-8.31115,40.29216",
+    "geom:latitude":40.29216,
+    "geom:longitude":-8.31115,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0613",
+    "gn:admin3_code":"61307.0",
+    "gn:asciiname":"Ribela",
+    "gn:country_code":"PT",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735144,
+    "gn:latitude":40.29216,
+    "gn:longitude":-8.31115,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ribela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735144
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c35e0c0dd2ecb52ec4f071ec94684206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1210037723,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1210037723,
+    "wof:lastmodified":1536385739,
+    "wof:name":"Ribela",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31115,
+    40.29216,
+    -8.31115,
+    40.29216
+],
+  "geometry": {"coordinates":[-8.31115,40.29216],"type":"Point"}
+}

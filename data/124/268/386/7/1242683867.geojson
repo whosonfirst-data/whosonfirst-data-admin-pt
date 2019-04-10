@@ -1,0 +1,65 @@
+{
+  "id": 1242683867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54373,41.64956,-8.54373,41.64956",
+    "geom:latitude":41.64956,
+    "geom:longitude":-8.54373,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Santo Antonio",
+    "gn:country_code":"PT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734590,
+    "gn:latitude":41.64956,
+    "gn:longitude":-8.54373,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Santo Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734590
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a6e0e745384a45c423f6a65c779e6922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242683867,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1242683867,
+    "wof:lastmodified":1536911032,
+    "wof:name":"Santo Antonio",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54373,
+    41.64956,
+    -8.54373,
+    41.64956
+],
+  "geometry": {"coordinates":[-8.54373,41.64956],"type":"Point"}
+}

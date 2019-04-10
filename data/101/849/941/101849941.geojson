@@ -1,0 +1,104 @@
+{
+  "id": 101849941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.789143,37.804909,-25.789143,37.804909",
+    "geom:latitude":37.804909,
+    "geom:longitude":-25.789143,
+    "iso:country":"PT",
+    "lbl:latitude":37.804909,
+    "lbl:longitude":-25.789143,
+    "mps:latitude":37.804909,
+    "mps:longitude":-25.789143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Feteiras"
+    ],
+    "name:msa_x_preferred":[
+        "Feteiras"
+    ],
+    "name:por_x_preferred":[
+        "Feteiras"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0442\u0435\u0439\u0440\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0424\u0435\u0442\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Feteiras"
+    ],
+    "name:unk_x_variant":[
+        "Feteira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Feteiras",
+    "qs:loc_alt":"Feteiras",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1062,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650096-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3373070,
+        "gp:id":538054,
+        "qs:id":182323,
+        "qs_pg:id":992366,
+        "wd:id":"Q1999433",
+        "wk:page":"Feteiras"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40474e4c5b59fb7f92c03b45a53fdbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849941,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849941,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741189,
+    "wof:name":"Feteiras",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.789143,
+    37.804909,
+    -25.789143,
+    37.804909
+],
+  "geometry": {"coordinates":[-25.789143,37.804909],"type":"Point"}
+}

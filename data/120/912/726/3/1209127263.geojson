@@ -1,0 +1,63 @@
+{
+  "id": 1209127263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78044,40.09587,-7.78044,40.09587",
+    "geom:latitude":40.09587,
+    "geom:longitude":-7.78044,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61204.0",
+    "gn:asciiname":"Machialinho",
+    "gn:country_code":"PT",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738069,
+    "gn:latitude":40.09587,
+    "gn:longitude":-7.78044,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Machialinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738069
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bc3b8e85c8732ebf71ba89458f75e408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209127263
+        }
+    ],
+    "wof:id":1209127263,
+    "wof:lastmodified":1536296918,
+    "wof:name":"Machialinho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78044,
+    40.09587,
+    -7.78044,
+    40.09587
+],
+  "geometry": {"coordinates":[-7.78044,40.09587],"type":"Point"}
+}

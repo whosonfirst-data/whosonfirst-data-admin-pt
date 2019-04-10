@@ -1,0 +1,65 @@
+{
+  "id": 1276868791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41667,40.01667,-8.41667,40.01667",
+    "geom:latitude":40.01667,
+    "geom:longitude":-8.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rabarrabos",
+    "gn:country_code":"PT",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735493,
+    "gn:latitude":40.01667,
+    "gn:longitude":-8.41667,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Rabarrabos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735493
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"45a976056b56c1da70bb8d7a995f98bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276868791,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1276868791,
+    "wof:lastmodified":1537053723,
+    "wof:name":"Rabarrabos",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41667,
+    40.01667,
+    -8.41667,
+    40.01667
+],
+  "geometry": {"coordinates":[-8.41667,40.01667],"type":"Point"}
+}

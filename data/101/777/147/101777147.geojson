@@ -1,0 +1,107 @@
+{
+  "id": 101777147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":689379.969097,
+    "geom:bbox":"-8.90439327502,39.5980433747,-8.89010625516,39.6074565933",
+    "geom:latitude":39.602503,
+    "geom:longitude":-8.897862,
+    "iso:country":"PT",
+    "lbl:latitude":39.602721,
+    "lbl:longitude":-8.897267,
+    "mps:latitude":39.602721,
+    "mps:longitude":-8.897267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Juncal"
+    ],
+    "name:eng_x_preferred":[
+        "Juncal"
+    ],
+    "name:fre_x_preferred":[
+        "Juncal"
+    ],
+    "name:ger_x_preferred":[
+        "Juncal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
+    "name:may_x_preferred":[
+        "Juncal"
+    ],
+    "name:por_x_preferred":[
+        "Juncal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Juncal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Juncal",
+    "qs:la_lc":"*PT11016067",
+    "qs:level":"locality",
+    "qs:loc":"Juncal",
+    "qs:loc_alt":"Juncal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.6,
+    "wd:longitude":-8.9,
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0267f2a6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267310,
+        "gp:id":742297,
+        "qs:id":218666,
+        "wd:id":"Q1713248"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1120673e502a842a15593a17e70a4c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777147,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777147,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815491,
+    "wof:name":"Juncal",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9043932750161,
+    39.59804337465181,
+    -8.89010625516164,
+    39.60745659334486
+],
+  "geometry": {"coordinates":[[[-8.89672405149736,39.60745659334486],[-8.8962023519839,39.60570810931694],[-8.89506947060767,39.60593168444245],[-8.89402624416294,39.60243467880127],[-8.89176057244657,39.60288176156854],[-8.8914998180104,39.60200749823713],[-8.89036698594794,39.60223101640253],[-8.89010625516164,39.60135674760204],[-8.89123907331691,39.6011332329432],[-8.89097833836541,39.60025896568675],[-8.89437671066992,39.59958835338807],[-8.89411594374337,39.59871409468957],[-8.89751421366719,39.59804337465181],[-8.89803584069045,39.59979186904184],[-8.90143413336278,39.59912100970058],[-8.90195588279124,39.60086947518869],[-8.90308866133705,39.60064582211186],[-8.9043932750161,39.60501693392251],[-8.89872896720522,39.60613515562085],[-8.89898984965259,39.60700938963652],[-8.89672405149736,39.60745659334486]]],"type":"Polygon"}
+}

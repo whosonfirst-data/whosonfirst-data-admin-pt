@@ -1,0 +1,82 @@
+{
+  "id": 1125997369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7411,41.50552,-8.7411,41.50552",
+    "geom:latitude":41.50552,
+    "geom:longitude":-8.7411,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.50552,
+    "lbl:longitude":-8.7411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739472,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fonte G\u00f4da",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905272,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868759,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739472,
+        "gp:id":55868759,
+        "qs_pg:id":905272
+    },
+    "wof:country":"PT",
+    "wof:created":1497299435,
+    "wof:geomhash":"65a67bfb3764d1284dff2d0ba6ec4a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125997369,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125997369,
+    "wof:lastmodified":1509405870,
+    "wof:name":"Fonte G\u00f4da",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7411,
+    41.50552,
+    -8.7411,
+    41.50552
+],
+  "geometry": {"coordinates":[-8.7411,41.50552],"type":"Point"}
+}

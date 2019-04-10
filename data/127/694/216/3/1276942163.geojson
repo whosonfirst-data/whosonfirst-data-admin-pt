@@ -1,0 +1,67 @@
+{
+  "id": 1276942163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37114,41.88425,-8.37114,41.88425",
+    "geom:latitude":41.88425,
+    "geom:longitude":-8.37114,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160116.0",
+    "gn:asciiname":"Vilela",
+    "gn:country_code":"PT",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732301,
+    "gn:latitude":41.88425,
+    "gn:longitude":-8.37114,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732301
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c13ce8c6eb3fe09f359279c8a66c747a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276942163,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1276942163,
+    "wof:lastmodified":1536957909,
+    "wof:name":"Vilela",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37114,
+    41.88425,
+    -8.37114,
+    41.88425
+],
+  "geometry": {"coordinates":[-8.37114,41.88425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259904001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62553,41.63237,-8.62553,41.63237",
+    "geom:latitude":41.63237,
+    "geom:longitude":-8.62553,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30224.0",
+    "gn:asciiname":"Cossourado",
+    "gn:country_code":"PT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740462,
+    "gn:latitude":41.63237,
+    "gn:longitude":-8.62553,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cossourado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740462
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1d84b7939169b6b4f71e8f956cfcaa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259904001,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259904001,
+    "wof:lastmodified":1536749448,
+    "wof:name":"Cossourado",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62553,
+    41.63237,
+    -8.62553,
+    41.63237
+],
+  "geometry": {"coordinates":[-8.62553,41.63237],"type":"Point"}
+}

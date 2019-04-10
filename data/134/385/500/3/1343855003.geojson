@@ -1,0 +1,67 @@
+{
+  "id": 1343855003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52631,38.8275,-7.52631,38.8275",
+    "geom:latitude":38.8275,
+    "geom:longitude":-7.52631,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0704",
+    "gn:admin3_code":"70401.0",
+    "gn:asciiname":"Vila Augusta",
+    "gn:country_code":"PT",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261659,
+    "gn:latitude":38.8275,
+    "gn:longitude":-7.52631,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Augusta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261659
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3e5fbaf74e2f9d05dfde6b6ff6ec4729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343855003,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1343855003,
+    "wof:lastmodified":1536674488,
+    "wof:name":"Vila Augusta",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52631,
+    38.8275,
+    -7.52631,
+    38.8275
+],
+  "geometry": {"coordinates":[-7.52631,38.8275],"type":"Point"}
+}

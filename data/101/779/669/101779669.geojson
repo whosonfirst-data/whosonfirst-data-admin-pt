@@ -1,0 +1,106 @@
+{
+  "id": 101779669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:bbox":"-7.7988556251,37.9189352043,-7.78871061756,37.9287436313",
+    "geom:latitude":37.923731,
+    "geom:longitude":-7.793459,
+    "iso:country":"PT",
+    "lbl:latitude":37.923351,
+    "lbl:longitude":-7.793383,
+    "mps:latitude":37.923351,
+    "mps:longitude":-7.793383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:fra_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0431\u0435\u0441\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:por_x_colloquial":[
+        "Cabeca Gorda"
+    ],
+    "name:por_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0435\u0441\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8d1d\u8428\u6208\u5c14\u8fbe"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Cabe\u00e7a Gorda",
+    "qs:la_lc":"*PT10205044",
+    "qs:level":"locality",
+    "qs:loc":"Cabe\u00e7a Gorda",
+    "qs:loc_alt":"Cabeca Gorda",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a8e94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270581,
+        "gp:id":737719,
+        "qs:id":87322,
+        "wd:id":"Q1024806",
+        "wk:page":"Cabe\u00e7a Gorda"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ef4e314e6669eb0988945a49f45e748e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779669,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779669,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688550,
+    "wof:name":"Cabe\u00e7a Gorda",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79885562510202,
+    37.91893520430017,
+    -7.78871061755615,
+    37.92874363129806
+],
+  "geometry": {"coordinates":[[[-7.79052365768297,37.92874363129806],[-7.79028880275291,37.92786365976957],[-7.78918027519603,37.92807346688272],[-7.78871061755615,37.92631351179813],[-7.78981911870517,37.92610371100858],[-7.78934946907111,37.92434375464251],[-7.79045793795251,37.92413394732205],[-7.78998829632479,37.92237398967342],[-7.79109673294062,37.92216417582216],[-7.79086191182944,37.92128419730722],[-7.79197032938282,37.92107437376364],[-7.79173550367364,37.9201943965088],[-7.79838580669116,37.91893520430017],[-7.79885562510202,37.92069511896182],[-7.79774722952561,37.92090502278751],[-7.79798213844037,37.92178498042762],[-7.79687372380079,37.92199487456276],[-7.79710862812141,37.92287483346337],[-7.79600019441818,37.92308471790756],[-7.79647000247473,37.92484463632763],[-7.79536153650577,37.92505451424358],[-7.79583135258247,37.9268144313811],[-7.79361435024316,37.92723416130053],[-7.79384924478467,37.92811412334208],[-7.79052365768297,37.92874363129806]]],"type":"Polygon"}
+}

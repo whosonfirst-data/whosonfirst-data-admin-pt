@@ -1,0 +1,67 @@
+{
+  "id": 1293558069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63072,40.9411,-7.63072,40.9411",
+    "geom:latitude":40.9411,
+    "geom:longitude":-7.63072,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1807",
+    "gn:admin3_code":"180714.0",
+    "gn:asciiname":"Carapito",
+    "gn:country_code":"PT",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741501,
+    "gn:latitude":40.9411,
+    "gn:longitude":-7.63072,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carapito",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741501
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7e2bd2c34aacf871740d7bdd8fc2910f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293558069,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1293558069,
+    "wof:lastmodified":1536685463,
+    "wof:name":"Carapito",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63072,
+    40.9411,
+    -7.63072,
+    40.9411
+],
+  "geometry": {"coordinates":[-7.63072,40.9411],"type":"Point"}
+}

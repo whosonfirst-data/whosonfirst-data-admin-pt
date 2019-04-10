@@ -1,0 +1,86 @@
+{
+  "id": 101759029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:bbox":"-9.36862233179,38.6977960545,-9.35798664733,38.704389094",
+    "geom:latitude":38.700741,
+    "geom:longitude":-9.36385,
+    "iso:country":"PT",
+    "lbl:latitude":38.700413,
+    "lbl:longitude":-9.364483,
+    "mps:latitude":38.700413,
+    "mps:longitude":-9.364483,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Mortal"
+    ],
+    "name:por_x_variant":[
+        "Murtal"
+    ],
+    "name:unk_x_variant":[
+        "Mortal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Murtal",
+    "qs:loc_alt":"Murtal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02733440-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265736,
+        "gp:id":744282,
+        "qs:id":292268,
+        "qs_pg:id":292268
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"58e80b0dab92c4d8c36d4b804452d89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759029,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759029,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497294484,
+    "wof:name":"Murtal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36862233179431,
+    38.69779605448088,
+    -9.35798664733096,
+    38.70438909397461
+],
+  "geometry": {"coordinates":[[[-9.35798664733096,38.70158440993845],[-9.36035436949203,38.69779605448088],[-9.36402968806561,38.69796699953082],[-9.36711986031935,38.69875750871194],[-9.36862233179431,38.70379074698809],[-9.36569911022974,38.70438909397461],[-9.36295502817165,38.70204658490042],[-9.35798664733096,38.70158440993845]]],"type":"Polygon"}
+}

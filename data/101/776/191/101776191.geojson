@@ -1,0 +1,126 @@
+{
+  "id": 101776191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":399496.441603,
+    "geom:bbox":"-7.47741169979,41.1595343052,-7.46791090365,41.168304487",
+    "geom:latitude":41.164186,
+    "geom:longitude":-7.473103,
+    "iso:country":"PT",
+    "lbl:latitude":41.164903,
+    "lbl:longitude":-7.473895,
+    "mps:latitude":41.164903,
+    "mps:longitude":-7.473895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:deu_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:dut_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:eng_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:fre_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:ger_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0440\u0432\u0435\u0434\u043e\u0437\u0430-\u0434\u0443-\u0414\u043e\u0440\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:msa_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:oci_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:por_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0432\u0435\u0434\u043e\u0437\u0430-\u0434\u0443-\u0414\u043e\u0440\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "name:tur_x_preferred":[
+        "Ervedosa do Douro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Viseu",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Ervedosa do Douro",
+    "qs:la_lc":"*PT11815024",
+    "qs:level":"locality",
+    "qs:loc":"Ervedosa do Douro",
+    "qs:loc_alt":"Ervedosa do Douro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.166667,
+    "wd:longitude":-7.483333,
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02753506-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739968,
+        "gp:id":740573,
+        "qs:id":38913,
+        "qs_pg:id":38913,
+        "wd:id":"Q93629",
+        "wk:page":"Ervedosa do Douro"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"760134d71ae11c43d59a9d04749cb978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776191,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":101776191,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688309,
+    "wof:name":"Ervedosa do Douro",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47741169979116,
+    41.15953430522859,
+    -7.46791090365122,
+    41.16830448702416
+],
+  "geometry": {"coordinates":[[[-7.47275662807328,41.16830448702416],[-7.47225286029015,41.16655046473943],[-7.47108910574826,41.16675813145628],[-7.47058540708309,41.16500409531614],[-7.46942167612127,41.16521174162358],[-7.46916985650216,41.16433471750588],[-7.47033357227781,41.16412707460711],[-7.46932632989365,41.16061897418007],[-7.46816267485679,41.16082660344512],[-7.46791090365122,41.15994957053198],[-7.47023817656719,41.15953430522859],[-7.47048997813954,41.16041133132518],[-7.47165361959446,41.16020367488056],[-7.47190544603279,41.16108069580883],[-7.47306909587923,41.16087302236559],[-7.47357280817448,41.16262705212614],[-7.47706380805681,41.1620039298017],[-7.47731572428273,41.16288093181373],[-7.47615204926541,41.16308865625507],[-7.47741169979116,41.16747365696716],[-7.47275662807328,41.16830448702416]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226020685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46885,39.60659,-8.46885,39.60659",
+    "geom:latitude":39.60659,
+    "geom:longitude":-8.46885,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141803.0",
+    "gn:asciiname":"Casal Novo",
+    "gn:country_code":"PT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269670,
+    "gn:latitude":39.60659,
+    "gn:longitude":-8.46885,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal Novo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269670
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"90dde61010f3074115431e2081c96716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226020685,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1226020685,
+    "wof:lastmodified":1536761634,
+    "wof:name":"Casal Novo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46885,
+    39.60659,
+    -8.46885,
+    39.60659
+],
+  "geometry": {"coordinates":[-8.46885,39.60659],"type":"Point"}
+}

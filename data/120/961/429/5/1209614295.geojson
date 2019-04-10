@@ -1,0 +1,63 @@
+{
+  "id": 1209614295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.99218,41.42093,-6.99218,41.42093",
+    "geom:latitude":41.42093,
+    "geom:longitude":-6.99218,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"40111.0",
+    "gn:asciiname":"Covelas",
+    "gn:country_code":"PT",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740339,
+    "gn:latitude":41.42093,
+    "gn:longitude":-6.99218,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Covelas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740339
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0ed5fb4327d7e841fa314622e1673f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209614295
+        }
+    ],
+    "wof:id":1209614295,
+    "wof:lastmodified":1536281743,
+    "wof:name":"Covelas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.99218,
+    41.42093,
+    -6.99218,
+    41.42093
+],
+  "geometry": {"coordinates":[-6.99218,41.42093],"type":"Point"}
+}

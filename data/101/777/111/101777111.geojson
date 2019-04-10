@@ -1,0 +1,77 @@
+{
+  "id": 101777111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"-8.90811665494,39.6707035465,-8.89294063583,39.6759073368",
+    "geom:latitude":39.673002,
+    "geom:longitude":-8.900352,
+    "iso:country":"PT",
+    "lbl:latitude":39.672929,
+    "lbl:longitude":-8.900352,
+    "mps:latitude":39.672929,
+    "mps:longitude":-8.900352,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Maceirinha"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Maceira",
+    "qs:la_lc":"*PT11009133",
+    "qs:level":"locality",
+    "qs:loc":"Maceirinha",
+    "qs:loc_alt":"Maceirinha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0274afbe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266909,
+        "gp:id":742942,
+        "qs:id":387694
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"95a201127402b3947f846c32c0c869c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777111,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777111,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625899,
+    "wof:name":"Maceirinha",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90811665493777,
+    39.67070354649536,
+    -8.89294063582577,
+    39.67590733680657
+],
+  "geometry": {"coordinates":[[[-8.9063716067285,39.67590733680657],[-8.90611013544139,39.67503321330832],[-8.90497612083749,39.67525694053973],[-8.90471467327575,39.67438281156274],[-8.90358066584832,39.67460652212213],[-8.90331924201121,39.6737323876672],[-8.89764917307377,39.67485072554496],[-8.89738782874866,39.67397657155044],[-8.8951197816944,39.67442380757819],[-8.89485847503943,39.67354964459315],[-8.89372445531063,39.6737732393579],[-8.89294063582577,39.67115072809503],[-8.89520858483343,39.67070354649536],[-8.89546987611675,39.67157771184861],[-8.89773782595472,39.67113047059763],[-8.89799915490369,39.67200462696024],[-8.90366898080731,39.67088627603653],[-8.90419180748677,39.67263454772342],[-8.90645974625016,39.67218710120306],[-8.90672120214623,39.67306122707095],[-8.9078551753181,39.67283748056144],[-8.90811665493777,39.67371160095064],[-8.9069826678209,39.67393535097682],[-8.90750562850809,39.67568359290226],[-8.9063716067285,39.67590733680657]]],"type":"Polygon"}
+}

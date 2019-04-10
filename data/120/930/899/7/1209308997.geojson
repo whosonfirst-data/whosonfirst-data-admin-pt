@@ -1,0 +1,63 @@
+{
+  "id": 1209308997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07225,40.14384,-8.07225,40.14384",
+    "geom:latitude":40.14384,
+    "geom:longitude":-8.07225,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0606",
+    "gn:admin3_code":"60602.0",
+    "gn:asciiname":"Cabreira",
+    "gn:country_code":"PT",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741830,
+    "gn:latitude":40.14384,
+    "gn:longitude":-8.07225,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cabreira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741830
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e33c5e881f2849f52284ad5649abb606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209308997
+        }
+    ],
+    "wof:id":1209308997,
+    "wof:lastmodified":1536291095,
+    "wof:name":"Cabreira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07225,
+    40.14384,
+    -8.07225,
+    40.14384
+],
+  "geometry": {"coordinates":[-8.07225,40.14384],"type":"Point"}
+}

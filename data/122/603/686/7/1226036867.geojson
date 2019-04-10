@@ -1,0 +1,73 @@
+{
+  "id": 1226036867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16623,40.30044,-8.16623,40.30044",
+    "geom:latitude":40.30044,
+    "geom:longitude":-8.16623,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0613",
+    "gn:admin3_code":"61309.0",
+    "gn:asciiname":"Sao Pedro de Alva",
+    "gn:country_code":"PT",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734359,
+    "gn:latitude":40.30044,
+    "gn:longitude":-8.16623,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"S\u00e3o Pedro de Alva",
+    "gn:population":1818,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Pedro de Alva"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734359
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"805d84af50beb2facf5e7f5478ea79b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226036867,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226036867,
+    "wof:lastmodified":1537683161,
+    "wof:name":"Sao Pedro de Alva",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:population":1818,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16623,
+    40.30044,
+    -8.16623,
+    40.30044
+],
+  "geometry": {"coordinates":[-8.16623,40.30044],"type":"Point"}
+}

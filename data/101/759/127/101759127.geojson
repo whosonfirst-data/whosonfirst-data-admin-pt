@@ -1,0 +1,73 @@
+{
+  "id": 101759127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:bbox":"-9.1109625217,38.8231278343,-9.09812699787,38.8288948641",
+    "geom:latitude":38.826104,
+    "geom:longitude":-9.104076,
+    "iso:country":"PT",
+    "lbl:latitude":38.826227,
+    "lbl:longitude":-9.104076,
+    "mps:latitude":38.826227,
+    "mps:longitude":-9.104076,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Vale Figueira",
+    "qs:loc_alt":"Vale Figueira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262191,
+        "gp:id":56069511,
+        "qs:id":1043201,
+        "qs_pg:id":1043201
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1f7271bdef80759319903f2d0d74b3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759127,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759127,
+    "wof:lastmodified":1497297740,
+    "wof:name":"Vale Figueira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11096252170086,
+    38.8231278343153,
+    -9.09812699786744,
+    38.82889486406452
+],
+  "geometry": {"coordinates":[[[-9.09812699786744,38.82743031280324],[-9.0991198775186,38.8231278343153],[-9.10150287410858,38.82367251925012],[-9.10512654193911,38.82420541157808],[-9.10779727661082,38.82363311129131],[-9.10827937577,38.82526590166071],[-9.10939888909496,38.82504023836555],[-9.10965714696999,38.82591476339621],[-9.110776667165,38.82568908367313],[-9.11096252170086,38.82631833619666],[-9.1100291513568,38.82686987321802],[-9.10768442511363,38.82889486406452],[-9.10299497262702,38.82825539327104],[-9.09812699786744,38.82743031280324]]],"type":"Polygon"}
+}

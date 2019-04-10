@@ -1,0 +1,67 @@
+{
+  "id": 1260072867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0105,39.89792,-8.0105,39.89792",
+    "geom:latitude":39.89792,
+    "geom:longitude":-8.0105,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50913.0",
+    "gn:asciiname":"Povoa do Frade",
+    "gn:country_code":"PT",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264354,
+    "gn:latitude":39.89792,
+    "gn:longitude":-8.0105,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00f3voa do Frade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264354
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"86602b24e116ce705b7f4a3fec1596bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260072867,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1260072867,
+    "wof:lastmodified":1537002573,
+    "wof:name":"Povoa do Frade",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0105,
+    39.89792,
+    -8.0105,
+    39.89792
+],
+  "geometry": {"coordinates":[-8.0105,39.89792],"type":"Point"}
+}

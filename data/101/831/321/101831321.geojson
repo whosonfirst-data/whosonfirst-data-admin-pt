@@ -1,0 +1,83 @@
+{
+  "id": 101831321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":888329.007482,
+    "geom:bbox":"-8.86217944933,40.1222606381,-8.84892441255,40.1417057811",
+    "geom:latitude":40.134511,
+    "geom:longitude":-8.85694,
+    "iso:country":"PT",
+    "lbl:latitude":40.136488,
+    "lbl:longitude":-8.857593,
+    "mps:latitude":40.136488,
+    "mps:longitude":-8.857593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Gala"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Pedro",
+    "qs:la_lc":"*PT10605140",
+    "qs:level":"locality",
+    "qs:loc":"Gala",
+    "qs:loc_alt":"Gala",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":374,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0267c1f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739129,
+        "gp:id":741676,
+        "qs:id":292235,
+        "qs_pg:id":292235
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b97193231f871a09f0e334d3c37284a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101831321,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101831321,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715147,
+    "wof:name":"Gala",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86217944933094,
+    40.12226063810482,
+    -8.8489244125513,
+    40.14170578114118
+],
+  "geometry": {"coordinates":[[[-8.86084282267939,40.14169130975034],[-8.86068796428657,40.14117916835721],[-8.8582294099304,40.14166015756069],[-8.85720093225672,40.14164789798497],[-8.8567336246158,40.14010201426026],[-8.85444957690856,40.14054878699199],[-8.85286528264743,40.13530639573185],[-8.85400722457473,40.13508303732243],[-8.85374319611094,40.13420930219957],[-8.85488511689641,40.13398593408306],[-8.85277313332972,40.12699601158039],[-8.85163132635665,40.12721935127001],[-8.85057563006654,40.12372432917482],[-8.84943387308078,40.12394764139566],[-8.8489244125513,40.12226063810482],[-8.86051347883847,40.1319593755091],[-8.86033051324318,40.13199517885232],[-8.86217944933094,40.13811114821476],[-8.86103747774581,40.13833460396467],[-8.8620568534671,40.14170578114118],[-8.86084282267939,40.14169130975034]]],"type":"Polygon"}
+}

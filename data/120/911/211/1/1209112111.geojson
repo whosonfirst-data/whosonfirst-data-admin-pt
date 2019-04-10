@@ -1,0 +1,63 @@
+{
+  "id": 1209112111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07001,41.50658,-8.07001,41.50658",
+    "geom:latitude":41.50658,
+    "geom:longitude":-8.07001,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0307",
+    "gn:admin3_code":"30734.0",
+    "gn:asciiname":"Varzea Cova",
+    "gn:country_code":"PT",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732910,
+    "gn:latitude":41.50658,
+    "gn:longitude":-8.07001,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"V\u00e1rzea Cova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732910
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54437a2a89a4cd38aad7531e17e88633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209112111
+        }
+    ],
+    "wof:id":1209112111,
+    "wof:lastmodified":1536297372,
+    "wof:name":"Varzea Cova",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07001,
+    41.50658,
+    -8.07001,
+    41.50658
+],
+  "geometry": {"coordinates":[-8.07001,41.50658],"type":"Point"}
+}

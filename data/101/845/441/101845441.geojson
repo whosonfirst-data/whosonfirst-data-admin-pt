@@ -1,0 +1,84 @@
+{
+  "id": 101845441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-8.42265812706,40.8915992448,-8.41271906393,40.9016532826",
+    "geom:latitude":40.896323,
+    "geom:longitude":-8.41684,
+    "iso:country":"PT",
+    "lbl:latitude":40.896149,
+    "lbl:longitude":-8.41635,
+    "mps:latitude":40.896149,
+    "mps:longitude":-8.41635,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Asagaes",
+        "Azagaes"
+    ],
+    "name:por_x_preferred":[
+        "Asag\u00e3es"
+    ],
+    "name:por_x_variant":[
+        "Azag\u00e3es"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Faj\u00f5es",
+    "qs:la_lc":"*PT10113034",
+    "qs:level":"locality",
+    "qs:loc":"Azag\u00e3es",
+    "qs:loc_alt":"Azagaes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f780a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2742659,
+        "gp:id":736544,
+        "qs:id":386358
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b363ebe710a5f82daff77afd91ddbc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845441,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101845441,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466626199,
+    "wof:name":"Azag\u00e3es",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42265812705796,
+    40.89159924479736,
+    -8.41271906392848,
+    40.90165328259025
+],
+  "geometry": {"coordinates":[[[-8.42150165916831,40.90165328259025],[-8.42123816304513,40.90077901640672],[-8.42008170291734,40.9009977022269],[-8.4195547704395,40.89924915713294],[-8.41839833287264,40.89946782237854],[-8.41813489651582,40.89859354346879],[-8.41582202987371,40.89903082645657],[-8.41555863316842,40.8981565385667],[-8.41324576798615,40.89859376058666],[-8.41271906392848,40.89684516497778],[-8.41387547043945,40.896626567807],[-8.41334877699165,40.89487797181829],[-8.41450514687506,40.89465936828941],[-8.41371513769531,40.89203647092785],[-8.41602776759169,40.89159924479736],[-8.41629112352422,40.89247353868336],[-8.41744744271892,40.89225490186965],[-8.41797421432864,40.8940034769185],[-8.41913055607978,40.89378481953383],[-8.41939397175884,40.89465910069617],[-8.41823761521198,40.89487776163475],[-8.41929131928424,40.89837488177773],[-8.42044773501743,40.89815620662188],[-8.42097467697914,40.89990474835071],[-8.42213111527155,40.89968605262055],[-8.42265812705796,40.90143457974972],[-8.42150165916831,40.90165328259025]]],"type":"Polygon"}
+}

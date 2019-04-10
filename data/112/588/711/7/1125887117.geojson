@@ -1,0 +1,111 @@
+{
+  "id": 1125887117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52814,41.8939,-8.52814,41.8939",
+    "geom:latitude":41.8939,
+    "geom:longitude":-8.52814,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.8939,
+    "lbl:longitude":-8.52814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bico"
+    ],
+    "name:eng_x_preferred":[
+        "Bico"
+    ],
+    "name:fre_x_preferred":[
+        "Bico"
+    ],
+    "name:ger_x_preferred":[
+        "Bico"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u043a\u0443"
+    ],
+    "name:por_x_preferred":[
+        "Bico"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Bico"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2742228,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bico",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Viana do Castelo",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910448,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":737259,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Viana do Castelo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742228,
+        "gp:id":737259,
+        "qs_pg:id":910448,
+        "wd:id":"Q856856"
+    },
+    "wof:country":"PT",
+    "wof:created":1497295132,
+    "wof:geomhash":"9feb1c18445b1889309c67abe97a8965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125887117,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1125887117,
+    "wof:lastmodified":1553816603,
+    "wof:name":"Bico",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52814,
+    41.8939,
+    -8.52814,
+    41.8939
+],
+  "geometry": {"coordinates":[-8.52814,41.8939],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193252107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40936,38.72089,-9.40936,38.72089",
+    "geom:latitude":38.72089,
+    "geom:longitude":-9.40936,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1105",
+    "gn:admin3_code":"110501.0",
+    "gn:asciiname":"Bairro da Alegria",
+    "gn:country_code":"PT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271238,
+    "gn:latitude":38.72089,
+    "gn:longitude":-9.40936,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bairro da Alegria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271238
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4aaeef9ba963346204cea3758c77ba58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193252107,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1193252107,
+    "wof:lastmodified":1536366970,
+    "wof:name":"Bairro da Alegria",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40936,
+    38.72089,
+    -9.40936,
+    38.72089
+],
+  "geometry": {"coordinates":[-9.40936,38.72089],"type":"Point"}
+}

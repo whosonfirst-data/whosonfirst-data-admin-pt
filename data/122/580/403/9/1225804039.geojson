@@ -1,0 +1,67 @@
+{
+  "id": 1225804039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.53947,41.83123,-7.53947,41.83123",
+    "geom:latitude":41.83123,
+    "geom:longitude":-7.53947,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1703",
+    "gn:admin3_code":"170312.0",
+    "gn:asciiname":"Sao Caetano",
+    "gn:country_code":"PT",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734551,
+    "gn:latitude":41.83123,
+    "gn:longitude":-7.53947,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Caetano",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734551
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fbfe21202c4736489856542a8724374d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225804039,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1225804039,
+    "wof:lastmodified":1537070945,
+    "wof:name":"Sao Caetano",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53947,
+    41.83123,
+    -7.53947,
+    41.83123
+],
+  "geometry": {"coordinates":[-7.53947,41.83123],"type":"Point"}
+}

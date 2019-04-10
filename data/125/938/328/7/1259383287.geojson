@@ -1,0 +1,67 @@
+{
+  "id": 1259383287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.66359,41.50837,-8.66359,41.50837",
+    "geom:latitude":41.50837,
+    "geom:longitude":-8.66359,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30237.0",
+    "gn:asciiname":"Mota",
+    "gn:country_code":"PT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737325,
+    "gn:latitude":41.50837,
+    "gn:longitude":-8.66359,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737325
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"06c066cef8e254b9b9e9c5e76493dbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259383287,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259383287,
+    "wof:lastmodified":1537001798,
+    "wof:name":"Mota",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66359,
+    41.50837,
+    -8.66359,
+    41.50837
+],
+  "geometry": {"coordinates":[-8.66359,41.50837],"type":"Point"}
+}

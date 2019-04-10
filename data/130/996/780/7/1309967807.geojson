@@ -1,0 +1,68 @@
+{
+  "id": 1309967807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5272,41.91498,-8.5272,41.91498",
+    "geom:latitude":41.91498,
+    "geom:longitude":-8.5272,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160515.0",
+    "gn:asciiname":"Parada",
+    "gn:country_code":"PT",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736754,
+    "gn:latitude":41.91498,
+    "gn:longitude":-8.5272,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Parada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736754,
+        "wk:page":"Parada_%28Paredes_de_Coura%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"095dcbbdc5fbbfd477d3ad1282dcfd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309967807,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1309967807,
+    "wof:lastmodified":1537571942,
+    "wof:name":"Parada",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5272,
+    41.91498,
+    -8.5272,
+    41.91498
+],
+  "geometry": {"coordinates":[-8.5272,41.91498],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125935805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28075,38.98126,-9.28075,38.98126",
+    "geom:latitude":38.98126,
+    "geom:longitude":-9.28075,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.98126,
+    "lbl:longitude":-9.28075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gradil"
+    ],
+    "name:eng_x_preferred":[
+        "Gradil"
+    ],
+    "name:fre_x_preferred":[
+        "Gradil"
+    ],
+    "name:ger_x_preferred":[
+        "Gradil"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0438\u043b"
+    ],
+    "name:por_x_preferred":[
+        "Gradil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Gradil"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2267576,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gradil",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1331379,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267576,
+        "gp:id":741992,
+        "qs_pg:id":1331379,
+        "wd:id":"Q1024960"
+    },
+    "wof:country":"PT",
+    "wof:created":1497296964,
+    "wof:geomhash":"dde56de721f5699c937a22b6b5f28487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125935805,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125935805,
+    "wof:lastmodified":1514498043,
+    "wof:name":"Gradil",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28075,
+    38.98126,
+    -9.28075,
+    38.98126
+],
+  "geometry": {"coordinates":[-9.28075,38.98126],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 101759073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":697380.719709,
+    "geom:bbox":"-9.28432724842,38.6975288686,-9.27370640391,38.7079478967",
+    "geom:latitude":38.702688,
+    "geom:longitude":-9.279492,
+    "gn:population":4693,
+    "iso:country":"PT",
+    "lbl:latitude":38.702961,
+    "lbl:longitude":-9.280124,
+    "mps:latitude":38.702961,
+    "mps:longitude":-9.280124,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Terrugem"
+    ],
+    "name:dut_x_preferred":[
+        "Terrugem"
+    ],
+    "name:eng_x_preferred":[
+        "Terrugem"
+    ],
+    "name:fre_x_preferred":[
+        "Terrugem"
+    ],
+    "name:ger_x_preferred":[
+        "Terrugem"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u0440\u0440\u0443\u0436\u0435\u043d"
+    ],
+    "name:por_x_preferred":[
+        "Terrugem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0440\u0443\u0436\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Terrugem"
+    ],
+    "name:tur_x_preferred":[
+        "Terrugem"
+    ],
+    "name:unk_x_variant":[
+        "Terruge"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Terrugem",
+    "qs:loc_alt":"Terrugem",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262686,
+        "gp:id":749333,
+        "qs:id":91171,
+        "qs_pg:id":188362,
+        "wd:id":"Q1328618"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1b28db0583822591743a00372701178b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759073,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759073,
+    "wof:lastmodified":1514498165,
+    "wof:name":"Terrugem",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":4693,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28432724841844,
+    38.69752886857367,
+    -9.2737064039087,
+    38.70794789667514
+],
+  "geometry": {"coordinates":[[[-9.2737064039087,38.7042048622933],[-9.27398389671635,38.70351113027408],[-9.2743500330597,38.70195505081449],[-9.27526537391833,38.70131431221347],[-9.27553997617593,38.70003283501143],[-9.27599764660522,38.69811061920836],[-9.27602532391421,38.69766778226386],[-9.27670730326292,38.69752886857367],[-9.27696690925092,38.69840299644585],[-9.27808394524158,38.6981754288089],[-9.27834357410541,38.69904955116618],[-9.28169468265082,38.69836676026659],[-9.28156267204287,38.69792237864482],[-9.28295423713047,38.69893442598124],[-9.28432724841844,38.70259578941551],[-9.28417030419843,38.70620550647499],[-9.28179782684168,38.70668894555951],[-9.28217193801396,38.70794789667514],[-9.28121508949914,38.70735556188021],[-9.27956747595374,38.70717249370858],[-9.2737064039087,38.7042048622933]]],"type":"Polygon"}
+}

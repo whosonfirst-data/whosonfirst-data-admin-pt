@@ -1,0 +1,67 @@
+{
+  "id": 1259374539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39402,40.24678,-8.39402,40.24678",
+    "geom:latitude":40.24678,
+    "geom:longitude":-8.39402,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60323.0",
+    "gn:asciiname":"Sao Paulo de Frades",
+    "gn:country_code":"PT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734379,
+    "gn:latitude":40.24678,
+    "gn:longitude":-8.39402,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Paulo de Frades",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734379
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a167b552dddb4002bcc77a82559b15d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259374539,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259374539,
+    "wof:lastmodified":1537014454,
+    "wof:name":"Sao Paulo de Frades",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39402,
+    40.24678,
+    -8.39402,
+    40.24678
+],
+  "geometry": {"coordinates":[-8.39402,40.24678],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101845475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":419460.083257,
+    "geom:bbox":"-7.50812233887,41.2658942533,-7.49555406294,41.2750339638",
+    "geom:latitude":41.270875,
+    "geom:longitude":-7.502082,
+    "iso:country":"PT",
+    "lbl:latitude":41.268816,
+    "lbl:longitude":-7.503653,
+    "mps:latitude":41.268816,
+    "mps:longitude":-7.503653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Favaios"
+    ],
+    "name:dut_x_preferred":[
+        "Favaios"
+    ],
+    "name:eng_x_preferred":[
+        "Favaios"
+    ],
+    "name:fre_x_preferred":[
+        "Favaios"
+    ],
+    "name:ger_x_preferred":[
+        "Favaios"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0430\u0432\u0430\u0439\u0443\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Favaios"
+    ],
+    "name:msa_x_preferred":[
+        "Favaios"
+    ],
+    "name:nan_x_preferred":[
+        "Favaios"
+    ],
+    "name:por_x_preferred":[
+        "Favaios"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0432\u0430\u044e\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Favaios"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Vila Real",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Favaios",
+    "qs:la_lc":"*PT11701070",
+    "qs:level":"locality",
+    "qs:loc":"Favaios",
+    "qs:loc_alt":"Favaios",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":389,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0267053a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739736,
+        "gp:id":740886,
+        "qs:id":951188,
+        "qs_pg:id":951188,
+        "wd:id":"Q168690",
+        "wk:page":"Favaios"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6433382f5d638ee8d84d931aa2dfbc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845475,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":101845475,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642316,
+    "wof:name":"Favaios",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50812233886677,
+    41.26589425325011,
+    -7.49555406294002,
+    41.27503396383867
+],
+  "geometry": {"coordinates":[[[-7.49980991413139,41.27503396383867],[-7.49955689536296,41.2741571561736],[-7.49605997973447,41.27478124371453],[-7.49555406294002,41.27302760256009],[-7.49788528586254,41.27261157151264],[-7.49763231157971,41.27173475514627],[-7.49996347664245,41.27131867648887],[-7.49971048160535,41.270441865213],[-7.50204158880962,41.27002573894782],[-7.50128257067973,41.26739531511407],[-7.50244806828141,41.26718724183547],[-7.50219506648097,41.266310433797],[-7.50452601067383,41.26589425325011],[-7.5050320849997,41.26764785386717],[-7.50619757732488,41.26743973632352],[-7.50645064435162,41.26831653056695],[-7.50761614508059,41.26810839598471],[-7.50812233886677,41.2698619723401],[-7.50462572467853,41.27048635580218],[-7.50487879045318,41.27136315161789],[-7.50254764962187,41.2717793460406],[-7.50330681393871,41.27440974348519],[-7.49980991413139,41.27503396383867]]],"type":"Polygon"}
+}

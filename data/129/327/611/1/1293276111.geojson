@@ -1,0 +1,71 @@
+{
+  "id": 1293276111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.09867,32.69465,-17.09867,32.69465",
+    "geom:latitude":32.69465,
+    "geom:longitude":-17.09867,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3105",
+    "gn:admin3_code":"310503.0",
+    "gn:asciiname":"Canhas",
+    "gn:country_code":"PT",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270273,
+    "gn:latitude":32.69465,
+    "gn:longitude":-17.09867,
+    "gn:modification_date":"2018-03-01",
+    "gn:name":"Canhas",
+    "gn:population":3769,
+    "gn:timezone":"Atlantic/Madeira",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270273,
+        "wk:page":"Canhas"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0aff068a458b4bb8ebfa69f441a04aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293276111,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1293276111,
+    "wof:lastmodified":1537571937,
+    "wof:name":"Canhas",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":3769,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.09867,
+    32.69465,
+    -17.09867,
+    32.69465
+],
+  "geometry": {"coordinates":[-17.09867,32.69465],"type":"Point"}
+}

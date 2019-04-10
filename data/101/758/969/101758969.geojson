@@ -1,0 +1,80 @@
+{
+  "id": 101758969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:bbox":"-9.45903903962,38.7090882325,-9.43970271877,38.720871311",
+    "geom:latitude":38.715466,
+    "geom:longitude":-9.449998,
+    "iso:country":"PT",
+    "lbl:latitude":38.715955,
+    "lbl:longitude":-9.450182,
+    "mps:latitude":38.715955,
+    "mps:longitude":-9.450182,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Birre"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Birre",
+    "qs:loc_alt":"Birre",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027178f8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270856,
+        "gp:id":737277,
+        "qs:id":26611,
+        "qs_pg:id":26611
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"650bba55a1657d6478f336470a9a0cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758969,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758969,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497298205,
+    "wof:name":"Birre",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45903903962261,
+    38.7090882325071,
+    -9.43970271877288,
+    38.72087131099926
+],
+  "geometry": {"coordinates":[[[-9.45437036043819,38.7090882325071],[-9.4563369672864,38.7090882325071],[-9.4588719626982,38.71343393892727],[-9.45903903962261,38.71769440050014],[-9.45595709184011,38.71832818712102],[-9.45621923520349,38.71920167757304],[-9.45286850100689,38.71989061257955],[-9.45260639750239,38.71901711158284],[-9.44993017969875,38.71956725666968],[-9.4483698388496,38.7190471430531],[-9.44583484343781,38.7190471430531],[-9.44248502807227,38.72013356965817],[-9.44130464192654,38.72087131099926],[-9.44091307369689,38.71956560847588],[-9.43970271877288,38.71981425473041],[-9.4413278139877,38.71298885482827],[-9.44562636301339,38.71210548451199],[-9.44764555444624,38.71289072562467],[-9.45135751201343,38.71216644122137],[-9.45180091976908,38.71083621795435],[-9.45471500113285,38.71023704508679],[-9.45437036043819,38.7090882325071]]],"type":"Polygon"}
+}

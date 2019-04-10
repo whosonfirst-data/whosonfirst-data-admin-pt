@@ -1,0 +1,67 @@
+{
+  "id": 1209923221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41603,40.48114,-8.41603,40.48114",
+    "geom:latitude":40.48114,
+    "geom:longitude":-8.41603,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"10305.0",
+    "gn:asciiname":"Avelas de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742599,
+    "gn:latitude":40.48114,
+    "gn:longitude":-8.41603,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Avel\u00e3s de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742599
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e6e512fa411b5c52076eed039c3187bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209923221,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1209923221,
+    "wof:lastmodified":1536396061,
+    "wof:name":"Avelas de Cima",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41603,
+    40.48114,
+    -8.41603,
+    40.48114
+],
+  "geometry": {"coordinates":[-8.41603,40.48114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243233317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1939,39.11824,-8.1939,39.11824",
+    "geom:latitude":39.11824,
+    "geom:longitude":-8.1939,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1213",
+    "gn:admin3_code":"121302.0",
+    "gn:asciiname":"Barbas de Alho",
+    "gn:country_code":"PT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271152,
+    "gn:latitude":39.11824,
+    "gn:longitude":-8.1939,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Barbas de Alho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271152
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5e5ef015f2a13a7730bd47217c022739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243233317,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1243233317,
+    "wof:lastmodified":1536613509,
+    "wof:name":"Barbas de Alho",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1939,
+    39.11824,
+    -8.1939,
+    39.11824
+],
+  "geometry": {"coordinates":[-8.1939,39.11824],"type":"Point"}
+}

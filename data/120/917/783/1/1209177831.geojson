@@ -1,0 +1,63 @@
+{
+  "id": 1209177831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.42172,41.1523,-8.42172,41.1523",
+    "geom:latitude":41.1523,
+    "geom:longitude":-8.42172,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1310",
+    "gn:admin3_code":"131019.0",
+    "gn:asciiname":"Outeiro",
+    "gn:country_code":"PT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736968,
+    "gn:latitude":41.1523,
+    "gn:longitude":-8.42172,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Outeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736968
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5cc08445560dfad480444ef7cc58e5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209177831
+        }
+    ],
+    "wof:id":1209177831,
+    "wof:lastmodified":1536295362,
+    "wof:name":"Outeiro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.42172,
+    41.1523,
+    -8.42172,
+    41.1523
+],
+  "geometry": {"coordinates":[-8.42172,41.1523],"type":"Point"}
+}

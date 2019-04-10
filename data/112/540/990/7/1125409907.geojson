@@ -1,0 +1,78 @@
+{
+  "id": 1125409907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19803,38.71262,-9.19803,38.71262",
+    "geom:latitude":38.71262,
+    "geom:longitude":-9.19803,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.71262,
+    "lbl:longitude":-9.19803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kaz_x_preferred":[
+        "\u0410\u0436\u0443\u0434\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0436\u0443\u0434\u0430"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012460,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ajuda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155630,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012460,
+        "qs_pg:id":1155630
+    },
+    "wof:country":"PT",
+    "wof:created":1497049920,
+    "wof:geomhash":"bc25fc8af97108d3ec5ed78b0e69adce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409907,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125409907,
+    "wof:lastmodified":1509390232,
+    "wof:name":"Ajuda",
+    "wof:parent_id":85687367,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19803,
+    38.71262,
+    -9.19803,
+    38.71262
+],
+  "geometry": {"coordinates":[-9.19803,38.71262],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125387635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27637,38.96712,-9.27637,38.96712",
+    "geom:latitude":38.96712,
+    "geom:longitude":-9.27637,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.96712,
+    "lbl:longitude":-9.27637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012532,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gradil",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906898,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012532,
+        "qs_pg:id":906898
+    },
+    "wof:country":"PT",
+    "wof:created":1497048499,
+    "wof:geomhash":"c2d0ef4b81dec61b496bd10f0074fb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125387635,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125387635,
+    "wof:lastmodified":1509389748,
+    "wof:name":"Gradil",
+    "wof:parent_id":85687367,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27637,
+    38.96712,
+    -9.27637,
+    38.96712
+],
+  "geometry": {"coordinates":[-9.27637,38.96712],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1126031109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43268,39.3713,-7.43268,39.3713",
+    "geom:latitude":39.3713,
+    "geom:longitude":-7.43268,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.3713,
+    "lbl:longitude":-7.43268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "Carreiras"
+    ],
+    "name:dut_x_preferred":[
+        "Carreiras"
+    ],
+    "name:eng_x_preferred":[
+        "Carreiras"
+    ],
+    "name:ger_x_preferred":[
+        "Carreiras"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0439\u0440\u0430\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Carreiras"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0435\u0439\u0440\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Carreiras"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":2270053,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Carreiras",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Portalegre",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":179159,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":738384,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Portalegre",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270053,
+        "gp:id":738384,
+        "qs_pg:id":179159,
+        "wd:id":"Q2259797"
+    },
+    "wof:country":"PT",
+    "wof:created":1497301481,
+    "wof:geomhash":"4d76f19425c72044c494b01c27136e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126031109,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1126031109,
+    "wof:lastmodified":1553816713,
+    "wof:name":"Carreiras",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43268,
+    39.3713,
+    -7.43268,
+    39.3713
+],
+  "geometry": {"coordinates":[-7.43268,39.3713],"type":"Point"}
+}

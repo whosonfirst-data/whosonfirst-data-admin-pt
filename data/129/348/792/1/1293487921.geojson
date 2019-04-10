@@ -1,0 +1,65 @@
+{
+  "id": 1293487921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78999,41.61226,-8.78999,41.61226",
+    "geom:latitude":41.61226,
+    "geom:longitude":-8.78999,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guilheta",
+    "gn:country_code":"PT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738759,
+    "gn:latitude":41.61226,
+    "gn:longitude":-8.78999,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Guilheta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738759
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7677113eed212371801287ce3c90feb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293487921,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1293487921,
+    "wof:lastmodified":1536786907,
+    "wof:name":"Guilheta",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78999,
+    41.61226,
+    -8.78999,
+    41.61226
+],
+  "geometry": {"coordinates":[-8.78999,41.61226],"type":"Point"}
+}

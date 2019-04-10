@@ -1,0 +1,111 @@
+{
+  "id": 101778279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":679466.099173,
+    "geom:bbox":"-8.84257583917,39.146447953,-8.83264163607,39.1582683595",
+    "geom:latitude":39.152127,
+    "geom:longitude":-8.837878,
+    "gn:population":4435,
+    "iso:country":"PT",
+    "lbl:latitude":39.152216,
+    "lbl:longitude":-8.837476,
+    "mps:latitude":39.152216,
+    "mps:longitude":-8.837476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "name:eng_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "name:fre_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "name:ger_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0435\u0432\u0435\u043b"
+    ],
+    "name:por_x_colloquial":[
+        "Pontevel"
+    ],
+    "name:por_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0435\u0432\u0435\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Pont\u00e9vel"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Pont\u00e9vel",
+    "qs:la_lc":"*PT11406043",
+    "qs:level":"locality",
+    "qs:loc":"Pont\u00e9vel",
+    "qs:loc_alt":"Pontevel",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c3dfc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264527,
+        "gp:id":746074,
+        "qs:id":325045,
+        "qs_pg:id":325045,
+        "wd:id":"Q1582638"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"db3f5b5af20a0956f3a31bf7a50a5b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778279,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778279,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498111,
+    "wof:name":"Pont\u00e9vel",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":4435,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.84257583917247,
+    39.14644795303229,
+    -8.83264163606924,
+    39.15826835951526
+],
+  "geometry": {"coordinates":[[[-8.84145022137403,39.15826835951526],[-8.84119326344489,39.15739336742723],[-8.84006765273597,39.1576160671346],[-8.83981071801173,39.15674106962229],[-8.8386851143926,39.15696375282749],[-8.83842820287276,39.15608874989141],[-8.83730260634394,39.15631141659463],[-8.83704571802696,39.15543640823518],[-8.8336689299955,39.15610431969606],[-8.83264163606924,39.15260422512563],[-8.83376718399609,39.15238161483097],[-8.83325356691898,39.15063156263466],[-8.83437908095016,39.15040894619739],[-8.83412227305183,39.14953392059732],[-8.83524776685107,39.14931129456556],[-8.83499095482608,39.14843627044826],[-8.83611642839429,39.14821363482241],[-8.83585961224384,39.14733861218758],[-8.84036138617461,39.14644795303229],[-8.84061825696182,39.14732296185571],[-8.84174369767555,39.14710026099885],[-8.8422574951781,39.14885026582772],[-8.84113202714644,39.14907297359161],[-8.84138892654448,39.14994797650388],[-8.84026343828072,39.15017067467488],[-8.84257583917247,39.15804564330534],[-8.84145022137403,39.15826835951526]]],"type":"Polygon"}
+}

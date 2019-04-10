@@ -1,0 +1,69 @@
+{
+  "id": 101778177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:bbox":"-8.77978909206,38.5674699503,-8.76833825921,38.5795224671",
+    "geom:latitude":38.574015,
+    "geom:longitude":-8.773005,
+    "iso:country":"PT",
+    "lbl:latitude":38.574724,
+    "lbl:longitude":-8.771964,
+    "mps:latitude":38.574724,
+    "mps:longitude":-8.771964,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"G\u00e2mbia - Pontes - Alto da Guerra",
+    "qs:la_lc":"*PT11512072",
+    "qs:level":"locality",
+    "qs:loc":"Cajados",
+    "qs:loc_alt":"Cajados",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412845,
+        "qs:id":5
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c01ed59805c041561cfd1b38c9fcc7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778177,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101778177,
+    "wof:lastmodified":1477508541,
+    "wof:name":"Cajados",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7797890920645,
+    38.56746995027868,
+    -8.76833825921085,
+    38.57952246711267
+],
+  "geometry": {"coordinates":[[[-8.77161425569187,38.57952246711267],[-8.77060608968156,38.57601856598166],[-8.76948970254659,38.57624014469616],[-8.76923769761061,38.57536416107644],[-8.77035407138936,38.57514258574804],[-8.76985006265426,38.57339061933897],[-8.77096640335947,38.57316903785284],[-8.76995844385863,38.56966509481276],[-8.76884215656855,38.56988666275663],[-8.76833825921085,38.56813467258274],[-8.77168702188317,38.56746995027868],[-8.77370315454527,38.57447778218437],[-8.7781685096553,38.57359119642246],[-8.77842062143031,38.5744671529493],[-8.77953695764876,38.57424547079899],[-8.7797890920645,38.57512142195696],[-8.77867274249218,38.5753431074948],[-8.77892487284112,38.57621906005897],[-8.77334296272113,38.57732731074327],[-8.77384711772379,38.57907924380112],[-8.77161425569187,38.57952246711267]]],"type":"Polygon"}
+}

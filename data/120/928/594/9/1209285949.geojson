@@ -1,0 +1,63 @@
+{
+  "id": 1209285949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18401,41.38567,-8.18401,41.38567",
+    "geom:latitude":41.38567,
+    "geom:longitude":-8.18401,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1303",
+    "gn:admin3_code":"130324.0",
+    "gn:asciiname":"Sendim",
+    "gn:country_code":"PT",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734155,
+    "gn:latitude":41.38567,
+    "gn:longitude":-8.18401,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Sendim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734155
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"932b1b1c7714f0e0b01f881a14d6dcea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209285949
+        }
+    ],
+    "wof:id":1209285949,
+    "wof:lastmodified":1536291860,
+    "wof:name":"Sendim",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18401,
+    41.38567000000001,
+    -8.18401,
+    41.38567000000001
+],
+  "geometry": {"coordinates":[-8.18401,41.38567000000001],"type":"Point"}
+}

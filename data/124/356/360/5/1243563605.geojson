@@ -1,0 +1,67 @@
+{
+  "id": 1243563605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47429,40.3031,-8.47429,40.3031",
+    "geom:latitude":40.3031,
+    "geom:longitude":-8.47429,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0111",
+    "gn:admin3_code":"11102.0",
+    "gn:asciiname":"Barcouco",
+    "gn:country_code":"PT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742411,
+    "gn:latitude":40.3031,
+    "gn:longitude":-8.47429,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Barcou\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742411
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"264e85cea8a3722c5a379c96078f0c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243563605,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1243563605,
+    "wof:lastmodified":1536635357,
+    "wof:name":"Barcouco",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47429,
+    40.3031,
+    -8.47429,
+    40.3031
+],
+  "geometry": {"coordinates":[-8.47429,40.3031],"type":"Point"}
+}

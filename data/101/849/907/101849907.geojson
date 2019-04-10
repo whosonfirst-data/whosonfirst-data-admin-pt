@@ -1,0 +1,73 @@
+{
+  "id": 101849907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.105072,38.599508,-9.105072,38.599508",
+    "geom:latitude":38.599508,
+    "geom:longitude":-9.105072,
+    "iso:country":"PT",
+    "lbl:latitude":38.599508,
+    "lbl:longitude":-9.105072,
+    "mps:latitude":38.599508,
+    "mps:longitude":-9.105072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Flor da Mata",
+    "qs:loc_alt":"Flor da Mata",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29383313,
+        "qs:id":7
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"668151f8e0918a4c0264702e9ef3d33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849907,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101849907,
+    "wof:lastmodified":1544741172,
+    "wof:name":"Flor da Mata",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.105072,
+    38.599508,
+    -9.105072,
+    38.599508
+],
+  "geometry": {"coordinates":[-9.105072,38.599508],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 101845423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":419536.315524,
+    "geom:bbox":"-7.70753173331,40.4996974234,-7.6984223198,40.5095181369",
+    "geom:latitude":40.504214,
+    "geom:longitude":-7.703236,
+    "iso:country":"PT",
+    "lbl:latitude":40.503493,
+    "lbl:longitude":-7.703305,
+    "mps:latitude":40.503493,
+    "mps:longitude":-7.703305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:eng_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:fre_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0422\u0430\u0437\u0435\u043d"
+    ],
+    "name:may_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:por_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0422\u0430\u0437\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Vila Nova de Tazem"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Guarda",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vila Nova de Tazem",
+    "qs:la_lc":"*PT10906212",
+    "qs:level":"locality",
+    "qs:loc":"Vila Nova de T\u00e1zem",
+    "qs:loc_alt":"Vila Nova de Tazem",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f05b4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2732537,
+        "gp:id":750809,
+        "qs:id":389322,
+        "wd:id":"Q32561"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"18710be3e4f5fdfe51048480fe828af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845423,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":101845423,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498184,
+    "wof:name":"Vila Nova de T\u00e1zem",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.70753173331207,
+    40.49969742335344,
+    -7.69842231979931,
+    40.50951813689801
+],
+  "geometry": {"coordinates":[[[-7.70403039431079,40.50951813689801],[-7.70352916793684,40.5077640747694],[-7.70237773350476,40.50797412773801],[-7.70212714933086,40.50709709057941],[-7.69867285029505,40.50772715879725],[-7.69842231979931,40.50685010967487],[-7.69957374474234,40.50664010374328],[-7.69932320905923,40.5057630562024],[-7.70047461264022,40.50555304023527],[-7.70022407177083,40.50467599427532],[-7.70137545398995,40.50446596827322],[-7.70012281899653,40.5000807283289],[-7.70127412100578,40.49987070583512],[-7.70152464366078,40.50074775404835],[-7.70728112757439,40.49969742335344],[-7.70753173331207,40.50057445282999],[-7.70638043511235,40.50078454919503],[-7.70663103567017,40.50166158025274],[-7.705479716112,40.50187166658458],[-7.70623153083358,40.50450275908418],[-7.70508016049087,40.50471284215598],[-7.70608265470628,40.50822095375952],[-7.70493121885681,40.50843103695854],[-7.70518185152588,40.5093080637331],[-7.70403039431079,40.50951813689801]]],"type":"Polygon"}
+}

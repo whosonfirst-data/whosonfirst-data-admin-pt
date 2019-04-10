@@ -1,0 +1,69 @@
+{
+  "id": 101759189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"-9.16409946481,38.7927331867,-9.15294608681,38.8001153432",
+    "geom:latitude":38.79613,
+    "geom:longitude":-9.158732,
+    "iso:country":"PT",
+    "lbl:latitude":38.796712,
+    "lbl:longitude":-9.158816,
+    "mps:latitude":38.796712,
+    "mps:longitude":-9.158816,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Quinta da V\u00e1rzea",
+    "qs:loc_alt":"Quinta da Varzea",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":746393,
+        "qs:id":1
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e3e53d81ebb7261c06ad8baf2932d3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759189,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759189,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Quinta da V\u00e1rzea",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16409946481429,
+    38.79273318672199,
+    -9.15294608681347,
+    38.80011534318646
+],
+  "geometry": {"coordinates":[[[-9.16301266799258,38.79377093346619],[-9.16387656721264,38.79416688727531],[-9.16409946481429,38.79413902507514],[-9.16291067760517,38.79621940269124],[-9.15928859157708,38.79960001631741],[-9.15777481889938,38.80011534318646],[-9.15709156078191,38.79780618758639],[-9.15597261018615,38.79803239388878],[-9.1551965873528,38.79540917086541],[-9.1533729791783,38.79577777999799],[-9.15294608681347,38.79478169781328],[-9.1571780000001,38.79351049999991],[-9.15796239527623,38.79273318672199],[-9.15855329892702,38.79473054435687],[-9.16302882258196,38.79382552770022],[-9.16301266799258,38.79377093346619]]],"type":"Polygon"}
+}

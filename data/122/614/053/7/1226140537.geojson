@@ -1,0 +1,67 @@
+{
+  "id": 1226140537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03108,39.89786,-8.03108,39.89786",
+    "geom:latitude":39.89786,
+    "geom:longitude":-8.03108,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50913.0",
+    "gn:asciiname":"Currais",
+    "gn:country_code":"PT",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268756,
+    "gn:latitude":39.89786,
+    "gn:longitude":-8.03108,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Currais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268756
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7457aa7c3841ecb5627a6cf5fc73b6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226140537,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1226140537,
+    "wof:lastmodified":1537082097,
+    "wof:name":"Currais",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03108,
+    39.89786,
+    -8.03108,
+    39.89786
+],
+  "geometry": {"coordinates":[-8.03108,39.89786],"type":"Point"}
+}

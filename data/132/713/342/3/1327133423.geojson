@@ -1,0 +1,67 @@
+{
+  "id": 1327133423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.34765,41.23482,-7.34765,41.23482",
+    "geom:latitude":41.23482,
+    "geom:longitude":-7.34765,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0403",
+    "gn:admin3_code":"40311.0",
+    "gn:asciiname":"Misquel",
+    "gn:country_code":"PT",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737629,
+    "gn:latitude":41.23482,
+    "gn:longitude":-7.34765,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Misquel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737629
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1068a2155e0346e3e952db40b587b0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327133423,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1327133423,
+    "wof:lastmodified":1536612151,
+    "wof:name":"Misquel",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.34765,
+    41.23482,
+    -7.34765,
+    41.23482
+],
+  "geometry": {"coordinates":[-7.34765,41.23482],"type":"Point"}
+}

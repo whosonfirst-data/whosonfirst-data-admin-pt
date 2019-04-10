@@ -1,0 +1,67 @@
+{
+  "id": 1327205599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65,41.16667,-8.65,41.16667",
+    "geom:latitude":41.16667,
+    "geom:longitude":-8.65,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1312",
+    "gn:admin3_code":"131211.0",
+    "gn:asciiname":"Campinas",
+    "gn:country_code":"PT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741652,
+    "gn:latitude":41.16667,
+    "gn:longitude":-8.65,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Campinas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741652
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"00b4ac89dcb84ec42fdfec336df1424f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327205599,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1327205599,
+    "wof:lastmodified":1537007705,
+    "wof:name":"Campinas",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65,
+    41.16667,
+    -8.65,
+    41.16667
+],
+  "geometry": {"coordinates":[-8.65,41.16667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209515851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24466,41.40557,-8.24466,41.40557",
+    "geom:latitude":41.40557,
+    "geom:longitude":-8.24466,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30809.0",
+    "gn:asciiname":"Calvos",
+    "gn:country_code":"PT",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741696,
+    "gn:latitude":41.40557,
+    "gn:longitude":-8.24466,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Calvos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741696
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a10d67f7ae2ef70755db5f75fa3faa9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209515851
+        }
+    ],
+    "wof:id":1209515851,
+    "wof:lastmodified":1536284735,
+    "wof:name":"Calvos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.244660000000001,
+    41.40557,
+    -8.244660000000001,
+    41.40557
+],
+  "geometry": {"coordinates":[-8.24466,41.40557],"type":"Point"}
+}

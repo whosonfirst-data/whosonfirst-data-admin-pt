@@ -1,0 +1,71 @@
+{
+  "id": 1242679765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03778,38.02405,-8.03778,38.02405",
+    "geom:latitude":38.02405,
+    "geom:longitude":-8.03778,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0205",
+    "gn:admin3_code":"20505.0",
+    "gn:asciiname":"Mombeja",
+    "gn:country_code":"PT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266275,
+    "gn:latitude":38.02405,
+    "gn:longitude":-8.03778,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Mombeja",
+    "gn:population":981,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266275,
+        "wk:page":"Mombeja"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4008047c05344739a1fc4f4d428c44c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242679765,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1242679765,
+    "wof:lastmodified":1537571936,
+    "wof:name":"Mombeja",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:population":981,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03778,
+    38.02405,
+    -8.03778,
+    38.02405
+],
+  "geometry": {"coordinates":[-8.03778,38.02405],"type":"Point"}
+}

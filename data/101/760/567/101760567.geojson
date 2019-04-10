@@ -1,0 +1,104 @@
+{
+  "id": 101760567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:bbox":"-8.61590729124,41.0982606138,-8.61170271349,41.1024067661",
+    "geom:latitude":41.100113,
+    "geom:longitude":-8.613467,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.099477,
+    "lbl:longitude":-8.613674,
+    "mps:latitude":41.099477,
+    "mps:longitude":-8.613674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Guardal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Guardal",
+    "qs:loc_alt":"Guardal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-very-near-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2738780,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Guardal",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":47,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742082,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f2986-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738780,
+        "gp:id":742082,
+        "qs:id":1080823,
+        "qs_pg:id":1080823
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1db520108b88b116144a7dfb6ca5ac75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101760567,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101760567,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379448,
+    "wof:name":"Guardal",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125792879
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61590729124356,
+    41.09826061377811,
+    -8.61170271349113,
+    41.10240676614001
+],
+  "geometry": {"coordinates":[[[-8.61176389201063,41.10213956453498],[-8.61223803808105,41.10204918873694],[-8.61170271349113,41.10030237673664],[-8.61286219724354,41.10008133481483],[-8.61232068990898,41.09831427492531],[-8.6147354415304,41.09826061377811],[-8.61590729124356,41.09878143587292],[-8.61458736466034,41.09974138247884],[-8.61377294187503,41.102184650835],[-8.61221813473929,41.10240676614001],[-8.61176389201063,41.10213956453498]]],"type":"Polygon"}
+}

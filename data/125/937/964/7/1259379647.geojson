@@ -1,0 +1,67 @@
+{
+  "id": 1259379647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51612,40.10565,-8.51612,40.10565",
+    "geom:latitude":40.10565,
+    "geom:longitude":-8.51612,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0604",
+    "gn:admin3_code":"60406.0",
+    "gn:asciiname":"Sao Fipo",
+    "gn:country_code":"PT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734520,
+    "gn:latitude":40.10565,
+    "gn:longitude":-8.51612,
+    "gn:modification_date":"2018-01-18",
+    "gn:name":"S\u00e3o Fipo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734520
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fb2b2591d4f8b2010e2abaf9cbf75ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259379647,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259379647,
+    "wof:lastmodified":1537007118,
+    "wof:name":"Sao Fipo",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51612,
+    40.10565,
+    -8.51612,
+    40.10565
+],
+  "geometry": {"coordinates":[-8.51612,40.10565],"type":"Point"}
+}

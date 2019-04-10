@@ -1,0 +1,109 @@
+{
+  "id": 85862519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":708668.979537,
+    "geom:bbox":"-9.17633056641,38.7369460596,-9.16534423828,38.7476572946",
+    "geom:latitude":38.742456,
+    "geom:longitude":-9.169815,
+    "iso:country":"PT",
+    "lbl:latitude":38.741245,
+    "lbl:longitude":-9.173374,
+    "mps:latitude":38.742301,
+    "mps:longitude":-9.16971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:pol_x_variant":[
+        "Furnas"
+    ],
+    "name:por_x_preferred":[
+        "Bairro Das Furnas"
+    ],
+    "name:unk_x_variant":[
+        "Bairro Das Furnas"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Bairro da Figueira",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Bairro Das Furnas",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":3633,
+    "qs:photo_sum":4290,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271237,
+        "gp:id":20105206,
+        "qs:id":899932,
+        "qs_pg:id":899932
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"10a782fa0480245d2f3c8bf39add4821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862519,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862519,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497312727,
+    "wof:name":"Bairro das Furnas",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17633056640852,
+    38.73694605957645,
+    -9.16534423827989,
+    38.74765729463776
+],
+  "geometry": {"coordinates":[[[-9.16864302919214,38.73694606042608],[-9.17083740233977,38.73694605957645],[-9.17083740233977,38.73908843252323],[-9.17358398437179,38.73908843577645],[-9.17358398437116,38.74123074443776],[-9.17633056640827,38.74123074666691],[-9.17633056640852,38.74337299212323],[-9.17358398437179,38.74337299537645],[-9.17358398567023,38.74551517450955],[-9.17083740233977,38.74551517877636],[-9.17083740233977,38.74765729463776],[-9.16809082030994,38.74765729021073],[-9.16754339440536,38.74765728795032],[-9.1672625827548,38.74657710242404],[-9.16534423827989,38.74575721486788],[-9.16534423827989,38.74551518490009],[-9.16534423827989,38.74337299346278],[-9.16534423827989,38.74123074577527],[-9.16534423827989,38.74015036327394],[-9.16534423827989,38.73908844190008],[-9.16809082030994,38.73908844190008],[-9.16809082030994,38.73694606570008],[-9.16864302919214,38.73694606042608]]],"type":"Polygon"}
+}

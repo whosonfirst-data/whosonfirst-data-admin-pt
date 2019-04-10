@@ -1,0 +1,72 @@
+{
+  "id": 1125409921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55267,38.17599,-8.55267,38.17599",
+    "geom:latitude":38.17599,
+    "geom:longitude":-8.55267,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.17599,
+    "lbl:longitude":-8.55267,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8013128,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gr\u00e2ndola",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155640,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8013128,
+        "qs_pg:id":1155640
+    },
+    "wof:country":"PT",
+    "wof:created":1497049923,
+    "wof:geomhash":"618a56c34e53998fbdfe67de5aa195ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409921,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1125409921,
+    "wof:lastmodified":1509390233,
+    "wof:name":"Gr\u00e2ndola",
+    "wof:parent_id":85687359,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55267,
+    38.17599,
+    -8.55267,
+    38.17599
+],
+  "geometry": {"coordinates":[-8.55267,38.17599],"type":"Point"}
+}

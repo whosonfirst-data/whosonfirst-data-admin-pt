@@ -1,0 +1,67 @@
+{
+  "id": 1242590689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51655,40.78133,-8.51655,40.78133",
+    "geom:latitude":40.78133,
+    "geom:longitude":-8.51655,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0113",
+    "gn:admin3_code":"11304.0",
+    "gn:asciiname":"Graciosa",
+    "gn:country_code":"PT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738880,
+    "gn:latitude":40.78133,
+    "gn:longitude":-8.51655,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Graciosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738880
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8299abbff3ce9e713489a168754dd1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242590689,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1242590689,
+    "wof:lastmodified":1537042925,
+    "wof:name":"Graciosa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51655,
+    40.78133,
+    -8.51655,
+    40.78133
+],
+  "geometry": {"coordinates":[-8.51655,40.78133],"type":"Point"}
+}

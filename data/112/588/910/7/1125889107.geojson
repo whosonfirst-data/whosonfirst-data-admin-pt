@@ -1,0 +1,93 @@
+{
+  "id": 1125889107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54064,40.62807,-7.54064,40.62807",
+    "geom:latitude":40.62807,
+    "geom:longitude":-7.54064,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.62807,
+    "lbl:longitude":-7.54064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Fornos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739349,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fornos de Algodres",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":979407,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741390,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739349,
+        "gp:id":741390,
+        "qs_pg:id":979407
+    },
+    "wof:country":"PT",
+    "wof:created":1497295233,
+    "wof:geomhash":"58f07e2c0c3962aae4eba19884ab240e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125889107,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125889107,
+    "wof:lastmodified":1534379447,
+    "wof:name":"Fornos de Algodres",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101774899
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54064,
+    40.62807,
+    -7.54064,
+    40.62807
+],
+  "geometry": {"coordinates":[-7.54064,40.62807],"type":"Point"}
+}

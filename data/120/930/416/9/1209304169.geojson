@@ -1,0 +1,63 @@
+{
+  "id": 1209304169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38709,37.22044,-8.38709,37.22044",
+    "geom:latitude":37.22044,
+    "geom:longitude":-8.38709,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0813",
+    "gn:admin3_code":"81307.0",
+    "gn:asciiname":"Santo Estevao",
+    "gn:country_code":"PT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263416,
+    "gn:latitude":37.22044,
+    "gn:longitude":-8.38709,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santo Est\u00eav\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263416
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d37a9572ab163dea6c5edfe60bfc09b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209304169
+        }
+    ],
+    "wof:id":1209304169,
+    "wof:lastmodified":1536291253,
+    "wof:name":"Santo Estevao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.387089999999999,
+    37.22044,
+    -8.387089999999999,
+    37.22044
+],
+  "geometry": {"coordinates":[-8.38709,37.22044],"type":"Point"}
+}

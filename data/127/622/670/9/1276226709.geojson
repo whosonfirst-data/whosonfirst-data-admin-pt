@@ -1,0 +1,67 @@
+{
+  "id": 1276226709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64848,41.76824,-6.64848,41.76824",
+    "geom:latitude":41.76824,
+    "geom:longitude":-6.64848,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"40223.0",
+    "gn:asciiname":"Vale de Prados",
+    "gn:country_code":"PT",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733074,
+    "gn:latitude":41.76824,
+    "gn:longitude":-6.64848,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Prados",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733074
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"180da0a72ebf80545658dd62d45669ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276226709,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1276226709,
+    "wof:lastmodified":1536922360,
+    "wof:name":"Vale de Prados",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64848,
+    41.76824000000001,
+    -6.64848,
+    41.76824000000001
+],
+  "geometry": {"coordinates":[-6.64848,41.76824000000001],"type":"Point"}
+}

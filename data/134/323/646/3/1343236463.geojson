@@ -1,0 +1,67 @@
+{
+  "id": 1343236463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45145,41.83665,-8.45145,41.83665",
+    "geom:latitude":41.83665,
+    "geom:longitude":-8.45145,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160122.0",
+    "gn:asciiname":"Monte Redondo",
+    "gn:country_code":"PT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737428,
+    "gn:latitude":41.83665,
+    "gn:longitude":-8.45145,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Redondo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737428
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5263e1170e9c6a01d6fffcaa23cdf9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343236463,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1343236463,
+    "wof:lastmodified":1537066756,
+    "wof:name":"Monte Redondo",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45145,
+    41.83665,
+    -8.45145,
+    41.83665
+],
+  "geometry": {"coordinates":[-8.45145,41.83665],"type":"Point"}
+}

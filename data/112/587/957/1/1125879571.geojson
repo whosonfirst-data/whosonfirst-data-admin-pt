@@ -1,0 +1,102 @@
+{
+  "id": 1125879571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82674,37.06675,-8.82674,37.06675",
+    "geom:latitude":37.06675,
+    "geom:longitude":-8.82674,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":37.06675,
+    "lbl:longitude":-8.82674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Salema"
+    ],
+    "name:eng_x_preferred":[
+        "Salema"
+    ],
+    "name:ger_x_preferred":[
+        "Salema"
+    ],
+    "name:nno_x_preferred":[
+        "Salema i Portugal"
+    ],
+    "name:por_x_preferred":[
+        "Praia da Salema"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2263639,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Salema",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Faro",
+    "qs_pg:photos":386,
+    "qs_pg:photos_1k":78,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":386,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1203860,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":747649,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Faro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263639,
+        "gp:id":747649,
+        "qs_pg:id":1203860,
+        "wd:id":"Q7404257"
+    },
+    "wof:country":"PT",
+    "wof:created":1497294728,
+    "wof:geomhash":"eec494d6b5bd5281f2f47ba1800b3965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125879571,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1125879571,
+    "wof:lastmodified":1514498132,
+    "wof:name":"Salema",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82674,
+    37.06675,
+    -8.82674,
+    37.06675
+],
+  "geometry": {"coordinates":[-8.82674,37.06675],"type":"Point"}
+}

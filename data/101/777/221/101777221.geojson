@@ -1,0 +1,135 @@
+{
+  "id": 101777221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":249732.924412,
+    "geom:bbox":"-7.69583909872,40.3214756078,-7.68690209584,40.3279981951",
+    "geom:latitude":40.32479,
+    "geom:longitude":-7.690717,
+    "iso:country":"PT",
+    "lbl:latitude":40.325234,
+    "lbl:longitude":-7.689904,
+    "mps:latitude":40.325234,
+    "mps:longitude":-7.689904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Loriga"
+    ],
+    "name:dut_x_preferred":[
+        "Loriga"
+    ],
+    "name:eng_x_preferred":[
+        "Loriga"
+    ],
+    "name:fra_x_preferred":[
+        "Loriga"
+    ],
+    "name:fre_x_preferred":[
+        "Loriga"
+    ],
+    "name:ger_x_preferred":[
+        "Loriga"
+    ],
+    "name:ita_x_preferred":[
+        "Loriga"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0440\u0438\u0433\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Lorica Lusitanorum"
+    ],
+    "name:may_x_preferred":[
+        "Loriga"
+    ],
+    "name:msa_x_preferred":[
+        "Loriga"
+    ],
+    "name:nan_x_preferred":[
+        "Loriga"
+    ],
+    "name:nld_x_preferred":[
+        "Loriga"
+    ],
+    "name:por_x_preferred":[
+        "Loriga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0438\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Loriga"
+    ],
+    "name:tur_x_preferred":[
+        "Loriga"
+    ],
+    "name:unk_x_variant":[
+        "Loriga"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Guarda",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Loriga",
+    "qs:la_lc":"*PT10912077",
+    "qs:level":"locality",
+    "qs:loc":"Louriga",
+    "qs:loc_alt":"Louriga",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":40.316667,
+    "wd:longitude":-7.683333,
+    "wd:wordcount":1135,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02699b7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738210,
+        "gp:id":742776,
+        "qs:id":1081268,
+        "wd:id":"Q734336",
+        "wk:page":"Loriga"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"31a1828b06a02fbada8eae38bd50605d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777221,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":101777221,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688508,
+    "wof:name":"Louriga",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.69583909872483,
+    40.3214756077694,
+    -7.6869020958423,
+    40.32799819505192
+],
+  "geometry": {"coordinates":[[[-7.68845125949201,40.32319215602206],[-7.69189598007119,40.32256272679086],[-7.69164680940025,40.32168544090604],[-7.69279502182656,40.3214756077694],[-7.69304420710034,40.32235289028745],[-7.69419242754702,40.32214304040474],[-7.69444163687513,40.32302031774549],[-7.69558986534139,40.32281045111597],[-7.69583909872483,40.32368772327919],[-7.69239434976555,40.32431729313089],[-7.69264354878999,40.32519457358626],[-7.69149527136562,40.32540440681049],[-7.69199366856094,40.32715896902602],[-7.68740037618551,40.32799819505192],[-7.6869020958423,40.32624360590256],[-7.68805039959642,40.3260338262005],[-7.68755212784004,40.32427923654672],[-7.68870039580094,40.32406945019682],[-7.68845125949201,40.32319215602206]]],"type":"Polygon"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209080245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05165,41.70738,-8.05165,41.70738",
+    "geom:latitude":41.70738,
+    "geom:longitude":-8.05165,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1706",
+    "gn:admin3_code":"170601.0",
+    "gn:asciiname":"Pincaes",
+    "gn:country_code":"PT",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736242,
+    "gn:latitude":41.70738,
+    "gn:longitude":-8.05165,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pinc\u00e3es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736242
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4cd7762c000043f1c8566ff864d7e6a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209080245
+        }
+    ],
+    "wof:id":1209080245,
+    "wof:lastmodified":1536298361,
+    "wof:name":"Pincaes",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05165,
+    41.70738,
+    -8.05165,
+    41.70738
+],
+  "geometry": {"coordinates":[-8.05165,41.70738],"type":"Point"}
+}

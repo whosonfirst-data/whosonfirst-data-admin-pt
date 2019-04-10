@@ -1,0 +1,64 @@
+{
+  "id": 1108942527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1391975059,38.7069939239,-9.1391975059,38.7069939239",
+    "geom:latitude":38.706994,
+    "geom:longitude":-9.139198,
+    "iso:country":"PT",
+    "lbl:latitude":38.706994,
+    "lbl:longitude":-9.139198,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:pol_x_preferred":[
+        "S\u00e3o Nicolau"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363150,
+    "wof:geomhash":"bd66784dad5c66d4c8b84b5095e7802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942527,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942527,
+    "wof:lastmodified":1497292364,
+    "wof:name":"Sao Nicolau",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13919750589652,
+    38.70699392392049,
+    -9.13919750589652,
+    38.70699392392049
+],
+  "geometry": {"coordinates":[-9.13919750589652,38.70699392392049],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209079983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33924,39.23032,-9.33924,39.23032",
+    "geom:latitude":39.23032,
+    "geom:longitude":-9.33924,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110811.0",
+    "gn:asciiname":"Porto das Barcas",
+    "gn:country_code":"PT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264434,
+    "gn:latitude":39.23032,
+    "gn:longitude":-9.33924,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Porto das Barcas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264434
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b7ef366350e3a06f7956fbff8378adbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209079983
+        }
+    ],
+    "wof:id":1209079983,
+    "wof:lastmodified":1536298370,
+    "wof:name":"Porto das Barcas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33924,
+    39.23032,
+    -9.33924,
+    39.23032
+],
+  "geometry": {"coordinates":[-9.33924,39.23032],"type":"Point"}
+}

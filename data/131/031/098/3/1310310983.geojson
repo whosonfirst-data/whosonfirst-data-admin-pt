@@ -1,0 +1,67 @@
+{
+  "id": 1310310983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3542,41.50661,-8.3542,41.50661",
+    "geom:latitude":41.50661,
+    "geom:longitude":-8.3542,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30855.0",
+    "gn:asciiname":"Sobreiro",
+    "gn:country_code":"PT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733897,
+    "gn:latitude":41.50661,
+    "gn:longitude":-8.3542,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sobreiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733897
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0d6d98e754f3ce81d57777bbed2691f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310310983,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310310983,
+    "wof:lastmodified":1536700232,
+    "wof:name":"Sobreiro",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3542,
+    41.50661,
+    -8.3542,
+    41.50661
+],
+  "geometry": {"coordinates":[-8.3542,41.50661],"type":"Point"}
+}

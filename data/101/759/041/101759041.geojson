@@ -1,0 +1,80 @@
+{
+  "id": 101759041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:bbox":"-9.38270321282,38.7023206408,-9.37216069838,38.7098180974",
+    "geom:latitude":38.705793,
+    "geom:longitude":-9.376525,
+    "iso:country":"PT",
+    "lbl:latitude":38.705833,
+    "lbl:longitude":-9.376605,
+    "mps:latitude":38.705833,
+    "mps:longitude":-9.376605,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Alapraia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Alapraia",
+    "qs:loc_alt":"Alapraia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02724210-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2272240,
+        "gp:id":735538,
+        "qs:id":188037,
+        "qs_pg:id":188037
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"70b7b803d7ddafb9bbe7c7887881fb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759041,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759041,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497298014,
+    "wof:name":"Alapraia",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38270321281726,
+    38.70232064076129,
+    -9.37216069838371,
+    38.70981809739118
+],
+  "geometry": {"coordinates":[[[-9.37441227814026,38.7033358572524],[-9.38270321281726,38.70232064076129],[-9.38259576147021,38.70272358331277],[-9.3807850504619,38.70395486679843],[-9.37904676789378,38.70627257688915],[-9.37835728404502,38.70828799121631],[-9.3774574249482,38.70847229474055],[-9.37730848532578,38.70837300165886],[-9.37279256116227,38.70981809739118],[-9.37216069838371,38.70770243572082],[-9.37327763385014,38.70747375200511],[-9.37249479982364,38.70485237918268],[-9.37472857119491,38.70439499399572],[-9.37441227814026,38.7033358572524]]],"type":"Polygon"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1126003289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78912,40.11831,-7.78912,40.11831",
+    "geom:latitude":40.11831,
+    "geom:longitude":-7.78912,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":458,
+    "gn:population":458,
+    "iso:country":"PT",
+    "lbl:latitude":40.11831,
+    "lbl:longitude":-7.78912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "P\u00f3voa da Paposeira"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2735819,
+    "qs_pg:gn_pop":458,
+    "qs_pg:name":"P\u00f3voa da Raposeira",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Coimbra",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1005115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":746358,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Coimbra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735819,
+        "gp:id":746358,
+        "qs_pg:id":1005115
+    },
+    "wof:country":"PT",
+    "wof:created":1497299781,
+    "wof:geomhash":"907ef52a211e4f5fe95bee6a7741047a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126003289,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1126003289,
+    "wof:lastmodified":1509406283,
+    "wof:name":"P\u00f3voa da Raposeira",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:population":458,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78912,
+    40.11831,
+    -7.78912,
+    40.11831
+],
+  "geometry": {"coordinates":[-7.78912,40.11831],"type":"Point"}
+}

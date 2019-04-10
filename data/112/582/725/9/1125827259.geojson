@@ -1,0 +1,104 @@
+{
+  "id": 1125827259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46185,41.33167,-8.46185,41.33167",
+    "geom:latitude":41.33167,
+    "geom:longitude":-8.46185,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5416,
+    "gn:population":5416,
+    "iso:country":"PT",
+    "lbl:latitude":41.33167,
+    "lbl:longitude":-8.46185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b-\u0434\u0443-\u041a\u043e\u0442\u0443"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b-\u0434\u0443-\u041a\u043e\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Miguel do Couto"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734395,
+    "qs_pg:gn_pop":5416,
+    "qs_pg:name":"S\u00e3o Miguel do Couto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":575792,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734395,
+        "qs_pg:id":575792,
+        "wd:id":"Q1938279"
+    },
+    "wof:country":"PT",
+    "wof:created":1497292334,
+    "wof:geomhash":"9eccdaac579cdcb617f6ddb7d16855de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125827259,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125827259,
+    "wof:lastmodified":1514498160,
+    "wof:name":"S\u00e3o Miguel do Couto",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":5416,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46185,
+    41.33167,
+    -8.46185,
+    41.33167
+],
+  "geometry": {"coordinates":[-8.46185,41.33167],"type":"Point"}
+}

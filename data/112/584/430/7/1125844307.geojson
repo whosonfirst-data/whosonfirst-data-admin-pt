@@ -1,0 +1,89 @@
+{
+  "id": 1125844307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49034,37.67434,-7.49034,37.67434",
+    "geom:latitude":37.67434,
+    "geom:longitude":-7.49034,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":37.67434,
+    "lbl:longitude":-7.49034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mina de S\u00e3o Domingos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2266389,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Minas de S\u00e3o Domingos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Beja",
+    "qs_pg:photos":356,
+    "qs_pg:photos_1k":72,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":356,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":563947,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":743536,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Beja",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266389,
+        "gp:id":743536,
+        "qs_pg:id":563947
+    },
+    "wof:country":"PT",
+    "wof:created":1497293080,
+    "wof:geomhash":"89d2ead6df9baef32f65e132b56824b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125844307,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1125844307,
+    "wof:lastmodified":1509395506,
+    "wof:name":"Minas de S\u00e3o Domingos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49034,
+    37.67434,
+    -7.49034,
+    37.67434
+],
+  "geometry": {"coordinates":[-7.49034,37.67434],"type":"Point"}
+}

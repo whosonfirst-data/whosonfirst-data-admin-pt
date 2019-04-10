@@ -1,0 +1,110 @@
+{
+  "id": 101874813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.981943,38.682942,-8.981943,38.682942",
+    "geom:latitude":38.682942,
+    "geom:longitude":-8.981943,
+    "iso:country":"PT",
+    "lbl:latitude":38.682942,
+    "lbl:longitude":-8.981943,
+    "mps:latitude":38.682942,
+    "mps:longitude":-8.981943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:dut_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:eng_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:fre_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:ger_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u043b\u044c\u044e\u0448-\u041f\u0435\u043a\u0435\u043d\u0443\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u043b\u044c\u044e\u0448-\u041f\u0435\u043a\u0435\u043d\u0443\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Sarilhos Pequenos"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sarilhos Pequenos",
+    "qs:loc_alt":"Sarilhos Pequenos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":389,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c0de6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263166,
+        "gp:id":748478,
+        "qs:id":1166786,
+        "qs_pg:id":1166786,
+        "wd:id":"Q2451289",
+        "wk:page":"Sarilhos Pequenos"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"23877fb31068594ed01d084b605fcd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874813,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101874813,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751805,
+    "wof:name":"Sarilhos Pequenos",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.981943,
+    38.682942,
+    -8.981943,
+    38.682942
+],
+  "geometry": {"coordinates":[-8.981943,38.682942],"type":"Point"}
+}

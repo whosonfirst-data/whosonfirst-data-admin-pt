@@ -1,0 +1,115 @@
+{
+  "id": 101758931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":975277.141507,
+    "geom:bbox":"-9.38421746637,38.7958399165,-9.36691692705,38.8061646311",
+    "geom:latitude":38.801595,
+    "geom:longitude":-9.376361,
+    "iso:country":"PT",
+    "lbl:latitude":38.799949,
+    "lbl:longitude":-9.376492,
+    "mps:latitude":38.799949,
+    "mps:longitude":-9.376492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Portela"
+    ],
+    "name:dut_x_preferred":[
+        "Portela"
+    ],
+    "name:eng_x_preferred":[
+        "Portela"
+    ],
+    "name:fra_x_preferred":[
+        "Portela"
+    ],
+    "name:fre_x_preferred":[
+        "Portela"
+    ],
+    "name:ger_x_preferred":[
+        "Portela"
+    ],
+    "name:glg_x_preferred":[
+        "Portela"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u043b\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Portela"
+    ],
+    "name:pol_x_preferred":[
+        "Portela"
+    ],
+    "name:por_x_preferred":[
+        "Portela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Portela"
+    ],
+    "name:srp_x_preferred":[
+        "Portela"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Portela",
+    "qs:loc_alt":"Portela",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22661033,
+        "wd:id":"Q1024837"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e08405bd03bef5062ebed8136926b346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758931,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758931,
+    "wof:lastmodified":1527689301,
+    "wof:name":"Portela",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38421746636851,
+    38.79583991645359,
+    -9.36691692704881,
+    38.80616463109845
+],
+  "geometry": {"coordinates":[[[-9.37598276379936,38.79583991645359],[-9.37839448613721,38.79596684920824],[-9.37929183927884,38.79896296968104],[-9.38218817773168,38.79837026506925],[-9.3841443173805,38.8007516524678],[-9.38343216952131,38.80089738738224],[-9.38421746636851,38.80351826891109],[-9.38309901949651,38.80374713031114],[-9.3833607910675,38.8046207569185],[-9.38112385074083,38.80507844792658],[-9.38138560526539,38.80595207951643],[-9.38034667697167,38.80616463109845],[-9.37757481259297,38.80511864454047],[-9.37698330501581,38.80314394879309],[-9.37362790532109,38.80383024022211],[-9.37415120591896,38.80557755572613],[-9.37191418625611,38.80603503269037],[-9.37165255783606,38.80516136893817],[-9.36717849241336,38.80607615355513],[-9.36691692704881,38.80520247372743],[-9.36803543998883,38.80497380049155],[-9.36777387091684,38.80410012213451],[-9.37001085022086,38.80364274386233],[-9.36922612076637,38.80102171761331],[-9.36855181710092,38.80115958598481],[-9.36845108657747,38.80025301127313],[-9.37343822909168,38.79923318245511],[-9.37291503684503,38.79748584542256],[-9.3762701363533,38.79679958888187],[-9.37598276379936,38.79583991645359]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226654787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40496,40.75087,-8.40496,40.75087",
+    "geom:latitude":40.75087,
+    "geom:longitude":-8.40496,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0117",
+    "gn:admin3_code":"11707.0",
+    "gn:asciiname":"Felgares",
+    "gn:country_code":"PT",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739700,
+    "gn:latitude":40.75087,
+    "gn:longitude":-8.40496,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Felgares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739700
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3ed72b08b5026a200ab275fcbe0f72c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226654787,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1226654787,
+    "wof:lastmodified":1536845232,
+    "wof:name":"Felgares",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40496,
+    40.75087,
+    -8.40496,
+    40.75087
+],
+  "geometry": {"coordinates":[-8.40496,40.75087],"type":"Point"}
+}

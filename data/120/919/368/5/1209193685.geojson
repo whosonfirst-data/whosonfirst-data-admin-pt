@@ -1,0 +1,63 @@
+{
+  "id": 1209193685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83931,39.52387,-8.83931,39.52387",
+    "geom:latitude":39.52387,
+    "geom:longitude":-8.83931,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1016",
+    "gn:admin3_code":"101613.0",
+    "gn:asciiname":"Lagar Novo",
+    "gn:country_code":"PT",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267257,
+    "gn:latitude":39.52387,
+    "gn:longitude":-8.83931,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lagar Novo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267257
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0850b75558c641361be2ecf065d5e134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209193685
+        }
+    ],
+    "wof:id":1209193685,
+    "wof:lastmodified":1536294846,
+    "wof:name":"Lagar Novo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.839310000000003,
+    39.52387,
+    -8.839310000000003,
+    39.52387
+],
+  "geometry": {"coordinates":[-8.83931,39.52387],"type":"Point"}
+}

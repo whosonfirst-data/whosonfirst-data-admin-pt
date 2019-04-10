@@ -1,0 +1,67 @@
+{
+  "id": 1193240101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69504,41.87108,-8.69504,41.87108",
+    "geom:latitude":41.87108,
+    "geom:longitude":-8.69504,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1610",
+    "gn:admin3_code":"161004.0",
+    "gn:asciiname":"Abotega",
+    "gn:country_code":"PT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743431,
+    "gn:latitude":41.87108,
+    "gn:longitude":-8.69504,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Abotega",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743431
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"70ccdc40b7d68ccf91d9826c419bd4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193240101,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1193240101,
+    "wof:lastmodified":1536379357,
+    "wof:name":"Abotega",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69504,
+    41.87108,
+    -8.69504,
+    41.87108
+],
+  "geometry": {"coordinates":[-8.69504,41.87108],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343932259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6809,41.94744,-8.6809,41.94744",
+    "geom:latitude":41.94744,
+    "geom:longitude":-8.6809,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1610",
+    "gn:admin3_code":"161003.0",
+    "gn:asciiname":"Berrega",
+    "gn:country_code":"PT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742254,
+    "gn:latitude":41.94744,
+    "gn:longitude":-8.6809,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Berrega",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742254
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"977b29cd059259f3e0f6d1828ca8dfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343932259,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1343932259,
+    "wof:lastmodified":1537058212,
+    "wof:name":"Berrega",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6809,
+    41.94744,
+    -8.6809,
+    41.94744
+],
+  "geometry": {"coordinates":[-8.6809,41.94744],"type":"Point"}
+}

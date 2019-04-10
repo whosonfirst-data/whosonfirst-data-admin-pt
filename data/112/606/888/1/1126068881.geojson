@@ -1,0 +1,92 @@
+{
+  "id": 1126068881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18333,38.7,-9.18333,38.7",
+    "geom:latitude":38.7,
+    "geom:longitude":-9.18333,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.7,
+    "lbl:longitude":-9.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2263443,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santo Amaro",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Lisboa",
+    "qs_pg:photos":4945,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4945,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":483927,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":747998,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Lisboa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263443,
+        "gp:id":747998,
+        "qs_pg:id":483927
+    },
+    "wof:country":"PT",
+    "wof:created":1497309451,
+    "wof:geomhash":"645202f620f29a0d485a0536e7448be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1126068881,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1126068881,
+    "wof:lastmodified":1534379446,
+    "wof:name":"Santo Amaro",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        85799129
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18333,
+    38.7,
+    -9.18333,
+    38.7
+],
+  "geometry": {"coordinates":[-9.18333,38.7],"type":"Point"}
+}

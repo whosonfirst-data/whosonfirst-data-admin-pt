@@ -1,0 +1,67 @@
+{
+  "id": 1310658987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-31.24177,39.38483,-31.24177,39.38483",
+    "geom:latitude":39.38483,
+    "geom:longitude":-31.24177,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4801",
+    "gn:admin3_code":"480104.0",
+    "gn:asciiname":"Costa",
+    "gn:country_code":"PT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9781366,
+    "gn:latitude":39.38483,
+    "gn:longitude":-31.24177,
+    "gn:modification_date":"2014-10-19",
+    "gn:name":"Costa",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781366
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"94f618167981996295952faac81a8e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310658987,
+            "region_id":85687465
+        }
+    ],
+    "wof:id":1310658987,
+    "wof:lastmodified":1536695821,
+    "wof:name":"Costa",
+    "wof:parent_id":85687465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -31.24177,
+    39.38483,
+    -31.24177,
+    39.38483
+],
+  "geometry": {"coordinates":[-31.24177,39.38483],"type":"Point"}
+}

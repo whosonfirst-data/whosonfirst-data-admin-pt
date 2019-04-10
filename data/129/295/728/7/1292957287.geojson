@@ -1,0 +1,67 @@
+{
+  "id": 1292957287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04527,40.56297,-8.04527,40.56297",
+    "geom:latitude":40.56297,
+    "geom:longitude":-8.04527,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1821",
+    "gn:admin3_code":"182103.0",
+    "gn:asciiname":"Povoa do Arcediago",
+    "gn:country_code":"PT",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735786,
+    "gn:latitude":40.56297,
+    "gn:longitude":-8.04527,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00f3voa do Arcediago",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735786
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"061d4ef64e4b848867ae5f743fa97147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292957287,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1292957287,
+    "wof:lastmodified":1537052252,
+    "wof:name":"Povoa do Arcediago",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04527,
+    40.56297,
+    -8.04527,
+    40.56297
+],
+  "geometry": {"coordinates":[-8.04527,40.56297],"type":"Point"}
+}

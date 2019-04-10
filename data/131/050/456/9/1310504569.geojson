@@ -1,0 +1,67 @@
+{
+  "id": 1310504569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47966,40.45282,-8.47966,40.45282",
+    "geom:latitude":40.45282,
+    "geom:longitude":-8.47966,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0103",
+    "gn:admin3_code":"10310.0",
+    "gn:asciiname":"Sao Mateus",
+    "gn:country_code":"PT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734406,
+    "gn:latitude":40.45282,
+    "gn:longitude":-8.47966,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Mateus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734406
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bc72ae730c4f4bda444d5d8b06e1e649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310504569,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310504569,
+    "wof:lastmodified":1536918828,
+    "wof:name":"Sao Mateus",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47966,
+    40.45282,
+    -8.47966,
+    40.45282
+],
+  "geometry": {"coordinates":[-8.47966,40.45282],"type":"Point"}
+}

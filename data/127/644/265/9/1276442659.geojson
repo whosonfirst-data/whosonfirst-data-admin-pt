@@ -1,0 +1,67 @@
+{
+  "id": 1276442659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22344,41.71098,-8.22344,41.71098",
+    "geom:latitude":41.71098,
+    "geom:longitude":-8.22344,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0310",
+    "gn:admin3_code":"31008.0",
+    "gn:asciiname":"Freitas",
+    "gn:country_code":"PT",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739265,
+    "gn:latitude":41.71098,
+    "gn:longitude":-8.22344,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Freitas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739265
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"126f54344013cbed308f26963ceeb9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276442659,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1276442659,
+    "wof:lastmodified":1536630518,
+    "wof:name":"Freitas",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22344,
+    41.71098,
+    -8.22344,
+    41.71098
+],
+  "geometry": {"coordinates":[-8.22344,41.71098],"type":"Point"}
+}

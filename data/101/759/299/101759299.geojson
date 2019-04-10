@@ -1,0 +1,83 @@
+{
+  "id": 101759299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:bbox":"-8.65102075091,41.1885930759,-8.63758294503,41.1967842869",
+    "geom:latitude":41.193255,
+    "geom:longitude":-8.64467,
+    "iso:country":"PT",
+    "lbl:latitude":41.193419,
+    "lbl:longitude":-8.644772,
+    "mps:latitude":41.193419,
+    "mps:longitude":-8.644772,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "S Gens",
+        "S. Gens",
+        "Sao Gens"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Gens",
+        "Igreja de S\u00e3o Gens de Boelhe"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Gens",
+    "qs:loc_alt":"Sao Gens",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273a358-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2734512,
+        "gp:id":748154,
+        "qs:id":1254595
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ca8e6cac401fe478241658bdf1a11b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759299,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759299,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1467244910,
+    "wof:name":"S\u00e3o Gens",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65102075091465,
+    41.18859307592851,
+    -8.63758294503117,
+    41.19678428686046
+],
+  "geometry": {"coordinates":[[[-8.63758294503117,41.19584353851741],[-8.63832016071558,41.19387763002578],[-8.64438090088015,41.19026697631057],[-8.64814717673977,41.18859307592851],[-8.65102075091465,41.19172020076581],[-8.64852761429103,41.19219592206321],[-8.64933422673766,41.19481545477322],[-8.64817314658427,41.19503697576414],[-8.64844202307194,41.19591015318053],[-8.6449586944662,41.1965746459212],[-8.64502324261855,41.19678428686046],[-8.63948072798115,41.19594086071999],[-8.63758294503117,41.19584353851741]]],"type":"Polygon"}
+}

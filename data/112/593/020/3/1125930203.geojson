@@ -1,0 +1,82 @@
+{
+  "id": 1125930203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.28834,38.50304,-28.28834,38.50304",
+    "geom:latitude":38.50304,
+    "geom:longitude":-28.28834,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.50304,
+    "lbl:longitude":-28.28834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3372597,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e3o Miguel Arcanjo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Azores",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182331,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":538367,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Azores",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372597,
+        "gp:id":538367,
+        "qs_pg:id":182331
+    },
+    "wof:country":"PT",
+    "wof:created":1497296779,
+    "wof:geomhash":"ca7434c4826528dfcb41370cc9d12fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125930203,
+            "region_id":85687447
+        }
+    ],
+    "wof:id":1125930203,
+    "wof:lastmodified":1509401356,
+    "wof:name":"S\u00e3o Miguel Arcanjo",
+    "wof:parent_id":85687447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.28834,
+    38.50304,
+    -28.28834,
+    38.50304
+],
+  "geometry": {"coordinates":[-28.28834,38.50304],"type":"Point"}
+}

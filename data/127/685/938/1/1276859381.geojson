@@ -1,0 +1,67 @@
+{
+  "id": 1276859381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62867,40.49556,-7.62867,40.49556",
+    "geom:latitude":40.49556,
+    "geom:longitude":-7.62867,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0906",
+    "gn:admin3_code":"90622.0",
+    "gn:asciiname":"Vinho",
+    "gn:country_code":"PT",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732274,
+    "gn:latitude":40.49556,
+    "gn:longitude":-7.62867,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vinh\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732274
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"51a58d705503625283e12ab2c5e09f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276859381,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1276859381,
+    "wof:lastmodified":1537065688,
+    "wof:name":"Vinho",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62867,
+    40.49556,
+    -7.62867,
+    40.49556
+],
+  "geometry": {"coordinates":[-7.62867,40.49556],"type":"Point"}
+}

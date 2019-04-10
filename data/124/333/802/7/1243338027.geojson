@@ -1,0 +1,67 @@
+{
+  "id": 1243338027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81709,41.88298,-8.81709,41.88298",
+    "geom:latitude":41.88298,
+    "geom:longitude":-8.81709,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"160215.0",
+    "gn:asciiname":"Coura",
+    "gn:country_code":"PT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740409,
+    "gn:latitude":41.88298,
+    "gn:longitude":-8.81709,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Coura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740409
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3f93243a66a9cf71c081178894ec5dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243338027,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1243338027,
+    "wof:lastmodified":1536961836,
+    "wof:name":"Coura",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81709,
+    41.88298,
+    -8.81709,
+    41.88298
+],
+  "geometry": {"coordinates":[-8.81709,41.88298],"type":"Point"}
+}

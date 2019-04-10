@@ -1,0 +1,94 @@
+{
+  "id": 1125855393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.08657,32.67984,-17.08657,32.67984",
+    "geom:latitude":32.67984,
+    "geom:longitude":-17.08657,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":985,
+    "gn:population":985,
+    "iso:country":"PT",
+    "lbl:latitude":32.67984,
+    "lbl:longitude":-17.08657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0433\u0430\u0440-\u0434\u0435-\u0411\u0430\u0439\u0448\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Logar de Baixo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2266944,
+    "qs_pg:gn_pop":985,
+    "qs_pg:name":"Lugar de Baixo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1098856,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868030,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266944,
+        "gp:id":55868030,
+        "qs_pg:id":1098856
+    },
+    "wof:country":"PT",
+    "wof:created":1497293597,
+    "wof:geomhash":"5c03ef797edb9628e33c88e0983ff1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125855393,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125855393,
+    "wof:lastmodified":1509396180,
+    "wof:name":"Lugar de Baixo",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":985,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.08657,
+    32.67984,
+    -17.08657,
+    32.67984
+],
+  "geometry": {"coordinates":[-17.08657,32.67984],"type":"Point"}
+}

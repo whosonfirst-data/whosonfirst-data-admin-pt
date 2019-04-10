@@ -1,0 +1,111 @@
+{
+  "id": 101776237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":619298.294943,
+    "geom:bbox":"-8.57000001803,40.6202108422,-8.55611606744,40.6304867822",
+    "geom:latitude":40.625657,
+    "geom:longitude":-8.56322,
+    "gn:population":5978,
+    "iso:country":"PT",
+    "lbl:latitude":40.626965,
+    "lbl:longitude":-8.563325,
+    "mps:latitude":40.626965,
+    "mps:longitude":-8.563325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Eirol"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0439\u0440\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Eixo"
+    ],
+    "name:nld_x_preferred":[
+        "Eirol"
+    ],
+    "name:por_x_preferred":[
+        "Eixo",
+        "Eirol"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0440\u043e\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Eirol"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u9c81\u5c14"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Eixo",
+    "qs:la_lc":"*PT10105040",
+    "qs:level":"locality",
+    "qs:loc":"Eixo",
+    "qs:loc_alt":"Eixo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026bcde0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740034,
+        "gp:id":740475,
+        "qs:id":1203441,
+        "qs_pg:id":987699,
+        "wd:id":"Q2257537",
+        "wk:page":"Eixo e Eirol"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"83b015a956da78259c8a4b9148369f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776237,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776237,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688312,
+    "wof:name":"Eixo",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":5978,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57000001803192,
+    40.62021084217685,
+    -8.55611606744219,
+    40.63048678222736
+],
+  "geometry": {"coordinates":[[[-8.56424360211145,40.63048678222736],[-8.56371650963342,40.62873856096843],[-8.56026266378268,40.62939916561709],[-8.55973569892774,40.62765091545879],[-8.55858443219449,40.62787108311869],[-8.55805753656807,40.62612281827381],[-8.55690629204082,40.62634296543774],[-8.55611606744219,40.6237205432995],[-8.55956964871291,40.62306009359355],[-8.56036000466395,40.62568248376897],[-8.56381365440592,40.6250218815718],[-8.56302316711304,40.62239952336409],[-8.5607208284988,40.62283991690828],[-8.56019394538242,40.62109165441478],[-8.56479847793042,40.62021084217685],[-8.5650619728512,40.62108496016447],[-8.56621310311328,40.62086472007604],[-8.56674015216475,40.62261294325634],[-8.56558899272005,40.62283319044963],[-8.56664315258195,40.62632962826092],[-8.56894558122298,40.62588909205959],[-8.57000001803192,40.6293854710969],[-8.56884874882945,40.62960576010795],[-8.56858513920088,40.6287316646401],[-8.56513133343509,40.62939244065819],[-8.56539489927661,40.63026654678646],[-8.56424360211145,40.63048678222736]]],"type":"Polygon"}
+}

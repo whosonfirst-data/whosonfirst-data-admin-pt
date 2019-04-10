@@ -1,0 +1,80 @@
+{
+  "id": 101759081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"-9.2974939563,38.7166858326,-9.28878703508,38.7280483399",
+    "geom:latitude":38.721657,
+    "geom:longitude":-9.293389,
+    "iso:country":"PT",
+    "lbl:latitude":38.721272,
+    "lbl:longitude":-9.293092,
+    "mps:latitude":38.721272,
+    "mps:longitude":-9.293092,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Vila Fria"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Vila Fria",
+    "qs:loc_alt":"Vila Fria",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026eda94-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2261636,
+        "gp:id":750707,
+        "qs:id":188386,
+        "qs_pg:id":188386
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"44da34bdcbb74575b6a0d410e3610ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759081,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759081,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497298098,
+    "wof:name":"Vila Fria",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29749395629648,
+    38.7166858325815,
+    -9.28878703508133,
+    38.72804833991086
+],
+  "geometry": {"coordinates":[[[-9.29546775962484,38.71679886854344],[-9.29567747506496,38.71696664089535],[-9.29631821366598,38.720444936158],[-9.29658347529625,38.72407017843881],[-9.29645367869142,38.72409664228962],[-9.29749395629648,38.72759273389147],[-9.29525903695344,38.72804833991086],[-9.29421886594827,38.72455222039662],[-9.29086659752483,38.72523549060077],[-9.28878703508133,38.71824307029846],[-9.29102167409434,38.71778762556085],[-9.29076174523777,38.71691357085245],[-9.29187904156623,38.7166858325815],[-9.29213898374394,38.71755988380261],[-9.29549087326188,38.71687658097125],[-9.29546775962484,38.71679886854344]]],"type":"Polygon"}
+}

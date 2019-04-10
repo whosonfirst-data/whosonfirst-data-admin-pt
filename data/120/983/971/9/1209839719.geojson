@@ -1,0 +1,68 @@
+{
+  "id": 1209839719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51955,41.5785,-8.51955,41.5785",
+    "geom:latitude":41.5785,
+    "geom:longitude":-8.51955,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30282.0",
+    "gn:asciiname":"Ucha",
+    "gn:country_code":"PT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733320,
+    "gn:latitude":41.5785,
+    "gn:longitude":-8.51955,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ucha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733320,
+        "wk:page":"Ucha"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"272881b1b97e4ea4faa19af75ab06531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209839719,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1209839719,
+    "wof:lastmodified":1537571939,
+    "wof:name":"Ucha",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51955,
+    41.5785,
+    -8.51955,
+    41.5785
+],
+  "geometry": {"coordinates":[-8.51955,41.5785],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209106493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44564,41.48264,-8.44564,41.48264",
+    "geom:latitude":41.48264,
+    "geom:longitude":-8.44564,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0303",
+    "gn:admin3_code":"30320.0",
+    "gn:asciiname":"Guisande",
+    "gn:country_code":"PT",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738742,
+    "gn:latitude":41.48264,
+    "gn:longitude":-8.44564,
+    "gn:modification_date":"2018-02-19",
+    "gn:name":"Guisande",
+    "gn:population":1053,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738742
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"40c522c849ec4211c3eda6aa5a5ac45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209106493
+        }
+    ],
+    "wof:id":1209106493,
+    "wof:lastmodified":1536297553,
+    "wof:name":"Guisande",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:population":1053,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44564,
+    41.48264,
+    -8.44564,
+    41.48264
+],
+  "geometry": {"coordinates":[-8.44564,41.48264],"type":"Point"}
+}

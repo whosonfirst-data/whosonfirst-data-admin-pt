@@ -1,0 +1,67 @@
+{
+  "id": 1226650713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.51739,41.47424,-6.51739,41.47424",
+    "geom:latitude":41.47424,
+    "geom:longitude":-6.51739,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0411",
+    "gn:admin3_code":"41111.0",
+    "gn:asciiname":"Mora",
+    "gn:country_code":"PT",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737407,
+    "gn:latitude":41.47424,
+    "gn:longitude":-6.51739,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mora",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737407
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4a876cb4453edebec90b873b3ff65877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226650713,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1226650713,
+    "wof:lastmodified":1536851140,
+    "wof:name":"Mora",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.51739,
+    41.47424,
+    -6.51739,
+    41.47424
+],
+  "geometry": {"coordinates":[-6.51739,41.47424],"type":"Point"}
+}

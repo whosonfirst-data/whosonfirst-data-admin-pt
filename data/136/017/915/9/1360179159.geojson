@@ -1,0 +1,71 @@
+{
+  "id": 1360179159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33188,40.28633,-8.33188,40.28633",
+    "geom:latitude":40.28633,
+    "geom:longitude":-8.33188,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0613",
+    "gn:admin3_code":"61302.0",
+    "gn:asciiname":"Figueira de Lorvao",
+    "gn:country_code":"PT",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739588,
+    "gn:latitude":40.28633,
+    "gn:longitude":-8.33188,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Figueira de Lorv\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Figueira de Lorv\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739588,
+        "wk:page":"Figueira_de_Lorv%C3%A3o"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"002fc915da9fa1e2bf3266d71cb91581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360179159,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1360179159,
+    "wof:lastmodified":1537683170,
+    "wof:name":"Figueira de Lorvao",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33188,
+    40.28633,
+    -8.33188,
+    40.28633
+],
+  "geometry": {"coordinates":[-8.33188,40.28633],"type":"Point"}
+}

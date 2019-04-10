@@ -1,0 +1,67 @@
+{
+  "id": 1193051041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38698,41.50438,-8.38698,41.50438",
+    "geom:latitude":41.50438,
+    "geom:longitude":-8.38698,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30805.0",
+    "gn:asciiname":"Balazar",
+    "gn:country_code":"PT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742477,
+    "gn:latitude":41.50438,
+    "gn:longitude":-8.38698,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Balazar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742477
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"38b556f5bda9ec5c210a7eede9229a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193051041,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1193051041,
+    "wof:lastmodified":1536366088,
+    "wof:name":"Balazar",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38698,
+    41.50438,
+    -8.38698,
+    41.50438
+],
+  "geometry": {"coordinates":[-8.38698,41.50438],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209739549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46483,41.71363,-8.46483,41.71363",
+    "geom:latitude":41.71363,
+    "geom:longitude":-8.46483,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31319.0",
+    "gn:asciiname":"Lourido",
+    "gn:country_code":"PT",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738170,
+    "gn:latitude":41.71363,
+    "gn:longitude":-8.46483,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lourido",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738170
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0a2b4fa13f803a1d94627df07e3b8922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209739549,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1209739549,
+    "wof:lastmodified":1536369943,
+    "wof:name":"Lourido",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46483,
+    41.71363,
+    -8.46483,
+    41.71363
+],
+  "geometry": {"coordinates":[-8.46483,41.71363],"type":"Point"}
+}

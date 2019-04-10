@@ -1,0 +1,85 @@
+{
+  "id": 1125386425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25,37.16667,-8.25,37.16667",
+    "geom:latitude":37.16667,
+    "geom:longitude":-8.25,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":411306,
+    "gn:population":411306,
+    "iso:country":"PT",
+    "lbl:latitude":37.16667,
+    "lbl:longitude":-8.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Algarve"
+    ],
+    "name:por_x_preferred":[
+        "Algarve"
+    ],
+    "name:unk_x_variant":[
+        "Algarve"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":2271989,
+    "qs_pg:gn_pop":411306,
+    "qs_pg:name":"Prov\u00edncia do Algarve",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1032185,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271989,
+        "qs_pg:id":1032185
+    },
+    "wof:country":"PT",
+    "wof:created":1497048410,
+    "wof:geomhash":"50d3ebb04e942fb56e73973deb81f865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125386425,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1125386425,
+    "wof:lastmodified":1509389729,
+    "wof:name":"Prov\u00edncia do Algarve",
+    "wof:parent_id":85687349,
+    "wof:placetype":"localadmin",
+    "wof:population":411306,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25,
+    37.16667,
+    -8.25,
+    37.16667
+],
+  "geometry": {"coordinates":[-8.25,37.16667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 101777083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:bbox":"-8.57728039585,39.6270898833,-8.56326579928,39.6369455069",
+    "geom:latitude":39.630999,
+    "geom:longitude":-8.569945,
+    "iso:country":"PT",
+    "lbl:latitude":39.630145,
+    "lbl:longitude":-8.569838,
+    "mps:latitude":39.630145,
+    "mps:longitude":-8.569838,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Nossa Senhora das Miseric\u00f3rdias",
+    "qs:la_lc":"*PT11421115",
+    "qs:level":"locality",
+    "qs:loc":"Vilar de Prazeres",
+    "qs:loc_alt":"Vilar de Prazeres",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24900027,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3782a1a5ba02238df5a76ef3cd2543ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777083,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101777083,
+    "wof:lastmodified":1477508541,
+    "wof:name":"Vilar de Prazeres",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57728039585464,
+    39.62708988325443,
+    -8.56326579928469,
+    39.63694550685614
+],
+  "geometry": {"coordinates":[[[-8.56897681881634,39.63453566621848],[-8.56769411145245,39.63015917920166],[-8.56542579341834,39.6305986502262],[-8.56516930873795,39.62972334013813],[-8.56403515375172,39.62994305244479],[-8.56326579928469,39.62731710026765],[-8.56439991228427,39.62709739831945],[-8.56465636817154,39.62797271418475],[-8.56919280972318,39.62709376090322],[-8.56944933118541,39.62796906102983],[-8.5739857224109,39.62708988325443],[-8.57449890608467,39.62884045009582],[-8.57563301526432,39.62862061582484],[-8.5758896354979,39.62949589290071],[-8.5770237520241,39.62927604200752],[-8.57728039585464,39.63015131370122],[-8.57160967678806,39.63125045376495],[-8.57289269012199,39.63562686970556],[-8.56608718800135,39.63694550685614],[-8.56583065011932,39.63607020679439],[-8.56696490308991,39.63585047031364],[-8.56670836081014,39.63497517178007],[-8.56897681881634,39.63453566621848]]],"type":"Polygon"}
+}

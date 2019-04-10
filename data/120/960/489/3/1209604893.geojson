@@ -1,0 +1,63 @@
+{
+  "id": 1209604893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26532,37.17443,-8.26532,37.17443",
+    "geom:latitude":37.17443,
+    "geom:longitude":-8.26532,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0813",
+    "gn:admin3_code":"81308.0",
+    "gn:asciiname":"Amendoais",
+    "gn:country_code":"PT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271729,
+    "gn:latitude":37.17443,
+    "gn:longitude":-8.26532,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Amendoais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271729
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"31ea6489ea8b8e941c10a0ab7421ac28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209604893
+        }
+    ],
+    "wof:id":1209604893,
+    "wof:lastmodified":1536282045,
+    "wof:name":"Amendoais",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26532,
+    37.17443,
+    -8.26532,
+    37.17443
+],
+  "geometry": {"coordinates":[-8.26532,37.17443],"type":"Point"}
+}

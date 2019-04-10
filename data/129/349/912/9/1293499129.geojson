@@ -1,0 +1,70 @@
+{
+  "id": 1293499129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78483,37.52799,-8.78483,37.52799",
+    "geom:latitude":37.52799,
+    "geom:longitude":-8.78483,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21114.0",
+    "gn:asciiname":"Zambujeira do Mar",
+    "gn:country_code":"PT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261486,
+    "gn:latitude":37.52799,
+    "gn:longitude":-8.78483,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Zambujeira do Mar",
+    "gn:population":2011,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261486
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0c989d453c626f08aad01b2cfc15017b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293499129,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1293499129,
+    "wof:lastmodified":1536770727,
+    "wof:name":"Zambujeira do Mar",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:population":2011,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78483,
+    37.52799,
+    -8.78483,
+    37.52799
+],
+  "geometry": {"coordinates":[-8.78483,37.52799],"type":"Point"}
+}

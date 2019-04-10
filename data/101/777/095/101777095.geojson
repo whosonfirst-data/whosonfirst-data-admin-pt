@@ -1,0 +1,136 @@
+{
+  "id": 101777095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000099,
+    "geom:area_square_m":949183.903525,
+    "geom:bbox":"-8.77266234778,39.4433211491,-8.75318384387,39.454942336",
+    "geom:latitude":39.448624,
+    "geom:longitude":-8.762333,
+    "iso:country":"PT",
+    "lbl:latitude":39.44986,
+    "lbl:longitude":-8.759234,
+    "mps:latitude":39.44986,
+    "mps:longitude":-8.759234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:dut_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:eng_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:fra_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:fre_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:ger_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043c\u0438\u0430\u0439\u0448-\u0434\u0435-\u0411\u0430\u0439\u0448\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:msa_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:nan_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:por_x_colloquial":[
+        "Amiaes de Baixo",
+        "Amiais de Baixo"
+    ],
+    "name:por_x_preferred":[
+        "Ami\u00e3is de Baixo",
+        "Amiais de Baixo"
+    ],
+    "name:por_x_variant":[
+        "Ami\u00e3es de Baixo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0438\u0430\u0439\u0448-\u0434\u0435-\u0411\u0430\u0439\u0448\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:tur_x_preferred":[
+        "Amiais de Baixo"
+    ],
+    "name:unk_x_variant":[
+        "Amiais de Cima"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Abr\u00e3",
+    "qs:la_lc":"*PT11416022",
+    "qs:level":"locality",
+    "qs:loc":"Amiais de Baixo",
+    "qs:loc_alt":"Amiais de Baixo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.45,
+    "wd:longitude":-8.733333,
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027116a6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271712,
+        "gp:id":736124,
+        "qs:id":1005092,
+        "qs_pg:id":28402,
+        "wd:id":"Q470761"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c3c72e26d707ce33f2a714dd375b3917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777095,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101777095,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688515,
+    "wof:name":"Amiais de Baixo",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77266234777966,
+    39.44332114905814,
+    -8.75318384386975,
+    39.45494233603995
+],
+  "geometry": {"coordinates":[[[-8.75925377815366,39.45494233603995],[-8.75899587090828,39.45406744660738],[-8.7578651528479,39.45428933747769],[-8.75734939491917,39.45253954581699],[-8.75508799426404,39.45298327432994],[-8.75457233021285,39.45123346098666],[-8.7534416476193,39.45145529863055],[-8.75318384386975,39.45058038556289],[-8.75431451261284,39.4503585513873],[-8.75328333837092,39.44685889347096],[-8.75554454513036,39.44641521351366],[-8.75580235196463,39.44729012398483],[-8.76371646325424,39.44573680670965],[-8.76345855949313,39.44486192051914],[-8.76571964664566,39.44441800448368],[-8.76546172481449,39.44354312327869],[-8.76659224457711,39.44332114905814],[-8.76685018025262,39.44419602679358],[-8.77024174119168,39.44353001503583],[-8.77049972801746,39.44440488040777],[-8.77163024887869,39.44418284678943],[-8.77266234777966,39.44768227485622],[-8.7715317715427,39.44790432235754],[-8.77178980648154,39.44877917796043],[-8.76839799633734,39.44944525218443],[-8.76865599936121,39.45032011624602],[-8.76752536883441,39.45054211822656],[-8.76649346985829,39.4470426363788],[-8.7619711028201,39.44793045762248],[-8.76300278023888,39.45142999498762],[-8.7618721164697,39.451651931387],[-8.76238798520302,39.45340169529271],[-8.76125728708621,39.45362362551464],[-8.76151522203401,39.45449850800821],[-8.75925377815366,39.45494233603995]]],"type":"Polygon"}
+}

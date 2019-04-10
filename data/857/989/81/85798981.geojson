@@ -1,0 +1,108 @@
+{
+  "id": 85798981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1625560.908437,
+    "geom:bbox":"-9.22302246094,38.7108785328,-9.20580652359,38.7248021108",
+    "geom:latitude":38.718928,
+    "geom:longitude":-9.214784,
+    "gn:latitude":38.7173,
+    "gn:longitude":-9.21248,
+    "iso:country":"PT",
+    "lbl:latitude":38.717661,
+    "lbl:longitude":-9.2146,
+    "mps:latitude":38.719139,
+    "mps:longitude":-9.214619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Caselas"
+    ],
+    "name:unk_x_variant":[
+        "Caselas"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Caselas",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Caselas",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":6,
+    "qs:photo_sum":24,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101759079,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269580,
+        "gp:id":739059,
+        "qs:id":1158391,
+        "qs_pg:id":1158391
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8d5fd1eca606a3937518da6be6539ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759079,
+            "neighbourhood_id":85798981,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798981,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497308210,
+    "wof:name":"Caselas",
+    "wof:parent_id":101759079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22302246093992,
+    38.71087853280287,
+    -9.20580652358643,
+    38.72480211081582
+],
+  "geometry": {"coordinates":[[[-9.21753672149526,38.72409991139827],[-9.21752934704205,38.72409045900002],[-9.21752929687995,38.72409045900002],[-9.21203613281074,38.72409045900002],[-9.20654296875006,38.72409045900002],[-9.20654296875006,38.7226746077159],[-9.20654296875006,38.71980474260005],[-9.20654296875006,38.71980467837533],[-9.20599815362664,38.71910638924916],[-9.20580652358643,38.71787838409871],[-9.20654296874997,38.71693452533094],[-9.20654296875006,38.71551876930005],[-9.20764761143315,38.71551876930005],[-9.20764766156424,38.71551870505002],[-9.21203613281136,38.71551870505002],[-9.21203613281082,38.71264827435377],[-9.2120361328102,38.71123253900002],[-9.21535021121116,38.71123253900002],[-9.2161789001949,38.71087853280287],[-9.21752166547981,38.71122269474172],[-9.21752929687781,38.71123247472521],[-9.21752929687844,38.71123253900002],[-9.21752929687844,38.71551870505002],[-9.22302246093983,38.71551870505002],[-9.22302246093983,38.71551876930005],[-9.22302246093983,38.71980467837533],[-9.22302246093983,38.71980474260005],[-9.22302246093983,38.72409039470027],[-9.22302246093992,38.72409045900002],[-9.22302241077526,38.72409045900002],[-9.22301503632133,38.72409991139889],[-9.22027587890986,38.72480211081582],[-9.21753672149526,38.72409991139827]]],"type":"Polygon"}
+}

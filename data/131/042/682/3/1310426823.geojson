@@ -1,0 +1,67 @@
+{
+  "id": 1310426823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71656,40.40181,-8.71656,40.40181",
+    "geom:latitude":40.40181,
+    "geom:longitude":-8.71656,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0608",
+    "gn:admin3_code":"60801.0",
+    "gn:asciiname":"Ramalheiro",
+    "gn:country_code":"PT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735470,
+    "gn:latitude":40.40181,
+    "gn:longitude":-8.71656,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ramalheiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735470
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1300215d249e29223d1b0aa74146c318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310426823,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1310426823,
+    "wof:lastmodified":1537029271,
+    "wof:name":"Ramalheiro",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71656,
+    40.40181,
+    -8.71656,
+    40.40181
+],
+  "geometry": {"coordinates":[-8.71656,40.40181],"type":"Point"}
+}

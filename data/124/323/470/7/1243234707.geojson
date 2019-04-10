@@ -1,0 +1,67 @@
+{
+  "id": 1243234707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01254,39.12924,-9.01254,39.12924",
+    "geom:latitude":39.12924,
+    "geom:longitude":-9.01254,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"110101.0",
+    "gn:asciiname":"Atouguia",
+    "gn:country_code":"PT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271357,
+    "gn:latitude":39.12924,
+    "gn:longitude":-9.01254,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Atouguia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271357
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cf6bcddb317a9ddc27cba33a47dbc30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243234707,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1243234707,
+    "wof:lastmodified":1536611363,
+    "wof:name":"Atouguia",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01254,
+    39.12924,
+    -9.01254,
+    39.12924
+],
+  "geometry": {"coordinates":[-9.01254,39.12924],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 101778265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":429631.977754,
+    "geom:bbox":"-7.72193077639,39.4187297942,-7.71229636498,39.427053717",
+    "geom:latitude":39.422943,
+    "geom:longitude":-7.717403,
+    "iso:country":"PT",
+    "lbl:latitude":39.422832,
+    "lbl:longitude":-7.717476,
+    "mps:latitude":39.422832,
+    "mps:longitude":-7.717476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:por_x_preferred":[
+        "Tolosa"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Tolosa",
+    "qs:la_lc":"*PT11212109",
+    "qs:level":"locality",
+    "qs:loc":"Tolosa",
+    "qs:loc_alt":"Tolosa",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026b5c34-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262646,
+        "gp:id":749388,
+        "qs:id":1160926
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b04c399712c1ec91cb7b7b24f0801bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778265,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101778265,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653259,
+    "wof:name":"Tolosa",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72193077638531,
+    39.41872979419907,
+    -7.71229636497674,
+    39.42705371698941
+],
+  "geometry": {"coordinates":[[[-7.71764274770465,39.42705371698941],[-7.71739922250953,39.42617543754875],[-7.71626631829508,39.42638511482482],[-7.71577932336186,39.42462854384564],[-7.7146464409692,39.42483820137306],[-7.71391605908207,39.42220332123378],[-7.71278321256875,39.42241295572859],[-7.71229636497674,39.42065635319034],[-7.7156948012867,39.420027429887],[-7.71545134898412,39.41914913571026],[-7.71771691360414,39.41872979419907],[-7.71796039401772,39.41960808180522],[-7.71909318093941,39.4193983880005],[-7.72006724993207,39.42291150685895],[-7.72120008678121,39.42270178673431],[-7.72193077638531,39.42533659667322],[-7.72079789736415,39.42554632665735],[-7.72104146473663,39.42642459623869],[-7.71764274770465,39.42705371698941]]],"type":"Polygon"}
+}

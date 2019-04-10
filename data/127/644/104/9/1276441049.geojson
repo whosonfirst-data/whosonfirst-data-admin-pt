@@ -1,0 +1,67 @@
+{
+  "id": 1276441049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38398,41.23324,-7.38398,41.23324",
+    "geom:latitude":41.23324,
+    "geom:longitude":-7.38398,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0403",
+    "gn:admin3_code":"40305.0",
+    "gn:asciiname":"Castanheiro",
+    "gn:country_code":"PT",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741034,
+    "gn:latitude":41.23324,
+    "gn:longitude":-7.38398,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Castanheiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741034
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"22bc62b8a58403cf189cf1af3e44d8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276441049,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1276441049,
+    "wof:lastmodified":1536632885,
+    "wof:name":"Castanheiro",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38398,
+    41.23324,
+    -7.38398,
+    41.23324
+],
+  "geometry": {"coordinates":[-7.38398,41.23324],"type":"Point"}
+}

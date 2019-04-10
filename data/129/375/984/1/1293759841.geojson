@@ -1,0 +1,68 @@
+{
+  "id": 1293759841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28376,41.36591,-8.28376,41.36591",
+    "geom:latitude":41.36591,
+    "geom:longitude":-8.28376,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Vizela",
+    "gn:country_code":"PT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732242,
+    "gn:latitude":41.36591,
+    "gn:longitude":-8.28376,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vizela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0437\u0435\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732242
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d7394a0a646565b5d15117d3667abaca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293759841,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1293759841,
+    "wof:lastmodified":1537683156,
+    "wof:name":"Vizela",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28376,
+    41.36591,
+    -8.28376,
+    41.36591
+],
+  "geometry": {"coordinates":[-8.28376,41.36591],"type":"Point"}
+}

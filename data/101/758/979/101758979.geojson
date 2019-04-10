@@ -1,0 +1,127 @@
+{
+  "id": 101758979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":704940.125911,
+    "geom:bbox":"-9.26784862531,38.7727659018,-9.25519962133,38.7845790212",
+    "geom:latitude":38.778499,
+    "geom:longitude":-9.2606,
+    "gn:population":21019,
+    "iso:country":"PT",
+    "lbl:latitude":38.778211,
+    "lbl:longitude":-9.259977,
+    "mps:latitude":38.778211,
+    "mps:longitude":-9.259977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Belas"
+    ],
+    "name:deu_x_preferred":[
+        "Belas"
+    ],
+    "name:dut_x_preferred":[
+        "Belas"
+    ],
+    "name:eng_x_preferred":[
+        "Belas"
+    ],
+    "name:fra_x_preferred":[
+        "Belas"
+    ],
+    "name:fre_x_preferred":[
+        "Belas"
+    ],
+    "name:ger_x_preferred":[
+        "Belas"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Belas"
+    ],
+    "name:por_x_preferred":[
+        "Belas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Belas"
+    ],
+    "name:swe_x_preferred":[
+        "Belas"
+    ],
+    "name:tur_x_preferred":[
+        "Belas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Belas",
+    "qs:loc_alt":"Belas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273c78e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270981,
+        "gp:id":737140,
+        "qs:id":139294,
+        "qs_pg:id":139294,
+        "wd:id":"Q815283"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6faf36b2d54f72c38e09413e717fc257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758979,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758979,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815480,
+    "wof:name":"Belas",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":21019,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26784862531105,
+    38.77276590183106,
+    -9.25519962133188,
+    38.78457902121636
+],
+  "geometry": {"coordinates":[[[-9.25519962133188,38.78255180884736],[-9.25563607992416,38.78028222416771],[-9.25696417813441,38.77702234674246],[-9.2568960273868,38.77525042730588],[-9.25732638673725,38.77521130372838],[-9.2623235123533,38.77276590183106],[-9.26284200634586,38.77450940135736],[-9.26396029959648,38.77428195921971],[-9.26422027139449,38.7751560292927],[-9.26642108750832,38.77470836239661],[-9.26784862531105,38.77627185618047],[-9.2636219104208,38.77713161595818],[-9.2641418944026,38.77887974888688],[-9.26302352777077,38.77910719552693],[-9.26458362965639,38.78435156658293],[-9.2634651762657,38.78457902121636],[-9.26294513067654,38.78283089866295],[-9.26182669742872,38.78305833337618],[-9.26156670238032,38.78218426556924],[-9.25597450421122,38.78332122756416],[-9.25571458557005,38.78244714028835],[-9.25519962133188,38.78255180884736]]],"type":"Polygon"}
+}

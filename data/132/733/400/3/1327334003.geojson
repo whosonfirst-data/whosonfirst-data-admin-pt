@@ -1,0 +1,67 @@
+{
+  "id": 1327334003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39752,41.71821,-8.39752,41.71821",
+    "geom:latitude":41.71821,
+    "geom:longitude":-8.39752,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31307.0",
+    "gn:asciiname":"Barros",
+    "gn:country_code":"PT",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742338,
+    "gn:latitude":41.71821,
+    "gn:longitude":-8.39752,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Barros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742338
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a14806974f3361f80abf808ebb12faf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327334003,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1327334003,
+    "wof:lastmodified":1536822009,
+    "wof:name":"Barros",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39752,
+    41.71821,
+    -8.39752,
+    41.71821
+],
+  "geometry": {"coordinates":[-8.39752,41.71821],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209025243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11099,37.1591,-8.11099,37.1591",
+    "geom:latitude":37.1591,
+    "geom:longitude":-8.11099,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80809.0",
+    "gn:asciiname":"Picota",
+    "gn:country_code":"PT",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264746,
+    "gn:latitude":37.1591,
+    "gn:longitude":-8.11099,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Picota",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264746
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e9464e10b5085a73f62c7f551275c5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209025243
+        }
+    ],
+    "wof:id":1209025243,
+    "wof:lastmodified":1536300020,
+    "wof:name":"Picota",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11099,
+    37.1591,
+    -8.11099,
+    37.1591
+],
+  "geometry": {"coordinates":[-8.11099,37.1591],"type":"Point"}
+}

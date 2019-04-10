@@ -1,0 +1,67 @@
+{
+  "id": 1259381877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52796,41.31613,-6.52796,41.31613",
+    "geom:latitude":41.31613,
+    "geom:longitude":-6.52796,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0408",
+    "gn:admin3_code":"40802.0",
+    "gn:asciiname":"Lamoso",
+    "gn:country_code":"PT",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738426,
+    "gn:latitude":41.31613,
+    "gn:longitude":-6.52796,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lamoso",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738426
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"759a7447a9706bab88b0f3c2fb56d9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259381877,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1259381877,
+    "wof:lastmodified":1537003849,
+    "wof:name":"Lamoso",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52796,
+    41.31613,
+    -6.52796,
+    41.31613
+],
+  "geometry": {"coordinates":[-6.52796,41.31613],"type":"Point"}
+}

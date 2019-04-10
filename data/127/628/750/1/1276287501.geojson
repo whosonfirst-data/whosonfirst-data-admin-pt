@@ -1,0 +1,67 @@
+{
+  "id": 1276287501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.05,39.05,-28.05,39.05",
+    "geom:latitude":39.05,
+    "geom:longitude":-28.05,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4401",
+    "gn:admin3_code":"440101.0",
+    "gn:asciiname":"Ribeirinha",
+    "gn:country_code":"PT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372690,
+    "gn:latitude":39.05,
+    "gn:longitude":-28.05,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Ribeirinha",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372690
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9f03be227f55587941eaf01678f86852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276287501,
+            "region_id":85687459
+        }
+    ],
+    "wof:id":1276287501,
+    "wof:lastmodified":1536839213,
+    "wof:name":"Ribeirinha",
+    "wof:parent_id":85687459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.05,
+    39.05,
+    -28.05,
+    39.05
+],
+  "geometry": {"coordinates":[-28.05,39.05],"type":"Point"}
+}

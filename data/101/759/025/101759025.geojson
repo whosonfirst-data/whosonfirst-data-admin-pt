@@ -1,0 +1,84 @@
+{
+  "id": 101759025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000143,
+    "geom:bbox":"-9.39434268997,38.6977385075,-9.37835728405,38.7123886459",
+    "geom:latitude":38.705705,
+    "geom:longitude":-9.387531,
+    "iso:country":"PT",
+    "lbl:latitude":38.705672,
+    "lbl:longitude":-9.387659,
+    "mps:latitude":38.705672,
+    "mps:longitude":-9.387659,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Sao Joao do Estoril"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jo\u00e3o do Estoril"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Jo\u00e3o do Estoril",
+    "qs:loc_alt":"Sao Joao do Estoril",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027030e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2572281,
+        "gp:id":29381130,
+        "qs:id":262001,
+        "qs_pg:id":262001
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6394d6e9d0514e5c4a549992a39fbfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759025,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759025,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497302002,
+    "wof:name":"S\u00e3o Jo\u00e3o do Estoril",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39434268997013,
+    38.69773850748419,
+    -9.37835728404502,
+    38.71238864593857
+],
+  "geometry": {"coordinates":[[[-9.37835728404502,38.70828799121631],[-9.37904676789378,38.70627257688915],[-9.3807850504619,38.70395486679843],[-9.38259576147021,38.70272358331277],[-9.38388658950112,38.69788297819707],[-9.3845917036096,38.69773850748419],[-9.38485275015142,38.69861226867329],[-9.38596950683961,38.69838344153487],[-9.38623057628308,38.69925719717924],[-9.38734733966692,38.69902835362325],[-9.38760843201277,38.69990210372237],[-9.38872520209185,38.69967324374835],[-9.38898631734105,38.70054698830188],[-9.39010309411458,38.70031811190955],[-9.3903642322681,38.7011918509171],[-9.39148101573562,38.70096295810606],[-9.39174217679437,38.70183669156711],[-9.39397575051839,38.70137886019074],[-9.39423694777361,38.70225258460164],[-9.39434268997013,38.70223090642577],[-9.39353256350591,38.71238864593857],[-9.3894040348618,38.71221170899668],[-9.38491347156099,38.71025614110755],[-9.38221372289649,38.70961334380661],[-9.38161812103664,38.70762012693439],[-9.37835728404502,38.70828799121631]]],"type":"Polygon"}
+}

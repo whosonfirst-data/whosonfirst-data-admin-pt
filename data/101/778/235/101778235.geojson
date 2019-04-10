@@ -1,0 +1,77 @@
+{
+  "id": 101778235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:bbox":"-8.90069423251,39.2160752324,-8.88881903073,39.2248601589",
+    "geom:latitude":39.220392,
+    "geom:longitude":-8.894613,
+    "iso:country":"PT",
+    "lbl:latitude":39.220442,
+    "lbl:longitude":-8.8945,
+    "mps:latitude":39.220442,
+    "mps:longitude":-8.8945,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Manique do Intendente"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Manique do Intendente",
+    "qs:la_lc":"*PT11103059",
+    "qs:level":"locality",
+    "qs:loc":"Manique do Intendente",
+    "qs:loc_alt":"Manique do Intendente",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026d7f6e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266764,
+        "gp:id":743119,
+        "qs:id":206326
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6040574be204e6dbd5ab8a12b85be410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778235,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778235,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625903,
+    "wof:name":"Manique do Intendente",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90069423250532,
+    39.21607523236071,
+    -8.8888190307257,
+    39.22486015888632
+],
+  "geometry": {"coordinates":[[[-8.89323105842391,39.22486015888632],[-8.89297293719596,39.22398542394762],[-8.89071979477791,39.22443208987585],[-8.89046171052291,39.22355734602428],[-8.88933514308513,39.22378065593034],[-8.8888190307257,39.22203115536865],[-8.88994557078223,39.22180785240039],[-8.88942946939829,39.22005835088248],[-8.89055597546417,39.21983504179343],[-8.89003988505596,39.21808553931879],[-8.89116635713424,39.21786222410924],[-8.8909083126245,39.21698747337979],[-8.89541408007858,39.21609409584073],[-8.89567217933421,39.21696883269345],[-8.90017789573903,39.21607523236071],[-8.90069423250532,39.21782467238432],[-8.89844133278751,39.2182715125453],[-8.89973220571306,39.22264511275029],[-8.89747914266616,39.22309193538376],[-8.89773731865358,39.22396665644237],[-8.89323105842391,39.22486015888632]]],"type":"Polygon"}
+}

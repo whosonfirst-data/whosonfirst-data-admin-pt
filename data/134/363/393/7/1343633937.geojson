@@ -1,0 +1,67 @@
+{
+  "id": 1343633937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67855,39.12346,-7.67855,39.12346",
+    "geom:latitude":39.12346,
+    "geom:longitude":-7.67855,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"120101.0",
+    "gn:asciiname":"Monte da Cardosa",
+    "gn:country_code":"PT",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266177,
+    "gn:latitude":39.12346,
+    "gn:longitude":-7.67855,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte da Cardosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266177
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7cc9138d2cb991f0c10747435ef3517e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343633937,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1343633937,
+    "wof:lastmodified":1536992582,
+    "wof:name":"Monte da Cardosa",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67855,
+    39.12346,
+    -7.67855,
+    39.12346
+],
+  "geometry": {"coordinates":[-7.67855,39.12346],"type":"Point"}
+}

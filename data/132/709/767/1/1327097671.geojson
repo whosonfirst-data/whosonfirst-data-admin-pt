@@ -1,0 +1,67 @@
+{
+  "id": 1327097671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40506,39.21118,-8.40506,39.21118",
+    "geom:latitude":39.21118,
+    "geom:longitude":-8.40506,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1407",
+    "gn:admin3_code":"140706.0",
+    "gn:asciiname":"Salvador",
+    "gn:country_code":"PT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263598,
+    "gn:latitude":39.21118,
+    "gn:longitude":-8.40506,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Salvador",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263598
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4e44db359766e3ae2d7e786bbff83bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327097671,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1327097671,
+    "wof:lastmodified":1536666438,
+    "wof:name":"Salvador",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40506,
+    39.21118,
+    -8.40506,
+    39.21118
+],
+  "geometry": {"coordinates":[-8.40506,39.21118],"type":"Point"}
+}

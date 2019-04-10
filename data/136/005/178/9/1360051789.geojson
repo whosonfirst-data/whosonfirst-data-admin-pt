@@ -1,0 +1,67 @@
+{
+  "id": 1360051789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37323,39.17714,-8.37323,39.17714",
+    "geom:latitude":39.17714,
+    "geom:longitude":-8.37323,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1407",
+    "gn:admin3_code":"140706.0",
+    "gn:asciiname":"Moinhola",
+    "gn:country_code":"PT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266337,
+    "gn:latitude":39.17714,
+    "gn:longitude":-8.37323,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Moinhola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266337
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c35c0226fe9a0adfed1fde0f99916053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360051789,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1360051789,
+    "wof:lastmodified":1536993015,
+    "wof:name":"Moinhola",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37323,
+    39.17714,
+    -8.37323,
+    39.17714
+],
+  "geometry": {"coordinates":[-8.37323,39.17714],"type":"Point"}
+}

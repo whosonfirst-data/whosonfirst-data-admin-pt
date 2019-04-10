@@ -1,0 +1,67 @@
+{
+  "id": 1260352641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56718,41.11892,-8.56718,41.11892",
+    "geom:latitude":41.11892,
+    "geom:longitude":-8.56718,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131702.0",
+    "gn:asciiname":"Magarao",
+    "gn:country_code":"PT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738021,
+    "gn:latitude":41.11892,
+    "gn:longitude":-8.56718,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Magar\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738021
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"675a37d1aba224d1d33a83bd4678b02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260352641,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1260352641,
+    "wof:lastmodified":1536617175,
+    "wof:name":"Magarao",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56718,
+    41.11892,
+    -8.56718,
+    41.11892
+],
+  "geometry": {"coordinates":[-8.56718,41.11892],"type":"Point"}
+}

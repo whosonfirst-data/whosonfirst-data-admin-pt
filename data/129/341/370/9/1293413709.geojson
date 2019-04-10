@@ -1,0 +1,68 @@
+{
+  "id": 1293413709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63095,41.59466,-8.63095,41.59466",
+    "geom:latitude":41.59466,
+    "geom:longitude":-8.63095,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30276.0",
+    "gn:asciiname":"Vila Verde",
+    "gn:country_code":"PT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732328,
+    "gn:latitude":41.59466,
+    "gn:longitude":-8.63095,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Vila Verde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732328,
+        "wk:page":"Vila_Verde"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fd59c4e7f4f4d88501b224d54feba279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293413709,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1293413709,
+    "wof:lastmodified":1537571939,
+    "wof:name":"Vila Verde",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63095,
+    41.59466,
+    -8.63095,
+    41.59466
+],
+  "geometry": {"coordinates":[-8.63095,41.59466],"type":"Point"}
+}

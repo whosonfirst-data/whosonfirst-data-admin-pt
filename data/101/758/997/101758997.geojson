@@ -1,0 +1,69 @@
+{
+  "id": 101758997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"-9.42764625136,38.6994493795,-9.41254517394,38.7108355686",
+    "geom:latitude":38.705166,
+    "geom:longitude":-9.419342,
+    "iso:country":"PT",
+    "lbl:latitude":38.705965,
+    "lbl:longitude":-9.420986,
+    "mps:latitude":38.705965,
+    "mps:longitude":-9.420986,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro de S\u00e3o Jos\u00e9",
+    "qs:loc_alt":"Bairro de Sao Jose",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042189,
+        "qs:id":2
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6f63886facedd933f47d7ed995192ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758997,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758997,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro de S\u00e3o Jos\u00e9",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42764625135874,
+    38.6994493795346,
+    -9.41254517393679,
+    38.71083556863022
+],
+  "geometry": {"coordinates":[[[-9.41334070582275,38.70717700382352],[-9.4133778486127,38.70685200441181],[-9.41254517393679,38.70127948927376],[-9.41400581168364,38.70097985467891],[-9.41374435967629,38.70010619598457],[-9.41694477792726,38.6994493795346],[-9.41924455227979,38.70091287230429],[-9.42054826420588,38.70207172734962],[-9.42264868897553,38.70207172734962],[-9.42395240090161,38.70250629799165],[-9.42598039723094,38.70518615028408],[-9.42764625135874,38.70641743376973],[-9.42761236581327,38.70653264462447],[-9.42529382776229,38.70700872752644],[-9.42581714656171,38.7087559458048],[-9.42470032876594,38.70898524344113],[-9.42494837491961,38.70981331733452],[-9.42120012016886,38.71083556863022],[-9.41823055411515,38.7092421429428],[-9.41786841191345,38.70764871725538],[-9.415840415584,38.70801085945715],[-9.41395727613536,38.70779357413619],[-9.41334070582275,38.70717700382352]]],"type":"Polygon"}
+}

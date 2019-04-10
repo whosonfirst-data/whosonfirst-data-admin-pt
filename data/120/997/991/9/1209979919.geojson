@@ -1,0 +1,67 @@
+{
+  "id": 1209979919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.72763,39.52064,-8.72763,39.52064",
+    "geom:latitude":39.52064,
+    "geom:longitude":-8.72763,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1402",
+    "gn:admin3_code":"140209.0",
+    "gn:asciiname":"Chousos",
+    "gn:country_code":"PT",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269229,
+    "gn:latitude":39.52064,
+    "gn:longitude":-8.72763,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Chousos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269229
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"58c0010567087de4a6ec640cd7f8f6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209979919,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1209979919,
+    "wof:lastmodified":1536391207,
+    "wof:name":"Chousos",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72763,
+    39.52064,
+    -8.72763,
+    39.52064
+],
+  "geometry": {"coordinates":[-8.72763,39.52064],"type":"Point"}
+}

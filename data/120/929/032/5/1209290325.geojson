@@ -1,0 +1,63 @@
+{
+  "id": 1209290325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41667,39.56667,-8.41667,39.56667",
+    "geom:latitude":39.56667,
+    "geom:longitude":-8.41667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141807.0",
+    "gn:asciiname":"Cabecas",
+    "gn:country_code":"PT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270571,
+    "gn:latitude":39.56667,
+    "gn:longitude":-8.41667,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cabe\u00e7as",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270571
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cdb28922bcce8440920727f43d3c8694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209290325
+        }
+    ],
+    "wof:id":1209290325,
+    "wof:lastmodified":1536291716,
+    "wof:name":"Cabecas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41667,
+    39.56667,
+    -8.41667,
+    39.56667
+],
+  "geometry": {"coordinates":[-8.41667,39.56667],"type":"Point"}
+}

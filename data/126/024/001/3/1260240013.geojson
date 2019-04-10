@@ -1,0 +1,67 @@
+{
+  "id": 1260240013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24314,40.7816,-8.24314,40.7816",
+    "geom:latitude":40.7816,
+    "geom:longitude":-8.24314,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1810",
+    "gn:admin3_code":"181008.0",
+    "gn:asciiname":"Sao Joao da Serra",
+    "gn:country_code":"PT",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734480,
+    "gn:latitude":40.7816,
+    "gn:longitude":-8.24314,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Jo\u00e3o da Serra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734480
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"71cb341ce3a3a69a7737f32b7ae5a63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260240013,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1260240013,
+    "wof:lastmodified":1536771487,
+    "wof:name":"Sao Joao da Serra",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24314,
+    40.7816,
+    -8.24314,
+    40.7816
+],
+  "geometry": {"coordinates":[-8.24314,40.7816],"type":"Point"}
+}

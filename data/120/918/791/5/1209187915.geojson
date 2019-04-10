@@ -1,0 +1,63 @@
+{
+  "id": 1209187915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34494,39.07155,-9.34494,39.07155",
+    "geom:latitude":39.07155,
+    "geom:longitude":-9.34494,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1113",
+    "gn:admin3_code":"111318.0",
+    "gn:asciiname":"Bonaval",
+    "gn:country_code":"PT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270762,
+    "gn:latitude":39.07155,
+    "gn:longitude":-9.34494,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bonaval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270762
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1c3d603c0fd1bb28934b3c94a0bf4f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209187915
+        }
+    ],
+    "wof:id":1209187915,
+    "wof:lastmodified":1536295035,
+    "wof:name":"Bonaval",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34494,
+    39.07155,
+    -9.34494,
+    39.07155
+],
+  "geometry": {"coordinates":[-9.34494,39.07155],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 101845391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":649463.699923,
+    "geom:bbox":"-7.65415982798,39.2824827925,-7.64156609674,39.2945753312",
+    "geom:latitude":39.288658,
+    "geom:longitude":-7.647204,
+    "iso:country":"PT",
+    "lbl:latitude":39.288876,
+    "lbl:longitude":-7.646583,
+    "mps:latitude":39.288876,
+    "mps:longitude":-7.646583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Crato"
+    ],
+    "name:cat_x_preferred":[
+        "Crato"
+    ],
+    "name:chi_x_preferred":[
+        "\u514b\u62c9\u5716"
+    ],
+    "name:dut_x_preferred":[
+        "Crato"
+    ],
+    "name:eng_x_preferred":[
+        "Crato"
+    ],
+    "name:fre_x_preferred":[
+        "Crato"
+    ],
+    "name:ger_x_preferred":[
+        "Crato"
+    ],
+    "name:ita_x_preferred":[
+        "Crato"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30c8"
+    ],
+    "name:may_x_preferred":[
+        "Crato"
+    ],
+    "name:pol_x_preferred":[
+        "Crato"
+    ],
+    "name:por_x_preferred":[
+        "Crato"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Crato"
+    ],
+    "name:tur_x_preferred":[
+        "Crato"
+    ],
+    "name:vie_x_preferred":[
+        "Crato"
+    ],
+    "name:vol_x_preferred":[
+        "Crato"
+    ],
+    "name:war_x_preferred":[
+        "Crato"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Crato E M\u00e1rtires",
+    "qs:la_lc":"*PT11206028",
+    "qs:level":"locality",
+    "qs:loc":"Crato",
+    "qs:loc_alt":"Crato",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026b67c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6930669,
+        "gp:id":23388192,
+        "qs:id":1013643,
+        "qs_pg:id":1013643,
+        "wd:id":"Q1005138"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a38828272dd35b06763f3915e91b77a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845391,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101845391,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815541,
+    "wof:name":"Crato",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65415982798345,
+    39.28248279248896,
+    -7.64156609673813,
+    39.29457533121166
+],
+  "geometry": {"coordinates":[[[-7.65011995059314,39.29457533121166],[-7.64987821446789,39.29369667764666],[-7.64874734973523,39.29390549862546],[-7.6480222375298,39.29126951710833],[-7.64462973190041,39.2918958717774],[-7.64438808787685,39.29101719780937],[-7.64325725420002,39.29122595313402],[-7.64277402122616,39.28946859315965],[-7.64390482691192,39.28925984435637],[-7.64318000316183,39.28662380038372],[-7.6420492394588,39.28683253940642],[-7.64156609673813,39.28507516104253],[-7.64269683245493,39.28486642853994],[-7.64221369784491,39.28310904934011],[-7.64560578367411,39.28248279248896],[-7.64633062505072,39.28511882918878],[-7.64746134984301,39.28491004082315],[-7.64794465054149,39.28666738290428],[-7.65020613740256,39.28624975367705],[-7.65141468706872,39.29064304407217],[-7.6525454911158,39.29043419342378],[-7.65278724213289,39.29131284272125],[-7.65391805394034,39.29110397565876],[-7.65415982798345,39.29198261985402],[-7.65302900218182,39.29219149017882],[-7.65327077126244,39.2930701357966],[-7.65100907296664,39.29348784351549],[-7.65125082308828,39.29436649381825],[-7.65011995059314,39.29457533121166]]],"type":"Polygon"}
+}

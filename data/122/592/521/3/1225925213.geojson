@@ -1,0 +1,75 @@
+{
+  "id": 1225925213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73475,40.34914,-7.73475,40.34914",
+    "geom:latitude":40.34914,
+    "geom:longitude":-7.73475,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0912",
+    "gn:admin3_code":"91219.0",
+    "gn:asciiname":"Sazes da Beira",
+    "gn:country_code":"PT",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734242,
+    "gn:latitude":40.34914,
+    "gn:longitude":-7.73475,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Sazes da Beira",
+    "gn:population":283,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sazes",
+        "Sazes da Beira"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734242,
+        "wk:page":"Sazes_da_Beira"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0080c34995ab5eff056572716252a93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225925213,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1225925213,
+    "wof:lastmodified":1537683161,
+    "wof:name":"Sazes da Beira",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:population":283,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73475,
+    40.34914000000001,
+    -7.73475,
+    40.34914000000001
+],
+  "geometry": {"coordinates":[-7.73475,40.34914000000001],"type":"Point"}
+}

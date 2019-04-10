@@ -1,0 +1,67 @@
+{
+  "id": 1293284009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14119,40.27472,-8.14119,40.27472",
+    "geom:latitude":40.27472,
+    "geom:longitude":-8.14119,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60114.0",
+    "gn:asciiname":"Pocos",
+    "gn:country_code":"PT",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736132,
+    "gn:latitude":40.27472,
+    "gn:longitude":-8.14119,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Po\u00e7os",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736132
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d1aa873de740c2707e1098456765c7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293284009,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1293284009,
+    "wof:lastmodified":1537077280,
+    "wof:name":"Pocos",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14119,
+    40.27472,
+    -8.14119,
+    40.27472
+],
+  "geometry": {"coordinates":[-8.14119,40.27472],"type":"Point"}
+}

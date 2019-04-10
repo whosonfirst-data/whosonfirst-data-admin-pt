@@ -1,0 +1,63 @@
+{
+  "id": 1209299943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92509,38.78506,-7.92509,38.78506",
+    "geom:latitude":38.78506,
+    "geom:longitude":-7.92509,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0702",
+    "gn:admin3_code":"70204.0",
+    "gn:asciiname":"Clerigos",
+    "gn:country_code":"PT",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269191,
+    "gn:latitude":38.78506,
+    "gn:longitude":-7.92509,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cl\u00e9rigos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269191
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"14780ebbbb5c774534b2fafe06268095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209299943
+        }
+    ],
+    "wof:id":1209299943,
+    "wof:lastmodified":1536291393,
+    "wof:name":"Clerigos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.925089999999999,
+    38.78506,
+    -7.925089999999999,
+    38.78506
+],
+  "geometry": {"coordinates":[-7.92509,38.78506],"type":"Point"}
+}

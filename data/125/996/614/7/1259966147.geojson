@@ -1,0 +1,67 @@
+{
+  "id": 1259966147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7086,39.58679,-8.7086,39.58679",
+    "geom:latitude":39.58679,
+    "geom:longitude":-8.7086,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1004",
+    "gn:admin3_code":"100403.0",
+    "gn:asciiname":"Vale Sobreiro",
+    "gn:country_code":"PT",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261896,
+    "gn:latitude":39.58679,
+    "gn:longitude":-8.7086,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Sobreiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261896
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"33a8b5f7fd0dc240a4af0a241bbeabde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259966147,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1259966147,
+    "wof:lastmodified":1536660212,
+    "wof:name":"Vale Sobreiro",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7086,
+    39.58679,
+    -8.7086,
+    39.58679
+],
+  "geometry": {"coordinates":[-8.7086,39.58679],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309901127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.13542,32.7007,-17.13542,32.7007",
+    "geom:latitude":32.7007,
+    "geom:longitude":-17.13542,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"3105",
+    "gn:admin3_code":"310502.0",
+    "gn:asciiname":"Madalena do Mar",
+    "gn:country_code":"PT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266880,
+    "gn:latitude":32.7007,
+    "gn:longitude":-17.13542,
+    "gn:modification_date":"2018-03-01",
+    "gn:name":"Madalena do Mar",
+    "gn:population":516,
+    "gn:timezone":"Atlantic/Madeira",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madalena",
+        "Magdalena",
+        "Madalena do Mar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266880,
+        "wk:page":"Madalena_do_Mar"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b663c73fef7a40be501164ecd8dc44d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309901127,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309901127,
+    "wof:lastmodified":1537683150,
+    "wof:name":"Madalena do Mar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":516,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.13542,
+    32.7007,
+    -17.13542,
+    32.7007
+],
+  "geometry": {"coordinates":[-17.13542,32.7007],"type":"Point"}
+}

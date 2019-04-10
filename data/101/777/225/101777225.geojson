@@ -1,0 +1,124 @@
+{
+  "id": 101777225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000225,
+    "geom:area_square_m":2117739.506246,
+    "geom:bbox":"-8.43596984846,40.3277137341,-8.41362375231,40.3484919351",
+    "geom:latitude":40.337554,
+    "geom:longitude":-8.42708,
+    "gn:population":4512,
+    "iso:country":"PT",
+    "lbl:latitude":40.336488,
+    "lbl:longitude":-8.42708,
+    "mps:latitude":40.336488,
+    "mps:longitude":-8.42708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Pampilhosa"
+    ],
+    "name:deu_x_preferred":[
+        "FC Pampilhosa"
+    ],
+    "name:eng_x_preferred":[
+        "Pampilhosa"
+    ],
+    "name:fre_x_preferred":[
+        "Pampilhosa"
+    ],
+    "name:ger_x_preferred":[
+        "Pampilhosa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u0438\u043b\u044c\u043e\u0437\u0430"
+    ],
+    "name:por_x_colloquial":[
+        "Pampilhosa do Bobao",
+        "Pampilhosa do Botao"
+    ],
+    "name:por_x_preferred":[
+        "Pampilhosa",
+        "Futebol Clube da Pampilhosa"
+    ],
+    "name:por_x_variant":[
+        "Pampilhosa do Bob\u00e3o",
+        "Pampilhosa do Bot\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u0438\u043b\u044c\u043e\u0437\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "FC Pampilhosa"
+    ],
+    "name:unk_x_variant":[
+        "Pampilhosa do Bob\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Pampilhosa",
+    "qs:la_lc":"*PT10111066",
+    "qs:level":"locality",
+    "qs:loc":"Pampilhosa",
+    "qs:loc_alt":"Pampilhosa",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269c6e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2736792,
+        "gp:id":745066,
+        "qs:id":238607,
+        "qs_pg:id":238607,
+        "wd:id":"Q1003010"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d7dfc647706e2fdd32aa1da93b630df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777225,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101777225,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688515,
+    "wof:name":"Pampilhosa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":4512,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43596984845766,
+    40.32771373407695,
+    -8.41362375231222,
+    40.34849193505596
+],
+  "geometry": {"coordinates":[[[-8.42887379054088,40.34849193505596],[-8.42861415234194,40.34761704699497],[-8.42632065948027,40.34805399933981],[-8.42606106001665,40.34717910238936],[-8.4249143177766,40.34739755505564],[-8.42439517723062,40.34564774848866],[-8.42783529669805,40.34499237147679],[-8.4267969600437,40.34149277766966],[-8.42221035165142,40.34236653102204],[-8.42143187571241,40.33974177384346],[-8.42028524987182,40.33996016834527],[-8.41976634391034,40.33821031378659],[-8.42205953094935,40.3377735254399],[-8.4212811589386,40.33514875042499],[-8.41554835681768,40.33624056880933],[-8.41528899136199,40.33536562254028],[-8.41414242488213,40.33558394271375],[-8.41362375231222,40.33383403751827],[-8.42164937185333,40.33230556522125],[-8.42087113319582,40.32968076669982],[-8.42201757959532,40.32946237066858],[-8.421758171894,40.32858743754741],[-8.42634383136499,40.32771373407695],[-8.42660329684196,40.32858865320736],[-8.42774970906436,40.32837019050879],[-8.42800919880153,40.32924510425147],[-8.43030203162238,40.32880813185807],[-8.43108064640569,40.33143284075487],[-8.43222709588974,40.33121432406142],[-8.43274625040095,40.33296411354382],[-8.43159977202822,40.33318263723595],[-8.43237853412245,40.33580731778295],[-8.4346715707004,40.3353702360655],[-8.43596984845766,40.33974463083933],[-8.43482326135364,40.33996319586748],[-8.43508293193281,40.34083807265216],[-8.43278970829863,40.34127516970352],[-8.43408806409195,40.34564956028453],[-8.43523475158378,40.34543100092208],[-8.43549446667572,40.34630586986736],[-8.43434776473134,40.34652443273097],[-8.43460747519941,40.34739930328743],[-8.42887379054088,40.34849193505596]]],"type":"Polygon"}
+}

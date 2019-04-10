@@ -1,0 +1,74 @@
+{
+  "id": 101874841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63472,41.102846,-8.63472,41.102846",
+    "geom:latitude":41.102846,
+    "geom:longitude":-8.63472,
+    "iso:country":"PT",
+    "lbl:latitude":41.102846,
+    "lbl:longitude":-8.63472,
+    "mps:latitude":41.102846,
+    "mps:longitude":-8.63472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Esta\u00e7\u00e3o",
+    "qs:loc_alt":"Estacao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":739964,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d8a7555b540176e077a9a78e4e65793a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874841,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101874841,
+    "wof:lastmodified":1544751818,
+    "wof:name":"Esta\u00e7\u00e3o",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63472,
+    41.102846,
+    -8.63472,
+    41.102846
+],
+  "geometry": {"coordinates":[-8.63472,41.102846],"type":"Point"}
+}

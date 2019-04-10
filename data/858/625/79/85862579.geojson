@@ -1,0 +1,102 @@
+{
+  "id": 85862579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":860772.360308,
+    "geom:bbox":"-9.12139892578,38.7098555501,-9.10766601562,38.7219476258",
+    "geom:latitude":38.717224,
+    "geom:longitude":-9.113334,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.719176,
+    "lbl:longitude":-9.117593,
+    "mps:latitude":38.717539,
+    "mps:longitude":-9.113802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:note":"means \"train station\" in Portuguese",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Caminhos de Ferro"
+    ],
+    "name:unk_x_variant":[
+        "Caminhos de Ferro"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Caminhos de Ferro",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":99,
+    "qs:photo_sum":288,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105221,
+        "qs:id":247824
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2b8dfd3573b5634a00aafbeddb8f8738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "county_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85862579,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85862579,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Caminhos de Ferro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12139892577989,
+    38.70985555012705,
+    -9.10766601561991,
+    38.72194762576677
+],
+  "geometry": {"coordinates":[[[-9.11261185404504,38.72194761685009],[-9.11205457722755,38.71980473671515],[-9.10766601561991,38.71980474260005],[-9.10766601562133,38.71980467837533],[-9.10766601562125,38.71551876930005],[-9.10766601562221,38.70985555012705],[-9.10981480123922,38.71123247472521],[-9.11150221534268,38.71339510243412],[-9.11315917968992,38.71410295935947],[-9.11590576171983,38.71527630211371],[-9.11782382405369,38.71445690385185],[-9.11782384753258,38.71445693394288],[-9.11810001091382,38.71551876930005],[-9.11865234374991,38.71551876930005],[-9.11865234374991,38.71766178810006],[-9.12139892577989,38.71766178810006],[-9.12139892577989,38.71836967799449],[-9.12139892577989,38.71980473368353],[-9.11865234374991,38.71980473648591],[-9.11865234374991,38.7219476239834],[-9.11590576171983,38.72194762576677],[-9.11315917968992,38.72194762147794],[-9.11261185404504,38.72194761685009]]],"type":"Polygon"}
+}

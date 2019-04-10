@@ -1,0 +1,63 @@
+{
+  "id": 1209069953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53112,41.12274,-8.53112,41.12274",
+    "geom:latitude":41.12274,
+    "geom:longitude":-8.53112,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1304",
+    "gn:admin3_code":"130409.0",
+    "gn:asciiname":"Aguiar",
+    "gn:country_code":"PT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743287,
+    "gn:latitude":41.12274,
+    "gn:longitude":-8.53112,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aguiar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743287
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0332b131a45fd9dec65eff10944b36c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209069953
+        }
+    ],
+    "wof:id":1209069953,
+    "wof:lastmodified":1536298679,
+    "wof:name":"Aguiar",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53112,
+    41.12274,
+    -8.53112,
+    41.12274
+],
+  "geometry": {"coordinates":[-8.53112,41.12274],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209690395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3914,42.04446,-8.3914,42.04446",
+    "geom:latitude":42.04446,
+    "geom:longitude":-8.3914,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1604",
+    "gn:admin3_code":"160427.0",
+    "gn:asciiname":"Poldras",
+    "gn:country_code":"PT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736111,
+    "gn:latitude":42.04446,
+    "gn:longitude":-8.3914,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Poldras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736111
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fa22090218f78cdc6903a2ddfddedeff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209690395
+        }
+    ],
+    "wof:id":1209690395,
+    "wof:lastmodified":1536279263,
+    "wof:name":"Poldras",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3914,
+    42.04446,
+    -8.3914,
+    42.04446
+],
+  "geometry": {"coordinates":[-8.3914,42.04446],"type":"Point"}
+}

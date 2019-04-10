@@ -1,0 +1,67 @@
+{
+  "id": 1276559359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89993,37.49224,-7.89993,37.49224",
+    "geom:latitude":37.49224,
+    "geom:longitude":-7.89993,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0209",
+    "gn:admin3_code":"20908.0",
+    "gn:asciiname":"Sao Pedro de Solis",
+    "gn:country_code":"PT",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263240,
+    "gn:latitude":37.49224,
+    "gn:longitude":-7.89993,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Pedro de Solis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263240
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"09a64120c15595772d56a4363533f22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276559359,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1276559359,
+    "wof:lastmodified":1536972773,
+    "wof:name":"Sao Pedro de Solis",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89993,
+    37.49224,
+    -7.89993,
+    37.49224
+],
+  "geometry": {"coordinates":[-7.89993,37.49224],"type":"Point"}
+}

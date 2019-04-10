@@ -1,0 +1,78 @@
+{
+  "id": 101759021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000181,
+    "geom:bbox":"-9.33854725138,38.6944492558,-9.31613416637,38.7080878346",
+    "geom:latitude":38.701333,
+    "geom:longitude":-9.327017,
+    "iso:country":"PT",
+    "lbl:latitude":38.700909,
+    "lbl:longitude":-9.327925,
+    "mps:latitude":38.700909,
+    "mps:longitude":-9.327925,
+    "mz:hierarchy_label":1,
+    "name:fra_x_preferred":[
+        "Coupe du Portugal de futsal"
+    ],
+    "name:ita_x_preferred":[
+        "Ta\u00e7a de Portugal"
+    ],
+    "name:por_x_preferred":[
+        "Ta\u00e7a de Portugal de Futsal"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Sassoeiros",
+    "qs:loc_alt":"Sassoeiros",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381129,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3de4a84fdf111a67f815a8b7761592ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759021,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759021,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Sassoeiros",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3385472513811,
+    38.69444925577409,
+    -9.3161341663706,
+    38.70808783456715
+],
+  "geometry": {"coordinates":[[[-9.33170333592648,38.69465215313716],[-9.33219957532293,38.69692067609225],[-9.33329798435324,38.70103970995592],[-9.33393872295426,38.70369419844593],[-9.3357694046714,38.70525027790552],[-9.33750855230272,38.70607408467816],[-9.3385472513811,38.707826889373],[-9.33522020015619,38.70808783456715],[-9.33210804123706,38.70808783456715],[-9.32798900737339,38.70808783456715],[-9.324327643939,38.70808783456715],[-9.32246364668981,38.70796356808381],[-9.32185923855525,38.70593411540682],[-9.32297627766167,38.70570601978977],[-9.322716006853,38.70483205755795],[-9.32383302607474,38.70460395251092],[-9.32279198546172,38.70110809718568],[-9.32055804689475,38.70156426642887],[-9.32029783731326,38.70069029052479],[-9.31918087147301,38.70091835227436],[-9.31866050766797,38.69917038737674],[-9.31754356186502,38.69939842922486],[-9.3161341663706,38.69466309683753],[-9.31709645115603,38.69444925577409],[-9.32524298479757,38.69527306254673],[-9.32923177576356,38.69488200460904],[-9.32930901255401,38.69514135505807],[-9.33170333592648,38.69465215313716]]],"type":"Polygon"}
+}

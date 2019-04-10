@@ -1,0 +1,63 @@
+{
+  "id": 1209017145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2972,40.81145,-8.2972,40.81145",
+    "geom:latitude":40.81145,
+    "geom:longitude":-8.2972,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0119",
+    "gn:admin3_code":"11901.0",
+    "gn:asciiname":"Salgueira",
+    "gn:country_code":"PT",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734890,
+    "gn:latitude":40.81145,
+    "gn:longitude":-8.2972,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Salgueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734890
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"95fcf9329b57e075a25e5b80a7cc2f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209017145
+        }
+    ],
+    "wof:id":1209017145,
+    "wof:lastmodified":1536300260,
+    "wof:name":"Salgueira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2972,
+    40.81145,
+    -8.2972,
+    40.81145
+],
+  "geometry": {"coordinates":[-8.2972,40.81145],"type":"Point"}
+}

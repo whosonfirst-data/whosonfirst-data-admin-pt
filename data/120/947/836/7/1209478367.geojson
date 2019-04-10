@@ -1,0 +1,63 @@
+{
+  "id": 1209478367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.86437,39.61914,-7.86437,39.61914",
+    "geom:latitude":39.61914,
+    "geom:longitude":-7.86437,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141305.0",
+    "gn:asciiname":"Ladeira",
+    "gn:country_code":"PT",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267273,
+    "gn:latitude":39.61914,
+    "gn:longitude":-7.86437,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ladeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267273
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f88520c66aa9f54aa784e25f22e8cf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209478367
+        }
+    ],
+    "wof:id":1209478367,
+    "wof:lastmodified":1536285863,
+    "wof:name":"Ladeira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.86437,
+    39.61914,
+    -7.86437,
+    39.61914
+],
+  "geometry": {"coordinates":[-7.86437,39.61914],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125802003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81611,39.77269,-8.81611,39.77269",
+    "geom:latitude":39.77269,
+    "geom:longitude":-8.81611,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.77269,
+    "lbl:longitude":-8.81611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2267726,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"G\u00e2ndara dos Olivais",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":188193,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741737,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267726,
+        "gp:id":741737,
+        "qs_pg:id":188193
+    },
+    "wof:country":"PT",
+    "wof:created":1497291303,
+    "wof:geomhash":"95aaf4b451255f4955c244253b14d9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125802003,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125802003,
+    "wof:lastmodified":1509393026,
+    "wof:name":"G\u00e2ndara dos Olivais",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81611,
+    39.77269,
+    -8.81611,
+    39.77269
+],
+  "geometry": {"coordinates":[-8.81611,39.77269],"type":"Point"}
+}

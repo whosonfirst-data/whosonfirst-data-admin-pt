@@ -1,0 +1,83 @@
+{
+  "id": 101778211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"-9.15800904794,38.8779773598,-9.14938932523,38.8841280366",
+    "geom:latitude":38.880667,
+    "geom:longitude":-9.153705,
+    "iso:country":"PT",
+    "lbl:latitude":38.880561,
+    "lbl:longitude":-9.153412,
+    "mps:latitude":38.880561,
+    "mps:longitude":-9.153412,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Fanhoes"
+    ],
+    "name:por_x_preferred":[
+        "Fanh\u00f5es"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Santo Ant\u00e3o do Tojal",
+    "qs:la_lc":"*PT11107143",
+    "qs:level":"locality",
+    "qs:loc":"Fanh\u00f5es",
+    "qs:loc_alt":"Fanhoes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a6d24-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268352,
+        "gp:id":740856,
+        "qs:id":1142054,
+        "qs_pg:id":1142054
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1f29b4858f87f2ad39c371a691d85e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778211,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778211,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497297286,
+    "wof:name":"Fanh\u00f5es",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15800904793713,
+    38.87797735979501,
+    -9.14938932522659,
+    38.8841280365578
+],
+  "geometry": {"coordinates":[[[-9.15180565805792,38.8841280365578],[-9.15076880364302,38.88063079528024],[-9.14964850144867,38.88085697051008],[-9.14938932522659,38.87998265168045],[-9.15050961397884,38.87975647993017],[-9.15025043388965,38.87888216256783],[-9.15473146932567,38.87797735979501],[-9.15499070317605,38.87885166323764],[-9.15611095902079,38.87862542664232],[-9.15637021588776,38.8794997245916],[-9.15749047858975,38.87927347154681],[-9.15800904793713,38.8810220544454],[-9.15688875835491,38.88124831445168],[-9.15714804395594,38.88212260636237],[-9.1526667660288,38.88302753061737],[-9.1529260074401,38.88390183443801],[-9.15180565805792,38.8841280365578]]],"type":"Polygon"}
+}

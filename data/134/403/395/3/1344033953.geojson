@@ -1,0 +1,67 @@
+{
+  "id": 1344033953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20995,41.2947,-8.20995,41.2947",
+    "geom:latitude":41.2947,
+    "geom:longitude":-8.20995,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1305",
+    "gn:admin3_code":"130525.0",
+    "gn:asciiname":"Torno",
+    "gn:country_code":"PT",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733519,
+    "gn:latitude":41.2947,
+    "gn:longitude":-8.20995,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Torno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733519
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"666d0d34f750479f67b0027fc5140953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344033953,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1344033953,
+    "wof:lastmodified":1536914414,
+    "wof:name":"Torno",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20995,
+    41.2947,
+    -8.20995,
+    41.2947
+],
+  "geometry": {"coordinates":[-8.20995,41.2947],"type":"Point"}
+}

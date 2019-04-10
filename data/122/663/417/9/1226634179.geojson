@@ -1,0 +1,67 @@
+{
+  "id": 1226634179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00947,40.61884,-7.00947,40.61884",
+    "geom:latitude":40.61884,
+    "geom:longitude":-7.00947,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0902",
+    "gn:admin3_code":"90210.0",
+    "gn:asciiname":"Freixo",
+    "gn:country_code":"PT",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739240,
+    "gn:latitude":40.61884,
+    "gn:longitude":-7.00947,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Freixo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739240
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"72c05daff3942c68fb42c63aaa2d8915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226634179,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1226634179,
+    "wof:lastmodified":1536875225,
+    "wof:name":"Freixo",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00947,
+    40.61884000000001,
+    -7.00947,
+    40.61884000000001
+],
+  "geometry": {"coordinates":[-7.00947,40.61884000000001],"type":"Point"}
+}

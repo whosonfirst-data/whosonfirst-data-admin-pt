@@ -1,0 +1,72 @@
+{
+  "id": 1125270193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27449,39.88914,-8.27449,39.88914",
+    "geom:latitude":39.88914,
+    "geom:longitude":-8.27449,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.88914,
+    "lbl:longitude":-8.27449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012353,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Figueir\u00f3 Dos Vinhos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904364,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012353,
+        "qs_pg:id":904364
+    },
+    "wof:country":"PT",
+    "wof:created":1497042094,
+    "wof:geomhash":"f6771c5bb80522b467d14ca2cc18da7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125270193,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1125270193,
+    "wof:lastmodified":1509386996,
+    "wof:name":"Figueir\u00f3 Dos Vinhos",
+    "wof:parent_id":85687381,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27449,
+    39.88914,
+    -8.27449,
+    39.88914
+],
+  "geometry": {"coordinates":[-8.27449,39.88914],"type":"Point"}
+}

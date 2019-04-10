@@ -1,0 +1,63 @@
+{
+  "id": 1209075081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17787,40.69839,-8.17787,40.69839",
+    "geom:latitude":40.69839,
+    "geom:longitude":-8.17787,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1824",
+    "gn:admin3_code":"182402.0",
+    "gn:asciiname":"Pes de Ponte",
+    "gn:country_code":"PT",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736321,
+    "gn:latitude":40.69839,
+    "gn:longitude":-8.17787,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00e9s de Ponte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736321
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54e7f6455b81efa3c22029fd2f90415b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209075081
+        }
+    ],
+    "wof:id":1209075081,
+    "wof:lastmodified":1536298521,
+    "wof:name":"Pes de Ponte",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17787,
+    40.69839,
+    -8.17787,
+    40.69839
+],
+  "geometry": {"coordinates":[-8.17787,40.69839],"type":"Point"}
+}

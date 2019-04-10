@@ -1,0 +1,80 @@
+{
+  "id": 101759159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:bbox":"-9.05646339147,38.8982082912,-9.03863175992,38.9149539465",
+    "geom:latitude":38.905935,
+    "geom:longitude":-9.047982,
+    "iso:country":"PT",
+    "lbl:latitude":38.904124,
+    "lbl:longitude":-9.047982,
+    "mps:latitude":38.904124,
+    "mps:longitude":-9.047982,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Arsena"
+    ],
+    "name:por_x_variant":[
+        "Arcena"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Arcena",
+    "qs:loc_alt":"Arcena",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0275991a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271437,
+        "gp:id":736540,
+        "qs:id":261566
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f64af490ef8d4a4033c48bc2d95eddea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759159,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759159,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625828,
+    "wof:name":"Arcena",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05646339147364,
+    38.89820829120589,
+    -9.03863175991637,
+    38.9149539464587
+],
+  "geometry": {"coordinates":[[[-9.03863175991637,38.90695934449587],[-9.04107952831635,38.90423960182926],[-9.04541453282701,38.89820829120589],[-9.05127520139018,38.9006615943253],[-9.05103616832196,38.90070958835605],[-9.05232627090135,38.90508268025729],[-9.05456815963385,38.90463256572286],[-9.05508432134746,38.90638177461472],[-9.05620528282799,38.90615669094427],[-9.05646339147364,38.9070312889225],[-9.05534241651628,38.90725637605914],[-9.05585863548009,38.90900557294498],[-9.05473762700649,38.90923065403314],[-9.05499573732379,38.91010525294109],[-9.05387470881061,38.91033032451384],[-9.05413281519128,38.91120492488733],[-9.05076964984812,38.91188007211235],[-9.05128581035382,38.91362928765454],[-9.05016471515546,38.91385431769663],[-9.05042279623979,38.9147289259335],[-9.04930168099816,38.9149539464587],[-9.04801143840177,38.91058086794339],[-9.0468903840096,38.9108058581574],[-9.04585841557292,38.90730734548305],[-9.03913227505228,38.90865693098522],[-9.03863175991637,38.90695934449587]]],"type":"Polygon"}
+}

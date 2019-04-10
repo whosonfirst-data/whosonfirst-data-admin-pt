@@ -1,0 +1,70 @@
+{
+  "id": 1327330393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44018,40.19985,-8.44018,40.19985",
+    "geom:latitude":40.19985,
+    "geom:longitude":-8.44018,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60316.0",
+    "gn:asciiname":"Santa Clara",
+    "gn:country_code":"PT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734759,
+    "gn:latitude":40.19985,
+    "gn:longitude":-8.44018,
+    "gn:modification_date":"2018-02-19",
+    "gn:name":"Santa Clara",
+    "gn:population":9637,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734759
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a93eef31e9ee8b8fe6e400411a75d0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327330393,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1327330393,
+    "wof:lastmodified":1536827204,
+    "wof:name":"Santa Clara",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:population":9637,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44018,
+    40.19985,
+    -8.44018,
+    40.19985
+],
+  "geometry": {"coordinates":[-8.44018,40.19985],"type":"Point"}
+}

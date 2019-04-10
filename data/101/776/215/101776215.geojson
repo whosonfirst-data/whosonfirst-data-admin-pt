@@ -1,0 +1,127 @@
+{
+  "id": 101776215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":389561.495232,
+    "geom:bbox":"-8.60659305882,40.6037630726,-8.58827497807,40.6101182668",
+    "geom:latitude":40.607186,
+    "geom:longitude":-8.596972,
+    "gn:population":4971,
+    "iso:country":"PT",
+    "lbl:latitude":40.605532,
+    "lbl:longitude":-8.595584,
+    "mps:latitude":40.605532,
+    "mps:longitude":-8.595584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:deu_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:dut_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:eng_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:fre_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:ger_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043b\u0438\u0432\u0435\u0439\u0440\u0438\u043d\u044c\u044f"
+    ],
+    "name:may_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:msa_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:nld_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:por_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0438\u0432\u0435\u0439\u0440\u0438\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Oliveirinha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5229\u97e6\u91cc\u5c3c\u4e9a"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Oliveirinha",
+    "qs:la_lc":"*PT10105082",
+    "qs:level":"locality",
+    "qs:loc":"Oliveirinha",
+    "qs:loc_alt":"Oliveirinha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02659010-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2737033,
+        "gp:id":744726,
+        "qs:id":1254139,
+        "qs_pg:id":1254139,
+        "wd:id":"Q2260120"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"de00035c0e7b6ec0e991db8fe60d3eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776215,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776215,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688310,
+    "wof:name":"Oliveirinha",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":4971,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6065930588228,
+    40.60376307257616,
+    -8.58827497806703,
+    40.61011826675099
+],
+  "geometry": {"coordinates":[[[-8.59119998778351,40.60683456433929],[-8.59093622840322,40.60596051621457],[-8.59208702353396,40.60573998051927],[-8.59182325959387,40.60486593404994],[-8.59757705751269,40.60376307257616],[-8.59863246486384,40.60725917593106],[-8.59978326176702,40.60703854925572],[-8.60004715322776,40.60791256678556],[-8.60465032919501,40.60702991200446],[-8.60491428897251,40.60790391340299],[-8.60606508004963,40.6076832126875],[-8.6065930588228,40.60943120266376],[-8.60429141137661,40.60987260494255],[-8.60402744612668,40.60899860378862],[-8.60057496621152,40.60966059614253],[-8.60031105470881,40.6087865824145],[-8.59916022865593,40.60900721620396],[-8.59889634174965,40.60813319701788],[-8.59774552327775,40.60835381386494],[-8.59748166096682,40.6074797892212],[-8.59633085007704,40.60770038912614],[-8.59606701236032,40.60682635902521],[-8.59261458146256,40.60748806775814],[-8.59287837545168,40.60836210852716],[-8.5905766907419,40.60880318786553],[-8.59084046559394,40.60967723384618],[-8.58853872376289,40.61011826675099],[-8.58827497806703,40.60924421365922],[-8.5894258378998,40.60902370745549],[-8.58916208764145,40.60814965601946],[-8.59031292590623,40.60792913998489],[-8.59004917108638,40.60705509020443],[-8.59119998778351,40.60683456433929]]],"type":"Polygon"}
+}

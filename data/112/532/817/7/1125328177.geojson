@@ -1,0 +1,72 @@
+{
+  "id": 1125328177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32825,38.96432,-9.32825,38.96432",
+    "geom:latitude":38.96432,
+    "geom:longitude":-9.32825,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.96432,
+    "lbl:longitude":-9.32825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8012534,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mafra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1042295,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8012534,
+        "qs_pg:id":1042295
+    },
+    "wof:country":"PT",
+    "wof:created":1497044945,
+    "wof:geomhash":"017f582ad84c31b533949bb833197fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125328177,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1125328177,
+    "wof:lastmodified":1509388300,
+    "wof:name":"Mafra",
+    "wof:parent_id":85687367,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32825,
+    38.96432,
+    -9.32825,
+    38.96432
+],
+  "geometry": {"coordinates":[-9.32825,38.96432],"type":"Point"}
+}

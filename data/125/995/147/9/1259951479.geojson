@@ -1,0 +1,67 @@
+{
+  "id": 1259951479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08453,41.22404,-8.08453,41.22404",
+    "geom:latitude":41.22404,
+    "geom:longitude":-8.08453,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1307",
+    "gn:admin3_code":"130707.0",
+    "gn:asciiname":"Arco",
+    "gn:country_code":"PT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742816,
+    "gn:latitude":41.22404,
+    "gn:longitude":-8.08453,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Arco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742816
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"800165b4a7df453b88daa83d9eaac19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259951479,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1259951479,
+    "wof:lastmodified":1536681280,
+    "wof:name":"Arco",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08453,
+    41.22404,
+    -8.08453,
+    41.22404
+],
+  "geometry": {"coordinates":[-8.08453,41.22404],"type":"Point"}
+}

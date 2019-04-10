@@ -1,0 +1,63 @@
+{
+  "id": 1209270953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90615,41.00829,-7.90615,41.00829",
+    "geom:latitude":41.00829,
+    "geom:longitude":-7.90615,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"180309.0",
+    "gn:asciiname":"Gozende",
+    "gn:country_code":"PT",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738882,
+    "gn:latitude":41.00829,
+    "gn:longitude":-7.90615,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gozende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738882
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"35404651b4d31ed7b8d184fa9fd1aa75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209270953
+        }
+    ],
+    "wof:id":1209270953,
+    "wof:lastmodified":1536292361,
+    "wof:name":"Gozende",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90615,
+    41.00829,
+    -7.90615,
+    41.00829
+],
+  "geometry": {"coordinates":[-7.90615,41.00829],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 101778229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":549606.918572,
+    "geom:bbox":"-9.47511630833,38.792613959,-9.46183258394,38.8005662646",
+    "geom:latitude":38.796271,
+    "geom:longitude":-9.468995,
+    "iso:country":"PT",
+    "lbl:latitude":38.796773,
+    "lbl:longitude":-9.469095,
+    "mps:latitude":38.796773,
+    "mps:longitude":-9.469095,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Almo\u00e7ageme"
+    ],
+    "name:eng_x_preferred":[
+        "Almo\u00e7ageme"
+    ],
+    "name:nld_x_preferred":[
+        "Almo\u00e7ageme"
+    ],
+    "name:por_x_colloquial":[
+        "Almocageme"
+    ],
+    "name:por_x_preferred":[
+        "Almo\u00e7ageme"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Colares",
+    "qs:la_lc":"*PT11111051",
+    "qs:level":"locality",
+    "qs:loc":"Almo\u00e7ageme",
+    "qs:loc_alt":"Almocageme",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":38.8,
+    "wd:longitude":-9.466667,
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026af410-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271914,
+        "gp:id":735928,
+        "qs:id":1013869,
+        "qs_pg:id":1013869,
+        "wd:id":"Q2257743",
+        "wk:page":"Almo\u00e7ageme"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a0ab760a1260bc249f054f8961c95d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778229,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101778229,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653241,
+    "wof:name":"Almo\u00e7ageme",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47511630833287,
+    38.79261395902995,
+    -9.46183258394399,
+    38.80056626460203
+],
+  "geometry": {"coordinates":[[[-9.46643405181612,38.80056626460203],[-9.46617119785321,38.7996929164143],[-9.4650530291018,38.79992273252549],[-9.46452737689435,38.79817602295225],[-9.46564551899064,38.7979462138905],[-9.46485707334875,38.79532614473425],[-9.46373897123146,38.79555594322272],[-9.46321341588333,38.79380921315635],[-9.46209533376657,38.79403899166584],[-9.46183258394399,38.79316562003532],[-9.4640687148779,38.79270605713276],[-9.46433149134981,38.79357942171589],[-9.46656762233175,38.79311980004292],[-9.46683043513775,38.79399315552826],[-9.46794850397652,38.79376332177128],[-9.46821133979273,38.79463667168221],[-9.47156554636922,38.79394708225345],[-9.47130267058191,38.7930737429175],[-9.47353874839087,38.79261395902995],[-9.47511630833287,38.79785392198573],[-9.46840751539645,38.79923324539641],[-9.46867039601443,38.80010658653396],[-9.46643405181612,38.80056626460203]]],"type":"Polygon"}
+}

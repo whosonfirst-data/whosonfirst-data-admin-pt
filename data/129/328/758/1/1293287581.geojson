@@ -1,0 +1,67 @@
+{
+  "id": 1293287581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98257,39.87715,-7.98257,39.87715",
+    "geom:latitude":39.87715,
+    "geom:longitude":-7.98257,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"50607.0",
+    "gn:asciiname":"Vale de Souto",
+    "gn:country_code":"PT",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262083,
+    "gn:latitude":39.87715,
+    "gn:longitude":-7.98257,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Souto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262083
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7b921b4f32f2049ee3e12c914349c116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293287581,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1293287581,
+    "wof:lastmodified":1537072128,
+    "wof:name":"Vale de Souto",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98257,
+    39.87715,
+    -7.98257,
+    39.87715
+],
+  "geometry": {"coordinates":[-7.98257,39.87715],"type":"Point"}
+}

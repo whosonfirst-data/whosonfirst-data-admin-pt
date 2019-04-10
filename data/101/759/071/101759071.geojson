@@ -1,0 +1,69 @@
+{
+  "id": 101759071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:bbox":"-9.2776997261,38.7053690214,-9.26325679941,38.7174457682",
+    "geom:latitude":38.711304,
+    "geom:longitude":-9.270339,
+    "iso:country":"PT",
+    "lbl:latitude":38.711541,
+    "lbl:longitude":-9.270201,
+    "mps:latitude":38.711541,
+    "mps:longitude":-9.270201,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Murganhal",
+    "qs:loc_alt":"Murganhal",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":744899,
+        "qs:id":2
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"31aac80ab1d9f8f054c8e85dc848ca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759071,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759071,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Murganhal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27769972610065,
+    38.70536902141799,
+    -9.26325679940913,
+    38.71744576821345
+],
+  "geometry": {"coordinates":[[[-9.27222173772259,38.70680507895611],[-9.27361776037287,38.70827090273883],[-9.27508230574665,38.70827090273883],[-9.27691298746379,38.70982698219842],[-9.27769972610065,38.7112318726214],[-9.27725069061387,38.71132334504091],[-9.27751040011543,38.71219745289494],[-9.27639313810744,38.71242502109192],[-9.27691255916926,38.71417323767537],[-9.27467796216848,38.71462834922806],[-9.27493766040465,38.7155024614425],[-9.27270301049498,38.71595752825692],[-9.27296269164998,38.71683164540946],[-9.26994651933114,38.71744576821345],[-9.26812571522134,38.71577669777923],[-9.26464741995869,38.71156612982981],[-9.26325679940913,38.70582982006289],[-9.26552047615138,38.70536902141799],[-9.26711884027685,38.70689789145104],[-9.271604010484,38.70753863005189],[-9.27222173772259,38.70680507895611]]],"type":"Polygon"}
+}

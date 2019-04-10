@@ -1,0 +1,63 @@
+{
+  "id": 1209320945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.353,41.39557,-8.353,41.39557",
+    "geom:latitude":41.39557,
+    "geom:longitude":-8.353,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30817.0",
+    "gn:asciiname":"Gandarela",
+    "gn:country_code":"PT",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739088,
+    "gn:latitude":41.39557,
+    "gn:longitude":-8.353,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gandarela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739088
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0e029e4f0c9d9f114a3d0c86c67c6733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209320945
+        }
+    ],
+    "wof:id":1209320945,
+    "wof:lastmodified":1536290697,
+    "wof:name":"Gandarela",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.353,
+    41.39557,
+    -8.353,
+    41.39557
+],
+  "geometry": {"coordinates":[-8.353,41.39557],"type":"Point"}
+}

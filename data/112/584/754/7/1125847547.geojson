@@ -1,0 +1,87 @@
+{
+  "id": 1125847547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50245,40.62214,-8.50245,40.62214",
+    "geom:latitude":40.62214,
+    "geom:longitude":-8.50245,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.62214,
+    "lbl:longitude":-8.50245,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Alcheriubem"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2743033,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alquerubim",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Aveiro",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":249022,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":735983,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Aveiro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743033,
+        "gp:id":735983,
+        "qs_pg:id":249022
+    },
+    "wof:country":"PT",
+    "wof:created":1497293237,
+    "wof:geomhash":"31b4702d6804a6b4f7b862d2e9eb1c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125847547,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1125847547,
+    "wof:lastmodified":1509395726,
+    "wof:name":"Alquerubim",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50245,
+    40.62214,
+    -8.50245,
+    40.62214
+],
+  "geometry": {"coordinates":[-8.50245,40.62214],"type":"Point"}
+}

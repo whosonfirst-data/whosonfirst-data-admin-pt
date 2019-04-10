@@ -1,0 +1,117 @@
+{
+  "id": 101832967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00006,
+    "geom:area_square_m":575840.098669,
+    "geom:bbox":"-9.28402368276,38.7244710466,-9.27324660871,38.7349600329",
+    "geom:latitude":38.730413,
+    "geom:longitude":-9.278049,
+    "gn:population":11968,
+    "iso:country":"PT",
+    "lbl:latitude":38.730173,
+    "lbl:longitude":-9.276783,
+    "mps:latitude":38.730173,
+    "mps:longitude":-9.276783,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Barcarena"
+    ],
+    "name:eng_x_preferred":[
+        "Barcarena"
+    ],
+    "name:fre_x_preferred":[
+        "Barcarena"
+    ],
+    "name:ger_x_preferred":[
+        "Barcarena"
+    ],
+    "name:ita_x_preferred":[
+        "Barcarena"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0440\u043a\u0430\u0440\u0435\u043d\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Barcarena"
+    ],
+    "name:pol_x_preferred":[
+        "Barcarena"
+    ],
+    "name:por_x_preferred":[
+        "Barcarena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043a\u0430\u0440\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Barcarena"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Queijas",
+    "qs:la_lc":"*PT11110101",
+    "qs:level":"locality",
+    "qs:loc":"Barcarena",
+    "qs:loc_alt":"Barcarena",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027076c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271140,
+        "gp:id":736933,
+        "qs:id":888158,
+        "qs_pg:id":888158,
+        "wd:id":"Q807903"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f264216b459766de48022c7ce5e67fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832967,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101832967,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815531,
+    "wof:name":"Barcarena",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":11968,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2840236827609,
+    38.72447104661637,
+    -9.27324660871335,
+    38.73496003293269
+],
+  "geometry": {"coordinates":[[[-9.28155430670233,38.72898688238342],[-9.2840236827609,38.73311891832509],[-9.28374629944653,38.73317543204018],[-9.28400624827265,38.73404948911491],[-9.2795358281108,38.73496003293269],[-9.27927593261489,38.73408596190842],[-9.2781583244734,38.73431356204981],[-9.2778984518871,38.73343948550763],[-9.27678085050633,38.73366706923179],[-9.27652100082901,38.73279298717279],[-9.27540340620931,38.73302055447982],[-9.2751435794396,38.732146466904],[-9.27402599158188,38.73237401779448],[-9.27324660871335,38.72975173242787],[-9.27436415657434,38.72952419199515],[-9.27332506010396,38.72602779702584],[-9.27444254807227,38.7258002576055],[-9.274182784554,38.72492615727276],[-9.2764177141263,38.72447104661637],[-9.27719711337272,38.7270933206097],[-9.27831460829208,38.72686573543075],[-9.2790941336869,38.72948798068899],[-9.28155430670233,38.72898688238342]]],"type":"Polygon"}
+}

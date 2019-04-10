@@ -1,0 +1,63 @@
+{
+  "id": 1209027765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00246,40.01464,-8.00246,40.01464",
+    "geom:latitude":40.01464,
+    "geom:longitude":-8.00246,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61205.0",
+    "gn:asciiname":"Vale de Pereiras",
+    "gn:country_code":"PT",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733083,
+    "gn:latitude":40.01464,
+    "gn:longitude":-8.00246,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Pereiras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733083
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"28927877599d27689fb4c8a6a86994ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209027765
+        }
+    ],
+    "wof:id":1209027765,
+    "wof:lastmodified":1536299942,
+    "wof:name":"Vale de Pereiras",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.002460000000001,
+    40.01464,
+    -8.002460000000001,
+    40.01464
+],
+  "geometry": {"coordinates":[-8.00246,40.01464],"type":"Point"}
+}

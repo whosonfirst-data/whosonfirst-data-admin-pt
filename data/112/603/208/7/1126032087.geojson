@@ -1,0 +1,97 @@
+{
+  "id": 1126032087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3263,39.33814,-9.3263,39.33814",
+    "geom:latitude":39.33814,
+    "geom:longitude":-9.3263,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8313,
+    "gn:population":8313,
+    "iso:country":"PT",
+    "lbl:latitude":39.33814,
+    "lbl:longitude":-9.3263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Atouguia"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2271354,
+    "qs_pg:gn_pop":8313,
+    "qs_pg:name":"Atouguia da Baleia",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":448,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":448,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":348022,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":736623,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271354,
+        "gp:id":736623,
+        "qs_pg:id":348022
+    },
+    "wof:country":"PT",
+    "wof:created":1497301541,
+    "wof:geomhash":"e964e3faaaca4519bb194717b475cdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126032087,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1126032087,
+    "wof:lastmodified":1534379446,
+    "wof:name":"Atouguia da Baleia",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:population":8313,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101777109
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3263,
+    39.33814,
+    -9.3263,
+    39.33814
+],
+  "geometry": {"coordinates":[-9.3263,39.33814],"type":"Point"}
+}

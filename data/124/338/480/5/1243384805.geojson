@@ -1,0 +1,67 @@
+{
+  "id": 1243384805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37281,40.11492,-8.37281,40.11492",
+    "geom:latitude":40.11492,
+    "geom:longitude":-8.37281,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60301.0",
+    "gn:asciiname":"Flor da Rosa",
+    "gn:country_code":"PT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739545,
+    "gn:latitude":40.11492,
+    "gn:longitude":-8.37281,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Flor da Rosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739545
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"796cfbd25eeb12e003c6c07fb8896991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243384805,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243384805,
+    "wof:lastmodified":1536894270,
+    "wof:name":"Flor da Rosa",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37281,
+    40.11492,
+    -8.37281,
+    40.11492
+],
+  "geometry": {"coordinates":[-8.37281,40.11492],"type":"Point"}
+}

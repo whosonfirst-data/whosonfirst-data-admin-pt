@@ -1,0 +1,106 @@
+{
+  "id": 85862589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":560794.94414,
+    "geom:bbox":"-9.18869018554,38.711232539,-9.17907714844,38.7198047426",
+    "geom:latitude":38.715375,
+    "geom:longitude":-9.182694,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.714967,
+    "lbl:longitude":-9.180924,
+    "mps:latitude":38.715244,
+    "mps:longitude":-9.182121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Bairro do Alvito"
+    ],
+    "name:unk_x_variant":[
+        "Bairro do Alvito"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Bairro Alto",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Bairro do Alvito",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":16,
+    "qs:photo_sum":40,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101759079,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105223,
+        "qs:id":247842,
+        "qs_pg:id":247842
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0de4b1d6c5de7e86955caab6e0c70d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759079,
+            "neighbourhood_id":85862589,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862589,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497316589,
+    "wof:name":"Bairro do Alvito",
+    "wof:parent_id":101759079,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18869018554477,
+    38.71123253900002,
+    -9.17907714843818,
+    38.71980474260005
+],
+  "geometry": {"coordinates":[[[-9.17907714843818,38.71410295935627],[-9.17907714843906,38.71264827435377],[-9.17907714843994,38.71123253900002],[-9.18182373046994,38.71123253900002],[-9.18457031249991,38.71123253900002],[-9.18457031249991,38.71337567487367],[-9.18731689452991,38.71337567238527],[-9.18869018554477,38.7133756702253],[-9.18869018554477,38.71517445841899],[-9.18788424055037,38.71551876930005],[-9.18457031249983,38.71693452533147],[-9.18457031249983,38.71980467837533],[-9.18457031249983,38.71980474260005],[-9.17907714843994,38.71980474260005],[-9.17907714843994,38.71766177556155],[-9.17907714843994,38.71551876930005],[-9.17907714843818,38.71410295935627]]],"type":"Polygon"}
+}

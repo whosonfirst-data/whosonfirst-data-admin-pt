@@ -1,0 +1,67 @@
+{
+  "id": 1226708483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03137,40.41535,-8.03137,40.41535",
+    "geom:latitude":40.41535,
+    "geom:longitude":-8.03137,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1802",
+    "gn:admin3_code":"180206.0",
+    "gn:asciiname":"Povoa das Forcadas",
+    "gn:country_code":"PT",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735817,
+    "gn:latitude":40.41535,
+    "gn:longitude":-8.03137,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00f3voa das Forcadas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735817
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dc09c3ea40bb0555ba312f7463ff0dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226708483,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1226708483,
+    "wof:lastmodified":1536769929,
+    "wof:name":"Povoa das Forcadas",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03137,
+    40.41535,
+    -8.03137,
+    40.41535
+],
+  "geometry": {"coordinates":[-8.03137,40.41535],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209680187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38701,41.79948,-7.38701,41.79948",
+    "geom:latitude":41.79948,
+    "geom:longitude":-7.38701,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1703",
+    "gn:admin3_code":"170330.0",
+    "gn:asciiname":"Curral de Vacas",
+    "gn:country_code":"PT",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740191,
+    "gn:latitude":41.79948,
+    "gn:longitude":-7.38701,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Curral de Vacas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740191
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cd8df9db2bd1f995c8cdef3a7901b84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209680187
+        }
+    ],
+    "wof:id":1209680187,
+    "wof:lastmodified":1536279605,
+    "wof:name":"Curral de Vacas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.387010000000001,
+    41.79948,
+    -7.387010000000001,
+    41.79948
+],
+  "geometry": {"coordinates":[-7.38701,41.79948],"type":"Point"}
+}

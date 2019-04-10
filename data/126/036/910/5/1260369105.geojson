@@ -1,0 +1,67 @@
+{
+  "id": 1260369105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0206,38.90224,-9.0206,38.90224",
+    "geom:latitude":38.90224,
+    "geom:longitude":-9.0206,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1114",
+    "gn:admin3_code":"111402.0",
+    "gn:asciiname":"Adarse",
+    "gn:country_code":"PT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272405,
+    "gn:latitude":38.90224,
+    "gn:longitude":-9.0206,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Adarse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272405
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e60bdc607c564f0d0196dbd268e2cd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260369105,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1260369105,
+    "wof:lastmodified":1537090979,
+    "wof:name":"Adarse",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0206,
+    38.90224,
+    -9.0206,
+    38.90224
+],
+  "geometry": {"coordinates":[-9.0206,38.90224],"type":"Point"}
+}

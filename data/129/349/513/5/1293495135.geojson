@@ -1,0 +1,67 @@
+{
+  "id": 1293495135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45629,37.65088,-8.45629,37.65088",
+    "geom:latitude":37.65088,
+    "geom:longitude":-8.45629,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21107.0",
+    "gn:asciiname":"Zambujeira",
+    "gn:country_code":"PT",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261495,
+    "gn:latitude":37.65088,
+    "gn:longitude":-8.45629,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Zambujeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261495
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7915922f9cb85b584ca785f1a0425b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293495135,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1293495135,
+    "wof:lastmodified":1536776561,
+    "wof:name":"Zambujeira",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45629,
+    37.65088,
+    -8.45629,
+    37.65088
+],
+  "geometry": {"coordinates":[-8.45629,37.65088],"type":"Point"}
+}

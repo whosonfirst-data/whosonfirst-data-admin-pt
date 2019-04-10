@@ -1,0 +1,67 @@
+{
+  "id": 1310173899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.41056,38.55984,-28.41056,38.55984",
+    "geom:latitude":38.55984,
+    "geom:longitude":-28.41056,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4603",
+    "gn:admin3_code":"460302.0",
+    "gn:asciiname":"Arcos",
+    "gn:country_code":"PT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373345,
+    "gn:latitude":38.55984,
+    "gn:longitude":-28.41056,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Arcos",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373345
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"403e9c8571184381b14a40e75c0e7a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310173899,
+            "region_id":85687447
+        }
+    ],
+    "wof:id":1310173899,
+    "wof:lastmodified":1536897954,
+    "wof:name":"Arcos",
+    "wof:parent_id":85687447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.41056,
+    38.55984,
+    -28.41056,
+    38.55984
+],
+  "geometry": {"coordinates":[-28.41056,38.55984],"type":"Point"}
+}

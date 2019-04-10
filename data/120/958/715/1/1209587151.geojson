@@ -1,0 +1,63 @@
+{
+  "id": 1209587151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61499,41.12049,-8.61499,41.12049",
+    "geom:latitude":41.12049,
+    "geom:longitude":-8.61499,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131710.0",
+    "gn:asciiname":"Raza de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735422,
+    "gn:latitude":41.12049,
+    "gn:longitude":-8.61499,
+    "gn:modification_date":"2018-02-14",
+    "gn:name":"Raza de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735422
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ac5bbd8aa271e95b8b5b85b2d0b95933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209587151
+        }
+    ],
+    "wof:id":1209587151,
+    "wof:lastmodified":1536282598,
+    "wof:name":"Raza de Cima",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.614989999999999,
+    41.12049,
+    -8.614989999999999,
+    41.12049
+],
+  "geometry": {"coordinates":[-8.61499,41.12049],"type":"Point"}
+}

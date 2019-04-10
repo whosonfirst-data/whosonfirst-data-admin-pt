@@ -1,0 +1,63 @@
+{
+  "id": 1209589287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38563,38.83903,-9.38563,38.83903",
+    "geom:latitude":38.83903,
+    "geom:longitude":-9.38563,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:admin3_code":"111113.0",
+    "gn:asciiname":"Apolentina",
+    "gn:country_code":"PT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271621,
+    "gn:latitude":38.83903,
+    "gn:longitude":-9.38563,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Apolentina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271621
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7bee492c522d2b3d6212b3ada6f2ea82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209589287
+        }
+    ],
+    "wof:id":1209589287,
+    "wof:lastmodified":1536282532,
+    "wof:name":"Apolentina",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38563,
+    38.83903,
+    -9.38563,
+    38.83903
+],
+  "geometry": {"coordinates":[-9.38563,38.83903],"type":"Point"}
+}

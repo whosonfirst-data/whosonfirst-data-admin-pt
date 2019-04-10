@@ -1,0 +1,67 @@
+{
+  "id": 1327489939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02948,40.8486,-8.02948,40.8486",
+    "geom:latitude":40.8486,
+    "geom:longitude":-8.02948,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1816",
+    "gn:admin3_code":"181616.0",
+    "gn:asciiname":"Adopisco",
+    "gn:country_code":"PT",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743387,
+    "gn:latitude":40.8486,
+    "gn:longitude":-8.02948,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Adopisco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743387
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f68c4f178a51459664c993a79552f3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327489939,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1327489939,
+    "wof:lastmodified":1537092310,
+    "wof:name":"Adopisco",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02948,
+    40.8486,
+    -8.02948,
+    40.8486
+],
+  "geometry": {"coordinates":[-8.02948,40.8486],"type":"Point"}
+}

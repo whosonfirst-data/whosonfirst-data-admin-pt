@@ -1,0 +1,67 @@
+{
+  "id": 1209907951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39145,40.0688,-8.39145,40.0688",
+    "geom:latitude":40.0688,
+    "geom:longitude":-8.39145,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0614",
+    "gn:admin3_code":"61403.0",
+    "gn:asciiname":"Gateira",
+    "gn:country_code":"PT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739062,
+    "gn:latitude":40.0688,
+    "gn:longitude":-8.39145,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gateira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739062
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"be78cdeb786288001baeef7ebc587785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209907951,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1209907951,
+    "wof:lastmodified":1536381903,
+    "wof:name":"Gateira",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39145,
+    40.0688,
+    -8.39145,
+    40.0688
+],
+  "geometry": {"coordinates":[-8.39145,40.0688],"type":"Point"}
+}

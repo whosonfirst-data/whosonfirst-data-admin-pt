@@ -1,0 +1,67 @@
+{
+  "id": 1242874397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36791,41.62327,-8.36791,41.62327",
+    "geom:latitude":41.62327,
+    "geom:longitude":-8.36791,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0301",
+    "gn:admin3_code":"30117.0",
+    "gn:asciiname":"Proselo",
+    "gn:country_code":"PT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735695,
+    "gn:latitude":41.62327,
+    "gn:longitude":-8.36791,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Proselo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735695
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"05a62bd6dadfc6392e29f44c8b0c53ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242874397,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1242874397,
+    "wof:lastmodified":1536634915,
+    "wof:name":"Proselo",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36791,
+    41.62327,
+    -8.36791,
+    41.62327
+],
+  "geometry": {"coordinates":[-8.36791,41.62327],"type":"Point"}
+}

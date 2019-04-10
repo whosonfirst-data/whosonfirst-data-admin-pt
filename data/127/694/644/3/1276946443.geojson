@@ -1,0 +1,67 @@
+{
+  "id": 1276946443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.99379,40.64598,-7.99379,40.64598",
+    "geom:latitude":40.64598,
+    "geom:longitude":-7.99379,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182311.0",
+    "gn:asciiname":"Passos",
+    "gn:country_code":"PT",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736616,
+    "gn:latitude":40.64598,
+    "gn:longitude":-7.99379,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Passos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736616
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"220189dbe1efba178d7880fd4a9f79e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276946443,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1276946443,
+    "wof:lastmodified":1536952332,
+    "wof:name":"Passos",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.99379,
+    40.64598,
+    -7.99379,
+    40.64598
+],
+  "geometry": {"coordinates":[-7.99379,40.64598],"type":"Point"}
+}

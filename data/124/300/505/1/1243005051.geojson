@@ -1,0 +1,67 @@
+{
+  "id": 1243005051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32461,41.27693,-7.32461,41.27693",
+    "geom:latitude":41.27693,
+    "geom:longitude":-7.32461,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0403",
+    "gn:admin3_code":"40301.0",
+    "gn:asciiname":"Areias",
+    "gn:country_code":"PT",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742775,
+    "gn:latitude":41.27693,
+    "gn:longitude":-7.32461,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Areias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742775
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"df0a8f562267b8ecfccfa697ea6af4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243005051,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1243005051,
+    "wof:lastmodified":1536945414,
+    "wof:name":"Areias",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32461,
+    41.27693,
+    -7.32461,
+    41.27693
+],
+  "geometry": {"coordinates":[-7.32461,41.27693],"type":"Point"}
+}

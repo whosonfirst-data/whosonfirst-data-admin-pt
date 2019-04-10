@@ -1,0 +1,67 @@
+{
+  "id": 1293464161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78277,41.89037,-8.78277,41.89037",
+    "geom:latitude":41.89037,
+    "geom:longitude":-8.78277,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"160218.0",
+    "gn:asciiname":"Cavada",
+    "gn:country_code":"PT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740949,
+    "gn:latitude":41.89037,
+    "gn:longitude":-8.78277,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cavada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740949
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ed3898c34cb09755cf45d06e52354c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293464161,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1293464161,
+    "wof:lastmodified":1536819945,
+    "wof:name":"Cavada",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78277,
+    41.89037,
+    -8.78277,
+    41.89037
+],
+  "geometry": {"coordinates":[-8.78277,41.89037],"type":"Point"}
+}

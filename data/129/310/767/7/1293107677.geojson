@@ -1,0 +1,67 @@
+{
+  "id": 1293107677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.62125,40.62988,-8.62125,40.62988",
+    "geom:latitude":40.62988,
+    "geom:longitude":-8.62125,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0105",
+    "gn:admin3_code":"10513.0",
+    "gn:asciiname":"Quinta do Gato",
+    "gn:country_code":"PT",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735577,
+    "gn:latitude":40.62988,
+    "gn:longitude":-8.62125,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Quinta do Gato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735577
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc180ea2898a25b0b16a500e30166edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293107677,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1293107677,
+    "wof:lastmodified":1536836498,
+    "wof:name":"Quinta do Gato",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62125,
+    40.62988,
+    -8.62125,
+    40.62988
+],
+  "geometry": {"coordinates":[-8.62125,40.62988],"type":"Point"}
+}

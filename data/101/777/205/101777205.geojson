@@ -1,0 +1,119 @@
+{
+  "id": 101777205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000092,
+    "geom:area_square_m":869080.981893,
+    "geom:bbox":"-7.98931887612,40.2651157565,-7.97033235151,40.2775276235",
+    "geom:latitude":40.270792,
+    "geom:longitude":-7.979114,
+    "iso:country":"PT",
+    "lbl:latitude":40.271125,
+    "lbl:longitude":-7.978467,
+    "mps:latitude":40.271125,
+    "mps:longitude":-7.978467,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Coja"
+    ],
+    "name:dut_x_preferred":[
+        "Coja"
+    ],
+    "name:eng_x_preferred":[
+        "Coja"
+    ],
+    "name:fre_x_preferred":[
+        "Coja"
+    ],
+    "name:ger_x_preferred":[
+        "Coja"
+    ],
+    "name:ita_x_preferred":[
+        "Coja"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0436\u0430"
+    ],
+    "name:oci_x_preferred":[
+        "Coja"
+    ],
+    "name:por_x_preferred":[
+        "Coja"
+    ],
+    "name:por_x_variant":[
+        "Cojo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0436\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Coja"
+    ],
+    "name:unk_x_variant":[
+        "Cojo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Coja",
+    "qs:la_lc":"*PT10601080",
+    "qs:level":"locality",
+    "qs:loc":"Coja",
+    "qs:loc_alt":"Coja",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0271cfe2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740625,
+        "gp:id":739683,
+        "qs:id":1158393,
+        "qs_pg:id":1158393,
+        "wd:id":"Q3664"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1a44c0b8084d250158f27bf73067f86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777205,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777205,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498015,
+    "wof:name":"Coja",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98931887611803,
+    40.26511575648175,
+    -7.9703323515057,
+    40.27752762352895
+],
+  "geometry": {"coordinates":[[[-7.97581283100942,40.27207981916916],[-7.97429626363987,40.2668211215265],[-7.97658932357496,40.26639486035577],[-7.97684208989352,40.26727130774384],[-7.97798862437617,40.26705815372338],[-7.97824141477156,40.26793459585684],[-7.98282754410621,40.26708183263872],[-7.98232185684054,40.26532897383129],[-7.98346834350713,40.26511575648175],[-7.98372119685854,40.26599218339379],[-7.98601417921088,40.26556570182476],[-7.98626707114335,40.26644212006693],[-7.98741356682751,40.2662288558468],[-7.98766648283816,40.26710526883164],[-7.98881298636195,40.26689198784959],[-7.98931887611803,40.26864480146048],[-7.98817234358512,40.26885808927119],[-7.98842528832228,40.26973449672573],[-7.9861321742481,40.27016103913013],[-7.9858792585228,40.26928462484727],[-7.98129300841924,40.27013753581423],[-7.98230449665073,40.27364323651034],[-7.97771790777716,40.27449598850205],[-7.97797074572958,40.27537242272342],[-7.97223728713698,40.27643807939245],[-7.9724900620991,40.27731452883597],[-7.97134333587667,40.27752762352895],[-7.9703323515057,40.27402180105878],[-7.9714790196752,40.27380872001385],[-7.97122628299479,40.27293226320489],[-7.97581283100942,40.27207981916916]]],"type":"Polygon"}
+}

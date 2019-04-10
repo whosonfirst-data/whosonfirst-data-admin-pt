@@ -1,0 +1,71 @@
+{
+  "id": 1259589337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43078,41.68762,-8.43078,41.68762",
+    "geom:latitude":41.68762,
+    "geom:longitude":-8.43078,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31336.0",
+    "gn:asciiname":"Pico",
+    "gn:country_code":"PT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736273,
+    "gn:latitude":41.68762,
+    "gn:longitude":-8.43078,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pico",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Paio",
+        "Pico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736273
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7efff8c8876b45bb66ef8e4cbc99efdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259589337,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259589337,
+    "wof:lastmodified":1537683165,
+    "wof:name":"Pico",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43078,
+    41.68762,
+    -8.43078,
+    41.68762
+],
+  "geometry": {"coordinates":[-8.43078,41.68762],"type":"Point"}
+}

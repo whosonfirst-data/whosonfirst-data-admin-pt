@@ -1,0 +1,67 @@
+{
+  "id": 1242877409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44694,40.95522,-8.44694,40.95522",
+    "geom:latitude":40.95522,
+    "geom:longitude":-8.44694,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10922.0",
+    "gn:asciiname":"Reguenga",
+    "gn:country_code":"PT",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735301,
+    "gn:latitude":40.95522,
+    "gn:longitude":-8.44694,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Reguenga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735301
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4e0e174ac0fc6789dcbd2869cb257d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242877409,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1242877409,
+    "wof:lastmodified":1536630200,
+    "wof:name":"Reguenga",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44694,
+    40.95522,
+    -8.44694,
+    40.95522
+],
+  "geometry": {"coordinates":[-8.44694,40.95522],"type":"Point"}
+}

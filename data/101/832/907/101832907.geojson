@@ -1,0 +1,107 @@
+{
+  "id": 101832907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1143422.722177,
+    "geom:bbox":"-9.05446150118,38.6194711403,-9.04183220108,38.6371972436",
+    "geom:latitude":38.62774,
+    "geom:longitude":-9.048433,
+    "iso:country":"PT",
+    "lbl:latitude":38.629625,
+    "lbl:longitude":-9.047285,
+    "mps:latitude":38.629625,
+    "mps:longitude":-9.047285,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Palhais"
+    ],
+    "name:eng_x_preferred":[
+        "Palhais"
+    ],
+    "name:fre_x_preferred":[
+        "Palhais"
+    ],
+    "name:ger_x_preferred":[
+        "Palhais"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u044f\u0439\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Palhais"
+    ],
+    "name:por_x_variant":[
+        "Pelhaes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u044f\u0439\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Palhais"
+    ],
+    "name:unk_x_variant":[
+        "Pelhaes"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alto do Seixalinho",
+    "qs:la_lc":"*PT11504061",
+    "qs:level":"locality",
+    "qs:loc":"Palhais",
+    "qs:loc_alt":"Palhais",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027398fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265271,
+        "gp:id":745009,
+        "qs:id":6,
+        "wd:id":"Q2102018"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0729a3e4cb82e82ad3fcdb129aa02c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832907,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832907,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498094,
+    "wof:name":"Palhais",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05446150118314,
+    38.61947114031858,
+    -9.04183220107876,
+    38.63719724355963
+],
+  "geometry": {"coordinates":[[[-9.04198501096317,38.62791705311491],[-9.04183220107876,38.62739472539869],[-9.04518171108873,38.62672032970193],[-9.04492569130525,38.62584532738458],[-9.04604216838715,38.62562050640975],[-9.04527412563107,38.62299549771859],[-9.04415768852101,38.62322030838237],[-9.04390170644655,38.62234529803163],[-9.04501813023347,38.6221204908046],[-9.04476214426239,38.621245481882],[-9.0469949458008,38.62079583553555],[-9.04673894261219,38.61992083147805],[-9.04897169165332,38.61947114031858],[-9.04922772148359,38.62034613750188],[-9.0514604713091,38.61989638778232],[-9.05171653720856,38.62077137608173],[-9.05394928781408,38.62032156780128],[-9.05446150118314,38.62207152462003],[-9.05334510247241,38.62229644209725],[-9.05385732692184,38.62404639775474],[-9.05274089510152,38.62427130918667],[-9.05299700815078,38.62514628743986],[-9.05076409846447,38.62559607841342],[-9.05127629956343,38.6273460426454],[-9.05015980837237,38.62757092562487],[-9.05169655808317,38.63282079073656],[-9.05281312922847,38.6325958871256],[-9.05332548125114,38.63434581921337],[-9.0522088834515,38.63457072970272],[-9.05246506028715,38.63544569617284],[-9.04911518808308,38.63612036041144],[-9.04928987099203,38.63671705128473],[-9.04807447987559,38.63719724355963],[-9.04198501096317,38.62791705311491]]],"type":"Polygon"}
+}

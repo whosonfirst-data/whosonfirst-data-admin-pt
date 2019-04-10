@@ -1,0 +1,90 @@
+{
+  "id": 101851455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.506408,40.596485,-8.506408,40.596485",
+    "geom:latitude":40.596485,
+    "geom:longitude":-8.506408,
+    "iso:country":"PT",
+    "lbl:latitude":40.596485,
+    "lbl:longitude":-8.506408,
+    "mps:latitude":40.596485,
+    "mps:longitude":-8.506408,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Uni\u00e3o das Freguesias de Travass\u00f4 e \u00d3is da Ribeira"
+    ],
+    "name:por_x_colloquial":[
+        "Travasso"
+    ],
+    "name:por_x_preferred":[
+        "Travass\u00f4",
+        "Travass\u00f4 e \u00d3is da Ribeira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Travass\u00f4",
+    "qs:loc_alt":"Travasso",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026da02a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2737087,
+        "gp:id":744654,
+        "qs:id":1205362,
+        "qs_pg:id":978988
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"24a2a53ee97b785a0ca8a460ba8af3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851455,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101851455,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741799,
+    "wof:name":"Travass\u00f4",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.506408,
+    40.596485,
+    -8.506408,
+    40.596485
+],
+  "geometry": {"coordinates":[-8.506408,40.596485],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310677153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56667,41.15,-8.56667,41.15",
+    "geom:latitude":41.15,
+    "geom:longitude":-8.56667,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1312",
+    "gn:admin3_code":"131203.0",
+    "gn:asciiname":"Azevedo",
+    "gn:cc2":"PT",
+    "gn:country_code":"PT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742545,
+    "gn:latitude":41.15,
+    "gn:longitude":-8.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Azevedo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azevedo Meiral",
+        "Azevedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742545
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"69eb2502090db1da9e99bcec5e9423aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310677153,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1310677153,
+    "wof:lastmodified":1537683175,
+    "wof:name":"Azevedo",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56667,
+    41.15,
+    -8.56667,
+    41.15
+],
+  "geometry": {"coordinates":[-8.56667,41.15],"type":"Point"}
+}

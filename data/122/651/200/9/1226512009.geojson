@@ -1,0 +1,67 @@
+{
+  "id": 1226512009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88991,39.20665,-7.88991,39.20665",
+    "geom:latitude":39.20665,
+    "geom:longitude":-7.88991,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1203",
+    "gn:admin3_code":"120308.0",
+    "gn:asciiname":"Vale de Marcos",
+    "gn:country_code":"PT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262150,
+    "gn:latitude":39.20665,
+    "gn:longitude":-7.88991,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Marcos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262150
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"00a7aa7b1ee38341f45784d8f8c9c3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226512009,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1226512009,
+    "wof:lastmodified":1537044923,
+    "wof:name":"Vale de Marcos",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88991,
+    39.20665,
+    -7.88991,
+    39.20665
+],
+  "geometry": {"coordinates":[-7.88991,39.20665],"type":"Point"}
+}

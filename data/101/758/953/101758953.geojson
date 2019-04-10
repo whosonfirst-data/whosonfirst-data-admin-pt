@@ -1,0 +1,69 @@
+{
+  "id": 101758953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:bbox":"-9.33804731316,38.7079635681,-9.32085047128,38.721124133",
+    "geom:latitude":38.714468,
+    "geom:longitude":-9.328705,
+    "iso:country":"PT",
+    "lbl:latitude":38.713666,
+    "lbl:longitude":-9.328575,
+    "mps:latitude":38.713666,
+    "mps:longitude":-9.328575,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro do Cabe\u00e7o de Mouro",
+    "qs:loc_alt":"Bairro do Cabeco de Mouro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56041848,
+        "qs:id":5
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"514d9bf8023c83675a31c75b342dbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758953,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758953,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro do Cabe\u00e7o de Mouro",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33804731316133,
+    38.70796356808381,
+    -9.32085047128191,
+    38.72112413297754
+],
+  "geometry": {"coordinates":[[[-9.32797408700793,38.71850434665186],[-9.32773829456193,38.71771311978296],[-9.32326937955463,38.71862567197786],[-9.32300901444756,38.71775172777569],[-9.32189178255584,38.71797983002102],[-9.32085047128191,38.71448401888324],[-9.32196764991835,38.71425593060769],[-9.32144702518679,38.71250801980773],[-9.32479844174537,38.71182369839454],[-9.32401745675696,38.70920184835325],[-9.32290036441475,38.70942995793746],[-9.32246364668981,38.70796356808381],[-9.324327643939,38.70808783456715],[-9.32798900737339,38.70808783456715],[-9.33021576172115,38.70808783456715],[-9.33102761458815,38.71044958836183],[-9.33329191193081,38.71329613359262],[-9.33607376295191,38.71536634830591],[-9.33804731316133,38.71667237417984],[-9.3356209034834,38.71860105879557],[-9.33393885402876,38.72073596771867],[-9.33245088720355,38.72112413297754],[-9.33051006090983,38.71885983563482],[-9.32831045777687,38.71840697616614],[-9.32797408700793,38.71850434665186]]],"type":"Polygon"}
+}

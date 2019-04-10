@@ -1,0 +1,115 @@
+{
+  "id": 101776303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:bbox":"-8.64488235754,41.2857118492,-8.63173666667,41.299706952",
+    "geom:latitude":41.292549,
+    "geom:longitude":-8.638007,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.292218,
+    "lbl:longitude":-8.63746,
+    "mps:latitude":41.292218,
+    "mps:longitude":-8.63746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "M\u00e1rio Costa"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e1rio Costa"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00e1rio Costa"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e1rio Costa",
+        "Guilhabreu"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e1rio Costa"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Guilhabreu",
+    "qs:la_lc":"*PT11316117",
+    "qs:level":"locality",
+    "qs:loc":"Guilhabreu",
+    "qs:loc_alt":"Guilhabreu",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2738765,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Guilhabreu",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":268260,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742110,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02690d1c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738765,
+        "gp:id":742110,
+        "qs:id":268260,
+        "qs_pg:id":268260
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"217da8878868c0983836cd0d5dc3eed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776303,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776303,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379444,
+    "wof:name":"Guilhabreu",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125778187
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64488235754345,
+    41.28571184924419,
+    -8.63173666666796,
+    41.29970695204565
+],
+  "geometry": {"coordinates":[[[-8.63738095035728,41.29970695204565],[-8.63549475061848,41.29359523470333],[-8.63200603741757,41.29425942847473],[-8.63173666666796,41.29338630755092],[-8.6328995633263,41.29316492680397],[-8.63209146810681,41.29054556362087],[-8.63790561760857,41.28943851126246],[-8.63763619823283,41.28856540460015],[-8.63996177725312,41.2881224961352],[-8.63942290954373,41.28637629168946],[-8.64291113369654,41.28571184924419],[-8.64345009135735,41.28745803188036],[-8.64461284821039,41.28723651671419],[-8.64488235754345,41.28810960156625],[-8.63906842574079,41.28921706016592],[-8.63987679088757,41.29183635793038],[-8.6410396367466,41.29161488238742],[-8.64157862853904,41.29336106419385],[-8.63925286957948,41.29380401627895],[-8.6408699132167,41.29904256004932],[-8.63738095035728,41.29970695204565]]],"type":"Polygon"}
+}

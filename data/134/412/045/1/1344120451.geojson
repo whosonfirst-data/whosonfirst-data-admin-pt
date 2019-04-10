@@ -1,0 +1,67 @@
+{
+  "id": 1344120451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6,41.06667,-8.6,41.06667",
+    "geom:latitude":41.06667,
+    "geom:longitude":-8.6,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1317",
+    "gn:admin3_code":"131703.0",
+    "gn:asciiname":"Alquebre",
+    "gn:country_code":"PT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743036,
+    "gn:latitude":41.06667,
+    "gn:longitude":-8.6,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alquebre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743036
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4444f3fa2a9036bdc962c416310cd3fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344120451,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1344120451,
+    "wof:lastmodified":1536789579,
+    "wof:name":"Alquebre",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6,
+    41.06667,
+    -8.6,
+    41.06667
+],
+  "geometry": {"coordinates":[-8.6,41.06667],"type":"Point"}
+}

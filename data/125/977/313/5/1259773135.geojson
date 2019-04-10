@@ -1,0 +1,67 @@
+{
+  "id": 1259773135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78927,37.07077,-8.78927,37.07077",
+    "geom:latitude":37.07077,
+    "geom:longitude":-8.78927,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0815",
+    "gn:admin3_code":"81502.0",
+    "gn:asciiname":"Barrancao",
+    "gn:country_code":"PT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271112,
+    "gn:latitude":37.07077,
+    "gn:longitude":-8.78927,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Barranc\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271112
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"21eb190fae470ffce1fc45d0da6e8607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259773135,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1259773135,
+    "wof:lastmodified":1536938814,
+    "wof:name":"Barrancao",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78927,
+    37.07077,
+    -8.78927,
+    37.07077
+],
+  "geometry": {"coordinates":[-8.78927,37.07077],"type":"Point"}
+}

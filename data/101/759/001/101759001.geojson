@@ -1,0 +1,80 @@
+{
+  "id": 101759001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:bbox":"-9.41416346355,38.7127187081,-9.40562660726,38.7264304338",
+    "geom:latitude":38.719686,
+    "geom:longitude":-9.410025,
+    "iso:country":"PT",
+    "lbl:latitude":38.719501,
+    "lbl:longitude":-9.410452,
+    "mps:latitude":38.719501,
+    "mps:longitude":-9.410452,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Amoreira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Amoreira",
+    "qs:loc_alt":"Amoreira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027082e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271677,
+        "gp:id":736170,
+        "qs:id":285348,
+        "qs_pg:id":285348
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"734133a0b42dc0ec455cf51fa205755f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759001,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759001,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497296304,
+    "wof:name":"Amoreira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41416346355004,
+    38.71271870807902,
+    -9.40562660726437,
+    38.72643043380293
+],
+  "geometry": {"coordinates":[[[-9.40562660726437,38.71534757149504],[-9.40656957522111,38.71445699064702],[-9.40722143118421,38.71315327872105],[-9.40910457063285,38.71271870807902],[-9.4111739814133,38.7128336753446],[-9.41120499540261,38.71416727688563],[-9.4127259926496,38.7162677016554],[-9.41410213301606,38.71749898514105],[-9.41316056329157,38.72162740624026],[-9.41345027705302,38.72459697229391],[-9.41416346355004,38.72537499392718],[-9.41069799632032,38.72619039798133],[-9.40739750377168,38.72643043380293],[-9.4068785904351,38.72469707573055],[-9.40668811784394,38.72473613534976],[-9.40780085870688,38.72235169064351],[-9.40707657430352,38.71815084110403],[-9.40562660726437,38.71534757149504]]],"type":"Polygon"}
+}

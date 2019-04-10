@@ -1,0 +1,111 @@
+{
+  "id": 85798871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":1267625.630642,
+    "geom:bbox":"-9.12689208984,38.7262332121,-9.11041259766,38.7401595657",
+    "geom:latitude":38.732371,
+    "geom:longitude":-9.118457,
+    "gn:latitude":38.73539,
+    "gn:longitude":-9.11761,
+    "iso:country":"PT",
+    "lbl:latitude":38.732138,
+    "lbl:longitude":-9.113901,
+    "mps:latitude":38.731964,
+    "mps:longitude":-9.119019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:pol_x_variant":[
+        "Bairro da Madre de Deus"
+    ],
+    "name:por_x_preferred":[
+        "Bairro da Madre de Deus"
+    ],
+    "name:unk_x_variant":[
+        "Bairro da Madre de Deus"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Bairro da Madre de Deus",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Bairro da Madre de Deus",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":181,
+    "qs:photo_sum":513,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271235,
+        "gp:id":736812,
+        "qs:id":898160,
+        "qs_pg:id":898160
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"35cd14248893ce402c20a7d22aa78bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798871,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798871,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497308123,
+    "wof:name":"Madre de Deus",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12689208984165,
+    38.7262332121402,
+    -9.11041259765727,
+    38.74015956572536
+],
+  "geometry": {"coordinates":[[[-9.11316641633695,38.7369552788593],[-9.11315922982325,38.73694606570008],[-9.11315917968992,38.73694606570008],[-9.11315917968824,38.73694600142537],[-9.11315917968903,38.73407695914713],[-9.11041259765727,38.732903299684],[-9.11041259765835,38.7326611205001],[-9.11041259765815,38.73051854435576],[-9.11315917968983,38.73051854212315],[-9.11315917968983,38.72837591208594],[-9.11590576171983,38.72837590883769],[-9.11590576171992,38.72623321267514],[-9.11865234374991,38.7262332121402],[-9.12139892577989,38.72623321458589],[-9.12139892577989,38.72766798900587],[-9.12277221679733,38.72825477033197],[-9.12414550780971,38.72766798900382],[-9.12469776712203,38.72837591391443],[-9.12689208984165,38.72837591106683],[-9.12689208984131,38.73051854212315],[-9.12469775667793,38.73051854399854],[-9.1241455078098,38.73122647239711],[-9.12414550553606,38.73266111068901],[-9.1241455078098,38.73694606123495],[-9.11865234374991,38.73694606570008],[-9.1186523405203,38.73908843272156],[-9.11781685070201,38.74015956572536],[-9.11674125476765,38.74015956572536],[-9.11590576479693,38.73908843548149],[-9.11451076092567,38.73729997167261],[-9.11316641633695,38.7369552788593]]],"type":"Polygon"}
+}

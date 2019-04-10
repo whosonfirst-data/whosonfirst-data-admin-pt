@@ -1,0 +1,121 @@
+{
+  "id": 101874831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.739682,40.620123,-8.739682,40.620123",
+    "geom:latitude":40.620123,
+    "geom:longitude":-8.739682,
+    "gn:population":4914,
+    "iso:country":"PT",
+    "lbl:latitude":40.620123,
+    "lbl:longitude":-8.739682,
+    "mps:latitude":40.620123,
+    "mps:longitude":-8.739682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:dut_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:eng_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:fre_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:ger_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0444\u0430\u043d\u044c\u044f-\u0434\u0430-\u042d\u043d\u043a\u0430\u0440\u043d\u0430\u0441\u0430\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:por_x_colloquial":[
+        "Gafanha da Encarnacao"
+    ],
+    "name:por_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0444\u0430\u043d\u044c\u044f-\u0434\u0430-\u042d\u043d\u043a\u0430\u0440\u043d\u0430\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "name:tur_x_preferred":[
+        "Gafanha da Encarna\u00e7\u00e3o"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Gafanha da Encarna\u00e7\u00e3o",
+    "qs:loc_alt":"Gafanha da Encarnacao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a305c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739153,
+        "gp:id":741649,
+        "qs:id":871713,
+        "qs_pg:id":871713,
+        "wd:id":"Q388117"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"009125136bd2674a316be6fc7e2d082a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874831,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101874831,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751813,
+    "wof:name":"Gafanha da Encarna\u00e7\u00e3o",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":4914,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.739682,
+    40.620123,
+    -8.739682,
+    40.620123
+],
+  "geometry": {"coordinates":[-8.739682,40.620123],"type":"Point"}
+}

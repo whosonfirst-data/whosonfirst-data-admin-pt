@@ -1,0 +1,63 @@
+{
+  "id": 1209628319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68816,40.50731,-8.68816,40.50731",
+    "geom:latitude":40.50731,
+    "geom:longitude":-8.68816,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0118",
+    "gn:admin3_code":"11810.0",
+    "gn:asciiname":"Vergas",
+    "gn:country_code":"PT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732790,
+    "gn:latitude":40.50731,
+    "gn:longitude":-8.68816,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vergas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732790
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ec702f81b7c32ecc147ad35172537c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209628319
+        }
+    ],
+    "wof:id":1209628319,
+    "wof:lastmodified":1536281277,
+    "wof:name":"Vergas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68816,
+    40.50731,
+    -8.68816,
+    40.50731
+],
+  "geometry": {"coordinates":[-8.68816,40.50731],"type":"Point"}
+}

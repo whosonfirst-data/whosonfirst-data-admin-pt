@@ -1,0 +1,70 @@
+{
+  "id": 1327402767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58247,40.86107,-7.58247,40.86107",
+    "geom:latitude":40.86107,
+    "geom:longitude":-7.58247,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1818",
+    "gn:admin3_code":"181814.0",
+    "gn:asciiname":"Quintela",
+    "gn:country_code":"PT",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735525,
+    "gn:latitude":40.86107,
+    "gn:longitude":-7.58247,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Quintela",
+    "gn:population":294,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735525
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"24613323595a16d205dbcf7140efd4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327402767,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1327402767,
+    "wof:lastmodified":1536724008,
+    "wof:name":"Quintela",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:population":294,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58247,
+    40.86107,
+    -7.58247,
+    40.86107
+],
+  "geometry": {"coordinates":[-7.58247,40.86107],"type":"Point"}
+}

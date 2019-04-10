@@ -1,0 +1,67 @@
+{
+  "id": 1310290585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41715,38.46382,-7.41715,38.46382",
+    "geom:latitude":38.46382,
+    "geom:longitude":-7.41715,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0711",
+    "gn:admin3_code":"71103.0",
+    "gn:asciiname":"Motrinos",
+    "gn:country_code":"PT",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265700,
+    "gn:latitude":38.46382,
+    "gn:longitude":-7.41715,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Motrinos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265700
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a1f498fa9c08cbf6c4269aba68125ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310290585,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1310290585,
+    "wof:lastmodified":1536729854,
+    "wof:name":"Motrinos",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41715,
+    38.46382,
+    -7.41715,
+    38.46382
+],
+  "geometry": {"coordinates":[-7.41715,38.46382],"type":"Point"}
+}

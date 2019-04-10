@@ -1,0 +1,67 @@
+{
+  "id": 1327392443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92475,40.61599,-7.92475,40.61599",
+    "geom:latitude":40.61599,
+    "geom:longitude":-7.92475,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1823",
+    "gn:admin3_code":"182327.0",
+    "gn:asciiname":"Teivas",
+    "gn:country_code":"PT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733646,
+    "gn:latitude":40.61599,
+    "gn:longitude":-7.92475,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Teivas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733646
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"be58b12e545ac128c18553fc585a441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327392443,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1327392443,
+    "wof:lastmodified":1536738506,
+    "wof:name":"Teivas",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92475,
+    40.61599,
+    -7.92475,
+    40.61599
+],
+  "geometry": {"coordinates":[-7.92475,40.61599],"type":"Point"}
+}

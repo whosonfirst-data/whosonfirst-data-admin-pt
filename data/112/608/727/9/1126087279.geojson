@@ -1,0 +1,73 @@
+{
+  "id": 1126087279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.02459,30.03462,-16.02459,30.03462",
+    "geom:latitude":30.03462,
+    "geom:longitude":-16.02459,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"PT",
+    "lbl:latitude":30.03462,
+    "lbl:longitude":-16.02459,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6930429,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Selvagem Pequena",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":652880,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930429,
+        "qs_pg:id":652880
+    },
+    "wof:country":"PT",
+    "wof:created":1497313009,
+    "wof:geomhash":"cd242486e762c7587ac1c0961d59732d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126087279,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126087279,
+    "wof:lastmodified":1509411462,
+    "wof:name":"Selvagem Pequena",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.02459,
+    30.03462,
+    -16.02459,
+    30.03462
+],
+  "geometry": {"coordinates":[-16.02459,30.03462],"type":"Point"}
+}

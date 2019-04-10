@@ -1,0 +1,67 @@
+{
+  "id": 1242682487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95001,41.25702,-6.95001,41.25702",
+    "geom:latitude":41.25702,
+    "geom:longitude":-6.95001,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0401",
+    "gn:admin3_code":"40105.0",
+    "gn:asciiname":"Picoes",
+    "gn:country_code":"PT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736270,
+    "gn:latitude":41.25702,
+    "gn:longitude":-6.95001,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pic\u00f5es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736270
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cbf8eea47118d9488fc2ec05e9d5eb6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242682487,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1242682487,
+    "wof:lastmodified":1536913113,
+    "wof:name":"Picoes",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95001,
+    41.25702,
+    -6.95001,
+    41.25702
+],
+  "geometry": {"coordinates":[-6.95001,41.25702],"type":"Point"}
+}

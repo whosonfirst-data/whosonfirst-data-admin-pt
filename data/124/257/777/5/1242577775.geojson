@@ -1,0 +1,67 @@
+{
+  "id": 1242577775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01831,41.39306,-8.01831,41.39306",
+    "geom:latitude":41.39306,
+    "geom:longitude":-8.01831,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0305",
+    "gn:admin3_code":"30512.0",
+    "gn:asciiname":"Gemeos",
+    "gn:country_code":"PT",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739038,
+    "gn:latitude":41.39306,
+    "gn:longitude":-8.01831,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"G\u00e9meos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739038
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ad622db89fa2b28b9c48a37c5153fcb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242577775,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1242577775,
+    "wof:lastmodified":1537060695,
+    "wof:name":"Gemeos",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01831,
+    41.39306,
+    -8.01831,
+    41.39306
+],
+  "geometry": {"coordinates":[-8.01831,41.39306],"type":"Point"}
+}

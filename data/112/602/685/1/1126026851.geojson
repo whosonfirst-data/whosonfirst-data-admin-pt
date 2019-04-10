@@ -1,0 +1,79 @@
+{
+  "id": 1126026851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63971,41.53846,-8.63971,41.53846",
+    "geom:latitude":41.53846,
+    "geom:longitude":-8.63971,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4018,
+    "gn:population":4018,
+    "iso:country":"PT",
+    "lbl:latitude":41.53846,
+    "lbl:longitude":-8.63971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "S\u00e3o Martinho"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2732626,
+    "qs_pg:gn_pop":4018,
+    "qs_pg:name":"Vila Frescainha",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":575790,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732626,
+        "qs_pg:id":575790
+    },
+    "wof:country":"PT",
+    "wof:created":1497301193,
+    "wof:geomhash":"2a6e5face5fd91e893bb8d6bd1e6886a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126026851,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1126026851,
+    "wof:lastmodified":1509407598,
+    "wof:name":"Vila Frescainha",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":4018,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63971,
+    41.53846,
+    -8.63971,
+    41.53846
+],
+  "geometry": {"coordinates":[-8.63971,41.53846],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 101779655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:bbox":"-8.18990088857,37.9383707191,-8.17830356662,37.9548307641",
+    "geom:latitude":37.947141,
+    "geom:longitude":-8.184156,
+    "iso:country":"PT",
+    "lbl:latitude":37.950641,
+    "lbl:longitude":-8.185693,
+    "mps:latitude":37.950641,
+    "mps:longitude":-8.185693,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "S Joao de Negrilhos",
+        "S. Joao de Negrilhos",
+        "Sao Joao de Negrilhos"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jo\u00e3o de Negrilhos"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o de Negrilhos",
+    "qs:la_lc":"*PT10201049",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Jo\u00e3o de Negrilhos",
+    "qs:loc_alt":"Sao Joao de Negrilhos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0265a28a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2263324,
+        "gp:id":748200,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2d5f0199c0e2c4961dd63a210da57586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779655,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779655,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625908,
+    "wof:name":"S\u00e3o Jo\u00e3o de Negrilhos",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18990088856975,
+    37.93837071913487,
+    -8.17830356661818,
+    37.9548307641067
+],
+  "geometry": {"coordinates":[[[-8.18570913570778,37.9548307641067],[-8.18522874816892,37.95307337034711],[-8.18412075857299,37.95328780360103],[-8.18219966511811,37.94625812512402],[-8.18109177463919,37.94647251970503],[-8.1803715489981,37.94383634858059],[-8.17926369194072,37.94405072063955],[-8.17830356661818,37.94053578573607],[-8.18273474877344,37.93967827214351],[-8.18249468686793,37.93879954648094],[-8.18471021576369,37.93837071913487],[-8.1849503039341,37.93924943833997],[-8.18384252934698,37.93946386165891],[-8.18408261317052,37.94034258215243],[-8.18297481946365,37.94055699586573],[-8.18465556030753,37.94670800759553],[-8.18576344595715,37.94649357127776],[-8.18624376298783,37.94825097927929],[-8.18735166892088,37.94803652366619],[-8.18783204738367,37.94979391744624],[-8.18893997359999,37.94957944253656],[-8.18990088856975,37.95309419388929],[-8.18879290980112,37.95330868172158],[-8.18903314738543,37.95418736793943],[-8.18570913570778,37.9548307641067]]],"type":"Polygon"}
+}

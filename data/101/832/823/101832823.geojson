@@ -1,0 +1,69 @@
+{
+  "id": 101832823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:bbox":"-9.18455408767,38.6624996946,-9.17098739778,38.6791521887",
+    "geom:latitude":38.668901,
+    "geom:longitude":-9.177359,
+    "iso:country":"PT",
+    "lbl:latitude":38.668766,
+    "lbl:longitude":-9.175766,
+    "mps:latitude":38.668766,
+    "mps:longitude":-9.175766,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Bairro do Matadouro",
+    "qs:loc_alt":"Bairro do Matadouro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":746457
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e795dd716c13e9513f26c7d6df122f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832823,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832823,
+    "wof:lastmodified":1477508565,
+    "wof:name":"Bairro do Matadouro",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18455408767289,
+    38.66249969457579,
+    -9.17098739777816,
+    38.67915218865016
+],
+  "geometry": {"coordinates":[[[-9.17098739777816,38.6642078907999],[-9.17316285293919,38.66373267464354],[-9.17372001580264,38.66562130554638],[-9.17707033702675,38.66494223091502],[-9.17649845544122,38.66300403071256],[-9.17880721670082,38.66249969457579],[-9.18350847714566,38.66447179260859],[-9.18455408767289,38.67083953504061],[-9.18360243813362,38.67103250843024],[-9.18282795530587,38.66840906436857],[-9.17947751254167,38.66908834602776],[-9.17973562401971,38.66996283979654],[-9.17861878340364,38.67018924463366],[-9.17965127110182,38.6736872133485],[-9.17741746373736,38.67414001196363],[-9.17767558278558,38.67501450601702],[-9.17655865599784,38.67524088940195],[-9.17733303021839,38.67786436982703],[-9.17621605693654,38.67809075067959],[-9.17647418736794,38.6789652435765],[-9.17555173704579,38.67915218865016],[-9.17098739777816,38.6642078907999]]],"type":"Polygon"}
+}

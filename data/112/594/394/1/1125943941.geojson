@@ -1,0 +1,106 @@
+{
+  "id": 1125943941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6199,41.23574,-8.6199,41.23574",
+    "geom:latitude":41.23574,
+    "geom:longitude":-8.6199,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":36426,
+    "gn:population":36426,
+    "iso:country":"PT",
+    "lbl:latitude":41.23574,
+    "lbl:longitude":-8.6199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Maia"
+    ],
+    "name:por_x_preferred":[
+        "Maia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Maia"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2738014,
+    "qs_pg:gn_pop":36426,
+    "qs_pg:name":"Maia",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":638,
+    "qs_pg:photos_1k":129,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":638,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":900982,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":743017,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738014,
+        "gp:id":743017,
+        "qs_pg:id":900982
+    },
+    "wof:country":"PT",
+    "wof:created":1497297211,
+    "wof:geomhash":"f79074d65a97cd7b013223d1d008d054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125943941,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125943941,
+    "wof:lastmodified":1534379445,
+    "wof:name":"Maia",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":36426,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101759279
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6199,
+    41.23574,
+    -8.6199,
+    41.23574
+],
+  "geometry": {"coordinates":[-8.6199,41.23574],"type":"Point"}
+}

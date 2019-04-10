@@ -1,0 +1,67 @@
+{
+  "id": 1343914397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55666,40.68695,-7.55666,40.68695",
+    "geom:latitude":40.68695,
+    "geom:longitude":-7.55666,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1811",
+    "gn:admin3_code":"181108.0",
+    "gn:asciiname":"Matela",
+    "gn:country_code":"PT",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737837,
+    "gn:latitude":40.68695,
+    "gn:longitude":-7.55666,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Matela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737837
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c5e455b4e7d2c71c2d3985f9c70640b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343914397,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1343914397,
+    "wof:lastmodified":1537083419,
+    "wof:name":"Matela",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55666,
+    40.68695,
+    -7.55666,
+    40.68695
+],
+  "geometry": {"coordinates":[-7.55666,40.68695],"type":"Point"}
+}

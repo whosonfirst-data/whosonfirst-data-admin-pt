@@ -1,0 +1,118 @@
+{
+  "id": 101776319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":309578.719169,
+    "geom:bbox":"-7.57635740583,41.6378569932,-7.56804108607,41.6452846122",
+    "geom:latitude":41.641349,
+    "geom:longitude":-7.572739,
+    "iso:country":"PT",
+    "lbl:latitude":41.641326,
+    "lbl:longitude":-7.572739,
+    "mps:latitude":41.641326,
+    "mps:longitude":-7.572739,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Vidago"
+    ],
+    "name:dut_x_preferred":[
+        "Vidago"
+    ],
+    "name:eng_x_preferred":[
+        "Vidago"
+    ],
+    "name:fre_x_preferred":[
+        "Vidago"
+    ],
+    "name:ger_x_preferred":[
+        "Vidago"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0434\u0430\u0433\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Vidago"
+    ],
+    "name:msa_x_preferred":[
+        "Vidago"
+    ],
+    "name:nld_x_preferred":[
+        "Vidago"
+    ],
+    "name:por_x_preferred":[
+        "Vidago"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0434\u0430\u0433\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Vidago"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Vila Real",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vidago",
+    "qs:la_lc":"*PT11703420",
+    "qs:level":"locality",
+    "qs:loc":"Vidago",
+    "qs:loc_alt":"Vidago",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":586,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"027484ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2732768,
+        "gp:id":750544,
+        "qs:id":1168234,
+        "qs_pg:id":1168234,
+        "wd:id":"Q194617",
+        "wk:page":"Vidago"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"270e8a788a34fed4d0936c802a64b87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776319,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":101776319,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688314,
+    "wof:name":"Vidago",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.57635740583004,
+    41.63785699319493,
+    -7.56804108606849,
+    41.64528461216071
+],
+  "geometry": {"coordinates":[[[-7.57426970571947,41.64528461216071],[-7.57375631713063,41.64353227074326],[-7.57141192070759,41.64395046881322],[-7.57115527228473,41.6430742885201],[-7.56998307905229,41.6432833635302],[-7.56946984298736,41.64153099072831],[-7.56829767371278,41.64174004508919],[-7.56804108606849,41.64086385258076],[-7.56921323986541,41.6406548016945],[-7.56895664668315,41.63977861090541],[-7.57130090233039,41.63936047498504],[-7.57104428813534,41.63848428939002],[-7.57456057269599,41.63785699319493],[-7.57635740583004,41.64399018250992],[-7.57518520964214,41.64419931926955],[-7.57544192438701,41.64507548562449],[-7.57426970571947,41.64528461216071]]],"type":"Polygon"}
+}

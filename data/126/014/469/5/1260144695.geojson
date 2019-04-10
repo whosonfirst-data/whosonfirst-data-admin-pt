@@ -1,0 +1,67 @@
+{
+  "id": 1260144695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7601,41.45237,-7.7601,41.45237",
+    "geom:latitude":41.45237,
+    "geom:longitude":-7.7601,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1709",
+    "gn:admin3_code":"170901.0",
+    "gn:asciiname":"Lamas",
+    "gn:country_code":"PT",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738477,
+    "gn:latitude":41.45237,
+    "gn:longitude":-7.7601,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lamas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738477
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d67c5a687bc54bbc09e2932d4757729a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260144695,
+            "region_id":85687423
+        }
+    ],
+    "wof:id":1260144695,
+    "wof:lastmodified":1536901267,
+    "wof:name":"Lamas",
+    "wof:parent_id":85687423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7601,
+    41.45237,
+    -7.7601,
+    41.45237
+],
+  "geometry": {"coordinates":[-7.7601,41.45237],"type":"Point"}
+}

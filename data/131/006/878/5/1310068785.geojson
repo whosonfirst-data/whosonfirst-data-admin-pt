@@ -1,0 +1,67 @@
+{
+  "id": 1310068785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57438,39.75547,-8.57438,39.75547",
+    "geom:latitude":39.75547,
+    "geom:longitude":-8.57438,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142114.0",
+    "gn:asciiname":"Pederneira",
+    "gn:country_code":"PT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265066,
+    "gn:latitude":39.75547,
+    "gn:longitude":-8.57438,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pederneira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265066
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"509e4e529dd36f7106b5c19e488bdc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310068785,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1310068785,
+    "wof:lastmodified":1537047600,
+    "wof:name":"Pederneira",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57438,
+    39.75547,
+    -8.57438,
+    39.75547
+],
+  "geometry": {"coordinates":[-8.57438,39.75547],"type":"Point"}
+}

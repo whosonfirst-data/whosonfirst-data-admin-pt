@@ -1,0 +1,63 @@
+{
+  "id": 1209615517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39484,41.61655,-8.39484,41.61655",
+    "geom:latitude":41.61655,
+    "geom:longitude":-8.39484,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0301",
+    "gn:admin3_code":"30102.0",
+    "gn:asciiname":"Carvalhal",
+    "gn:country_code":"PT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741327,
+    "gn:latitude":41.61655,
+    "gn:longitude":-8.39484,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carvalhal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741327
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4db2032dbd151b52459acda2ee6a2aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209615517
+        }
+    ],
+    "wof:id":1209615517,
+    "wof:lastmodified":1536281702,
+    "wof:name":"Carvalhal",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39484,
+    41.61655,
+    -8.39484,
+    41.61655
+],
+  "geometry": {"coordinates":[-8.39484,41.61655],"type":"Point"}
+}

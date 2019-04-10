@@ -1,0 +1,67 @@
+{
+  "id": 1209898409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64329,39.27289,-7.64329,39.27289",
+    "geom:latitude":39.27289,
+    "geom:longitude":-7.64329,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1206",
+    "gn:admin3_code":"120602.0",
+    "gn:asciiname":"Monte do Escanal",
+    "gn:country_code":"PT",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265997,
+    "gn:latitude":39.27289,
+    "gn:longitude":-7.64329,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte do Escanal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265997
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fee7342d5a0ac722b0c445b87c6d9ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209898409,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1209898409,
+    "wof:lastmodified":1536387554,
+    "wof:name":"Monte do Escanal",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64329,
+    39.27289,
+    -7.64329,
+    39.27289
+],
+  "geometry": {"coordinates":[-7.64329,39.27289],"type":"Point"}
+}

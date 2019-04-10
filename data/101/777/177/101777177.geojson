@@ -1,0 +1,102 @@
+{
+  "id": 101777177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":359632.22157,
+    "geom:bbox":"-7.67397468424,40.134815821,-7.66023369269,40.140290735",
+    "geom:latitude":40.137749,
+    "geom:longitude":-7.667017,
+    "iso:country":"PT",
+    "lbl:latitude":40.13839,
+    "lbl:longitude":-7.667018,
+    "mps:latitude":40.13839,
+    "mps:longitude":-7.667018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Silvares"
+    ],
+    "name:eng_x_preferred":[
+        "Silvares"
+    ],
+    "name:fre_x_preferred":[
+        "Silvares"
+    ],
+    "name:ger_x_preferred":[
+        "Silvares"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u043b\u0432\u0430\u0440\u0435\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Silvares"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0432\u0430\u0440\u0435\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Silvares"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Silvares",
+    "qs:la_lc":"*PT10504246",
+    "qs:level":"locality",
+    "qs:loc":"Silvares",
+    "qs:loc_alt":"Silvares",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026cf468-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733988,
+        "gp:id":748833,
+        "qs:id":1079638,
+        "wd:id":"Q1024310"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bb0a02aa3dc9f465f71df40f7158a322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777177,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777177,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498153,
+    "wof:name":"Silvares",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67397468424031,
+    40.13481582095551,
+    -7.6602336926934,
+    40.14029073499142
+],
+  "geometry": {"coordinates":[[[-7.66923980627212,40.14029073499142],[-7.66899218691833,40.13941316370841],[-7.66441165639696,40.14025093376085],[-7.66416410439581,40.13937334728587],[-7.66072868162172,40.14000152472465],[-7.6602336926934,40.13824632627336],[-7.661378811134,40.13803695382103],[-7.66113131621557,40.13715935522009],[-7.66342150457376,40.13674057698404],[-7.66366902848461,40.13761816889746],[-7.66710430567855,40.13698989146741],[-7.66660918024922,40.13523472589236],[-7.66889927451075,40.13481582095551],[-7.66914686153115,40.13569339796055],[-7.67372702988217,40.13485541464701],[-7.67397468424031,40.13573297645814],[-7.67168458410447,40.13615200148206],[-7.67217986294889,40.13790713304428],[-7.66988967878365,40.13832611809522],[-7.67038493711612,40.14008125578408],[-7.66923980627212,40.14029073499142]]],"type":"Polygon"}
+}

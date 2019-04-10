@@ -1,0 +1,67 @@
+{
+  "id": 1293791273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08411,37.60617,-8.08411,37.60617",
+    "geom:latitude":37.60617,
+    "geom:longitude":-8.08411,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0202",
+    "gn:admin3_code":"20203.0",
+    "gn:asciiname":"Rosario",
+    "gn:country_code":"PT",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263727,
+    "gn:latitude":37.60617,
+    "gn:longitude":-8.08411,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ros\u00e1rio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263727
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3d5d86d9e9d900cb44da9d47ab2c0bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293791273,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1293791273,
+    "wof:lastmodified":1536845045,
+    "wof:name":"Rosario",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08411,
+    37.60617,
+    -8.08411,
+    37.60617
+],
+  "geometry": {"coordinates":[-8.08411,37.60617],"type":"Point"}
+}

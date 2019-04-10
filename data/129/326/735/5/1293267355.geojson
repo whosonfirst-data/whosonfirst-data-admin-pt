@@ -1,0 +1,65 @@
+{
+  "id": 1293267355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45799,37.66449,-8.45799,37.66449",
+    "geom:latitude":37.66449,
+    "geom:longitude":-8.45799,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vale da Isca",
+    "gn:country_code":"PT",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262345,
+    "gn:latitude":37.66449,
+    "gn:longitude":-8.45799,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Vale da Isca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262345
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aed4e1eedf58a72c6286ffd29ff1ddb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293267355,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1293267355,
+    "wof:lastmodified":1536604407,
+    "wof:name":"Vale da Isca",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45799,
+    37.66449,
+    -8.45799,
+    37.66449
+],
+  "geometry": {"coordinates":[-8.45799,37.66449],"type":"Point"}
+}

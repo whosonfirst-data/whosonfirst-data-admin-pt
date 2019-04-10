@@ -1,0 +1,81 @@
+{
+  "id": 101848925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53315,37.152399,-8.53315,37.152399",
+    "geom:latitude":37.152399,
+    "geom:longitude":-8.53315,
+    "iso:country":"PT",
+    "lbl:latitude":37.152399,
+    "lbl:longitude":-8.53315,
+    "mps:latitude":37.152399,
+    "mps:longitude":-8.53315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Cardosas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cardosas",
+    "qs:loc_alt":"Cardosas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0273c75c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270171,
+        "gp:id":738236,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4dd3cf920df24fe773482cc3d7ee1195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101848925,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101848925,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544740699,
+    "wof:name":"Cardosas",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53315,
+    37.152399,
+    -8.53315,
+    37.152399
+],
+  "geometry": {"coordinates":[-8.53315,37.152399],"type":"Point"}
+}

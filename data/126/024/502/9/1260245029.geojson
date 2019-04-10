@@ -1,0 +1,67 @@
+{
+  "id": 1260245029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51323,39.74583,-8.51323,39.74583",
+    "geom:latitude":39.74583,
+    "geom:longitude":-8.51323,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142112.0",
+    "gn:asciiname":"Casal do Ribeiro",
+    "gn:country_code":"PT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269716,
+    "gn:latitude":39.74583,
+    "gn:longitude":-8.51323,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casal do Ribeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269716
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0f74a3c90c55db1412ce298e8ff4f185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260245029,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1260245029,
+    "wof:lastmodified":1536764447,
+    "wof:name":"Casal do Ribeiro",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51323,
+    39.74583,
+    -8.51323,
+    39.74583
+],
+  "geometry": {"coordinates":[-8.51323,39.74583],"type":"Point"}
+}

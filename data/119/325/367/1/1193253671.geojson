@@ -1,0 +1,67 @@
+{
+  "id": 1193253671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.13333,38.61667,-9.13333,38.61667",
+    "geom:latitude":38.61667,
+    "geom:longitude":-9.13333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1510",
+    "gn:admin3_code":"151002.0",
+    "gn:asciiname":"Monsoa",
+    "gn:country_code":"PT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266243,
+    "gn:latitude":38.61667,
+    "gn:longitude":-9.13333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monsoa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266243
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dd4c2215c31d809786770f71ada27dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193253671,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1193253671,
+    "wof:lastmodified":1536365870,
+    "wof:name":"Monsoa",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13333,
+    38.61667,
+    -9.13333,
+    38.61667
+],
+  "geometry": {"coordinates":[-9.13333,38.61667],"type":"Point"}
+}

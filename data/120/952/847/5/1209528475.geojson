@@ -1,0 +1,63 @@
+{
+  "id": 1209528475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37689,40.63608,-8.37689,40.63608",
+    "geom:latitude":40.63608,
+    "geom:longitude":-8.37689,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0101",
+    "gn:admin3_code":"10119.0",
+    "gn:asciiname":"Cadaveira",
+    "gn:country_code":"PT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741777,
+    "gn:latitude":40.63608,
+    "gn:longitude":-8.37689,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cadaveira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741777
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"88498d0d084aa54b2f8ba966589a3dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209528475
+        }
+    ],
+    "wof:id":1209528475,
+    "wof:lastmodified":1536284358,
+    "wof:name":"Cadaveira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37689,
+    40.63608,
+    -8.37689,
+    40.63608
+],
+  "geometry": {"coordinates":[-8.37689,40.63608],"type":"Point"}
+}

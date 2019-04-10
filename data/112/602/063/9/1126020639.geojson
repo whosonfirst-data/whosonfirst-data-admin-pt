@@ -1,0 +1,110 @@
+{
+  "id": 1126020639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.5623,40.50034,-8.5623,40.50034",
+    "geom:latitude":40.50034,
+    "geom:longitude":-8.5623,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.50034,
+    "lbl:longitude":-8.5623,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "Troviscal"
+    ],
+    "name:dut_x_preferred":[
+        "Troviscal"
+    ],
+    "name:eng_x_preferred":[
+        "Troviscal"
+    ],
+    "name:fre_x_preferred":[
+        "Troviscal"
+    ],
+    "name:ger_x_preferred":[
+        "Troviscal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u043e\u0432\u0438\u0448\u043a\u0430\u043b"
+    ],
+    "name:por_x_preferred":[
+        "Troviscal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u043e\u0432\u0438\u0448\u043a\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Troviscal"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2733340,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Troviscal",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Aveiro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":885174,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":749647,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Aveiro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733340,
+        "gp:id":749647,
+        "qs_pg:id":885174,
+        "wd:id":"Q2260054"
+    },
+    "wof:country":"PT",
+    "wof:created":1497300809,
+    "wof:geomhash":"8d499ac686a1deaa84c21629d5a86836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126020639,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1126020639,
+    "wof:lastmodified":1514498170,
+    "wof:name":"Troviscal",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.5623,
+    40.50034,
+    -8.5623,
+    40.50034
+],
+  "geometry": {"coordinates":[-8.5623,40.50034],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209894359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32348,40.95699,-7.32348,40.95699",
+    "geom:latitude":40.95699,
+    "geom:longitude":-7.32348,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0909",
+    "gn:admin3_code":"90913.0",
+    "gn:asciiname":"Sapateira",
+    "gn:country_code":"PT",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734288,
+    "gn:latitude":40.95699,
+    "gn:longitude":-7.32348,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sapateira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734288
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3a191d68979e50c4fd39c95a0d05480c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209894359,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1209894359,
+    "wof:lastmodified":1536389299,
+    "wof:name":"Sapateira",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32348,
+    40.95699000000001,
+    -7.32348,
+    40.95699000000001
+],
+  "geometry": {"coordinates":[-7.32348,40.95699000000001],"type":"Point"}
+}

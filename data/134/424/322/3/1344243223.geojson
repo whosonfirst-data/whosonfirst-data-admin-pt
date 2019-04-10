@@ -1,0 +1,67 @@
+{
+  "id": 1344243223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7749,39.70656,-8.7749,39.70656",
+    "geom:latitude":39.70656,
+    "geom:longitude":-8.7749,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1009",
+    "gn:admin3_code":"100911.0",
+    "gn:asciiname":"Famalicao",
+    "gn:country_code":"PT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268359,
+    "gn:latitude":39.70656,
+    "gn:longitude":-8.7749,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Famalic\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268359
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"aa1a819d01a5c5979331860b8cb3ecf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344243223,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1344243223,
+    "wof:lastmodified":1536609179,
+    "wof:name":"Famalicao",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7749,
+    39.70656,
+    -8.7749,
+    39.70656
+],
+  "geometry": {"coordinates":[-8.7749,39.70656],"type":"Point"}
+}

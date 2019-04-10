@@ -1,0 +1,67 @@
+{
+  "id": 1226117645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67669,37.79505,-8.67669,37.79505",
+    "geom:latitude":37.79505,
+    "geom:longitude":-8.67669,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1509",
+    "gn:admin3_code":"150903.0",
+    "gn:asciiname":"Chaparral",
+    "gn:country_code":"PT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8260707,
+    "gn:latitude":37.79505,
+    "gn:longitude":-8.67669,
+    "gn:modification_date":"2012-04-29",
+    "gn:name":"Chaparral",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8260707
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"79498ffb5ca9ad9f168a6dd2a8d0f6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226117645,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1226117645,
+    "wof:lastmodified":1536619271,
+    "wof:name":"Chaparral",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67669,
+    37.79505,
+    -8.67669,
+    37.79505
+],
+  "geometry": {"coordinates":[-8.67669,37.79505],"type":"Point"}
+}

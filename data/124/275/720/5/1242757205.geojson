@@ -1,0 +1,67 @@
+{
+  "id": 1242757205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36,39.83408,-8.36,39.83408",
+    "geom:latitude":39.83408,
+    "geom:longitude":-8.36,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1002",
+    "gn:admin3_code":"100202.0",
+    "gn:asciiname":"Pombaria",
+    "gn:country_code":"PT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264572,
+    "gn:latitude":39.83408,
+    "gn:longitude":-8.36,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pombaria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264572
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"b0e9b246a449199071a84fae0efb2b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242757205,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1242757205,
+    "wof:lastmodified":1536804876,
+    "wof:name":"Pombaria",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36,
+    39.83408,
+    -8.36,
+    39.83408
+],
+  "geometry": {"coordinates":[-8.36,39.83408],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226116905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85195,41.77677,-8.85195,41.77677",
+    "geom:latitude":41.77677,
+    "geom:longitude":-8.85195,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1609",
+    "gn:admin3_code":"160901.0",
+    "gn:asciiname":"Gamosa",
+    "gn:country_code":"PT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739103,
+    "gn:latitude":41.77677,
+    "gn:longitude":-8.85195,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Gamosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739103
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a847e47ad159a45f68ad60cc1273f813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226116905,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1226116905,
+    "wof:lastmodified":1536620398,
+    "wof:name":"Gamosa",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85195,
+    41.77677,
+    -8.85195,
+    41.77677
+],
+  "geometry": {"coordinates":[-8.85195,41.77677],"type":"Point"}
+}

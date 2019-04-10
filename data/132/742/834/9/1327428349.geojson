@@ -1,0 +1,65 @@
+{
+  "id": 1327428349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38333,40.35,-8.38333,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":-8.38333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ourentela",
+    "gn:country_code":"PT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736990,
+    "gn:latitude":40.35,
+    "gn:longitude":-8.38333,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Ourentela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736990
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8d2c2700c4145a4609ef8943d711bb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327428349,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1327428349,
+    "wof:lastmodified":1536686704,
+    "wof:name":"Ourentela",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38333,
+    40.35,
+    -8.38333,
+    40.35
+],
+  "geometry": {"coordinates":[-8.38333,40.35],"type":"Point"}
+}

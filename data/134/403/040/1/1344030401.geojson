@@ -1,0 +1,67 @@
+{
+  "id": 1344030401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2861,39.15084,-8.2861,39.15084",
+    "geom:latitude":39.15084,
+    "geom:longitude":-8.2861,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1213",
+    "gn:admin3_code":"121304.0",
+    "gn:asciiname":"Arrao de Cima",
+    "gn:country_code":"PT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271480,
+    "gn:latitude":39.15084,
+    "gn:longitude":-8.2861,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Arr\u00e3o de Cima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271480
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"982aa01fdd88ebf72b0b4bea78f9ce60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344030401,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1344030401,
+    "wof:lastmodified":1536919715,
+    "wof:name":"Arrao de Cima",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2861,
+    39.15084,
+    -8.2861,
+    39.15084
+],
+  "geometry": {"coordinates":[-8.2861,39.15084],"type":"Point"}
+}

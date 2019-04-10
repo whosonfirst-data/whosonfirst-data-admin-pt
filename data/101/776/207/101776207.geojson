@@ -1,0 +1,69 @@
+{
+  "id": 101776207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:bbox":"-8.47338633984,40.8142085746,-8.45662896355,40.8262308832",
+    "geom:latitude":40.818843,
+    "geom:longitude":-8.464721,
+    "iso:country":"PT",
+    "lbl:latitude":40.819071,
+    "lbl:longitude":-8.464721,
+    "mps:latitude":40.819071,
+    "mps:longitude":-8.464721,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Palmaz",
+    "qs:la_lc":"*PT10113115",
+    "qs:level":"locality",
+    "qs:loc":"Cruzeiro",
+    "qs:loc_alt":"Cruzeiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":742976,
+        "qs:id":6
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"39950666b5630eab5cd28310fea2480e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776207,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101776207,
+    "wof:lastmodified":1477508541,
+    "wof:name":"Cruzeiro",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47338633983895,
+    40.81420857458858,
+    -8.45662896355304,
+    40.82623088324169
+],
+  "geometry": {"coordinates":[[[-8.46351878559847,40.82623088324169],[-8.46167418033775,40.82011134088668],[-8.45936433167981,40.82054956364254],[-8.45831061038928,40.81705261252438],[-8.45715573448285,40.81727168952324],[-8.45662896355304,40.81552319558477],[-8.46355793684978,40.81420857458858],[-8.4640848846152,40.81595702588606],[-8.46870417761011,40.81508031460987],[-8.46949485140237,40.81770293480287],[-8.47064970129827,40.81748371271317],[-8.47170413260784,40.8209804990924],[-8.47285903442253,40.82076124933695],[-8.47338633983895,40.82250962413212],[-8.4710764702341,40.82294812442422],[-8.47054922376725,40.82119973540466],[-8.46361962319594,40.8225148709646],[-8.46467380257582,40.82601172681552],[-8.46351878559847,40.82623088324169]]],"type":"Polygon"}
+}

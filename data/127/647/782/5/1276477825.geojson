@@ -1,0 +1,67 @@
+{
+  "id": 1276477825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96603,41.4933,-7.96603,41.4933",
+    "geom:latitude":41.4933,
+    "geom:longitude":-7.96603,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0304",
+    "gn:admin3_code":"30413.0",
+    "gn:asciiname":"Muro",
+    "gn:country_code":"PT",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737246,
+    "gn:latitude":41.4933,
+    "gn:longitude":-7.96603,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Muro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737246
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7d15ff297d133f28e08c768ecae2c68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276477825,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1276477825,
+    "wof:lastmodified":1537079237,
+    "wof:name":"Muro",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96603,
+    41.4933,
+    -7.96603,
+    41.4933
+],
+  "geometry": {"coordinates":[-7.96603,41.4933],"type":"Point"}
+}

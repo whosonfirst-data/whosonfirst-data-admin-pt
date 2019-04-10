@@ -1,0 +1,63 @@
+{
+  "id": 1209098827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19996,39.87147,-7.19996,39.87147",
+    "geom:latitude":39.87147,
+    "geom:longitude":-7.19996,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0505",
+    "gn:admin3_code":"50503.0",
+    "gn:asciiname":"Vale Joao Domingos",
+    "gn:country_code":"PT",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261953,
+    "gn:latitude":39.87147,
+    "gn:longitude":-7.19996,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale Jo\u00e3o Domingos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261953
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e50918270b380b0297c3e65bb5157883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209098827
+        }
+    ],
+    "wof:id":1209098827,
+    "wof:lastmodified":1536297800,
+    "wof:name":"Vale Joao Domingos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.199960000000001,
+    39.87147,
+    -7.199960000000001,
+    39.87147
+],
+  "geometry": {"coordinates":[-7.19996,39.87147],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209481499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58366,39.53603,-8.58366,39.53603",
+    "geom:latitude":39.53603,
+    "geom:longitude":-8.58366,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1419",
+    "gn:admin3_code":"141909.0",
+    "gn:asciiname":"Alqueidao",
+    "gn:country_code":"PT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271867,
+    "gn:latitude":39.53603,
+    "gn:longitude":-8.58366,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alqueid\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271867
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d1ed79b2df495e2ff636f97666a6280a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209481499
+        }
+    ],
+    "wof:id":1209481499,
+    "wof:lastmodified":1536285768,
+    "wof:name":"Alqueidao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58366,
+    39.53603,
+    -8.58366,
+    39.53603
+],
+  "geometry": {"coordinates":[-8.58366,39.53603],"type":"Point"}
+}

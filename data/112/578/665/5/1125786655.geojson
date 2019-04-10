@@ -1,0 +1,80 @@
+{
+  "id": 1125786655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.854465,37.34082,-8.854465,37.34082",
+    "geom:latitude":37.34082,
+    "geom:longitude":-8.854465,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":37.34082,
+    "lbl:longitude":-8.854465,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Praia Monte Cl\u00e9rigo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Faro",
+    "qs_pg:photos":295,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":295,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":469496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29387346,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Faro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387346,
+        "qs_pg:id":469496
+    },
+    "wof:country":"PT",
+    "wof:created":1497290708,
+    "wof:geomhash":"868edfd86d46d696b2be79f6e4168379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125786655,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1125786655,
+    "wof:lastmodified":1509392018,
+    "wof:name":"Praia Monte Cl\u00e9rigo",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.854465,
+    37.34082,
+    -8.854465,
+    37.34082
+],
+  "geometry": {"coordinates":[-8.854465,37.34082],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125381679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.98355,32.6643,-16.98355,32.6643",
+    "geom:latitude":32.6643,
+    "geom:longitude":-16.98355,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":32.6643,
+    "lbl:longitude":-16.98355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014666,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"C\u00e2mara de Lobos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381215,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014666,
+        "qs_pg:id":381215
+    },
+    "wof:country":"PT",
+    "wof:created":1497048084,
+    "wof:geomhash":"a8bb7d747492547bf56fd5b1705a57ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125381679,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125381679,
+    "wof:lastmodified":1509389591,
+    "wof:name":"C\u00e2mara de Lobos",
+    "wof:parent_id":85687345,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.98355,
+    32.6643,
+    -16.98355,
+    32.6643
+],
+  "geometry": {"coordinates":[-16.98355,32.6643],"type":"Point"}
+}

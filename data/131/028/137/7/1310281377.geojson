@@ -1,0 +1,67 @@
+{
+  "id": 1310281377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.34244,39.32219,-9.34244,39.32219",
+    "geom:latitude":39.32219,
+    "geom:longitude":-9.34244,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1014",
+    "gn:admin3_code":"101402.0",
+    "gn:asciiname":"Estrada",
+    "gn:country_code":"PT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268430,
+    "gn:latitude":39.32219,
+    "gn:longitude":-9.34244,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Estrada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268430
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"56fd4c944fd4a9bcd2e77bd4013ec6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310281377,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1310281377,
+    "wof:lastmodified":1536742512,
+    "wof:name":"Estrada",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34244,
+    39.32219,
+    -9.34244,
+    39.32219
+],
+  "geometry": {"coordinates":[-9.34244,39.32219],"type":"Point"}
+}

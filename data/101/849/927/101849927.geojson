@@ -1,0 +1,116 @@
+{
+  "id": 101849927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.725621,39.05447,-8.725621,39.05447",
+    "geom:latitude":39.05447,
+    "geom:longitude":-8.725621,
+    "gn:population":5788,
+    "iso:country":"PT",
+    "lbl:latitude":39.05447,
+    "lbl:longitude":-8.725621,
+    "mps:latitude":39.05447,
+    "mps:longitude":-8.725621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Marinhais"
+    ],
+    "name:eng_x_preferred":[
+        "Marinhais"
+    ],
+    "name:fre_x_preferred":[
+        "Marinhais"
+    ],
+    "name:ger_x_preferred":[
+        "Marinhais"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u044c\u044f\u0439\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Marinhais"
+    ],
+    "name:por_x_preferred":[
+        "Marinhais"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u044c\u044f\u0439\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Marinhais"
+    ],
+    "name:tur_x_preferred":[
+        "Marinhais"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Marinhais",
+    "qs:loc_alt":"Marinhais",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f8ef8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266702,
+        "gp:id":743173,
+        "qs:id":1320157,
+        "qs_pg:id":1320157,
+        "wd:id":"Q1898548",
+        "wk:page":"Marinhais"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"276a2042cfdc43f094f39c9aa187bb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849927,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101849927,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741183,
+    "wof:name":"Marinhais",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":5788,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.725621,
+    39.05447,
+    -8.725621,
+    39.05447
+],
+  "geometry": {"coordinates":[-8.725621,39.05447],"type":"Point"}
+}

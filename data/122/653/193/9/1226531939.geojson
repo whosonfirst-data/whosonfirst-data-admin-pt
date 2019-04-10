@@ -1,0 +1,67 @@
+{
+  "id": 1226531939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85125,37.12435,-7.85125,37.12435",
+    "geom:latitude":37.12435,
+    "geom:longitude":-7.85125,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0805",
+    "gn:admin3_code":"80502.0",
+    "gn:asciiname":"Cerro de Manuel Viegas",
+    "gn:country_code":"PT",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269378,
+    "gn:latitude":37.12435,
+    "gn:longitude":-7.85125,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerro de Manuel Viegas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269378
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f062db9b42f85f4207b1ef650ea93699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226531939,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1226531939,
+    "wof:lastmodified":1537017244,
+    "wof:name":"Cerro de Manuel Viegas",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85125,
+    37.12435,
+    -7.85125,
+    37.12435
+],
+  "geometry": {"coordinates":[-7.85125,37.12435],"type":"Point"}
+}

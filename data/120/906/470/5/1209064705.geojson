@@ -1,0 +1,63 @@
+{
+  "id": 1209064705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.03333,39.08333,-28.03333,39.08333",
+    "geom:latitude":39.08333,
+    "geom:longitude":-28.03333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4401",
+    "gn:admin3_code":"440104.0",
+    "gn:asciiname":"Achada",
+    "gn:country_code":"PT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373390,
+    "gn:latitude":39.08333,
+    "gn:longitude":-28.03333,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Achada",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373390
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6470c42a9035802db4cd6ea382ff5405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209064705
+        }
+    ],
+    "wof:id":1209064705,
+    "wof:lastmodified":1536298842,
+    "wof:name":"Achada",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.03333,
+    39.08333,
+    -28.03333,
+    39.08333
+],
+  "geometry": {"coordinates":[-28.03333,39.08333],"type":"Point"}
+}

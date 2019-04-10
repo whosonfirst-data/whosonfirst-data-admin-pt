@@ -1,0 +1,80 @@
+{
+  "id": 1125864075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.377075,41.554581,-8.377075,41.554581",
+    "geom:latitude":41.554581,
+    "geom:longitude":-8.377075,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.554581,
+    "lbl:longitude":-8.377075,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bom Jesus",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos":1412,
+    "qs_pg:photos_1k":286,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1412,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321003,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29381307,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381307,
+        "qs_pg:id":1321003
+    },
+    "wof:country":"PT",
+    "wof:created":1497293956,
+    "wof:geomhash":"08f964f430146f6bd7eaa359ba7bd67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125864075,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1125864075,
+    "wof:lastmodified":1509396847,
+    "wof:name":"Bom Jesus",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.377075,
+    41.554581,
+    -8.377075,
+    41.554581
+],
+  "geometry": {"coordinates":[-8.377075,41.554581],"type":"Point"}
+}

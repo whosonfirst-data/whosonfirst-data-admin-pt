@@ -1,0 +1,89 @@
+{
+  "id": 1126024709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87464,40.09105,-8.87464,40.09105",
+    "geom:latitude":40.09105,
+    "geom:longitude":-8.87464,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.09105,
+    "lbl:longitude":-8.87464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Palheiros de Lavos"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2740441,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Costa de Lavos",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Coimbra",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":889183,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":739968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Coimbra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740441,
+        "gp:id":739968,
+        "qs_pg:id":889183
+    },
+    "wof:country":"PT",
+    "wof:created":1497301063,
+    "wof:geomhash":"527367b9b2244c8431007741cc2d4237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126024709,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1126024709,
+    "wof:lastmodified":1509407465,
+    "wof:name":"Costa de Lavos",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87464,
+    40.09105,
+    -8.87464,
+    40.09105
+],
+  "geometry": {"coordinates":[-8.87464,40.09105],"type":"Point"}
+}

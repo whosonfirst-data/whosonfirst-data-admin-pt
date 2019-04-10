@@ -1,0 +1,63 @@
+{
+  "id": 1209185611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03095,39.52077,-9.03095,39.52077",
+    "geom:latitude":39.52077,
+    "geom:longitude":-9.03095,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"100106.0",
+    "gn:asciiname":"Murteira",
+    "gn:country_code":"PT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265611,
+    "gn:latitude":39.52077,
+    "gn:longitude":-9.03095,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Murteira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265611
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"82f092b0f26f71992d1fd6716208836b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209185611
+        }
+    ],
+    "wof:id":1209185611,
+    "wof:lastmodified":1536295111,
+    "wof:name":"Murteira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03095,
+    39.52077,
+    -9.03095,
+    39.52077
+],
+  "geometry": {"coordinates":[-9.03095,39.52077],"type":"Point"}
+}

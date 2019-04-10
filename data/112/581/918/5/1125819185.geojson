@@ -1,0 +1,80 @@
+{
+  "id": 1125819185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.9636615,38.4850295,-8.9636615,38.4850295",
+    "geom:latitude":38.48503,
+    "geom:longitude":-8.963662,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.48503,
+    "lbl:longitude":-8.963662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rasca",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Set\u00fabal",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":124299,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29387330,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Set\u00fabal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387330,
+        "qs_pg:id":124299
+    },
+    "wof:country":"PT",
+    "wof:created":1497291975,
+    "wof:geomhash":"586f11da6ef1a349912827a002e17b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125819185,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1125819185,
+    "wof:lastmodified":1509393985,
+    "wof:name":"Rasca",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.9636615,
+    38.4850295,
+    -8.9636615,
+    38.4850295
+],
+  "geometry": {"coordinates":[-8.9636615,38.4850295],"type":"Point"}
+}

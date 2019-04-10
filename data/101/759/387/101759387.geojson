@@ -1,0 +1,106 @@
+{
+  "id": 101759387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:bbox":"-8.65215878148,41.0333557707,-8.64251836005,41.0456289174",
+    "geom:latitude":41.039827,
+    "geom:longitude":-8.647323,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.039502,
+    "lbl:longitude":-8.64652,
+    "mps:latitude":41.039502,
+    "mps:longitude":-8.64652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Praia da Granja"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Praia da Granja",
+    "qs:loc_alt":"Praia da Granja",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2735733,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Praia da Granja",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":107,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":107,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":978995,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":746463,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":295,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269414c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2735733,
+        "gp:id":746463,
+        "qs:id":978995,
+        "qs_pg:id":978995,
+        "wd:id":"Q7237768"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d4a82f025dec89a3ea8b1d3a984cc574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759387,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759387,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379444,
+    "wof:name":"Praia da Granja",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125766617
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65215878147848,
+    41.03335577074057,
+    -8.64251836005116,
+    41.04562891744825
+],
+  "geometry": {"coordinates":[[[-8.64251836005116,41.03895189670072],[-8.64312224026247,41.03856943923341],[-8.64558048221318,41.03374400133032],[-8.64761134458018,41.03335577074057],[-8.64975303246746,41.0403426283774],[-8.65091133946481,41.04012117169651],[-8.65215878147848,41.044188997557],[-8.64769502981562,41.04562891744825],[-8.64681350376213,41.04275363465484],[-8.64565513842365,41.04297504462716],[-8.64538743049468,41.04210168340012],[-8.64422907282392,41.04232307627944],[-8.64315840276407,41.03882959799375],[-8.64251836005116,41.03895189670072]]],"type":"Polygon"}
+}

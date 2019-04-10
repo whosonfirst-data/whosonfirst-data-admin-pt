@@ -1,0 +1,63 @@
+{
+  "id": 1209589545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.36582,41.40607,-7.36582,41.40607",
+    "geom:latitude":41.40607,
+    "geom:longitude":-7.36582,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"1707",
+    "gn:admin3_code":"170707.0",
+    "gn:asciiname":"Varges",
+    "gn:country_code":"PT",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732935,
+    "gn:latitude":41.40607,
+    "gn:longitude":-7.36582,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Varges",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732935
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"55261d9390ce8253b91e7897262294fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209589545
+        }
+    ],
+    "wof:id":1209589545,
+    "wof:lastmodified":1536282524,
+    "wof:name":"Varges",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3658199999999985,
+    41.40607,
+    -7.3658199999999985,
+    41.40607
+],
+  "geometry": {"coordinates":[-7.36582,41.40607],"type":"Point"}
+}

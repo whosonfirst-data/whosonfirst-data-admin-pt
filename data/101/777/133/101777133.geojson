@@ -1,0 +1,129 @@
+{
+  "id": 101777133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:bbox":"-9.22349184773,39.428737804,-9.2031671602,39.4403546319",
+    "geom:latitude":39.434715,
+    "geom:longitude":-9.214497,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.436081,
+    "lbl:longitude":-9.217547,
+    "mps:latitude":39.436081,
+    "mps:longitude":-9.217547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "name:fin_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "name:fra_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u043e\u0448-\u0434\u0443-\u0410\u0440\u0435\u043b\u044c\u044e"
+    ],
+    "name:nld_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "name:por_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0448-\u0434\u0443-\u0410\u0440\u0435\u043b\u044c\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Foz do Arelho"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Foz do Arelho",
+    "qs:la_lc":"*PT11006061",
+    "qs:level":"locality",
+    "qs:loc":"Foz do Arelho",
+    "qs:loc_alt":"Foz do Arelho",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2267937,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Foz do Arelho",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":451,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":451,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1166758,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741436,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":578,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02720700-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267937,
+        "gp:id":741436,
+        "loc:id":"n97089942",
+        "qs:id":1166758,
+        "qs_pg:id":1166758,
+        "wd:id":"Q429713",
+        "wk:page":"Foz do Arelho"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"74554ffe807bcd6be1b0ad6f81193185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777133,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777133,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379447,
+    "wof:name":"Foz do Arelho",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125812677
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22349184772656,
+    39.4287378039503,
+    -9.20316716020352,
+    39.44035463185918
+],
+  "geometry": {"coordinates":[[[-9.21935742845045,39.44035463185918],[-9.21909336099446,39.43948126779543],[-9.21796410500707,39.43970853293757],[-9.2177000611224,39.43883516332363],[-9.21205374803151,39.43997127504053],[-9.21178978268085,39.43909788569209],[-9.21066051343564,39.4393250652368],[-9.210132639699,39.43757827344024],[-9.2090033911486,39.43780543281014],[-9.20847558419837,39.43605862591278],[-9.20621712169992,39.43651289122067],[-9.20568940901069,39.43476606213483],[-9.20343097433243,39.43522026092967],[-9.20316716020352,39.43434683629539],[-9.20429636719462,39.43411974698375],[-9.2040325491468,39.43324632389113],[-9.20629091529418,39.43279211310482],[-9.20576325370615,39.4310452750882],[-9.20689239912519,39.43081815715806],[-9.20742008819047,39.43256498808665],[-9.21080756616618,39.43188353453331],[-9.21054367550857,39.43101013070373],[-9.21167280752445,39.43078295689827],[-9.21140891295346,39.42990955461016],[-9.21479622707608,39.42922796533412],[-9.21506016285508,39.43010135698717],[-9.22183469026209,39.4287378039503],[-9.22209871827528,39.42961117232437],[-9.22322779615126,39.42938386415278],[-9.22349184772656,39.4302572269761],[-9.21897544055207,39.4311663953581],[-9.22082369221761,39.43727997830888],[-9.22195290035194,39.43705268100967],[-9.22274519688131,39.4396727472876],[-9.21935742845045,39.44035463185918]],[[-9.21525080879962,39.43469551598014],[-9.21445892476066,39.4320753544261],[-9.2099423003707,39.43298410417214],[-9.21073401954914,39.43560430826938],[-9.21525080879962,39.43469551598014]]],"type":"Polygon"}
+}

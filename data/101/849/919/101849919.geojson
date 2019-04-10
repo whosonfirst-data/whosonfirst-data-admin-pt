@@ -1,0 +1,76 @@
+{
+  "id": 101849919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.542293,39.155315,-8.542293,39.155315",
+    "geom:latitude":39.155315,
+    "geom:longitude":-8.542293,
+    "iso:country":"PT",
+    "lbl:latitude":39.155315,
+    "lbl:longitude":-8.542293,
+    "mps:latitude":39.155315,
+    "mps:longitude":-8.542293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pa\u00e7o dos Negros",
+    "qs:loc_alt":"Paco dos Negros",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272377,
+        "gp:id":29384387,
+        "qs:id":4,
+        "qs_pg:id":1187354
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4b29ff0fab674e6504cb59061b0db32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849919,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101849919,
+    "wof:lastmodified":1544741178,
+    "wof:name":"Pa\u00e7o dos Negros",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.542293,
+    39.155315,
+    -8.542293,
+    39.155315
+],
+  "geometry": {"coordinates":[-8.542293,39.155315],"type":"Point"}
+}

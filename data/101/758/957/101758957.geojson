@@ -1,0 +1,69 @@
+{
+  "id": 101758957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"-9.34252075994,38.7166723742,-9.33248350705,38.7241647608",
+    "geom:latitude":38.720594,
+    "geom:longitude":-9.337638,
+    "iso:country":"PT",
+    "lbl:latitude":38.720459,
+    "lbl:longitude":-9.337715,
+    "mps:latitude":38.720459,
+    "mps:longitude":-9.337715,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Mato Cheirinhos",
+    "qs:loc_alt":"Mato Cheirinhos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042201,
+        "qs:id":2
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"258c76813233f0096f1054578de59fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758957,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758957,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Mato Cheirinhos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34252075993692,
+    38.71667237417984,
+    -9.33248350704957,
+    38.72416476083777
+],
+  "geometry": {"coordinates":[[[-9.33248350704957,38.72111562345253],[-9.33393885402876,38.72073596771867],[-9.3356209034834,38.71860105879557],[-9.33804731316133,38.71667237417984],[-9.34047296921784,38.71827758774651],[-9.34252075993692,38.71943127265877],[-9.34027888658841,38.72248271138301],[-9.33613845716172,38.72416476083777],[-9.33484457296584,38.72332373611039],[-9.33251558141336,38.72138290981661],[-9.33248350704957,38.72111562345253]]],"type":"Polygon"}
+}

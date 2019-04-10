@@ -1,0 +1,69 @@
+{
+  "id": 101758971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:bbox":"-9.45180091977,38.7068248437,-9.44497600402,38.7128907256",
+    "geom:latitude":38.710181,
+    "geom:longitude":-9.448484,
+    "iso:country":"PT",
+    "lbl:latitude":38.710282,
+    "lbl:longitude":-9.448549,
+    "mps:latitude":38.710282,
+    "mps:longitude":-9.448549,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Quinta da Bicuda",
+    "qs:loc_alt":"Quinta da Bicuda",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":739040,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e841156a798101f0d9757159e5ddb46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758971,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758971,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Quinta da Bicuda",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45180091976908,
+    38.70682484374663,
+    -9.44497600402383,
+    38.71289072562467
+],
+  "geometry": {"coordinates":[[[-9.44562636301339,38.71210548451199],[-9.44578069327468,38.71207376897939],[-9.44497600402383,38.70939022053972],[-9.4463780567404,38.70872609030556],[-9.44963733655544,38.70682484374663],[-9.45140406229314,38.70813564026167],[-9.45057865333604,38.70830535329696],[-9.45136468532576,38.71092591340539],[-9.45180091976908,38.71083621795435],[-9.45135751201343,38.71216644122137],[-9.44764555444624,38.71289072562467],[-9.44562636301339,38.71210548451199]]],"type":"Polygon"}
+}

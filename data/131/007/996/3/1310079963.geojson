@@ -1,0 +1,67 @@
+{
+  "id": 1310079963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67431,41.68221,-8.67431,41.68221",
+    "geom:latitude":41.68221,
+    "geom:longitude":-8.67431,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1609",
+    "gn:admin3_code":"160929.0",
+    "gn:asciiname":"Agros",
+    "gn:country_code":"PT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743331,
+    "gn:latitude":41.68221,
+    "gn:longitude":-8.67431,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Agros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743331
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a1fc8fc11d70120c56c050c069eeb89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310079963,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1310079963,
+    "wof:lastmodified":1537032040,
+    "wof:name":"Agros",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67431,
+    41.68221,
+    -8.67431,
+    41.68221
+],
+  "geometry": {"coordinates":[-8.67431,41.68221],"type":"Point"}
+}

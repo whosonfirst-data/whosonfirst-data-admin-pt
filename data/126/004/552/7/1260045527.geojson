@@ -1,0 +1,67 @@
+{
+  "id": 1260045527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.8924,38.55531,-8.8924,38.55531",
+    "geom:latitude":38.55531,
+    "geom:longitude":-8.8924,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1508",
+    "gn:admin3_code":"150802.0",
+    "gn:asciiname":"Bairro da Asseca",
+    "gn:country_code":"PT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8425934,
+    "gn:latitude":38.55531,
+    "gn:longitude":-8.8924,
+    "gn:modification_date":"2012-11-19",
+    "gn:name":"Bairro da Asseca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425934
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2c19adc6c617f9c03c891aa0dd5ce490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260045527,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1260045527,
+    "wof:lastmodified":1537041097,
+    "wof:name":"Bairro da Asseca",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.8924,
+    38.55531,
+    -8.8924,
+    38.55531
+],
+  "geometry": {"coordinates":[-8.8924,38.55531],"type":"Point"}
+}

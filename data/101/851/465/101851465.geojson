@@ -1,0 +1,79 @@
+{
+  "id": 101851465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.353986,41.34216,-8.353986,41.34216",
+    "geom:latitude":41.34216,
+    "geom:longitude":-8.353986,
+    "iso:country":"PT",
+    "lbl:latitude":41.34216,
+    "lbl:longitude":-8.353986,
+    "mps:latitude":41.34216,
+    "mps:longitude":-8.353986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vila Nova do Campo"
+    ],
+    "name:por_x_preferred":[
+        "Vila Nova do Campo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Mamede de Negrelos",
+    "qs:loc_alt":"Sao Mamede de Negrelos",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":744525,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2828229ea187dda378cf7d06f930cd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101851465,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101851465,
+    "wof:lastmodified":1544741803,
+    "wof:name":"S\u00e3o Mamede de Negrelos",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.353986,
+    41.34216,
+    -8.353986,
+    41.34216
+],
+  "geometry": {"coordinates":[-8.353986,41.34216],"type":"Point"}
+}

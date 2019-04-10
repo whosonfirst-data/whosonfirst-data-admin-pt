@@ -1,0 +1,63 @@
+{
+  "id": 1209338561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53661,41.53168,-8.53661,41.53168",
+    "geom:latitude":41.53168,
+    "geom:longitude":-8.53661,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30230.0",
+    "gn:asciiname":"Rego Seco",
+    "gn:country_code":"PT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735308,
+    "gn:latitude":41.53168,
+    "gn:longitude":-8.53661,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rego Seco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735308
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"126d97a87964b903c429942af9d251df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209338561
+        }
+    ],
+    "wof:id":1209338561,
+    "wof:lastmodified":1536290136,
+    "wof:name":"Rego Seco",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.536610000000001,
+    41.53168,
+    -8.536610000000001,
+    41.53168
+],
+  "geometry": {"coordinates":[-8.53661,41.53168],"type":"Point"}
+}

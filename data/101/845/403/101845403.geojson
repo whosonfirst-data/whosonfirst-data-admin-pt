@@ -1,0 +1,101 @@
+{
+  "id": 101845403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":629464.50767,
+    "geom:bbox":"-8.66403627581,39.3759031107,-8.65623235221,39.3923282273",
+    "geom:latitude":39.38519,
+    "geom:longitude":-8.660308,
+    "iso:country":"PT",
+    "lbl:latitude":39.385406,
+    "lbl:longitude":-8.659598,
+    "mps:latitude":39.385406,
+    "mps:longitude":-8.659598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Pernes"
+    ],
+    "name:deu_x_preferred":[
+        "Pernes"
+    ],
+    "name:fra_x_preferred":[
+        "Pernes"
+    ],
+    "name:nld_x_preferred":[
+        "Pernes"
+    ],
+    "name:pol_x_preferred":[
+        "Pernes"
+    ],
+    "name:por_x_preferred":[
+        "Pernes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043d"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Pernes",
+    "qs:la_lc":"*PT11416146",
+    "qs:level":"locality",
+    "qs:loc":"Pernes",
+    "qs:loc_alt":"Pernes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269a4a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2264828,
+        "gp:id":745647,
+        "qs:id":1158863,
+        "qs_pg:id":1158863
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6a6d3f66b0bccf3a1ad50706a7587e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845403,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101845403,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642318,
+    "wof:name":"Pernes",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6640362758086,
+    39.37590311073603,
+    -8.65623235221051,
+    39.3923282272612
+],
+  "geometry": {"coordinates":[[[-8.65838659206838,39.3923282272612],[-8.65813049307872,39.39145292591002],[-8.65700055038491,39.3916736042089],[-8.65623235221051,39.3890476781599],[-8.65736225339276,39.38882701019776],[-8.65710619258994,39.38795170107392],[-8.65823607334363,39.38773102344749],[-8.65721187024394,39.38422978130205],[-8.65834168906764,39.38400910434711],[-8.65808564832099,39.38313379239764],[-8.65921544672022,39.38291310577915],[-8.65895940168514,39.38203779533137],[-8.66008917966116,39.38181709904967],[-8.65880902848261,39.37744053488206],[-8.65993873071568,39.37721984271741],[-8.65968271527936,39.37634452749728],[-8.66194207231899,39.37590311073603],[-8.66219811541225,39.37677841906617],[-8.6633277978753,39.37655768758032],[-8.66383994035021,39.37830829151801],[-8.66271023022983,39.37852902989442],[-8.66322238322505,39.38027963294678],[-8.66096288789186,39.38072108415889],[-8.66249940999927,39.38597288800901],[-8.66136956945144,39.38619361462679],[-8.66213791788414,39.38881950064956],[-8.66326779993477,39.38859876369372],[-8.6640362758086,39.39122462188402],[-8.65838659206838,39.3923282272612]]],"type":"Polygon"}
+}

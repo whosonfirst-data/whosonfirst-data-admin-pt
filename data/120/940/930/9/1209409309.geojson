@@ -1,0 +1,63 @@
+{
+  "id": 1209409309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46927,40.21026,-8.46927,40.21026",
+    "geom:latitude":40.21026,
+    "geom:longitude":-8.46927,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60322.0",
+    "gn:asciiname":"Espadaneira",
+    "gn:country_code":"PT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739909,
+    "gn:latitude":40.21026,
+    "gn:longitude":-8.46927,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Espadaneira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739909
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3e6debc7198307c8caace34081ce3d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209409309
+        }
+    ],
+    "wof:id":1209409309,
+    "wof:lastmodified":1536287892,
+    "wof:name":"Espadaneira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46927,
+    40.21026,
+    -8.46927,
+    40.21026
+],
+  "geometry": {"coordinates":[-8.46927,40.21026],"type":"Point"}
+}

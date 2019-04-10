@@ -1,0 +1,71 @@
+{
+  "id": 1309809475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28421,41.54094,-8.28421,41.54094",
+    "geom:latitude":41.54094,
+    "geom:longitude":-8.28421,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0309",
+    "gn:admin3_code":"30905.0",
+    "gn:asciiname":"Campo",
+    "gn:country_code":"PT",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741645,
+    "gn:latitude":41.54094,
+    "gn:longitude":-8.28421,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Campo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Martinho",
+        "Campo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741645
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f7cf63baf60ea993e8d089fa015bb87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309809475,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1309809475,
+    "wof:lastmodified":1537683174,
+    "wof:name":"Campo",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28421,
+    41.54094,
+    -8.28421,
+    41.54094
+],
+  "geometry": {"coordinates":[-8.28421,41.54094],"type":"Point"}
+}

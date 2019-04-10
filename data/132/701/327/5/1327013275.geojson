@@ -1,0 +1,67 @@
+{
+  "id": 1327013275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28536,39.2981,-9.28536,39.2981",
+    "geom:latitude":39.2981,
+    "geom:longitude":-9.28536,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1108",
+    "gn:admin3_code":"110807.0",
+    "gn:asciiname":"Paco",
+    "gn:country_code":"PT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265335,
+    "gn:latitude":39.2981,
+    "gn:longitude":-9.28536,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pa\u00e7o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265335
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bd0fd693a63c39584bd78baa3e8881d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327013275,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1327013275,
+    "wof:lastmodified":1536788566,
+    "wof:name":"Paco",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28536,
+    39.2981,
+    -9.28536,
+    39.2981
+],
+  "geometry": {"coordinates":[-9.28536,39.2981],"type":"Point"}
+}

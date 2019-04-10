@@ -1,0 +1,67 @@
+{
+  "id": 1226543169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51449,40.51253,-8.51449,40.51253",
+    "geom:latitude":40.51253,
+    "geom:longitude":-8.51449,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0114",
+    "gn:admin3_code":"11404.0",
+    "gn:asciiname":"Alagoa",
+    "gn:country_code":"PT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743251,
+    "gn:latitude":40.51253,
+    "gn:longitude":-8.51449,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alagoa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743251
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cc731cb5f5b9fefe7a158c32178d9c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226543169,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1226543169,
+    "wof:lastmodified":1537000968,
+    "wof:name":"Alagoa",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51449,
+    40.51253,
+    -8.51449,
+    40.51253
+],
+  "geometry": {"coordinates":[-8.51449,40.51253],"type":"Point"}
+}

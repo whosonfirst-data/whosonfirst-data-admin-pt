@@ -1,0 +1,65 @@
+{
+  "id": 1327444323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27556,40.57911,-8.27556,40.57911",
+    "geom:latitude":40.57911,
+    "geom:longitude":-8.27556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Almijofa",
+    "gn:country_code":"PT",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743049,
+    "gn:latitude":40.57911,
+    "gn:longitude":-8.27556,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Almijofa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743049
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f4ecd7ccec4be52629d6973713c58310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327444323,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1327444323,
+    "wof:lastmodified":1536663504,
+    "wof:name":"Almijofa",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27556,
+    40.57911,
+    -8.27556,
+    40.57911
+],
+  "geometry": {"coordinates":[-8.27556,40.57911],"type":"Point"}
+}

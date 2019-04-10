@@ -1,0 +1,67 @@
+{
+  "id": 1243168799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97688,40.07629,-7.97688,40.07629",
+    "geom:latitude":40.07629,
+    "geom:longitude":-7.97688,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0612",
+    "gn:admin3_code":"61206.0",
+    "gn:asciiname":"Moradias",
+    "gn:country_code":"PT",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737404,
+    "gn:latitude":40.07629,
+    "gn:longitude":-7.97688,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Moradias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737404
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dd9ccc9910bc76e12cd4ff50f6cf64d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243168799,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1243168799,
+    "wof:lastmodified":1536709197,
+    "wof:name":"Moradias",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97688,
+    40.07629,
+    -7.97688,
+    40.07629
+],
+  "geometry": {"coordinates":[-7.97688,40.07629],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101832969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:bbox":"-9.28933411007,38.7231054044,-9.28088749444,38.7331189183",
+    "geom:latitude":38.728743,
+    "geom:longitude":-9.2845,
+    "iso:country":"PT",
+    "lbl:latitude":38.729485,
+    "lbl:longitude":-9.284212,
+    "mps:latitude":38.729485,
+    "mps:longitude":-9.284212,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Queijas",
+    "qs:la_lc":"*PT11110101",
+    "qs:level":"locality",
+    "qs:loc":"Leceias",
+    "qs:loc_alt":"Leceias",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2000,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266948,
+        "gp:id":742879,
+        "qs:id":1140125,
+        "wd:id":"Q926700"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"924852b0f67a423de737892a87dae08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832969,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101832969,
+    "wof:lastmodified":1527642786,
+    "wof:name":"Leceias",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28933411006608,
+    38.72310540436411,
+    -9.28088749444095,
+    38.73311891832509
+],
+  "geometry": {"coordinates":[[[-9.28155430670233,38.72898688238342],[-9.28244669898515,38.72880511619945],[-9.28088749444095,38.72356067016108],[-9.28312234517909,38.72310540436411],[-9.2836420950361,38.72485354722198],[-9.28475953720192,38.72462588795793],[-9.28605914605811,38.72899619211614],[-9.28717664828991,38.72876850248684],[-9.28769658553233,38.73051660295317],[-9.28881410784737,38.7302888934189],[-9.28933411006608,38.73203697878176],[-9.2840236827609,38.73311891832509],[-9.28155430670233,38.72898688238342]]],"type":"Polygon"}
+}

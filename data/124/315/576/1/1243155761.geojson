@@ -1,0 +1,67 @@
+{
+  "id": 1243155761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,38.96667,-9.38333,38.96667",
+    "geom:latitude":38.96667,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110906.0",
+    "gn:asciiname":"Regueirao",
+    "gn:country_code":"PT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263990,
+    "gn:latitude":38.96667,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Regueir\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263990
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f10f70fc080d9fcabd778c9ab6a14047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243155761,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1243155761,
+    "wof:lastmodified":1536728054,
+    "wof:name":"Regueirao",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    38.96667,
+    -9.38333,
+    38.96667
+],
+  "geometry": {"coordinates":[-9.38333,38.96667],"type":"Point"}
+}

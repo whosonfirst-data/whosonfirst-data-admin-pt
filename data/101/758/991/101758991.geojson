@@ -1,0 +1,84 @@
+{
+  "id": 101758991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"-9.44307006578,38.6903227287,-9.42845201776,38.7036522651",
+    "geom:latitude":38.697163,
+    "geom:longitude":-9.435428,
+    "iso:country":"PT",
+    "lbl:latitude":38.698381,
+    "lbl:longitude":-9.435538,
+    "mps:latitude":38.698381,
+    "mps:longitude":-9.435538,
+    "mz:hierarchy_label":1,
+    "name:cat_x_preferred":[
+        "Nossa Senhora do Ros\u00e1rio"
+    ],
+    "name:fra_x_preferred":[
+        "Nossa Senhora do Ros\u00e1rio"
+    ],
+    "name:glg_x_preferred":[
+        "Nossa Senhora do Ros\u00e1rio"
+    ],
+    "name:por_x_preferred":[
+        "Nossa Senhora do Ros\u00e1rio"
+    ],
+    "name:spa_x_preferred":[
+        "Nossa Senhora do Ros\u00e1rio"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro do Ros\u00e1rio",
+    "qs:loc_alt":"Bairro do Rosario",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":739040,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fb03a49e656b58528e3c75d522181391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758991,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758991,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro do Ros\u00e1rio",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44307006577571,
+    38.69032272873545,
+    -9.42845201775742,
+    38.70365226510984
+],
+  "geometry": {"coordinates":[[[-9.44307006577571,38.69936313547902],[-9.43428086571276,38.70365226510984],[-9.43415575743381,38.70347502838126],[-9.43198290422373,38.69967253526352],[-9.42962897991288,38.69623218434776],[-9.42845201775742,38.69550789994429],[-9.42944696594384,38.69039102355697],[-9.42977945887088,38.69032272873545],[-9.43004105598214,38.69119634564777],[-9.431157575236,38.69096699494344],[-9.43141919525249,38.6918406062988],[-9.43253572117641,38.69161123917422],[-9.43279736409909,38.69248484497257],[-9.43391389669267,38.69225546142752],[-9.43417556252223,38.69312906166806],[-9.43529210178485,38.69289966170254],[-9.43581548889233,38.69464684901823],[-9.43804860069878,38.69418799631416],[-9.43831033525515,38.69506157987911],[-9.44165999322365,38.69437319345428],[-9.44192177724318,38.69524676443939],[-9.44226352635184,38.69517651405152],[-9.44221342142112,38.69532682884358],[-9.44257556362277,38.69840503755762],[-9.44307006577571,38.69936313547902]]],"type":"Polygon"}
+}

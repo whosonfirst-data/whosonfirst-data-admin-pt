@@ -1,0 +1,93 @@
+{
+  "id": 1125766073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.24862,32.81137,-17.24862,32.81137",
+    "geom:latitude":32.81137,
+    "geom:longitude":-17.24862,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":761,
+    "gn:population":761,
+    "iso:country":"PT",
+    "lbl:latitude":32.81137,
+    "lbl:longitude":-17.24862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0430-\u0434\u0443-\u041f\u0430\u0440\u0433\u0443"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2264558,
+    "qs_pg:gn_pop":761,
+    "qs_pg:name":"Ponta do Pargo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos":239,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":239,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1158440,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":746010,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264558,
+        "gp:id":746010,
+        "qs_pg:id":1158440
+    },
+    "wof:country":"PT",
+    "wof:created":1497289900,
+    "wof:geomhash":"2b222c4f0da42408e139212fbc59c4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125766073,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125766073,
+    "wof:lastmodified":1509390691,
+    "wof:name":"Ponta do Pargo",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":761,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.24862,
+    32.81137,
+    -17.24862,
+    32.81137
+],
+  "geometry": {"coordinates":[-17.24862,32.81137],"type":"Point"}
+}

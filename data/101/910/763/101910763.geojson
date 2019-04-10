@@ -1,0 +1,72 @@
+{
+  "id": 101910763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:bbox":"-7.41769409327,38.6170573746,-7.40578767872,38.621812542",
+    "geom:latitude":38.619139,
+    "geom:longitude":-7.41157,
+    "iso:country":"PT",
+    "lbl:latitude":38.618837,
+    "lbl:longitude":-7.41148,
+    "mps:latitude":38.618837,
+    "mps:longitude":-7.41148,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*\u00c9vora",
+    "qs:a1r":"3",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Terena (S\u00e3o Pedro)",
+    "qs:la_lc":"*PT10701050",
+    "qs:level":"locality",
+    "qs:loc":"Terena-S\u00e3o Pedro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":749313,
+        "qs:id":950859,
+        "qs_pg:id":950859
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c4eaa291c1cef41f1a0a26017e48b324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101910763,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":101910763,
+    "wof:lastmodified":1497294404,
+    "wof:name":"Terena-S\u00e3o Pedro",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4176940932656,
+    38.61705737458942,
+    -7.40578767871619,
+    38.62181254197333
+],
+  "geometry": {"coordinates":[[[-7.40784463499324,38.62181254197333],[-7.40714219742335,38.61917179839077],[-7.40602179357143,38.61937745135248],[-7.40578767871619,38.61849719665594],[-7.4136302851411,38.61705737458942],[-7.41386449560554,38.61793760717171],[-7.41722556437151,38.61732033577914],[-7.4176940932656,38.61908077646461],[-7.41545333207659,38.61949231638835],[-7.41568758222081,38.62037254029258],[-7.41456717904089,38.62057829388328],[-7.41433294255495,38.61969806681856],[-7.41097173828541,38.62031523998178],[-7.41120593379395,38.62119547652605],[-7.40784463499324,38.62181254197333]]],"type":"Polygon"}
+}

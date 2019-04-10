@@ -1,0 +1,67 @@
+{
+  "id": 1293250697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.65,38.55,-28.65,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":-28.65,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4701",
+    "gn:admin3_code":"470105.0",
+    "gn:asciiname":"Tafoneiro",
+    "gn:country_code":"PT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372535,
+    "gn:latitude":38.55,
+    "gn:longitude":-28.65,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Tafoneiro",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372535
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cf0ae382ee1c995f1502d691f79d0956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293250697,
+            "region_id":85687455
+        }
+    ],
+    "wof:id":1293250697,
+    "wof:lastmodified":1536629776,
+    "wof:name":"Tafoneiro",
+    "wof:parent_id":85687455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.65,
+    38.55,
+    -28.65,
+    38.55
+],
+  "geometry": {"coordinates":[-28.65,38.55],"type":"Point"}
+}

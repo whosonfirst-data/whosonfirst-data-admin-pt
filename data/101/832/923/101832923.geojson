@@ -1,0 +1,110 @@
+{
+  "id": 101832923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000377,
+    "geom:area_square_m":3641946.531419,
+    "geom:bbox":"-9.06729825861,38.6583892656,-9.04140086686,38.6827414623",
+    "geom:latitude":38.669608,
+    "geom:longitude":-9.055215,
+    "iso:country":"PT",
+    "lbl:latitude":38.6688,
+    "lbl:longitude":-9.054969,
+    "mps:latitude":38.6688,
+    "mps:longitude":-9.054969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0432\u0440\u0430\u0434\u0438\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Lavradio"
+    ],
+    "name:eng_x_preferred":[
+        "Lavradio"
+    ],
+    "name:fre_x_preferred":[
+        "Lavradio"
+    ],
+    "name:ger_x_preferred":[
+        "Lavradio"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u0432\u0440\u0430\u0434\u0438\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Lavradio"
+    ],
+    "name:por_x_preferred":[
+        "Lavradio"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0432\u0440\u0430\u0434\u0438\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Lavradio"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alto do Seixalinho",
+    "qs:la_lc":"*PT11504061",
+    "qs:level":"locality",
+    "qs:loc":"Lavradio",
+    "qs:loc_alt":"Lavradio",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02709b4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267112,
+        "gp:id":742606,
+        "qs:id":1074870,
+        "qs_pg:id":1074870,
+        "wd:id":"Q2453716"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d1d21abbad54083daf4a1711a11fa100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832923,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832923,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498060,
+    "wof:name":"Lavradio",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06729825860606,
+    38.65838926563919,
+    -9.04140086685788,
+    38.68274146233978
+],
+  "geometry": {"coordinates":[[[-9.0442379893139,38.66389367982589],[-9.05820080503275,38.65838926563919],[-9.06515756590102,38.66065153222075],[-9.06729825860606,38.67229999699623],[-9.06572395854806,38.67261721714948],[-9.06598057764728,38.67349208833741],[-9.06039455532738,38.67461735060567],[-9.06065111714565,38.67549223700883],[-9.0595338798754,38.67571725411119],[-9.06107336923975,38.6809665510209],[-9.05995604538214,38.68119157585892],[-9.06021264668607,38.68206645509269],[-9.05686059613174,38.68274146233978],[-9.05583440787342,38.67924189201864],[-9.0547170981248,38.67946685478933],[-9.0539475962471,38.67684214563371],[-9.05059574825736,38.67751692535273],[-9.05085219937655,38.67839184074234],[-9.04861757492796,38.67884163610773],[-9.04810473554846,38.67709178954919],[-9.04363551568093,38.67799119753482],[-9.04389187723382,38.67886613558693],[-9.04165720170244,38.67931576886087],[-9.04140086685788,38.67844082392514],[-9.0425181945098,38.67821601719692],[-9.04226185575806,38.67734107369631],[-9.04337916357571,38.67711625747609],[-9.04184124931345,38.67186657498416],[-9.0463100953433,38.67096726336968],[-9.04554110552436,38.66834243632843],[-9.04665826078769,38.6681175864187],[-9.04588931592843,38.66549275163703],[-9.04477220070618,38.66571759122309],[-9.0442379893139,38.66389367982589]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343567075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63426,41.44092,-8.63426,41.44092",
+    "geom:latitude":41.44092,
+    "geom:longitude":-8.63426,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30244.0",
+    "gn:asciiname":"Macieira de Rates",
+    "gn:country_code":"PT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738050,
+    "gn:latitude":41.44092,
+    "gn:longitude":-8.63426,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Macieira de Rates",
+    "gn:population":2083,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macieira",
+        "Macieira de Rates"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738050,
+        "wk:page":"Macieira_de_Rates"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5f3f59aa295d40de980e9b3767de39e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343567075,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1343567075,
+    "wof:lastmodified":1537683167,
+    "wof:name":"Macieira de Rates",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:population":2083,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63426,
+    41.44092,
+    -8.63426,
+    41.44092
+],
+  "geometry": {"coordinates":[-8.63426,41.44092],"type":"Point"}
+}

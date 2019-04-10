@@ -1,0 +1,61 @@
+{
+  "id": 1108942541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14725128955,38.7119389886,-9.14725128955,38.7119389886",
+    "geom:latitude":38.711939,
+    "geom:longitude":-9.147251,
+    "iso:country":"PT",
+    "lbl:latitude":38.711939,
+    "lbl:longitude":-9.147251,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363157,
+    "wof:geomhash":"4ade8073862c988b5aa9d4d76378b393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942541,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942541,
+    "wof:lastmodified":1492123640,
+    "wof:name":"Santa Catarina",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14725128955086,
+    38.71193898860071,
+    -9.14725128955086,
+    38.71193898860071
+],
+  "geometry": {"coordinates":[-9.14725128955086,38.71193898860071],"type":"Point"}
+}

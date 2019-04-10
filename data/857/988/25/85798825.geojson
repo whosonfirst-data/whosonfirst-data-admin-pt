@@ -1,0 +1,111 @@
+{
+  "id": 85798825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":1163340.360769,
+    "geom:bbox":"-9.20764766156,38.7069460424,-9.19281005859,38.7198047426",
+    "geom:latitude":38.713701,
+    "geom:longitude":-9.199159,
+    "gn:latitude":38.70031,
+    "gn:longitude":-9.20805,
+    "iso:country":"PT",
+    "lbl:latitude":38.705436,
+    "lbl:longitude":-9.198414,
+    "mps:latitude":38.714223,
+    "mps:longitude":-9.198417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Ajuda"
+    ],
+    "name:unk_x_variant":[
+        "Ajuda"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Ajuda",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Ajuda",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":504,
+    "qs:photo_sum":1370,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":687,
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272264,
+        "gp:id":735518,
+        "qs:id":898157,
+        "qs_pg:id":898157,
+        "wd:id":"Q413311",
+        "wk:page":"Ajuda"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"27daa84cbdc9a76e751c1b545b52b921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798825,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798825,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527639420,
+    "wof:name":"Ajuda",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20764766156424,
+    38.70694604237988,
+    -9.19281005858988,
+    38.71980474260005
+],
+  "geometry": {"coordinates":[[[-9.19555664062122,38.71838891201465],[-9.19555664062131,38.71693452533245],[-9.19281005858988,38.71576114738981],[-9.19281005858988,38.71551876930005],[-9.19281005858988,38.71337567864542],[-9.19281005858988,38.71123253900002],[-9.19281005858988,38.71099002207197],[-9.19472808331568,38.71017068901617],[-9.19500936511184,38.70908931135018],[-9.19472806468178,38.70800782965203],[-9.19555663910492,38.70694604237988],[-9.19830322265804,38.70694604302683],[-9.20104980468989,38.70694604356267],[-9.20104980468989,38.7090893205216],[-9.20104980468989,38.71123253006965],[-9.2037963867198,38.71123253287638],[-9.2037963867198,38.71337567692315],[-9.2070902609783,38.7133756702253],[-9.20764766156424,38.71551870505002],[-9.20764761143315,38.71551876930005],[-9.20654296874997,38.71693452533094],[-9.20580652358643,38.71787838409871],[-9.20546850073825,38.71766177202537],[-9.20379638671989,38.71766177353429],[-9.20104980468989,38.71766178810006],[-9.20104980468989,38.71980474260005],[-9.19666124155157,38.71980474260005],[-9.19555664061988,38.71980474260005],[-9.19555664062122,38.71838891201465]]],"type":"Polygon"}
+}

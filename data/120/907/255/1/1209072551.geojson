@@ -1,0 +1,63 @@
+{
+  "id": 1209072551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73931,38.8497,-8.73931,38.8497",
+    "geom:latitude":38.8497,
+    "geom:longitude":-8.73931,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1405",
+    "gn:admin3_code":"140502.0",
+    "gn:asciiname":"Monte da Formiga",
+    "gn:country_code":"PT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266153,
+    "gn:latitude":38.8497,
+    "gn:longitude":-8.73931,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte da Formiga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266153
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0e9d51ea14c6a216f9504ed37a0ec3fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209072551
+        }
+    ],
+    "wof:id":1209072551,
+    "wof:lastmodified":1536298600,
+    "wof:name":"Monte da Formiga",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.739310000000001,
+    38.8497,
+    -8.739310000000001,
+    38.8497
+],
+  "geometry": {"coordinates":[-8.73931,38.8497],"type":"Point"}
+}

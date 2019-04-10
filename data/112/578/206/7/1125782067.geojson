@@ -1,0 +1,91 @@
+{
+  "id": 1125782067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.18674,32.73704,-17.18674,32.73704",
+    "geom:latitude":32.73704,
+    "geom:longitude":-17.18674,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1630,
+    "gn:population":1630,
+    "iso:country":"PT",
+    "lbl:latitude":32.73704,
+    "lbl:longitude":-17.18674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u042d\u0448\u0442\u0440\u0435\u0439\u0442\u0443-\u0434\u0430-\u041a\u0430\u043b\u044c\u0435\u0442\u0430"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2268419,
+    "qs_pg:gn_pop":1630,
+    "qs_pg:name":"Serrado-Estreito Da Calheta",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1160921,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55868118,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268419,
+        "gp:id":55868118,
+        "qs_pg:id":1160921
+    },
+    "wof:country":"PT",
+    "wof:created":1497290526,
+    "wof:geomhash":"a2d0cdb8fe693f1e6cda0fdfddf63efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125782067,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125782067,
+    "wof:lastmodified":1509391646,
+    "wof:name":"Serrado-Estreito Da Calheta",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":1630,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.18674,
+    32.73704,
+    -17.18674,
+    32.73704
+],
+  "geometry": {"coordinates":[-17.18674,32.73704],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360150323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64957,37.78127,-8.64957,37.78127",
+    "geom:latitude":37.78127,
+    "geom:longitude":-8.64957,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1509",
+    "gn:admin3_code":"150903.0",
+    "gn:asciiname":"Salgadinho",
+    "gn:country_code":"PT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263632,
+    "gn:latitude":37.78127,
+    "gn:longitude":-8.64957,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Salgadinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263632
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"76f752999061a2cf8ea3d25aee7be2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360150323,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1360150323,
+    "wof:lastmodified":1536850575,
+    "wof:name":"Salgadinho",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64957,
+    37.78127,
+    -8.64957,
+    37.78127
+],
+  "geometry": {"coordinates":[-8.64957,37.78127],"type":"Point"}
+}

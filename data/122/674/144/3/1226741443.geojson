@@ -1,0 +1,67 @@
+{
+  "id": 1226741443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73502,40.1367,-8.73502,40.1367",
+    "geom:latitude":40.1367,
+    "geom:longitude":-8.73502,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0610",
+    "gn:admin3_code":"61001.0",
+    "gn:asciiname":"Reveles",
+    "gn:country_code":"PT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735234,
+    "gn:latitude":40.1367,
+    "gn:longitude":-8.73502,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Reveles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735234
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"073f0ed8a39f12a8d496a77d23d52b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226741443,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226741443,
+    "wof:lastmodified":1536722099,
+    "wof:name":"Reveles",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73502,
+    40.1367,
+    -8.73502,
+    40.1367
+],
+  "geometry": {"coordinates":[-8.73502,40.1367],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 101759307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000307,
+    "geom:bbox":"-8.69654752462,41.2087113266,-8.67353460359,41.233771657",
+    "geom:latitude":41.222685,
+    "geom:longitude":-8.685656,
+    "iso:country":"PT",
+    "lbl:latitude":41.222822,
+    "lbl:longitude":-8.682621,
+    "mps:latitude":41.222822,
+    "mps:longitude":-8.682621,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "AR Freixieiro"
+    ],
+    "name:ita_x_preferred":[
+        "Associa\u00e7\u00e3o Recreativa de Freixieiro"
+    ],
+    "name:por_x_preferred":[
+        "Associa\u00e7\u00e3o Recreativa de Freixieiro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Freixieiro",
+    "qs:loc_alt":"Freixieiro",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739250,
+        "gp:id":744937,
+        "qs:id":5,
+        "wd:id":"Q923154"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d475010b5f34a0d397889953192df96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759307,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759307,
+    "wof:lastmodified":1527714674,
+    "wof:name":"Freixieiro",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6965475246177,
+    41.20871132661614,
+    -8.67353460359209,
+    41.23377165697065
+],
+  "geometry": {"coordinates":[[[-8.67601390114152,41.22152778039225],[-8.67765049582636,41.21966801370496],[-8.6808742937863,41.21334936970351],[-8.68538761093015,41.210254523662],[-8.69073736068958,41.20871132661614],[-8.69093254342118,41.21541260039788],[-8.69143886933608,41.21794422997232],[-8.6908035915028,41.2179916387658],[-8.69156870140176,41.22095643962484],[-8.68832854456491,41.22157584892614],[-8.68913751530846,41.22419488221345],[-8.6927599623657,41.2235023845347],[-8.69467214905467,41.22663141729822],[-8.69503183348831,41.22676629896085],[-8.69486244079928,41.22679868956891],[-8.6965475246177,41.23225073116595],[-8.69332674056056,41.23377165697065],[-8.69301415016645,41.23276026263096],[-8.69299639517288,41.23270281588799],[-8.69266846103261,41.23276550034507],[-8.69056510178814,41.23279736942453],[-8.69040335458817,41.2322739168078],[-8.68838771406496,41.23265912657428],[-8.68621986218551,41.23307342550635],[-8.67353460359209,41.22717589300242],[-8.67497277454447,41.22690123693707],[-8.67636065348302,41.2266361854368],[-8.67609115059952,41.22576313624035],[-8.67725270478854,41.22554127083555],[-8.67601390114152,41.22152778039225]]],"type":"Polygon"}
+}

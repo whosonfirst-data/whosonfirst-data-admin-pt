@@ -1,0 +1,93 @@
+{
+  "id": 1125807411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19098,38.43063,-9.19098,38.43063",
+    "geom:latitude":38.43063,
+    "geom:longitude":-9.19098,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":38.43063,
+    "lbl:longitude":-9.19098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Az\u00f3ia"
+    ],
+    "name:por_x_preferred":[
+        "Azoia"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2271272,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Azoia",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Set\u00fabal",
+    "qs_pg:photos":277,
+    "qs_pg:photos_1k":56,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":277,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083135,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":736755,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Set\u00fabal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271272,
+        "gp:id":736755,
+        "qs_pg:id":1083135,
+        "wd:id":"Q9641364"
+    },
+    "wof:country":"PT",
+    "wof:created":1497291522,
+    "wof:geomhash":"8e4ea6e807b52cd5d0efa26c3785778f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125807411,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1125807411,
+    "wof:lastmodified":1553816548,
+    "wof:name":"Azoia",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19098,
+    38.43063,
+    -9.19098,
+    38.43063
+],
+  "geometry": {"coordinates":[-9.19098,38.43063],"type":"Point"}
+}

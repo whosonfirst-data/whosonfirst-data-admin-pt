@@ -1,0 +1,120 @@
+{
+  "id": 101758985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":665563.61811,
+    "geom:bbox":"-9.36482098427,38.6805453567,-9.34416122585,38.6914286309",
+    "geom:latitude":38.68681,
+    "geom:longitude":-9.353478,
+    "gn:population":17212,
+    "iso:country":"PT",
+    "lbl:latitude":38.686741,
+    "lbl:longitude":-9.352461,
+    "mps:latitude":38.686741,
+    "mps:longitude":-9.352461,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Parede"
+    ],
+    "name:dut_x_preferred":[
+        "Parede"
+    ],
+    "name:eng_x_preferred":[
+        "Parede"
+    ],
+    "name:fre_x_preferred":[
+        "Parede"
+    ],
+    "name:ger_x_preferred":[
+        "Parede"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0440\u0435\u0434\u0435"
+    ],
+    "name:may_x_preferred":[
+        "Parede"
+    ],
+    "name:pol_x_preferred":[
+        "Parede"
+    ],
+    "name:por_x_preferred":[
+        "Parede"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0435\u0434\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Parede"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Parede",
+    "qs:loc_alt":"Parede",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":783,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026ebe9c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265169,
+        "gp:id":745211,
+        "qs:id":1353199,
+        "qs_pg:id":1353199,
+        "wd:id":"Q2052148",
+        "wk:page":"Parede"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8a7df8d66e6fc62c53863b864afcb210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758985,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758985,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1553815480,
+    "wof:name":"Parede",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":17212,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3648209842741,
+    38.68054535669239,
+    -9.34416122584884,
+    38.69142863094078
+],
+  "geometry": {"coordinates":[[[-9.34755785705534,38.68754660626399],[-9.34416122584884,38.68097978593113],[-9.34628563395466,38.68054535669239],[-9.34654604921747,38.68141927092194],[-9.34766263147452,38.68119089984754],[-9.34844397465605,38.6838126198179],[-9.34956059020487,38.68358422534777],[-9.34982107039917,38.68445812443105],[-9.35093769265978,38.68422971355147],[-9.35119819573401,38.68510360710081],[-9.35343144709844,38.68464673960659],[-9.35369198634385,38.68552062412687],[-9.35480861544619,38.68529216751205],[-9.35506917757351,38.68616604649702],[-9.35730244261617,38.68570908753088],[-9.3575630409162,38.68658295748486],[-9.35867967685522,38.68635445513326],[-9.35894029803904,38.68722831955091],[-9.36005694068564,38.68699980078804],[-9.36057823841844,38.68874751650901],[-9.36169490106204,38.6885189778385],[-9.36195557761289,38.68939282914096],[-9.36307224696304,38.68916427405816],[-9.36359365543746,38.69091196354657],[-9.36471034478399,38.69068338855442],[-9.3648209842741,38.69105419474192],[-9.3632296304292,38.69142863094078],[-9.35993440333829,38.69106249459713],[-9.35618150581809,38.68968948330939],[-9.35133019926752,38.68831647202143],[-9.34755785705534,38.68754660626399]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209777441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45981,42.02931,-8.45981,42.02931",
+    "geom:latitude":42.02931,
+    "geom:longitude":-8.45981,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1604",
+    "gn:admin3_code":"160426.0",
+    "gn:asciiname":"Pedregal",
+    "gn:country_code":"PT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736551,
+    "gn:latitude":42.02931,
+    "gn:longitude":-8.45981,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pedregal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736551
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d529ce8d9d9c52b9c22e7ce7ac2a1a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209777441,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1209777441,
+    "wof:lastmodified":1536377363,
+    "wof:name":"Pedregal",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45981,
+    42.02931,
+    -8.45981,
+    42.02931
+],
+  "geometry": {"coordinates":[-8.45981,42.02931],"type":"Point"}
+}

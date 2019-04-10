@@ -1,0 +1,63 @@
+{
+  "id": 1209312065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14237,39.82241,-8.14237,39.82241",
+    "geom:latitude":39.82241,
+    "geom:longitude":-8.14237,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0509",
+    "gn:admin3_code":"50901.0",
+    "gn:asciiname":"Faleiros",
+    "gn:country_code":"PT",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268363,
+    "gn:latitude":39.82241,
+    "gn:longitude":-8.14237,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Faleiros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268363
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"02da096f48d89d75266c3e1d4c6f8876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209312065
+        }
+    ],
+    "wof:id":1209312065,
+    "wof:lastmodified":1536290993,
+    "wof:name":"Faleiros",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14237,
+    39.82241,
+    -8.14237,
+    39.82241
+],
+  "geometry": {"coordinates":[-8.14237,39.82241],"type":"Point"}
+}

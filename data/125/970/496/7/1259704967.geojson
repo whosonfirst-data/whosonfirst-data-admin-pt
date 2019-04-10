@@ -1,0 +1,67 @@
+{
+  "id": 1259704967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.93087,40.38031,-7.93087,40.38031",
+    "geom:latitude":40.38031,
+    "geom:longitude":-7.93087,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0616",
+    "gn:admin3_code":"61608.0",
+    "gn:asciiname":"Touriz",
+    "gn:country_code":"PT",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733450,
+    "gn:latitude":40.38031,
+    "gn:longitude":-7.93087,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Touriz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733450
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9d8a5ede95469d68cd00bbf42ea93de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259704967,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259704967,
+    "wof:lastmodified":1537034673,
+    "wof:name":"Touriz",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.93087,
+    40.38031,
+    -7.93087,
+    40.38031
+],
+  "geometry": {"coordinates":[-7.93087,40.38031],"type":"Point"}
+}

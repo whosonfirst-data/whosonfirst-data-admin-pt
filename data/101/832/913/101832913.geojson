@@ -1,0 +1,75 @@
+{
+  "id": 101832913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:bbox":"-9.03272211013,38.6391128443,-9.0163173814,38.6573106557",
+    "geom:latitude":38.648473,
+    "geom:longitude":-9.022411,
+    "iso:country":"PT",
+    "lbl:latitude":38.649201,
+    "lbl:longitude":-9.02322,
+    "mps:latitude":38.649201,
+    "mps:longitude":-9.02322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Jos\u00e9 Fialho Gouveia"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Alto do Seixalinho",
+    "qs:la_lc":"*PT11504061",
+    "qs:level":"locality",
+    "qs:loc":"Bairro Gouveia",
+    "qs:loc_alt":"Bairro Gouveia",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":735882,
+        "qs:id":1,
+        "wd:id":"Q5446289"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"026e5a7756e572632fe55e8e63c40824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832913,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832913,
+    "wof:lastmodified":1527642785,
+    "wof:name":"Bairro Gouveia",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03272211012961,
+    38.63911284429275,
+    -9.01631738140111,
+    38.6573106556981
+],
+  "geometry": {"coordinates":[[[[-9.01631738140111,38.65013093091028],[-9.0173727495021,38.64713933284088],[-9.02024274447967,38.64656242142109],[-9.01921950524996,38.64306217120236],[-9.01877990364551,38.64315054483893],[-9.0201870893415,38.63916166739637],[-9.02042994052749,38.63911284429275],[-9.02145313570043,38.64261309911723],[-9.02592031904362,38.64171479981331],[-9.02617619474864,38.64258984476555],[-9.02729298776262,38.64236523418509],[-9.02831663819984,38.64586538019194],[-9.02719979183132,38.64609000451605],[-9.02844395846842,38.65034347974904],[-9.01859954111814,38.65712119201942],[-9.01858929091338,38.65708613924164],[-9.0174722399795,38.6573106556981],[-9.01721637907445,38.65643560102706],[-9.01833341666088,38.6562110880061],[-9.01654256083663,38.65008567323088],[-9.01631738140111,38.65013093091028]]],[[[-9.0325573194956,38.64501234775258],[-9.03272211012961,38.64683222596994],[-9.03217910032629,38.64694146999921],[-9.03166713850646,38.64519142965122],[-9.0325573194956,38.64501234775258]]]],"type":"MultiPolygon"}
+}

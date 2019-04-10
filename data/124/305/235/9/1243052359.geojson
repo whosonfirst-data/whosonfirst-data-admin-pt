@@ -1,0 +1,67 @@
+{
+  "id": 1243052359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79508,37.09553,-7.79508,37.09553",
+    "geom:latitude":37.09553,
+    "geom:longitude":-7.79508,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0810",
+    "gn:admin3_code":"81002.0",
+    "gn:asciiname":"Pes do Cerro",
+    "gn:country_code":"PT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264804,
+    "gn:latitude":37.09553,
+    "gn:longitude":-7.79508,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00e9s do Cerro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264804
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c6f42945a732d4f4ed9893cb2b321925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243052359,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1243052359,
+    "wof:lastmodified":1536875764,
+    "wof:name":"Pes do Cerro",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79508,
+    37.09553,
+    -7.79508,
+    37.09553
+],
+  "geometry": {"coordinates":[-7.79508,37.09553],"type":"Point"}
+}

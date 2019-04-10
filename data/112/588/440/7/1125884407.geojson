@@ -1,0 +1,116 @@
+{
+  "id": 1125884407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71464,40.40118,-7.71464,40.40118",
+    "geom:latitude":40.40118,
+    "geom:longitude":-7.71464,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.40118,
+    "lbl:longitude":-7.71464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u043e\u043c\u0430\u043d"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u043e\u043c\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00e3o Rom\u00e3o"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734346,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"S\u00e3o Rom\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1213168,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":748376,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734346,
+        "gp:id":748376,
+        "qs_pg:id":1213168,
+        "wd:id":"Q1943011"
+    },
+    "wof:country":"PT",
+    "wof:created":1497295004,
+    "wof:geomhash":"71b3a7d4054cdcdacfda9db1564d436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125884407,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125884407,
+    "wof:lastmodified":1534379449,
+    "wof:name":"S\u00e3o Rom\u00e3o",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101845421
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71464,
+    40.40118,
+    -7.71464,
+    40.40118
+],
+  "geometry": {"coordinates":[-7.71464,40.40118],"type":"Point"}
+}

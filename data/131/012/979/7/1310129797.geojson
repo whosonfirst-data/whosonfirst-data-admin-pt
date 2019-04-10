@@ -1,0 +1,67 @@
+{
+  "id": 1310129797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40158,41.74003,-8.40158,41.74003",
+    "geom:latitude":41.74003,
+    "geom:longitude":-8.40158,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31301.0",
+    "gn:asciiname":"Rocadas",
+    "gn:country_code":"PT",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504577,
+    "gn:latitude":41.74003,
+    "gn:longitude":-8.40158,
+    "gn:modification_date":"2013-03-13",
+    "gn:name":"Ro\u00e7adas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504577
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a586069e1f00a1462b6b95f67a45b3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310129797,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310129797,
+    "wof:lastmodified":1536961371,
+    "wof:name":"Rocadas",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40158,
+    41.74003,
+    -8.40158,
+    41.74003
+],
+  "geometry": {"coordinates":[-8.40158,41.74003],"type":"Point"}
+}

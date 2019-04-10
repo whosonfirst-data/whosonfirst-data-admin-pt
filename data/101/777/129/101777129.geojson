@@ -1,0 +1,75 @@
+{
+  "id": 101777129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-8.9500008238,39.6980537063,-8.94109702366,39.7067932893",
+    "geom:latitude":39.702807,
+    "geom:longitude":-8.94543,
+    "geonames:id":"2266313,2266315",
+    "iso:country":"PT",
+    "lbl:latitude":39.703028,
+    "lbl:longitude":-8.945127,
+    "mps:latitude":39.703028,
+    "mps:longitude":-8.945127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Leiria",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Moita",
+    "qs:la_lc":"*PT11010034",
+    "qs:level":"locality",
+    "qs:loc":"Moita",
+    "qs:loc_alt":"Moita",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":38.65,
+    "wd:longitude":-8.983333,
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":743228,
+        "qs:id":8,
+        "wd:id":"Q933912"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2b6722193b7ea613af85e5ad11669222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777129,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":101777129,
+    "wof:lastmodified":1527688511,
+    "wof:name":"Moita",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95000082379937,
+    39.69805370633446,
+    -8.94109702366143,
+    39.70679328931107
+],
+  "geometry": {"coordinates":[[[-8.94685983738418,39.70679328931107],[-8.94659759196276,39.70591933985855],[-8.94432873676584,39.70636776118988],[-8.94301779636095,39.70199794918113],[-8.94188342834622,39.70222212247654],[-8.94109702366143,39.69960020111097],[-8.94223134981661,39.69937603839185],[-8.94196922058211,39.69850206419801],[-8.94423782461661,39.69805370633446],[-8.94502432545266,39.70067560186629],[-8.9461586591384,39.70045139261936],[-8.94668306997534,39.70219930609341],[-8.94781742477312,39.70197507663534],[-8.94807965885872,39.70284902689718],[-8.94921402081565,39.70262478075335],[-8.95000082379937,39.70524660916266],[-8.94886641998204,39.70547086588772],[-8.94912869331336,39.7063448082863],[-8.94685983738418,39.70679328931107]]],"type":"Polygon"}
+}

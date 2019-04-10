@@ -1,0 +1,79 @@
+{
+  "id": 101759269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":780445.143123,
+    "geom:bbox":"-8.47954855181,40.8664457312,-8.46399509755,40.8764048993",
+    "geom:latitude":40.871303,
+    "geom:longitude":-8.469996,
+    "gn:population":5575,
+    "iso:country":"PT",
+    "lbl:latitude":40.870841,
+    "lbl:longitude":-8.46923,
+    "mps:latitude":40.870841,
+    "mps:longitude":-8.46923,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Vila Ch\u00e3 de S\u00e3o Roque",
+    "qs:loc_alt":"Vila Cha de Sao Roque",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732705,
+        "gp:id":29383390,
+        "qs:id":1037630,
+        "qs_pg:id":1037618
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7645b50d46b0da56e1a61b5706ca6f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759269,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101759269,
+    "wof:lastmodified":1505337767,
+    "wof:name":"Vila Ch\u00e3 de S\u00e3o Roque",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:population":5575,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47954855180677,
+    40.86644573123061,
+    -8.46399509754571,
+    40.87640489933091
+],
+  "geometry": {"coordinates":[[[-8.46420790064218,40.86900790246455],[-8.46715747768133,40.86663541658515],[-8.46729876090563,40.8671034387047],[-8.47076593024173,40.86644573123061],[-8.4710298790153,40.86731987372212],[-8.4721856028093,40.86710060742899],[-8.47324155765591,40.87059714436174],[-8.47670886397299,40.86993922202413],[-8.47644481585644,40.86906510129421],[-8.47875628864313,40.8686264262555],[-8.47954855180677,40.87124876143366],[-8.47261378310145,40.87256468921322],[-8.47287780236132,40.87343881855207],[-8.47172196814842,40.87365809631814],[-8.47240660035601,40.87592472159298],[-8.46888529694399,40.87640489933091],[-8.46851839349,40.87518999058841],[-8.4650507408702,40.87584763273378],[-8.46399509754571,40.87235101191851],[-8.46515092970935,40.87213182556712],[-8.46420790064218,40.86900790246455]]],"type":"Polygon"}
+}

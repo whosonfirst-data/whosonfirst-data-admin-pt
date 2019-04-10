@@ -1,0 +1,74 @@
+{
+  "id": 1226539147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75457,41.76438,-6.75457,41.76438",
+    "geom:latitude":41.76438,
+    "geom:longitude":-6.75457,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"40244.0",
+    "gn:asciiname":"Sao Pedro de Serracenos",
+    "gn:country_code":"PT",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734357,
+    "gn:latitude":41.76438,
+    "gn:longitude":-6.75457,
+    "gn:modification_date":"2018-02-11",
+    "gn:name":"S\u00e3o Pedro de Serracenos",
+    "gn:population":366,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Pedro",
+        "S\u00e3o Pedro de Serracenos"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734357
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"62448888dd205be6b4f6f90239aae76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226539147,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1226539147,
+    "wof:lastmodified":1537683161,
+    "wof:name":"Sao Pedro de Serracenos",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:population":366,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75457,
+    41.76438,
+    -6.75457,
+    41.76438
+],
+  "geometry": {"coordinates":[-6.75457,41.76438],"type":"Point"}
+}

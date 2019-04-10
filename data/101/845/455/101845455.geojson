@@ -1,0 +1,108 @@
+{
+  "id": 101845455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:bbox":"-8.55193638628,41.2586078496,-8.53932966215,41.2666971179",
+    "geom:latitude":41.262895,
+    "geom:longitude":-8.544654,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.262868,
+    "lbl:longitude":-8.544224,
+    "mps:latitude":41.262868,
+    "mps:longitude":-8.544224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e1rcio Paiva"
+    ],
+    "name:mlg_x_preferred":[
+        "M\u00e1rcio Paiva"
+    ],
+    "name:por_x_preferred":[
+        "Folgosa"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Folgosa",
+    "qs:la_lc":"*PT11306030",
+    "qs:level":"locality",
+    "qs:loc":"Folgosa",
+    "qs:loc_alt":"Folgosa",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2739520,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Folgosa",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489747,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":741160,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026f21f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2739520,
+        "gp:id":741160,
+        "qs:id":489747,
+        "qs_pg:id":489747
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"54e7895622f8b56c19a1129cfe8a3496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845455,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101845455,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379445,
+    "wof:name":"Folgosa",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125929237
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55193638627992,
+    41.25860784964237,
+    -8.53932966215166,
+    41.26669711790805
+],
+  "geometry": {"coordinates":[[[-8.54352988807011,41.26669711790805],[-8.54326198717303,41.26582367111973],[-8.54209933302656,41.26604398408335],[-8.54129573701636,41.26342362161876],[-8.54013312066161,41.26364391019655],[-8.53932966215166,41.26102352000726],[-8.54165479764771,41.26058295099415],[-8.54138696869785,41.25970949107392],[-8.54719960624436,41.25860784964237],[-8.54773542439972,41.2603547314618],[-8.54657288132029,41.26057509405933],[-8.54791253161721,41.26494228384246],[-8.55023776054918,41.26450150895158],[-8.55050575145208,41.26537493404663],[-8.55166837009364,41.2651545226725],[-8.55193638627992,41.26602794227443],[-8.5496111117796,41.26646875871324],[-8.54934312559391,41.2655953318789],[-8.54352988807011,41.26669711790805]]],"type":"Polygon"}
+}

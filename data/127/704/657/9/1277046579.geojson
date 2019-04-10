@@ -1,0 +1,67 @@
+{
+  "id": 1277046579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20624,39.00877,-9.20624,39.00877",
+    "geom:latitude":39.00877,
+    "geom:longitude":-9.20624,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1112",
+    "gn:admin3_code":"111203.0",
+    "gn:asciiname":"Bespeira",
+    "gn:country_code":"PT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270919,
+    "gn:latitude":39.00877,
+    "gn:longitude":-9.20624,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bespeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270919
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"31f82196e567db2fc38728e4c625c542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1277046579,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1277046579,
+    "wof:lastmodified":1536816942,
+    "wof:name":"Bespeira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20624,
+    39.00877,
+    -9.20624,
+    39.00877
+],
+  "geometry": {"coordinates":[-9.20624,39.00877],"type":"Point"}
+}

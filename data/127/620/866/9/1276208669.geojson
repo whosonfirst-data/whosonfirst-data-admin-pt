@@ -1,0 +1,67 @@
+{
+  "id": 1276208669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19496,38.97045,-7.19496,38.97045",
+    "geom:latitude":38.97045,
+    "geom:longitude":-7.19496,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1207",
+    "gn:admin3_code":"120708.0",
+    "gn:asciiname":"Aventosa",
+    "gn:country_code":"PT",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271342,
+    "gn:latitude":38.97045,
+    "gn:longitude":-7.19496,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aventosa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271342
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"137a6c9a6635f5c08e0dbb7ee2ea8591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276208669,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1276208669,
+    "wof:lastmodified":1536946535,
+    "wof:name":"Aventosa",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19496,
+    38.97045,
+    -7.19496,
+    38.97045
+],
+  "geometry": {"coordinates":[-7.19496,38.97045],"type":"Point"}
+}

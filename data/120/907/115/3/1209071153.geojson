@@ -1,0 +1,63 @@
+{
+  "id": 1209071153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46746,41.93345,-8.46746,41.93345",
+    "geom:latitude":41.93345,
+    "geom:longitude":-8.46746,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1601",
+    "gn:admin3_code":"160110.0",
+    "gn:asciiname":"Eirado",
+    "gn:country_code":"PT",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740061,
+    "gn:latitude":41.93345,
+    "gn:longitude":-8.46746,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Eirado",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740061
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c0d6ebf8018c656569fd0c0da53f0daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209071153
+        }
+    ],
+    "wof:id":1209071153,
+    "wof:lastmodified":1536298643,
+    "wof:name":"Eirado",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46746,
+    41.93345,
+    -8.46746,
+    41.93345
+],
+  "geometry": {"coordinates":[-8.46746,41.93345],"type":"Point"}
+}

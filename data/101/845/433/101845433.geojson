@@ -1,0 +1,86 @@
+{
+  "id": 101845433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"-8.7534156869,40.6077529983,-8.74748383809,40.6208717326",
+    "geom:latitude":40.613685,
+    "geom:longitude":-8.750076,
+    "iso:country":"PT",
+    "lbl:latitude":40.614567,
+    "lbl:longitude":-8.750121,
+    "mps:latitude":40.614567,
+    "mps:longitude":-8.750121,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Costa Nova do Prado"
+    ],
+    "name:por_x_variant":[
+        "Costa Nova"
+    ],
+    "name:unk_x_variant":[
+        "Costa Nova"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Gafanha da Encarna\u00e7\u00e3o",
+    "qs:la_lc":"*PT10110027",
+    "qs:level":"locality",
+    "qs:loc":"Costa Nova do Prado",
+    "qs:loc_alt":"Costa Nova do Prado",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026ab7c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2740434,
+        "gp:id":739975,
+        "qs:id":1168190,
+        "qs_pg:id":1168190
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"87060193bdd5902ee3ad9ddcc7f4cfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845433,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101845433,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497292111,
+    "wof:name":"Costa Nova do Prado",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75341568689942,
+    40.6077529983192,
+    -8.74748383809037,
+    40.62087173262944
+],
+  "geometry": {"coordinates":[[[-8.74907983813068,40.61343887610735],[-8.74748383809037,40.60819775831158],[-8.74978464378114,40.6077529983192],[-8.75005064763013,40.60862651557846],[-8.75120105444688,40.6084041119359],[-8.75173312151293,40.61015113353244],[-8.75288355036315,40.60992870934581],[-8.75341568689942,40.6116757161011],[-8.75226522896747,40.61189814745694],[-8.75253129784124,40.612771651542],[-8.75138081831921,40.61299407310668],[-8.75217904190572,40.61561458460852],[-8.7510285117051,40.61583700355118],[-8.75182678255356,40.61845750854729],[-8.7506762016684,40.61867992486805],[-8.75094229760555,40.61955342628289],[-8.74979169512363,40.61977583281146],[-8.75005778661466,40.62064933589392],[-8.74890716253526,40.62087173262944],[-8.74784291535758,40.61737769445512],[-8.74899348125001,40.61715531205869],[-8.74792933746477,40.61366125754313],[-8.74907983813068,40.61343887610735]]],"type":"Polygon"}
+}

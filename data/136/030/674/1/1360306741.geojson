@@ -1,0 +1,67 @@
+{
+  "id": 1360306741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73613,40.39655,-8.73613,40.39655",
+    "geom:latitude":40.39655,
+    "geom:longitude":-8.73613,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0608",
+    "gn:admin3_code":"60801.0",
+    "gn:asciiname":"Ermida",
+    "gn:country_code":"PT",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739996,
+    "gn:latitude":40.39655,
+    "gn:longitude":-8.73613,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ermida",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739996
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1924a55c0df28cc3c2da0caa1c26a755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360306741,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1360306741,
+    "wof:lastmodified":1536623932,
+    "wof:name":"Ermida",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73613,
+    40.39655,
+    -8.73613,
+    40.39655
+],
+  "geometry": {"coordinates":[-8.73613,40.39655],"type":"Point"}
+}

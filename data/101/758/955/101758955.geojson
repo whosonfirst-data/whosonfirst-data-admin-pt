@@ -1,0 +1,75 @@
+{
+  "id": 101758955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:bbox":"-9.34559060696,38.7194312727,-9.33621636847,38.7292109092",
+    "geom:latitude":38.72474,
+    "geom:longitude":-9.341406,
+    "iso:country":"PT",
+    "lbl:latitude":38.725269,
+    "lbl:longitude":-9.341087,
+    "mps:latitude":38.725269,
+    "mps:longitude":-9.341087,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Barreiros"
+    ],
+    "name:spa_x_preferred":[
+        "Barreiros"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro 25 de Abril",
+    "qs:loc_alt":"Bairro 25 de Abril",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042201,
+        "qs:id":8
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"88b4fb430205a2bfc0157ee187562931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758955,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758955,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro 25 de Abril",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.34559060696239,
+    38.71943127265877,
+    -9.33621636846811,
+    38.72921090920147
+],
+  "geometry": {"coordinates":[[[-9.33621636846811,38.72413310936969],[-9.34027888658841,38.72248271138301],[-9.34252075993692,38.71943127265877],[-9.34469375606466,38.72065549582942],[-9.34461339864453,38.7209300503481],[-9.3448232151917,38.72256661941663],[-9.34349004237077,38.72283912548215],[-9.34427209345074,38.72546072311201],[-9.34537405030522,38.72523547625508],[-9.34559060696239,38.72611836108808],[-9.3445327963496,38.72633458491231],[-9.34479350885192,38.72720844467466],[-9.34367618261462,38.72743680613758],[-9.34393689140586,38.72831066735898],[-9.34281954526199,38.72853901939419],[-9.34302001803087,38.72921090920147],[-9.34209032446262,38.72921090920147],[-9.33885561397301,38.72765824816651],[-9.3363325397911,38.72442353767684],[-9.33621636846811,38.72413310936969]]],"type":"Polygon"}
+}

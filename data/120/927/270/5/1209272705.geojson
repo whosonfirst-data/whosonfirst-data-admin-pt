@@ -1,0 +1,63 @@
+{
+  "id": 1209272705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-28.41667,38.53333,-28.41667,38.53333",
+    "geom:latitude":38.53333,
+    "geom:longitude":-28.41667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4603",
+    "gn:admin3_code":"460302.0",
+    "gn:asciiname":"Maragaia",
+    "gn:country_code":"PT",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372886,
+    "gn:latitude":38.53333,
+    "gn:longitude":-28.41667,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Maragaia",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372886
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8798e02461b596caa1f3789073707c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209272705
+        }
+    ],
+    "wof:id":1209272705,
+    "wof:lastmodified":1536292303,
+    "wof:name":"Maragaia",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -28.41667,
+    38.53333,
+    -28.41667,
+    38.53333
+],
+  "geometry": {"coordinates":[-28.41667,38.53333],"type":"Point"}
+}

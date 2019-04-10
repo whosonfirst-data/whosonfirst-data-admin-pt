@@ -1,0 +1,67 @@
+{
+  "id": 1276140723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05521,37.14766,-8.05521,37.14766",
+    "geom:latitude":37.14766,
+    "geom:longitude":-8.05521,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0808",
+    "gn:admin3_code":"80809.0",
+    "gn:asciiname":"Monte Zorras",
+    "gn:country_code":"PT",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265789,
+    "gn:latitude":37.14766,
+    "gn:longitude":-8.05521,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Zorras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265789
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f30578f50d814c121aab32944966dc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276140723,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1276140723,
+    "wof:lastmodified":1537035246,
+    "wof:name":"Monte Zorras",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05521,
+    37.14766,
+    -8.05521,
+    37.14766
+],
+  "geometry": {"coordinates":[-8.05521,37.14766],"type":"Point"}
+}

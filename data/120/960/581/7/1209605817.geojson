@@ -1,0 +1,63 @@
+{
+  "id": 1209605817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.80271,38.26698,-7.80271,38.26698",
+    "geom:latitude":38.26698,
+    "geom:longitude":-7.80271,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0709",
+    "gn:admin3_code":"70906.0",
+    "gn:asciiname":"Santana",
+    "gn:country_code":"PT",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263490,
+    "gn:latitude":38.26698,
+    "gn:longitude":-7.80271,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263490
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c86b4c37a9e4c1c4b42908cf90eeb13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209605817
+        }
+    ],
+    "wof:id":1209605817,
+    "wof:lastmodified":1536282015,
+    "wof:name":"Santana",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.80271,
+    38.26698,
+    -7.80271,
+    38.26698
+],
+  "geometry": {"coordinates":[-7.80271,38.26698],"type":"Point"}
+}

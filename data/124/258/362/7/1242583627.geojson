@@ -1,0 +1,71 @@
+{
+  "id": 1242583627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29046,41.6565,-8.29046,41.6565",
+    "geom:latitude":41.6565,
+    "geom:longitude":-8.29046,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0301",
+    "gn:admin3_code":"30120.0",
+    "gn:asciiname":"Bouro",
+    "gn:country_code":"PT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742048,
+    "gn:latitude":41.6565,
+    "gn:longitude":-8.29046,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bouro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Marta",
+        "Bouro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742048
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f8278c9ec8b9582c592eb31f91b40524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242583627,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1242583627,
+    "wof:lastmodified":1537683174,
+    "wof:name":"Bouro",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29046,
+    41.6565,
+    -8.29046,
+    41.6565
+],
+  "geometry": {"coordinates":[-8.29046,41.6565],"type":"Point"}
+}

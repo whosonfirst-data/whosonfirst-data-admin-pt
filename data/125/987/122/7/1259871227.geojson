@@ -1,0 +1,67 @@
+{
+  "id": 1259871227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40808,40.23493,-8.40808,40.23493",
+    "geom:latitude":40.23493,
+    "geom:longitude":-8.40808,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0603",
+    "gn:admin3_code":"60318.0",
+    "gn:asciiname":"Lordemao",
+    "gn:country_code":"PT",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738213,
+    "gn:latitude":40.23493,
+    "gn:longitude":-8.40808,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lordem\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738213
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0760e5c8d22480f401aadffae7ef701b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259871227,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259871227,
+    "wof:lastmodified":1536797072,
+    "wof:name":"Lordemao",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40808,
+    40.23493,
+    -8.40808,
+    40.23493
+],
+  "geometry": {"coordinates":[-8.40808,40.23493],"type":"Point"}
+}

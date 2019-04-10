@@ -1,0 +1,72 @@
+{
+  "id": 101759091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":445233.339975,
+    "geom:bbox":"-9.22216110581,38.7895547455,-9.21234361546,38.7984713953",
+    "geom:latitude":38.794162,
+    "geom:longitude":-9.217656,
+    "iso:country":"PT",
+    "lbl:latitude":38.794584,
+    "lbl:longitude":-9.218138,
+    "mps:latitude":38.794584,
+    "mps:longitude":-9.218138,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Casal da Silveira",
+    "qs:loc_alt":"Casal da Silveira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":230,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23412883
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5ac77399851ccd638c755c228b925664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759091,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759091,
+    "wof:lastmodified":1527714677,
+    "wof:name":"Casal da Silveira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22216110581309,
+    38.78955474547206,
+    -9.21234361546186,
+    38.7984713953087
+],
+  "geometry": {"coordinates":[[[-9.21234361546186,38.79548659054677],[-9.21346263497594,38.79193205797219],[-9.21346842302876,38.79195156384998],[-9.21458712575424,38.79172468922371],[-9.21484655921233,38.79259890341609],[-9.21820266809146,38.79191819141164],[-9.21750125300235,38.78955474547206],[-9.2184493300357,38.7900618564434],[-9.22110552645637,38.7912692184529],[-9.22216110581309,38.79326309057114],[-9.21955695344434,38.7984713953087],[-9.21615534221803,38.79658161129407],[-9.21422356300303,38.79609866649031],[-9.21234361546186,38.79548659054677]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 101912169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":53558.639332,
+    "geom:bbox":"-8.79472524299,38.1136195725,-8.78319557873,38.1169735943",
+    "geom:latitude":38.115067,
+    "geom:longitude":-8.788663,
+    "iso:country":"PT",
+    "lbl:latitude":38.115745,
+    "lbl:longitude":-8.792485,
+    "mps:latitude":38.115745,
+    "mps:longitude":-8.792485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"6",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Santo Andr\u00e9",
+    "qs:la_lc":"*PT11509071",
+    "qs:level":"locality",
+    "qs:loc":"Praia de Melides",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266478,
+        "gp:id":746476,
+        "qs:id":1189995,
+        "qs_pg:id":1189995
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c832a4dbd1306e5682942c8d8f1a4500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101912169,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101912169,
+    "wof:lastmodified":1507750787,
+    "wof:name":"Praia de Melides",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79472524299064,
+    38.11361957246709,
+    -8.78319557872544,
+    38.11697359431025
+],
+  "geometry": {"coordinates":[[[[-8.79163744413404,38.11497812127118],[-8.79472524299064,38.11554360639286],[-8.79306460483832,38.11587546510759],[-8.79331383767533,38.11675198090012],[-8.79220477069725,38.11697359431025],[-8.79163744413404,38.11497812127118]]],[[[-8.78421916683226,38.11361957246709],[-8.78746838893875,38.1142146198921],[-8.78344467025426,38.11501834661158],[-8.78319557872544,38.11414179606692],[-8.78430462375263,38.11392028922148],[-8.78421916683226,38.11361957246709]]]],"type":"MultiPolygon"}
+}

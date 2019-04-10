@@ -1,0 +1,78 @@
+{
+  "id": 101845451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:bbox":"-8.73578962456,41.3793555773,-8.72414705878,41.3896405597",
+    "geom:latitude":41.384294,
+    "geom:longitude":-8.730438,
+    "iso:country":"PT",
+    "lbl:latitude":41.382908,
+    "lbl:longitude":-8.730835,
+    "mps:latitude":41.382908,
+    "mps:longitude":-8.730835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "G\u00e2ndara"
+    ],
+    "name:spa_x_preferred":[
+        "G\u00e2ndara"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Argivai",
+    "qs:la_lc":"*PT11313045",
+    "qs:level":"locality",
+    "qs:loc":"G\u00e2ndara",
+    "qs:loc_alt":"Gandara",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":203,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":736382,
+        "qs:id":1,
+        "wd:id":"Q5625827"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8d92222e665a0ec4f8bfed1074b3edaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101845451,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101845451,
+    "wof:lastmodified":1527642318,
+    "wof:name":"G\u00e2ndara",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73578962455684,
+    41.37935557727639,
+    -8.72414705877793,
+    41.38964055966943
+],
+  "geometry": {"coordinates":[[[-8.72810422750484,41.38964055966943],[-8.72728988208854,41.38702247946594],[-8.72612555476985,41.38724501973212],[-8.72558274003961,41.38549961613785],[-8.72441843546721,41.38572213552425],[-8.72414705877793,41.38484942722573],[-8.72880417298575,41.38395928297444],[-8.72798992507279,41.38134119064131],[-8.73148254853731,41.38067347304877],[-8.7312111083275,41.37980078279804],[-8.73353945729082,41.37935557727639],[-8.73381092755977,41.38022826020443],[-8.73497510608399,41.38000563344775],[-8.73578962455684,41.38262365987629],[-8.73462540094272,41.38284629761847],[-8.73489691293054,41.38371897296645],[-8.73256841366043,41.38416421510385],[-8.73283990601499,41.38503689588072],[-8.73167563035821,41.3852595002752],[-8.73249012490521,41.3878775422229],[-8.73016146140753,41.38832273230946],[-8.73043295038144,41.38919541649324],[-8.72810422750484,41.38964055966943]]],"type":"Polygon"}
+}

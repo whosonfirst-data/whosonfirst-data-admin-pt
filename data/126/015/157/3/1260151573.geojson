@@ -1,0 +1,67 @@
+{
+  "id": 1260151573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28291,38.90906,-9.28291,38.90906",
+    "geom:latitude":38.90906,
+    "geom:longitude":-9.28291,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110908.0",
+    "gn:asciiname":"Funchal",
+    "gn:country_code":"PT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267825,
+    "gn:latitude":38.90906,
+    "gn:longitude":-9.28291,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Funchal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267825
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"21e2bb8d7dd38897df078b30e3552b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260151573,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1260151573,
+    "wof:lastmodified":1536891377,
+    "wof:name":"Funchal",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28291,
+    38.90906,
+    -9.28291,
+    38.90906
+],
+  "geometry": {"coordinates":[-9.28291,38.90906],"type":"Point"}
+}

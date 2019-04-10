@@ -1,0 +1,125 @@
+{
+  "id": 101832887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:area_square_m":218017.74321,
+    "geom:bbox":"-9.10545241826,38.6223755224,-9.0979929068,38.62871369",
+    "geom:latitude":38.626479,
+    "geom:longitude":-9.102097,
+    "gn:population":30156,
+    "iso:country":"PT",
+    "lbl:latitude":38.626507,
+    "lbl:longitude":-9.102154,
+    "mps:latitude":38.626507,
+    "mps:longitude":-9.102154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Arrentela"
+    ],
+    "name:eng_x_preferred":[
+        "Arrentela"
+    ],
+    "name:fre_x_preferred":[
+        "Arrentela"
+    ],
+    "name:ger_x_preferred":[
+        "Arrentela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d8\u05dc\u05d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u043d\u0442\u0435\u043b\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Arrentela"
+    ],
+    "name:por_x_preferred":[
+        "Arrentela"
+    ],
+    "name:por_x_variant":[
+        "Arrentella"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u043d\u0442\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Arrentela"
+    ],
+    "name:tur_x_preferred":[
+        "Arrentela"
+    ],
+    "name:unk_x_variant":[
+        "Arrentella"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Arrentela",
+    "qs:loc_alt":"Arrentela",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026c968a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2271473,
+        "gp:id":736492,
+        "qs:id":1352893,
+        "qs_pg:id":1352893,
+        "wd:id":"Q699457",
+        "wk:page":"Arrentela"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7570d731d173559a1f13caf3572c370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832887,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832887,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527642782,
+    "wof:name":"Arrentela",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":30156,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10545241826003,
+    38.62237552242033,
+    -9.09799290679808,
+    38.62871368999458
+],
+  "geometry": {"coordinates":[[[-9.09799290679808,38.62837547192964],[-9.10302685244073,38.62237552242033],[-9.1040792699813,38.62596108663848],[-9.10519559649191,38.62573557486564],[-9.10545241826003,38.62661037547861],[-9.10433607843731,38.62683589069843],[-9.10488740278066,38.62871368999458],[-9.09799290679808,38.62837547192964]]],"type":"Polygon"}
+}

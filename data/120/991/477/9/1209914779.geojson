@@ -1,0 +1,67 @@
+{
+  "id": 1209914779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68397,41.51304,-8.68397,41.51304",
+    "geom:latitude":41.51304,
+    "geom:longitude":-8.68397,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30234.0",
+    "gn:asciiname":"Vila Seca",
+    "gn:country_code":"PT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732344,
+    "gn:latitude":41.51304,
+    "gn:longitude":-8.68397,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Seca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732344
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"68a21d6e573b51867b04d952a0bdf9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1209914779,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1209914779,
+    "wof:lastmodified":1536374918,
+    "wof:name":"Vila Seca",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68397,
+    41.51304,
+    -8.68397,
+    41.51304
+],
+  "geometry": {"coordinates":[-8.68397,41.51304],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209615659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71842,41.61084,-8.71842,41.61084",
+    "geom:latitude":41.61084,
+    "geom:longitude":-8.71842,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30206.0",
+    "gn:asciiname":"Aldreu",
+    "gn:country_code":"PT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743130,
+    "gn:latitude":41.61084,
+    "gn:longitude":-8.71842,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aldreu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743130
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e74bb3db840cfdd15ed5a41fbf6810bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209615659
+        }
+    ],
+    "wof:id":1209615659,
+    "wof:lastmodified":1536281698,
+    "wof:name":"Aldreu",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71842,
+    41.61084,
+    -8.71842,
+    41.61084
+],
+  "geometry": {"coordinates":[-8.71842,41.61084],"type":"Point"}
+}

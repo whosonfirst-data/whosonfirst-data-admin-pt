@@ -1,0 +1,67 @@
+{
+  "id": 1309901843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50982,37.29973,-8.50982,37.29973",
+    "geom:latitude":37.29973,
+    "geom:longitude":-8.50982,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0809",
+    "gn:admin3_code":"80901.0",
+    "gn:asciiname":"Fornalha",
+    "gn:country_code":"PT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268003,
+    "gn:latitude":37.29973,
+    "gn:longitude":-8.50982,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fornalha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268003
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"59a0da319f47b2fdb4f3577c3e465ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309901843,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1309901843,
+    "wof:lastmodified":1536792953,
+    "wof:name":"Fornalha",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50982,
+    37.29973,
+    -8.50982,
+    37.29973
+],
+  "geometry": {"coordinates":[-8.50982,37.29973],"type":"Point"}
+}

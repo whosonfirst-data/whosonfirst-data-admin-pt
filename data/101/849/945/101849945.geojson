@@ -1,0 +1,86 @@
+{
+  "id": 101849945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.81917,37.890117,-25.81917,37.890117",
+    "geom:latitude":37.890117,
+    "geom:longitude":-25.81917,
+    "iso:country":"PT",
+    "lbl:latitude":37.890117,
+    "lbl:longitude":-25.81917,
+    "mps:latitude":37.890117,
+    "mps:longitude":-25.81917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Mosteiros"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mosteiros",
+    "qs:loc_alt":"Mosteiros",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650988-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":8013534,
+        "gp:id":538169,
+        "qs:id":1082850,
+        "qs_pg:id":993154,
+        "wd:id":"Q996989",
+        "wk:page":"Mosteiros (Ponta Delgada)"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"57a891dd620c7d7556870f0068d80a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849945,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849945,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741191,
+    "wof:name":"Mosteiros",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.81917,
+    37.890117,
+    -25.81917,
+    37.890117
+],
+  "geometry": {"coordinates":[-25.81917,37.890117],"type":"Point"}
+}

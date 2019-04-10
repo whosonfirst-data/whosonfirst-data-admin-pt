@@ -1,0 +1,67 @@
+{
+  "id": 1226208719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23656,39.70058,-8.23656,39.70058",
+    "geom:latitude":39.70058,
+    "geom:longitude":-8.23656,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1411",
+    "gn:admin3_code":"141106.0",
+    "gn:asciiname":"Pombeira",
+    "gn:country_code":"PT",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264568,
+    "gn:latitude":39.70058,
+    "gn:longitude":-8.23656,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pombeira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264568
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5450bbc8177b408748fbd9773704f1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226208719,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1226208719,
+    "wof:lastmodified":1536986307,
+    "wof:name":"Pombeira",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23656,
+    39.70058,
+    -8.23656,
+    39.70058
+],
+  "geometry": {"coordinates":[-8.23656,39.70058],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293353683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.97302,39.59905,-7.97302,39.59905",
+    "geom:latitude":39.59905,
+    "geom:longitude":-7.97302,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141306.0",
+    "gn:asciiname":"Santos",
+    "gn:country_code":"PT",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263406,
+    "gn:latitude":39.59905,
+    "gn:longitude":-7.97302,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Santos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263406
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"83aee66faa74f01555b29fea31ec9a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293353683,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1293353683,
+    "wof:lastmodified":1536979447,
+    "wof:name":"Santos",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.97302,
+    39.59905,
+    -7.97302,
+    39.59905
+],
+  "geometry": {"coordinates":[-7.97302,39.59905],"type":"Point"}
+}

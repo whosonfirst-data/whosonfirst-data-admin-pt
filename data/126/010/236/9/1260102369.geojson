@@ -1,0 +1,67 @@
+{
+  "id": 1260102369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74515,39.89008,-7.74515,39.89008",
+    "geom:latitude":39.89008,
+    "geom:longitude":-7.74515,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0506",
+    "gn:admin3_code":"50604.0",
+    "gn:asciiname":"Vale da Figueira",
+    "gn:country_code":"PT",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262357,
+    "gn:latitude":39.89008,
+    "gn:longitude":-7.74515,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale da Figueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2262357
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f287bea3896f45f86e3ae8d2abfad941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260102369,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1260102369,
+    "wof:lastmodified":1536960829,
+    "wof:name":"Vale da Figueira",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74515,
+    39.89008,
+    -7.74515,
+    39.89008
+],
+  "geometry": {"coordinates":[-7.74515,39.89008],"type":"Point"}
+}

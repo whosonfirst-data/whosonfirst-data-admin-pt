@@ -1,0 +1,63 @@
+{
+  "id": 1209075729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32086,38.91783,-7.32086,38.91783",
+    "geom:latitude":38.91783,
+    "geom:longitude":-7.32086,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1207",
+    "gn:admin3_code":"120711.0",
+    "gn:asciiname":"Vila Fernando",
+    "gn:country_code":"PT",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261644,
+    "gn:latitude":38.91783,
+    "gn:longitude":-7.32086,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila Fernando",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261644
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8e75d3d2e7fa6770a3e9e7f19b73d4a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209075729
+        }
+    ],
+    "wof:id":1209075729,
+    "wof:lastmodified":1536298500,
+    "wof:name":"Vila Fernando",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3208600000000015,
+    38.91783,
+    -7.3208600000000015,
+    38.91783
+],
+  "geometry": {"coordinates":[-7.32086,38.91783],"type":"Point"}
+}

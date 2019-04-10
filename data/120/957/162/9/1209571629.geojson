@@ -1,0 +1,63 @@
+{
+  "id": 1209571629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.58333,37.75,-25.58333,37.75",
+    "geom:latitude":37.75,
+    "geom:longitude":-25.58333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4201",
+    "gn:admin3_code":"420103.0",
+    "gn:asciiname":"Santo Amaro",
+    "gn:country_code":"PT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372638,
+    "gn:latitude":37.75,
+    "gn:longitude":-25.58333,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"Santo Amaro",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372638
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1d3554b87b82e8ff77c357d62dbe011a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209571629
+        }
+    ],
+    "wof:id":1209571629,
+    "wof:lastmodified":1536283065,
+    "wof:name":"Santo Amaro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.58333,
+    37.75,
+    -25.58333,
+    37.75
+],
+  "geometry": {"coordinates":[-25.58333,37.75],"type":"Point"}
+}

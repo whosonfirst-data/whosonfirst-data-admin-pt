@@ -1,0 +1,67 @@
+{
+  "id": 1243267205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35031,40.98806,-8.35031,40.98806",
+    "geom:latitude":40.98806,
+    "geom:longitude":-8.35031,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10411.0",
+    "gn:asciiname":"Cela",
+    "gn:country_code":"PT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740900,
+    "gn:latitude":40.98806,
+    "gn:longitude":-8.35031,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740900
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"91aacf4c87cc169c7047eb7f0eeef17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243267205,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1243267205,
+    "wof:lastmodified":1537061168,
+    "wof:name":"Cela",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35031,
+    40.98806,
+    -8.35031,
+    40.98806
+],
+  "geometry": {"coordinates":[-8.35031,40.98806],"type":"Point"}
+}

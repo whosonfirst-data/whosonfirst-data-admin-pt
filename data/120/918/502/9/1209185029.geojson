@@ -1,0 +1,63 @@
+{
+  "id": 1209185029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10924,38.99207,-9.10924,38.99207",
+    "geom:latitude":38.99207,
+    "geom:longitude":-9.10924,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1112",
+    "gn:admin3_code":"111201.0",
+    "gn:asciiname":"Sabugos",
+    "gn:country_code":"PT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263672,
+    "gn:latitude":38.99207,
+    "gn:longitude":-9.10924,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Sabugos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263672
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"079f5bffc94fb2a90c758d9af8f7a634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209185029
+        }
+    ],
+    "wof:id":1209185029,
+    "wof:lastmodified":1536295129,
+    "wof:name":"Sabugos",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10924,
+    38.99207,
+    -9.10924,
+    38.99207
+],
+  "geometry": {"coordinates":[-9.10924,38.99207],"type":"Point"}
+}

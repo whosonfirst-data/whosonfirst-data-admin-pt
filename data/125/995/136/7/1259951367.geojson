@@ -1,0 +1,67 @@
+{
+  "id": 1259951367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18939,40.03601,-8.18939,40.03601",
+    "geom:latitude":40.03601,
+    "geom:longitude":-8.18939,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1007",
+    "gn:admin3_code":"100701.0",
+    "gn:asciiname":"Pera",
+    "gn:country_code":"PT",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736394,
+    "gn:latitude":40.03601,
+    "gn:longitude":-8.18939,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"P\u00eara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736394
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e12224e92d3ae8c9b23bcde4aad5679e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259951367,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1259951367,
+    "wof:lastmodified":1536681439,
+    "wof:name":"Pera",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18939,
+    40.03601,
+    -8.18939,
+    40.03601
+],
+  "geometry": {"coordinates":[-8.18939,40.03601],"type":"Point"}
+}

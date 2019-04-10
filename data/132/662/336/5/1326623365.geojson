@@ -1,0 +1,67 @@
+{
+  "id": 1326623365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5885,38.29836,-7.5885,38.29836",
+    "geom:latitude":38.29836,
+    "geom:longitude":-7.5885,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0709",
+    "gn:admin3_code":"70902.0",
+    "gn:asciiname":"Monte dos Pernes",
+    "gn:country_code":"PT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265941,
+    "gn:latitude":38.29836,
+    "gn:longitude":-7.5885,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte dos Pernes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265941
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f3fc56c28bce0d0179e0972ad235b2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326623365,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1326623365,
+    "wof:lastmodified":1536851529,
+    "wof:name":"Monte dos Pernes",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5885,
+    38.29836,
+    -7.5885,
+    38.29836
+],
+  "geometry": {"coordinates":[-7.5885,38.29836],"type":"Point"}
+}

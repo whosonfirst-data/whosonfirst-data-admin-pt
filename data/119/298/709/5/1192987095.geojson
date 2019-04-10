@@ -1,0 +1,67 @@
+{
+  "id": 1192987095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.83333,38.55,-27.83333,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":-27.83333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4501",
+    "gn:admin3_code":"450104.0",
+    "gn:asciiname":"Sao Tome",
+    "gn:country_code":"PT",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372586,
+    "gn:latitude":38.55,
+    "gn:longitude":-27.83333,
+    "gn:modification_date":"2011-09-04",
+    "gn:name":"S\u00e3o Tom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372586
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"336334050bdc81ef08b1dfa5855ab9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1192987095,
+            "region_id":85687451
+        }
+    ],
+    "wof:id":1192987095,
+    "wof:lastmodified":1536384688,
+    "wof:name":"Sao Tome",
+    "wof:parent_id":85687451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.83333,
+    38.55,
+    -27.83333,
+    38.55
+],
+  "geometry": {"coordinates":[-27.83333,38.55],"type":"Point"}
+}

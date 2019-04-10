@@ -1,0 +1,123 @@
+{
+  "id": 101759371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000283,
+    "geom:area_square_m":2636223.883023,
+    "geom:bbox":"-8.65689948756,41.059220384,-8.6305779352,41.0786096144",
+    "geom:latitude":41.069253,
+    "geom:longitude":-8.643783,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.068227,
+    "lbl:longitude":-8.640293,
+    "mps:latitude":41.068227,
+    "mps:longitude":-8.640293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Miramar"
+    ],
+    "name:eng_x_preferred":[
+        "Miramar"
+    ],
+    "name:por_x_preferred":[
+        "Praia de Miramar",
+        "Miramar"
+    ],
+    "name:por_x_variant":[
+        "Miro"
+    ],
+    "name:unk_x_variant":[
+        "Miro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Miramar",
+    "qs:loc_alt":"Miramar",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2737643,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Miramar",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1057540,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":743556,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.066667,
+    "wd:longitude":-8.65,
+    "wd:wordcount":311,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0270577a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2737643,
+        "gp:id":743556,
+        "qs:id":1057540,
+        "qs_pg:id":1057540,
+        "wd:id":"Q10352828",
+        "wk:page":"Miramar, Portugal"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"da07f210e430a72b05bf7d3be6e4683b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759371,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759371,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1534379448,
+    "wof:name":"Miramar",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126046171
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65689948756273,
+    41.0592203840223,
+    -8.63057793520051,
+    41.07860961439962
+],
+  "geometry": {"coordinates":[[[-8.63091776360358,41.0762987849451],[-8.63057793520051,41.07451468582883],[-8.6319401144379,41.07425465743444],[-8.63113691568299,41.07163453830248],[-8.63059414639048,41.07173814724189],[-8.63696847276708,41.06264689486875],[-8.63710694123665,41.06309860590352],[-8.6429006106876,41.06199186923783],[-8.64284772045499,41.06181938242833],[-8.64435091924514,41.06272130170248],[-8.64513071989904,41.06526384259359],[-8.64860699214046,41.06459955493187],[-8.6483390830208,41.0637262283214],[-8.6529739528084,41.06284033706396],[-8.65270599454431,41.0619670230123],[-8.65386467920166,41.06174552009372],[-8.65331304421386,41.05994762506799],[-8.65554325008696,41.0592203840223],[-8.65645002978391,41.06217577700613],[-8.65529134463708,41.06239731051215],[-8.65689948756273,41.06763711167207],[-8.65574070615412,41.0678586533769],[-8.65681294702239,41.0713518307191],[-8.65565409903274,41.07157337339504],[-8.65578185927433,41.07198955191762],[-8.64457467830255,41.07544855839052],[-8.64406522418471,41.07378805824192],[-8.64058842173193,41.07445220064238],[-8.64112418775102,41.07619887913825],[-8.63996520952958,41.07642024018259],[-8.64035857472493,41.07770261726409],[-8.63934340171767,41.07839293490895],[-8.63934197169584,41.07838827311281],[-8.6381829494,41.07860961439962],[-8.63764723155242,41.07686292179756],[-8.63532922486513,41.07730554944675],[-8.63506141102567,41.07643219308352],[-8.63390241177638,41.07665348305898],[-8.63363462303835,41.07578012119245],[-8.63091776360358,41.0762987849451]]],"type":"Polygon"}
+}

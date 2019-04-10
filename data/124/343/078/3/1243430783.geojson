@@ -1,0 +1,67 @@
+{
+  "id": 1243430783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4824,41.36716,-8.4824,41.36716",
+    "geom:latitude":41.36716,
+    "geom:longitude":-8.4824,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1314",
+    "gn:admin3_code":"131404.0",
+    "gn:asciiname":"Caldas da Saude",
+    "gn:country_code":"PT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741743,
+    "gn:latitude":41.36716,
+    "gn:longitude":-8.4824,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Caldas da Sa\u00fade",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741743
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2a6d12ec1cf2e0ef9f5e8bd6e8e9ba19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243430783,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1243430783,
+    "wof:lastmodified":1536827174,
+    "wof:name":"Caldas da Saude",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4824,
+    41.36716,
+    -8.4824,
+    41.36716
+],
+  "geometry": {"coordinates":[-8.4824,41.36716],"type":"Point"}
+}

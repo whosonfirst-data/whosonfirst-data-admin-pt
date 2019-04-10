@@ -1,0 +1,67 @@
+{
+  "id": 1327216009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.4811,39.17279,-7.4811,39.17279",
+    "geom:latitude":39.17279,
+    "geom:longitude":-7.4811,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1211",
+    "gn:admin3_code":"121101.0",
+    "gn:asciiname":"Bedanais",
+    "gn:country_code":"PT",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270994,
+    "gn:latitude":39.17279,
+    "gn:longitude":-7.4811,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Bedanais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270994
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"735e13d7ed7ab52b44516f4688c71206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327216009,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1327216009,
+    "wof:lastmodified":1536992494,
+    "wof:name":"Bedanais",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.4811,
+    39.17279,
+    -7.4811,
+    39.17279
+],
+  "geometry": {"coordinates":[-7.4811,39.17279],"type":"Point"}
+}

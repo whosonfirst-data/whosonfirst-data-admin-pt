@@ -1,0 +1,67 @@
+{
+  "id": 1293558079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11458,41.08413,-8.11458,41.08413",
+    "geom:latitude":41.08413,
+    "geom:longitude":-8.11458,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"1804",
+    "gn:admin3_code":"180413.0",
+    "gn:asciiname":"Rossio",
+    "gn:country_code":"PT",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2734995,
+    "gn:latitude":41.08413,
+    "gn:longitude":-8.11458,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rossio",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734995
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fc2773874246b6fe0dcdd7752877f009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293558079,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1293558079,
+    "wof:lastmodified":1536685448,
+    "wof:name":"Rossio",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11458,
+    41.08413,
+    -8.11458,
+    41.08413
+],
+  "geometry": {"coordinates":[-8.11458,41.08413],"type":"Point"}
+}

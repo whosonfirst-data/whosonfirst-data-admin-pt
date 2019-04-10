@@ -1,0 +1,67 @@
+{
+  "id": 1242778109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48001,41.61973,-8.48001,41.61973",
+    "geom:latitude":41.61973,
+    "geom:longitude":-8.48001,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31323.0",
+    "gn:asciiname":"Goja",
+    "gn:country_code":"PT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738971,
+    "gn:latitude":41.61973,
+    "gn:longitude":-8.48001,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Goja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738971
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c542485ae37be3f91fe8a3fdf3fd6ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242778109,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1242778109,
+    "wof:lastmodified":1536775491,
+    "wof:name":"Goja",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48001,
+    41.61973,
+    -8.48001,
+    41.61973
+],
+  "geometry": {"coordinates":[-8.48001,41.61973],"type":"Point"}
+}

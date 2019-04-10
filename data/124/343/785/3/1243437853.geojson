@@ -1,0 +1,67 @@
+{
+  "id": 1243437853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32875,38.6853,-9.32875,38.6853",
+    "geom:latitude":38.6853,
+    "geom:longitude":-9.32875,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1105",
+    "gn:admin3_code":"110502.0",
+    "gn:asciiname":"Lombos",
+    "gn:country_code":"PT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2267004,
+    "gn:latitude":38.6853,
+    "gn:longitude":-9.32875,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lombos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267004
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"bd9fa069bfa4747b9ca55c8015c8e8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243437853,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1243437853,
+    "wof:lastmodified":1536817087,
+    "wof:name":"Lombos",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32875,
+    38.6853,
+    -9.32875,
+    38.6853
+],
+  "geometry": {"coordinates":[-9.32875,38.6853],"type":"Point"}
+}

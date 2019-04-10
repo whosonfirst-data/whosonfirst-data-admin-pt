@@ -1,0 +1,75 @@
+{
+  "id": 101832895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:bbox":"-9.10302685244,38.6145561548,-9.08914262052,38.6284499457",
+    "geom:latitude":38.621919,
+    "geom:longitude":-9.096682,
+    "iso:country":"PT",
+    "lbl:latitude":38.623576,
+    "lbl:longitude":-9.097155,
+    "mps:latitude":38.623576,
+    "mps:longitude":-9.097155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Quinta da Boa Hora"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Quinta da Boa Hora",
+    "qs:loc_alt":"Quinta da Boa Hora",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":148,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":736492,
+        "qs:id":5,
+        "wd:id":"Q10356315"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"827a3b7e51fa8550d72c21b41a450e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832895,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832895,
+    "wof:lastmodified":1527642783,
+    "wof:name":"Quinta da Boa Hora",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10302685244073,
+    38.61455615483152,
+    -9.08914262051712,
+    38.62844994569548
+],
+  "geometry": {"coordinates":[[[-9.09407152409182,38.6281244881078],[-9.0924921063467,38.6227410584662],[-9.08994270728596,38.62325570082783],[-9.08914262051712,38.61991525786772],[-9.09127717523523,38.61859893383661],[-9.09197887082956,38.62099135810757],[-9.09532768642106,38.62031521554695],[-9.09455778420335,38.61769068090825],[-9.09187000446326,38.61823335156652],[-9.09783295693853,38.61455615483152],[-9.102660150242,38.6211261758146],[-9.10302685244073,38.62237552242033],[-9.09799290679808,38.62837547192964],[-9.0978291502546,38.62844994569548],[-9.09407152409182,38.6281244881078]]],"type":"Polygon"}
+}

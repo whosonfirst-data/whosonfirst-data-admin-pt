@@ -1,0 +1,67 @@
+{
+  "id": 1292897699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10866,40.20291,-8.10866,40.20291",
+    "geom:latitude":40.20291,
+    "geom:longitude":-8.10866,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60113.0",
+    "gn:asciiname":"Alcaria",
+    "gn:country_code":"PT",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743224,
+    "gn:latitude":40.20291,
+    "gn:longitude":-8.10866,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alcaria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743224
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5bbdcfe2067ad5b6469f0867122578e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292897699,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1292897699,
+    "wof:lastmodified":1536642500,
+    "wof:name":"Alcaria",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10866,
+    40.20291,
+    -8.10866,
+    40.20291
+],
+  "geometry": {"coordinates":[-8.10866,40.20291],"type":"Point"}
+}

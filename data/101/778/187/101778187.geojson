@@ -1,0 +1,81 @@
+{
+  "id": 101778187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:bbox":"-7.32203574102,38.774255452,-7.3139396142,38.7796805608",
+    "geom:latitude":38.776899,
+    "geom:longitude":-7.318177,
+    "iso:country":"PT",
+    "lbl:latitude":38.777152,
+    "lbl:longitude":-7.3181,
+    "mps:latitude":38.777152,
+    "mps:longitude":-7.3181,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Ciladas",
+        "Cilada.com"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*\u00c9vora",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Ciladas",
+    "qs:la_lc":"*PT10714020",
+    "qs:level":"locality",
+    "qs:loc":"Ciladas",
+    "qs:loc_alt":"Ciladas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026574cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2269216,
+        "gp:id":739579,
+        "qs:id":6,
+        "wd:id":"Q5119927"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d133771bffb7f41af8a8a2bf0c0e07f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778187,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":101778187,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653250,
+    "wof:name":"Ciladas",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.322035741023,
+    38.77425545198059,
+    -7.31393961420093,
+    38.77968056076736
+],
+  "geometry": {"coordinates":[[[-7.31688774242275,38.77968056076736],[-7.31665380977199,38.77880023801896],[-7.31553060705835,38.77900490682902],[-7.31529669686017,38.7781245790992],[-7.31417350194727,38.77832923169115],[-7.31393961420093,38.77744889898077],[-7.31506279534636,38.77724424954579],[-7.31459501836974,38.7754835849679],[-7.32133381474728,38.77425545198059],[-7.322035741023,38.77689638927524],[-7.32091258191582,38.7771011202301],[-7.32114656094859,38.77798143217115],[-7.32002338210657,38.77818615322406],[-7.32025735605976,38.77906646649893],[-7.31688774242275,38.77968056076736]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1126040205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71175,39.445265,-8.71175,39.445265",
+    "geom:latitude":39.445265,
+    "geom:longitude":-8.71175,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":39.445265,
+    "lbl:longitude":-8.71175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nascentes do Alviela",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Santar\u00e9m",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":970347,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":29383962,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Santar\u00e9m",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29383962,
+        "qs_pg:id":970347
+    },
+    "wof:country":"PT",
+    "wof:created":1497302097,
+    "wof:geomhash":"c08f549b1da6bb1be7b86c63cd88c30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126040205,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1126040205,
+    "wof:lastmodified":1509408458,
+    "wof:name":"Nascentes do Alviela",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71175,
+    39.445265,
+    -8.71175,
+    39.445265
+],
+  "geometry": {"coordinates":[-8.71175,39.445265],"type":"Point"}
+}

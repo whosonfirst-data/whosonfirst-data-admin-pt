@@ -1,0 +1,95 @@
+{
+  "id": 101759359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1668558.076658,
+    "geom:bbox":"-8.62649337336,41.0987814359,-8.60621437333,41.1162254108",
+    "geom:latitude":41.107138,
+    "geom:longitude":-8.617694,
+    "iso:country":"PT",
+    "lbl:latitude":41.107059,
+    "lbl:longitude":-8.61754,
+    "mps:latitude":41.107059,
+    "mps:longitude":-8.61754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Junqueira"
+    ],
+    "name:fra_x_preferred":[
+        "Junqueira"
+    ],
+    "name:nld_x_preferred":[
+        "Junqueira"
+    ],
+    "name:por_x_preferred":[
+        "Junqueira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0443\u043d\u043a\u0435\u0439\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Junqueira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Junqueira",
+    "qs:loc_alt":"Junqueira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0268d9a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2738624,
+        "gp:id":742313,
+        "qs:id":3
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1514e730cdfd6f44dae8ad2e14cdd933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759359,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759359,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527714680,
+    "wof:name":"Junqueira",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62649337336427,
+    41.09878143587292,
+    -8.60621437332748,
+    41.11622541080129
+],
+  "geometry": {"coordinates":[[[-8.61176389201063,41.10213956453498],[-8.61221813473929,41.10240676614001],[-8.61377294187503,41.102184650835],[-8.61458736466034,41.09974138247884],[-8.61590729124356,41.09878143587292],[-8.61673447927632,41.09914907499848],[-8.61851140171717,41.09929715186848],[-8.61873351702224,41.10166638178976],[-8.62073255476815,41.10196253552982],[-8.62206526866589,41.10207842369488],[-8.62338873723235,41.10639399790324],[-8.62649337336427,41.10580173874297],[-8.62621139896061,41.10684907224203],[-8.62621139896061,41.11622541080129],[-8.6257755000002,41.116008],[-8.62476800000019,41.11550499999987],[-8.62259022802897,41.11579080157924],[-8.62374844317117,41.11556991998282],[-8.62267678097191,41.11207650355789],[-8.61803805353213,41.11296107693119],[-8.61830589415916,41.1138344483233],[-8.61705729140135,41.1140725010697],[-8.61548550000015,41.11290749999989],[-8.61540650000018,41.11283449999985],[-8.6153755000002,41.11280599999981],[-8.61532400000021,41.112758],[-8.61206900000019,41.10974099999987],[-8.60751150000021,41.10512549999993],[-8.60621437332748,41.10353891723895],[-8.60737932835366,41.10221327876081],[-8.60759991225467,41.10293325031449],[-8.61176389201063,41.10213956453498]]],"type":"Polygon"}
+}

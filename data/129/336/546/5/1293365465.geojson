@@ -1,0 +1,67 @@
+{
+  "id": 1293365465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.578,38.3955,-8.578,38.3955",
+    "geom:latitude":38.3955,
+    "geom:longitude":-8.578,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1501",
+    "gn:admin3_code":"150101.0",
+    "gn:asciiname":"Batalha",
+    "gn:country_code":"PT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271008,
+    "gn:latitude":38.3955,
+    "gn:longitude":-8.578,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Batalha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271008
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d4770fe8418eb58b5828663b97867ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293365465,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1293365465,
+    "wof:lastmodified":1536962866,
+    "wof:name":"Batalha",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.578,
+    38.3955,
+    -8.578,
+    38.3955
+],
+  "geometry": {"coordinates":[-8.578,38.3955],"type":"Point"}
+}

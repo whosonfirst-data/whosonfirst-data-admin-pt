@@ -1,0 +1,63 @@
+{
+  "id": 1209235737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.87663,40.37209,-7.87663,40.37209",
+    "geom:latitude":40.37209,
+    "geom:longitude":-7.87663,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0611",
+    "gn:admin3_code":"61104.0",
+    "gn:asciiname":"Fonte da Urgueira",
+    "gn:country_code":"PT",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739464,
+    "gn:latitude":40.37209,
+    "gn:longitude":-7.87663,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Fonte da Urgueira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739464
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"45c6d261799dc03aaeee563f9ed59968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209235737
+        }
+    ],
+    "wof:id":1209235737,
+    "wof:lastmodified":1536293488,
+    "wof:name":"Fonte da Urgueira",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.87663,
+    40.37209,
+    -7.87663,
+    40.37209
+],
+  "geometry": {"coordinates":[-7.87663,40.37209],"type":"Point"}
+}

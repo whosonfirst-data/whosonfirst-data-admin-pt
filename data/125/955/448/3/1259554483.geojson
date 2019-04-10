@@ -1,0 +1,67 @@
+{
+  "id": 1259554483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3,38.91667,-9.3,38.91667",
+    "geom:latitude":38.91667,
+    "geom:longitude":-9.3,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1109",
+    "gn:admin3_code":"110917.0",
+    "gn:asciiname":"Casa Velha",
+    "gn:country_code":"PT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269603,
+    "gn:latitude":38.91667,
+    "gn:longitude":-9.3,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Casa Velha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269603
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e6b10ef1a35de28ce09e136f08eed1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259554483,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1259554483,
+    "wof:lastmodified":1536756851,
+    "wof:name":"Casa Velha",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3,
+    38.91667,
+    -9.3,
+    38.91667
+],
+  "geometry": {"coordinates":[-9.3,38.91667],"type":"Point"}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 101774941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:bbox":"-8.27705856036,41.032685469,-8.25177378949,41.0449303055",
+    "geom:latitude":41.039346,
+    "geom:longitude":-8.2632,
+    "geonames:id":"2733936,2741001",
+    "iso:country":"PT",
+    "lbl:latitude":41.039296,
+    "lbl:longitude":-8.261955,
+    "mps:latitude":41.039296,
+    "mps:longitude":-8.261955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:deu_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:eus_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:fin_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:fra_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:ita_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:msa_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:mwl_x_preferred":[
+        "Castielho de Paiba"
+    ],
+    "name:nld_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:pol_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:por_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b\u0443-\u0434\u0438-\u041f\u0430\u0439\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:tur_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0448\u0442\u0435\u043b\u0443-\u0434\u0435-\u041f\u0430\u0439\u0432\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Castelo de Paiva"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u74e6\u5821"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Bairros",
+    "qs:la_lc":"*PT10106011",
+    "qs:level":"locality",
+    "qs:loc":"Castelo de Paiva",
+    "qs:loc_alt":"Castelo de Paiva",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.033333,
+    "wd:longitude":-8.266667,
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741001,
+        "gp:id":23388194,
+        "qs:id":960283,
+        "wd:id":"Q397379"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"513663ea7765cd9c3823d21dcae4a798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101774941,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101774941,
+    "wof:lastmodified":1527715884,
+    "wof:name":"Castelo de Paiva",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27705856036494,
+    41.03268546902763,
+    -8.25177378949041,
+    41.04493030548531
+],
+  "geometry": {"coordinates":[[[-8.26393301715177,41.04493030548531],[-8.26367072251611,41.04405568633769],[-8.26251128052871,41.04427259665994],[-8.26198675122765,41.04252334573096],[-8.25966790586136,41.04295711168368],[-8.25940568611998,41.04208247636274],[-8.25824626781593,41.04229933553478],[-8.25693539427289,41.03792611347967],[-8.25229794927492,41.03879334428507],[-8.25177378949041,41.03704401420271],[-8.25293313143175,41.03682723384156],[-8.25240898192146,41.03507790343855],[-8.25472758503008,41.03464431634592],[-8.25498968461631,41.03551897539512],[-8.25846758134486,41.03486848283109],[-8.25820543699251,41.03399383439921],[-8.259364706925,41.03377698006864],[-8.25910255768446,41.03290233332586],[-8.26026180566873,41.03268546902763],[-8.26131052251543,41.03618403073835],[-8.26362911676358,41.03575023330143],[-8.26389135090483,41.03662486202234],[-8.26505065240514,41.03640793950206],[-8.26609974902919,41.0399064217155],[-8.27189644948129,41.03882153567457],[-8.27215882334525,41.03969613389154],[-8.27679611677473,41.03882796775076],[-8.27705856036494,41.03970254994499],[-8.27589923264026,41.03991961528459],[-8.27616167135386,41.04079419916991],[-8.27500232167188,41.04101125454497],[-8.27526475550832,41.04188584012172],[-8.27410538386789,41.04210288553168],[-8.27436781282637,41.04297747279952],[-8.27320841922676,41.04319450824443],[-8.27294600519139,41.04231991743342],[-8.27062722673128,41.04275394071209],[-8.27036485258611,41.04187934096461],[-8.26688667690513,41.04253026394167],[-8.26714900627775,41.04340487431529],[-8.26598958539086,41.0436218251653],[-8.2662519098788,41.04449643722984],[-8.26393301715177,41.04493030548531]]],"type":"Polygon"}
+}

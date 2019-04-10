@@ -1,0 +1,61 @@
+{
+  "id": 1108942499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.18348616343,38.7458531331,-9.18348616343,38.7458531331",
+    "geom:latitude":38.745853,
+    "geom:longitude":-9.183486,
+    "iso:country":"PT",
+    "lbl:latitude":38.745853,
+    "lbl:longitude":-9.183486,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363131,
+    "wof:geomhash":"98fa2f96112b1835792922c7f490e466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942499,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942499,
+    "wof:lastmodified":1492123639,
+    "wof:name":"Bairro Grandella",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1834861634344,
+    38.74585313312166,
+    -9.1834861634344,
+    38.74585313312166
+],
+  "geometry": {"coordinates":[-9.1834861634344,38.74585313312166],"type":"Point"}
+}

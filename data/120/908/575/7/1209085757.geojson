@@ -1,0 +1,63 @@
+{
+  "id": 1209085757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96957,39.62083,-8.96957,39.62083",
+    "geom:latitude":39.62083,
+    "geom:longitude":-8.96957,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"100103.0",
+    "gn:asciiname":"Ribeira do Pereiro",
+    "gn:country_code":"PT",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263877,
+    "gn:latitude":39.62083,
+    "gn:longitude":-8.96957,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ribeira do Pereiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263877
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0103cd9c6a430a5841ef3cabf60cd4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209085757
+        }
+    ],
+    "wof:id":1209085757,
+    "wof:lastmodified":1536298192,
+    "wof:name":"Ribeira do Pereiro",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96957,
+    39.62083,
+    -8.96957,
+    39.62083
+],
+  "geometry": {"coordinates":[-8.96957,39.62083],"type":"Point"}
+}

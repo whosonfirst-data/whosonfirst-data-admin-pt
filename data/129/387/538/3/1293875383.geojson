@@ -1,0 +1,67 @@
+{
+  "id": 1293875383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30985,40.06253,-8.30985,40.06253",
+    "geom:latitude":40.06253,
+    "geom:longitude":-8.30985,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0609",
+    "gn:admin3_code":"60905.0",
+    "gn:asciiname":"Barbens",
+    "gn:country_code":"PT",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742428,
+    "gn:latitude":40.06253,
+    "gn:longitude":-8.30985,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Barbens",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742428
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"30ff434a258b5af3430f4482b28fe6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293875383,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1293875383,
+    "wof:lastmodified":1536725435,
+    "wof:name":"Barbens",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30985,
+    40.06253,
+    -8.30985,
+    40.06253
+],
+  "geometry": {"coordinates":[-8.30985,40.06253],"type":"Point"}
+}

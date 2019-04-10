@@ -1,0 +1,93 @@
+{
+  "id": 1125810391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-17.21146,32.73884,-17.21146,32.73884",
+    "geom:latitude":32.73884,
+    "geom:longitude":-17.21146,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":252,
+    "gn:population":252,
+    "iso:country":"PT",
+    "lbl:latitude":32.73884,
+    "lbl:longitude":-17.21146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u0440\u0434\u0438\u043d-\u0434\u0443-\u041c\u0430\u0440"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2267366,
+    "qs_pg:gn_pop":252,
+    "qs_pg:name":"Jardim do Mar",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Madeira",
+    "qs_pg:photos":228,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":228,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":228933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742244,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Madeira",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2267366,
+        "gp:id":742244,
+        "qs_pg:id":228933
+    },
+    "wof:country":"PT",
+    "wof:created":1497291633,
+    "wof:geomhash":"0d44313e0b3fd7a8fc7f6236c2e64ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125810391,
+            "region_id":85687345
+        }
+    ],
+    "wof:id":1125810391,
+    "wof:lastmodified":1509393498,
+    "wof:name":"Jardim do Mar",
+    "wof:parent_id":85687345,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -17.21146,
+    32.73884,
+    -17.21146,
+    32.73884
+],
+  "geometry": {"coordinates":[-17.21146,32.73884],"type":"Point"}
+}

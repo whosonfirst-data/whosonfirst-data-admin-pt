@@ -1,0 +1,93 @@
+{
+  "id": 101850001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.091477,38.666863,-27.091477,38.666863",
+    "geom:latitude":38.666863,
+    "geom:longitude":-27.091477,
+    "iso:country":"PT",
+    "lbl:latitude":38.666863,
+    "lbl:longitude":-27.091477,
+    "mps:latitude":38.666863,
+    "mps:longitude":-27.091477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_colloquial":[
+        "S Sebastiao",
+        "S. Sebastiao",
+        "Sao Sebastiao"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Sebasti\u00e3o"
+    ],
+    "name:por_x_variant":[
+        "Vila de S Sebastiao",
+        "Vila de S. Sebastiao",
+        "Vila de Sao Sebastiao"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u00e3o Sebasti\u00e3o",
+    "qs:loc_alt":"Sao Sebastiao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02651f4a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372588,
+        "gp:id":538375,
+        "qs:id":502322,
+        "qs_pg:id":502322
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"153fc357ce8315ff427353d17f514499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101850001,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":101850001,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741216,
+    "wof:name":"S\u00e3o Sebasti\u00e3o",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.091477,
+    38.666863,
+    -27.091477,
+    38.666863
+],
+  "geometry": {"coordinates":[-27.091477,38.666863],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 101759183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"-9.0970541213,38.8284685502,-9.08691091124,38.8383038618",
+    "geom:latitude":38.832475,
+    "geom:longitude":-9.092422,
+    "iso:country":"PT",
+    "lbl:latitude":38.832306,
+    "lbl:longitude":-9.093191,
+    "mps:latitude":38.832306,
+    "mps:longitude":-9.093191,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro do Estacal Novo",
+    "qs:loc_alt":"Bairro do Estacal Novo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":748193,
+        "qs:id":6
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9b55e2634dbcb492c5b2e060affd5de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759183,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759183,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro do Estacal Novo",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09705412130279,
+    38.8284685502021,
+    -9.08691091124115,
+    38.83830386178096
+],
+  "geometry": {"coordinates":[[[-9.08691091124115,38.82851233139763],[-9.08700820278665,38.8284685502021],[-9.08967266442659,38.82942775639265],[-9.09116476294508,38.82942775639265],[-9.09308317532594,38.82942775639265],[-9.09521474463804,38.82974749178936],[-9.09705412130279,38.83123651099419],[-9.09649368622524,38.83315800268866],[-9.09537875008851,38.83830386178096],[-9.09457527384438,38.83763429824404],[-9.09350948918842,38.83646193512243],[-9.09223054760116,38.83496983660393],[-9.08945950749552,38.83390405194785],[-9.08828714437385,38.8333711596199],[-9.08764767358019,38.83198563956705],[-9.08691091124115,38.82851233139763]]],"type":"Polygon"}
+}

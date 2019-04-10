@@ -1,0 +1,67 @@
+{
+  "id": 1309709141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05452,40.33617,-8.05452,40.33617",
+    "geom:latitude":40.33617,
+    "geom:longitude":-8.05452,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0616",
+    "gn:admin3_code":"61613.0",
+    "gn:asciiname":"Olivais",
+    "gn:country_code":"PT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737065,
+    "gn:latitude":40.33617,
+    "gn:longitude":-8.05452,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Olivais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737065
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8887bd1cd3e417be45822fff7dcb730d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309709141,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1309709141,
+    "wof:lastmodified":1537067578,
+    "wof:name":"Olivais",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05452,
+    40.33617,
+    -8.05452,
+    40.33617
+],
+  "geometry": {"coordinates":[-8.05452,40.33617],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1125791459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-31.11667,39.45,-31.11667,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":-31.11667,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":39.45,
+    "lbl:longitude":-31.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4\ub2e4\uc2a4\ud50c\ub85c\ub974\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Kruz das Flore\u0161as"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0448-\u0434\u0430\u0448-\u0424\u043b\u043e\u0440\u0438\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Santa Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u514b\u9b6f\u4ec0\u9054\u4ec0\u5f17\u6d1b\u91cc\u4ec0"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3372643,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Santa Cruz das Flores",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Azores",
+    "qs_pg:photos":51,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":51,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":336785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":538328,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Azores",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372643,
+        "gp:id":538328,
+        "qs_pg:id":336785
+    },
+    "wof:country":"PT",
+    "wof:created":1497290879,
+    "wof:geomhash":"a82d3c171be2717926f0a743c005c86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125791459,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125791459,
+    "wof:lastmodified":1509392374,
+    "wof:name":"Santa Cruz das Flores",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -31.11667,
+    39.45,
+    -31.11667,
+    39.45
+],
+  "geometry": {"coordinates":[-31.11667,39.45],"type":"Point"}
+}

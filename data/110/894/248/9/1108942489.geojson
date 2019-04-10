@@ -1,0 +1,65 @@
+{
+  "id": 1108942489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15107075711,38.7759260435,-9.15107075711,38.7759260435",
+    "geom:latitude":38.775926,
+    "geom:longitude":-9.151071,
+    "iso:country":"PT",
+    "lbl:latitude":38.775926,
+    "lbl:longitude":-9.151071,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:note":"New big development",
+    "mz:tier_metro":30,
+    "name:pol_x_variant":[
+        "Alto do Lumiar"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363119,
+    "wof:geomhash":"a7a40febfc56fcee4a3e7f0e1667e1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942489,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942489,
+    "wof:lastmodified":1497292365,
+    "wof:name":"Alta de Lisboa",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15107075710985,
+    38.77592604354589,
+    -9.15107075710985,
+    38.77592604354589
+],
+  "geometry": {"coordinates":[-9.15107075710985,38.77592604354589],"type":"Point"}
+}

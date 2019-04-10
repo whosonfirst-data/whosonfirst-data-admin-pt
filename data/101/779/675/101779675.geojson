@@ -1,0 +1,77 @@
+{
+  "id": 101779675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"-7.60998395408,38.0325450015,-7.59882243377,38.0402113226",
+    "geom:latitude":38.036372,
+    "geom:longitude":-7.604862,
+    "iso:country":"PT",
+    "lbl:latitude":38.036224,
+    "lbl:longitude":-7.604862,
+    "mps:latitude":38.036224,
+    "mps:longitude":-7.604862,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Brinches"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Beja",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Brinches",
+    "qs:la_lc":"*PT10213020",
+    "qs:level":"locality",
+    "qs:loc":"Brinches",
+    "qs:loc_alt":"Brinches",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026e4ffc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270676,
+        "gp:id":737569,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"98d0108a10cd8e445c679a155aef1211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779675,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":101779675,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1466625908,
+    "wof:name":"Brinches",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.60998395407563,
+    38.03254500153668,
+    -7.59882243376523,
+    38.04021132257691
+],
+  "geometry": {"coordinates":[[[-7.60577432469495,38.04021132257691],[-7.60554119590859,38.03933092804311],[-7.60331978178766,38.03974631567513],[-7.6030866881614,38.0388659129809],[-7.60197598564343,38.03907358432326],[-7.60174291387551,38.03819317660975],[-7.60063221882029,38.03840083192318],[-7.60039916890975,38.03752041919091],[-7.59928848131796,38.03772805847569],[-7.59882243376523,38.03596722109614],[-7.59993309475703,38.03575958809063],[-7.59970007051379,38.03487916972273],[-7.60081071236988,38.03467152696874],[-7.60057768338288,38.03379110986168],[-7.60724133215717,38.03254500153668],[-7.60747444092937,38.03342539980281],[-7.60858504192373,38.03321766683564],[-7.60998395407563,38.03849999811666],[-7.6088732732938,38.03870774993078],[-7.60910644198049,38.03958813504084],[-7.60577432469495,38.04021132257691]]],"type":"Polygon"}
+}

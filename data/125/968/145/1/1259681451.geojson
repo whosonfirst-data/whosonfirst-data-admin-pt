@@ -1,0 +1,67 @@
+{
+  "id": 1259681451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14996,39.65512,-8.14996,39.65512",
+    "geom:latitude":39.65512,
+    "geom:longitude":-8.14996,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0510",
+    "gn:admin3_code":"51003.0",
+    "gn:asciiname":"Brejo Cimeiro",
+    "gn:country_code":"PT",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270692,
+    "gn:latitude":39.65512,
+    "gn:longitude":-8.14996,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Brejo Cimeiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270692
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5180fefc602fb9aee02ce76b250ddd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259681451,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1259681451,
+    "wof:lastmodified":1537067048,
+    "wof:name":"Brejo Cimeiro",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14996,
+    39.65512,
+    -8.14996,
+    39.65512
+],
+  "geometry": {"coordinates":[-8.14996,39.65512],"type":"Point"}
+}

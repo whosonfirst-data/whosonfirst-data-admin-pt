@@ -1,0 +1,67 @@
+{
+  "id": 1243342901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57767,39.98921,-8.57767,39.98921",
+    "geom:latitude":39.98921,
+    "geom:longitude":-8.57767,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1015",
+    "gn:admin3_code":"101510.0",
+    "gn:asciiname":"Caruncho",
+    "gn:country_code":"PT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270021,
+    "gn:latitude":39.98921,
+    "gn:longitude":-8.57767,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Caruncho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270021
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"1b00d5141a11a4dcdcac2358cca86346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243342901,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1243342901,
+    "wof:lastmodified":1536954992,
+    "wof:name":"Caruncho",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57767,
+    39.98921,
+    -8.57767,
+    39.98921
+],
+  "geometry": {"coordinates":[-8.57767,39.98921],"type":"Point"}
+}

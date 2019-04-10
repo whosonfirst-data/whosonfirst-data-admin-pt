@@ -1,0 +1,67 @@
+{
+  "id": 1226741429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76804,40.321,-8.76804,40.321",
+    "geom:latitude":40.321,
+    "geom:longitude":-8.76804,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0602",
+    "gn:admin3_code":"60214.0",
+    "gn:asciiname":"Berlengas",
+    "gn:country_code":"PT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742257,
+    "gn:latitude":40.321,
+    "gn:longitude":-8.76804,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Berlengas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742257
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ef2570434dc5f33aaf50488886cd03c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226741429,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226741429,
+    "wof:lastmodified":1536722122,
+    "wof:name":"Berlengas",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76804,
+    40.321,
+    -8.76804,
+    40.321
+],
+  "geometry": {"coordinates":[-8.76804,40.321],"type":"Point"}
+}

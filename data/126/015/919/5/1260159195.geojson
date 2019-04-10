@@ -1,0 +1,67 @@
+{
+  "id": 1260159195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10534,40.41561,-7.10534,40.41561",
+    "geom:latitude":40.41561,
+    "geom:longitude":-7.10534,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0911",
+    "gn:admin3_code":"91139.0",
+    "gn:asciiname":"Vila do Touro",
+    "gn:country_code":"PT",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732645,
+    "gn:latitude":40.41561,
+    "gn:longitude":-7.10534,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vila do Touro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732645
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2a052c6fd3db7092be224e4631660ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260159195,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1260159195,
+    "wof:lastmodified":1536880610,
+    "wof:name":"Vila do Touro",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10534,
+    40.41561,
+    -7.10534,
+    40.41561
+],
+  "geometry": {"coordinates":[-7.10534,40.41561],"type":"Point"}
+}

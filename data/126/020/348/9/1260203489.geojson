@@ -1,0 +1,67 @@
+{
+  "id": 1260203489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41779,38.44565,-7.41779,38.44565",
+    "geom:latitude":38.44565,
+    "geom:longitude":-7.41779,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0711",
+    "gn:admin3_code":"71103.0",
+    "gn:asciiname":"Monte Barrocal",
+    "gn:country_code":"PT",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266217,
+    "gn:latitude":38.44565,
+    "gn:longitude":-7.41779,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte Barrocal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266217
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a5ecdcbe63e9783b600b0834736b3f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260203489,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1260203489,
+    "wof:lastmodified":1536819700,
+    "wof:name":"Monte Barrocal",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41779,
+    38.44565,
+    -7.41779,
+    38.44565
+],
+  "geometry": {"coordinates":[-7.41779,38.44565],"type":"Point"}
+}

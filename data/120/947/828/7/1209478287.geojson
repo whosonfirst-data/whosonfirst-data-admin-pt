@@ -1,0 +1,63 @@
+{
+  "id": 1209478287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28688,39.61051,-8.28688,39.61051",
+    "geom:latitude":39.61051,
+    "geom:longitude":-8.28688,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141815.0",
+    "gn:asciiname":"Ventuzel",
+    "gn:country_code":"PT",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261723,
+    "gn:latitude":39.61051,
+    "gn:longitude":-8.28688,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ventuzel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261723
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6bd47e41bb5b76240dcf593fc30bb1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209478287
+        }
+    ],
+    "wof:id":1209478287,
+    "wof:lastmodified":1536285865,
+    "wof:name":"Ventuzel",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28688,
+    39.61051,
+    -8.28688,
+    39.61051
+],
+  "geometry": {"coordinates":[-8.28688,39.61051],"type":"Point"}
+}

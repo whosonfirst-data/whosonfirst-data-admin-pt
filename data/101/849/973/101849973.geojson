@@ -1,0 +1,116 @@
+{
+  "id": 101849973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.690172,37.836048,-25.690172,37.836048",
+    "geom:latitude":37.836048,
+    "geom:longitude":-25.690172,
+    "iso:country":"PT",
+    "lbl:latitude":37.836048,
+    "lbl:longitude":-25.690172,
+    "mps:latitude":37.836048,
+    "mps:longitude":-25.690172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Capelas"
+    ],
+    "name:dut_x_preferred":[
+        "Capelas"
+    ],
+    "name:eng_x_preferred":[
+        "Capelas"
+    ],
+    "name:ger_x_preferred":[
+        "Capelas"
+    ],
+    "name:may_x_preferred":[
+        "Capelas"
+    ],
+    "name:msa_x_preferred":[
+        "Capelas"
+    ],
+    "name:por_x_preferred":[
+        "Capelas"
+    ],
+    "name:por_x_variant":[
+        "Capellas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Capelas"
+    ],
+    "name:unk_x_variant":[
+        "Capellas"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Capelas",
+    "qs:loc_alt":"Capelas",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":681,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264f60a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3373217,
+        "gp:id":537960,
+        "qs:id":1165737,
+        "qs_pg:id":246333,
+        "wd:id":"Q1997594",
+        "wk:page":"Capelas"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3b5e380defc900456284ec779b762268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849973,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849973,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741203,
+    "wof:name":"Capelas",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.690172,
+    37.836048,
+    -25.690172,
+    37.836048
+],
+  "geometry": {"coordinates":[-25.690172,37.836048],"type":"Point"}
+}

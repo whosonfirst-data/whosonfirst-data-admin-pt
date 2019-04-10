@@ -1,0 +1,92 @@
+{
+  "id": 1125853421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4101,41.37034,-8.4101,41.37034",
+    "geom:latitude":41.37034,
+    "geom:longitude":-8.4101,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8507,
+    "gn:population":8507,
+    "iso:country":"PT",
+    "lbl:latitude":41.37034,
+    "lbl:longitude":-8.4101,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2742577,
+    "qs_pg:gn_pop":8507,
+    "qs_pg:name":"Aves",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":206181,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":736670,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742577,
+        "gp:id":736670,
+        "qs_pg:id":206181
+    },
+    "wof:country":"PT",
+    "wof:created":1497293509,
+    "wof:geomhash":"f6e2a4bc228bff0fde6470b90107169b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125853421,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125853421,
+    "wof:lastmodified":1534379450,
+    "wof:name":"Aves",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:population":8507,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101831435
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4101,
+    41.37034,
+    -8.4101,
+    41.37034
+],
+  "geometry": {"coordinates":[-8.4101,41.37034],"type":"Point"}
+}

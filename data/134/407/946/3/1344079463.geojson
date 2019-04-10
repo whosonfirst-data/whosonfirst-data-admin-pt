@@ -1,0 +1,73 @@
+{
+  "id": 1344079463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62723,41.77726,-6.62723,41.77726",
+    "geom:latitude":41.77726,
+    "geom:longitude":-6.62723,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0402",
+    "gn:admin3_code":"40223.0",
+    "gn:asciiname":"Milhao",
+    "gn:country_code":"PT",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737678,
+    "gn:latitude":41.77726,
+    "gn:longitude":-6.62723,
+    "gn:modification_date":"2018-02-11",
+    "gn:name":"Milh\u00e3o",
+    "gn:population":364,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milh\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737678
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"45a250c3f64bae7d92d35d3e94e84ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344079463,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1344079463,
+    "wof:lastmodified":1537683167,
+    "wof:name":"Milhao",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62723,
+    41.77726,
+    -6.62723,
+    41.77726
+],
+  "geometry": {"coordinates":[-6.62723,41.77726],"type":"Point"}
+}

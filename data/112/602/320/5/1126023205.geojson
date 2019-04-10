@@ -1,0 +1,80 @@
+{
+  "id": 1126023205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.901693,38.730384,-8.901693,38.730384",
+    "geom:latitude":38.730384,
+    "geom:longitude":-8.901693,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":38.730384,
+    "lbl:longitude":-8.901693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Barroca de Alva",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Set\u00fabal",
+    "qs_pg:photos":121,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":121,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":888395,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":55867397,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Set\u00fabal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55867397,
+        "qs_pg:id":888395
+    },
+    "wof:country":"PT",
+    "wof:created":1497300959,
+    "wof:geomhash":"4e45ae76e0694936240231b77142fb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126023205,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1126023205,
+    "wof:lastmodified":1509407355,
+    "wof:name":"Barroca de Alva",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.901693,
+    38.730384,
+    -8.901693,
+    38.730384
+],
+  "geometry": {"coordinates":[-8.901693,38.730384],"type":"Point"}
+}

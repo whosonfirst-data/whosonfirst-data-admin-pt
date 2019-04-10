@@ -1,0 +1,69 @@
+{
+  "id": 101759123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:bbox":"-9.12681055353,38.7989829202,-9.11904356442,38.8074360771",
+    "geom:latitude":38.803618,
+    "geom:longitude":-9.123128,
+    "iso:country":"PT",
+    "lbl:latitude":38.803773,
+    "lbl:longitude":-9.123202,
+    "mps:latitude":38.803773,
+    "mps:longitude":-9.123202,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro Santiago",
+    "qs:loc_alt":"Bairro Santiago",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56069193,
+        "qs:id":6
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3344ff6ce9942db1fdc58ced9b0cfbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759123,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759123,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Bairro Santiago",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12681055352522,
+    38.79898292017936,
+    -9.11904356441903,
+    38.80743607706245
+],
+  "geometry": {"coordinates":[[[-9.12607751230524,38.79938657196226],[-9.12681055352522,38.80213547653716],[-9.12507500053607,38.80705287667314],[-9.12317594777755,38.80743607706245],[-9.12291763736647,38.80656157333772],[-9.11956007619835,38.80723896950229],[-9.11904356441903,38.8054899352137],[-9.12016273120787,38.80526415638252],[-9.11913189168018,38.80177326793432],[-9.12077374347842,38.80177326793432],[-9.12391288470275,38.80020369732216],[-9.12548245531497,38.79898292017936],[-9.12548245531497,38.79923780771458],[-9.12607751230524,38.79938657196226]]],"type":"Polygon"}
+}

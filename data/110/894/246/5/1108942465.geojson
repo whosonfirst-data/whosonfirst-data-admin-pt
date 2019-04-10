@@ -1,0 +1,61 @@
+{
+  "id": 1108942465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1382247576,38.7283345092,-9.1382247576,38.7283345092",
+    "geom:latitude":38.728335,
+    "geom:longitude":-9.138225,
+    "iso:country":"PT",
+    "lbl:latitude":38.728335,
+    "lbl:longitude":-9.138225,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363107,
+    "wof:geomhash":"e089b3eb58a47faf15a7dfe1b25527d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942465,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942465,
+    "wof:lastmodified":1492123638,
+    "wof:name":"Arroios",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13822475760438,
+    38.72833450923046,
+    -9.13822475760438,
+    38.72833450923046
+],
+  "geometry": {"coordinates":[-9.13822475760438,38.72833450923046],"type":"Point"}
+}

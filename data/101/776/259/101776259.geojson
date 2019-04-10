@@ -1,0 +1,109 @@
+{
+  "id": 101776259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":489360.213907,
+    "geom:bbox":"-8.45834656907,41.3452390495,-8.43964067517,41.3539727154",
+    "geom:latitude":41.349721,
+    "geom:longitude":-8.448898,
+    "iso:country":"PT",
+    "lbl:latitude":41.350656,
+    "lbl:longitude":-8.44904,
+    "mps:latitude":41.350656,
+    "mps:longitude":-8.44904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e03\u5c14\u52a0\u4f0a\u4ec0"
+    ],
+    "name:deu_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:dut_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:eng_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:fre_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:ger_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0440\u0433\u0430\u0439\u043d\u0448"
+    ],
+    "name:por_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0433\u0430\u0439\u043d\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:tur_x_preferred":[
+        "Burg\u00e3es"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u52a0\u4f0a\u4ec0"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Burg\u00e3es",
+    "qs:la_lc":"*PT11314068",
+    "qs:level":"locality",
+    "qs:loc":"Burg\u00e3es",
+    "qs:loc_alt":"Burgaes",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29383426,
+        "qs:id":4,
+        "wd:id":"Q1016272"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"ad11fd148b07c96028941ce137035c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101776259,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101776259,
+    "wof:lastmodified":1527688305,
+    "wof:name":"Burg\u00e3es",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45834656906709,
+    41.34523904949538,
+    -8.4396406751685,
+    41.35397271544741
+],
+  "geometry": {"coordinates":[[[-8.44840091678242,41.35397271544741],[-8.44786656223528,41.35222538546151],[-8.44553759248942,41.35266384808767],[-8.44527046078156,41.35179017308798],[-8.44643493417919,41.35157095216601],[-8.44563355542124,41.34894992681052],[-8.44330469189549,41.34938833344984],[-8.44303761633523,41.34851464739518],[-8.44187318883814,41.34873382675585],[-8.44133909867094,41.34698644184977],[-8.44017469412421,41.34720560043132],[-8.4396406751685,41.34545820086799],[-8.44080504955872,41.34523904949538],[-8.4410720689832,41.34611274660381],[-8.44340082629788,41.34567439594389],[-8.44393495624996,41.34742177015403],[-8.44509935425094,41.34720256726104],[-8.44536644970316,41.34807624796713],[-8.4465308555732,41.34785702789975],[-8.44679797636979,41.34873070313733],[-8.45145558805888,41.34785367275765],[-8.45172277943448,41.34872733170693],[-8.45288717940548,41.34850803658406],[-8.45315439612807,41.34938169006301],[-8.45781198419263,41.34850435945879],[-8.45834656906709,41.35025163196468],[-8.45135996276417,41.3515675897508],[-8.45162718014302,41.35244124485445],[-8.45046270543276,41.3526605272678],[-8.45072991800288,41.35353418411563],[-8.44840091678242,41.35397271544741]]],"type":"Polygon"}
+}

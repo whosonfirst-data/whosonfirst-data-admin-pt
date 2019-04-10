@@ -1,0 +1,67 @@
+{
+  "id": 1260365765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53333,39.66667,-8.53333,39.66667",
+    "geom:latitude":39.66667,
+    "geom:longitude":-8.53333,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142113.0",
+    "gn:asciiname":"Ceissa",
+    "gn:country_code":"PT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269431,
+    "gn:latitude":39.66667,
+    "gn:longitude":-8.53333,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ceissa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269431
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e492de87dcc4b9290016c4560532db0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260365765,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1260365765,
+    "wof:lastmodified":1537095426,
+    "wof:name":"Ceissa",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53333,
+    39.66667,
+    -8.53333,
+    39.66667
+],
+  "geometry": {"coordinates":[-8.53333,39.66667],"type":"Point"}
+}

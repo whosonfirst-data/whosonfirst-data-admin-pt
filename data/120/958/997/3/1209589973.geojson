@@ -1,0 +1,63 @@
+{
+  "id": 1209589973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54517,41.95241,-8.54517,41.95241",
+    "geom:latitude":41.95241,
+    "geom:longitude":-8.54517,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160511.0",
+    "gn:asciiname":"Vilarinho",
+    "gn:country_code":"PT",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732396,
+    "gn:latitude":41.95241,
+    "gn:longitude":-8.54517,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vilarinho",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732396
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"47b2473cadf2de495d73c2e295723fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209589973
+        }
+    ],
+    "wof:id":1209589973,
+    "wof:lastmodified":1536282512,
+    "wof:name":"Vilarinho",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.545169999999999,
+    41.95241,
+    -8.545169999999999,
+    41.95241
+],
+  "geometry": {"coordinates":[-8.54517,41.95241],"type":"Point"}
+}

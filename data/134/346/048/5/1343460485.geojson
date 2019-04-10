@@ -1,0 +1,67 @@
+{
+  "id": 1343460485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53963,37.6937,-8.53963,37.6937",
+    "geom:latitude":37.6937,
+    "geom:longitude":-8.53963,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0211",
+    "gn:admin3_code":"21102.0",
+    "gn:asciiname":"Ribeira do Salto",
+    "gn:country_code":"PT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263875,
+    "gn:latitude":37.6937,
+    "gn:longitude":-8.53963,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ribeira do Salto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263875
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7eccc81290d196ae78d3021b8dfc2987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343460485,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1343460485,
+    "wof:lastmodified":1536745819,
+    "wof:name":"Ribeira do Salto",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53963,
+    37.6937,
+    -8.53963,
+    37.6937
+],
+  "geometry": {"coordinates":[-8.53963,37.6937],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243553651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19409,41.71069,-7.19409,41.71069",
+    "geom:latitude":41.71069,
+    "geom:longitude":-7.19409,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0407",
+    "gn:admin3_code":"40703.0",
+    "gn:asciiname":"Aguieiras",
+    "gn:country_code":"PT",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743277,
+    "gn:latitude":41.71069,
+    "gn:longitude":-7.19409,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Aguieiras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743277
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"80c326a47e92ddc1f1e103fc66980c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243553651,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1243553651,
+    "wof:lastmodified":1536650871,
+    "wof:name":"Aguieiras",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19409,
+    41.71069,
+    -7.19409,
+    41.71069
+],
+  "geometry": {"coordinates":[-7.19409,41.71069],"type":"Point"}
+}

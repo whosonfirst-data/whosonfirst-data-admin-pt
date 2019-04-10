@@ -1,0 +1,125 @@
+{
+  "id": 101780663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":769755.46563,
+    "geom:bbox":"-7.75836941819,37.0497207387,-7.74207156853,37.059114942",
+    "geom:latitude":37.053838,
+    "geom:longitude":-7.749965,
+    "iso:country":"PT",
+    "lbl:latitude":37.053838,
+    "lbl:longitude":-7.749966,
+    "mps:latitude":37.053838,
+    "mps:longitude":-7.749966,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Fuseta"
+    ],
+    "name:dut_x_preferred":[
+        "Fuseta"
+    ],
+    "name:eng_x_preferred":[
+        "Fuseta"
+    ],
+    "name:fre_x_preferred":[
+        "Junta de Freguesia de Fuzeta"
+    ],
+    "name:ger_x_preferred":[
+        "Fuseta"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0443\u0437\u0435\u0442\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Fuseta"
+    ],
+    "name:msa_x_preferred":[
+        "Fuseta"
+    ],
+    "name:nld_x_preferred":[
+        "Fuseta"
+    ],
+    "name:por_x_preferred":[
+        "Fuseta"
+    ],
+    "name:por_x_variant":[
+        "Fuzeta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0437\u0435\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Fuseta"
+    ],
+    "name:spa_x_preferred":[
+        "Fuseta"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Moncarapacho",
+    "qs:la_lc":"*PT10810029",
+    "qs:level":"locality",
+    "qs:loc":"Fuseta",
+    "qs:loc_alt":"Fuseta",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":788,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02749c9a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2267792,
+        "gp:id":741642,
+        "qs:id":883568,
+        "qs_pg:id":883568,
+        "wd:id":"Q2652799",
+        "wk:page":"Fuseta"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"719476c6d42e8bd60f786af7cf5bfb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780663,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780663,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715875,
+    "wof:name":"Fuseta",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.75836941818727,
+    37.0497207387383,
+    -7.74207156853072,
+    37.05911494201047
+],
+  "geometry": {"coordinates":[[[-7.74897011469557,37.05911494201047],[-7.74874117394347,37.05823365867883],[-7.74764589131621,37.05844257313271],[-7.74741697161267,37.05756128479317],[-7.74632169613858,37.05777018348567],[-7.7460927974829,37.0568888901384],[-7.74499752916233,37.05709777306959],[-7.74453978223596,37.05533517443189],[-7.7434445338244,37.05554403852398],[-7.74207156853072,37.05025617785623],[-7.74316674042092,37.05004733223114],[-7.74339556000029,37.0509286440863],[-7.74449073904338,37.05071978270212],[-7.74494842857473,37.05248239447064],[-7.75042436731331,37.05143786654855],[-7.75019545464232,37.05055657702059],[-7.75457605380586,37.0497207387383],[-7.75480501747984,37.05060201594949],[-7.75590016601592,37.0503930215977],[-7.75704517255355,37.05479936330772],[-7.75814037924124,37.05459034087511],[-7.75836941818727,37.05547160034706],[-7.75398850680108,37.05630762630915],[-7.75375951886554,37.05542635451673],[-7.74937856883372,37.05626216525025],[-7.75006540447555,37.05890601179459],[-7.74897011469557,37.05911494201047]]],"type":"Polygon"}
+}

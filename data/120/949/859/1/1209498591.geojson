@@ -1,0 +1,63 @@
+{
+  "id": 1209498591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0,39.05,-9.0,39.05",
+    "geom:latitude":39.05,
+    "geom:longitude":-9.0,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1101",
+    "gn:admin3_code":"110112.0",
+    "gn:asciiname":"Pedrogao",
+    "gn:country_code":"PT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265004,
+    "gn:latitude":39.05,
+    "gn:longitude":-9.0,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pedrog\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265004
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9a74de538d1688ef24466b086f8b318a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209498591
+        }
+    ],
+    "wof:id":1209498591,
+    "wof:lastmodified":1536285256,
+    "wof:name":"Pedrogao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0,
+    39.05,
+    -9.0,
+    39.05
+],
+  "geometry": {"coordinates":[-9.0,39.05],"type":"Point"}
+}

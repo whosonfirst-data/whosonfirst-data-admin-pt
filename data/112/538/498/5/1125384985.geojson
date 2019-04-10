@@ -1,0 +1,75 @@
+{
+  "id": 1125384985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.34147,33.07197,-16.34147,33.07197",
+    "geom:latitude":33.07197,
+    "geom:longitude":-16.34147,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":33.07197,
+    "lbl:longitude":-16.34147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:por_x_preferred":[
+        "Freguesia de Porto Santo"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014047,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Porto Santo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":904374,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014047,
+        "qs_pg:id":904374
+    },
+    "wof:country":"PT",
+    "wof:created":1497048308,
+    "wof:geomhash":"71c08348165584855e1b24314f32eba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125384985,
+            "region_id":85687341
+        }
+    ],
+    "wof:id":1125384985,
+    "wof:lastmodified":1509389690,
+    "wof:name":"Porto Santo",
+    "wof:parent_id":85687341,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.34147,
+    33.07197,
+    -16.34147,
+    33.07197
+],
+  "geometry": {"coordinates":[-16.34147,33.07197],"type":"Point"}
+}

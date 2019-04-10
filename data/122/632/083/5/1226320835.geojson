@@ -1,0 +1,67 @@
+{
+  "id": 1226320835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44105,40.41596,-7.44105,40.41596",
+    "geom:latitude":40.41596,
+    "geom:longitude":-7.44105,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0908",
+    "gn:admin3_code":"90804.0",
+    "gn:asciiname":"Vale de Amoreira",
+    "gn:country_code":"PT",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733165,
+    "gn:latitude":40.41596,
+    "gn:longitude":-7.44105,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale de Amoreira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733165
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f06ae6a59aa73cc39ce1b51867ed3581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226320835,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1226320835,
+    "wof:lastmodified":1536824546,
+    "wof:name":"Vale de Amoreira",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44105,
+    40.41596,
+    -7.44105,
+    40.41596
+],
+  "geometry": {"coordinates":[-7.44105,40.41596],"type":"Point"}
+}

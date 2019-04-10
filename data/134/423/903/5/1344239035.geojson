@@ -1,0 +1,67 @@
+{
+  "id": 1344239035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41148,39.39309,-7.41148,39.39309",
+    "geom:latitude":39.39309,
+    "geom:longitude":-7.41148,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1210",
+    "gn:admin3_code":"121004.0",
+    "gn:asciiname":"Escusa",
+    "gn:country_code":"PT",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268519,
+    "gn:latitude":39.39309,
+    "gn:longitude":-7.41148,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Escusa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268519
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"75112525a0f37bfe7bf122780422ed59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344239035,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1344239035,
+    "wof:lastmodified":1536615596,
+    "wof:name":"Escusa",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41148,
+    39.39309,
+    -7.41148,
+    39.39309
+],
+  "geometry": {"coordinates":[-7.41148,39.39309],"type":"Point"}
+}

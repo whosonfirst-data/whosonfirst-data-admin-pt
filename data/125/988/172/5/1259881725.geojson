@@ -1,0 +1,67 @@
+{
+  "id": 1259881725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09591,38.24244,-8.09591,38.24244",
+    "geom:latitude":38.24244,
+    "geom:longitude":-8.09591,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0203",
+    "gn:admin3_code":"20302.0",
+    "gn:asciiname":"Monte do Rio Seco",
+    "gn:country_code":"PT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265965,
+    "gn:latitude":38.24244,
+    "gn:longitude":-8.09591,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte do Rio Seco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265965
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f788b41662ba9069a4d09e6b300f06a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259881725,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1259881725,
+    "wof:lastmodified":1536782190,
+    "wof:name":"Monte do Rio Seco",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09591,
+    38.24244,
+    -8.09591,
+    38.24244
+],
+  "geometry": {"coordinates":[-8.09591,38.24244],"type":"Point"}
+}

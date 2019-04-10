@@ -1,0 +1,68 @@
+{
+  "id": 1243230099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30113,39.60013,-8.30113,39.60013",
+    "geom:latitude":39.60013,
+    "geom:longitude":-8.30113,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1418",
+    "gn:admin3_code":"141815.0",
+    "gn:asciiname":"Serra",
+    "gn:country_code":"PT",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263040,
+    "gn:latitude":39.60013,
+    "gn:longitude":-8.30113,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Serra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263040,
+        "wk:page":"Serra_%28Tomar%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5d73fb58254a01dbc1f9b3e355e8c7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243230099,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1243230099,
+    "wof:lastmodified":1537571934,
+    "wof:name":"Serra",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30113,
+    39.60013,
+    -8.30113,
+    39.60013
+],
+  "geometry": {"coordinates":[-8.30113,39.60013],"type":"Point"}
+}

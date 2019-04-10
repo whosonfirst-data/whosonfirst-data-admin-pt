@@ -1,0 +1,96 @@
+{
+  "id": 1126008231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77473,37.07273,-8.77473,37.07273",
+    "geom:latitude":37.07273,
+    "geom:longitude":-8.77473,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":37.07273,
+    "lbl:longitude":-8.77473,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Burgau"
+    ],
+    "name:eng_x_preferred":[
+        "Burgau"
+    ],
+    "name:ita_x_preferred":[
+        "Burgau"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2270624,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Burgau",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Faro",
+    "qs_pg:photos":412,
+    "qs_pg:photos_1k":83,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":412,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":108704,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":737641,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Faro",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270624,
+        "gp:id":737641,
+        "qs_pg:id":108704,
+        "wd:id":"Q3647274"
+    },
+    "wof:country":"PT",
+    "wof:created":1497300110,
+    "wof:geomhash":"9b6f64b2572cbfa020688febab6a46f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126008231,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1126008231,
+    "wof:lastmodified":1514497987,
+    "wof:name":"Burgau",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77473,
+    37.07273,
+    -8.77473,
+    37.07273
+],
+  "geometry": {"coordinates":[-8.77473,37.07273],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101758935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000128,
+    "geom:area_square_m":1230458.365112,
+    "geom:bbox":"-9.33057542923,38.7735096275,-9.31225893461,38.785557267",
+    "geom:latitude":38.779421,
+    "geom:longitude":-9.321741,
+    "gn:population":54695,
+    "iso:country":"PT",
+    "lbl:latitude":38.779516,
+    "lbl:longitude":-9.32188,
+    "mps:latitude":38.779516,
+    "mps:longitude":-9.32188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:eng_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:fre_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:ger_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u0443-\u0434\u0435-\u041c\u043e\u0440\u0443"
+    ],
+    "name:may_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:nno_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:pol_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:por_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0443-\u0434\u0435-\u041c\u043e\u0440\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:swa_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:tur_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "name:unk_x_variant":[
+        "Rio de Mouro"
+    ],
+    "name:wel_x_preferred":[
+        "Rio de Mouro"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Rio de Mouro-Esta\u00e7\u00e3o",
+    "qs:loc_alt":"Rio de Mouro-Estacao",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263827,
+        "gp:id":747366,
+        "qs:id":911424,
+        "wd:id":"Q1631953",
+        "wk:page":"Rio de Mouro"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e8539b8ae85c576a7a320d3868052278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101758935,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101758935,
+    "wof:lastmodified":1514498130,
+    "wof:name":"Rio de Mouro-Esta\u00e7\u00e3o",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:population":54695,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33057542922637,
+    38.77350962746914,
+    -9.31225893461226,
+    38.78555726696101
+],
+  "geometry": {"coordinates":[[[-9.31246892341744,38.78183611003499],[-9.31225893461226,38.78113212307323],[-9.31337720464217,38.78090410050601],[-9.31311653548534,38.78003020466679],[-9.31423478556542,38.77980217265912],[-9.31384349937451,38.77849030015426],[-9.31721154240154,38.77714308294338],[-9.31817743200907,38.77400394171895],[-9.31947500691496,38.77350962746914],[-9.31964047862448,38.77406432164486],[-9.3207586157709,38.77383621656656],[-9.32101934365949,38.77471009459271],[-9.32549187963173,38.77379753092663],[-9.32575267051413,38.77467139292486],[-9.32910704322086,38.77398682385285],[-9.32936788375127,38.77486067331893],[-9.33048600812748,38.77463245425747],[-9.33057542922637,38.77493199822402],[-9.32819158784065,38.77598088843354],[-9.32769908837355,38.77855283009529],[-9.32709714458036,38.78189088203914],[-9.32739748469351,38.78539485002619],[-9.32479881373376,38.78555726696101],[-9.32195326125697,38.78451754586388],[-9.31246892341744,38.78183611003499]]],"type":"Polygon"}
+}

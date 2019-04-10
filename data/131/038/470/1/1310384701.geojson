@@ -1,0 +1,67 @@
+{
+  "id": 1310384701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26078,40.02343,-8.26078,40.02343",
+    "geom:latitude":40.02343,
+    "geom:longitude":-8.26078,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"1008",
+    "gn:admin3_code":"100803.0",
+    "gn:asciiname":"Alge",
+    "gn:country_code":"PT",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743085,
+    "gn:latitude":40.02343,
+    "gn:longitude":-8.26078,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743085
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3cb529e86f318d9bd4d34ad12f5aeeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310384701,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1310384701,
+    "wof:lastmodified":1537088092,
+    "wof:name":"Alge",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26078,
+    40.02343,
+    -8.26078,
+    40.02343
+],
+  "geometry": {"coordinates":[-8.26078,40.02343],"type":"Point"}
+}

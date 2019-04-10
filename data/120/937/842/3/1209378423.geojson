@@ -1,0 +1,63 @@
+{
+  "id": 1209378423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13657,41.17884,-8.13657,41.17884",
+    "geom:latitude":41.17884,
+    "geom:longitude":-8.13657,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1307",
+    "gn:admin3_code":"130716.0",
+    "gn:asciiname":"Rio de Galinhas",
+    "gn:country_code":"PT",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735117,
+    "gn:latitude":41.17884,
+    "gn:longitude":-8.13657,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Rio de Galinhas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735117
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"26ec88d6d2f1e4d2ec11887c88147c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209378423
+        }
+    ],
+    "wof:id":1209378423,
+    "wof:lastmodified":1536288868,
+    "wof:name":"Rio de Galinhas",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.136569999999999,
+    41.17884,
+    -8.136569999999999,
+    41.17884
+],
+  "geometry": {"coordinates":[-8.13657,41.17884],"type":"Point"}
+}

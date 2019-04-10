@@ -1,0 +1,63 @@
+{
+  "id": 1209686765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23869,38.82491,-9.23869,38.82491",
+    "geom:latitude":38.82491,
+    "geom:longitude":-9.23869,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1111",
+    "gn:admin3_code":"111103.0",
+    "gn:asciiname":"Camaroes",
+    "gn:country_code":"PT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2270372,
+    "gn:latitude":38.82491,
+    "gn:longitude":-9.23869,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Camar\u00f5es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2270372
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"50d98b318ed6e4fc569788088549ac02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209686765
+        }
+    ],
+    "wof:id":1209686765,
+    "wof:lastmodified":1536279383,
+    "wof:name":"Camaroes",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23869,
+    38.82491,
+    -9.23869,
+    38.82491
+],
+  "geometry": {"coordinates":[-9.23869,38.82491],"type":"Point"}
+}

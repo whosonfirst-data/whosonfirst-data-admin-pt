@@ -1,0 +1,96 @@
+{
+  "id": 1125950927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6253,41.89614,-8.6253,41.89614",
+    "geom:latitude":41.89614,
+    "geom:longitude":-8.6253,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":548,
+    "gn:population":548,
+    "iso:country":"PT",
+    "lbl:latitude":41.89614,
+    "lbl:longitude":-8.6253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0431\u0438\u0430\u0439\u043d\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Rubi\u00e3is"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734970,
+    "qs_pg:gn_pop":548,
+    "qs_pg:name":"Rubiaes",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Viana do Castelo",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":267257,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":747556,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Viana do Castelo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2734970,
+        "gp:id":747556,
+        "qs_pg:id":267257
+    },
+    "wof:country":"PT",
+    "wof:created":1497297452,
+    "wof:geomhash":"5150bed688c13c661ac36a91691eb6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125950927,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1125950927,
+    "wof:lastmodified":1509402680,
+    "wof:name":"Rubiaes",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:population":548,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6253,
+    41.89614,
+    -8.6253,
+    41.89614
+],
+  "geometry": {"coordinates":[-8.6253,41.89614],"type":"Point"}
+}

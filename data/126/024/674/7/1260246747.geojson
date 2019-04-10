@@ -1,0 +1,67 @@
+{
+  "id": 1260246747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59321,41.93077,-8.59321,41.93077",
+    "geom:latitude":41.93077,
+    "geom:longitude":-8.59321,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1605",
+    "gn:admin3_code":"160508.0",
+    "gn:asciiname":"Ferreira",
+    "gn:country_code":"PT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739654,
+    "gn:latitude":41.93077,
+    "gn:longitude":-8.59321,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ferreira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739654
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"294c3ba80078a3da19056e6e8de65700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1260246747,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1260246747,
+    "wof:lastmodified":1536762024,
+    "wof:name":"Ferreira",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59321,
+    41.93077,
+    -8.59321,
+    41.93077
+],
+  "geometry": {"coordinates":[-8.59321,41.93077],"type":"Point"}
+}

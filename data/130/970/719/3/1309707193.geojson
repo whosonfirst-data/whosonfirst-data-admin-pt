@@ -1,0 +1,67 @@
+{
+  "id": 1309707193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28601,37.07634,-8.28601,37.07634",
+    "geom:latitude":37.07634,
+    "geom:longitude":-8.28601,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"0801",
+    "gn:admin3_code":"80101.0",
+    "gn:asciiname":"Sao Rafael",
+    "gn:country_code":"PT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692588,
+    "gn:latitude":37.07634,
+    "gn:longitude":-8.28601,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Rafael",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692588
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2dd93c3ccb2b33dfa256118f55cce676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1309707193,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":1309707193,
+    "wof:lastmodified":1537070251,
+    "wof:name":"Sao Rafael",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28601,
+    37.07634,
+    -8.28601,
+    37.07634
+],
+  "geometry": {"coordinates":[-8.28601,37.07634],"type":"Point"}
+}

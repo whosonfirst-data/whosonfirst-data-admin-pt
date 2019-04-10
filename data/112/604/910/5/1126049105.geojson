@@ -1,0 +1,122 @@
+{
+  "id": 1126049105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93238,39.86945,-8.93238,39.86945",
+    "geom:latitude":39.86945,
+    "geom:longitude":-8.93238,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5807,
+    "gn:population":5807,
+    "iso:country":"PT",
+    "lbl:latitude":39.86945,
+    "lbl:longitude":-8.93238,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:eng_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:fre_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:ger_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0435\u0439\u0440\u0430-\u0434\u0435-\u041b\u0435\u0439\u0440\u0438\u044f"
+    ],
+    "name:por_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0435\u0439\u0440\u0430-\u0434\u0435-\u041b\u0435\u0439\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Vieira de Leiria"
+    ],
+    "name:unk_x_variant":[
+        "Vieira"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2261673,
+    "qs_pg:gn_pop":5807,
+    "qs_pg:name":"Vieira de Leiria",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Leiria",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":265705,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":750566,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Leiria",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261673,
+        "gp:id":750566,
+        "qs_pg:id":265705,
+        "wd:id":"Q1896472"
+    },
+    "wof:country":"PT",
+    "wof:created":1497302618,
+    "wof:geomhash":"0c7f7350f0ce92b48516dd27ff413122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126049105,
+            "region_id":85687381
+        }
+    ],
+    "wof:id":1126049105,
+    "wof:lastmodified":1534379447,
+    "wof:name":"Vieira de Leiria",
+    "wof:parent_id":85687381,
+    "wof:placetype":"locality",
+    "wof:population":5807,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[
+        101777141
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93238,
+    39.86945,
+    -8.93238,
+    39.86945
+],
+  "geometry": {"coordinates":[-8.93238,39.86945],"type":"Point"}
+}

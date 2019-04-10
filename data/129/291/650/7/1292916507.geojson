@@ -1,0 +1,67 @@
+{
+  "id": 1292916507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56239,40.94989,-8.56239,40.94989",
+    "geom:latitude":40.94989,
+    "geom:longitude":-8.56239,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10926.0",
+    "gn:asciiname":"Beire",
+    "gn:country_code":"PT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2742300,
+    "gn:latitude":40.94989,
+    "gn:longitude":-8.56239,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Beire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742300
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"151a406947404ac999b5deabcdcb51fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1292916507,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1292916507,
+    "wof:lastmodified":1536613653,
+    "wof:name":"Beire",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56239,
+    40.94989,
+    -8.56239,
+    40.94989
+],
+  "geometry": {"coordinates":[-8.56239,40.94989],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209190125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85,39.53333,-7.85,39.53333",
+    "geom:latitude":39.53333,
+    "geom:longitude":-7.85,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1413",
+    "gn:admin3_code":"141305.0",
+    "gn:asciiname":"Ferrenha",
+    "gn:country_code":"PT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268244,
+    "gn:latitude":39.53333,
+    "gn:longitude":-7.85,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ferrenha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268244
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5c76eb36a0372ceb9cf3f42caaea7654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209190125
+        }
+    ],
+    "wof:id":1209190125,
+    "wof:lastmodified":1536294962,
+    "wof:name":"Ferrenha",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85,
+    39.53333,
+    -7.85,
+    39.53333
+],
+  "geometry": {"coordinates":[-7.85,39.53333],"type":"Point"}
+}

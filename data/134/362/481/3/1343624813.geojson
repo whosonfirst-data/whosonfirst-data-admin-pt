@@ -1,0 +1,67 @@
+{
+  "id": 1343624813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61469,39.65226,-8.61469,39.65226",
+    "geom:latitude":39.65226,
+    "geom:longitude":-8.61469,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1421",
+    "gn:admin3_code":"142102.0",
+    "gn:asciiname":"Pinhel",
+    "gn:country_code":"PT",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264686,
+    "gn:latitude":39.65226,
+    "gn:longitude":-8.61469,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pinhel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264686
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"d79d499f5f2762ed15ef462d887513e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343624813,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1343624813,
+    "wof:lastmodified":1537005868,
+    "wof:name":"Pinhel",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61469,
+    39.65226,
+    -8.61469,
+    39.65226
+],
+  "geometry": {"coordinates":[-8.61469,39.65226],"type":"Point"}
+}

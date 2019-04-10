@@ -1,0 +1,63 @@
+{
+  "id": 1209504863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.65296,37.14167,-7.65296,37.14167",
+    "geom:latitude":37.14167,
+    "geom:longitude":-7.65296,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81405.0",
+    "gn:asciiname":"Asseca",
+    "gn:country_code":"PT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271430,
+    "gn:latitude":37.14167,
+    "gn:longitude":-7.65296,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Asseca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271430
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6f0e44e5f8243d77043fdcfa55621597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209504863
+        }
+    ],
+    "wof:id":1209504863,
+    "wof:lastmodified":1536285066,
+    "wof:name":"Asseca",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.65296,
+    37.14167,
+    -7.65296,
+    37.14167
+],
+  "geometry": {"coordinates":[-7.65296,37.14167],"type":"Point"}
+}

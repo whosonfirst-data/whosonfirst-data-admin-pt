@@ -1,0 +1,71 @@
+{
+  "id": 1242929929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.93345,41.0652,-7.93345,41.0652",
+    "geom:latitude":41.0652,
+    "geom:longitude":-7.93345,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1813",
+    "gn:admin3_code":"181305.0",
+    "gn:asciiname":"Felgueiras",
+    "gn:country_code":"PT",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739695,
+    "gn:latitude":41.0652,
+    "gn:longitude":-7.93345,
+    "gn:modification_date":"2018-05-17",
+    "gn:name":"Felgueiras",
+    "gn:population":315,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739695,
+        "wk:page":"Felgueiras_%28Resende%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0abdec1af67389e53a18fd14c84d481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1242929929,
+            "region_id":85687401
+        }
+    ],
+    "wof:id":1242929929,
+    "wof:lastmodified":1537571945,
+    "wof:name":"Felgueiras",
+    "wof:parent_id":85687401,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.93345,
+    41.0652,
+    -7.93345,
+    41.0652
+],
+  "geometry": {"coordinates":[-7.93345,41.0652],"type":"Point"}
+}

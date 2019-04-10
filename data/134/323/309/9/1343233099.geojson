@@ -1,0 +1,67 @@
+{
+  "id": 1343233099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22699,38.72157,-9.22699,38.72157",
+    "geom:latitude":38.72157,
+    "geom:longitude":-9.22699,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1110",
+    "gn:admin3_code":"111003.0",
+    "gn:asciiname":"Outorela",
+    "gn:country_code":"PT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265342,
+    "gn:latitude":38.72157,
+    "gn:longitude":-9.22699,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Outorela",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265342
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f2a952cb988891a3b9ff465f19502188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343233099,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1343233099,
+    "wof:lastmodified":1537071492,
+    "wof:name":"Outorela",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22699,
+    38.72157,
+    -9.22699,
+    38.72157
+],
+  "geometry": {"coordinates":[-9.22699,38.72157],"type":"Point"}
+}

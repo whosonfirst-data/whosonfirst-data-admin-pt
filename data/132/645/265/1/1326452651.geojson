@@ -1,0 +1,67 @@
+{
+  "id": 1326452651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.43537,38.6569,-8.43537,38.6569",
+    "geom:latitude":38.6569,
+    "geom:longitude":-8.43537,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0712",
+    "gn:admin3_code":"71201.0",
+    "gn:asciiname":"Ajuda",
+    "gn:country_code":"PT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272266,
+    "gn:latitude":38.6569,
+    "gn:longitude":-8.43537,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ajuda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2272266
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"87c4b161104b9befcdcba4c16df65f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1326452651,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":1326452651,
+    "wof:lastmodified":1537095441,
+    "wof:name":"Ajuda",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43537,
+    38.6569,
+    -8.43537,
+    38.6569
+],
+  "geometry": {"coordinates":[-8.43537,38.6569],"type":"Point"}
+}

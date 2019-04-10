@@ -1,0 +1,67 @@
+{
+  "id": 1327143401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3741,40.7191,-8.3741,40.7191",
+    "geom:latitude":40.7191,
+    "geom:longitude":-8.3741,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0117",
+    "gn:admin3_code":"11704.0",
+    "gn:asciiname":"Mosqueiro",
+    "gn:country_code":"PT",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737357,
+    "gn:latitude":40.7191,
+    "gn:longitude":-8.3741,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mosqueiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737357
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"cda158443fff562afef473c18918b338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327143401,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1327143401,
+    "wof:lastmodified":1537094782,
+    "wof:name":"Mosqueiro",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3741,
+    40.7191,
+    -8.3741,
+    40.7191
+],
+  "geometry": {"coordinates":[-8.3741,40.7191],"type":"Point"}
+}

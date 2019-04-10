@@ -1,0 +1,80 @@
+{
+  "id": 1126036489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.290965,41.446902,-8.290965,41.446902",
+    "geom:latitude":41.446902,
+    "geom:longitude":-8.290965,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.446902,
+    "lbl:longitude":-8.290965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Guimar\u00e3es-Oliveira do Castelo",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Braga",
+    "qs_pg:photos":154,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900180,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":22661024,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Braga",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22661024,
+        "qs_pg:id":900180
+    },
+    "wof:country":"PT",
+    "wof:created":1497301818,
+    "wof:geomhash":"1dc40452f439dde174a81b09bef56ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1126036489,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1126036489,
+    "wof:lastmodified":1509408249,
+    "wof:name":"Guimar\u00e3es-Oliveira do Castelo",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.290965,
+    41.446902,
+    -8.290965,
+    41.446902
+],
+  "geometry": {"coordinates":[-8.290965,41.446902],"type":"Point"}
+}

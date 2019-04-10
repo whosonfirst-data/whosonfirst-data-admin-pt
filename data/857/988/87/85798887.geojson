@@ -1,0 +1,109 @@
+{
+  "id": 85798887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1390988.675134,
+    "geom:bbox":"-9.19555664062,38.7005158294,-9.18182373047,38.7133756786",
+    "geom:latitude":38.707396,
+    "geom:longitude":-9.188253,
+    "gn:latitude":38.71098,
+    "gn:longitude":-9.20084,
+    "iso:country":"PT",
+    "lbl:latitude":38.705708,
+    "lbl:longitude":-9.185193,
+    "mps:latitude":38.707731,
+    "mps:longitude":-9.187698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"dup",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Bairro do Alto da Ajuda"
+    ],
+    "name:unk_x_variant":[
+        "Bairro do Alto da Ajuda"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:gn_name":"Bairro do Alto da Ajuda",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Bairro do Alto da Ajuda",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":374,
+    "qs:photo_sum":1016,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2271232,
+        "gp:id":736816,
+        "qs:id":1083136,
+        "qs_pg:id":1083136
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c1804cfdacca7968dd3bfebf78495adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85798887,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85798887,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1497313682,
+    "wof:name":"Bairro do Alto da Ajuda",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19555664062165,
+    38.70051582941237,
+    -9.18182373046994,
+    38.71337567864542
+],
+  "geometry": {"coordinates":[[[-9.19006347656,38.71337567636502],[-9.18869018554477,38.7133756702253],[-9.18731689452991,38.71337567238527],[-9.18457031249991,38.71337567487367],[-9.18402302027124,38.7133756702253],[-9.18374177416962,38.71229433251331],[-9.18182373046994,38.71147496678303],[-9.18182373046994,38.71123253900002],[-9.18182373046994,38.70908931937514],[-9.18182373046994,38.70765391570997],[-9.18182373046994,38.70694605160006],[-9.18182373046994,38.70587438735782],[-9.18182373046994,38.70480271150008],[-9.18182373046994,38.70409483907788],[-9.18182373046994,38.70265930108576],[-9.18457031249983,38.70265929382508],[-9.18457031249991,38.70051583066265],[-9.18731689452991,38.70051582941237],[-9.19006347656,38.70051583257633],[-9.19006347656,38.70265929828348],[-9.19281005858988,38.70265930108586],[-9.19281005858988,38.70480270258365],[-9.19555664062165,38.70480270538594],[-9.19555663910492,38.70694604237988],[-9.19555664061988,38.71123253900002],[-9.19281005858988,38.71123253900002],[-9.19281005858988,38.71337567864542],[-9.19006347656,38.71337567636502]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101778293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:bbox":"-8.74298127216,39.1850823206,-8.72265576357,39.1964297579",
+    "geom:latitude":39.190819,
+    "geom:longitude":-8.732446,
+    "iso:country":"PT",
+    "lbl:latitude":39.19011,
+    "lbl:longitude":-8.733986,
+    "mps:latitude":39.19011,
+    "mps:longitude":-8.733986,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u062a\u0631\u064a\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0430\u0440\u044d\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:cat_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:ces_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:deu_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:epo_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:est_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:eus_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "name:por_x_colloquial":[
+        "Vale de Santarem"
+    ],
+    "name:por_x_preferred":[
+        "Vale de Santar\u00e9m"
+    ],
+    "name:spa_x_preferred":[
+        "Santar\u00e9m"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Santar\u00e9m",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Vale de Santar\u00e9m",
+    "qs:la_lc":"*PT11416251",
+    "qs:level":"locality",
+    "qs:loc":"Vale de Santar\u00e9m",
+    "qs:loc_alt":"Vale de Santarem",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":39.236944,
+    "wd:longitude":-8.685,
+    "wd:wordcount":2092,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026a59e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2262092,
+        "gp:id":750069,
+        "qs:id":1166795,
+        "qs_pg:id":1166795,
+        "wd:id":"Q273877"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8e8442f2ebbb4f2130463b9bf9a6cc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778293,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":101778293,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527653248,
+    "wof:name":"Vale de Santar\u00e9m",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.74298127216076,
+    39.18508232060015,
+    -8.72265576357495,
+    39.1964297578574
+],
+  "geometry": {"coordinates":[[[-8.74185477001333,39.1964297578574],[-8.74134302826832,39.19467920901104],[-8.73909005913737,39.1951222980698],[-8.73883422994305,39.19424701382815],[-8.73658126200905,39.19469004375537],[-8.73632546973698,39.19381475067536],[-8.73519898964742,39.19403624260491],[-8.73494322058957,39.19316094412744],[-8.73381674765483,39.19338241955461],[-8.73356100180956,39.19250711568043],[-8.73243453603038,39.19272857460538],[-8.73217881339673,39.19185326533466],[-8.72429346547011,39.19340308797928],[-8.72403784830072,39.19252775268257],[-8.72291135753517,39.19274910022733],[-8.72265576357495,39.19187375953692],[-8.72378224063067,39.19165241542959],[-8.72275990494046,39.18815104685427],[-8.72388632061495,39.1879297034335],[-8.72311962745329,39.1853036667714],[-8.72424599546122,39.18508232060015],[-8.72526832683127,39.18858368515453],[-8.72977395268208,39.18769811485214],[-8.73002961409713,39.18857343734749],[-8.7345351899794,39.18768764430251],[-8.73427947374364,39.18681233556168],[-8.73540583763349,39.18659085808565],[-8.73617305596412,39.18921676811783],[-8.73955223166388,39.18855222636734],[-8.73980803122981,39.18942751547661],[-8.7409344237285,39.18920597199667],[-8.74119024650503,39.19008125570764],[-8.74006384030156,39.19030280262763],[-8.7410871716591,39.19380393165062],[-8.74221363268509,39.19358237096827],[-8.74298127216076,39.19620818685212],[-8.74185477001333,39.1964297578574]]],"type":"Polygon"}
+}

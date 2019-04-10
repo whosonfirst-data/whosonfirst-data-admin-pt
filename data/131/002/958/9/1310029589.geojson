@@ -1,0 +1,67 @@
+{
+  "id": 1310029589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34317,41.45984,-8.34317,41.45984",
+    "geom:latitude":41.45984,
+    "geom:longitude":-8.34317,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0308",
+    "gn:admin3_code":"30838.0",
+    "gn:asciiname":"Campelos",
+    "gn:country_code":"PT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741657,
+    "gn:latitude":41.45984,
+    "gn:longitude":-8.34317,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Campelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741657
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"43c5a1876e7cdd2148b3f31a4c130e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310029589,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1310029589,
+    "wof:lastmodified":1536605628,
+    "wof:name":"Campelos",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34317,
+    41.45984,
+    -8.34317,
+    41.45984
+],
+  "geometry": {"coordinates":[-8.34317,41.45984],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310080835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.23556,38.64458,-9.23556,38.64458",
+    "geom:latitude":38.64458,
+    "geom:longitude":-9.23556,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"150303.0",
+    "gn:asciiname":"Costa de Caparica",
+    "gn:country_code":"PT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268916,
+    "gn:latitude":38.64458,
+    "gn:longitude":-9.23556,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Costa de Caparica",
+    "gn:population":14231,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268916
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"31b784a4e80468f2f0160a15421d7300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310080835,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1310080835,
+    "wof:lastmodified":1537030827,
+    "wof:name":"Costa de Caparica",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:population":14231,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.23556,
+    38.64458,
+    -9.23556,
+    38.64458
+],
+  "geometry": {"coordinates":[-9.23556,38.64458],"type":"Point"}
+}

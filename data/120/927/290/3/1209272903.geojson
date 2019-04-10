@@ -1,0 +1,63 @@
+{
+  "id": 1209272903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.07991,40.41117,-8.07991,40.41117",
+    "geom:latitude":40.41117,
+    "geom:longitude":-8.07991,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1814",
+    "gn:admin3_code":"181406.0",
+    "gn:asciiname":"Castelejo",
+    "gn:country_code":"PT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741019,
+    "gn:latitude":40.41117,
+    "gn:longitude":-8.07991,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Castelejo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741019
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2fc911e89b63ae6cc1c9ba220e579444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209272903
+        }
+    ],
+    "wof:id":1209272903,
+    "wof:lastmodified":1536292296,
+    "wof:name":"Castelejo",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.07991,
+    40.41117,
+    -8.07991,
+    40.41117
+],
+  "geometry": {"coordinates":[-8.07991,40.41117],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343639603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76104,40.38606,-7.76104,40.38606",
+    "geom:latitude":40.38606,
+    "geom:longitude":-7.76104,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0912",
+    "gn:admin3_code":"91222.0",
+    "gn:asciiname":"Catraia",
+    "gn:country_code":"PT",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740960,
+    "gn:latitude":40.38606,
+    "gn:longitude":-7.76104,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Catraia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740960
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"51421ac072fb71bf933b134fe50ed306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343639603,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1343639603,
+    "wof:lastmodified":1536984374,
+    "wof:name":"Catraia",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76104,
+    40.38606,
+    -7.76104,
+    40.38606
+],
+  "geometry": {"coordinates":[-7.76104,40.38606],"type":"Point"}
+}

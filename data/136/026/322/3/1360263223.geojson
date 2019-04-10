@@ -1,0 +1,67 @@
+{
+  "id": 1360263223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94104,40.54721,-6.94104,40.54721",
+    "geom:latitude":40.54721,
+    "geom:longitude":-6.94104,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0902",
+    "gn:admin3_code":"90223.0",
+    "gn:asciiname":"Jardo",
+    "gn:country_code":"PT",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738664,
+    "gn:latitude":40.54721,
+    "gn:longitude":-6.94104,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Jardo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738664
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"03021a67bf47ea69b2f1b2b6feefb962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360263223,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1360263223,
+    "wof:lastmodified":1536688816,
+    "wof:name":"Jardo",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94104,
+    40.54721,
+    -6.94104,
+    40.54721
+],
+  "geometry": {"coordinates":[-6.94104,40.54721],"type":"Point"}
+}

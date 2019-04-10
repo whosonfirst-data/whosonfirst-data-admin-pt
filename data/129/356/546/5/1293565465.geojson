@@ -1,0 +1,67 @@
+{
+  "id": 1293565465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10422,41.22123,-8.10422,41.22123",
+    "geom:latitude":41.22123,
+    "geom:longitude":-8.10422,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1307",
+    "gn:admin3_code":"130729.0",
+    "gn:asciiname":"Legua",
+    "gn:country_code":"PT",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738342,
+    "gn:latitude":41.22123,
+    "gn:longitude":-8.10422,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"L\u00e9gua",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738342
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"274b3c01a99408cfa114f21acaf5f415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1293565465,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1293565465,
+    "wof:lastmodified":1536674704,
+    "wof:name":"Legua",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10422,
+    41.22123,
+    -8.10422,
+    41.22123
+],
+  "geometry": {"coordinates":[-8.10422,41.22123],"type":"Point"}
+}

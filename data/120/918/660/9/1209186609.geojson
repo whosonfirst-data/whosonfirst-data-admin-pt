@@ -1,0 +1,63 @@
+{
+  "id": 1209186609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05873,39.27847,-8.05873,39.27847",
+    "geom:latitude":39.27847,
+    "geom:longitude":-8.05873,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1213",
+    "gn:admin3_code":"121303.0",
+    "gn:asciiname":"Padrao",
+    "gn:country_code":"PT",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265313,
+    "gn:latitude":39.27847,
+    "gn:longitude":-8.05873,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Padr\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265313
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"609b6038b02279f48c9d2d5cdb2a66c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209186609
+        }
+    ],
+    "wof:id":1209186609,
+    "wof:lastmodified":1536295077,
+    "wof:name":"Padrao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05873,
+    39.27847,
+    -8.05873,
+    39.27847
+],
+  "geometry": {"coordinates":[-8.05873,39.27847],"type":"Point"}
+}

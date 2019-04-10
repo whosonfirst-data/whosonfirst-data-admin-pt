@@ -1,0 +1,67 @@
+{
+  "id": 1310109019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46023,40.8188,-8.46023,40.8188",
+    "geom:latitude":40.8188,
+    "geom:longitude":-8.46023,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0113",
+    "gn:admin3_code":"11306.0",
+    "gn:asciiname":"Alto do Monte",
+    "gn:country_code":"PT",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2743017,
+    "gn:latitude":40.8188,
+    "gn:longitude":-8.46023,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Alto do Monte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743017
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"3d6661bcbf253cd7fc0037cffeac04ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310109019,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1310109019,
+    "wof:lastmodified":1536990551,
+    "wof:name":"Alto do Monte",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46023,
+    40.8188,
+    -8.46023,
+    40.8188
+],
+  "geometry": {"coordinates":[-8.46023,40.8188],"type":"Point"}
+}

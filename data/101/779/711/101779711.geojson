@@ -1,0 +1,88 @@
+{
+  "id": 101779711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":309806.265826,
+    "geom:bbox":"-7.71906232716,38.3932282894,-7.71030217819,38.3991332677",
+    "geom:latitude":38.396298,
+    "geom:longitude":-7.714296,
+    "iso:country":"PT",
+    "lbl:latitude":38.396417,
+    "lbl:longitude":-7.714296,
+    "mps:latitude":38.396417,
+    "mps:longitude":-7.714296,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Monte Trigo"
+    ],
+    "name:por_x_preferred":[
+        "Monte Trigo"
+    ],
+    "name:por_x_variant":[
+        "Mte Trigo"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*\u00c9vora",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Monte do Trigo",
+    "qs:la_lc":"*PT10709034",
+    "qs:level":"locality",
+    "qs:loc":"Monte Trigo",
+    "qs:loc_alt":"Monte Trigo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":17.02,
+    "wd:longitude":-25.329,
+    "wd:wordcount":99,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0264b910-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2265801,
+        "gp:id":744161,
+        "qs:id":1005113
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c725eb77572403ca04ccfc481d8ff2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101779711,
+            "region_id":85687363
+        }
+    ],
+    "wof:id":101779711,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527688558,
+    "wof:name":"Monte Trigo",
+    "wof:parent_id":85687363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71906232715992,
+    38.3932282894192,
+    -7.71030217819117,
+    38.39913326771932
+],
+  "geometry": {"coordinates":[[[-7.71212864761515,38.39913326771932],[-7.71165506802066,38.39737407360911],[-7.71053894141318,38.39758318494125],[-7.71030217819117,38.3967035818805],[-7.71141829132313,38.39649447373881],[-7.71070801362356,38.393855662867],[-7.71405619588688,38.3932282894192],[-7.71429298680869,38.39410788534809],[-7.71652510537513,38.39368956522128],[-7.71747246418556,38.39720790463468],[-7.71858856839401,38.39699871237082],[-7.71906232715992,38.39875786442917],[-7.71794619600252,38.39896706307673],[-7.71770932572605,38.39808748479436],[-7.71212864761515,38.39913326771932]]],"type":"Polygon"}
+}

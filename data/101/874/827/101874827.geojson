@@ -1,0 +1,81 @@
+{
+  "id": 101874827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.586537,40.641024,-8.586537,40.641024",
+    "geom:latitude":40.641024,
+    "geom:longitude":-8.586537,
+    "iso:country":"PT",
+    "lbl:latitude":40.641024,
+    "lbl:longitude":-8.586537,
+    "mps:latitude":40.641024,
+    "mps:longitude":-8.586537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Azurva"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Aveiro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Azurva",
+    "qs:loc_alt":"Azurva",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026972de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2742527,
+        "gp:id":736763,
+        "qs:id":1
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"95a8fb342b0e01234afea5ba72d7a007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101874827,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":101874827,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544751811,
+    "wof:name":"Azurva",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.586537,
+    40.641024,
+    -8.586537,
+    40.641024
+],
+  "geometry": {"coordinates":[-8.586537,40.641024],"type":"Point"}
+}

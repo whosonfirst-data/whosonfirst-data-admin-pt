@@ -1,0 +1,61 @@
+{
+  "id": 1108942485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15722195955,38.7870105582,-9.15722195955,38.7870105582",
+    "geom:latitude":38.787011,
+    "geom:longitude":-9.157222,
+    "iso:country":"PT",
+    "lbl:latitude":38.787011,
+    "lbl:longitude":-9.157222,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PT",
+    "wof:created":1491363117,
+    "wof:geomhash":"6528213a4088ed88f279b95e14536c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":1108942485,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":1108942485,
+    "wof:lastmodified":1492123639,
+    "wof:name":"Ameixoeira",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15722195954566,
+    38.7870105582009,
+    -9.15722195954566,
+    38.7870105582009
+],
+  "geometry": {"coordinates":[-9.15722195954566,38.7870105582009],"type":"Point"}
+}

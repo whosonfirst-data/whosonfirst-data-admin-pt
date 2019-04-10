@@ -1,0 +1,84 @@
+{
+  "id": 1125282035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73083,41.93909,-8.73083,41.93909",
+    "geom:latitude":41.93909,
+    "geom:longitude":-8.73083,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.93909,
+    "lbl:longitude":-8.73083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:mwl_x_preferred":[
+        "Bila Nuoba de Cerbeira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0438-\u0421\u0435\u0440\u0432\u0435\u0439\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0421\u0435\u0440\u0432\u0435\u0439\u0440\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u723e\u97cb\u62c9\u65b0\u93ae"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014499,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vila Nova de Cerveira",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":381213,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014499,
+        "qs_pg:id":381213
+    },
+    "wof:country":"PT",
+    "wof:created":1497042539,
+    "wof:geomhash":"09029ed7953e5becc3acb8686847b9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125282035,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1125282035,
+    "wof:lastmodified":1509387317,
+    "wof:name":"Vila Nova de Cerveira",
+    "wof:parent_id":85687433,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73083,
+    41.93909,
+    -8.73083,
+    41.93909
+],
+  "geometry": {"coordinates":[-8.73083,41.93909],"type":"Point"}
+}

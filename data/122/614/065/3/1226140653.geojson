@@ -1,0 +1,67 @@
+{
+  "id": 1226140653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12884,40.03127,-7.12884,40.03127",
+    "geom:latitude":40.03127,
+    "geom:longitude":-7.12884,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0505",
+    "gn:admin3_code":"50508.0",
+    "gn:asciiname":"Carroqueiro",
+    "gn:country_code":"PT",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741377,
+    "gn:latitude":40.03127,
+    "gn:longitude":-7.12884,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carroqueiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741377
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4386d47108cd01013a16951ba908ead8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226140653,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1226140653,
+    "wof:lastmodified":1537081927,
+    "wof:name":"Carroqueiro",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12884,
+    40.03127,
+    -7.12884,
+    40.03127
+],
+  "geometry": {"coordinates":[-7.12884,40.03127],"type":"Point"}
+}

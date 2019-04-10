@@ -1,0 +1,74 @@
+{
+  "id": 1327292115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-27.33907,38.69608,-27.33907,38.69608",
+    "geom:latitude":38.69608,
+    "geom:longitude":-27.33907,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4301",
+    "gn:admin3_code":"430113.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"PT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372653,
+    "gn:latitude":38.69608,
+    "gn:longitude":-27.33907,
+    "gn:modification_date":"2018-02-27",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":1274,
+    "gn:timezone":"Atlantic/Azores",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa B\u00e1rbara"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3372653,
+        "wk:page":"Santa_B%C3%A1rbara_%28Angra_do_Hero%C3%ADsmo%29"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0fa88e5a8f197a5ea20d28a3d0141cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327292115,
+            "region_id":85687441
+        }
+    ],
+    "wof:id":1327292115,
+    "wof:lastmodified":1537683179,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":85687441,
+    "wof:placetype":"locality",
+    "wof:population":1274,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -27.33907,
+    38.69608,
+    -27.33907,
+    38.69608
+],
+  "geometry": {"coordinates":[-27.33907,38.69608],"type":"Point"}
+}

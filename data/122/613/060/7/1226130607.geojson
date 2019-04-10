@@ -1,0 +1,67 @@
+{
+  "id": 1226130607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.27744,40.78777,-7.27744,40.78777",
+    "geom:latitude":40.78777,
+    "geom:longitude":-7.27744,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"0913",
+    "gn:admin3_code":"91326.0",
+    "gn:asciiname":"Vale do Seixo",
+    "gn:country_code":"PT",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733046,
+    "gn:latitude":40.78777,
+    "gn:longitude":-7.27744,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Vale do Seixo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733046
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"446c40a97ba63aa5eccb43e0fa8938bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226130607,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1226130607,
+    "wof:lastmodified":1537096313,
+    "wof:name":"Vale do Seixo",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.27744,
+    40.78777,
+    -7.27744,
+    40.78777
+],
+  "geometry": {"coordinates":[-7.27744,40.78777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259807713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3484,41.70566,-8.3484,41.70566",
+    "geom:latitude":41.70566,
+    "geom:longitude":-8.3484,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"0313",
+    "gn:admin3_code":"31351.0",
+    "gn:asciiname":"Valbom",
+    "gn:country_code":"PT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2733247,
+    "gn:latitude":41.70566,
+    "gn:longitude":-8.3484,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Valbom",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e3o Pedro",
+        "Valbom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2733247
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f6cdf991d114808bd7f2284150b3ce1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259807713,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1259807713,
+    "wof:lastmodified":1537683158,
+    "wof:name":"Valbom",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3484,
+    41.70566,
+    -8.3484,
+    41.70566
+],
+  "geometry": {"coordinates":[-8.3484,41.70566],"type":"Point"}
+}

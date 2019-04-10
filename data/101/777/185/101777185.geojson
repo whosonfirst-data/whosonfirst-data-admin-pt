@@ -1,0 +1,108 @@
+{
+  "id": 101777185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":459546.286707,
+    "geom:bbox":"-7.49197827442,40.0293826887,-7.47735379085,40.0367246676",
+    "geom:latitude":40.032416,
+    "geom:longitude":-7.484244,
+    "iso:country":"PT",
+    "lbl:latitude":40.031434,
+    "lbl:longitude":-7.484134,
+    "mps:latitude":40.031434,
+    "mps:longitude":-7.484134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Soalheira"
+    ],
+    "name:eng_x_preferred":[
+        "Soalheira"
+    ],
+    "name:fre_x_preferred":[
+        "Soalheira"
+    ],
+    "name:ger_x_preferred":[
+        "Soalheira"
+    ],
+    "name:ita_x_preferred":[
+        "Francisco Rola Preto"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0430\u043b\u044c\u0435\u0439\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Rol\u00e3o Preto"
+    ],
+    "name:por_x_preferred":[
+        "Soalheira",
+        "Francisco Rol\u00e3o Preto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0430\u043b\u044c\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Francisco Rol\u00e3o Preto"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Soalheira",
+    "qs:la_lc":"*PT10504254",
+    "qs:level":"locality",
+    "qs:loc":"Soalheira",
+    "qs:loc_alt":"Soalheira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026fd796-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733951,
+        "gp:id":748894,
+        "qs:id":180534,
+        "wd:id":"Q1893765"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4e42da15166a332f35c8abae35edd35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777185,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777185,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498155,
+    "wof:name":"Soalheira",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49197827441714,
+    40.02938268871685,
+    -7.47735379084526,
+    40.03672466761105
+],
+  "geometry": {"coordinates":[[[-7.47849759258418,40.0347609104673],[-7.4777648252412,40.0321260322321],[-7.47890857714958,40.03191885477327],[-7.4786643253579,40.03104056173549],[-7.48781399397097,40.02938268871685],[-7.48805836151917,40.03026095534074],[-7.4892020556984,40.0300536579432],[-7.4894464469491,40.03093191946641],[-7.49173384499466,40.03051727808759],[-7.49197827441714,40.03139553120656],[-7.49083456413456,40.0316028618621],[-7.49156786441648,40.03423762033964],[-7.48928033778259,40.03465226149126],[-7.48903592405867,40.03377400385682],[-7.48789216558612,40.03398130113914],[-7.48740339478593,40.03222477387112],[-7.48168465088759,40.03326102735394],[-7.48192895931595,40.03413930839793],[-7.48078517681972,40.03434652241526],[-7.48102948000843,40.03522480496383],[-7.47988567662486,40.03543200895518],[-7.48012997457323,40.03631029300851],[-7.47784231961509,40.03672466761105],[-7.47735379084526,40.03496808450205],[-7.47849759258418,40.0347609104673]]],"type":"Polygon"}
+}

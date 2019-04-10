@@ -1,0 +1,63 @@
+{
+  "id": 1209479585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.40825,41.6096,-7.40825,41.6096",
+    "geom:latitude":41.6096,
+    "geom:longitude":-7.40825,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"1712",
+    "gn:admin3_code":"171221.0",
+    "gn:asciiname":"Campo de Egua",
+    "gn:country_code":"PT",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741635,
+    "gn:latitude":41.6096,
+    "gn:longitude":-7.40825,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Campo de \u00c9gua",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741635
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"0c3d87ca453907cedea10ce022fd92db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209479585
+        }
+    ],
+    "wof:id":1209479585,
+    "wof:lastmodified":1536285827,
+    "wof:name":"Campo de Egua",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40825,
+    41.6096,
+    -7.40825,
+    41.6096
+],
+  "geometry": {"coordinates":[-7.40825,41.6096],"type":"Point"}
+}

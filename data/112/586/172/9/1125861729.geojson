@@ -1,0 +1,89 @@
+{
+  "id": 1125861729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26774,41.3308,-8.26774,41.3308",
+    "geom:latitude":41.3308,
+    "geom:longitude":-8.26774,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":41.3308,
+    "lbl:longitude":-8.26774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Santo Est\u00eav\u00e3o"
+    ],
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2742331,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Barrosas-Santo Est\u00eav\u00e3o",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1103547,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":23412924,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2742331,
+        "gp:id":23412924,
+        "qs_pg:id":1103547
+    },
+    "wof:country":"PT",
+    "wof:created":1497293855,
+    "wof:geomhash":"1ca2a299ccdf92ec2b6f6d3c838ea3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125861729,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1125861729,
+    "wof:lastmodified":1509396678,
+    "wof:name":"Barrosas-Santo Est\u00eav\u00e3o",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26774,
+    41.3308,
+    -8.26774,
+    41.3308
+],
+  "geometry": {"coordinates":[-8.26774,41.3308],"type":"Point"}
+}

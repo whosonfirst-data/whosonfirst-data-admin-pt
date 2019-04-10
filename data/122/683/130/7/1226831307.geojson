@@ -1,0 +1,67 @@
+{
+  "id": 1226831307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.48904,39.00029,-7.48904,39.00029",
+    "geom:latitude":39.00029,
+    "geom:longitude":-7.48904,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1211",
+    "gn:admin3_code":"121102.0",
+    "gn:asciiname":"Sao Pedro de Almuro",
+    "gn:country_code":"PT",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263243,
+    "gn:latitude":39.00029,
+    "gn:longitude":-7.48904,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"S\u00e3o Pedro de Almuro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2263243
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"deda801ab5560fbea66a9671d0ecc289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226831307,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1226831307,
+    "wof:lastmodified":1537085949,
+    "wof:name":"Sao Pedro de Almuro",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.48904,
+    39.00029,
+    -7.48904,
+    39.00029
+],
+  "geometry": {"coordinates":[-7.48904,39.00029],"type":"Point"}
+}

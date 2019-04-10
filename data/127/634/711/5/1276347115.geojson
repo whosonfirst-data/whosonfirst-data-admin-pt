@@ -1,0 +1,67 @@
+{
+  "id": 1276347115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82021,37.53369,-7.82021,37.53369",
+    "geom:latitude":37.53369,
+    "geom:longitude":-7.82021,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"0209",
+    "gn:admin3_code":"20907.0",
+    "gn:asciiname":"Monte do Gato",
+    "gn:country_code":"PT",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2265991,
+    "gn:latitude":37.53369,
+    "gn:longitude":-7.82021,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Monte do Gato",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2265991
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"a9a951dc098946e37c25a8ec1d9230e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276347115,
+            "region_id":85687355
+        }
+    ],
+    "wof:id":1276347115,
+    "wof:lastmodified":1536760162,
+    "wof:name":"Monte do Gato",
+    "wof:parent_id":85687355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82021,
+    37.53369,
+    -7.82021,
+    37.53369
+],
+  "geometry": {"coordinates":[-7.82021,37.53369],"type":"Point"}
+}

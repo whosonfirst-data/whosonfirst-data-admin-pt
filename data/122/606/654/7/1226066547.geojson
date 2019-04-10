@@ -1,0 +1,67 @@
+{
+  "id": 1226066547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.8144,40.35932,-7.8144,40.35932",
+    "geom:latitude":40.35932,
+    "geom:longitude":-7.8144,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0611",
+    "gn:admin3_code":"61107.0",
+    "gn:asciiname":"Chamusca",
+    "gn:country_code":"PT",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740801,
+    "gn:latitude":40.35932,
+    "gn:longitude":-7.8144,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Chamusca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740801
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"009c570d85e5fdc6e7ff2b571ffc3e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226066547,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226066547,
+    "wof:lastmodified":1536695465,
+    "wof:name":"Chamusca",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.8144,
+    40.35932,
+    -7.8144,
+    40.35932
+],
+  "geometry": {"coordinates":[-7.8144,40.35932],"type":"Point"}
+}

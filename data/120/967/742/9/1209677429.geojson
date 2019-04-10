@@ -1,0 +1,63 @@
+{
+  "id": 1209677429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.77544,41.84107,-8.77544,41.84107",
+    "geom:latitude":41.84107,
+    "geom:longitude":-8.77544,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1602",
+    "gn:admin3_code":"160209.0",
+    "gn:asciiname":"Chao do Porto",
+    "gn:country_code":"PT",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740791,
+    "gn:latitude":41.84107,
+    "gn:longitude":-8.77544,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ch\u00e3o do Porto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740791
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"85d19b4b7a4c709cdee4ae3923707aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209677429
+        }
+    ],
+    "wof:id":1209677429,
+    "wof:lastmodified":1536279701,
+    "wof:name":"Chao do Porto",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.77544,
+    41.84107,
+    -8.77544,
+    41.84107
+],
+  "geometry": {"coordinates":[-8.77544,41.84107],"type":"Point"}
+}

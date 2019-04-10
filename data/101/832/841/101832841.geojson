@@ -1,0 +1,72 @@
+{
+  "id": 101832841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:bbox":"-9.20786364732,38.6307729745,-9.19037540089,38.6422502731",
+    "geom:latitude":38.635558,
+    "geom:longitude":-9.199815,
+    "iso:country":"PT",
+    "lbl:latitude":38.635556,
+    "lbl:longitude":-9.201237,
+    "mps:latitude":38.635556,
+    "mps:longitude":-9.201237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Feij\u00f3",
+    "qs:la_lc":"*PT11503111",
+    "qs:level":"locality",
+    "qs:loc":"Botequim",
+    "qs:loc_alt":"Botequim",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":413,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":737030,
+        "qs:id":1,
+        "wd:id":"Q4948571"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f36586bcc9446d53a53a6ff8e616207c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832841,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101832841,
+    "wof:lastmodified":1527642786,
+    "wof:name":"Botequim",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2078636473243,
+    38.63077297454987,
+    -9.19037540089448,
+    38.64225027306412
+],
+  "geometry": {"coordinates":[[[[-9.19267026940145,38.64046074398794],[-9.19904720356089,38.63916651789543],[-9.19827276629007,38.63654310391212],[-9.19715650799333,38.6367697079728],[-9.19664029058401,38.63502074826647],[-9.19552405236647,38.63524733248454],[-9.19500789955282,38.6334983577533],[-9.19389168141493,38.63372492213011],[-9.19337559319092,38.63197593237533],[-9.19223055722364,38.63220831527457],[-9.19307910510895,38.63077297454987],[-9.20683963000698,38.63350062241301],[-9.20746084069521,38.63560425212006],[-9.2078636473243,38.63552242684],[-9.20233735547771,38.6384985021835],[-9.20016349523564,38.63893989052696],[-9.20034928292392,38.63956913939796],[-9.1953706700163,38.64225027306412],[-9.19267026940145,38.64046074398794]]],[[[-9.1904187936023,38.63799339265688],[-9.19045882139341,38.63812906110735],[-9.19037540089448,38.63814598775963],[-9.1904187936023,38.63799339265688]]]],"type":"MultiPolygon"}
+}

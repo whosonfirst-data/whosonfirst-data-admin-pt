@@ -1,0 +1,71 @@
+{
+  "id": 1343631053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82017,39.24742,-7.82017,39.24742",
+    "geom:latitude":39.24742,
+    "geom:longitude":-7.82017,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"1201",
+    "gn:admin3_code":"120102.0",
+    "gn:asciiname":"Chanca",
+    "gn:country_code":"PT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269332,
+    "gn:latitude":39.24742,
+    "gn:longitude":-7.82017,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chan\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chancelaria",
+        "Chan\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269332
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"01361534737c73455d14ed7326ecf9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1343631053,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":1343631053,
+    "wof:lastmodified":1537683152,
+    "wof:name":"Chanca",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82017,
+    39.24742,
+    -7.82017,
+    39.24742
+],
+  "geometry": {"coordinates":[-7.82017,39.24742],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276341369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36849,41.66967,-8.36849,41.66967",
+    "geom:latitude":41.66967,
+    "geom:longitude":-8.36849,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0301",
+    "gn:admin3_code":"30106.0",
+    "gn:asciiname":"Caldas",
+    "gn:country_code":"PT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2741746,
+    "gn:latitude":41.66967,
+    "gn:longitude":-8.36849,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Caldas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2741746
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"dc0098871c9094d3570ec22faff41677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276341369,
+            "region_id":85687419
+        }
+    ],
+    "wof:id":1276341369,
+    "wof:lastmodified":1536768111,
+    "wof:name":"Caldas",
+    "wof:parent_id":85687419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36849,
+    41.66967,
+    -8.36849,
+    41.66967
+],
+  "geometry": {"coordinates":[-8.36849,41.66967],"type":"Point"}
+}

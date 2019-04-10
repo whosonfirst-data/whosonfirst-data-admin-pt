@@ -1,0 +1,121 @@
+{
+  "id": 101780653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":379870.712885,
+    "geom:bbox":"-8.49166609649,37.1429712241,-8.47914437276,37.1486707569",
+    "geom:latitude":37.145776,
+    "geom:longitude":-8.485572,
+    "gn:population":8590,
+    "iso:country":"PT",
+    "lbl:latitude":37.145514,
+    "lbl:longitude":-8.486521,
+    "mps:latitude":37.145514,
+    "mps:longitude":-8.486521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:dut_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:eng_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:ger_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u0448\u0442\u043e\u043c\u0431\u0430\u0440"
+    ],
+    "name:may_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:msa_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:por_x_colloquial":[
+        "Estombar"
+    ],
+    "name:por_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448\u0442\u043e\u043c\u0431\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Est\u00f4mbar"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Faro",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Est\u00f4mbar",
+    "qs:la_lc":"*PT10806013",
+    "qs:level":"locality",
+    "qs:loc":"Est\u00f4mbar",
+    "qs:loc_alt":"Estombar",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":37.15,
+    "wd:longitude":-8.483333,
+    "wd:wordcount":386,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02683176-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2268437,
+        "gp:id":740755,
+        "qs:id":905169,
+        "qs_pg:id":905169,
+        "wd:id":"Q2453756",
+        "wk:page":"Est\u00f4mbar"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"8b28e43935515cf0eb579f1283ad47e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101780653,
+            "region_id":85687349
+        }
+    ],
+    "wof:id":101780653,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527715875,
+    "wof:name":"Est\u00f4mbar",
+    "wof:parent_id":85687349,
+    "wof:placetype":"locality",
+    "wof:population":8590,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49166609648915,
+    37.14297122405634,
+    -8.47914437275733,
+    37.14867075693417
+],
+  "geometry": {"coordinates":[[[-8.48228972653976,37.14867075693417],[-8.48205083140289,37.14779190239108],[-8.4809558837984,37.14800941094461],[-8.48047814477241,37.14625168945253],[-8.4793832166481,37.14646917893515],[-8.47914437275733,37.1455903119865],[-8.48461889166475,37.14450275402282],[-8.48437999311687,37.14362390110756],[-8.4876645963858,37.14297122405634],[-8.48790353290815,37.14385006735097],[-8.49118812156729,37.14319726676246],[-8.49166609648915,37.14495492811119],[-8.48947632592899,37.14539015399106],[-8.48971530104149,37.1462689880828],[-8.48862039433703,37.14648658524391],[-8.48885936543536,37.14736542054459],[-8.48228972653976,37.14867075693417]]],"type":"Polygon"}
+}

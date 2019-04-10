@@ -1,0 +1,67 @@
+{
+  "id": 1276863231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37613,39.99742,-8.37613,39.99742",
+    "geom:latitude":39.99742,
+    "geom:longitude":-8.37613,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0614",
+    "gn:admin3_code":"61405.0",
+    "gn:asciiname":"Cerradas",
+    "gn:country_code":"PT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269398,
+    "gn:latitude":39.99742,
+    "gn:longitude":-8.37613,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerradas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2269398
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6b3e929dc50d48d57e9cd081844162c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276863231,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1276863231,
+    "wof:lastmodified":1537060778,
+    "wof:name":"Cerradas",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37613,
+    39.99742,
+    -8.37613,
+    39.99742
+],
+  "geometry": {"coordinates":[-8.37613,39.99742],"type":"Point"}
+}

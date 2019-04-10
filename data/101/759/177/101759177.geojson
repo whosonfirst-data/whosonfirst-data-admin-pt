@@ -1,0 +1,71 @@
+{
+  "id": 101759177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:bbox":"-9.14311050749,38.7893374392,-9.13418794238,38.7986460947",
+    "geom:latitude":38.794072,
+    "geom:longitude":-9.138184,
+    "iso:country":"PT",
+    "lbl:latitude":38.79415,
+    "lbl:longitude":-9.138252,
+    "mps:latitude":38.79415,
+    "mps:longitude":-9.138252,
+    "mz:hierarchy_label":1,
+    "name:por_x_preferred":[
+        "Bairro de F\u00e1tima"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"S\u00e3o Jo\u00e3o da Talha",
+    "qs:la_lc":"*PT11107151",
+    "qs:level":"locality",
+    "qs:loc":"Bairro de S\u00e3o Francisco",
+    "qs:loc_alt":"Bairro de Sao Francisco",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":1
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"9e3a7cf4a639ea0e021da9cfc56f3e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759177,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101759177,
+    "wof:lastmodified":1467242937,
+    "wof:name":"Bairro de S\u00e3o Francisco",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14311050748825,
+    38.7893374392379,
+    -9.13418794237839,
+    38.79864609473003
+],
+  "geometry": {"coordinates":[[[-9.13418794237839,38.79530289283338],[-9.1342961979833,38.79513277688289],[-9.13441693418423,38.79308026146697],[-9.13465840658614,38.79138995465388],[-9.13550355999269,38.7893374392379],[-9.13610724099726,38.79066553744815],[-9.13719386680577,38.79114848225197],[-9.13852196501603,38.79030332884548],[-9.14008320899359,38.79071966057279],[-9.1403330080301,38.7912692184529],[-9.14117816143664,38.79308026146697],[-9.14311050748825,38.79418445921067],[-9.14274773204886,38.79452909587815],[-9.13957421210063,38.79864609473003],[-9.13418794237839,38.79530289283338]]],"type":"Polygon"}
+}

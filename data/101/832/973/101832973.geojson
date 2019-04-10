@@ -1,0 +1,111 @@
+{
+  "id": 101832973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000133,
+    "geom:area_square_m":1283237.068962,
+    "geom:bbox":"-9.33083805236,38.8552323446,-9.30941044937,38.8758088863",
+    "geom:latitude":38.86515,
+    "geom:longitude":-9.319919,
+    "iso:country":"PT",
+    "lbl:latitude":38.864109,
+    "lbl:longitude":-9.320649,
+    "mps:latitude":38.864109,
+    "mps:longitude":-9.320649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Fornos de Maceira D\u00e3o"
+    ],
+    "name:dut_x_preferred":[
+        "Maceira"
+    ],
+    "name:eng_x_preferred":[
+        "Maceira"
+    ],
+    "name:fre_x_preferred":[
+        "Maceira"
+    ],
+    "name:ger_x_preferred":[
+        "Maceira"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0443\u0448-\u0434\u0435-\u041c\u0430\u0441\u0435\u0439\u0440\u0430-\u0414\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Fornos de Maceira D\u00e3o"
+    ],
+    "name:por_x_preferred":[
+        "Maceira",
+        "Fornos de Maceira D\u00e3o"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u043d\u0443\u0448-\u0434\u0435-\u041c\u0430\u0441\u0435\u0439\u0440\u0430-\u0414\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Fornos de Maceira D\u00e3o"
+    ],
+    "name:tur_x_preferred":[
+        "Maceira"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Lisboa",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Montelavar",
+    "qs:la_lc":"*PT11111060",
+    "qs:level":"locality",
+    "qs:loc":"Maceira",
+    "qs:loc_alt":"Maceira",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269656e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2266917,
+        "gp:id":742940,
+        "qs:id":1253879,
+        "wd:id":"Q780493"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c9e4e1733b3a6d1c1b2b76b1b0f6cd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101832973,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":101832973,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498072,
+    "wof:name":"Maceira",
+    "wof:parent_id":85687367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33083805235788,
+    38.85523234455297,
+    -9.30941044937487,
+    38.87580888628884
+],
+  "geometry": {"coordinates":[[[-9.31256319809796,38.85523234455297],[-9.31313587579308,38.8556215816659],[-9.31325452692039,38.8560185157213],[-9.31361255330353,38.85594556945091],[-9.32721497434801,38.86519085199262],[-9.33083805235788,38.87561061556988],[-9.32986555488259,38.87580888628884],[-9.32934245152802,38.87406145342396],[-9.32822272431537,38.87428971085467],[-9.32796120051933,38.87341598786492],[-9.3268414800707,38.87364422883024],[-9.32579553501364,38.87014930251655],[-9.32355618140309,38.87060571751033],[-9.3225104979482,38.86711073062395],[-9.32027122499034,38.8675670657334],[-9.32000985504368,38.86669330691842],[-9.31553128315949,38.86760580764087],[-9.31579259951542,38.8684795804827],[-9.31131386797574,38.86939188793343],[-9.31105260521667,38.86851810106742],[-9.3099329191615,38.86874614203327],[-9.30941044937487,38.86699855519998],[-9.31164976126041,38.86654247433376],[-9.31138851403449,38.86566868488251],[-9.31250814663855,38.86544062852096],[-9.31224689565789,38.86456684054474],[-9.31336650823795,38.86433877473303],[-9.3136277726158,38.86521255920377],[-9.31698661078252,38.86452827351854],[-9.31568018438861,38.8601593834436],[-9.31232154715832,38.86084361654349],[-9.31127674034769,38.85734842586385],[-9.31239623914007,38.85712037513815],[-9.31187386679017,38.85537277462356],[-9.31256319809796,38.85523234455297]]],"type":"Polygon"}
+}

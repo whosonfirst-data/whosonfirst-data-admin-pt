@@ -1,0 +1,67 @@
+{
+  "id": 1360294473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39508,40.94927,-8.39508,40.94927",
+    "geom:latitude":40.94927,
+    "geom:longitude":-8.39508,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"0104",
+    "gn:admin3_code":"10409.0",
+    "gn:asciiname":"Ver",
+    "gn:country_code":"PT",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732806,
+    "gn:latitude":40.94927,
+    "gn:longitude":-8.39508,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Ver",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732806
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"779cbb70947065e57240b08b77e2ce7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1360294473,
+            "region_id":85687409
+        }
+    ],
+    "wof:id":1360294473,
+    "wof:lastmodified":1536642707,
+    "wof:name":"Ver",
+    "wof:parent_id":85687409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39508,
+    40.94927,
+    -8.39508,
+    40.94927
+],
+  "geometry": {"coordinates":[-8.39508,40.94927],"type":"Point"}
+}

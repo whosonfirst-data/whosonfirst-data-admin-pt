@@ -1,0 +1,110 @@
+{
+  "id": 101849977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.609974,37.801579,-25.609974,37.801579",
+    "geom:latitude":37.801579,
+    "geom:longitude":-25.609974,
+    "iso:country":"PT",
+    "lbl:latitude":37.801579,
+    "lbl:longitude":-25.609974,
+    "mps:latitude":37.801579,
+    "mps:longitude":-25.609974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:deu_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:msa_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:por_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:por_x_variant":[
+        "Pica da Pedra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043a\u0443-\u0434\u0430-\u041f\u0435\u0434\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:tur_x_preferred":[
+        "Pico da Pedra"
+    ],
+    "name:unk_x_variant":[
+        "Pica da Pedra"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pico da Pedra",
+    "qs:loc_alt":"Pico da Pedra",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":330,
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02650dac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3372802,
+        "gp:id":538203,
+        "qs:id":1165768,
+        "qs_pg:id":1165768,
+        "wd:id":"Q2655173",
+        "wk:page":"Pico da Pedra"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f3a78bf73a0380db7d5d2e20695c436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101849977,
+            "region_id":85687437
+        }
+    ],
+    "wof:id":101849977,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1544741205,
+    "wof:name":"Pico da Pedra",
+    "wof:parent_id":85687437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.609974,
+    37.801579,
+    -25.609974,
+    37.801579
+],
+  "geometry": {"coordinates":[-25.609974,37.801579],"type":"Point"}
+}

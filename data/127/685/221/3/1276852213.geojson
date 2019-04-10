@@ -1,0 +1,67 @@
+{
+  "id": 1276852213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14397,40.43139,-7.14397,40.43139",
+    "geom:latitude":40.43139,
+    "geom:longitude":-7.14397,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0907",
+    "gn:admin3_code":"90729.0",
+    "gn:asciiname":"Pega",
+    "gn:country_code":"PT",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736516,
+    "gn:latitude":40.43139,
+    "gn:longitude":-7.14397,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pega",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736516
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"060cd1176ca30cd7408d96a5eb82369b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1276852213,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1276852213,
+    "wof:lastmodified":1537075107,
+    "wof:name":"Pega",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14397,
+    40.43139,
+    -7.14397,
+    40.43139
+],
+  "geometry": {"coordinates":[-7.14397,40.43139],"type":"Point"}
+}

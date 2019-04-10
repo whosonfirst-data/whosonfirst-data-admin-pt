@@ -1,0 +1,70 @@
+{
+  "id": 1310468295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23137,39.60674,-8.23137,39.60674",
+    "geom:latitude":39.60674,
+    "geom:longitude":-8.23137,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"1401",
+    "gn:admin3_code":"140118.0",
+    "gn:asciiname":"Fontes",
+    "gn:country_code":"PT",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268053,
+    "gn:latitude":39.60674,
+    "gn:longitude":-8.23137,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Fontes",
+    "gn:population":627,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268053
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7e1743cd108d649e9850c8f56b52464f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310468295,
+            "region_id":85687377
+        }
+    ],
+    "wof:id":1310468295,
+    "wof:lastmodified":1536970345,
+    "wof:name":"Fontes",
+    "wof:parent_id":85687377,
+    "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23137,
+    39.60674,
+    -8.23137,
+    39.60674
+],
+  "geometry": {"coordinates":[-8.23137,39.60674],"type":"Point"}
+}

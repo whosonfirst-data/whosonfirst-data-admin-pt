@@ -1,0 +1,63 @@
+{
+  "id": 1209671857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96936,41.11379,-7.96936,41.11379",
+    "geom:latitude":41.11379,
+    "geom:longitude":-7.96936,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"1813",
+    "gn:admin3_code":"181311.0",
+    "gn:asciiname":"Mirao",
+    "gn:country_code":"PT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737638,
+    "gn:latitude":41.11379,
+    "gn:longitude":-7.96936,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Mir\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737638
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f4850292271c7fd90d1acf8c95df5c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209671857
+        }
+    ],
+    "wof:id":1209671857,
+    "wof:lastmodified":1536279892,
+    "wof:name":"Mirao",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.969360000000001,
+    41.11379,
+    -7.969360000000001,
+    41.11379
+],
+  "geometry": {"coordinates":[-7.96936,41.11379],"type":"Point"}
+}

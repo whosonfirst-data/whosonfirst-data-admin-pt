@@ -1,0 +1,67 @@
+{
+  "id": 1243237955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67719,41.80673,-8.67719,41.80673",
+    "geom:latitude":41.80673,
+    "geom:longitude":-8.67719,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"1607",
+    "gn:admin3_code":"160717.0",
+    "gn:asciiname":"Cerquido",
+    "gn:country_code":"PT",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740838,
+    "gn:latitude":41.80673,
+    "gn:longitude":-8.67719,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Cerquido",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740838
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"f5aa0ffb23375ae987363ac57780246c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1243237955,
+            "region_id":85687433
+        }
+    ],
+    "wof:id":1243237955,
+    "wof:lastmodified":1536606292,
+    "wof:name":"Cerquido",
+    "wof:parent_id":85687433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67719,
+    41.80673,
+    -8.67719,
+    41.80673
+],
+  "geometry": {"coordinates":[-8.67719,41.80673],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310381863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45,37.88333,-8.45,37.88333",
+    "geom:latitude":37.88333,
+    "geom:longitude":-8.45,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Martim Vaqueiro",
+    "gn:country_code":"PT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2266649,
+    "gn:latitude":37.88333,
+    "gn:longitude":-8.45,
+    "gn:modification_date":"1994-01-08",
+    "gn:name":"Martim Vaqueiro",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2266649
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6e865e3202288dcd0bc612ff6cccc736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1310381863,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1310381863,
+    "wof:lastmodified":1537092147,
+    "wof:name":"Martim Vaqueiro",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45,
+    37.88333,
+    -8.45,
+    37.88333
+],
+  "geometry": {"coordinates":[-8.45,37.88333],"type":"Point"}
+}

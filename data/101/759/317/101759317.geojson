@@ -1,0 +1,69 @@
+{
+  "id": 101759317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000185,
+    "geom:bbox":"-8.71684894578,41.2138066358,-8.69986416709,41.2341955163",
+    "geom:latitude":41.22297,
+    "geom:longitude":-8.707702,
+    "iso:country":"PT",
+    "lbl:latitude":41.220925,
+    "lbl:longitude":-8.708281,
+    "mps:latitude":41.220925,
+    "mps:longitude":-8.708281,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Aldeia Nova",
+    "qs:loc_alt":"Aldeia Nova",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29381865,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"5ed7a99225b7e1c326f36c642f4e156b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759317,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759317,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Aldeia Nova",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7168489457751,
+    41.21380663578378,
+    -8.69986416709355,
+    41.23419551629075
+],
+  "geometry": {"coordinates":[[[-8.69986416709355,41.2267668070055],[-8.69995170732403,41.22212717479283],[-8.70307490945959,41.2215297762416],[-8.70226540098344,41.21891087391816],[-8.70342675854795,41.21868870478261],[-8.70291296083735,41.21702637580006],[-8.71298763121132,41.21380663578378],[-8.7168489457751,41.22629073215683],[-8.71568748924619,41.22651306302396],[-8.71514737223634,41.22476722590744],[-8.71050159300319,41.22565638503085],[-8.71131160481161,41.22827518155879],[-8.70666553019038,41.22916416803128],[-8.70693549506882,41.23003711097891],[-8.70577394332685,41.23025932743212],[-8.70685384655536,41.23375109482703],[-8.70453060176362,41.23419551629075],[-8.70372074847148,41.23157667174348],[-8.70255916001332,41.23179885126819],[-8.70093982240815,41.22656108915618],[-8.69986416709355,41.2267668070055]]],"type":"Polygon"}
+}

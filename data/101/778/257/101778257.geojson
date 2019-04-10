@@ -1,0 +1,86 @@
+{
+  "id": 101778257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:bbox":"-7.59402883113,39.1276666417,-7.58565064108,39.1355311121",
+    "geom:latitude":39.131678,
+    "geom:longitude":-7.589467,
+    "iso:country":"PT",
+    "lbl:latitude":39.131382,
+    "lbl:longitude":-7.589879,
+    "mps:latitude":39.131382,
+    "mps:longitude":-7.589879,
+    "mz:hierarchy_label":1,
+    "name:por_x_colloquial":[
+        "Cabeco de Vide"
+    ],
+    "name:por_x_preferred":[
+        "Cabe\u00e7o de Vide"
+    ],
+    "name:por_x_variant":[
+        "Cabeco"
+    ],
+    "name:unk_x_variant":[
+        "Cabeco"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Portalegre",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Cabe\u00e7o de Vide",
+    "qs:la_lc":"*PT11208012",
+    "qs:level":"locality",
+    "qs:loc":"Cabe\u00e7o de Vide",
+    "qs:loc_alt":"Cabeco de Vide",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"026eef5c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2270552,
+        "gp:id":737756,
+        "qs:id":9
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4009ddc707579a6a75f5ba19846c7bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101778257,
+            "region_id":85687373
+        }
+    ],
+    "wof:id":101778257,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1501262315,
+    "wof:name":"Cabe\u00e7o de Vide",
+    "wof:parent_id":85687373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59402883113239,
+    39.12766664169504,
+    -7.58565064108404,
+    39.13553111213275
+],
+  "geometry": {"coordinates":[[[-7.5879073431243,39.13247794002524],[-7.58718785776261,39.12984079035738],[-7.58605955156889,39.130048796994],[-7.58581975491,39.12916974019134],[-7.58694804718971,39.12896173679053],[-7.58670824555639,39.12808268138519],[-7.58896478380439,39.12766664169504],[-7.58920461326397,39.12854569062841],[-7.59033288705774,39.12833764786723],[-7.59057273937088,39.12921669172522],[-7.59170102091497,39.12900863260757],[-7.59218078019296,39.13076670833271],[-7.59330908340019,39.13055862962113],[-7.59402883113239,39.13319571970345],[-7.58951541434612,39.13402799467133],[-7.58975529248318,39.13490703396923],[-7.58637012341984,39.13553111213275],[-7.58565064108404,39.1328939595943],[-7.5879073431243,39.13247794002524]]],"type":"Polygon"}
+}

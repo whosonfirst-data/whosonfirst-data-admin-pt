@@ -1,0 +1,125 @@
+{
+  "id": 101777213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":579387.845846,
+    "geom:bbox":"-8.52646179633,40.2684203929,-8.51485316672,40.2793555672",
+    "geom:latitude":40.273887,
+    "geom:longitude":-8.520499,
+    "iso:country":"PT",
+    "lbl:latitude":40.273794,
+    "lbl:longitude":-8.520587,
+    "mps:latitude":40.273794,
+    "mps:longitude":-8.520587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:deu_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:dut_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:eng_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:fre_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:ger_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:ita_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0441\u0430\u043d"
+    ],
+    "name:may_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:msa_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:nan_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:oci_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:por_x_colloquial":[
+        "Anca"
+    ],
+    "name:por_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "An\u00e7\u00e3"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Coimbra",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"An\u00e7\u00e3",
+    "qs:la_lc":"*PT10602019",
+    "qs:level":"locality",
+    "qs:loc":"An\u00e7\u00e3",
+    "qs:loc_alt":"Anca",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"02686fb0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2742904,
+        "gp:id":736192,
+        "qs:id":206158,
+        "wd:id":"Q3645"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"113dc5312d09488f4130f535b9f7b6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777213,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":101777213,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514497957,
+    "wof:name":"An\u00e7\u00e3",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52646179633268,
+    40.26842039291205,
+    -8.51485316672199,
+    40.27935556724196
+],
+  "geometry": {"coordinates":[[[-8.51974722704921,40.27935556724196],[-8.51948681259938,40.27848089550372],[-8.51834150719208,40.27870040811985],[-8.51782073659996,40.27695105192089],[-8.5189660132242,40.27673154632356],[-8.51766418698833,40.2723581400985],[-8.51537377079171,40.27279710289065],[-8.51485316672199,40.27104771305818],[-8.51599834946654,40.27082824533562],[-8.51573804779832,40.26995355107567],[-8.51688320930873,40.2697340735474],[-8.5166229030894,40.26885938089401],[-8.51891317679849,40.26842039291205],[-8.51917351179071,40.26929507854868],[-8.5203186527612,40.26907556107903],[-8.52083938103237,40.27082491962966],[-8.52198454392817,40.2706053818286],[-8.52250534032976,40.27235472575393],[-8.52479570312289,40.2719155961729],[-8.52505614485875,40.2727902582634],[-8.52620133036771,40.27257066999209],[-8.52646179633268,40.27344532667018],[-8.52531659643694,40.27366491845174],[-8.52557705785728,40.27453957673782],[-8.52328660873775,40.27497872737791],[-8.52432843773869,40.27847736958302],[-8.51974722704921,40.27935556724196]]],"type":"Polygon"}
+}

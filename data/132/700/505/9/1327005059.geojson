@@ -1,0 +1,67 @@
+{
+  "id": 1327005059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68089,37.80537,-8.68089,37.80537",
+    "geom:latitude":37.80537,
+    "geom:longitude":-8.68089,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1509",
+    "gn:admin3_code":"150903.0",
+    "gn:asciiname":"Pontao",
+    "gn:country_code":"PT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2264554,
+    "gn:latitude":37.80537,
+    "gn:longitude":-8.68089,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Pont\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2264554
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c92256cbb445250c5cd86384dcea0023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1327005059,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":1327005059,
+    "wof:lastmodified":1536800065,
+    "wof:name":"Pontao",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68089,
+    37.80537,
+    -8.68089,
+    37.80537
+],
+  "geometry": {"coordinates":[-8.68089,37.80537],"type":"Point"}
+}

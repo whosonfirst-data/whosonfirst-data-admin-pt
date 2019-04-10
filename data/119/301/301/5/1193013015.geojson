@@ -1,0 +1,67 @@
+{
+  "id": 1193013015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17311,40.20572,-8.17311,40.20572",
+    "geom:latitude":40.20572,
+    "geom:longitude":-8.17311,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60113.0",
+    "gn:asciiname":"Chapinheira",
+    "gn:country_code":"PT",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2740781,
+    "gn:latitude":40.20572,
+    "gn:longitude":-8.17311,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Chapinheira",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2740781
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"615a0ce3fe5aabd5fe0f94523e386b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1193013015,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1193013015,
+    "wof:lastmodified":1536381500,
+    "wof:name":"Chapinheira",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17311,
+    40.20572,
+    -8.17311,
+    40.20572
+],
+  "geometry": {"coordinates":[-8.17311,40.20572],"type":"Point"}
+}

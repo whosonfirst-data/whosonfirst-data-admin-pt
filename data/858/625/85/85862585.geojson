@@ -1,0 +1,106 @@
+{
+  "id": 85862585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25851.699321,
+    "geom:bbox":"-9.18237612389,38.7058743856,-9.18045043945,38.7076539157",
+    "geom:latitude":38.706642,
+    "geom:longitude":-9.181384,
+    "gn:id":"",
+    "iso:country":"PT",
+    "lbl:latitude":38.706409,
+    "lbl:longitude":-9.181137,
+    "mps:latitude":38.706619,
+    "mps:longitude":-9.181402,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "mz:note":"open space3",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:por_x_preferred":[
+        "Tapada da Ajuda"
+    ],
+    "name:unk_x_variant":[
+        "Tapada da Ajuda"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_id":0,
+    "qs:gn_local":6458923,
+    "qs:gn_nam_loc":"Lisboa, Lisboa, PT",
+    "qs:gn_namadm1":"14",
+    "qs:local_max":28121,
+    "qs:local_sum":250258,
+    "qs:localhoods":63,
+    "qs:name":"Tapada da Ajuda",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Lisboa",
+    "qs:name_adm2":"Lisboa",
+    "qs:name_local":"Lisboa",
+    "qs:photo_max":3,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346573,
+    "qs:woe_adm2":12596415,
+    "qs:woe_lau":0,
+    "qs:woe_local":12596415,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101752087,
+        85633735,
+        85687367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20105222,
+        "qs:id":247829,
+        "qs_pg:id":247829
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"466a235517b2b30cd562fd8a9f482513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752087,
+            "neighbourhood_id":85862585,
+            "region_id":85687367
+        }
+    ],
+    "wof:id":85862585,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1527270377,
+    "wof:name":"Tapada da Ajuda",
+    "wof:parent_id":101752087,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18237612388984,
+    38.70587438557534,
+    -9.18045043945133,
+    38.70765391570997
+],
+  "geometry": {"coordinates":[[[-9.18045043945133,38.70694605160006],[-9.18045043945133,38.70587438708462],[-9.18182373046994,38.70587438735782],[-9.18209736195496,38.70587438557534],[-9.18237612388984,38.70694603552518],[-9.18182373046994,38.70765391570997],[-9.18045043945233,38.70706730149649],[-9.18045043945133,38.70694605160006]]],"type":"Polygon"}
+}

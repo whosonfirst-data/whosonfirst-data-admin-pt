@@ -1,0 +1,70 @@
+{
+  "id": 101759357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:bbox":"-8.6277662061,41.0932821364,-8.61590729124,41.1020784237",
+    "geom:latitude":41.097796,
+    "geom:longitude":-8.622861,
+    "iso:country":"PT",
+    "lbl:latitude":41.098029,
+    "lbl:longitude":-8.622975,
+    "mps:latitude":41.098029,
+    "mps:longitude":-8.622975,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Porto",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Lavra",
+    "qs:la_lc":"*PT11308033",
+    "qs:level":"locality",
+    "qs:loc":"Agro de Baixo",
+    "qs:loc_alt":"Agro de Baixo",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2743333,
+        "gp:id":742313,
+        "qs:id":4
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"6dfa31afff10a95e9346228f77f43389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101759357,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":101759357,
+    "wof:lastmodified":1477508539,
+    "wof:name":"Agro de Baixo",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.62776620609634,
+    41.09328213639634,
+    -8.61590729124356,
+    41.10207842369488
+],
+  "geometry": {"coordinates":[[[-8.61590729124356,41.09878143587292],[-8.61621621023113,41.09855676751823],[-8.6189556323273,41.09818657534299],[-8.62043640102803,41.09463273046151],[-8.62079865185052,41.09394445389887],[-8.62079900712712,41.09394561292657],[-8.62427701990475,41.09328213639634],[-8.62454480438203,41.09415550945675],[-8.62766683540639,41.09355981892838],[-8.62776620609634,41.09367023080608],[-8.62702582174592,41.09789042160293],[-8.62550015611748,41.10136893923578],[-8.62204954881247,41.10202716430274],[-8.62206526866589,41.10207842369488],[-8.62073255476815,41.10196253552982],[-8.61873351702224,41.10166638178976],[-8.61851140171717,41.09929715186848],[-8.61673447927632,41.09914907499848],[-8.61590729124356,41.09878143587292]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125837233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33765,40.61862,-7.33765,40.61862",
+    "geom:latitude":40.61862,
+    "geom:longitude":-7.33765,
+    "gn:gn_country":"PT",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PT",
+    "lbl:latitude":40.61862,
+    "lbl:longitude":-7.33765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":8014818,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lajeosa do Mondego",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Guarda",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":344186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742435,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Guarda",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8014818,
+        "gp:id":742435,
+        "qs_pg:id":344186
+    },
+    "wof:country":"PT",
+    "wof:created":1497292766,
+    "wof:geomhash":"781dbfb3004746f6ac266f11672e5183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1125837233,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1125837233,
+    "wof:lastmodified":1509395056,
+    "wof:name":"Lajeosa do Mondego",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33765,
+    40.61862,
+    -7.33765,
+    40.61862
+],
+  "geometry": {"coordinates":[-7.33765,40.61862],"type":"Point"}
+}

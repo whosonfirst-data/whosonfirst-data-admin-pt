@@ -1,0 +1,67 @@
+{
+  "id": 1259659987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7,41.2,-8.7,41.2",
+    "geom:latitude":41.2,
+    "geom:longitude":-8.7,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"1308",
+    "gn:admin3_code":"130805.0",
+    "gn:asciiname":"Rodao",
+    "gn:country_code":"PT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2735048,
+    "gn:latitude":41.2,
+    "gn:longitude":-8.7,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"R\u00f3d\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2735048
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"e75b2d50a918c9b0e3ec9546f983f30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259659987,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1259659987,
+    "wof:lastmodified":1536601314,
+    "wof:name":"Rodao",
+    "wof:parent_id":85687411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7,
+    41.2,
+    -8.7,
+    41.2
+],
+  "geometry": {"coordinates":[-8.7,41.2],"type":"Point"}
+}

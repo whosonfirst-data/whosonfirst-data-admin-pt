@@ -1,0 +1,67 @@
+{
+  "id": 1225925169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82444,40.37471,-6.82444,40.37471",
+    "geom:latitude":40.37471,
+    "geom:longitude":-6.82444,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"0911",
+    "gn:admin3_code":"91115.0",
+    "gn:asciiname":"Forcalhos",
+    "gn:country_code":"PT",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2739396,
+    "gn:latitude":40.37471,
+    "gn:longitude":-6.82444,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Forcalhos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2739396
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fdb75e53f78afef26f86e39610ad8553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225925169,
+            "region_id":85687397
+        }
+    ],
+    "wof:id":1225925169,
+    "wof:lastmodified":1536899184,
+    "wof:name":"Forcalhos",
+    "wof:parent_id":85687397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82444,
+    40.37471,
+    -6.82444,
+    40.37471
+],
+  "geometry": {"coordinates":[-6.82444,40.37471],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225948987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86214,41.05852,-6.86214,41.05852",
+    "geom:latitude":41.05852,
+    "geom:longitude":-6.86214,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"0404",
+    "gn:admin3_code":"40406.0",
+    "gn:asciiname":"Poiares",
+    "gn:country_code":"PT",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2736123,
+    "gn:latitude":41.05852,
+    "gn:longitude":-6.86214,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Poiares",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2736123
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"4a679268748624dc69a8cb2752da3779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1225948987,
+            "region_id":85687415
+        }
+    ],
+    "wof:id":1225948987,
+    "wof:lastmodified":1536863248,
+    "wof:name":"Poiares",
+    "wof:parent_id":85687415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86214,
+    41.05852,
+    -6.86214,
+    41.05852
+],
+  "geometry": {"coordinates":[-6.86214,41.05852],"type":"Point"}
+}

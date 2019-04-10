@@ -1,0 +1,108 @@
+{
+  "id": 101777167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":609350.307931,
+    "geom:bbox":"-7.46614922007,40.3036702789,-7.45482446752,40.3175698211",
+    "geom:latitude":40.311372,
+    "geom:longitude":-7.460387,
+    "gn:population":4703,
+    "iso:country":"PT",
+    "lbl:latitude":40.311843,
+    "lbl:longitude":-7.459529,
+    "mps:latitude":40.311843,
+    "mps:longitude":-7.459529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Teixoso"
+    ],
+    "name:eng_x_preferred":[
+        "Teixoso"
+    ],
+    "name:fre_x_preferred":[
+        "Teixoso"
+    ],
+    "name:ger_x_preferred":[
+        "Teixoso"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u0439\u0448\u043e\u0437\u0443"
+    ],
+    "name:por_x_preferred":[
+        "Teixoso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0439\u0448\u043e\u0437\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Teixoso"
+    ],
+    "qs:a0":"Portugal",
+    "qs:a1":"*Castelo Branco",
+    "qs:a1r":"0",
+    "qs:adm0":"Portugal",
+    "qs:la":"Teixoso",
+    "qs:la_lc":"*PT10503231",
+    "qs:level":"locality",
+    "qs:loc":"Teixoso",
+    "qs:loc_alt":"Teixoso",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0269351c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2733628,
+        "gp:id":749257,
+        "qs:id":876455,
+        "qs_pg:id":876455,
+        "wd:id":"Q1145109"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"394c76be93ac8dcd80aefa9a73523081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101777167,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":101777167,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1514498165,
+    "wof:name":"Teixoso",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:population":4703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46614922007188,
+    40.30367027891771,
+    -7.45482446751942,
+    40.31756982114337
+],
+  "geometry": {"coordinates":[[[-7.46221196379707,40.30429170747323],[-7.46565742313862,40.30367027891771],[-7.46614922007188,40.30542630356928],[-7.46500071083915,40.30563346646016],[-7.46524660866049,40.30651147943098],[-7.46409807828684,40.30671863225615],[-7.46458987263844,40.30847465948824],[-7.46344130647901,40.30868180557201],[-7.46368720300802,40.30955981983345],[-7.46253861570489,40.30976695585076],[-7.4630304074683,40.31152298566496],[-7.46188178437467,40.31173011493996],[-7.4628654213048,40.31524216643686],[-7.46171673312062,40.31544929561926],[-7.46196265103737,40.3163273073539],[-7.45507029753406,40.31756982114337],[-7.45482446751942,40.31669178946203],[-7.45597319470079,40.31648474063752],[-7.45548153336074,40.31472867856775],[-7.45663022474298,40.31452162299809],[-7.45613857142439,40.31276556043531],[-7.45728722701085,40.31255849812067],[-7.45654977306037,40.30992440085856],[-7.45884697685716,40.30951025599546],[-7.45860114823921,40.3086322266513],[-7.46089829675577,40.30821803486998],[-7.46065244817748,40.30734001038803],[-7.46180099804513,40.30713289773496],[-7.46155514415256,40.30625487479085],[-7.46270367287894,40.30604775207132],[-7.46221196379707,40.30429170747323]]],"type":"Polygon"}
+}

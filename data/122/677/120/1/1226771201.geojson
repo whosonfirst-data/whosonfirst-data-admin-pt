@@ -1,0 +1,67 @@
+{
+  "id": 1226771201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03472,40.20714,-8.03472,40.20714",
+    "geom:latitude":40.20714,
+    "geom:longitude":-8.03472,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"0601",
+    "gn:admin3_code":"60102.0",
+    "gn:asciiname":"Lomba",
+    "gn:country_code":"PT",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2738252,
+    "gn:latitude":40.20714,
+    "gn:longitude":-8.03472,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Lomba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2738252
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"7f622f6916bb3bb2de18c6251efe86aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1226771201,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1226771201,
+    "wof:lastmodified":1536678925,
+    "wof:name":"Lomba",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03472,
+    40.20714,
+    -8.03472,
+    40.20714
+],
+  "geometry": {"coordinates":[-8.03472,40.20714],"type":"Point"}
+}

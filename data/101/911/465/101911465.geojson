@@ -1,0 +1,72 @@
+{
+  "id": 101911465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:bbox":"-9.20142182509,38.5697573364,-9.19275261779,38.5835237253",
+    "geom:latitude":38.576785,
+    "geom:longitude":-9.196387,
+    "iso:country":"PT",
+    "lbl:latitude":38.574641,
+    "lbl:longitude":-9.195008,
+    "mps:latitude":38.574641,
+    "mps:longitude":-9.195008,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Portugal",
+    "qs:a1":"*Set\u00fabal",
+    "qs:a1r":"7",
+    "qs:adm0":"Portugal",
+    "qs:id":0,
+    "qs:la":"Costa da Caparica",
+    "qs:la_lc":"*PT11503030",
+    "qs:level":"locality",
+    "qs:loc":"Fonte da Telha",
+    "qs:pop":0,
+    "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29383227,
+        "qs:id":233086,
+        "qs_pg:id":233086
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"fea06f9fa18e58ef5a13495cd1b8e919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101911465,
+            "region_id":85687359
+        }
+    ],
+    "wof:id":101911465,
+    "wof:lastmodified":1497298094,
+    "wof:name":"Fonte da Telha",
+    "wof:parent_id":85687359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20142182509011,
+    38.56975733635193,
+    -9.19275261778819,
+    38.5835237253288
+],
+  "geometry": {"coordinates":[[[-9.1991910244659,38.5835237253288],[-9.19841773784464,38.580900092126],[-9.19730236758772,38.58112666925518],[-9.19575612990059,38.57587932738926],[-9.1935255290939,38.57633240144236],[-9.19275261778819,38.57370868241208],[-9.19386788164439,38.57348216220822],[-9.19283741283181,38.56998385563082],[-9.19395261714163,38.56975733635193],[-9.19498313900658,38.57325562910199],[-9.19609838987446,38.57302908309373],[-9.19764453654716,38.57827644068573],[-9.1987598605071,38.57804986102815],[-9.20004864307117,38.58242258600404],[-9.20116402686642,38.58219597614959],[-9.20142182509011,38.58307051160625],[-9.1991910244659,38.5835237253288]]],"type":"Polygon"}
+}

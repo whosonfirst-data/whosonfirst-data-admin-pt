@@ -1,0 +1,82 @@
+{
+  "id": 1126087519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6189965,41.170019,-8.6189965,41.170019",
+    "geom:latitude":41.170019,
+    "geom:longitude":-8.618996,
+    "gn:gn_country":null,
+    "iso:country":"PT",
+    "lbl:latitude":41.170019,
+    "lbl:longitude":-8.618996,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Paranho",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":166,
+    "qs_pg:photos_1k":34,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":166,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1061419,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":745183,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101752093,
+        85633735,
+        85687411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":745183,
+        "qs_pg:id":1061419
+    },
+    "wof:country":"PT",
+    "wof:created":1497313047,
+    "wof:geomhash":"9414ad3b6b66edd7ef42cf1925f954e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":101752093,
+            "neighbourhood_id":1126087519,
+            "region_id":85687411
+        }
+    ],
+    "wof:id":1126087519,
+    "wof:lastmodified":1509411476,
+    "wof:name":"Paranho",
+    "wof:parent_id":101752093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6189965,
+    41.170019,
+    -8.6189965,
+    41.170019
+],
+  "geometry": {"coordinates":[-8.6189965,41.170019],"type":"Point"}
+}

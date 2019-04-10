@@ -1,0 +1,67 @@
+{
+  "id": 1344249745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.11944,40.2839,-7.11944,40.2839",
+    "geom:latitude":40.2839,
+    "geom:longitude":-7.11944,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"0507",
+    "gn:admin3_code":"50707.0",
+    "gn:asciiname":"Meimao",
+    "gn:country_code":"PT",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737773,
+    "gn:latitude":40.2839,
+    "gn:longitude":-7.11944,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Meim\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737773
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"2bf80c1a0e8f7189c480ebe8a020cb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1344249745,
+            "region_id":85687385
+        }
+    ],
+    "wof:id":1344249745,
+    "wof:lastmodified":1537096458,
+    "wof:name":"Meimao",
+    "wof:parent_id":85687385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.11944,
+    40.2839,
+    -7.11944,
+    40.2839
+],
+  "geometry": {"coordinates":[-7.11944,40.2839],"type":"Point"}
+}

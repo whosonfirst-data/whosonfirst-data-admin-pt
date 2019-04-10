@@ -1,0 +1,63 @@
+{
+  "id": 1209692433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97118,39.50232,-8.97118,39.50232",
+    "geom:latitude":39.50232,
+    "geom:longitude":-8.97118,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"1001",
+    "gn:admin3_code":"100108.0",
+    "gn:asciiname":"Corticada",
+    "gn:country_code":"PT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2268963,
+    "gn:latitude":39.50232,
+    "gn:longitude":-8.97118,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Corti\u00e7ada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2268963
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"423a40b7b62f5d3feacc5d2551a27923",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209692433
+        }
+    ],
+    "wof:id":1209692433,
+    "wof:lastmodified":1536279193,
+    "wof:name":"Corticada",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97118,
+    39.50232000000001,
+    -8.97118,
+    39.50232000000001
+],
+  "geometry": {"coordinates":[-8.97118,39.50232000000001],"type":"Point"}
+}

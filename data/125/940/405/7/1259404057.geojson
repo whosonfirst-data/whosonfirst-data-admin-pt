@@ -1,0 +1,67 @@
+{
+  "id": 1259404057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78307,40.19861,-8.78307,40.19861",
+    "geom:latitude":40.19861,
+    "geom:longitude":-8.78307,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"0605",
+    "gn:admin3_code":"60501.0",
+    "gn:asciiname":"Varzea",
+    "gn:country_code":"PT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2732931,
+    "gn:latitude":40.19861,
+    "gn:longitude":-8.78307,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"V\u00e1rzea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2732931
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"c188e8ede952dc6fbc5361ecbe18c243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "locality_id":1259404057,
+            "region_id":85687391
+        }
+    ],
+    "wof:id":1259404057,
+    "wof:lastmodified":1536972451,
+    "wof:name":"Varzea",
+    "wof:parent_id":85687391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78307,
+    40.19861,
+    -8.78307,
+    40.19861
+],
+  "geometry": {"coordinates":[-8.78307,40.19861],"type":"Point"}
+}

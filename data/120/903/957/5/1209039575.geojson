@@ -1,0 +1,64 @@
+{
+  "id": 1209039575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.51916,41.53419,-8.51916,41.53419",
+    "geom:latitude":41.53419,
+    "geom:longitude":-8.51916,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0302",
+    "gn:admin3_code":"30247.0",
+    "gn:asciiname":"Martim",
+    "gn:country_code":"PT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737877,
+    "gn:latitude":41.53419,
+    "gn:longitude":-8.51916,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Martim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
+    "iso:country":"PT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2737877,
+        "wk:page":"Martim"
+    },
+    "wof:country":"PT",
+    "wof:geomhash":"419d39ae6ce59735f972fc1bd4ad2288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633735,
+            "locality_id":1209039575
+        }
+    ],
+    "wof:id":1209039575,
+    "wof:lastmodified":1537571943,
+    "wof:name":"Martim",
+    "wof:parent_id":85633735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51916,
+    41.53419,
+    -8.51916,
+    41.53419
+],
+  "geometry": {"coordinates":[-8.51916,41.53419],"type":"Point"}
+}
