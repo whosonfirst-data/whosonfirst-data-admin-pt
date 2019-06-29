@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000684,
-    "geom:area_square_m":6487800.228846,
+    "geom:area_square_m":6487800.228845,
     "geom:bbox":"-8.64625612604,39.906356802,-8.58924272619,39.9453995648",
     "geom:latitude":39.922692,
     "geom:longitude":-8.621494,
@@ -29,10 +29,10 @@
     "name:cat_x_preferred":[
         "Pombal"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pombal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pombal"
     ],
     "name:eng_x_preferred":[
@@ -44,13 +44,7 @@
     "name:fin_x_preferred":[
         "Pombal"
     ],
-    "name:fre_x_preferred":[
-        "Pombal"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10db\u10d1\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pombal"
     ],
     "name:hun_x_preferred":[
@@ -62,10 +56,16 @@
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30d0\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10db\u10d1\u10d0\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud3fc\ubc1c"
     ],
     "name:nan_x_preferred":[
+        "Pombal"
+    ],
+    "name:nld_x_preferred":[
         "Pombal"
     ],
     "name:pol_x_preferred":[
@@ -74,7 +74,7 @@
     "name:por_x_preferred":[
         "Pombal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pombal"
     ],
     "name:rus_x_preferred":[
@@ -162,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379449,
+    "wof:lastmodified":1561828739,
     "wof:name":"Pombal",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

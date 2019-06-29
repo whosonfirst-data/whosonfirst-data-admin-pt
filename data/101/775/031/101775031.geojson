@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1827503.291777,
+    "geom:area_square_m":1827503.291776,
     "geom:bbox":"-7.32092365593,41.5945485034,-7.30341128457,41.615026267",
     "geom:latitude":41.605123,
     "geom:longitude":-7.311061,
@@ -23,29 +23,26 @@
     "name:cat_x_preferred":[
         "Valpa\u00e7os"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u5e15\u8607\u4ec0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Valpa\u00e7os"
     ],
     "name:eng_x_preferred":[
         "Valpa\u00e7os Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u067e\u0627\u0633\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Valpa\u00e7os"
     ],
-    "name:fre_x_preferred":[
-        "Valpa\u00e7os"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10de\u10d0\u10e1\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Valpa\u00e7os"
     ],
     "name:ita_x_preferred":[
         "Valpa\u00e7os"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10da\u10de\u10d0\u10e1\u10dd\u10e1\u10d8"
     ],
     "name:ltz_x_preferred":[
         "Valpa\u00e7os"
@@ -59,8 +56,8 @@
     "name:nan_x_preferred":[
         "Valpa\u00e7os"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0644\u067e\u0627\u0633\u0648\u0633"
+    "name:nld_x_preferred":[
+        "Valpa\u00e7os"
     ],
     "name:pol_x_preferred":[
         "Valpa\u00e7os"
@@ -74,7 +71,7 @@
     "name:por_x_variant":[
         "Valpassos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Valpa\u00e7os"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Valpa\u00e7os"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u5e15\u8607\u4ec0"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Vila Real",
@@ -145,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527715613,
+    "wof:lastmodified":1561828739,
     "wof:name":"Valpa\u00e7os",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

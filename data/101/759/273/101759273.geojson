@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000666,
-    "geom:area_square_m":6218933.605868,
+    "geom:area_square_m":6218933.605867,
     "geom:bbox":"-8.55977477348,40.9723555651,-8.52780217321,41.0086484289",
     "geom:latitude":40.990743,
     "geom:longitude":-8.543079,
@@ -20,26 +20,23 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u0648\u0633\u0627"
     ],
-    "name:chi_x_preferred":[
-        "Lourosa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lourosa"
     ],
     "name:eng_x_preferred":[
         "Lourosa"
     ],
-    "name:fre_x_preferred":[
-        "Lourosa"
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0648\u0633\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e0\u10dd\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lourosa"
     ],
     "name:hrv_x_preferred":[
         "Lourosa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e0\u10dd\u10d6\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u043e\u0440\u043e\u0437\u0430"
@@ -50,8 +47,8 @@
     "name:mzn_x_preferred":[
         "\u0644\u0648\u0631\u0648\u0633\u0627"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0631\u0648\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Lourosa"
     ],
     "name:por_x_preferred":[
         "Lourosa"
@@ -70,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "Louroza"
+    ],
+    "name:zho_x_preferred":[
+        "Lourosa"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Aveiro",
@@ -118,7 +118,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1553815480,
+    "wof:lastmodified":1561828734,
     "wof:name":"Lourosa",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

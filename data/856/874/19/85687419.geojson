@@ -33,9 +33,6 @@
     "name:ast_x_preferred":[
         "Distritu de Braga"
     ],
-    "name:baq_x_preferred":[
-        "Braga"
-    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u0411\u0440\u0430\u0433\u0430"
     ],
@@ -48,14 +45,14 @@
     "name:cat_x_preferred":[
         "Districte de Braga"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u52a0\u5340"
-    ],
     "name:dan_x_preferred":[
         "Braga District"
     ],
-    "name:dut_x_preferred":[
-        "Braga"
+    "name:deu_x_preferred":[
+        "Distrikt Braga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Braga"
@@ -63,23 +60,17 @@
     "name:epo_x_preferred":[
         "distrikto Braga"
     ],
+    "name:eus_x_preferred":[
+        "Braga"
+    ],
     "name:fin_x_preferred":[
         "Bragan piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Braga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Braga"
     ],
     "name:glg_x_preferred":[
         "Distrito de Braga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac7\u0a97\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -102,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cbe\u0c97\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10d2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\uac00 \ud604"
     ],
@@ -117,7 +111,7 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u0917\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Braga"
     ],
     "name:mwl_x_preferred":[
@@ -125,6 +119,9 @@
     ],
     "name:nan_x_preferred":[
         "Braga Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Braga"
     ],
     "name:nob_x_preferred":[
         "Braga"
@@ -141,7 +138,7 @@
     "name:que_x_preferred":[
         "Braga distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Braga"
     ],
     "name:rus_x_preferred":[
@@ -188,6 +185,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10e0\u10d0\u10d2\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u52a0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -306,7 +306,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550921,
+    "wof:lastmodified":1561828667,
     "wof:name":"Braga",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

@@ -33,9 +33,6 @@
     "name:ast_x_preferred":[
         "Distritu de Bergancia"
     ],
-    "name:baq_x_preferred":[
-        "Bragantza"
-    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u0997\u0986\u09a8\u0995\u09be"
     ],
@@ -48,14 +45,11 @@
     "name:cat_x_preferred":[
         "Districte de Bragan\u00e7a"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u5e72\u85a9\u5340"
-    ],
     "name:deu_x_preferred":[
         "Bragan\u00e7a"
     ],
-    "name:dut_x_preferred":[
-        "Bragan\u00e7a"
+    "name:deu_x_variant":[
+        "Distrikt Bragan\u00e7a"
     ],
     "name:eng_x_preferred":[
         "Braganza District"
@@ -68,6 +62,9 @@
     "name:epo_x_preferred":[
         "distrikto Bragan\u00e7a"
     ],
+    "name:eus_x_preferred":[
+        "Bragantza"
+    ],
     "name:fin_x_preferred":[
         "Bragan\u00e7an piiri"
     ],
@@ -75,13 +72,8 @@
         "Bragan\u00e7a"
     ],
     "name:fra_x_variant":[
-        "Bragance"
-    ],
-    "name:fre_x_preferred":[
+        "Bragance",
         "District de Bragance"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Bragan\u00e7a"
     ],
     "name:glg_x_preferred":[
         "Distrito de Braganza - Bragan\u00e7a"
@@ -107,7 +99,7 @@
     "name:lim_x_preferred":[
         "Bragan\u00e7a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bragan\u00e7a"
     ],
     "name:mwl_x_preferred":[
@@ -140,7 +132,7 @@
     "name:que_x_preferred":[
         "Bragan\u00e7a distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Bragan\u00e7a"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +161,9 @@
     ],
     "name:war_x_preferred":[
         "Braganza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u5e72\u85a9\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -287,7 +282,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550920,
+    "wof:lastmodified":1561828668,
     "wof:name":"Bragan\u00e7a",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

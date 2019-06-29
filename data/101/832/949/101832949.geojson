@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3241142.467602,
+    "geom:area_square_m":3241142.467603,
     "geom:bbox":"-9.35473165545,38.9246933173,-9.32282912226,38.9584914196",
     "geom:latitude":38.940614,
     "geom:longitude":-9.336655,
@@ -21,32 +21,26 @@
     "name:arg_x_preferred":[
         "Mafra"
     ],
-    "name:baq_x_preferred":[
-        "Mafra"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0444\u0440\u0430"
     ],
     "name:cat_x_preferred":[
         "Mafra"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u592b\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mafra"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c6\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mafra"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Mafra"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mafra"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03c6\u03c1\u03b1"
     ],
     "name:ita_x_preferred":[
         "Mafra"
@@ -57,10 +51,13 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud504\ub77c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mafra"
     ],
     "name:nan_x_preferred":[
+        "Mafra"
+    ],
+    "name:nld_x_preferred":[
         "Mafra"
     ],
     "name:pol_x_preferred":[
@@ -92,6 +89,9 @@
     ],
     "name:vol_x_preferred":[
         "Mafra"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u592b\u62c9"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -139,7 +139,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1514498074,
+    "wof:lastmodified":1561828721,
     "wof:name":"Mafra",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

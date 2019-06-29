@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":2117739.506246,
+    "geom:area_square_m":2117739.506245,
     "geom:bbox":"-8.43596984846,40.3277137341,-8.41362375231,40.3484919351",
     "geom:latitude":40.337554,
     "geom:longitude":-8.42708,
@@ -17,19 +17,16 @@
     "mps:longitude":-8.42708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "Pampilhosa"
-    ],
     "name:deu_x_preferred":[
         "FC Pampilhosa"
+    ],
+    "name:deu_x_variant":[
+        "Pampilhosa"
     ],
     "name:eng_x_preferred":[
         "Pampilhosa"
     ],
-    "name:fre_x_preferred":[
-        "Pampilhosa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pampilhosa"
     ],
     "name:kaz_x_preferred":[
@@ -55,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Pampilhosa do Bob\u00e3o"
+    ],
+    "name:zho_x_preferred":[
+        "Pampilhosa"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Aveiro",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688515,
+    "wof:lastmodified":1561828730,
     "wof:name":"Pampilhosa",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",
