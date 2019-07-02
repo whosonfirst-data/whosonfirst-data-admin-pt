@@ -30,9 +30,6 @@
     "name:arg_x_preferred":[
         "Guarda"
     ],
-    "name:baq_x_preferred":[
-        "Guarda"
-    ],
     "name:bar_x_preferred":[
         "Distrikt Guarda"
     ],
@@ -48,19 +45,19 @@
     "name:ceb_x_preferred":[
         "Guarda"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u9054\u5340"
-    ],
     "name:deu_x_preferred":[
         "Guarda"
     ],
-    "name:dut_x_preferred":[
-        "Guarda"
+    "name:deu_x_variant":[
+        "Distrikt Guarda"
     ],
     "name:eng_x_preferred":[
         "Guarda"
     ],
     "name:epo_x_preferred":[
+        "Guarda"
+    ],
+    "name:eus_x_preferred":[
         "Guarda"
     ],
     "name:fin_x_preferred":[
@@ -69,11 +66,8 @@
     "name:fra_x_preferred":[
         "Guarda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Guarda"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Guarda"
     ],
     "name:glg_x_preferred":[
         "Guarda"
@@ -102,11 +96,11 @@
     "name:lim_x_preferred":[
         "Guarda"
     ],
-    "name:may_x_preferred":[
-        "Daerah Guarda"
-    ],
     "name:msa_x_preferred":[
         "Guarda"
+    ],
+    "name:msa_x_variant":[
+        "Daerah Guarda"
     ],
     "name:mwl_x_preferred":[
         "\u00c7trito de la Guarda"
@@ -135,7 +129,7 @@
     "name:que_x_preferred":[
         "Guarda distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Guarda"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +170,9 @@
     ],
     "name:war_x_preferred":[
         "Guarda"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u9054\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -292,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550918,
+    "wof:lastmodified":1561828669,
     "wof:name":"Guarda",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

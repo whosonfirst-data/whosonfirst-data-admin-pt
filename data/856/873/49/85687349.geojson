@@ -30,9 +30,6 @@
     "name:arg_x_preferred":[
         "Destrito de Faro"
     ],
-    "name:baq_x_preferred":[
-        "Faro"
-    ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
     ],
@@ -42,14 +39,14 @@
     "name:cat_x_preferred":[
         "Districte de Faro"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u9b6f\u5340"
-    ],
     "name:dan_x_preferred":[
         "Faro"
     ],
-    "name:dut_x_preferred":[
-        "Faro"
+    "name:deu_x_preferred":[
+        "Distrikt Faro"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03ac\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Faro"
@@ -57,20 +54,17 @@
     "name:epo_x_preferred":[
         "Distrikto Faro"
     ],
+    "name:eus_x_preferred":[
+        "Faro"
+    ],
     "name:fin_x_preferred":[
         "Faron piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Faro"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Faro"
     ],
     "name:glg_x_preferred":[
         "Distrito de Faro"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03ac\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ac7\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -111,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0947\u0930\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Faro"
     ],
     "name:mwl_x_preferred":[
@@ -119,6 +113,9 @@
     ],
     "name:nan_x_preferred":[
         "Faro Ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Faro"
     ],
     "name:nob_x_preferred":[
         "Faro"
@@ -138,7 +135,7 @@
     "name:que_x_preferred":[
         "Faro distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Faro"
     ],
     "name:rus_x_preferred":[
@@ -185,6 +182,9 @@
     ],
     "name:war_x_preferred":[
         "Faro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u9b6f\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -303,7 +303,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550916,
+    "wof:lastmodified":1561828670,
     "wof:name":"Faro",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

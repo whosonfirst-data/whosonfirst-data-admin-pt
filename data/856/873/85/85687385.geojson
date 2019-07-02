@@ -30,9 +30,6 @@
     "name:arg_x_preferred":[
         "Destrito de Castelo Branco"
     ],
-    "name:baq_x_preferred":[
-        "Castelo Branco"
-    ],
     "name:bar_x_preferred":[
         "Distrikt Castelo Branco"
     ],
@@ -48,17 +45,17 @@
     "name:cat_x_preferred":[
         "Castelo Branco"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u6717\u5eab\u5821\u5340"
-    ],
     "name:dan_x_preferred":[
         "Castelo Branco District"
     ],
     "name:deu_x_preferred":[
         "Castelo Branco"
     ],
-    "name:dut_x_preferred":[
-        "Castelo Branco"
+    "name:deu_x_variant":[
+        "Distrikt Castelo Branco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c4\u03ad\u03bb\u03bf \u039c\u03c0\u03c1\u03ac\u03bd\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Castelo Branco"
@@ -66,23 +63,20 @@
     "name:epo_x_preferred":[
         "distrikto Castelo Branco"
     ],
+    "name:eus_x_preferred":[
+        "Castelo Branco"
+    ],
     "name:fin_x_preferred":[
         "Castelo Brancon piiri"
     ],
     "name:fra_x_preferred":[
         "Castelo Branco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Castelo Branco"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Castelo Branco"
     ],
     "name:glg_x_preferred":[
         "Distrito de Castelo Branco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03c4\u03ad\u03bb\u03bf \u039c\u03c0\u03c1\u03ac\u03bd\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0acd\u0a9f\u0ac7\u0ab2\u0acb \u0aac\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0a95\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -123,7 +117,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0938\u094d\u091f\u0947\u0932\u094b \u092c\u094d\u0930\u0945\u0902\u0915\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Castelo Branco"
     ],
     "name:mwl_x_preferred":[
@@ -150,7 +144,7 @@
     "name:que_x_preferred":[
         "Castelo Branco distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Castelo Branco"
     ],
     "name:rus_x_preferred":[
@@ -197,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "Castelo Branco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6717\u5eab\u5821\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -315,7 +312,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550918,
+    "wof:lastmodified":1561828670,
     "wof:name":"Castelo Branco",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

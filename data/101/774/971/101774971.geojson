@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000715,
-    "geom:area_square_m":6641445.844078,
+    "geom:area_square_m":6641445.844077,
     "geom:bbox":"-8.41399577066,41.2567706457,-8.35416501309,41.295005682",
     "geom:latitude":41.277256,
     "geom:longitude":-8.384503,
@@ -23,19 +23,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0648\u0633 \u062f\u064a \u0641\u064a\u0631\u064a\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Pa\u00e7os de Ferreira"
-    ],
     "name:cat_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u79d1\u65af\u8cbb\u96f7\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Pa\u00e7os de Ferreira"
-    ],
-    "name:dut_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
     "name:ell_x_preferred":[
@@ -53,15 +44,6 @@
     "name:fra_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
-    "name:fre_x_preferred":[
-        "Pa\u00e7os de Ferreira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e1\u10e3\u10e8-\u10d3\u10d4-\u10e4\u10d4\u10e0\u10d4\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Pa\u00e7os de Ferreira"
-    ],
     "name:glg_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
@@ -73,6 +55,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10e1\u10e3\u10e8-\u10d3\u10d8-\u10e4\u10d4\u10e0\u10d4\u10d8\u10e0\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10d0\u10e1\u10e3\u10e8-\u10d3\u10d4-\u10e4\u10d4\u10e0\u10d4\u10d8\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud30c\uc218\uc2a4\ub4dc\ud398\ud5e4\uc774\ub77c"
@@ -92,9 +77,6 @@
     "name:nld_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u0648\u0633 \u062f \u0641\u0631\u06cc\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
@@ -105,9 +87,6 @@
         "Pa\u00e7os de Ferreira"
     ],
     "name:ron_x_preferred":[
-        "Pa\u00e7os de Ferreira"
-    ],
-    "name:rum_x_preferred":[
         "Pa\u00e7os de Ferreira"
     ],
     "name:rus_x_preferred":[
@@ -133,6 +112,9 @@
     ],
     "name:war_x_preferred":[
         "Pa\u00e7os de Ferreira"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u79d1\u65af\u8cbb\u96f7\u62c9"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
@@ -197,7 +179,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379445,
+    "wof:lastmodified":1561828741,
     "wof:name":"Pa\u00e7os de Ferreira",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

@@ -30,9 +30,6 @@
     "name:arg_x_preferred":[
         "Destrito de Beja"
     ],
-    "name:baq_x_preferred":[
-        "Beja"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0436\u0430"
     ],
@@ -48,17 +45,17 @@
     "name:cat_x_preferred":[
         "Beja"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u96c5\u5340"
-    ],
     "name:dan_x_preferred":[
         "Beja District"
     ],
     "name:deu_x_preferred":[
         "Beja"
     ],
-    "name:dut_x_preferred":[
-        "Beja"
+    "name:deu_x_variant":[
+        "Distrikt Beja"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Beja"
@@ -66,23 +63,20 @@
     "name:epo_x_preferred":[
         "distrikto Beja"
     ],
+    "name:eus_x_preferred":[
+        "Beja"
+    ],
     "name:fin_x_preferred":[
         "Beja"
     ],
     "name:fra_x_preferred":[
         "Beja"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Beja"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Beja"
     ],
     "name:glg_x_preferred":[
         "Distrito de Beja"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9c\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -129,7 +123,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u091c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Beja"
     ],
     "name:mwl_x_preferred":[
@@ -159,7 +153,7 @@
     "name:que_x_preferred":[
         "Beja distritu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Beja"
     ],
     "name:rus_x_preferred":[
@@ -209,6 +203,9 @@
     ],
     "name:war_x_preferred":[
         "Beja"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u96c5\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PRT",
@@ -327,7 +324,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550916,
+    "wof:lastmodified":1561828669,
     "wof:name":"Beja",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
