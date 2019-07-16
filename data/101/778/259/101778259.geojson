@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
+    "geom:area_square_m":479625.620433,
     "geom:bbox":"-8.18188909312,39.0735616422,-8.16475165637,39.0834444957",
     "geom:latitude":39.07787,
     "geom:longitude":-8.172794,
@@ -15,11 +16,29 @@
     "mps:longitude":-8.170067,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Montargil"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0430\u0440\u0433\u0438\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Montargil"
+    ],
     "name:deu_x_preferred":[
+        "Montargil"
+    ],
+    "name:eng_x_preferred":[
+        "Montargil"
+    ],
+    "name:fra_x_preferred":[
         "Montargil"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0430\u0440\u0436\u0438\u043b"
+    ],
+    "name:nan_x_preferred":[
+        "Montargil"
     ],
     "name:nld_x_preferred":[
         "Montargil"
@@ -35,6 +54,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8499\u5854\u5c14\u5409\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "Montargil"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Portalegre",
@@ -82,7 +104,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527653246,
+    "wof:lastmodified":1563252885,
     "wof:name":"Montargil",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

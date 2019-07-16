@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
+    "geom:area_square_m":1148139.554759,
     "geom:bbox":"-8.69135642801,39.6360186151,-8.67325482663,39.6671987829",
     "geom:latitude":39.653316,
     "geom:longitude":-8.685056,
@@ -21,8 +22,14 @@
     "name:deu_x_preferred":[
         "Loureiro"
     ],
+    "name:eng_x_preferred":[
+        "Loureira"
+    ],
     "name:glg_x_preferred":[
         "Loureira branca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30ec\u30a4\u30ed"
     ],
     "name:pol_x_preferred":[
         "Loureiro"
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":101831309,
-    "wof:lastmodified":1527715137,
+    "wof:lastmodified":1563253115,
     "wof:name":"Loureira",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

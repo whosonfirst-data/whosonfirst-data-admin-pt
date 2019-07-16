@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Districte de Porto"
     ],
+    "name:cym_x_preferred":[
+        "Ardal Porto"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Porto"
     ],
@@ -64,6 +67,9 @@
     "name:fra_x_preferred":[
         "District de Porto"
     ],
+    "name:fra_x_variant":[
+        "Porto"
+    ],
     "name:glg_x_preferred":[
         "Distrito do Porto"
     ],
@@ -79,8 +85,17 @@
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ud22c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub974\ud22c\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Oporto"
+    ],
     "name:lat_x_preferred":[
         "Portus Cale"
+    ],
+    "name:lim_x_preferred":[
+        "Porto"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043e"
@@ -259,7 +274,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828667,
+    "wof:lastmodified":1563251306,
     "wof:name":"Porto",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

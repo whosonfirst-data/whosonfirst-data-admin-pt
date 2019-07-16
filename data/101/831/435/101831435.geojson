@@ -20,6 +20,12 @@
     "mps:longitude":-8.408696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Aves"
+    ],
+    "name:ceb_x_preferred":[
+        "Aves"
+    ],
     "name:deu_x_preferred":[
         "Vila das Aves"
     ],
@@ -44,6 +50,9 @@
     "name:msa_x_preferred":[
         "Vila das Aves"
     ],
+    "name:nan_x_preferred":[
+        "Aves"
+    ],
     "name:nld_x_preferred":[
         "Vila das Aves"
     ],
@@ -62,8 +71,14 @@
     "name:tur_x_preferred":[
         "Vila das Aves"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0430-\u0434\u0430\u0437-\u0410\u0432\u0456\u0448"
+    ],
     "name:zho_x_preferred":[
         "Vila das Aves"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u7ef4\u4ec0\u9547"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
@@ -127,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828739,
+    "wof:lastmodified":1563253143,
     "wof:name":"Aves",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

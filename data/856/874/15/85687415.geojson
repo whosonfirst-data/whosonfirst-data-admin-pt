@@ -33,11 +33,17 @@
     "name:ast_x_preferred":[
         "Distritu de Bergancia"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0411\u0440\u0430\u0433\u0430\u043d\u0441\u0430"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u0997\u0986\u09a8\u0995\u09be"
     ],
     "name:bre_x_preferred":[
         "Bragan\u00e7a"
+    ],
+    "name:bre_x_variant":[
+        "Distrig Bragan\u00e7a"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0433\u0430\u043d\u0441\u0430"
@@ -84,6 +90,9 @@
     "name:ind_x_preferred":[
         "Bragan\u00e7a"
     ],
+    "name:ind_x_variant":[
+        "Distrik Bragan\u00e7a"
+    ],
     "name:ita_x_preferred":[
         "Bragan\u00e7a"
     ],
@@ -92,6 +101,12 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\uac04\uc0ac"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\uac04\uc0ac\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Braganza"
     ],
     "name:lat_x_preferred":[
         "Brigantia"
@@ -152,6 +167,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0491\u0430\u043d\u0441\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0440\u0430\u0433\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0627\u06af\u0627\u0646\u0633\u0627 \u0636\u0644\u0639"
@@ -282,7 +300,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828668,
+    "wof:lastmodified":1563251314,
     "wof:name":"Bragan\u00e7a",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

@@ -30,8 +30,17 @@
     "name:arg_x_preferred":[
         "Destrito de Faro"
     ],
+    "name:bar_x_preferred":[
+        "Distrikt Faro"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0424\u0430\u0440\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Faro"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0443"
@@ -51,17 +60,26 @@
     "name:eng_x_preferred":[
         "Faro"
     ],
+    "name:eng_x_variant":[
+        "Faro District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Faro"
     ],
     "name:eus_x_preferred":[
         "Faro"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u0627\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Faron piiri"
     ],
     "name:fra_x_preferred":[
         "District de Faro"
+    ],
+    "name:fra_x_variant":[
+        "Faro"
     ],
     "name:glg_x_preferred":[
         "Distrito de Faro"
@@ -89,6 +107,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\ub8e8 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud30c\ub8e8\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Faro"
     ],
     "name:lat_x_preferred":[
         "Ossonoba"
@@ -303,7 +327,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828670,
+    "wof:lastmodified":1563251327,
     "wof:name":"Faro",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

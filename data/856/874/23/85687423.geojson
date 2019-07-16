@@ -33,6 +33,12 @@
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0430-\u0420\u044d\u0430\u043b"
     ],
+    "name:bel_x_variant":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0412\u0456\u043b\u0430-\u0420\u044d\u0430\u043b"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Vila Real"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f \u0420\u0435\u0430\u043b"
     ],
@@ -45,6 +51,9 @@
     "name:eng_x_preferred":[
         "Vila Real"
     ],
+    "name:eng_x_variant":[
+        "Vila Real District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Vila Real"
     ],
@@ -56,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Vila Real"
+    ],
+    "name:fra_x_variant":[
+        "Vila Real"
     ],
     "name:glg_x_preferred":[
         "Distrito de Vila Real"
@@ -72,8 +84,17 @@
     "name:kor_x_preferred":[
         "\ube4c\ub77c\ud5e4\uc54c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ube4c\ub77c\ud5e4\uc54c\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Vila Real"
+    ],
     "name:lat_x_preferred":[
         "Villa Regia"
+    ],
+    "name:lim_x_preferred":[
+        "Vila Real"
     ],
     "name:msa_x_preferred":[
         "Daerah Vila Real"
@@ -251,7 +272,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828668,
+    "wof:lastmodified":1563251313,
     "wof:name":"Vila Real",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

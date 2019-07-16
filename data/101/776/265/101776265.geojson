@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":1038682.853916,
     "geom:bbox":"-8.72573791479,41.2260683878,-8.71412025247,41.2535893347",
     "geom:latitude":41.243009,
     "geom:longitude":-8.720592,
@@ -18,7 +19,16 @@
     "name:arg_x_preferred":[
         "O Corgo"
     ],
+    "name:ast_x_preferred":[
+        "O Corgo"
+    ],
     "name:cat_x_preferred":[
+        "O Corgo"
+    ],
+    "name:ceb_x_preferred":[
+        "Corgo"
+    ],
+    "name:eng_x_preferred":[
         "O Corgo"
     ],
     "name:eus_x_preferred":[
@@ -42,7 +52,13 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0440\u0433\u043e"
     ],
+    "name:lit_x_preferred":[
+        "O Kargas"
+    ],
     "name:msa_x_preferred":[
+        "O Corgo"
+    ],
+    "name:nan_x_preferred":[
         "O Corgo"
     ],
     "name:nld_x_preferred":[
@@ -61,6 +77,12 @@
         "\u041a\u043e\u0440\u0433\u043e"
     ],
     "name:spa_x_preferred":[
+        "Corgo"
+    ],
+    "name:spa_x_variant":[
+        "O Corgo"
+    ],
+    "name:swe_x_preferred":[
         "Corgo"
     ],
     "name:tur_x_preferred":[
@@ -119,7 +141,7 @@
         }
     ],
     "wof:id":101776265,
-    "wof:lastmodified":1527688312,
+    "wof:lastmodified":1563252940,
     "wof:name":"Corgo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

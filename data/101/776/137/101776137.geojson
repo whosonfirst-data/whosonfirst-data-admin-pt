@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
+    "geom:area_square_m":289761.71566,
     "geom:bbox":"-9.2355470828,39.3207566297,-9.22945673572,39.3319202921",
     "geom:latitude":39.326909,
     "geom:longitude":-9.232873,
@@ -15,7 +16,16 @@
     "mps:longitude":-9.232412,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:ceb_x_preferred":[
+        "Olho Marinho"
+    ],
     "name:deu_x_preferred":[
+        "Olho Marinho"
+    ],
+    "name:eng_x_preferred":[
         "Olho Marinho"
     ],
     "name:fra_x_preferred":[
@@ -23,6 +33,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041e\u043b\u044c\u044e-\u041c\u0430\u0440\u0438\u043d\u044c\u044e"
+    ],
+    "name:nan_x_preferred":[
+        "Olho Marinho"
     ],
     "name:nld_x_preferred":[
         "Olho Marinho"
@@ -83,7 +96,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688310,
+    "wof:lastmodified":1563252931,
     "wof:name":"Olho Marinho",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

@@ -33,11 +33,17 @@
     "name:ast_x_preferred":[
         "Distritu de Braga"
     ],
+    "name:aze_x_preferred":[
+        "Braqa"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u0411\u0440\u0430\u0433\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u0997\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Braga"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0433\u0430"
@@ -57,6 +63,9 @@
     "name:eng_x_preferred":[
         "Braga"
     ],
+    "name:eng_x_variant":[
+        "Braga District"
+    ],
     "name:epo_x_preferred":[
         "distrikto Braga"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Braga"
+    ],
+    "name:fra_x_variant":[
+        "Braga"
     ],
     "name:glg_x_preferred":[
         "Distrito de Braga"
@@ -98,6 +110,12 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\uac00 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\uac00\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Braga"
     ],
     "name:lav_x_preferred":[
         "Bragas distrikts"
@@ -170,6 +188,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0491\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0440\u0430\u0437\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:unk_x_variant":[
         "Distrito de Braga"
@@ -306,7 +327,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828667,
+    "wof:lastmodified":1563251308,
     "wof:name":"Braga",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

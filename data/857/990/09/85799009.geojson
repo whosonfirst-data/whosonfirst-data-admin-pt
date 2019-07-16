@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":686575.36604,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.647701,41.145856,-8.647701,41.145856",
     "geom:latitude":41.145856,
     "geom:longitude":-8.647701,
@@ -26,11 +26,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
+    ],
     "name:por_x_preferred":[
         "Lordello"
     ],
     "name:por_x_variant":[
         "Lordelo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
     ],
     "name:unk_x_variant":[
         "Lordello"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861971,
+    "wof:lastmodified":1563251288,
     "wof:name":"Lordello",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

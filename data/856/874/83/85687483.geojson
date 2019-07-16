@@ -33,6 +33,9 @@
     "name:ast_x_preferred":[
         "Distritu de Leiria"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u041b\u0435\u0439\u0440\u044b\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u0987\u09b0\u09be\u0987\u09af\u09bc\u09be  \u099c\u09c7\u09b2\u09be"
     ],
@@ -57,17 +60,26 @@
     "name:eng_x_preferred":[
         "Leiria"
     ],
+    "name:eng_x_variant":[
+        "Leiria District"
+    ],
     "name:epo_x_preferred":[
         "distrikto Leiria"
     ],
     "name:eus_x_preferred":[
         "Leiria"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0631\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Leirian piiri"
     ],
     "name:fra_x_preferred":[
         "District de Leiria"
+    ],
+    "name:fra_x_variant":[
+        "Leiria"
     ],
     "name:glg_x_preferred":[
         "Distrito de Leiria"
@@ -95,6 +107,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub808\uc774\ub9ac\uc544 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\uc774\ub9ac\uc544\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Leiria"
     ],
     "name:lat_x_preferred":[
         "Collipo"
@@ -134,6 +152,9 @@
     ],
     "name:por_x_preferred":[
         "Leiria"
+    ],
+    "name:que_x_preferred":[
+        "Leiria distritu"
     ],
     "name:ron_x_preferred":[
         "Districtul Leiria"
@@ -300,7 +321,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828668,
+    "wof:lastmodified":1563251312,
     "wof:name":"Leiria",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

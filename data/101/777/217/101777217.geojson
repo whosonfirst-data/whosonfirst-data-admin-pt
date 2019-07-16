@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
+    "geom:area_square_m":479486.082949,
     "geom:bbox":"-7.86760773288,40.3975094798,-7.85241654779,40.406005892",
     "geom:latitude":40.401671,
     "geom:longitude":-7.860762,
@@ -15,7 +16,19 @@
     "mps:longitude":-7.860878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Lagares"
+    ],
+    "name:ceb_x_preferred":[
+        "Lagares"
+    ],
     "name:deu_x_preferred":[
+        "Lagares"
+    ],
+    "name:eng_x_preferred":[
+        "Lagares"
+    ],
+    "name:fra_x_preferred":[
         "Lagares"
     ],
     "name:glg_x_preferred":[
@@ -27,6 +40,9 @@
     "name:lat_x_preferred":[
         "Lagares"
     ],
+    "name:nan_x_preferred":[
+        "Lagares"
+    ],
     "name:nld_x_preferred":[
         "Lagares"
     ],
@@ -36,11 +52,17 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0433\u0430\u0440\u0438\u0448"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u0430\u0433\u0430\u0440\u0435\u0448"
+    ],
     "name:spa_x_preferred":[
         "Lagares"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u52a0\u91cc\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "Lagares"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Coimbra",
@@ -81,7 +103,7 @@
         }
     ],
     "wof:id":101777217,
-    "wof:lastmodified":1527688509,
+    "wof:lastmodified":1563252955,
     "wof:name":"Lagares",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

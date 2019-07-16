@@ -33,6 +33,9 @@
     "name:bar_x_preferred":[
         "Distrikt Guarda"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0413\u0443\u0430\u0440\u0434\u0430"
+    ],
     "name:bre_x_preferred":[
         "Distrig Guarda"
     ],
@@ -54,8 +57,14 @@
     "name:eng_x_preferred":[
         "Guarda"
     ],
+    "name:eng_x_variant":[
+        "Guarda District"
+    ],
     "name:epo_x_preferred":[
         "Guarda"
+    ],
+    "name:epo_x_variant":[
+        "Distrikto Guarda"
     ],
     "name:eus_x_preferred":[
         "Guarda"
@@ -81,6 +90,9 @@
     "name:ind_x_preferred":[
         "Guarda"
     ],
+    "name:ind_x_variant":[
+        "Distrik Guarda"
+    ],
     "name:ita_x_preferred":[
         "Guarda"
     ],
@@ -89,6 +101,12 @@
     ],
     "name:kor_x_preferred":[
         "\uad6c\uc544\ub974\ub2e4 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uad6c\uc544\ub974\ub2e4\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Guarda"
     ],
     "name:lat_x_preferred":[
         "Custodia"
@@ -120,6 +138,9 @@
     "name:pnb_x_preferred":[
         "\u06af\u0648\u0622\u0631\u062f\u0627"
     ],
+    "name:pnb_x_variant":[
+        "\u0636\u0644\u0639 \u06af\u0648\u0622\u0631\u062f\u0627"
+    ],
     "name:pol_x_preferred":[
         "Dystrykt Guarda"
     ],
@@ -149,6 +170,9 @@
     ],
     "name:srp_x_preferred":[
         "Gvarda"
+    ],
+    "name:srp_x_variant":[
+        "\u0413\u0432\u0430\u0440\u0434\u0430"
     ],
     "name:swe_x_preferred":[
         "Guarda"
@@ -289,7 +313,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828669,
+    "wof:lastmodified":1563251323,
     "wof:name":"Guarda",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
