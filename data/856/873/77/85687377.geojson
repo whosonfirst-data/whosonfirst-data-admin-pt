@@ -33,6 +33,12 @@
     "name:aze_x_preferred":[
         "Santarem Qrafl\u0131\u011f\u0131"
     ],
+    "name:bar_x_preferred":[
+        "Distrikt Santar\u00e9m"
+    ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0421\u0430\u043d\u0442\u0430\u0440\u044d\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be\u09b0\u09c7\u09ae \u099c\u09c7\u09b2\u09be"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:bre_x_preferred":[
         "Santar\u00e9m"
+    ],
+    "name:bre_x_variant":[
+        "Distrig Santar\u00e9m"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u0440\u0435\u043c"
@@ -66,8 +75,14 @@
     "name:eng_x_preferred":[
         "Santar\u00e9m"
     ],
+    "name:eng_x_variant":[
+        "Santar\u00e9m District"
+    ],
     "name:epo_x_preferred":[
         "Santar\u00e9m"
+    ],
+    "name:epo_x_variant":[
+        "distrikto Santar\u00e9m"
     ],
     "name:est_x_preferred":[
         "Santar\u00e9m"
@@ -80,6 +95,9 @@
     ],
     "name:fin_x_preferred":[
         "Santar\u00e9m"
+    ],
+    "name:fin_x_variant":[
+        "Santar\u00e9min piiri"
     ],
     "name:fra_x_preferred":[
         "Santar\u00e9m"
@@ -114,11 +132,20 @@
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\ub81d \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ud0c0\ub81d\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Santar\u00e9m"
+    ],
     "name:lat_x_preferred":[
         "Scalabis"
     ],
     "name:lav_x_preferred":[
         "Santar\u0113mas distrikts"
+    ],
+    "name:lim_x_preferred":[
+        "Santar\u00e9m"
     ],
     "name:lit_x_preferred":[
         "Santaremo apskritis"
@@ -188,6 +215,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u043d\u0442\u0430\u0440\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:unk_x_variant":[
         "Distrito de Santar\u00e9m"
@@ -321,7 +351,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828669,
+    "wof:lastmodified":1563251325,
     "wof:name":"Santar\u00e9m",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

@@ -36,6 +36,9 @@
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u041b\u0456\u0441\u0430\u0431\u043e\u043d"
     ],
+    "name:bre_x_preferred":[
+        "Distrig Lisbon"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0430\u0431\u043e\u043d"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:epo_x_preferred":[
         "Distrikto Lisbono"
+    ],
+    "name:epo_x_variant":[
+        "distrikto Lisbono"
     ],
     "name:eus_x_preferred":[
         "Lisboa"
@@ -100,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc2a4\ubcf4\uc544 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc2a4\ubcf4\uc544\ud604"
+    ],
+    "name:lad_x_preferred":[
+        "Lisboa"
     ],
     "name:lat_x_preferred":[
         "Olisipo"
@@ -154,6 +166,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0441\u0430\u0431\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0441\u0430\u0431\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:unk_x_variant":[
         "Distrito de Lisboa"
@@ -289,7 +304,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828669,
+    "wof:lastmodified":1563251317,
     "wof:name":"Lisboa",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

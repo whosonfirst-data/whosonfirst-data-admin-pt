@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000464,
-    "geom:area_square_m":4478981.13142,
+    "geom:area_square_m":4478981.131422,
     "geom:bbox":"-9.140625,38.6862286768,-9.11290524616,38.7144472358",
     "geom:latitude":38.698151,
     "geom:longitude":-9.127527,
@@ -29,11 +29,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0645\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Alfama"
+    ],
+    "name:ces_x_preferred":[
+        "Alfama"
+    ],
     "name:deu_x_preferred":[
         "Alfama"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03c6\u03ac\u03bc\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Alfama"
     ],
     "name:epo_x_preferred":[
         "Alfama"
@@ -45,6 +57,9 @@
         "Alfama"
     ],
     "name:fra_x_preferred":[
+        "Alfama"
+    ],
+    "name:glg_x_preferred":[
         "Alfama"
     ],
     "name:hun_x_preferred":[
@@ -169,7 +184,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379448,
+    "wof:lastmodified":1563251297,
     "wof:name":"Alfama",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

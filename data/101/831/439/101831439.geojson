@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1681510.866403,
+    "geom:area_square_m":1681510.866402,
     "geom:bbox":"-8.79230871898,41.5239922203,-8.77147349316,41.5531752241",
     "geom:latitude":41.538024,
     "geom:longitude":-8.782804,
@@ -21,10 +21,22 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0628\u0648\u0633\u064a\u0646\u062f\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Esposende"
+    ],
     "name:cat_x_preferred":[
         "Esposende"
     ],
+    "name:ceb_x_preferred":[
+        "Esposende"
+    ],
     "name:deu_x_preferred":[
+        "Esposende"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c3\u03c0\u03bf\u03c3\u03ad\u03bd\u03c4\u03b5"
+    ],
+    "name:eng_x_preferred":[
         "Esposende"
     ],
     "name:epo_x_preferred":[
@@ -51,6 +63,12 @@
     "name:kat_x_preferred":[
         "\u10d4\u10e8\u10de\u10dd\u10d6\u10d4\u10dc\u10d3\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d4\u10e1\u10de\u10dd\u10d6\u10d4\u10dc\u10d3\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc2a4\ud3ec\uc820\ub4dc"
+    ],
     "name:lit_x_preferred":[
         "Espozend\u0117"
     ],
@@ -60,7 +78,13 @@
     "name:mzn_x_preferred":[
         "\u0627\u0633\u067e\u0648\u0633\u0646\u062f\u0647"
     ],
+    "name:nan_x_preferred":[
+        "Esposende"
+    ],
     "name:nld_x_preferred":[
+        "Esposende"
+    ],
+    "name:nob_x_preferred":[
         "Esposende"
     ],
     "name:nor_x_preferred":[
@@ -73,6 +97,9 @@
         "Esposende"
     ],
     "name:ron_x_preferred":[
+        "Esposende"
+    ],
+    "name:rup_x_preferred":[
         "Esposende"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +117,13 @@
     "name:unk_x_variant":[
         "Espozende"
     ],
+    "name:vie_x_preferred":[
+        "Esposende"
+    ],
     "name:vol_x_preferred":[
+        "Esposende"
+    ],
+    "name:war_x_preferred":[
         "Esposende"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -144,7 +177,7 @@
         }
     ],
     "wof:id":101831439,
-    "wof:lastmodified":1527715139,
+    "wof:lastmodified":1563253123,
     "wof:name":"Esposende",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

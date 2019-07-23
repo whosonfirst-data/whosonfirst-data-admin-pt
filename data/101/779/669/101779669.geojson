@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
+    "geom:area_square_m":529729.624342,
     "geom:bbox":"-7.7988556251,37.9189352043,-7.78871061756,37.9287436313",
     "geom:latitude":37.923731,
     "geom:longitude":-7.793459,
@@ -15,7 +16,16 @@
     "mps:longitude":-7.793383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:ceb_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
     "name:deu_x_preferred":[
+        "Cabe\u00e7a Gorda"
+    ],
+    "name:eng_x_preferred":[
         "Cabe\u00e7a Gorda"
     ],
     "name:fra_x_preferred":[
@@ -23,6 +33,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0431\u0435\u0441\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Cabe\u00e7a Gorda"
     ],
     "name:nld_x_preferred":[
         "Cabe\u00e7a Gorda"
@@ -39,8 +52,14 @@
     "name:spa_x_preferred":[
         "Cabe\u00e7a Gorda"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0435\u0441\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
     "name:zho_x_preferred":[
         "\u5361\u8d1d\u8428\u6208\u5c14\u8fbe"
+    ],
+    "name:zho_x_variant":[
+        "Cabe\u00e7a Gorda"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Beja",
@@ -87,7 +106,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688550,
+    "wof:lastmodified":1563252996,
     "wof:name":"Cabe\u00e7a Gorda",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

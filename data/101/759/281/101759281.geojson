@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001242,
-    "geom:area_square_m":11553566.935289,
+    "geom:area_square_m":11553566.93529,
     "geom:bbox":"-8.7155540461,41.17152,-8.65537520129,41.21794423",
     "geom:latitude":41.192932,
     "geom:longitude":-8.691037,
@@ -23,10 +23,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0648\u0633\u064a\u0646\u0647\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Matosinhos"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0443\u0437\u0438\u043d\u044e\u0448"
     ],
     "name:cat_x_preferred":[
+        "Matosinhos"
+    ],
+    "name:ceb_x_preferred":[
         "Matosinhos"
     ],
     "name:ces_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Matosinhos Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Matosinhos"
     ],
     "name:eus_x_preferred":[
         "Matosinhos"
@@ -56,11 +65,23 @@
     "name:glg_x_preferred":[
         "Matosinhos"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d5\u05e1\u05d9\u05e0\u05d9\u05d5\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057f\u0578\u0566\u056b\u056b\u0578\u0582\u0577"
+    ],
     "name:ita_x_preferred":[
         "Matosinhos"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e2\u10dd\u10d6\u10d8\u10dc\u10d8\u10e3\u10e8\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10e2\u10e3\u10d6\u10d8\u10dc\u10d8\u10e3\u10e8\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud1a0\uc9c0\ub274\uc2a4"
     ],
     "name:lat_x_preferred":[
         "Matesinus"
@@ -71,7 +92,13 @@
     "name:mzn_x_preferred":[
         "\u0645\u0627\u062a\u0648\u0633\u06cc\u0646\u0648\u0633"
     ],
+    "name:nan_x_preferred":[
+        "Matosinhos"
+    ],
     "name:nld_x_preferred":[
+        "Matosinhos"
+    ],
+    "name:nob_x_preferred":[
         "Matosinhos"
     ],
     "name:pol_x_preferred":[
@@ -86,6 +113,9 @@
     "name:ron_x_preferred":[
         "Matosinhos"
     ],
+    "name:rup_x_preferred":[
+        "Matosinhos"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0442\u043e\u0437\u0438\u043d\u044c\u044e\u0448"
     ],
@@ -98,13 +128,25 @@
     "name:swe_x_preferred":[
         "Matosinhos"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0442\u0443\u0437\u0438\u043d\u044c\u044e\u0448"
+    ],
     "name:tur_x_preferred":[
         "Matosinhos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u043e\u0437\u0456\u043d\u044e\u0448"
     ],
     "name:unk_x_variant":[
         "Matozinhos"
     ],
+    "name:vie_x_preferred":[
+        "Matosinhos"
+    ],
     "name:vol_x_preferred":[
+        "Matosinhos"
+    ],
+    "name:war_x_preferred":[
         "Matosinhos"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -179,7 +221,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379447,
+    "wof:lastmodified":1563253040,
     "wof:name":"Matosinhos",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

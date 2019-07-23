@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2846788.158635,
+    "geom:area_square_m":2846788.158636,
     "geom:bbox":"-8.68633805838,40.584780302,-8.64829549987,40.6123474415",
     "geom:latitude":40.59857,
     "geom:longitude":-8.668773,
@@ -20,10 +20,19 @@
     "name:ara_x_preferred":[
         "\u0625\u0644\u0647\u0627\u0641\u0648"
     ],
+    "name:ast_x_preferred":[
+        "\u00cdlhavo"
+    ],
     "name:cat_x_preferred":[
         "\u00cdlhavo"
     ],
+    "name:ceb_x_preferred":[
+        "\u00cdlhavo"
+    ],
     "name:deu_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:eng_x_preferred":[
         "\u00cdlhavo"
     ],
     "name:eus_x_preferred":[
@@ -31,6 +40,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0644\u0648\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0644\u0627\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "\u00cdlhavo"
@@ -44,8 +56,56 @@
     "name:ita_x_preferred":[
         "\u00cdlhavo"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10da\u10d8\u10d0\u10d5\u10e3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub7b4\ubd80"
+    ],
+    "name:mwl_x_preferred":[
+        "\u00cdlhabo"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u06cc\u0644\u0627\u0648\u0648"
+    ],
+    "name:nan_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:nld_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:pol_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:por_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:ron_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u044f\u0432\u0443"
+    ],
     "name:spa_x_preferred":[
         "\u00cdlhavo"
+    ],
+    "name:tur_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u044c\u044f\u0432\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:vol_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:war_x_preferred":[
+        "\u00cdlhavo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5229\u4e9e\u6c83"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Aveiro",
@@ -91,7 +151,7 @@
         }
     ],
     "wof:id":101774953,
-    "wof:lastmodified":1527715879,
+    "wof:lastmodified":1563253179,
     "wof:name":"\u00cdlhavo",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

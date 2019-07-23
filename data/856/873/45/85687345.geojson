@@ -27,8 +27,14 @@
     "name:afr_x_preferred":[
         "Madeiraeilande"
     ],
+    "name:amh_x_preferred":[
+        "\u121b\u12f0\u12ed\u122b"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u0631 \u0645\u0627\u062f\u064a\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u062f\u064a\u0631\u0627"
     ],
     "name:arg_x_preferred":[
         "Madeira"
@@ -63,6 +69,9 @@
     "name:cat_x_preferred":[
         "Madeira"
     ],
+    "name:ceb_x_preferred":[
+        "Madeira"
+    ],
     "name:ces_x_preferred":[
         "Madeira"
     ],
@@ -86,6 +95,9 @@
     ],
     "name:deu_x_preferred":[
         "Autonome Region Madeira"
+    ],
+    "name:diq_x_preferred":[
+        "Madeira"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b4\u03ad\u03c1\u03b1"
@@ -136,10 +148,16 @@
     "name:gle_x_preferred":[
         "R\u00e9igi\u00fan F\u00e9inrialaithe Mhaid\u00e9ara"
     ],
+    "name:gle_x_variant":[
+        "Maid\u00e9ara"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n Aut\u00f3noma da Madeira"
     ],
     "name:gsw_x_preferred":[
+        "Madeira"
+    ],
+    "name:hak_x_preferred":[
         "Madeira"
     ],
     "name:heb_x_preferred":[
@@ -187,6 +205,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d3\u10d4\u10d8\u10e0\u10d0"
     ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0434\u0435\u0439\u0440\u0430 \u0430\u0440\u0430\u043b\u0434\u0430\u0440 \u0442\u043e\u0431\u0443"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub370\uc774\ub77c \uc81c\ub3c4"
     ],
@@ -195,6 +216,9 @@
     ],
     "name:lav_x_preferred":[
         "Madeira"
+    ],
+    "name:lfn_x_preferred":[
+        "Isolas Madera"
     ],
     "name:lij_x_preferred":[
         "Madeira"
@@ -222,6 +246,12 @@
     ],
     "name:mwl_x_preferred":[
         "Region Out\u00f3noma de la Madeira"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u1012\u102e\u1038\u101b\u1000\u103b\u103d\u1014\u103a\u1038\u1019\u103b\u102c\u1038"
+    ],
+    "name:nan_x_preferred":[
+        "Madeira"
     ],
     "name:nld_x_preferred":[
         "Madeira"
@@ -301,6 +331,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bc0\u0bb0\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0434\u0435\u0439\u0440\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Madeira"
     ],
@@ -325,6 +358,9 @@
     "name:war_x_preferred":[
         "Madeira"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5fb7\u62c9"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d3\u10d4\u10d8\u10e0\u10d0"
     ],
@@ -333,6 +369,9 @@
     ],
     "name:yue_x_preferred":[
         "\u99ac\u5fb7\u62c9"
+    ],
+    "name:zea_x_preferred":[
+        "Madeira"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5fb7\u62c9"
@@ -454,7 +493,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828669,
+    "wof:lastmodified":1563251317,
     "wof:name":"Ilha da Madeira",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

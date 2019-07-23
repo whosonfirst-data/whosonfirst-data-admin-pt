@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8328613.378439,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.653989,41.190863,-8.653989,41.190863",
     "geom:latitude":41.190863,
     "geom:longitude":-8.653989,
@@ -32,13 +32,31 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0647\u0648\u0627 \u062f\u0627 \u0647\u0648\u0631\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Senhora da Hora"
+    ],
+    "name:ceb_x_preferred":[
+        "Senhora da Hora"
+    ],
     "name:deu_x_preferred":[
+        "Senhora da Hora"
+    ],
+    "name:eng_x_preferred":[
+        "Senhora da Hora"
+    ],
+    "name:fra_x_preferred":[
         "Senhora da Hora"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043d\u044c\u043e\u0440\u0430-\u0434\u0430-\u041e\u0440\u0430"
     ],
     "name:msa_x_preferred":[
+        "Senhora da Hora"
+    ],
+    "name:nan_x_preferred":[
+        "Senhora da Hora"
+    ],
+    "name:nld_x_preferred":[
         "Senhora da Hora"
     ],
     "name:por_x_preferred":[
@@ -58,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u5c3c\u5965\u62c9-\u8fbe\u5965\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "Senhora da Hora"
     ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
@@ -136,7 +157,7 @@
         }
     ],
     "wof:id":85799131,
-    "wof:lastmodified":1534379447,
+    "wof:lastmodified":1563251285,
     "wof:name":"Senhora da Hora",
     "wof:parent_id":101759343,
     "wof:placetype":"neighbourhood",

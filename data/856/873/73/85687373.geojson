@@ -30,6 +30,12 @@
     "name:arg_x_preferred":[
         "Destrito de Portalegre"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u044b"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Portalegre"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u0438"
     ],
@@ -42,6 +48,9 @@
     "name:eng_x_preferred":[
         "Portalegre"
     ],
+    "name:eng_x_variant":[
+        "Portalegre District"
+    ],
     "name:epo_x_preferred":[
         "Distrikto Portalegre"
     ],
@@ -53,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Portalegre"
+    ],
+    "name:fra_x_variant":[
+        "Portalegre"
     ],
     "name:glg_x_preferred":[
         "Distrito de Portalegre"
@@ -72,8 +84,14 @@
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ud0c8\ub808\uadf8\ub974 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub974\ud0c8\ub808\uadf8\ub974\ud604"
+    ],
     "name:lat_x_preferred":[
         "Portus Alacer"
+    ],
+    "name:lim_x_preferred":[
+        "Portalegre"
     ],
     "name:msa_x_preferred":[
         "Daerah Portalegre"
@@ -119,6 +137,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0491\u0440\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
     "name:unk_x_variant":[
         "Distrito de Portalegre"
@@ -252,7 +273,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561828669,
+    "wof:lastmodified":1563251318,
     "wof:name":"Portalegre",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

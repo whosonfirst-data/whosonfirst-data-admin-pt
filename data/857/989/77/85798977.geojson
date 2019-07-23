@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":3676242.814936,
+    "geom:area_square_m":3676242.814935,
     "geom:bbox":"-9.19006347656,38.7497992946,-9.16690599048,38.7728179",
     "geom:latitude":38.761481,
     "geom:longitude":-9.177341,
@@ -26,7 +26,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ast_x_preferred":[
+        "Carnide"
+    ],
+    "name:cat_x_preferred":[
+        "Carnide"
+    ],
     "name:deu_x_preferred":[
+        "Carnide"
+    ],
+    "name:eng_x_preferred":[
         "Carnide"
     ],
     "name:fra_x_preferred":[
@@ -35,10 +44,19 @@
     "name:ita_x_preferred":[
         "Carnide"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10dc\u10d8\u10d3\u10d4"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u043d\u0438\u0434\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Carnide"
+    ],
     "name:nld_x_preferred":[
+        "Carnide"
+    ],
+    "name:pol_x_preferred":[
         "Carnide"
     ],
     "name:por_x_preferred":[
@@ -52,6 +70,9 @@
     ],
     "name:tur_x_preferred":[
         "Carnide"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043d\u0456\u0434\u0435"
     ],
     "name:unk_x_variant":[
         "Carnide"
@@ -115,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527639410,
+    "wof:lastmodified":1563251293,
     "wof:name":"Carnide",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
+    "geom:area_square_m":439805.686835,
     "geom:bbox":"-8.66877294536,37.5709481085,-8.66020844038,37.5836751758",
     "geom:latitude":37.578,
     "geom:longitude":-8.66512,
@@ -15,11 +16,26 @@
     "mps:longitude":-8.665899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:ceb_x_preferred":[
+        "Boavista Dos Pinheiros"
+    ],
     "name:deu_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:eng_x_preferred":[
+        "Boavista dos Pinheiros"
+    ],
+    "name:fra_x_preferred":[
         "Boavista dos Pinheiros"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0430\u0432\u0438\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0438\u043d\u044c\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:nan_x_preferred":[
+        "Boavista dos Pinheiros"
     ],
     "name:nld_x_preferred":[
         "Boavista dos Pinheiros"
@@ -30,8 +46,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0430\u0432\u0438\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0438\u043d\u044c\u0435\u0439\u0440\u0443\u0448"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0430\u0432\u0438\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0438\u043d\u044c\u0435\u0439\u0440\u0443\u0448"
+    ],
     "name:spa_x_preferred":[
         "Boavista dos Pinheiros"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0430\u0432\u0456\u0448\u0442\u0430-\u0434\u0443\u0448-\u041f\u0456\u043d\u044c\u0454\u0439\u0440\u0443\u0448"
     ],
     "name:zho_x_preferred":[
         "\u535a\u963f\u7ef4\u65af\u5854-\u675c\u4ec0\u76ae\u6d85\u9c81\u4ec0"
@@ -83,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1563252820,
     "wof:name":"Boavista dos Pinheiros",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",
