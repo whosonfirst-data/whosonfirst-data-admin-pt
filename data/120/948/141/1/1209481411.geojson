@@ -27,6 +27,27 @@
     "iso:country":"PT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cumieira"
+    ],
+    "name:deu_x_preferred":[
+        "Cumieira"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u043c\u0438\u0435\u0439\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Cumieira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0438\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cumieira"
+    ],
+    "name:tur_x_preferred":[
+        "Cumieira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +57,7 @@
         "gn:id":2268765
     },
     "wof:country":"PT",
-    "wof:geomhash":"72a21a0fe46753bf7e42a86dac0b50c5",
+    "wof:geomhash":"9486d5a33417f7ab8087837b69f68401",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209481411,
-    "wof:lastmodified":1536285770,
+    "wof:lastmodified":1564220150,
     "wof:name":"Cumieira",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +75,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.666789999999999,
+    -8.66679,
     39.76889,
-    -8.666789999999999,
+    -8.66679,
     39.76889
 ],
   "geometry": {"coordinates":[-8.66679,39.76889],"type":"Point"}

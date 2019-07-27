@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
+    "geom:area_square_m":1063339.752528,
     "geom:bbox":"-8.6506697549,41.0449552696,-8.63523301459,41.0627213017",
     "geom:latitude":41.055221,
     "geom:longitude":-8.642224,
@@ -14,6 +15,7 @@
     "mps:latitude":41.056541,
     "mps:longitude":-8.64082,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:afr_x_preferred":[
         "Mira"
     ],
@@ -26,14 +28,23 @@
     "name:ast_x_preferred":[
         "Mira"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0456\u0440\u0430"
+    ],
     "name:bos_x_preferred":[
         "Omicron Ceti"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Mira"
+    ],
     "name:ces_x_preferred":[
         "Mira"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0633\u062a\u06ce\u0631\u06d5\u06cc \u0645\u06cc\u0631\u0627"
     ],
     "name:dan_x_preferred":[
         "Mira"
@@ -46,6 +57,9 @@
     ],
     "name:epo_x_preferred":[
         "Omikron Baleno"
+    ],
+    "name:est_x_preferred":[
+        "Mira"
     ],
     "name:fas_x_preferred":[
         "\u0634\u06af\u0641\u062a\u200c\u0627\u062e\u062a\u0631"
@@ -77,6 +91,9 @@
     "name:jpn_x_preferred":[
         "\u30df\u30e9"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\ub77c"
     ],
@@ -90,6 +107,9 @@
         "Mira"
     ],
     "name:nld_x_preferred":[
+        "Mira"
+    ],
+    "name:nno_x_preferred":[
         "Mira"
     ],
     "name:nor_x_preferred":[
@@ -128,6 +148,9 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e27\u0e21\u0e34\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e14\u0e32\u0e27\u0e44\u0e21\u0e23\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Mira Ceti"
     ],
@@ -145,6 +168,9 @@
     ],
     "name:zho_x_preferred":[
         "\u84ad\u85c1\u589e\u4e8c"
+    ],
+    "name:zho_x_variant":[
+        "\u520d\u85c1\u589e\u4e8c"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
@@ -174,7 +200,7 @@
         "qs:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"bb6a7e839878b8d10bbeb7002f525a0d",
+    "wof:geomhash":"b8eec89ad015d56dd3c40f3105fd0913",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +213,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467243917,
+    "wof:lastmodified":1564220993,
     "wof:name":"Mira",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

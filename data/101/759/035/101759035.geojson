@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":370897.850061,
     "geom:bbox":"-9.37904676789,38.7083730017,-9.37123152375,38.7160872559",
     "geom:latitude":38.712545,
     "geom:longitude":-9.37533,
@@ -14,8 +15,12 @@
     "mps:latitude":38.712629,
     "mps:longitude":-9.375404,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:bpy_x_preferred":[
         "\u09b2\u09bf\u09ad\u09cd\u09b0\u09be\u09ae\u09c7\u09a8\u099f\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Livramento"
     ],
     "name:deu_x_preferred":[
         "Livramento"
@@ -31,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0432\u0440\u0430\u043c\u0435\u043d\u0442\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Livramento"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -61,7 +69,7 @@
         "qs:id":1253842
     },
     "wof:country":"PT",
-    "wof:geomhash":"122a6b1de5e023104e2bfa6f11ef0ae6",
+    "wof:geomhash":"2167305602569ccd57e7f599c5826039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +82,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467243093,
+    "wof:lastmodified":1564221003,
     "wof:name":"Livramento",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",
