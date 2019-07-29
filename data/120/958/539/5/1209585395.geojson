@@ -27,6 +27,78 @@
     "iso:country":"PT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0627"
+    ],
+    "name:bre_x_preferred":[
+        "Beira"
+    ],
+    "name:ceb_x_preferred":[
+        "Beira"
+    ],
+    "name:ces_x_preferred":[
+        "Beira"
+    ],
+    "name:deu_x_preferred":[
+        "Beira"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b9\u03c1\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "Beira"
+    ],
+    "name:eus_x_preferred":[
+        "Beira"
+    ],
+    "name:fra_x_preferred":[
+        "Beira"
+    ],
+    "name:glg_x_preferred":[
+        "Beira"
+    ],
+    "name:ita_x_preferred":[
+        "Beira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30a4\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d8\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Beira"
+    ],
+    "name:pol_x_preferred":[
+        "Beira"
+    ],
+    "name:por_x_preferred":[
+        "Beira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Beira"
+    ],
+    "name:spa_x_preferred":[
+        "Beira"
+    ],
+    "name:swe_x_preferred":[
+        "Beira"
+    ],
+    "name:tur_x_preferred":[
+        "Beira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Beira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +108,7 @@
         "gn:id":2270990
     },
     "wof:country":"PT",
-    "wof:geomhash":"05e13cf59ca4e1dfad641911ee6a9eb2",
+    "wof:geomhash":"4c62ee80cb8da044306ca3093a2d7ad6",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +116,7 @@
         }
     ],
     "wof:id":1209585395,
-    "wof:lastmodified":1536282653,
+    "wof:lastmodified":1564220241,
     "wof:name":"Beira",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +126,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.371289999999999,
+    -7.37129,
     39.44864000000001,
-    -7.371289999999999,
+    -7.37129,
     39.44864000000001
 ],
   "geometry": {"coordinates":[-7.37129,39.44864000000001],"type":"Point"}

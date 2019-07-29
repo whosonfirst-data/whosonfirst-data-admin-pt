@@ -27,6 +27,39 @@
     "iso:country":"PT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Quinta"
+    ],
+    "name:ces_x_preferred":[
+        "Kvinta"
+    ],
+    "name:deu_x_preferred":[
+        "Quinta"
+    ],
+    "name:fra_x_preferred":[
+        "Quinte"
+    ],
+    "name:glg_x_preferred":[
+        "Quinta"
+    ],
+    "name:ita_x_preferred":[
+        "Quinta"
+    ],
+    "name:por_x_preferred":[
+        "Quinta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Quinta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0432\u0438\u043d\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Quinta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +69,7 @@
         "gn:id":2735642
     },
     "wof:country":"PT",
-    "wof:geomhash":"8797d8bcff558cd17997bd532b69dfe0",
+    "wof:geomhash":"cb1e78fd95beaad4804ee6f220441cd3",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +77,7 @@
         }
     ],
     "wof:id":1209109215,
-    "wof:lastmodified":1536297462,
+    "wof:lastmodified":1564220333,
     "wof:name":"Quinta",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +87,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.482610000000001,
+    -8.48261,
     40.89385,
-    -8.482610000000001,
+    -8.48261,
     40.89385
 ],
   "geometry": {"coordinates":[-8.48261,40.89385],"type":"Point"}

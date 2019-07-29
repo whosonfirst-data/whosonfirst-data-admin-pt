@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":538349.21795,
+    "geom:area_square_m":538349.217949,
     "geom:bbox":"-9.44402413243,38.6993631355,-9.43428086571,38.7094385095",
     "geom:latitude":38.70445,
     "geom:longitude":-9.439765,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:arg_x_preferred":[
+        "Torre"
+    ],
+    "name:cat_x_preferred":[
         "Torre"
     ],
     "name:ceb_x_preferred":[
@@ -64,8 +67,14 @@
     "name:srp_x_preferred":[
         "Tore"
     ],
+    "name:srp_x_variant":[
+        "\u0422\u043e\u0440\u0435"
+    ],
     "name:swe_x_preferred":[
         "Torre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0440\u0435"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":101758989,
-    "wof:lastmodified":1527689313,
+    "wof:lastmodified":1564220980,
     "wof:name":"Torre",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",
