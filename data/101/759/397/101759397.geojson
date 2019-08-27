@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000855,
+    "geom:area_square_m":7972158.38565,
     "geom:bbox":"-8.62572675044,41.0132018758,-8.58484341422,41.0492993048",
     "geom:latitude":41.030526,
     "geom:longitude":-8.606949,
     "iso:country":"PT",
     "lbl:latitude":41.026027,
     "lbl:longitude":-8.615353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.026027,
     "mps:longitude":-8.615353,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":2735810,
         "gp:id":746370,
-        "qs:id":1254326
+        "qs_pg:id":1254326
     },
     "wof:country":"PT",
-    "wof:geomhash":"4c9e9baf011e92452d2c1339a0571ed4",
+    "wof:geomhash":"5f77aacf93cf5bc44cb579b20d7cbb6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101759397,
-    "wof:lastmodified":1466625829,
+    "wof:lastmodified":1566608464,
     "wof:name":"P\u00f3voa",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

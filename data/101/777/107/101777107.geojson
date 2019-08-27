@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.024996,
     "lbl:longitude":-8.794405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.024996,
     "mps:longitude":-8.794405,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Salvaterra de Magos"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.016667,
     "wd:longitude":-8.783333,
@@ -102,7 +105,6 @@
         "fct:id":"026e0326-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263596,
         "gp:id":747706,
-        "qs:id":1277565,
         "qs_pg:id":1277565,
         "wd:id":"Q1027809"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252966,
+    "wof:lastmodified":1566608443,
     "wof:name":"Salvaterra de Magos",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

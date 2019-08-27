@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.271734,
     "lbl:longitude":-8.285767,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.271734,
     "mps:longitude":-8.285767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lousada"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Migu\u00e9l"
-    ],
     "name:vie_x_preferred":[
         "Lousada"
     ],
@@ -120,7 +120,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.283333,
     "wd:longitude":-8.283333,
     "wd:wordcount":174,
@@ -134,7 +134,7 @@
         "fct:id":"026b3556-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738147,
         "gp:id":742863,
-        "qs:id":286114,
+        "qs_pg:id":286114,
         "wd:id":"Q986741"
     },
     "wof:country":"PT",
@@ -151,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253180,
+    "wof:lastmodified":1566608525,
     "wof:name":"Lousada",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

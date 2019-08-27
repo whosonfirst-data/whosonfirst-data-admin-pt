@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.115841,
     "lbl:longitude":-8.244318,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":40.115841,
     "mps:longitude":-8.244318,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:arg_x_preferred":[
         "Lous\u00e3"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Louz\u00e3"
-    ],
     "name:vie_x_preferred":[
         "Lous\u00e3"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1955,
     "wof:belongsto":[
@@ -146,7 +146,6 @@
         "fct:id":"026905e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738154,
         "gp:id":742855,
-        "qs:id":685369,
         "qs_pg:id":685369,
         "wd:id":"Q1006413"
     },
@@ -164,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252928,
+    "wof:lastmodified":1566608429,
     "wof:name":"Lous\u00e3",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

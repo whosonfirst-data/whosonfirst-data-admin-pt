@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.167711,
     "lbl:longitude":-7.173772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.167711,
     "mps:longitude":-7.173772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Penamacor"
     ],
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.166667,
     "wd:longitude":-7.166667,
     "wd:wordcount":125,
@@ -121,7 +124,6 @@
         "fct:id":"026d00ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2736461,
         "gp:id":745486,
-        "qs:id":871827,
         "qs_pg:id":871827,
         "wd:id":"Q995183"
     },
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252946,
+    "wof:lastmodified":1566608435,
     "wof:name":"Penamacor",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

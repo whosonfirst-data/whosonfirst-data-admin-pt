@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.499114,
     "lbl:longitude":-7.643752,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.499114,
     "mps:longitude":-7.643752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vila Pouca de Aguiar"
     ],
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.483333,
     "wd:longitude":-7.633333,
     "wd:wordcount":1262,
@@ -103,7 +106,6 @@
         "fct:id":"026971a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732517,
         "gp:id":750830,
-        "qs:id":1219896,
         "qs_pg:id":1219896,
         "wd:id":"Q1006397"
     },
@@ -121,7 +123,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828739,
+    "wof:lastmodified":1566608519,
     "wof:name":"Vila Pouca de Aguiar",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

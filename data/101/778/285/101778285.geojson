@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.295241,
     "lbl:longitude":-8.658071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.295241,
     "mps:longitude":-8.658071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Alcanh\u00f5es"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.295778,
     "wd:longitude":-8.659903,
     "wd:wordcount":43,
@@ -86,7 +89,7 @@
         "fct:id":"0270168e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272188,
         "gp:id":735583,
-        "qs:id":179974,
+        "qs_pg:id":179974,
         "wd:id":"Q2296664",
         "wk:page":"Alcanh\u00f5es"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252894,
+    "wof:lastmodified":1566608416,
     "wof:name":"Alcanh\u00f5es",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

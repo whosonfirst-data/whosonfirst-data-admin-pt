@@ -10,12 +10,16 @@
     "geom:latitude":36.957252,
     "geom:longitude":-25.142737,
     "iso:country":"PT",
+    "lbl:bbox":"-25.162737,36.937252,-25.122737,36.977252",
     "lbl:latitude":36.957252,
     "lbl:longitude":-25.142737,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.957252,
     "mps:longitude":-25.142737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vila do Porto"
     ],
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1357,
     "wof:belongsto":[
         102191581,
@@ -108,7 +112,6 @@
         "fct:id":"0265242c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372473,
         "gp:id":538441,
-        "qs:id":1312873,
         "qs_pg:id":1312873,
         "wd:id":"Q1003164",
         "wk:page":"Vila do Porto"
@@ -127,7 +130,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253109,
+    "wof:lastmodified":1566608499,
     "wof:name":"Vila do Porto",
     "wof:parent_id":85687429,
     "wof:placetype":"locality",

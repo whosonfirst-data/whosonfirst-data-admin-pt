@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.747239,
     "lbl:longitude":-9.098593,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.74605,
     "mps:longitude":-9.091033,
     "mz:hierarchy_label":1,
@@ -69,9 +70,6 @@
     "name:spa_x_preferred":[
         "Matinha"
     ],
-    "name:unk_x_variant":[
-        "Matinha"
-    ],
     "name:vie_x_preferred":[
         "Matinha"
     ],
@@ -111,7 +109,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -119,7 +116,7 @@
     "wof:concordances":{
         "gn:id":2266712,
         "gp:id":743308,
-        "qs:id":1117233
+        "qs_pg:id":1117233
     },
     "wof:country":"PT",
     "wof:geomhash":"08ec9a5136861c97c1add04cb68c2217",
@@ -137,7 +134,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607565,
     "wof:name":"Matinha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

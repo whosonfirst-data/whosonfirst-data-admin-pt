@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
+    "geom:area_square_m":2014810.777059,
     "geom:bbox":"-7.91479589402,40.6285138328,-7.88184033565,40.6577812612",
     "geom:latitude":40.645526,
     "geom:longitude":-7.902588,
     "iso:country":"PT",
     "lbl:latitude":40.647387,
     "lbl:longitude":-7.908151,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.647387,
     "mps:longitude":-7.908151,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Ranhados"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026a9844-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735456,
         "gp:id":29384753,
-        "qs:id":42302
+        "qs_pg:id":42302
     },
     "wof:country":"PT",
-    "wof:geomhash":"5686a0778892805448a88c1da63565d2",
+    "wof:geomhash":"1745b2f20e41150e00319feff03c5c05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626131,
+    "wof:lastmodified":1566608515,
     "wof:name":"Ranhados",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

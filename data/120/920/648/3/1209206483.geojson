@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.54193,40.04224,-8.50193,40.08224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741779
     },
     "wof:country":"PT",
-    "wof:geomhash":"75c62d46073e20c9412df98878d4fe93",
+    "wof:geomhash":"8a448cfabfb948227c482a5588a54b14",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209206483,
-    "wof:lastmodified":1536294438,
+    "wof:lastmodified":1566608042,
     "wof:name":"Cadaval Grande",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.521930000000001,
+    -8.52193,
     40.06224,
-    -8.521930000000001,
+    -8.52193,
     40.06224
 ],
   "geometry": {"coordinates":[-8.52193,40.06224],"type":"Point"}

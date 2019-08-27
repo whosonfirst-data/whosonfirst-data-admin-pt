@@ -9,14 +9,15 @@
     "geom:bbox":"-9.11590576172,38.707661756,-9.09491943359,38.7305185444",
     "geom:latitude":38.720255,
     "geom:longitude":-9.104216,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:latitude":38.7285,
     "gn:longitude":-9.10996,
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":38.7268,
     "lbl:longitude":-9.111747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.721872,
     "mps:longitude":-9.101916,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:por_x_preferred":[
-        "Xabregas"
-    ],
-    "name:unk_x_variant":[
         "Xabregas"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -82,7 +80,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -90,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2261523,
         "gp:id":751147,
-        "qs:id":1166798,
         "qs_pg:id":1166798
     },
     "wof:country":"PT",
@@ -109,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247557,
+    "wof:lastmodified":1566607562,
     "wof:name":"Xabregas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

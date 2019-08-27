@@ -9,15 +9,18 @@
     "geom:bbox":"-8.45792,38.67706,-8.45792,38.67706",
     "geom:latitude":38.67706,
     "geom:longitude":-8.45792,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":11248,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":11248,
     "iso:country":"PT",
+    "lbl:bbox":"-8.47792,38.65706,-8.43792,38.69706",
     "lbl:latitude":38.67706,
     "lbl:longitude":-8.45792,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u062f\u0627\u0633 \u0646\u0648\u0641\u0627\u0633"
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u0434\u0430\u0448-\u041d\u043e\u0432\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Vendas Novas"
-    ],
     "name:vie_x_preferred":[
         "Vendas Novas"
     ],
@@ -123,7 +123,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":24900151,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":1126018799,
-    "wof:lastmodified":1563253605,
+    "wof:lastmodified":1566608741,
     "wof:name":"Venda Nova",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

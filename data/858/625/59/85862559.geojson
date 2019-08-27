@@ -11,8 +11,10 @@
     "geom:longitude":-9.243294,
     "gn:id":"",
     "iso:country":"PT",
+    "lbl:bbox":"-9.248294,38.707825,-9.238294,38.717825",
     "lbl:latitude":38.712825,
     "lbl:longitude":-9.243294,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.71936,
     "mps:longitude":-9.245996,
     "mz:hierarchy_label":0,
@@ -60,9 +62,6 @@
     "name:swe_x_preferred":[
         "Miraflores"
     ],
-    "name:unk_x_variant":[
-        "Miraflores"
-    ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_id":0,
     "qs:gn_local":8010564,
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101759105,
@@ -101,7 +100,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20105217,
-        "qs:id":338577,
         "qs_pg:id":338577
     },
     "wof:country":"PT",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564219454,
+    "wof:lastmodified":1566607588,
     "wof:name":"Miraflores",
     "wof:parent_id":101759105,
     "wof:placetype":"neighbourhood",

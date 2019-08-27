@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.655822,
     "lbl:longitude":-8.742135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.655822,
     "mps:longitude":-8.742135,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gom_x_preferred":[
         "San Jacinto"
     ],
@@ -35,9 +38,6 @@
         "Sao Jascinto",
         "Sao Jocinto"
     ],
-    "name:unk_x_variant":[
-        "Sao Jascinto"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Aveiro",
     "qs:a1r":"0",
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
@@ -66,7 +66,6 @@
         "fct:id":"02709302-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734499,
         "gp:id":748173,
-        "qs:id":1353349,
         "qs_pg:id":1353349
     },
     "wof:country":"PT",
@@ -83,7 +82,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220958,
+    "wof:lastmodified":1566608425,
     "wof:name":"S\u00e3o Jacinto",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

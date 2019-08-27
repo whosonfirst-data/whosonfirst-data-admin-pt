@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":38.637162,
     "lbl:longitude":-28.023447,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.637162,
     "mps:longitude":-28.023447,
     "mz:hierarchy_label":1,
@@ -63,7 +64,7 @@
     "qs:type":"Ilha",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735
@@ -86,7 +87,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553643113,
+    "wof:lastmodified":1566607579,
     "wof:name":"Ilha de S\u00e3o Jorge",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

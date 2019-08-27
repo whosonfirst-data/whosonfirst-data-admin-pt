@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.763576,
     "lbl:longitude":-9.376673,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.763576,
     "mps:longitude":-9.376673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Linho"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -49,7 +52,6 @@
         "fct:id":"027400be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267060,
         "gp:id":742675,
-        "qs:id":908441,
         "qs_pg:id":908441
     },
     "wof:country":"PT",
@@ -66,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1535390515,
+    "wof:lastmodified":1566608481,
     "wof:name":"Linh\u00f3",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

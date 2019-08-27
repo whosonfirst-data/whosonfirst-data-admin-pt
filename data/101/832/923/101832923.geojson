@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.6688,
     "lbl:longitude":-9.054969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.6688,
     "mps:longitude":-9.054969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lavradio"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -79,7 +82,6 @@
         "fct:id":"02709b4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267112,
         "gp:id":742606,
-        "qs:id":1074870,
         "qs_pg:id":1074870,
         "wd:id":"Q2453716"
     },
@@ -97,7 +99,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252854,
+    "wof:lastmodified":1566608401,
     "wof:name":"Lavradio",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

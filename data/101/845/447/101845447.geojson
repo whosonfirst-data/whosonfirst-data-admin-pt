@@ -9,16 +9,19 @@
     "geom:bbox":"-8.04803017508,41.1517059219,-8.02943594038,41.1649951828",
     "geom:latitude":41.158711,
     "geom:longitude":-8.040271,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.157591,
     "lbl:longitude":-8.042736,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.157591,
     "mps:longitude":-8.042736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Bai\u00e3o"
     ],
@@ -134,7 +137,7 @@
     "qs_pg:woe_id":736791,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191581,
@@ -146,7 +149,6 @@
         "fct:id":"0274dcd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742504,
         "gp:id":736791,
-        "qs:id":1352922,
         "qs_pg:id":1352922,
         "wd:id":"Q804064"
     },
@@ -164,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252814,
+    "wof:lastmodified":1566608385,
     "wof:name":"Bai\u00e3o",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

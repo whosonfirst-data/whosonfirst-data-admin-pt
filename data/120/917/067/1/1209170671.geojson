@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.92899,41.05573,-7.88899,41.09573",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2736588
     },
     "wof:country":"PT",
-    "wof:geomhash":"a121a737103617e53e924c6bed2ca972",
+    "wof:geomhash":"9b4e66a6cd8ba542a4db1f82529b56be",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209170671,
-    "wof:lastmodified":1536295591,
+    "wof:lastmodified":1566608072,
     "wof:name":"Paus",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.908989999999998,
+    -7.90899,
     41.07573,
-    -7.908989999999998,
+    -7.90899,
     41.07573
 ],
   "geometry": {"coordinates":[-7.90899,41.07573],"type":"Point"}

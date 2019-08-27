@@ -9,14 +9,15 @@
     "geom:bbox":"-9.17399828411,38.6605005015,-9.13886474609,38.7140835659",
     "geom:latitude":38.677557,
     "geom:longitude":-9.157307,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"ADM3",
     "gn:latitude":38.71189,
     "gn:longitude":-9.16007,
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":38.712337,
     "lbl:longitude":-9.15992,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.673884,
     "mps:longitude":-9.157741,
     "mz:hierarchy_label":1,
@@ -76,9 +77,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043f\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Lapa"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5e15"
@@ -140,7 +138,6 @@
     "wof:concordances":{
         "gn:id":8012474,
         "gp:id":742546,
-        "qs:id":1051080,
         "qs_pg:id":1051080,
         "wd:id":"Q1631359",
         "wk:page":"Lapa (Lisbon)"
@@ -160,7 +157,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607563,
     "wof:name":"Lapa",
     "wof:parent_id":101832853,
     "wof:placetype":"neighbourhood",

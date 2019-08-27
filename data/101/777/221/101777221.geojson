@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.325234,
     "lbl:longitude":-7.689904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.325234,
     "mps:longitude":-7.689904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Loriga"
     ],
@@ -61,9 +64,6 @@
     "name:tur_x_preferred":[
         "Loriga"
     ],
-    "name:unk_x_variant":[
-        "Loriga"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Guarda",
     "qs:a1r":"0",
@@ -78,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.316667,
     "wd:longitude":-7.683333,
     "wd:wordcount":1135,
@@ -92,7 +92,7 @@
         "fct:id":"02699b7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738210,
         "gp:id":742776,
-        "qs:id":1081268,
+        "qs_pg:id":1081268,
         "wd:id":"Q734336",
         "wk:page":"Loriga"
     },
@@ -110,7 +110,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252954,
+    "wof:lastmodified":1566608439,
     "wof:name":"Louriga",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

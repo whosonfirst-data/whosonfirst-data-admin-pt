@@ -25,8 +25,12 @@
     "gn:population":1155,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.06916,39.34886,-9.02916,39.38886",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Vidais"
     ],
@@ -55,8 +59,7 @@
         "Vidais"
     ],
     "name:und_x_variant":[
-        "Vidaes",
-        "Vidais"
+        "Vidaes"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1242757299,
-    "wof:lastmodified":1564221567,
+    "wof:lastmodified":1566608829,
     "wof:name":"Vidais",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

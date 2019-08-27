@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.170647,
     "lbl:longitude":-8.390592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.170647,
     "mps:longitude":-8.390592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ceira"
     ],
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.166667,
     "wd:longitude":-8.4,
     "wd:wordcount":29,
@@ -86,7 +89,7 @@
         "fct:id":"02671e6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740907,
         "gp:id":739264,
-        "qs:id":936936,
+        "qs_pg:id":936936,
         "wd:id":"Q1026336",
         "wk:page":"Ceira"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253025,
+    "wof:lastmodified":1566608462,
     "wof:name":"Ceira",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

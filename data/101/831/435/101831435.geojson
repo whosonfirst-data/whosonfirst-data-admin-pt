@@ -9,17 +9,19 @@
     "geom:bbox":"-8.44095434313,41.3541382153,-8.39155593545,41.3938681586",
     "geom:latitude":41.369747,
     "geom:longitude":-8.414356,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8507,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":8507,
     "iso:country":"PT",
     "lbl:latitude":41.363343,
     "lbl:longitude":-8.408696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.363343,
     "mps:longitude":-8.408696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Aves"
     ],
@@ -112,7 +114,7 @@
     "qs_pg:woe_id":736670,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -124,7 +126,6 @@
         "fct:id":"027063dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742577,
         "gp:id":736670,
-        "qs:id":206181,
         "qs_pg:id":206181,
         "wd:id":"Q1751766"
     },
@@ -142,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253143,
+    "wof:lastmodified":1566608513,
     "wof:name":"Aves",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

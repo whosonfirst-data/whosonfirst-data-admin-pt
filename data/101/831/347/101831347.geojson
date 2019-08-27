@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.678256,
     "lbl:longitude":-7.919783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.678256,
     "mps:longitude":-7.919783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Abraveses"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":564,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"0274d656-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743428,
         "gp:id":735307,
-        "qs:id":211961,
         "qs_pg:id":211961,
         "wd:id":"Q168332",
         "wk:page":"Abraveses"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253130,
+    "wof:lastmodified":1566608508,
     "wof:name":"Abraveses",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

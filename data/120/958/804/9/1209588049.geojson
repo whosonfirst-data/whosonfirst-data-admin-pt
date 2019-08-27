@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.66541,39.08673,-7.62541,39.12673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2265949
     },
     "wof:country":"PT",
-    "wof:geomhash":"a161f7fb07497f9737029db6b29f9773",
+    "wof:geomhash":"e10511f868c1a2c7016d81c093139b36",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209588049,
-    "wof:lastmodified":1536282568,
+    "wof:lastmodified":1566608023,
     "wof:name":"Monte dos Ladroes",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.645410000000001,
+    -7.64541,
     39.10673,
-    -7.645410000000001,
+    -7.64541,
     39.10673
 ],
   "geometry": {"coordinates":[-7.64541,39.10673],"type":"Point"}

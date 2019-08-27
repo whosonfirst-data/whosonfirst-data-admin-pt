@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.100579,
     "lbl:longitude":-8.126641,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.100579,
     "mps:longitude":-8.126641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u0430\u043c\u043e\u0443\u0440\u0430"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.07778,
     "wd:longitude":-8.11528,
@@ -87,7 +90,6 @@
         "fct:id":"0273f4ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6545006,
         "gp:id":24875672,
-        "qs:id":25375,
         "qs_pg:id":25375,
         "wd:id":"Q2683168",
         "wk:page":"Vilamoura"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252845,
+    "wof:lastmodified":1566608396,
     "wof:name":"Vilamoura",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

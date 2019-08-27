@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
+    "geom:area_square_m":936615.278566,
     "geom:bbox":"-9.40780085871,38.7152977044,-9.39411188348,38.7257490896",
     "geom:latitude":38.720125,
     "geom:longitude":-9.401439,
     "iso:country":"PT",
     "lbl:latitude":38.720587,
     "lbl:longitude":-9.40157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.720587,
     "mps:longitude":-9.40157,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":740758,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"dd824e41272b90677b4a82c79637ef23",
+    "wof:geomhash":"d71ced7475691b3dfcda34a5ebaa0cec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759009,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608469,
     "wof:name":"Bairro de Santo Ant\u00f3nio",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

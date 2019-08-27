@@ -9,16 +9,19 @@
     "geom:bbox":"-8.73207548267,39.5303900716,-8.6941842797,39.548301319",
     "geom:latitude":39.541394,
     "geom:longitude":-8.711508,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.540952,
     "lbl:longitude":-8.709929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.540952,
     "mps:longitude":-8.709929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mira de Aire"
     ],
@@ -83,7 +86,7 @@
     "qs_pg:woe_id":743549,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.545278,
     "wd:longitude":-8.711944,
     "wd:wordcount":99,
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":8014492,
         "gp:id":743549,
-        "qs:id":232611,
         "qs_pg:id":232611,
         "wd:id":"Q1937924"
     },
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":101777149,
-    "wof:lastmodified":1561828731,
+    "wof:lastmodified":1566608449,
     "wof:name":"Mira de Aire",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

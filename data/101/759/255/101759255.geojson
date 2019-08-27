@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000306,
+    "geom:area_square_m":2853425.132519,
     "geom:bbox":"-8.52628658139,40.9447251282,-8.49602637803,40.9752433955",
     "geom:latitude":40.962459,
     "geom:longitude":-8.514064,
     "iso:country":"PT",
     "lbl:latitude":40.96272,
     "lbl:longitude":-8.518891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.96272,
     "mps:longitude":-8.518891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Caldas de S\u00e3o Jorge"
     ],
@@ -57,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.966667,
     "wd:longitude":-8.5,
     "wd:wordcount":100,
@@ -71,7 +75,6 @@
         "fct:id":"0270ac98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741740,
         "gp:id":737894,
-        "qs:id":188112,
         "qs_pg:id":188112,
         "wd:id":"Q4209226",
         "wk:page":"Caldas de S\u00e3o Jorge"
@@ -90,7 +93,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527714685,
+    "wof:lastmodified":1566608485,
     "wof:name":"Caldas de S\u00e3o Jorge",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

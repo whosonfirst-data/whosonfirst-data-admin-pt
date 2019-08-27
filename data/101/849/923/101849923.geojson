@@ -10,12 +10,16 @@
     "geom:latitude":38.96801,
     "geom:longitude":-8.595945,
     "iso:country":"PT",
+    "lbl:bbox":"-8.615945,38.94801,-8.575945,38.98801",
     "lbl:latitude":38.96801,
     "lbl:longitude":-8.595945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.96801,
     "mps:longitude":-8.595945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Fajarda"
     ],
@@ -62,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -71,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23412972,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1393623"
     },
     "wof:country":"PT",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101849923,
-    "wof:lastmodified":1563253099,
+    "wof:lastmodified":1566608496,
     "wof:name":"Fajarda",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.626965,
     "lbl:longitude":-8.563325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.626965,
     "mps:longitude":-8.563325,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Eirol"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -89,10 +92,12 @@
         "fct:id":"026bcde0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740034,
         "gp:id":740475,
-        "qs:id":1203441,
         "qs_pg:id":987699,
         "wd:id":"Q2257537",
         "wk:page":"Eixo e Eirol"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1203441
     },
     "wof:country":"PT",
     "wof:geomhash":"83b015a956da78259c8a4b9148369f18",
@@ -108,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252941,
+    "wof:lastmodified":1566608433,
     "wof:name":"Eixo",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

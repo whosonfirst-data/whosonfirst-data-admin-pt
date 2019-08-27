@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
+    "geom:area_square_m":298733.736677,
     "geom:bbox":"-8.67570529138,41.1968217194,-8.66609557644,41.2043257224",
     "geom:latitude":41.200227,
     "geom:longitude":-8.670901,
     "iso:country":"PT",
     "lbl:latitude":41.199819,
     "lbl:longitude":-8.670901,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.199819,
     "mps:longitude":-8.670901,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":742721,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
-    "wof:geomhash":"b8741ff3119de9e8623bf397db852785",
+    "wof:geomhash":"fe08ec19aec960817185aa8f10384593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759313,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608474,
     "wof:name":"Monte Xisto",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

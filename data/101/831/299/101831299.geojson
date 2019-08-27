@@ -9,17 +9,19 @@
     "geom:bbox":"-8.64625612604,39.906356802,-8.58924272619,39.9453995648",
     "geom:latitude":39.922692,
     "geom:longitude":-8.621494,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":17355,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":17355,
     "iso:country":"PT",
     "lbl:latitude":39.918797,
     "lbl:longitude":-8.633167,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.918797,
     "mps:longitude":-8.633167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0628\u0627\u0644"
     ],
@@ -150,7 +152,7 @@
     "qs_pg:woe_id":745992,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -162,7 +164,6 @@
         "fct:id":"02686542-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264575,
         "gp:id":745992,
-        "qs:id":1353267,
         "qs_pg:id":1353267,
         "wd:id":"Q966825"
     },
@@ -180,7 +181,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253145,
+    "wof:lastmodified":1566608514,
     "wof:name":"Pombal",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

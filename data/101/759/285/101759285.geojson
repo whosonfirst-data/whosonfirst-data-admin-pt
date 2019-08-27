@@ -9,17 +9,19 @@
     "geom:bbox":"-8.53526375684,41.1782039739,-8.478374735,41.1990542697",
     "geom:latitude":41.189486,
     "geom:longitude":-8.504967,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":21328,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":21328,
     "iso:country":"PT",
     "lbl:latitude":41.191033,
     "lbl:longitude":-8.500667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.191033,
     "mps:longitude":-8.500667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0648\u0646\u063a\u0648"
     ],
@@ -98,9 +100,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u043e\u043d\u0433\u0443"
     ],
-    "name:unk_x_variant":[
-        "Valonga"
-    ],
     "name:vie_x_preferred":[
         "Valongo"
     ],
@@ -152,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -165,13 +164,12 @@
         "fct:id":"0275144a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732980,
         "gp:id":750253,
-        "qs:id":141249,
-        "qs_pg:id":575791,
+        "qs_pg:id":141249,
         "wd:id":"Q604262"
     },
     "wof:concordances_alt":{
         "gn:id":2732978,
-        "qs_pg:id":141249
+        "qs_pg:id":575791
     },
     "wof:country":"PT",
     "wof:geomhash":"f09889aac12234adf5579faefe4d865d",
@@ -187,7 +185,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253070,
+    "wof:lastmodified":1566608481,
     "wof:name":"Valongo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

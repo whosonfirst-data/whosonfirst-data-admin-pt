@@ -10,12 +10,16 @@
     "geom:latitude":38.679901,
     "geom:longitude":-28.205342,
     "iso:country":"PT",
+    "lbl:bbox":"-28.225342,38.659901,-28.185342,38.699901",
     "lbl:latitude":38.679901,
     "lbl:longitude":-28.205342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.679901,
     "mps:longitude":-28.205342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Velas"
     ],
@@ -77,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Vellas"
-    ],
     "name:vie_x_preferred":[
         "Velas"
     ],
@@ -112,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1997,
     "wof:belongsto":[
         102191581,
@@ -124,7 +125,6 @@
         "fct:id":"026523fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372485,
         "gp:id":538436,
-        "qs:id":1072148,
         "qs_pg:id":1072148,
         "wd:id":"Q1010468"
     },
@@ -142,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252838,
+    "wof:lastmodified":1566608393,
     "wof:name":"Velas",
     "wof:parent_id":85687451,
     "wof:placetype":"locality",

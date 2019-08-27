@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.695819,
     "lbl:longitude":-9.423623,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.695819,
     "mps:longitude":-9.423623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0634\u0643\u0627\u064a\u0634"
     ],
@@ -161,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u043a\u0430\u0439\u0448"
     ],
-    "name:unk_x_variant":[
-        "Cascaes"
-    ],
     "name:vie_x_preferred":[
         "Cascais"
     ],
@@ -195,7 +195,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.696944,
     "wd:longitude":-9.420556,
@@ -214,7 +214,6 @@
         "gp:id":739040,
         "loc:id":"n79010552",
         "nyt:id":"N51255244280287484301",
-        "qs:id":796738,
         "qs_pg:id":796738,
         "wd:id":"Q273059",
         "wk:page":"Cascais"
@@ -233,7 +232,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253007,
+    "wof:lastmodified":1566608454,
     "wof:name":"Cascais",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

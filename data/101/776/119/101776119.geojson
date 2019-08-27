@@ -9,16 +9,19 @@
     "geom:bbox":"-8.44533020035,39.9081193761,-8.43100077901,39.9184055849",
     "geom:latitude":39.913653,
     "geom:longitude":-8.438776,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.915528,
     "lbl:longitude":-8.441164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.915528,
     "mps:longitude":-8.441164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ansi\u00e3o"
     ],
@@ -128,7 +131,7 @@
     "qs_pg:woe_id":736198,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.916667,
     "wd:longitude":-8.433333,
     "wd:wordcount":96,
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":8012327,
         "gp:id":736198,
-        "qs:id":1144306,
         "qs_pg:id":1144306,
         "wd:id":"Q569929"
     },
@@ -156,7 +158,7 @@
         }
     ],
     "wof:id":101776119,
-    "wof:lastmodified":1563252925,
+    "wof:lastmodified":1566608428,
     "wof:name":"Ansi\u00e3o",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

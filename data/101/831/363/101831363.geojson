@@ -9,14 +9,17 @@
     "geom:bbox":"-8.61612145344,40.8708317102,-8.59478241272,40.8835410624",
     "geom:latitude":40.876291,
     "geom:longitude":-8.605231,
-    "geonames:id":"2733928,2733929",
+    "gn:id":"2733928,2733929",
     "iso:country":"PT",
     "lbl:latitude":40.877153,
     "lbl:longitude":-8.606282,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.877153,
     "mps:longitude":-8.606282,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09be\u09b2"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gn:id":2733928,
         "gp:id":748916,
-        "qs:id":388972
+        "qs_pg:id":388972
     },
     "wof:country":"PT",
     "wof:geomhash":"c50ede59271f0f4c53eac5d5015713dc",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101831363,
-    "wof:lastmodified":1564221020,
+    "wof:lastmodified":1566608503,
     "wof:name":"Sobral",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

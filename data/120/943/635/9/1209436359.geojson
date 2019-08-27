@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.66314,40.05335,-8.62314,40.09335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741083
     },
     "wof:country":"PT",
-    "wof:geomhash":"b3bd17a81106fd39d6dd2ca722a16156",
+    "wof:geomhash":"15cb233e69969c87f8319f6931230d84",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209436359,
-    "wof:lastmodified":1536287092,
+    "wof:lastmodified":1566608080,
     "wof:name":"Casa Velha",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.643139999999999,
+    -8.64314,
     40.07335,
-    -8.643139999999999,
+    -8.64314,
     40.07335
 ],
   "geometry": {"coordinates":[-8.64314,40.07335],"type":"Point"}

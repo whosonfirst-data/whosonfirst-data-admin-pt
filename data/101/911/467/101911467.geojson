@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":369768.651573,
+    "geom:area_square_m":369768.651572,
     "geom:bbox":"-8.7558289319,38.4059840478,-8.7480323844,38.4145431068",
     "geom:latitude":38.410157,
     "geom:longitude":-8.751773,
@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":33.24228,
     "lbl:longitude":-86.842364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":33.23265,
     "mps:longitude":-86.889763,
     "mz:hierarchy_label":1,
@@ -39,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"zetashapes",
     "wof:belongsto":[
         102191581,
@@ -50,7 +52,9 @@
     "wof:concordances":{
         "gn:id":4088912,
         "gp:id":24900036,
-        "qs:id":891546,
+        "qs_pg:id":891546
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1192126
     },
     "wof:country":"PT",
@@ -67,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338653,
+    "wof:lastmodified":1566608517,
     "wof:name":"Moitinha",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

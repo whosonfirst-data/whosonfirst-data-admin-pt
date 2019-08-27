@@ -9,17 +9,19 @@
     "geom:bbox":"-9.13966411592,39.496317876,-9.12209868895,39.521777476",
     "geom:latitude":39.509702,
     "geom:longitude":-9.13139,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":2868,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.510247,
     "lbl:longitude":-9.131989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.510247,
     "mps:longitude":-9.131989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "S\u00e3o Martinho do Porto"
     ],
@@ -62,9 +64,6 @@
     "name:spa_x_preferred":[
         "S\u00e3o Martinho do Porto"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Martinho"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Leiria",
     "qs:a1r":"0",
@@ -99,7 +98,7 @@
     "qs_pg:woe_id":748291,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -112,7 +111,6 @@
         "fct:id":"02689dfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263275,
         "gp:id":748291,
-        "qs:id":110364,
         "qs_pg:id":110364,
         "wd:id":"Q2035277",
         "wk:page":"S\u00e3o Martinho do Porto"
@@ -131,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828729,
+    "wof:lastmodified":1566608437,
     "wof:name":"S\u00e3o Martinho do Porto",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

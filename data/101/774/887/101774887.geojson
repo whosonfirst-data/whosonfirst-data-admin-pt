@@ -9,16 +9,19 @@
     "geom:bbox":"-7.14925306658,41.0780977885,-7.13321679386,41.087364164",
     "geom:latitude":41.082492,
     "geom:longitude":-7.141386,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.083118,
     "lbl:longitude":-7.140839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.083118,
     "mps:longitude":-7.140839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u0648\u0641\u0627 \u062f\u064a\u0641\u0648\u0632\u0643\u0648\u0627"
     ],
@@ -82,7 +85,7 @@
     "name:tur_x_preferred":[
         "Vila Nova de Foz C\u00f4a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Nova de Fosc\u00f4a"
     ],
     "name:vie_x_preferred":[
@@ -131,7 +134,7 @@
     "qs_pg:woe_id":750797,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.083333,
     "wd:longitude":-7.133333,
     "wd:wordcount":211,
@@ -144,12 +147,12 @@
     "wof:concordances":{
         "gn:id":2732546,
         "gp:id":750797,
-        "qs:id":8,
-        "qs_pg:id":179302,
+        "qs_pg:id":8,
         "wd:id":"Q537471"
     },
     "wof:concordances_alt":{
-        "gn:id":8014728
+        "gn:id":8014728,
+        "qs_pg:id":179302
     },
     "wof:country":"PT",
     "wof:geomhash":"333112ec0964c73d022bcee691df4fc0",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101774887,
-    "wof:lastmodified":1561828741,
+    "wof:lastmodified":1566608526,
     "wof:name":"Vila Nova de Foz C\u00f4a",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

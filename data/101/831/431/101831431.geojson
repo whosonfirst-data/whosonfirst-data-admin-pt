@@ -9,16 +9,19 @@
     "geom:bbox":"-8.73022420148,41.3079782051,-8.6938142823,41.3296748935",
     "geom:latitude":41.31966,
     "geom:longitude":-8.712325,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.314003,
     "lbl:longitude":-8.715084,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.314003,
     "mps:longitude":-8.715084,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mindelo"
     ],
@@ -87,7 +90,7 @@
     "qs_pg:woe_id":743540,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -98,7 +101,6 @@
         "fct:id":"026cf404-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737662,
         "gp:id":743540,
-        "qs:id":251116,
         "qs_pg:id":251116,
         "wd:id":"Q1936406",
         "wk:page":"Mindelo (Vila do Conde)"
@@ -117,7 +119,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253125,
+    "wof:lastmodified":1566608506,
     "wof:name":"Mindelo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

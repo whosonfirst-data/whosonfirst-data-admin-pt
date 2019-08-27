@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.536101,
     "lbl:longitude":-8.161075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.536101,
     "mps:longitude":-8.161075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sardoal"
     ],
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.533333,
     "wd:longitude":-8.166667,
     "wd:wordcount":90,
@@ -106,7 +109,6 @@
         "fct:id":"026be780-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263172,
         "gp:id":748471,
-        "qs:id":1036712,
         "qs_pg:id":1036712,
         "wd:id":"Q635165"
     },
@@ -124,7 +126,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252912,
+    "wof:lastmodified":1566608424,
     "wof:name":"Sardoal",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

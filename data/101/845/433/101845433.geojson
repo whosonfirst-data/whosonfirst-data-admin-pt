@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":389556.160866,
     "geom:bbox":"-8.7534156869,40.6077529983,-8.74748383809,40.6208717326",
     "geom:latitude":40.613685,
     "geom:longitude":-8.750076,
     "iso:country":"PT",
     "lbl:latitude":40.614567,
     "lbl:longitude":-8.750121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.614567,
     "mps:longitude":-8.750121,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Costa Nova do Prado"
     ],
     "name:por_x_variant":[
-        "Costa Nova"
-    ],
-    "name:unk_x_variant":[
         "Costa Nova"
     ],
     "qs:a0":"Portugal",
@@ -39,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,7 +52,6 @@
         "fct:id":"026ab7c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740434,
         "gp:id":739975,
-        "qs:id":1168190,
         "qs_pg:id":1168190
     },
     "wof:country":"PT",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497292111,
+    "wof:lastmodified":1566608389,
     "wof:name":"Costa Nova do Prado",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

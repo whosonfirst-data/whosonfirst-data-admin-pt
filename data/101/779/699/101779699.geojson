@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.937165,
     "lbl:longitude":-8.391933,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.937165,
     "mps:longitude":-8.391933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alvalade"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
         "fct:id":"0269b01e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271812,
         "gp:id":736019,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
     "wof:geomhash":"1ef7f6077cb3aae17e36fe613cb7d14c",
@@ -76,7 +79,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220975,
+    "wof:lastmodified":1566608453,
     "wof:name":"Alvalade",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

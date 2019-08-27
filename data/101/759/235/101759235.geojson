@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.006837,
     "lbl:longitude":-8.57037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.006837,
     "mps:longitude":-8.57037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mozelos"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -91,9 +94,11 @@
     "wof:concordances":{
         "gn:id":8010791,
         "gp:id":744298,
-        "qs:id":2,
-        "qs_pg:id":1158760,
+        "qs_pg:id":2,
         "wd:id":"Q278925"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1158760
     },
     "wof:country":"PT",
     "wof:geomhash":"1b0d40a95cffad2984fd7f953ea92438",
@@ -106,7 +111,7 @@
         }
     ],
     "wof:id":101759235,
-    "wof:lastmodified":1563253043,
+    "wof:lastmodified":1566608469,
     "wof:name":"Mozelos",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

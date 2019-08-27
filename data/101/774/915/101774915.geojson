@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.722066,
     "lbl:longitude":-8.107865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.722066,
     "mps:longitude":-8.107865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vouzela"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.7,
     "wd:longitude":-8.116667,
     "wd:wordcount":114,
@@ -112,7 +115,6 @@
         "fct:id":"027514b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732233,
         "gp:id":751144,
-        "qs:id":315292,
         "qs_pg:id":315292,
         "wd:id":"Q1012714"
     },
@@ -130,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253188,
+    "wof:lastmodified":1566608527,
     "wof:name":"Vouzela",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

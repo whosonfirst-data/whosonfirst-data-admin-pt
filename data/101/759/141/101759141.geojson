@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
-    "geom:area_square_m":633457.089879,
+    "geom:area_square_m":633457.089878,
     "geom:bbox":"-9.13428844516,38.8230869565,-9.11999098106,38.8361258817",
     "geom:latitude":38.830367,
     "geom:longitude":-9.125808,
@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.831835,
     "lbl:longitude":-9.1257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.831835,
     "mps:longitude":-9.1257,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:por_x_preferred":[
         "Unhos",
         "Uni\u00e3o das Freguesias de Camarate"
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +52,6 @@
         "fct:id":"0270c8f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262465,
         "gp:id":749680,
-        "qs:id":937316,
         "qs_pg:id":937316
     },
     "wof:country":"PT",
@@ -66,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1505337767,
+    "wof:lastmodified":1566608487,
     "wof:name":"Unhos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

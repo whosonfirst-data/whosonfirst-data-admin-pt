@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.021428,
     "lbl:longitude":-8.566491,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.021428,
     "mps:longitude":-8.566491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chamusca"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.35,
     "wd:longitude":-8.483333,
     "wd:wordcount":96,
@@ -103,7 +106,7 @@
     "wof:concordances":{
         "gn:id":2740800,
         "gp:id":742817,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
     "wof:geomhash":"f382d5eb390ae4a2903e5f31ad6af67f",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101760569,
-    "wof:lastmodified":1564220981,
+    "wof:lastmodified":1566608461,
     "wof:name":"Chamusca",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

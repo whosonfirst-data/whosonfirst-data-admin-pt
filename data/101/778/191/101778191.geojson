@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
+    "geom:area_square_m":739548.361767,
     "geom:bbox":"-8.16573128183,38.3870658151,-8.1413472639,38.3975418495",
     "geom:latitude":38.391955,
     "geom:longitude":-8.153078,
     "iso:country":"PT",
     "lbl:latitude":38.393974,
     "lbl:longitude":-8.155294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.393974,
     "mps:longitude":-8.155294,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tractat d'Alca\u00e7ovas"
     ],
@@ -62,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -73,10 +78,10 @@
         "fct:id":"0270eed8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272211,
         "gp:id":735568,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"ec602bfe78335234ffc34376d9b2791e",
+    "wof:geomhash":"8e761bb83b3355f9648c8208d5c5dcb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467244868,
+    "wof:lastmodified":1566608414,
     "wof:name":"Alc\u00e1\u00e7ovas",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

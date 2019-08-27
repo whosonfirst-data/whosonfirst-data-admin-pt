@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":2317729.9378,
+    "geom:area_square_m":2317729.937799,
     "geom:bbox":"-16.998996638,32.6715009055,-16.9841334089,32.6896519079",
     "geom:latitude":32.680622,
     "geom:longitude":-16.991047,
     "iso:country":"PT",
     "lbl:latitude":32.680577,
     "lbl:longitude":-16.991649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.680577,
     "mps:longitude":-16.991649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Foru"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55868141,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
     "wof:geomhash":"455a953e339df8d51fdde80de17fdb4e",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101877175,
-    "wof:lastmodified":1527714777,
+    "wof:lastmodified":1566608491,
     "wof:name":"Foro",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

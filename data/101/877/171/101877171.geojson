@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
+    "geom:area_square_m":1727557.99508,
     "geom:bbox":"-16.8628953544,32.6703126588,-16.8447425986,32.6855342727",
     "geom:latitude":32.677975,
     "geom:longitude":-16.853663,
     "iso:country":"PT",
     "lbl:latitude":32.677606,
     "lbl:longitude":-16.853663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.677606,
     "mps:longitude":-16.853663,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Louri\u00e7al"
     ],
@@ -48,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,10 +62,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":747307,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"45c7abb98117065fcee9e5eb1d5f2311",
+    "wof:geomhash":"14bcbf3634b37c50f979050ff91bcde3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":101877171,
-    "wof:lastmodified":1477508675,
+    "wof:lastmodified":1566608493,
     "wof:name":"Casais de Al\u00e9m",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

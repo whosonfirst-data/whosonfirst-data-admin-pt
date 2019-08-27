@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.747538,
     "lbl:longitude":-7.734128,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.747538,
     "mps:longitude":-7.734128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "S\u00e1t\u00e3o"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Satam"
-    ],
     "name:vie_x_preferred":[
         "S\u00e1t\u00e3o"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.733333,
     "wd:longitude":-7.716667,
@@ -128,7 +128,6 @@
         "fct:id":"027268ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734246,
         "gp:id":748513,
-        "qs:id":325135,
         "qs_pg:id":325135,
         "wd:id":"Q923784"
     },
@@ -146,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253199,
+    "wof:lastmodified":1566608529,
     "wof:name":"S\u00e1t\u00e3o",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

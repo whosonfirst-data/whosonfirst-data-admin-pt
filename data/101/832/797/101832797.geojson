@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.654378,
     "lbl:longitude":-8.990021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.654378,
     "mps:longitude":-8.990021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Moita"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.65,
     "wd:longitude":-8.983333,
@@ -129,7 +132,6 @@
         "fct:id":"02717f92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266319,
         "gp:id":743649,
-        "qs:id":458272,
         "qs_pg:id":458272,
         "wd:id":"Q933912"
     },
@@ -147,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252841,
+    "wof:lastmodified":1566608394,
     "wof:name":"Moita",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

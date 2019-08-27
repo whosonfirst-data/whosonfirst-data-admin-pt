@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.113011,
     "lbl:longitude":-8.49641,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.113011,
     "mps:longitude":-8.49641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Condeixa-a-Nova"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0435\u0439\u0448\u0430-\u0430-\u041d\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Condeixa"
-    ],
     "name:vie_x_preferred":[
         "Condeixa-a-Nova"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.116667,
     "wd:longitude":-8.5,
@@ -139,7 +139,6 @@
         "fct:id":"02739246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740593,
         "gp:id":739738,
-        "qs:id":986441,
         "qs_pg:id":986441,
         "wd:id":"Q138830"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252903,
+    "wof:lastmodified":1566608421,
     "wof:name":"Condeixa-a-Nova",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

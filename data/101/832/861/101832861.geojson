@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
+    "geom:area_square_m":1480657.506182,
     "geom:bbox":"-9.14970014541,38.6195838823,-9.13046870238,38.6362317924",
     "geom:latitude":38.628905,
     "geom:longitude":-9.142018,
     "iso:country":"PT",
     "lbl:latitude":38.6299,
     "lbl:longitude":-9.144561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.6299,
     "mps:longitude":-9.144561,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29381440,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"5223edf88868d81b2b0bf6bc7dfa1ad2",
+    "wof:geomhash":"19c96dffbebb9ed67dd0ad1437bb621d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832861,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608398,
     "wof:name":"Quinta da Princesa",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

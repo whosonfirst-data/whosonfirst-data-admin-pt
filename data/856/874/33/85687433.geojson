@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":41.903401,
     "lbl:longitude":-8.513069,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.903401,
     "mps:longitude":-8.513069,
     "mz:hierarchy_label":1,
@@ -154,7 +155,7 @@
         "Viana do Castelo"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0baf\u0bbe\u0ba9 \u0b9f\u0bc2  \u0b95\u0bbe\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb5\u0bbf\u0baf\u0bbe\u0ba9 \u0b9f\u0bc2 \u0b95\u0bbe\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bcd\u0bb2\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c2f\u0c3e\u0c28\u0c3e \u0c21\u0c42 \u0c15\u0c3e\u0c38\u0c4d\u0c1f\u0c46\u0c32\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -167,9 +168,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0430\u043d\u0430-\u0434\u0443-\u041a\u0430\u0448\u0442\u0435\u043b\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Distrito de Viana do Castelo"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0627\u0646\u0627 \u062f\u0648 \u06a9\u0627\u0634\u062a\u06cc\u0644\u0648 \u0636\u0644\u0639"
@@ -256,9 +254,9 @@
     "qs:type":"Distrito",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-21",
+    "src:population_date":"2011-03-21",
     "statoids:area_km":"2,219",
     "statoids:area_mi":"857",
     "statoids:as_of_date":"2011-03-21",
@@ -302,11 +300,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563251304,
+    "wof:lastmodified":1566607580,
     "wof:name":"Viana do Castelo",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":244836,
     "wof:population_rank":10,

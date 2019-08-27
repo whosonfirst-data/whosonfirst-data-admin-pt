@@ -9,17 +9,20 @@
     "geom:bbox":"-8.3089,41.38212,-8.3089,41.38212",
     "geom:latitude":41.38212,
     "geom:longitude":-8.3089,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10239,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":10239,
     "iso:country":"PT",
+    "lbl:bbox":"-8.3289,41.36212,-8.2889,41.40212",
     "lbl:latitude":41.38212,
     "lbl:longitude":-8.3089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Miguel"
     ],
     "qs_pg:aaroncc":"PT",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1037678,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125919419,
-    "wof:lastmodified":1509400722,
+    "wof:lastmodified":1566608723,
     "wof:name":"Caldas de Vizela",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

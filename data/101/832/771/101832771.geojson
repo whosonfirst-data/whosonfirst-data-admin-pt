@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
+    "geom:area_square_m":2565709.358565,
     "geom:bbox":"-8.5655689721,37.1175868201,-8.53645075466,37.1352509118",
     "geom:latitude":37.124604,
     "geom:longitude":-8.549539,
     "iso:country":"PT",
     "lbl:latitude":37.125175,
     "lbl:longitude":-8.546188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.125175,
     "mps:longitude":-8.546188,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29383985,
-        "qs:id":469228,
         "qs_pg:id":469228
     },
     "wof:country":"PT",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101832771,
-    "wof:lastmodified":1497290675,
+    "wof:lastmodified":1566608401,
     "wof:name":"Vale de Fran\u00e7a",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

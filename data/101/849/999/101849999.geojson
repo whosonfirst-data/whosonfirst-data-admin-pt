@@ -10,12 +10,16 @@
     "geom:latitude":38.692395,
     "geom:longitude":-27.085148,
     "iso:country":"PT",
+    "lbl:bbox":"-27.105148,38.672395,-27.065148,38.712395",
     "lbl:latitude":38.692395,
     "lbl:longitude":-27.085148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.692395,
     "mps:longitude":-27.085148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fonte do Bastardo"
     ],
@@ -35,9 +39,6 @@
     "name:tur_x_preferred":[
         "Fonte do Bastardo"
     ],
-    "name:unk_x_variant":[
-        "Fonte do Bustardo"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -54,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -66,7 +67,7 @@
         "fct:id":"02650168-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3373051,
         "gp:id":538069,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2451889",
         "wk:page":"Fonte do Bastardo"
     },
@@ -84,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544741215,
+    "wof:lastmodified":1566608494,
     "wof:name":"Fonte do Bastardo",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

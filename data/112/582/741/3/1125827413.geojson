@@ -9,15 +9,18 @@
     "geom:bbox":"-8.61099,41.14961,-8.61099,41.14961",
     "geom:latitude":41.14961,
     "geom:longitude":-8.61099,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":249633,
+    "gn:country":"PT",
+    "gn:fcode":"PPLA",
     "gn:population":249633,
     "iso:country":"PT",
+    "lbl:bbox":"-8.63099,41.12961,-8.59099,41.16961",
     "lbl:latitude":41.14961,
     "lbl:longitude":-8.61099,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Porto"
@@ -313,9 +316,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Oporto"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679\u0648"
     ],
@@ -358,7 +358,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":746203,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
@@ -387,7 +387,7 @@
         }
     ],
     "wof:id":1125827413,
-    "wof:lastmodified":1564221439,
+    "wof:lastmodified":1566608755,
     "wof:name":"Porto",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

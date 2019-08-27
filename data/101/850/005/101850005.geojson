@@ -10,12 +10,16 @@
     "geom:latitude":38.649856,
     "geom:longitude":-27.12157,
     "iso:country":"PT",
+    "lbl:bbox":"-27.14157,38.629856,-27.10157,38.669856",
     "lbl:latitude":38.649856,
     "lbl:longitude":-27.12157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.649856,
     "mps:longitude":-27.12157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Porto Judeu"
     ],
@@ -50,9 +54,6 @@
     "name:spa_x_preferred":[
         "Porto Judeu"
     ],
-    "name:unk_x_variant":[
-        "Port Judea"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,6 @@
         "fct:id":"02650fb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372770,
         "gp:id":538226,
-        "qs:id":1218817,
         "qs_pg:id":1218817,
         "wd:id":"Q1999450",
         "wk:page":"Porto Judeu"
@@ -101,7 +101,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252840,
+    "wof:lastmodified":1566608394,
     "wof:name":"Porto Judeu",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

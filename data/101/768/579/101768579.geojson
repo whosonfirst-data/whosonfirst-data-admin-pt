@@ -9,16 +9,19 @@
     "geom:bbox":"-7.27532396973,40.9598212788,-7.2520343553,40.9744827903",
     "geom:latitude":40.96548,
     "geom:longitude":-7.262482,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":40.964084,
     "lbl:longitude":-7.259394,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.964084,
     "mps:longitude":-7.259394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0627"
     ],
@@ -85,9 +88,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0430"
     ],
-    "name:unk_x_variant":[
-        "M\u00eada"
-    ],
     "name:vie_x_preferred":[
         "M\u00eada"
     ],
@@ -134,7 +134,7 @@
     "qs_pg:woe_id":743373,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -145,7 +145,6 @@
         "fct:id":"02758466-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737798,
         "gp:id":743373,
-        "qs:id":1158424,
         "qs_pg:id":1158424,
         "wd:id":"Q990335"
     },
@@ -163,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253025,
+    "wof:lastmodified":1566608462,
     "wof:name":"Meda",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

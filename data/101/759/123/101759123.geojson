@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
+    "geom:area_square_m":405481.11691,
     "geom:bbox":"-9.12681055353,38.7989829202,-9.11904356442,38.8074360771",
     "geom:latitude":38.803618,
     "geom:longitude":-9.123128,
     "iso:country":"PT",
     "lbl:latitude":38.803773,
     "lbl:longitude":-9.123202,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.803773,
     "mps:longitude":-9.123202,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56069193,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"3344ff6ce9942db1fdc58ced9b0cfbd4",
+    "wof:geomhash":"22426457d7b2f65d9b11b24b426e07b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759123,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608486,
     "wof:name":"Bairro Santiago",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

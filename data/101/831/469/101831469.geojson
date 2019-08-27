@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
+    "geom:area_square_m":3306379.904977,
     "geom:bbox":"-8.78160988275,41.6976824225,-8.72899222705,41.7184910509",
     "geom:latitude":41.708917,
     "geom:longitude":-8.754222,
     "iso:country":"PT",
     "lbl:latitude":41.702063,
     "lbl:longitude":-8.745436,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.702063,
     "mps:longitude":-8.745436,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Serreleis"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"0265a7f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734042,
         "gp:id":748752,
-        "qs:id":1254722
+        "qs_pg:id":1254722
     },
     "wof:country":"PT",
-    "wof:geomhash":"d81f04e796f6f0afc57ea3efb6d80960",
+    "wof:geomhash":"85a81e005a00a34924940a8039cf5863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626131,
+    "wof:lastmodified":1566608512,
     "wof:name":"Serreleis",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

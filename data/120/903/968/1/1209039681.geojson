@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.34009,41.36456,-8.30009,41.40456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2733630
     },
     "wof:country":"PT",
-    "wof:geomhash":"a9457a6f9536b88f2fe623c6e806e9aa",
+    "wof:geomhash":"5982c234ef71ece882bbde7cbfed42c5",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209039681,
-    "wof:lastmodified":1536299585,
+    "wof:lastmodified":1566608017,
     "wof:name":"Teixogueiras",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.320089999999999,
+    -8.32009,
     41.38456,
-    -8.320089999999999,
+    -8.32009,
     41.38456
 ],
   "geometry": {"coordinates":[-8.32009,41.38456],"type":"Point"}

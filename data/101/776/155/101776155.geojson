@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":859060.454614,
+    "geom:area_square_m":859060.454615,
     "geom:bbox":"-8.80394796951,40.4506048317,-8.78593745,40.4641716441",
     "geom:latitude":40.455859,
     "geom:longitude":-8.797061,
     "iso:country":"PT",
     "lbl:latitude":40.455068,
     "lbl:longitude":-8.797811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.455068,
     "mps:longitude":-8.797811,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Praia de Mira",
         "Barra de Mira"
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.489444,
     "wd:longitude":-8.783333,
     "wd:wordcount":121,
@@ -51,7 +54,6 @@
         "fct:id":"0271a03a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735729,
         "gp:id":746477,
-        "qs:id":1353288,
         "qs_pg:id":1353288,
         "wd:id":"Q4863143",
         "wk:page":"Barra de Mira"
@@ -70,7 +72,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688309,
+    "wof:lastmodified":1566608429,
     "wof:name":"Praia de Mira",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

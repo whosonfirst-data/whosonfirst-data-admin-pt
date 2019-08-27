@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.718705,
     "lbl:longitude":-9.303891,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.718705,
     "mps:longitude":-9.303891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Porto Salvo"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":908,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"026dd9e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264403,
         "gp:id":746259,
-        "qs:id":179260,
         "qs_pg:id":179260,
         "wd:id":"Q2093255",
         "wk:page":"Porto Salvo"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253077,
+    "wof:lastmodified":1566608485,
     "wof:name":"Porto Salvo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

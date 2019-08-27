@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000079,
-    "geom:area_square_m":760902.251185,
+    "geom:area_square_m":760902.251184,
     "geom:bbox":"-9.32811592263,38.78183611,-9.30946646683,38.7893353298",
     "geom:latitude":38.786083,
     "geom:longitude":-9.317702,
     "iso:country":"PT",
     "lbl:latitude":38.786142,
     "lbl:longitude":-9.317569,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.786142,
     "mps:longitude":-9.317569,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Mem Martim"
     ],
     "qs:a0":"Portugal",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,7 +48,9 @@
     "wof:concordances":{
         "gn:id":2266464,
         "gp:id":743440,
-        "qs:id":8,
+        "qs_pg:id":8
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1142069
     },
     "wof:country":"PT",
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":101758933,
-    "wof:lastmodified":1504310318,
+    "wof:lastmodified":1566608459,
     "wof:name":"Casais de Mem Martins",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":659655.790344,
     "geom:bbox":"-8.18990088857,37.9383707191,-8.17830356662,37.9548307641",
     "geom:latitude":37.947141,
     "geom:longitude":-8.184156,
     "iso:country":"PT",
     "lbl:latitude":37.950641,
     "lbl:longitude":-8.185693,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.950641,
     "mps:longitude":-8.185693,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "S Joao de Negrilhos",
         "S. Joao de Negrilhos",
@@ -36,7 +41,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,10 +52,10 @@
         "fct:id":"0265a28a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263324,
         "gp:id":748200,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"2d5f0199c0e2c4961dd63a210da57586",
+    "wof:geomhash":"2d575d55c62f2c6511cc4e691106ce56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625908,
+    "wof:lastmodified":1566608453,
     "wof:name":"S\u00e3o Jo\u00e3o de Negrilhos",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

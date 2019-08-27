@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
+    "geom:area_square_m":898145.14994,
     "geom:bbox":"-9.22955245478,38.7780735611,-9.21670959895,38.7933217339",
     "geom:latitude":38.7876,
     "geom:longitude":-9.223445,
     "iso:country":"PT",
     "lbl:latitude":38.789098,
     "lbl:longitude":-9.224418,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.789098,
     "mps:longitude":-9.224418,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29381134,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"44b9fb04bc55748bdba4f1f97cc9a28b",
+    "wof:geomhash":"3c9582f5f4c4abbd5d07086c9cfb3d37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759089,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608478,
     "wof:name":"Vale Grande",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

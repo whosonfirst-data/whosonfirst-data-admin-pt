@@ -9,14 +9,18 @@
     "geom:bbox":"-8.66685,41.39629,-8.66685,41.39629",
     "geom:latitude":41.39629,
     "geom:longitude":-8.66685,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.68685,41.37629,-8.64685,41.41629",
     "lbl:latitude":41.39629,
     "lbl:longitude":-8.66685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Arcos"
@@ -66,7 +70,7 @@
     "name:tur_x_preferred":[
         "Arcos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguel de Arcos"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":736304,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Porto",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1125995807,
-    "wof:lastmodified":1564221326,
+    "wof:lastmodified":1566608687,
     "wof:name":"Arcos",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

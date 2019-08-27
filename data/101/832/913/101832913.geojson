@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.649201,
     "lbl:longitude":-9.02322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.649201,
     "mps:longitude":-9.02322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fialho Gouveia"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":216,
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":735882,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q5446289"
     },
     "wof:country":"PT",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101832913,
-    "wof:lastmodified":1563252857,
+    "wof:lastmodified":1566608402,
     "wof:name":"Bairro Gouveia",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

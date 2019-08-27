@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.294505,
     "lbl:longitude":-7.505274,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.294505,
     "mps:longitude":-7.505274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cantar-Galo"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -75,9 +78,11 @@
     "wof:concordances":{
         "gn:id":8011681,
         "gp:id":23412941,
-        "qs:id":4,
-        "qs_pg:id":981388,
+        "qs_pg:id":4,
         "wd:id":"Q1024136"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":981388
     },
     "wof:country":"PT",
     "wof:geomhash":"ef670dd1387e5e489fa3270a631a7188",
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":101831313,
-    "wof:lastmodified":1563253130,
+    "wof:lastmodified":1566608508,
     "wof:name":"Cantar-Galo",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

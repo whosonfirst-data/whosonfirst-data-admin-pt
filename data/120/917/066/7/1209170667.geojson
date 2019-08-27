@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.70406,41.04818,-7.66406,41.08818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2734730
     },
     "wof:country":"PT",
-    "wof:geomhash":"a63c18a7e83ea6866e034dff9a79382c",
+    "wof:geomhash":"66d9cbe2ee522eaca048163f4702e865",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209170667,
-    "wof:lastmodified":1536295592,
+    "wof:lastmodified":1566608071,
     "wof:name":"Santa Cruz de Lumiares",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.6840600000000014,
+    -7.68406,
     41.06818,
-    -7.6840600000000014,
+    -7.68406,
     41.06818
 ],
   "geometry": {"coordinates":[-7.68406,41.06818],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.60505,
     "lbl:longitude":-8.405413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.60505,
     "mps:longitude":-8.405413,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0627\u0631"
     ],
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3213,
     "wof:belongsto":[
@@ -180,7 +183,6 @@
         "fct:id":"02652792-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262644,
         "gp:id":749391,
-        "qs:id":412767,
         "qs_pg:id":412767,
         "wd:id":"Q622817",
         "wk:page":"Tomar"
@@ -199,7 +201,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252917,
+    "wof:lastmodified":1566608425,
     "wof:name":"Tomar",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

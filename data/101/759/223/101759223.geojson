@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.984566,
     "lbl:longitude":-8.523598,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.984566,
     "mps:longitude":-8.523598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u064a\u0633"
     ],
@@ -81,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0430\u0439\u043d\u0448"
     ],
-    "name:unk_x_variant":[
-        "Fi\u00e3is"
-    ],
     "name:zho_x_preferred":[
         "Fi\u00e3es"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,7 +115,6 @@
         "fct:id":"026b8e34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739613,
         "gp:id":741044,
-        "qs:id":188178,
         "qs_pg:id":188178,
         "wd:id":"Q1257752",
         "wk:page":"Fi\u00e3es (Santa Maria da Feira)"
@@ -134,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253067,
+    "wof:lastmodified":1566608479,
     "wof:name":"Fi\u00e3es",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

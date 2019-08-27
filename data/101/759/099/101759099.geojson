@@ -9,15 +9,18 @@
     "geom:bbox":"-9.25105361092,38.7161428341,-9.22583696755,38.7322008938",
     "geom:latitude":38.724558,
     "geom:longitude":-9.237773,
-    "geonames:id":"2270157,6930154",
+    "gn:id":"2270157,6930154",
     "gn:population":23698,
     "iso:country":"PT",
     "lbl:latitude":38.725107,
     "lbl:longitude":-9.236512,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.725107,
     "mps:longitude":-9.236512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Carnaxide"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.726667,
     "wd:longitude":-9.241667,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":2270157,
         "gp:id":738253,
-        "qs:id":139281,
         "qs_pg:id":139281,
         "wd:id":"Q1013271"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101759099,
-    "wof:lastmodified":1563253043,
+    "wof:lastmodified":1566608470,
     "wof:name":"Carnaxide",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

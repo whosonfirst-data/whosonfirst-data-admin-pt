@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.751256,
     "lbl:longitude":-25.644502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.751256,
     "mps:longitude":-25.644502,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Roque"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":3372591,
         "gp:id":538022,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q991698",
         "wk:page":"S\u00e3o Roque, Ponta Delgada"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101877199,
-    "wof:lastmodified":1563253088,
+    "wof:lastmodified":1566608492,
     "wof:name":"S\u00e3o Roque",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

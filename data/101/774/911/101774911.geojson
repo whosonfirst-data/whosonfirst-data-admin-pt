@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.533721,
     "lbl:longitude":-7.851762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.533721,
     "mps:longitude":-7.851762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Nelas"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.516667,
     "wd:longitude":-7.85,
@@ -120,7 +123,6 @@
         "fct:id":"0269f006-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737184,
         "gp:id":744532,
-        "qs:id":141262,
         "qs_pg:id":141262,
         "wd:id":"Q687790",
         "wk:page":"Nelas"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253203,
+    "wof:lastmodified":1566608530,
     "wof:name":"Nelas",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

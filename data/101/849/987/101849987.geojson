@@ -10,12 +10,16 @@
     "geom:latitude":38.674938,
     "geom:longitude":-27.246788,
     "iso:country":"PT",
+    "lbl:bbox":"-27.266788,38.654938,-27.226788,38.694938",
     "lbl:latitude":38.674938,
     "lbl:longitude":-27.246788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.674938,
     "mps:longitude":-27.246788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Terra Ch\u00e3"
     ],
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4986,
     "wof:belongsto":[
         102191581,
@@ -75,7 +79,6 @@
         "fct:id":"026521b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372524,
         "gp:id":538413,
-        "qs:id":1083308,
         "qs_pg:id":1083308,
         "wd:id":"Q1997688",
         "wk:page":"Terra Ch\u00e3"
@@ -94,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253109,
+    "wof:lastmodified":1566608499,
     "wof:name":"Terra Ch\u00e3",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

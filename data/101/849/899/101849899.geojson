@@ -9,17 +9,20 @@
     "geom:bbox":"-16.764204,32.716721,-16.764204,32.716721",
     "geom:latitude":32.716721,
     "geom:longitude":-16.764204,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":12567,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":12567,
     "iso:country":"PT",
+    "lbl:bbox":"-16.784204,32.696721,-16.744204,32.736721",
     "lbl:latitude":32.716721,
     "lbl:longitude":-16.764204,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":32.716721,
     "mps:longitude":-16.764204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u062a\u0634\u064a\u0643\u0648"
     ],
@@ -153,7 +156,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -165,7 +168,6 @@
         "fct:id":"0275abf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266895,
         "gp:id":742951,
-        "qs:id":179239,
         "qs_pg:id":179239,
         "wd:id":"Q693243",
         "wk:page":"Machico, Madeira"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253108,
+    "wof:lastmodified":1566608498,
     "wof:name":"Machico",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

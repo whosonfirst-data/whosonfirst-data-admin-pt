@@ -9,14 +9,18 @@
     "geom:bbox":"-8.98333,38.48333,-8.98333,38.48333",
     "geom:latitude":38.48333,
     "geom:longitude":-8.98333,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.00333,38.46333,-8.96333,38.50333",
     "lbl:latitude":38.48333,
     "lbl:longitude":-8.98333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Portinho da Arr\u00e1bida"
@@ -36,7 +40,7 @@
     "name:por_x_preferred":[
         "Portinho da Arr\u00e1bida"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Praia de Portinho"
     ],
     "qs_pg:aaroncc":"PT",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":746198,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Set\u00fabal",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1125812809,
-    "wof:lastmodified":1563253416,
+    "wof:lastmodified":1566608648,
     "wof:name":"Portinho da Arr\u00e1bida",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

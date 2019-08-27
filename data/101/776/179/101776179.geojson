@@ -9,17 +9,19 @@
     "geom:bbox":"-7.54443793993,40.397656659,-7.53343319841,40.4061799466",
     "geom:latitude":40.402188,
     "geom:longitude":-7.539391,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3900,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":3900,
     "iso:country":"PT",
     "lbl:latitude":40.402395,
     "lbl:longitude":-7.539766,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.402395,
     "mps:longitude":-7.539766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Manteigas"
     ],
@@ -129,7 +131,7 @@
     "qs_pg:woe_id":743122,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.4,
     "wd:longitude":-7.533333,
@@ -144,7 +146,6 @@
         "fct:id":"0274f686-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737936,
         "gp:id":743122,
-        "qs:id":479086,
         "qs_pg:id":479086,
         "wd:id":"Q986093"
     },
@@ -162,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252947,
+    "wof:lastmodified":1566608435,
     "wof:name":"Manteigas",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

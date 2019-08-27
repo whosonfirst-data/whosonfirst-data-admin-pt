@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.602721,
     "lbl:longitude":-8.897267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.602721,
     "mps:longitude":-8.897267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Juncal"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.6,
     "wd:longitude":-8.9,
     "wd:wordcount":43,
@@ -80,7 +83,7 @@
         "fct:id":"0267f2a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267310,
         "gp:id":742297,
-        "qs:id":218666,
+        "qs_pg:id":218666,
         "wd:id":"Q1713248"
     },
     "wof:country":"PT",
@@ -97,7 +100,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252982,
+    "wof:lastmodified":1566608448,
     "wof:name":"Juncal",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.815298,
     "lbl:longitude":-9.15839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.815298,
     "mps:longitude":-9.15839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santo Ant\u00f3nio dos Cavaleiros"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":85,
     "wof:belongsto":[
         102191581,
@@ -76,9 +79,11 @@
     "wof:concordances":{
         "gn:id":8012515,
         "gp:id":22661041,
-        "qs:id":8,
-        "qs_pg:id":1118245,
+        "qs_pg:id":8,
         "wd:id":"Q1024976"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118245
     },
     "wof:country":"PT",
     "wof:geomhash":"1833267323a1cd44b0ccdabe3e456fbf",
@@ -91,7 +96,7 @@
         }
     ],
     "wof:id":101759153,
-    "wof:lastmodified":1563253054,
+    "wof:lastmodified":1566608475,
     "wof:name":"Santo Ant\u00f3nio dos Cavaleiros",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

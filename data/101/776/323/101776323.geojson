@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
+    "geom:area_square_m":449417.307717,
     "geom:bbox":"-7.52454056778,41.2874411092,-7.51404718971,41.2961647729",
     "geom:latitude":41.291625,
     "geom:longitude":-7.518481,
     "iso:country":"PT",
     "lbl:latitude":41.291044,
     "lbl:longitude":-7.518402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.291044,
     "mps:longitude":-7.518402,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alij\u00f3"
     ],
@@ -63,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -74,7 +79,6 @@
         "fct:id":"027255f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734789,
         "gp:id":747777,
-        "qs:id":28443,
         "qs_pg:id":28443
     },
     "wof:country":"PT",
@@ -91,7 +95,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497290006,
+    "wof:lastmodified":1566608426,
     "wof:name":"Sanfins do Douro",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

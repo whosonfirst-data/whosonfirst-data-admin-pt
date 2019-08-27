@@ -9,14 +9,17 @@
     "geom:bbox":"-8.27740715547,41.3185388523,-8.25653449113,41.3413451481",
     "geom:latitude":41.330668,
     "geom:longitude":-8.266161,
-    "geonames:id":"2742330,2742331",
+    "gn:id":"2742330,2742331",
     "iso:country":"PT",
     "lbl:latitude":41.329583,
     "lbl:longitude":-8.265139,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.329583,
     "mps:longitude":-8.265139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Barrosas"
     ],
@@ -62,7 +65,7 @@
     "name:tur_x_preferred":[
         "Id\u00e3es"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santo Est\u00eav\u00e3o"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2742331,
         "gp:id":23412924,
-        "qs:id":1103547,
+        "qs_pg:id":1103547,
         "wd:id":"Q4863829",
         "wk:page":"Id\u00e3es"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101831437,
-    "wof:lastmodified":1563253124,
+    "wof:lastmodified":1566608505,
     "wof:name":"Barrosas",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

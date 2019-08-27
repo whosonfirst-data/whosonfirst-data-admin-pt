@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.326893,
     "lbl:longitude":-7.499016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.326893,
     "mps:longitude":-7.499016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u099f\u09bf\u09a8\u09c7\u099f"
     ],
@@ -81,7 +84,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1223,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
         "fct:id":"02682834-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267962,
         "gp:id":741416,
-        "qs:id":937005,
+        "qs_pg:id":937005,
         "wd:id":"Q2749364"
     },
     "wof:country":"PT",
@@ -110,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252814,
+    "wof:lastmodified":1566608384,
     "wof:name":"Fortios",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

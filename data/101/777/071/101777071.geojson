@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.196801,
     "lbl:longitude":-7.657992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.196801,
     "mps:longitude":-7.657992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Alter do Ch\u00e3o"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":122,
     "wof:belongsto":[
@@ -109,7 +112,6 @@
         "fct:id":"026f9eca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271841,
         "gp:id":735990,
-        "qs:id":1277558,
         "qs_pg:id":1277558,
         "wd:id":"Q438263"
     },
@@ -127,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252955,
+    "wof:lastmodified":1566608439,
     "wof:name":"Alter do Ch\u00e3o",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

@@ -5,24 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
+    "geom:area_square_m":951412.239487,
     "geom:bbox":"-8.67048042469,41.2035552485,-8.64693866958,41.2160058607",
     "geom:latitude":41.210543,
     "geom:longitude":-8.65959,
     "iso:country":"PT",
     "lbl:latitude":41.212441,
     "lbl:longitude":-8.660749,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.212441,
     "mps:longitude":-8.660749,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Espozade de Cima"
     ],
     "name:por_x_variant":[
         "Esposade",
         "Esposado",
-        "Espozade"
-    ],
-    "name:unk_x_variant":[
         "Espozade"
     ],
     "qs:a0":"Portugal",
@@ -39,7 +41,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,7 +52,7 @@
         "fct:id":"026e8382-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739847,
         "gp:id":740712,
-        "qs:id":1253544
+        "qs_pg:id":1253544
     },
     "wof:country":"PT",
     "wof:geomhash":"47b859c2f84dd43981e5dac95bf5724a",
@@ -66,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501263966,
+    "wof:lastmodified":1566608485,
     "wof:name":"Esposade",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
+    "geom:area_square_m":2430213.101314,
     "geom:bbox":"-25.543207181,37.7889852417,-25.5247810488,37.8067014399",
     "geom:latitude":37.797656,
     "geom:longitude":-25.534168,
     "iso:country":"PT",
     "lbl:latitude":37.797335,
     "lbl:longitude":-25.534343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.797335,
     "mps:longitude":-25.534343,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -27,7 +32,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,10 +41,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23691196,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"140f459efa809dae4a16ad5faebc0c69",
+    "wof:geomhash":"1438ebb79bdb3be99219314c3af61991",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":101877205,
-    "wof:lastmodified":1477508676,
+    "wof:lastmodified":1566608490,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

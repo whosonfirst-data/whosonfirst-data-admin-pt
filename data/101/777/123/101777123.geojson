@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000065,
+    "geom:area_square_m":619409.804989,
     "geom:bbox":"-8.71382442706,39.8395710328,-8.69439088108,39.8507644829",
     "geom:latitude":39.845271,
     "geom:longitude":-8.702683,
     "iso:country":"PT",
     "lbl:latitude":39.845373,
     "lbl:longitude":-8.700401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.845373,
     "mps:longitude":-8.700401,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Meirinhas de Baixo"
     ],
     "qs:a0":"Portugal",
@@ -32,7 +37,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2266487,
         "gp:id":55867461,
-        "qs:id":51025
+        "qs_pg:id":51025
     },
     "wof:country":"PT",
     "wof:geomhash":"ccb645f3d128277f956074b1bf90b06b",
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":101777123,
-    "wof:lastmodified":1501262308,
+    "wof:lastmodified":1566608447,
     "wof:name":"Meirinhas",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

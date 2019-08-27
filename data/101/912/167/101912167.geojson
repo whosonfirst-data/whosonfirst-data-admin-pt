@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":276256.823474,
+    "geom:area_square_m":276256.823473,
     "geom:bbox":"-8.79725148196,38.111049631,-8.78405552824,38.1155436064",
     "geom:latitude":38.113075,
     "geom:longitude":-8.791021,
@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.112944,
     "lbl:longitude":-8.79277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.112944,
     "mps:longitude":-8.79277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scotts Corner"
     ],
@@ -38,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -48,9 +51,11 @@
     "wof:concordances":{
         "gn:id":5046765,
         "gp:id":24900117,
-        "qs:id":481701,
         "qs_pg:id":213937,
         "wk:page":"Scotts Corner, Minnesota"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":481701
     },
     "wof:country":"PT",
     "wof:geomhash":"7beac2e555bdccab210410a1331e1ead",
@@ -66,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513814069,
+    "wof:lastmodified":1566608419,
     "wof:name":"Lagoa de Santo Andr\u00e9",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

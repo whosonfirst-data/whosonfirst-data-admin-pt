@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000286,
+    "geom:area_square_m":2697198.26686,
     "geom:bbox":"-8.62329377773,40.1735901982,-8.56840919364,40.1893905241",
     "geom:latitude":40.182967,
     "geom:longitude":-8.59804,
     "iso:country":"PT",
     "lbl:latitude":40.183602,
     "lbl:longitude":-8.604169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.183602,
     "mps:longitude":-8.604169,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Formoselha"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026a74d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739379,
         "gp:id":741354,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"a2383c2ae363653a7b72e45115b2e417",
+    "wof:geomhash":"5ddb2830ccd8bd08a89cf9da66086273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625899,
+    "wof:lastmodified":1566608442,
     "wof:name":"Formeselha",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
+    "geom:area_square_m":727130.143327,
     "geom:bbox":"-8.59333716991,40.7537434078,-8.57642300006,40.7655613966",
     "geom:latitude":40.760371,
     "geom:longitude":-8.584734,
     "iso:country":"PT",
     "lbl:latitude":40.759487,
     "lbl:longitude":-8.588258,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.759487,
     "mps:longitude":-8.588258,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Povoa de Baixo"
     ],
@@ -36,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,7 +52,6 @@
         "fct:id":"0270af68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735811,
         "gp:id":746368,
-        "qs:id":188298,
         "qs_pg:id":188298
     },
     "wof:country":"PT",
@@ -64,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497298082,
+    "wof:lastmodified":1566608393,
     "wof:name":"P\u00f3voa de Baixo",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

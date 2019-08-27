@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
+    "geom:area_square_m":1565740.417012,
     "geom:bbox":"-9.33306119924,38.7521399258,-9.30966808787,38.7705556222",
     "geom:latitude":38.762361,
     "geom:longitude":-9.321903,
     "iso:country":"PT",
     "lbl:latitude":38.764766,
     "lbl:longitude":-9.319777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.764766,
     "mps:longitude":-9.319777,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":2265288,
         "gp:id":744984,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"45c25067c4fdae64388aebe657ff3c5d",
+    "wof:geomhash":"68a428b933f4909081d6c3d6cac9b5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101759019,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608481,
     "wof:name":"Pai\u00f5es",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

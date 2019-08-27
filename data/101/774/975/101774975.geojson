@@ -9,17 +9,19 @@
     "geom:bbox":"-8.10717612636,41.2508379332,-8.05460307455,41.2954589095",
     "geom:latitude":41.271198,
     "geom:longitude":-8.084726,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6782,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":6782,
     "iso:country":"PT",
     "lbl:latitude":41.270165,
     "lbl:longitude":-8.078048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.270165,
     "mps:longitude":-8.078048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0627\u0631\u0627\u0646\u062a\u064a"
     ],
@@ -177,7 +179,7 @@
     "qs_pg:woe_id":736080,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -189,7 +191,6 @@
         "fct:id":"0269a18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742965,
         "gp:id":736080,
-        "qs:id":1081045,
         "qs_pg:id":1081045,
         "wd:id":"Q454875"
     },
@@ -207,7 +208,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253209,
+    "wof:lastmodified":1566608531,
     "wof:name":"Amarante",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

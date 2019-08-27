@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.177449,
     "lbl:longitude":-7.50144,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.177449,
     "mps:longitude":-7.50144,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alagoa"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2267253,
         "gp:id":56041401,
-        "qs:id":187558
+        "qs_pg:id":187558
     },
     "wof:country":"PT",
     "wof:geomhash":"ddadcac4500f145ad899c2c1c917569e",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101780639,
-    "wof:lastmodified":1564221035,
+    "wof:lastmodified":1566608524,
     "wof:name":"Alagoa",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

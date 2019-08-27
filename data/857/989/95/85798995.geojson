@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1090764.507566,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-9.20962,38.751724,-9.20962,38.751724",
     "geom:latitude":38.751724,
     "geom:longitude":-9.20962,
     "gn:latitude":38.75141,
     "gn:longitude":-9.21227,
     "iso:country":"PT",
+    "lbl:bbox":"-9.21462,38.746724,-9.20462,38.756724",
     "lbl:latitude":38.751724,
     "lbl:longitude":-9.20962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.75024,
     "mps:longitude":-9.212478,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:por_x_preferred":[
-        "Damaia"
-    ],
-    "name:unk_x_variant":[
         "Damaia"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752087,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2268728,
         "gp:id":740308,
-        "qs:id":1264552,
         "qs_pg:id":1264552
     },
     "wof:country":"PT",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861968,
+    "wof:lastmodified":1566607567,
     "wof:name":"Damaia",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

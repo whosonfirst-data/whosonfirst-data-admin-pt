@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.015721,
     "lbl:longitude":-9.420542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.015721,
     "mps:longitude":-9.420542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u064a\u0632\u0627 \u0644\u0648\u0631\u064a\u0632\u0648"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":237,
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":748232,
-        "qs:id":1061426,
         "qs_pg:id":1061426,
         "wd:id":"Q4756354"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101912173,
-    "wof:lastmodified":1563252901,
+    "wof:lastmodified":1566608419,
     "wof:name":"S. Louren\u00e7o",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

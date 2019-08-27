@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000101,
+    "geom:area_square_m":979191.844223,
     "geom:bbox":"-9.42764625136,38.6994493795,-9.41254517394,38.7108355686",
     "geom:latitude":38.705166,
     "geom:longitude":-9.419342,
     "iso:country":"PT",
     "lbl:latitude":38.705965,
     "lbl:longitude":-9.420986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.705965,
     "mps:longitude":-9.420986,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042189,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"6f63886facedd933f47d7ed995192ecc",
+    "wof:geomhash":"c92a3a5962d9f0d236b2a31c26e12515",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101758997,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608456,
     "wof:name":"Bairro de S\u00e3o Jos\u00e9",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

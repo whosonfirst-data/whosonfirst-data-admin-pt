@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
+    "geom:area_square_m":1710665.544203,
     "geom:bbox":"-8.56548219667,41.0240016181,-8.54624645517,41.043155661",
     "geom:latitude":41.034203,
     "geom:longitude":-8.558217,
-    "geonames:id":"2743151,2743152,2743153",
+    "gn:id":"2743151,2743152,2743153",
     "iso:country":"PT",
     "lbl:latitude":41.038242,
     "lbl:longitude":-8.559674,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.038242,
     "mps:longitude":-8.559674,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jos\u00e9 Dias Ferreira"
     ],
@@ -41,7 +46,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,10 +55,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":748564,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
-    "wof:geomhash":"b11b504621aee0e51b717d7bc32257e3",
+    "wof:geomhash":"91f5039f39879098a912244deaf6d3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":101759395,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608475,
     "wof:name":"Aldeia Nova",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

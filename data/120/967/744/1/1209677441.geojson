@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.51453,42.03851,-8.47453,42.07851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2737815
     },
     "wof:country":"PT",
-    "wof:geomhash":"0f2ed136a3c9576d18fce5c239c82592",
+    "wof:geomhash":"6d5c90f6251bdc216680dd9400847b13",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209677441,
-    "wof:lastmodified":1536279700,
+    "wof:lastmodified":1566608021,
     "wof:name":"Mazedo",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.494530000000001,
+    -8.49453,
     42.05851,
-    -8.494530000000001,
+    -8.49453,
     42.05851
 ],
   "geometry": {"coordinates":[-8.49453,42.05851],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.046924,
     "lbl:longitude":-8.54564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.046924,
     "mps:longitude":-8.54564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Olival"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         "fct:id":"0267dcda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737064,
         "gp:id":744693,
-        "qs:id":141261,
+        "qs_pg:id":141261,
         "wd:id":"Q658088"
     },
     "wof:country":"PT",
@@ -97,7 +100,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253074,
+    "wof:lastmodified":1566608483,
     "wof:name":"Olival",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

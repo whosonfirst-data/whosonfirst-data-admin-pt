@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
+    "geom:area_square_m":958678.060302,
     "geom:bbox":"-8.59303264923,41.6464666494,-8.57601317363,41.6676479296",
     "geom:latitude":41.656141,
     "geom:longitude":-8.584351,
     "iso:country":"PT",
     "lbl:latitude":41.653194,
     "lbl:longitude":-8.585189,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.653194,
     "mps:longitude":-8.585189,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Freixo"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026d75e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739235,
         "gp:id":741554,
-        "qs:id":180209
+        "qs_pg:id":180209
     },
     "wof:country":"PT",
-    "wof:geomhash":"19b49044ad4ae142e39d715bb78fa07f",
+    "wof:geomhash":"95d30dc7127b2dd2db98f6bc33858733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625891,
+    "wof:lastmodified":1566608519,
     "wof:name":"Freixo",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

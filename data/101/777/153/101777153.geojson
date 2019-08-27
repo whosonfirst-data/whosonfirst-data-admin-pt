@@ -9,16 +9,19 @@
     "geom:bbox":"-9.11012947933,39.4974372206,-9.08899050205,39.5065960426",
     "geom:latitude":39.501087,
     "geom:longitude":-9.100379,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.501201,
     "lbl:longitude":-9.102861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.501201,
     "mps:longitude":-9.102861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Alfeizer\u00e3o"
     ],
@@ -93,7 +96,7 @@
     "qs_pg:woe_id":735835,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.500656,
     "wd:longitude":-9.103308,
     "wd:wordcount":32,
@@ -107,7 +110,6 @@
         "fct:id":"0272b83a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272013,
         "gp:id":735835,
-        "qs:id":1013050,
         "qs_pg:id":1013050,
         "wd:id":"Q2035332",
         "wk:page":"Alfeizer\u00e3o"
@@ -126,7 +128,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252964,
+    "wof:lastmodified":1566608442,
     "wof:name":"Alfeizer\u00e3o",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

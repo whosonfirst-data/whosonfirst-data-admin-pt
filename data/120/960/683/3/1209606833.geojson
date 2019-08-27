@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.07163,40.12491,-8.03163,40.16491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2734801
     },
     "wof:country":"PT",
-    "wof:geomhash":"4785efd15f1534ce7c10706896a2e860",
+    "wof:geomhash":"e2240a8c4d1f05eb354f20c059535f08",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209606833,
-    "wof:lastmodified":1536281984,
+    "wof:lastmodified":1566608028,
     "wof:name":"Sandinha",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.051630000000001,
+    -8.05163,
     40.14491,
-    -8.051630000000001,
+    -8.05163,
     40.14491
 ],
   "geometry": {"coordinates":[-8.05163,40.14491],"type":"Point"}

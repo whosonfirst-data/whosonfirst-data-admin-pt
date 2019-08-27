@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.219172,
     "lbl:longitude":-7.445509,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.219172,
     "mps:longitude":-7.445509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Castro Marim"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.216667,
     "wd:longitude":-7.45,
@@ -135,7 +138,6 @@
         "fct:id":"027169f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2269496,
         "gp:id":739179,
-        "qs:id":245693,
         "qs_pg:id":245693,
         "wd:id":"Q986079"
     },
@@ -153,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253175,
+    "wof:lastmodified":1566608523,
     "wof:name":"Castro Marim",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

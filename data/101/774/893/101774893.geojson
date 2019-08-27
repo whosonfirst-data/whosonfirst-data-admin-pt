@@ -9,16 +9,19 @@
     "geom:bbox":"-7.08646887799,40.7665977197,-7.05332226908,40.7779530203",
     "geom:latitude":40.772595,
     "geom:longitude":-7.069089,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":40.771672,
     "lbl:longitude":-7.067959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.771672,
     "mps:longitude":-7.067959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0647\u0644"
     ],
@@ -134,7 +137,7 @@
     "qs_pg:woe_id":745852,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.783333,
     "wd:longitude":-7.066667,
     "wd:wordcount":639,
@@ -148,7 +151,6 @@
         "fct:id":"0271317c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2736183,
         "gp:id":745852,
-        "qs:id":246445,
         "qs_pg:id":246445,
         "wd:id":"Q917335"
     },
@@ -166,7 +168,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253186,
+    "wof:lastmodified":1566608526,
     "wof:name":"Pinhel",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

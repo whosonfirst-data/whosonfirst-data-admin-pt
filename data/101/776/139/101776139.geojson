@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.138889,
     "lbl:longitude":-7.500182,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.138889,
     "mps:longitude":-7.500182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Fund\u00e3o"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -100,7 +103,6 @@
         "fct:id":"026f4f56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739187,
         "gp:id":741613,
-        "qs:id":179209,
         "qs_pg:id":179209,
         "wd:id":"Q218263"
     },
@@ -118,7 +120,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252930,
+    "wof:lastmodified":1566608430,
     "wof:name":"Fund\u00e3o",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

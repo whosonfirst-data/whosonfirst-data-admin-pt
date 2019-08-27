@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.556377,
     "lbl:longitude":-7.996446,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.556377,
     "mps:longitude":-7.996446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ma\u00e7\u00e3o"
     ],
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.55,
     "wd:longitude":-8.0,
     "wd:wordcount":100,
@@ -109,7 +112,6 @@
         "fct:id":"0272ab56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266924,
         "gp:id":742925,
-        "qs:id":1353121,
         "qs_pg:id":1353121,
         "wd:id":"Q1012723"
     },
@@ -127,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252910,
+    "wof:lastmodified":1566608423,
     "wof:name":"Ma\u00e7\u00e3o",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
+    "geom:area_square_m":529602.782552,
     "geom:bbox":"-7.51126293108,38.9509477019,-7.49964444454,38.9606741743",
     "geom:latitude":38.95537,
     "geom:longitude":-7.506323,
     "iso:country":"PT",
     "lbl:latitude":38.955285,
     "lbl:longitude":-7.506235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.955285,
     "mps:longitude":-7.506235,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Veiros"
     ],
@@ -33,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,7 +49,6 @@
         "fct:id":"026d4206-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261799,
         "gp:id":750392,
-        "qs:id":1014257,
         "qs_pg:id":1014257
     },
     "wof:country":"PT",
@@ -61,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497300584,
+    "wof:lastmodified":1566608413,
     "wof:name":"Veiros",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

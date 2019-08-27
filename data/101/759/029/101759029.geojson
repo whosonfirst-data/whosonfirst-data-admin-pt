@@ -5,23 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
+    "geom:area_square_m":400207.846487,
     "geom:bbox":"-9.36862233179,38.6977960545,-9.35798664733,38.704389094",
     "geom:latitude":38.700741,
     "geom:longitude":-9.36385,
     "iso:country":"PT",
     "lbl:latitude":38.700413,
     "lbl:longitude":-9.364483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.700413,
     "mps:longitude":-9.364483,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Mortal"
     ],
     "name:por_x_variant":[
         "Murtal"
-    ],
-    "name:unk_x_variant":[
-        "Mortal"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -39,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,7 +52,6 @@
         "fct:id":"02733440-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265736,
         "gp:id":744282,
-        "qs:id":292268,
         "qs_pg:id":292268
     },
     "wof:country":"PT",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497294484,
+    "wof:lastmodified":1566608480,
     "wof:name":"Murtal",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

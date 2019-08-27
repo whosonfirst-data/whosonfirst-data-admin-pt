@@ -10,12 +10,16 @@
     "geom:latitude":40.664124,
     "geom:longitude":-8.637523,
     "iso:country":"PT",
+    "lbl:bbox":"-8.657523,40.644124,-8.617523,40.684124",
     "lbl:latitude":40.664124,
     "lbl:longitude":-8.637523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.664124,
     "mps:longitude":-8.637523,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Mataduco"
     ],
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -53,7 +57,7 @@
         "fct:id":"0274bc16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737845,
         "gp:id":743293,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
     "wof:geomhash":"f073afbaf2104871e71825839235693c",
@@ -69,7 +73,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544741798,
+    "wof:lastmodified":1566608409,
     "wof:name":"Matadu\u00e7os",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

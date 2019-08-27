@@ -9,13 +9,14 @@
     "geom:bbox":"-8.83611099788,39.6976572404,-8.77729215814,39.7810417747",
     "geom:latitude":39.745903,
     "geom:longitude":-8.808601,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":45112,
+    "gn:country":"PT",
+    "gn:fcode":"PPLA",
     "gn:population":45112,
     "iso:country":"PT",
     "lbl:latitude":39.744308,
     "lbl:longitude":-8.808017,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.744308,
     "mps:longitude":-8.808017,
     "mz:hierarchy_label":1,
@@ -199,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Vieira de Leiria"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u0631\u06cc\u0627"
     ],
@@ -343,7 +341,7 @@
     "qs_pg:woe_id":742627,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.743056,
     "wd:longitude":-8.806944,
@@ -358,7 +356,6 @@
         "fct:id":"02687f64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267095,
         "gp:id":742627,
-        "qs:id":685368,
         "qs_pg:id":685368,
         "wd:id":"Q206933"
     },
@@ -376,7 +373,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253143,
+    "wof:lastmodified":1566608513,
     "wof:name":"Leiria",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

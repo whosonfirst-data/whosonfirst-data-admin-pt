@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.927993,
     "lbl:longitude":-9.007363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.927993,
     "mps:longitude":-9.007363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Alhandra"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -112,7 +115,6 @@
         "fct:id":"026cdbc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271975,
         "gp:id":735878,
-        "qs:id":1081032,
         "qs_pg:id":1081032,
         "wd:id":"Q1803660",
         "wk:page":"Alhandra, Portugal"
@@ -131,7 +133,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253020,
+    "wof:lastmodified":1566608461,
     "wof:name":"Alhandra",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

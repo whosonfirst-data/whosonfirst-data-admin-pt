@@ -9,14 +9,18 @@
     "geom:bbox":"-25.05,36.95,-25.05,36.95",
     "geom:latitude":36.95,
     "geom:longitude":-25.05,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-25.07,36.93,-25.03,36.97",
     "lbl:latitude":36.95,
     "lbl:longitude":-25.05,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Santo Esp\u00edrito"
@@ -39,7 +43,7 @@
     "name:tur_x_preferred":[
         "Santo Esp\u00edrito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Espirito Santo"
     ],
     "qs_pg:aaroncc":"PT",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":538346,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Azores",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125887165,
-    "wof:lastmodified":1564221264,
+    "wof:lastmodified":1566608657,
     "wof:name":"Santo Esp\u00edrito",
     "wof:parent_id":85687429,
     "wof:placetype":"locality",

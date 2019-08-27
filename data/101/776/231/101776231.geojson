@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.682023,
     "lbl:longitude":-8.555134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.682023,
     "mps:longitude":-8.555134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Angeja"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,6 @@
         "fct:id":"026b4000-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742884,
         "gp:id":736218,
-        "qs:id":1013870,
         "qs_pg:id":1013870,
         "wd:id":"Q531245",
         "wk:page":"Angeja"
@@ -108,7 +110,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252939,
+    "wof:lastmodified":1566608433,
     "wof:name":"Angeja",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

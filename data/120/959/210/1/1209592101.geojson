@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.16238,39.91335,-8.12238,39.95335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2262060
     },
     "wof:country":"PT",
-    "wof:geomhash":"1c2ada747ce3db794648077871b67d29",
+    "wof:geomhash":"8fc38cfd7e38ff6b8f0720b5e49f180c",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209592101,
-    "wof:lastmodified":1536282446,
+    "wof:lastmodified":1566608013,
     "wof:name":"Vale do Barco",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.142380000000001,
+    -8.14238,
     39.93335,
-    -8.142380000000001,
+    -8.14238,
     39.93335
 ],
   "geometry": {"coordinates":[-8.14238,39.93335],"type":"Point"}

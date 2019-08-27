@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.811364,
     "lbl:longitude":-25.531196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.811364,
     "mps:longitude":-25.531196,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ribeira Seca"
     ],
@@ -55,9 +58,6 @@
     "name:tur_x_preferred":[
         "Ribeira Seca"
     ],
-    "name:unk_x_variant":[
-        "Ribeira Secca"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -84,10 +84,12 @@
         "fct:id":"0265161c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372698,
         "gp:id":538281,
-        "qs:id":9,
-        "qs_pg:id":232939,
+        "qs_pg:id":9,
         "wd:id":"Q2451828",
         "wk:page":"Ribeira Seca (Ribeira Grande)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":232939
     },
     "wof:country":"PT",
     "wof:geomhash":"c2bd374fc9aaf7bce46c317b88a7aea4",
@@ -103,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253086,
+    "wof:lastmodified":1566608490,
     "wof:name":"Ribeira Seca",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

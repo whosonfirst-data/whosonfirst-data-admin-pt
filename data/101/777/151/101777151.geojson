@@ -9,17 +9,19 @@
     "geom:bbox":"-8.98005707458,39.4508317347,-8.97084036533,39.4685629654",
     "geom:latitude":39.460322,
     "geom:longitude":-8.976072,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4434,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":4434,
     "iso:country":"PT",
     "lbl:latitude":39.462839,
     "lbl:longitude":-8.976142,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.462839,
     "mps:longitude":-8.976142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Turquel"
     ],
@@ -88,7 +90,7 @@
     "qs_pg:woe_id":749663,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -101,7 +103,6 @@
         "fct:id":"026ccf1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262478,
         "gp:id":749663,
-        "qs:id":1034619,
         "qs_pg:id":1034619,
         "wd:id":"Q507373"
     },
@@ -119,7 +120,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252952,
+    "wof:lastmodified":1566608438,
     "wof:name":"Turquel",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

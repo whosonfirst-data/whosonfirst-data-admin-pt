@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.81342,
     "lbl:longitude":-9.165535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.81342,
     "mps:longitude":-9.165535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Cidade Nova"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22661041,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
     "wof:geomhash":"b8e3c58fc7e045dac7a5275d4e02a9c7",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101759149,
-    "wof:lastmodified":1564221008,
+    "wof:lastmodified":1566608488,
     "wof:name":"Cidade Nova",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

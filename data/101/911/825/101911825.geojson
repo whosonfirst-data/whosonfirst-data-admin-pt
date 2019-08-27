@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.656736,
     "lbl:longitude":-7.978064,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.656736,
     "mps:longitude":-7.978064,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Vila Real",
     "qs:a1r":"1",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,8 +45,10 @@
     "wof:concordances":{
         "gn:id":2742112,
         "gp:id":737436,
-        "qs:id":996978,
         "qs_pg:id":898541
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":996978
     },
     "wof:country":"PT",
     "wof:geomhash":"dae8e624f0d585db9a49021732d79f10",
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101911825,
-    "wof:lastmodified":1507750786,
+    "wof:lastmodified":1566608517,
     "wof:name":"Mina da Borralha",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

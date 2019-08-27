@@ -10,12 +10,16 @@
     "geom:latitude":41.249916,
     "geom:longitude":-8.187899,
     "iso:country":"PT",
+    "lbl:bbox":"-8.207899,41.229916,-8.167899,41.269916",
     "lbl:latitude":41.249916,
     "lbl:longitude":-8.187899,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.249916,
     "mps:longitude":-8.187899,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "AC Vila Me\u00e3"
     ],
@@ -39,9 +43,6 @@
     "name:spa_x_preferred":[
         "AC Vila Me\u00e3"
     ],
-    "name:unk_x_variant":[
-        "Vila Me\u00e3 de Cima"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -58,7 +59,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":201,
     "wof:belongsto":[
         102191581,
@@ -70,7 +71,7 @@
         "fct:id":"02747b7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732597,
         "gp:id":750733,
-        "qs:id":287653,
+        "qs_pg:id":287653,
         "wd:id":"Q2869504"
     },
     "wof:country":"PT",
@@ -87,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252879,
+    "wof:lastmodified":1566608409,
     "wof:name":"Vila Me\u00e3",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

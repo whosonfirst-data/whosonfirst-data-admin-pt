@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11364833.034985,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.626541,41.204454,-8.626541,41.204454",
     "geom:latitude":41.204454,
     "geom:longitude":-8.626541,
     "iso:country":"PT",
+    "lbl:bbox":"-8.631541,41.199454,-8.621541,41.209454",
     "lbl:latitude":41.204454,
     "lbl:longitude":-8.626541,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.216305,
     "mps:longitude":-8.629995,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Seixo"
     ],
     "name:por_x_preferred":[
-        "Seixo"
-    ],
-    "name:unk_x_variant":[
         "Seixo"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -60,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101759303,
@@ -71,7 +70,7 @@
     "wof:concordances":{
         "gn:id":2734197,
         "gp:id":20105224,
-        "qs:id":52120
+        "qs_pg:id":52120
     },
     "wof:country":"PT",
     "wof:geomhash":"1cfbb1e80992439c6874c392ff4bf31e",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531870603,
+    "wof:lastmodified":1566607589,
     "wof:name":"Seixo",
     "wof:parent_id":101759303,
     "wof:placetype":"neighbourhood",

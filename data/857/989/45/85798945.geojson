@@ -12,8 +12,10 @@
     "gn:latitude":38.77137,
     "gn:longitude":-9.21628,
     "iso:country":"PT",
+    "lbl:bbox":"-9.215663,38.771035,-9.205663,38.781035",
     "lbl:latitude":38.776035,
     "lbl:longitude":-9.210663,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.77815,
     "mps:longitude":-9.209054,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0434\u043e\u0430"
     ],
-    "name:unk_x_variant":[
-        "Brandoa"
-    ],
     "name:zho_x_preferred":[
         "Caram\u00e3o"
     ],
@@ -105,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -117,7 +116,6 @@
     "wof:concordances":{
         "gn:id":8012584,
         "gp:id":737529,
-        "qs:id":108705,
         "qs_pg:id":108705,
         "wd:id":"Q266202",
         "wk:page":"Brandoa"
@@ -137,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563251291,
+    "wof:lastmodified":1566607568,
     "wof:name":"Brandoa",
     "wof:parent_id":101874817,
     "wof:placetype":"neighbourhood",

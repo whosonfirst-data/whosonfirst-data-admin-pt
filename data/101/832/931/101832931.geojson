@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
+    "geom:area_square_m":2305403.224421,
     "geom:bbox":"-9.12678016924,38.4508677948,-9.10102160224,38.4802052818",
     "geom:latitude":38.463983,
     "geom:longitude":-9.1136,
     "iso:country":"PT",
     "lbl:latitude":38.459861,
     "lbl:longitude":-9.11023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.459861,
     "mps:longitude":-9.11023,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,7 +45,7 @@
         "gp:id":747956
     },
     "wof:country":"PT",
-    "wof:geomhash":"b34577c271fd6739bdc2468a4df49086",
+    "wof:geomhash":"e8aea047085b4178049e484ae852deb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832931,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608395,
     "wof:name":"Almoinha",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

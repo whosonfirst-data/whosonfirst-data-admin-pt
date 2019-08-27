@@ -13,11 +13,14 @@
     "iso:country":"PT",
     "lbl:latitude":38.719129,
     "lbl:longitude":-9.263667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.719129,
     "mps:longitude":-9.263667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Quejas"
     ],
     "qs:a0":"Portugal",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,6 @@
     "wof:concordances":{
         "gn:id":2264270,
         "gp:id":746565,
-        "qs:id":1034633,
         "qs_pg:id":1034633
     },
     "wof:country":"PT",
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":101758981,
-    "wof:lastmodified":1505337767,
+    "wof:lastmodified":1566608461,
     "wof:name":"Queijas",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

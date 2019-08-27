@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":41.803373,
     "lbl:longitude":-6.76641,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.803373,
     "mps:longitude":-6.76641,
     "mz:hierarchy_label":1,
@@ -321,7 +323,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.8,
     "wd:longitude":-6.75,
@@ -336,7 +338,6 @@
         "fct:id":"02690d80-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742027,
         "gp:id":737518,
-        "qs:id":458214,
         "qs_pg:id":458214,
         "wd:id":"Q768261",
         "wk:page":"Bragan\u00e7a, Portugal"
@@ -355,7 +356,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253191,
+    "wof:lastmodified":1566608527,
     "wof:name":"Bragan\u00e7a",
     "wof:parent_id":85687415,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":39.250793,
     "lbl:longitude":-8.697172,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.250793,
     "mps:longitude":-8.697172,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -213,7 +215,6 @@
         "fct:id":"0269574a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263480,
         "gp:id":747966,
-        "qs:id":458326,
         "qs_pg:id":458326,
         "wd:id":"Q3326323",
         "wk:page":"Scalabis"
@@ -232,7 +233,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252958,
+    "wof:lastmodified":1566608440,
     "wof:name":"Santar\u00e9m",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

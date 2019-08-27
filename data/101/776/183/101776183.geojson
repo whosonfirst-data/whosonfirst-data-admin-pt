@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.572459,
     "lbl:longitude":-8.170174,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.572459,
     "mps:longitude":-8.170174,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Caramulo"
     ],
@@ -50,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.566667,
     "wd:longitude":-8.166667,
     "wd:wordcount":37,
@@ -64,7 +67,6 @@
         "fct:id":"027192e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741516,
         "gp:id":738179,
-        "qs:id":1353006,
         "qs_pg:id":1353006,
         "wd:id":"Q1035381",
         "wk:page":"Caramulo"
@@ -83,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828728,
+    "wof:lastmodified":1566608435,
     "wof:name":"Caramulo",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

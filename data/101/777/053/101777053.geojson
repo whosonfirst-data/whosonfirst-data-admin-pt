@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.19516,
     "lbl:longitude":-9.242871,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.19516,
     "mps:longitude":-9.242871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Campelos"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -82,7 +85,6 @@
         "fct:id":"026af078-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270357,
         "gp:id":738002,
-        "qs:id":1187316,
         "qs_pg:id":1187316,
         "wd:id":"Q582153",
         "wk:page":"Campelos e Outeiro da Cabe\u00e7a"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252957,
+    "wof:lastmodified":1566608440,
     "wof:name":"Campelos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

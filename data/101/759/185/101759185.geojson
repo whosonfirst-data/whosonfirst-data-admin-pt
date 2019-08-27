@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
+    "geom:area_square_m":1034711.078077,
     "geom:bbox":"-9.09857101202,38.8195650667,-9.08098134803,38.831236511",
     "geom:latitude":38.825537,
     "geom:longitude":-9.089894,
     "iso:country":"PT",
     "lbl:latitude":38.825533,
     "lbl:longitude":-9.089898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.825533,
     "mps:longitude":-9.089898,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":748193,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"a8bdbf2fde119dc998ba674e6678df2c",
+    "wof:geomhash":"de877304cdb051d94c6a99017ff62bca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759185,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608489,
     "wof:name":"Bairro da Castelhana",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

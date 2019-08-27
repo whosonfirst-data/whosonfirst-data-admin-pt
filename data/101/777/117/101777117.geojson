@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
+    "geom:area_square_m":1448631.86012,
     "geom:bbox":"-8.89491985914,39.7961060212,-8.87569225748,39.8101509604",
     "geom:latitude":39.802203,
     "geom:longitude":-8.885015,
     "iso:country":"PT",
     "lbl:latitude":39.801405,
     "lbl:longitude":-8.88487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.801405,
     "mps:longitude":-8.88487,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Casa dos Claros"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,10 +50,10 @@
         "fct:id":"0272562e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2269902,
         "gp:id":738594,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"1485e2f212abf8ebd4501644bf2db83f",
+    "wof:geomhash":"73adbd03fb0ff6f02da84d8611deca33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625899,
+    "wof:lastmodified":1566608442,
     "wof:name":"Casal dos Claros",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

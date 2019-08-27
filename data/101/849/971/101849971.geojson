@@ -10,12 +10,16 @@
     "geom:latitude":37.722302,
     "geom:longitude":-25.362577,
     "iso:country":"PT",
+    "lbl:bbox":"-25.382577,37.702302,-25.342577,37.742302",
     "lbl:latitude":37.722302,
     "lbl:longitude":-25.362577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.722302,
     "mps:longitude":-25.362577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ponta Gar\u00e7a"
     ],
@@ -59,9 +63,6 @@
     "name:tur_x_preferred":[
         "Ponta Gar\u00e7a"
     ],
-    "name:unk_x_variant":[
-        "Ponta da Garca"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -79,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":381,
     "wof:belongsto":[
         102191581,
@@ -91,7 +92,6 @@
         "fct:id":"02650eb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372781,
         "gp:id":538217,
-        "qs:id":1165770,
         "qs_pg:id":1165770,
         "wd:id":"Q2451631",
         "wk:page":"Ponta Gar\u00e7a"
@@ -110,7 +110,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253100,
+    "wof:lastmodified":1566608496,
     "wof:name":"Ponta Gar\u00e7a",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

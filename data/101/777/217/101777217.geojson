@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.402075,
     "lbl:longitude":-7.860878,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.402075,
     "mps:longitude":-7.860878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lagares"
     ],
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
     "wof:concordances":{
         "gn:id":8011865,
         "gp:id":742369,
-        "qs:id":999546,
+        "qs_pg:id":999546,
         "wd:id":"Q543222"
     },
     "wof:country":"PT",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101777217,
-    "wof:lastmodified":1563252955,
+    "wof:lastmodified":1566608439,
     "wof:name":"Lagares",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

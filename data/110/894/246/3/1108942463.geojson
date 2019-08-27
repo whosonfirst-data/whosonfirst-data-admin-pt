@@ -10,9 +10,12 @@
     "geom:latitude":38.718391,
     "geom:longitude":-9.129742,
     "iso:country":"PT",
+    "lbl:bbox":"-9.13474182029,38.7133905,-9.12474182029,38.7233905",
     "lbl:latitude":38.718391,
     "lbl:longitude":-9.129742,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:pol_x_preferred":[
         "Gra\u00e7a"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101752087,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108942463,
-    "wof:lastmodified":1497292363,
+    "wof:lastmodified":1566608203,
     "wof:name":"Graca",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

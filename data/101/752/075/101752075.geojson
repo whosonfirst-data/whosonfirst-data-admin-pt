@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":32.653916,
     "lbl:longitude":-16.936092,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":32.653916,
     "mps:longitude":-16.936092,
     "mz:hierarchy_label":1,
@@ -424,7 +426,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":32.65,
     "wd:longitude":-16.916667,
@@ -440,7 +442,7 @@
         "fct:id":"0275af22-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267827,
         "gp:id":741607,
-        "qs:id":796823,
+        "qs_pg:id":796823,
         "wd:id":"Q25444",
         "wk:page":"Funchal"
     },
@@ -458,7 +460,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252807,
+    "wof:lastmodified":1566608383,
     "wof:megacity":0,
     "wof:name":"Funchal",
     "wof:parent_id":85687345,

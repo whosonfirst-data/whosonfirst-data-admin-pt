@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
+    "geom:area_square_m":2282971.110246,
     "geom:bbox":"-16.8689472065,32.6449796038,-16.8507955508,32.6624112792",
     "geom:latitude":32.654395,
     "geom:longitude":-16.86043,
     "iso:country":"PT",
     "lbl:latitude":32.655035,
     "lbl:longitude":-16.860603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.655035,
     "mps:longitude":-16.860603,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma da Madeira",
     "qs:a1r":"0",
@@ -27,7 +32,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,10 +41,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55868221,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"PT",
-    "wof:geomhash":"9e90079bfcd10f00829e1ff40409f63d",
+    "wof:geomhash":"e7cf817bc8a9e974d4d9142e2a6ae4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":101877179,
-    "wof:lastmodified":1477508675,
+    "wof:lastmodified":1566608493,
     "wof:name":"Abegoaria",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

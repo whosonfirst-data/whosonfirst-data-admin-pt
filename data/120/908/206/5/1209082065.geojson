@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.68379,39.60918,-8.64379,39.64918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2267012
     },
     "wof:country":"PT",
-    "wof:geomhash":"9d9f5ce3848edc56895dd597e96b9441",
+    "wof:geomhash":"4a26e85c6481a448677c8f8090aff0fe",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209082065,
-    "wof:lastmodified":1536298305,
+    "wof:lastmodified":1566607953,
     "wof:name":"Lomba de Egua",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.663789999999999,
+    -8.66379,
     39.62918,
-    -8.663789999999999,
+    -8.66379,
     39.62918
 ],
   "geometry": {"coordinates":[-8.66379,39.62918],"type":"Point"}

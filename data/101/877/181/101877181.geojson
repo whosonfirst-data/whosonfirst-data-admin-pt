@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
+    "geom:area_square_m":2042067.848368,
     "geom:bbox":"-16.8657199929,32.6793987271,-16.8475671235,32.6950656853",
     "geom:latitude":32.687757,
     "geom:longitude":-16.857352,
     "iso:country":"PT",
     "lbl:latitude":32.688285,
     "lbl:longitude":-16.857525,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.688285,
     "mps:longitude":-16.857525,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Rochao"
     ],
@@ -33,7 +38,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,10 +49,10 @@
         "fct:id":"0275c002-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263795,
         "gp:id":747424,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"016329f3a0993a40a6919beacb2d480a",
+    "wof:geomhash":"537d41021d1016fd4af873a6b22b1f05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626519,
+    "wof:lastmodified":1566608491,
     "wof:name":"Roch\u00e3o",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

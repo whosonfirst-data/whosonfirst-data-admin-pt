@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.35286,
     "lbl:longitude":-7.352655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.35286,
     "mps:longitude":-7.352655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Belmonte"
     ],
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -139,7 +142,6 @@
         "fct:id":"0271ff3a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742285,
         "gp:id":737153,
-        "qs:id":1037680,
         "qs_pg:id":1037680,
         "wd:id":"Q816115"
     },
@@ -157,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253024,
+    "wof:lastmodified":1566608462,
     "wof:name":"Belmonte",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
+    "geom:area_square_m":382885.135547,
     "geom:bbox":"-9.34252075994,38.7166723742,-9.33248350705,38.7241647608",
     "geom:latitude":38.720594,
     "geom:longitude":-9.337638,
     "iso:country":"PT",
     "lbl:latitude":38.720459,
     "lbl:longitude":-9.337715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.720459,
     "mps:longitude":-9.337715,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042201,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"258c76813233f0096f1054578de59fb2",
+    "wof:geomhash":"9f1f366b0eed9315e3c790e6fa2836d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101758957,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608458,
     "wof:name":"Mato Cheirinhos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

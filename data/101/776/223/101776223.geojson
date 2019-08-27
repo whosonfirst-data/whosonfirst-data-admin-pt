@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.008849,
     "lbl:longitude":-8.462802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.008849,
     "mps:longitude":-8.462802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Canedo"
     ],
@@ -69,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -80,7 +83,7 @@
         "fct:id":"02711340-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741577,
         "gp:id":738095,
-        "qs:id":256920,
+        "qs_pg:id":256920,
         "wd:id":"Q4212414",
         "wk:page":"Canedo (Santa Maria da Feira)"
     },
@@ -98,7 +101,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252935,
+    "wof:lastmodified":1566608431,
     "wof:name":"Canedo",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

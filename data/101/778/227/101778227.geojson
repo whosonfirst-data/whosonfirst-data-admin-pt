@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
+    "geom:area_square_m":579565.982858,
     "geom:bbox":"-9.21093803599,38.9269357693,-9.1991071893,38.9400467933",
     "geom:latitude":38.933036,
     "geom:longitude":-9.204682,
     "iso:country":"PT",
     "lbl:latitude":38.932846,
     "lbl:longitude":-9.204771,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.932846,
     "mps:longitude":-9.204771,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Povoa da Galega"
     ],
@@ -22,9 +27,6 @@
     ],
     "name:por_x_variant":[
         "P\u00f3voa da Galega"
-    ],
-    "name:unk_x_variant":[
-        "Povoa de Gallega"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -42,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -53,7 +55,6 @@
         "fct:id":"027348f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264370,
         "gp:id":746349,
-        "qs:id":959395,
         "qs_pg:id":959395
     },
     "wof:country":"PT",
@@ -70,7 +71,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497301308,
+    "wof:lastmodified":1566608411,
     "wof:name":"P\u00f3voa da Galega",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
+    "geom:area_square_m":2087629.261251,
     "geom:bbox":"-9.33801407121,38.7184069762,-9.3178673795,38.7385750122",
     "geom:latitude":38.728301,
     "geom:longitude":-9.327693,
     "iso:country":"PT",
     "lbl:latitude":38.728811,
     "lbl:longitude":-9.327845,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.728811,
     "mps:longitude":-9.327845,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Abobada"
     ],
@@ -23,9 +28,6 @@
     "name:por_x_variant":[
         "Aboboda",
         "Ab\u00f3boda"
-    ],
-    "name:unk_x_variant":[
-        "Aboboda"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -41,7 +43,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -52,7 +54,7 @@
         "fct:id":"0268387e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272462,
         "gp:id":735285,
-        "qs:id":1252706
+        "qs_pg:id":1252706
     },
     "wof:country":"PT",
     "wof:geomhash":"a3fe66989391d2aa4029716ce8edd30e",
@@ -68,7 +70,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501262317,
+    "wof:lastmodified":1566608458,
     "wof:name":"Ab\u00f3boda",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

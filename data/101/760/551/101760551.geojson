@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.797272,
     "lbl:longitude":-9.389819,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.797272,
     "mps:longitude":-9.389819,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a\u0631\u0627"
     ],
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cintra"
     ],
     "name:vie_x_preferred":[
@@ -210,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":38.797361,
     "wd:longitude":-9.390417,
@@ -229,7 +232,6 @@
         "gn:id":2262912,
         "gp:id":748874,
         "nyt:id":"5508940429748679911",
-        "qs:id":797212,
         "qs_pg:id":797212,
         "wd:id":"Q190187",
         "wk:page":"Sintra"
@@ -248,7 +250,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253021,
+    "wof:lastmodified":1566608461,
     "wof:name":"Sintra",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

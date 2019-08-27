@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":38.995432,
     "lbl:longitude":-9.199623,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.995432,
     "mps:longitude":-9.199623,
     "mz:hierarchy_label":1,
@@ -170,9 +171,6 @@
     "name:ukr_x_variant":[
         "\u041b\u0456\u0441\u0430\u0431\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
-        "Distrito de Lisboa"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0632\u0628\u0646 \u0636\u0644\u0639"
     ],
@@ -258,9 +256,9 @@
     "qs:type":"Distrito",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-21",
+    "src:population_date":"2011-03-21",
     "statoids:area_km":"2,801",
     "statoids:area_mi":"1,082",
     "statoids:as_of_date":"2011-03-21",
@@ -304,11 +302,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563251317,
+    "wof:lastmodified":1566607584,
     "wof:name":"Lisboa",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":2250533,
     "wof:population_rank":12,

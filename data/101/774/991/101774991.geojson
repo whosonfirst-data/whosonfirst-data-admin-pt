@@ -9,15 +9,18 @@
     "geom:bbox":"-6.72178494637,41.3363815038,-6.69816549238,41.3494317136",
     "geom:latitude":41.341996,
     "geom:longitude":-6.70944,
-    "geonames:id":"2737599,2739841",
+    "gn:id":"2737599,2739841",
     "gn:population":3936,
     "iso:country":"PT",
     "lbl:latitude":41.340616,
     "lbl:longitude":-6.711229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.340616,
     "mps:longitude":-6.711229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Mogadouro"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.333333,
     "wd:longitude":-6.716667,
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":2737599,
         "gp:id":743599,
-        "qs:id":450032,
         "qs_pg:id":450032,
         "wd:id":"Q551680",
         "wk:page":"Mogadouro"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101774991,
-    "wof:lastmodified":1563253181,
+    "wof:lastmodified":1566608525,
     "wof:name":"Mogadouro",
     "wof:parent_id":85687415,
     "wof:placetype":"locality",

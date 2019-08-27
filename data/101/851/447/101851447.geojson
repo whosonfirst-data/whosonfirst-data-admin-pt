@@ -10,12 +10,16 @@
     "geom:latitude":39.758461,
     "geom:longitude":-8.90469,
     "iso:country":"PT",
+    "lbl:bbox":"-8.92469,39.738461,-8.88469,39.778461",
     "lbl:latitude":39.758461,
     "lbl:longitude":-8.90469,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.758461,
     "mps:longitude":-8.90469,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Trutas"
     ],
@@ -35,7 +39,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -46,7 +50,7 @@
         "fct:id":"026b5a2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262484,
         "gp:id":749651,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
     "wof:geomhash":"736346fe0b354959784ae9f573a9d7e1",
@@ -62,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544741795,
+    "wof:lastmodified":1566608408,
     "wof:name":"Trutas",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

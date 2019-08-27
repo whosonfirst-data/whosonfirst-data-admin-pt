@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.914592,
     "lbl:longitude":-7.458157,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.914592,
     "mps:longitude":-7.458157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Alcains"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.915403,
     "wd:longitude":-7.461078,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":8011648,
         "gp:id":735577,
-        "qs:id":1158363,
         "qs_pg:id":1158363,
         "wd:id":"Q1024258"
     },
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101777183,
-    "wof:lastmodified":1563252981,
+    "wof:lastmodified":1566608448,
     "wof:name":"Alcains",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

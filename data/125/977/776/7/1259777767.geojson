@@ -25,8 +25,12 @@
     "gn:population":3545,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.74649,37.06771,-8.70649,37.10771",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Senhora da Luz"
     ],
@@ -60,10 +64,6 @@
     "name:swe_x_preferred":[
         "Praia da Luz"
     ],
-    "name:und_x_variant":[
-        "Luz",
-        "Senhora da Luz"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1259777767,
-    "wof:lastmodified":1564221873,
+    "wof:lastmodified":1566608990,
     "wof:name":"Senhora da Luz",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

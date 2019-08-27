@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.35381,39.2967,-7.31381,39.3367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2265813
     },
     "wof:country":"PT",
-    "wof:geomhash":"73e4baaf8f0773049e3e63d0017ee0d1",
+    "wof:geomhash":"ed385384a5cc69610cf762c1d9872b49",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209078741,
-    "wof:lastmodified":1536298408,
+    "wof:lastmodified":1566607932,
     "wof:name":"Monte Sete",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3338100000000015,
+    -7.33381,
     39.3167,
-    -7.3338100000000015,
+    -7.33381,
     39.3167
 ],
   "geometry": {"coordinates":[-7.33381,39.3167],"type":"Point"}

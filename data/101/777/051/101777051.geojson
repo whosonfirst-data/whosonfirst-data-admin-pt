@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
+    "geom:area_square_m":499602.972544,
     "geom:bbox":"-9.34051229137,39.1787222504,-9.32450260746,39.187805549",
     "geom:latitude":39.183157,
     "geom:longitude":-9.331297,
     "iso:country":"PT",
     "lbl:latitude":39.184626,
     "lbl:longitude":-9.329175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.184626,
     "mps:longitude":-9.329175,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Maceira"
     ],
@@ -33,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,7 +49,6 @@
         "fct:id":"02715fda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266915,
         "gp:id":742939,
-        "qs:id":1353123,
         "qs_pg:id":1353123
     },
     "wof:country":"PT",
@@ -61,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497299085,
+    "wof:lastmodified":1566608447,
     "wof:name":"Maceira",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

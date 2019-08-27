@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.57261,41.45897,-8.53261,41.49897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Carreira"
     ],
@@ -58,8 +62,7 @@
         "\u041a\u0430\u0440\u0440\u0435\u0439\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "S\u00e3o Miguel",
-        "Carreira"
+        "S\u00e3o Miguel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1193051175,
-    "wof:lastmodified":1564220413,
+    "wof:lastmodified":1566608119,
     "wof:name":"Carreira",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

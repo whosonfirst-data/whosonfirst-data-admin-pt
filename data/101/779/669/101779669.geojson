@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.923351,
     "lbl:longitude":-7.793383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.923351,
     "mps:longitude":-7.793383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Cabe\u00e7a Gorda"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"026a8e94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270581,
         "gp:id":737719,
-        "qs:id":87322,
+        "qs_pg:id":87322,
         "wd:id":"Q1024806",
         "wk:page":"Cabe\u00e7a Gorda"
     },
@@ -106,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252996,
+    "wof:lastmodified":1566608451,
     "wof:name":"Cabe\u00e7a Gorda",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

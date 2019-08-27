@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
+    "geom:area_square_m":1055752.42243,
     "geom:bbox":"-9.21358181485,38.7944083597,-9.19804885761,38.805999035",
     "geom:latitude":38.799796,
     "geom:longitude":-9.206551,
     "iso:country":"PT",
     "lbl:latitude":38.800508,
     "lbl:longitude":-9.206699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.800508,
     "mps:longitude":-9.206699,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":740850,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"52469e0b8521ba80d26ea0a8b24e0612",
+    "wof:geomhash":"5927349b1e7cc2761be67159d452cd32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759095,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608483,
     "wof:name":"Bairro Trigache e Casal Novo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

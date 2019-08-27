@@ -10,12 +10,16 @@
     "geom:latitude":41.636558,
     "geom:longitude":-8.355453,
     "iso:country":"PT",
+    "lbl:bbox":"-8.375453,41.616558,-8.335453,41.656558",
     "lbl:latitude":41.636558,
     "lbl:longitude":-8.355453,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.636558,
     "mps:longitude":-8.355453,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Amares"
     ],
@@ -117,7 +121,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.633333,
     "wd:longitude":-8.35,
     "wd:wordcount":110,
@@ -131,7 +135,6 @@
         "fct:id":"026dadae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742958,
         "gp:id":736085,
-        "qs:id":315216,
         "qs_pg:id":315216,
         "wd:id":"Q455012"
     },
@@ -149,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252835,
+    "wof:lastmodified":1566608391,
     "wof:name":"Amares",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

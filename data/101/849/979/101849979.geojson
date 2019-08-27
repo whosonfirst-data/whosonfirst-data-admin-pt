@@ -11,12 +11,16 @@
     "geom:longitude":-27.060999,
     "gn:population":6061,
     "iso:country":"PT",
+    "lbl:bbox":"-27.080999,38.709286,-27.040999,38.749286",
     "lbl:latitude":38.729286,
     "lbl:longitude":-27.060999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.729286,
     "mps:longitude":-27.060999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u064a\u0627 \u062f\u064a \u0641\u064a\u062a\u0648\u0631\u064a\u0627"
     ],
@@ -102,9 +106,6 @@
     "name:tur_x_preferred":[
         "Praia da Vit\u00f3ria"
     ],
-    "name:unk_x_variant":[
-        "Praia da Victoria"
-    ],
     "name:vie_x_preferred":[
         "Praia da Vit\u00f3ria"
     ],
@@ -134,7 +135,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2010,
     "wof:belongsto":[
@@ -147,9 +148,11 @@
         "fct:id":"0265111c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372470,
         "gp:id":538451,
-        "qs:id":220702,
-        "qs_pg:id":264509,
+        "qs_pg:id":220702,
         "wd:id":"Q73046"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":264509
     },
     "wof:country":"PT",
     "wof:geomhash":"81a6d49161c15913dbfb13be1835a88b",
@@ -165,7 +168,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253098,
+    "wof:lastmodified":1566608496,
     "wof:name":"Vila da Praia da Vit\u00f3ria",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

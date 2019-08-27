@@ -9,14 +9,18 @@
     "geom:bbox":"-8.81973,41.85644,-8.81973,41.85644",
     "geom:latitude":41.85644,
     "geom:longitude":-8.81973,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.83973,41.83644,-8.79973,41.87644",
     "lbl:latitude":41.85644,
     "lbl:longitude":-8.81973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Vilarelho"
@@ -48,9 +52,6 @@
     "name:spa_x_preferred":[
         "Vilarelho"
     ],
-    "name:unk_x_variant":[
-        "Vilarelho"
-    ],
     "qs_pg:aaroncc":"PT",
     "qs_pg:gn_country":"PT",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +71,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":750400,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Viana do Castelo",
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1125802981,
-    "wof:lastmodified":1563253461,
+    "wof:lastmodified":1566608669,
     "wof:name":"Venade",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

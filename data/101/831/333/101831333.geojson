@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.698198,
     "lbl:longitude":-7.908411,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.698198,
     "mps:longitude":-7.908411,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Viseu",
     "qs:a1r":"0",
@@ -30,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":738023,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
     "wof:geomhash":"3c4bb7a1955e01b640cef868d18111d6",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":101831333,
-    "wof:lastmodified":1535390521,
+    "wof:lastmodified":1566608510,
     "wof:name":"P\u00f3voa de Abraveses",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

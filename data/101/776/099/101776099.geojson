@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.327079,
     "lbl:longitude":-8.924491,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.327079,
     "mps:longitude":-8.924491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648 \u0645\u0627\u064a\u0648\u0631"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":129,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
         "fct:id":"026be442-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263823,
         "gp:id":747380,
-        "qs:id":911422,
         "qs_pg:id":911422,
         "wd:id":"Q941958"
     },
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252915,
+    "wof:lastmodified":1566608425,
     "wof:name":"Rio Maior",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

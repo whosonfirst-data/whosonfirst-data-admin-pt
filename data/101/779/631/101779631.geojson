@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1219329.912759,
+    "geom:area_square_m":1219329.912758,
     "geom:bbox":"-8.12544703075,38.0536556171,-8.11092966211,38.0705659631",
     "geom:latitude":38.061095,
     "geom:longitude":-8.117714,
@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.060394,
     "lbl:longitude":-8.117605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.060394,
     "mps:longitude":-8.117605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:kaz_x_preferred":[
         "\u0424\u0435\u0440\u0440\u0435\u0439\u0440\u0430-\u0434\u0443-\u0410\u043b\u0435\u043d\u0442\u0435\u0436\u0443"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":48,
     "wof:belongsto":[
@@ -70,7 +73,6 @@
         "fct:id":"026f2224-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2268252,
         "gp:id":740997,
-        "qs:id":278335,
         "qs_pg:id":278335,
         "wd:id":"Q2258063",
         "wk:page":"Ferreira do Alentejo (freguesia)"
@@ -89,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688556,
+    "wof:lastmodified":1566608454,
     "wof:name":"Ferreira do Alentejo",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

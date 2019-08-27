@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":589491.346199,
+    "geom:area_square_m":589491.3462,
     "geom:bbox":"-8.21663277835,39.4213203852,-8.20632788051,39.4329182546",
     "geom:latitude":39.427357,
     "geom:longitude":-8.210749,
     "iso:country":"PT",
     "lbl:latitude":39.427594,
     "lbl:longitude":-8.210671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.427594,
     "mps:longitude":-8.210671,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rossio ao Sul do Tejo"
     ],
@@ -47,7 +50,7 @@
     "name:tur_x_preferred":[
         "Rossio ao Sul do Tejo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rocio-d\u2019Abramtes"
     ],
     "qs:a0":"Portugal",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -78,8 +81,10 @@
         "fct:id":"0269a63c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263715,
         "gp:id":747523,
-        "qs:id":1254632,
         "qs_pg:id":306724
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1254632
     },
     "wof:country":"PT",
     "wof:geomhash":"f6355416bd949cb5675f875b3b53d166",
@@ -95,7 +100,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1504310314,
+    "wof:lastmodified":1566608421,
     "wof:name":"S\u00e3o Miguel do Rio Torto",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":349884.295458,
     "geom:bbox":"-8.79568886144,37.0916595831,-8.78645632469,37.0995609549",
     "geom:latitude":37.095368,
     "geom:longitude":-8.791363,
     "iso:country":"PT",
     "lbl:latitude":37.094976,
     "lbl:longitude":-8.792447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.094976,
     "mps:longitude":-8.792447,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"2",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867532,
-        "qs:id":136654,
         "qs_pg:id":136654
     },
     "wof:country":"PT",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101910757,
-    "wof:lastmodified":1497292116,
+    "wof:lastmodified":1566608531,
     "wof:name":"Alma Verde",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

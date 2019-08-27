@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000704,
+    "geom:area_square_m":6804153.287179,
     "geom:bbox":"-9.088537187,38.5324701035,-9.04221316978,38.5741118392",
     "geom:latitude":38.551197,
     "geom:longitude":-9.062494,
     "iso:country":"PT",
     "lbl:latitude":38.547061,
     "lbl:longitude":-9.058632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.547061,
     "mps:longitude":-9.058632,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23412860,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"cb69f4ae6a879a7703b6166c7d5dfead",
+    "wof:geomhash":"2d316411a6c38e92efa236e62b7fceb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832875,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608398,
     "wof:name":"Pinhal do General",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

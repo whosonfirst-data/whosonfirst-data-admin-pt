@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.708772,
     "lbl:longitude":-9.154725,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.697283,
     "mps:longitude":-9.154864,
     "mz:hierarchy_label":1,
@@ -27,9 +28,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:por_x_preferred":[
-        "Madragoa"
-    ],
-    "name:unk_x_variant":[
         "Madragoa"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -59,7 +57,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -67,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2272374,
         "gp:id":742997,
-        "qs:id":1158418
+        "qs_pg:id":1158418
     },
     "wof:country":"PT",
     "wof:geomhash":"54e3edfa5e6ba60ed1d0c173883b6114",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607564,
     "wof:name":"Madragoa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

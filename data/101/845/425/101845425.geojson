@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.715176,
     "lbl:longitude":-8.187408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.715176,
     "mps:longitude":-8.187408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Oliveira de Frades"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.733333,
     "wd:longitude":-8.166667,
     "wd:wordcount":194,
@@ -110,7 +113,6 @@
         "fct:id":"0270b396-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737043,
         "gp:id":744716,
-        "qs:id":1081350,
         "qs_pg:id":1081350,
         "wd:id":"Q861584",
         "wk:page":"Oliveira de Frades"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252815,
+    "wof:lastmodified":1566608385,
     "wof:name":"Oliveira de Frades",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

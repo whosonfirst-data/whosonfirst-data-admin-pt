@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
+    "geom:area_square_m":439679.900851,
     "geom:bbox":"-7.2805318372,38.8572178536,-7.26839457635,38.8652817338",
     "geom:latitude":38.861334,
     "geom:longitude":-7.27469,
     "iso:country":"PT",
     "lbl:latitude":38.86025,
     "lbl:longitude":-7.275794,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.86025,
     "mps:longitude":-7.275794,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0627\u0648 \u062f\u0648 \u0643\u0627\u0646\u062a\u0648 \u0647 \u0643\u0627\u0633\u062a\u0631\u0648"
     ],
@@ -59,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -70,10 +75,10 @@
         "fct:id":"026f8fc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261657,
         "gp:id":750601,
-        "qs:id":178506
+        "qs_pg:id":178506
     },
     "wof:country":"PT",
-    "wof:geomhash":"60026ca2823c9c9fe2f2817cfab78d6a",
+    "wof:geomhash":"4ac4f2a85fc8bf014ba909da678ecc63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467245377,
+    "wof:lastmodified":1566608411,
     "wof:name":"Vila Boim",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

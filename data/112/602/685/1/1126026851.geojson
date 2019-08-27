@@ -9,17 +9,20 @@
     "geom:bbox":"-8.63971,41.53846,-8.63971,41.53846",
     "geom:latitude":41.53846,
     "geom:longitude":-8.63971,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4018,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":4018,
     "iso:country":"PT",
+    "lbl:bbox":"-8.65971,41.51846,-8.61971,41.55846",
     "lbl:latitude":41.53846,
     "lbl:longitude":-8.63971,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Martinho"
     ],
     "qs_pg:aaroncc":"PT",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":575790,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1126026851,
-    "wof:lastmodified":1509407598,
+    "wof:lastmodified":1566608619,
     "wof:name":"Vila Frescainha",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

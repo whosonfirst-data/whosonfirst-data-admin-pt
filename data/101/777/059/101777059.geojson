@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.122108,
     "lbl:longitude":-7.283515,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.122108,
     "mps:longitude":-7.283515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u043e\u043d\u0447\u0435\u0441"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -130,7 +133,6 @@
         "fct:id":"0265ca30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271448,
         "gp:id":736522,
-        "qs:id":139296,
         "qs_pg:id":139296,
         "wd:id":"Q700311",
         "wk:page":"Arronches"
@@ -149,7 +151,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252976,
+    "wof:lastmodified":1566608446,
     "wof:name":"Arronches",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

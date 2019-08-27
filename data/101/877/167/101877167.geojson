@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":32.667462,
     "lbl:longitude":-16.847003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.667462,
     "mps:longitude":-16.847003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogueira"
     ],
@@ -68,7 +71,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         "fct:id":"0275cc50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265522,
         "gp:id":744586,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"PT",
     "wof:geomhash":"d20b3c7aaa5050fa9bef88db6b78d465",
@@ -96,7 +99,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564221009,
+    "wof:lastmodified":1566608489,
     "wof:name":"Nogueira",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

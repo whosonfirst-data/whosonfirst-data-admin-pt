@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
+    "geom:area_square_m":2317709.487587,
     "geom:bbox":"-16.9847192564,32.6710544788,-16.9698560233,32.689205429",
     "geom:latitude":32.680084,
     "geom:longitude":-16.977806,
     "iso:country":"PT",
     "lbl:latitude":32.68013,
     "lbl:longitude":-16.977204,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":32.68013,
     "mps:longitude":-16.977204,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma da Madeira",
     "qs:a1r":"0",
@@ -27,7 +32,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,10 +41,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55868054,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"539e92efd9f16fdc638433f8a4c89244",
+    "wof:geomhash":"20d3b14b963f4c3d2eb9b9307e1aa55d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":101877185,
-    "wof:lastmodified":1477508675,
+    "wof:lastmodified":1566608493,
     "wof:name":"Romeiras",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"-8.6370044204,41.0404059395,-8.60425937952,41.0736653927",
     "geom:latitude":41.059183,
     "geom:longitude":-8.62034,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.063978,
     "lbl:longitude":-8.621459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.063978,
     "mps:longitude":-8.621459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Serzedo"
     ],
@@ -88,7 +91,7 @@
     "qs_pg:woe_id":748769,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,6 @@
         "fct:id":"02752b10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734029,
         "gp:id":748769,
-        "qs:id":1116406,
         "qs_pg:id":1116406,
         "wd:id":"Q1532333"
     },
@@ -118,7 +120,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253063,
+    "wof:lastmodified":1566608478,
     "wof:name":"Serzedo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

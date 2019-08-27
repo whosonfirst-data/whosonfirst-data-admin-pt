@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.518051,
     "lbl:longitude":-9.020995,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.518051,
     "mps:longitude":-9.020995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Azeit\u00e3o"
     ],
@@ -59,7 +62,7 @@
     "name:spa_x_preferred":[
         "Azeit\u00e3o"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Nogueira"
     ],
     "qs:a0":"Portugal",
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -89,7 +92,6 @@
         "fct:id":"02687992-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261633,
         "gp:id":750746,
-        "qs:id":1353445,
         "qs_pg:id":1353445,
         "wd:id":"Q793641"
     },
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828722,
+    "wof:lastmodified":1566608407,
     "wof:name":"Vila Nogueira de Azeit\u00e3o",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

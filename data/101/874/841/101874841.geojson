@@ -10,12 +10,16 @@
     "geom:latitude":41.102846,
     "geom:longitude":-8.63472,
     "iso:country":"PT",
+    "lbl:bbox":"-8.65472,41.082846,-8.61472,41.122846",
     "lbl:latitude":41.102846,
     "lbl:longitude":-8.63472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.102846,
     "mps:longitude":-8.63472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u098f\u09b8\u09cd\u099f\u09be\u0995\u09af\u09bc\u09be\u0993"
     ],
@@ -86,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":739964,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
     "wof:geomhash":"d8a7555b540176e077a9a78e4e65793a",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101874841,
-    "wof:lastmodified":1564220931,
+    "wof:lastmodified":1566608391,
     "wof:name":"Esta\u00e7\u00e3o",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

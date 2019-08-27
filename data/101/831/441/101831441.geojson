@@ -9,14 +9,17 @@
     "geom:bbox":"-8.32377811476,41.3513468776,-8.29806336604,41.4107441249",
     "geom:latitude":41.376475,
     "geom:longitude":-8.310405,
-    "geonames:id":"2732240,2732241,2732242",
+    "gn:id":"2732240,2732241,2732242",
     "iso:country":"PT",
     "lbl:latitude":41.378552,
     "lbl:longitude":-8.310589,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.378552,
     "mps:longitude":-8.310589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0632\u064a\u0644\u0627"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0437\u0435\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Faustino"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.383333,
     "wd:longitude":-8.3,
     "wd:wordcount":112,
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":2732240,
         "gp:id":751133,
-        "qs:id":1061438,
+        "qs_pg:id":1061438,
         "wd:id":"Q551955"
     },
     "wof:country":"PT",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101831441,
-    "wof:lastmodified":1563253121,
+    "wof:lastmodified":1566608504,
     "wof:name":"Vizela",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

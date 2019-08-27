@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000521,
+    "geom:area_square_m":4888904.842213,
     "geom:bbox":"-8.63192347714,40.6208106126,-8.59026717942,40.6533290986",
     "geom:latitude":40.636077,
     "geom:longitude":-8.608719,
     "iso:country":"PT",
     "lbl:latitude":40.64033,
     "lbl:longitude":-8.615075,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.64033,
     "mps:longitude":-8.615075,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Sol Posto"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026af474-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733867,
         "gp:id":749002,
-        "qs:id":1254770
+        "qs_pg:id":1254770
     },
     "wof:country":"PT",
-    "wof:geomhash":"9aa737c9b588f0ae1a778dfbd5dcf536",
+    "wof:geomhash":"9403b811ad0fe69d286d587de7ed0149",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626131,
+    "wof:lastmodified":1566608515,
     "wof:name":"Sol Posto",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

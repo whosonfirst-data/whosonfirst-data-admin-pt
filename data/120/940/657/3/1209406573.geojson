@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.88364,40.2755,-7.84364,40.3155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2743186
     },
     "wof:country":"PT",
-    "wof:geomhash":"e84a874c32f5edb49e8226d019a1a426",
+    "wof:geomhash":"ebbe489d42ba07c23a596eeaccb0ed1a",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209406573,
-    "wof:lastmodified":1536287977,
+    "wof:lastmodified":1566607984,
     "wof:name":"Aldeia das Dez",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.863639999999998,
+    -7.86364,
     40.2955,
-    -7.863639999999998,
+    -7.86364,
     40.2955
 ],
   "geometry": {"coordinates":[-7.86364,40.2955],"type":"Point"}

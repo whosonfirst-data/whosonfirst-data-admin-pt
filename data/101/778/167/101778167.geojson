@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":2388411.094184,
+    "geom:area_square_m":2388411.094186,
     "geom:bbox":"-8.95785132897,38.5605534142,-8.93095584779,38.5816014348",
     "geom:latitude":38.570878,
     "geom:longitude":-8.947608,
@@ -13,17 +13,17 @@
     "iso:country":"PT",
     "lbl:latitude":38.572021,
     "lbl:longitude":-8.948524,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.572021,
     "mps:longitude":-8.948524,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:por_x_preferred":[
         "Quinta do Anjo"
     ],
     "name:por_x_variant":[
-        "Quinta da Anjo"
-    ],
-    "name:unk_x_variant":[
         "Quinta da Anjo"
     ],
     "qs:a0":"Portugal",
@@ -42,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +54,6 @@
         "fct:id":"026c15ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264169,
         "gp:id":746731,
-        "qs:id":1225431,
         "qs_pg:id":1225431
     },
     "wof:country":"PT",
@@ -71,7 +70,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1505337889,
+    "wof:lastmodified":1566608411,
     "wof:name":"Quinta do Anjo",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

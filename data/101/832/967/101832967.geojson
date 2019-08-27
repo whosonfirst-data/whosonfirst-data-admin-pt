@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.730173,
     "lbl:longitude":-9.276783,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.730173,
     "mps:longitude":-9.276783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Barcarena"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"027076c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271140,
         "gp:id":736933,
-        "qs:id":888158,
         "qs_pg:id":888158,
         "wd:id":"Q807903"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252862,
+    "wof:lastmodified":1566608403,
     "wof:name":"Barcarena",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.344612,
     "lbl:longitude":-8.397449,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.344612,
     "mps:longitude":-8.397449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Tom\u00e9 de Negrelos"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -75,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23412954,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1600659"
     },
     "wof:country":"PT",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101831425,
-    "wof:lastmodified":1561828737,
+    "wof:lastmodified":1566608503,
     "wof:name":"S\u00e3o Tom\u00e9 de Negrelos",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

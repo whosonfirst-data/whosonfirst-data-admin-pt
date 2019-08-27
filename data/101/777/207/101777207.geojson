@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.237873,
     "lbl:longitude":-8.509345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.237873,
     "mps:longitude":-8.509345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Jo\u00e3o do Campo"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -75,7 +78,6 @@
         "fct:id":"027574c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734472,
         "gp:id":748205,
-        "qs:id":1158458,
         "qs_pg:id":1158458,
         "wd:id":"Q1307982"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828730,
+    "wof:lastmodified":1566608446,
     "wof:name":"S\u00e3o Jo\u00e3o do Campo",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

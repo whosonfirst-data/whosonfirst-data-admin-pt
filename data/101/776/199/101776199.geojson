@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.384628,
     "lbl:longitude":-8.474472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.384628,
     "mps:longitude":-8.474472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Antes"
     ],
@@ -45,7 +48,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,7 @@
         "fct:id":"026f83b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742851,
         "gp:id":736250,
-        "qs:id":914671
+        "qs_pg:id":914671
     },
     "wof:country":"PT",
     "wof:geomhash":"220d0c9ac5ff071f677c38906ea19d2c",
@@ -73,7 +76,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527688309,
+    "wof:lastmodified":1566608430,
     "wof:name":"Antes",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

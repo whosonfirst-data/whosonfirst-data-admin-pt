@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.101991,
     "lbl:longitude":-7.662137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.101991,
     "mps:longitude":-7.662137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Santa Luzia"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -86,10 +89,12 @@
         "fct:id":"026c2696-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372642,
         "gp:id":538329,
-        "qs:id":1168225,
         "qs_pg:id":302902,
         "wd:id":"Q2687695",
         "wk:page":"Santa Luzia (Tavira)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1168225
     },
     "wof:country":"PT",
     "wof:geomhash":"ddabf0ce45a8ee3b7eb55f316c019da7",
@@ -105,7 +110,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253177,
+    "wof:lastmodified":1566608524,
     "wof:name":"Santa Luzia",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

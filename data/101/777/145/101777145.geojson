@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.586935,
     "lbl:longitude":-9.023704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.586935,
     "mps:longitude":-9.023704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Valado dos Frades"
     ],
@@ -52,9 +55,6 @@
     "name:spa_x_preferred":[
         "Valado dos Frades"
     ],
-    "name:unk_x_variant":[
-        "Valado dos Frades"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Leiria",
     "qs:a1r":"0",
@@ -69,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -79,7 +79,7 @@
     "wof:concordances":{
         "gn:id":2262432,
         "gp:id":749737,
-        "qs:id":273315,
+        "qs_pg:id":273315,
         "wd:id":"Q1542827"
     },
     "wof:country":"PT",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":101777145,
-    "wof:lastmodified":1563252962,
+    "wof:lastmodified":1566608441,
     "wof:name":"Valado de Frades",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

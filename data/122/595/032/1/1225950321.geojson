@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.3892,41.54236,-8.3492,41.58236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Este"
     ],
@@ -79,8 +83,7 @@
         "\u0415\u0441\u0442\u0435"
     ],
     "name:und_x_variant":[
-        "S\u00e3o Pedro",
-        "Este"
+        "S\u00e3o Pedro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1225950321,
-    "wof:lastmodified":1564222050,
+    "wof:lastmodified":1566609076,
     "wof:name":"Este",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

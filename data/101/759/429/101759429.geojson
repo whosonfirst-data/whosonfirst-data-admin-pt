@@ -9,17 +9,19 @@
     "geom:bbox":"-8.59629601054,41.0202915432,-8.57972182778,41.0329843565",
     "geom:latitude":41.025865,
     "geom:longitude":-8.587821,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10907,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":10907,
     "iso:country":"PT",
     "lbl:latitude":41.026233,
     "lbl:longitude":-8.587005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":41.026233,
     "mps:longitude":-8.587005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Grij\u00f3"
     ],
@@ -104,7 +106,7 @@
     "qs_pg:woe_id":742061,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +118,6 @@
         "fct:id":"026816dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738803,
         "gp:id":742061,
-        "qs:id":188194,
         "qs_pg:id":188194,
         "wd:id":"Q1546770",
         "wk:page":"Grij\u00f3 (Vila Nova de Gaia)"
@@ -135,7 +136,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253069,
+    "wof:lastmodified":1566608480,
     "wof:name":"Grij\u00f3",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

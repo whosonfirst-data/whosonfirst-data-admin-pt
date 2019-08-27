@@ -9,14 +9,18 @@
     "geom:bbox":"-28.2,38.45,-28.2,38.45",
     "geom:latitude":38.45,
     "geom:longitude":-28.2,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-28.22,38.43,-28.18,38.47",
     "lbl:latitude":38.45,
     "lbl:longitude":-28.2,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u0987\u09a8\u09b9\u09be"
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Prainha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prainha de Baixo"
     ],
     "qs_pg:aaroncc":"PT",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":538243,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Azores",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125867611,
-    "wof:lastmodified":1564221242,
+    "wof:lastmodified":1566608644,
     "wof:name":"Prainha",
     "wof:parent_id":85687447,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.94509,38.76506,-7.90509,38.80506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2269191
     },
     "wof:country":"PT",
-    "wof:geomhash":"14780ebbbb5c774534b2fafe06268095",
+    "wof:geomhash":"ff8eb534a60507adc9395311c6d67a17",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209299943,
-    "wof:lastmodified":1536291393,
+    "wof:lastmodified":1566608039,
     "wof:name":"Clerigos",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.925089999999999,
+    -7.92509,
     38.78506,
-    -7.925089999999999,
+    -7.92509,
     38.78506
 ],
   "geometry": {"coordinates":[-7.92509,38.78506],"type":"Point"}

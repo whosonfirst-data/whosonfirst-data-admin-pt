@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
+    "geom:area_square_m":2172709.462695,
     "geom:bbox":"-9.20512944012,38.6030535929,-9.18491703066,38.620939651",
     "geom:latitude":38.613059,
     "geom:longitude":-9.195724,
     "iso:country":"PT",
     "lbl:latitude":38.613337,
     "lbl:longitude":-9.195917,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.613337,
     "mps:longitude":-9.195917,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":2262215,
         "gp:id":749929,
-        "qs:id":1254949
+        "qs_pg:id":1254949
     },
     "wof:country":"PT",
-    "wof:geomhash":"4fed12840ab2131be8e6159fa891399e",
+    "wof:geomhash":"88d952fb613840d7dd403ca62c9d939c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101832873,
-    "wof:lastmodified":1466626138,
+    "wof:lastmodified":1566608397,
     "wof:name":"Vale Cavala",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

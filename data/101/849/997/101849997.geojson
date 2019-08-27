@@ -10,12 +10,16 @@
     "geom:latitude":38.766014,
     "geom:longitude":-27.103398,
     "iso:country":"PT",
+    "lbl:bbox":"-27.123398,38.746014,-27.083398,38.786014",
     "lbl:latitude":38.766014,
     "lbl:longitude":-27.103398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.766014,
     "mps:longitude":-27.103398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Lajes"
     ],
@@ -65,9 +69,6 @@
     "name:tur_x_preferred":[
         "Lajes"
     ],
-    "name:unk_x_variant":[
-        "Lagens"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u65e5\u4ec0"
     ],
@@ -88,7 +89,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -99,7 +100,6 @@
         "fct:id":"02650406-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372952,
         "gp:id":538099,
-        "qs:id":908907,
         "qs_pg:id":908907,
         "wd:id":"Q2652876",
         "wk:page":"Lajes (Praia da Vit\u00f3ria)"
@@ -118,7 +118,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253094,
+    "wof:lastmodified":1566608494,
     "wof:name":"Lajes",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

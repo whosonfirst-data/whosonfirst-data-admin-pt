@@ -9,14 +9,16 @@
     "geom:bbox":"-8.580939,41.155772,-8.580939,41.155772",
     "geom:latitude":41.155772,
     "geom:longitude":-8.580939,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:latitude":41.15706,
     "gn:longitude":-8.57466,
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.585939,41.150772,-8.575939,41.160772",
     "lbl:latitude":41.155772,
     "lbl:longitude":-8.580939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.160964,
     "mps:longitude":-8.567519,
     "mz:hierarchy_label":0,
@@ -73,9 +75,6 @@
     "name:spa_x_preferred":[
         "Campanh\u00e3"
     ],
-    "name:unk_x_variant":[
-        "Campanh\u00e3"
-    ],
     "name:zho_x_preferred":[
         "\u574e\u5e15\u5c3c\u626c"
     ],
@@ -130,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -142,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2741667,
         "gp:id":737991,
-        "qs:id":109725,
         "qs_pg:id":109725,
         "wd:id":"Q1030214"
     },
@@ -161,7 +159,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563251291,
+    "wof:lastmodified":1566607568,
     "wof:name":"Campanh\u00e3",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"-8.26822,41.04342,-8.26822,41.04342",
     "geom:latitude":41.04342,
     "geom:longitude":-8.26822,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.28822,41.02342,-8.24822,41.06342",
     "lbl:latitude":41.04342,
     "lbl:longitude":-8.26822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:arg_x_preferred":[
         "Sobrado"
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castelo de Paiva"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +112,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":748910,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Aveiro",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1125846057,
-    "wof:lastmodified":1564221487,
+    "wof:lastmodified":1566608781,
     "wof:name":"Sobrado",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

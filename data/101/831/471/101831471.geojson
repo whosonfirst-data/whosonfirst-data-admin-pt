@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.679292,
     "lbl:longitude":-8.779325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.679292,
     "mps:longitude":-8.779325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Darque"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.683333,
     "wd:longitude":-8.8,
@@ -87,7 +90,6 @@
         "fct:id":"026e98ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740159,
         "gp:id":740313,
-        "qs:id":1037675,
         "qs_pg:id":1037675,
         "wd:id":"Q370761",
         "wk:page":"Darque"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253119,
+    "wof:lastmodified":1566608503,
     "wof:name":"Darque",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

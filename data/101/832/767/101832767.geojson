@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
+    "geom:area_square_m":3153944.727124,
     "geom:bbox":"-8.56769492191,37.1357671526,-8.54387651771,37.164154814",
     "geom:latitude":37.151447,
     "geom:longitude":-8.55699,
     "iso:country":"PT",
     "lbl:latitude":37.155798,
     "lbl:longitude":-8.558934,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.155798,
     "mps:longitude":-8.558934,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":739439,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"b4f9b031f7a14925702151fbb80010f1",
+    "wof:geomhash":"e3cef8fff3e16d2c6a817b3e59a1c7bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832767,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608402,
     "wof:name":"Pedra Mourinha-Vale Lagar",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

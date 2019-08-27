@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.056533,
     "lbl:longitude":-7.650435,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.056533,
     "mps:longitude":-7.650435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Fronteira"
     ],
@@ -96,7 +99,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -107,7 +110,7 @@
         "fct:id":"026b4f8c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267832,
         "gp:id":741592,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q647467"
     },
     "wof:country":"PT",
@@ -124,7 +127,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252959,
+    "wof:lastmodified":1566608440,
     "wof:name":"Fronteira",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

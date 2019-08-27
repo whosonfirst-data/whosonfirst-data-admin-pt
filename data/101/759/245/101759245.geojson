@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.972599,
     "lbl:longitude":-8.583302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.972599,
     "mps:longitude":-8.583302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pa\u00e7os de Brand\u00e3o"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.783333,
     "wd:longitude":-8.583333,
@@ -97,7 +100,6 @@
         "fct:id":"02717830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2736884,
         "gp:id":744920,
-        "qs:id":894034,
         "qs_pg:id":894034,
         "wd:id":"Q4346748",
         "wk:page":"Pa\u00e7os de Brand\u00e3o"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253034,
+    "wof:lastmodified":1566608466,
     "wof:name":"Pa\u00e7os de Brand\u00e3o",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

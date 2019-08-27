@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000069,
+    "geom:area_square_m":664810.271613,
     "geom:bbox":"-9.32851960721,38.7130464606,-9.31538855171,38.7273111766",
     "geom:latitude":38.720521,
     "geom:longitude":-9.321155,
     "iso:country":"PT",
     "lbl:latitude":38.720401,
     "lbl:longitude":-9.320508,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.720401,
     "mps:longitude":-9.320508,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -27,7 +32,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:concordances":{
         "gn:id":2264593,
         "gp:id":745960,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"4330e4420094f0b885785f489eb8b450",
+    "wof:geomhash":"dc18f6f6d699c66239ca11a09775bd58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101878365,
-    "wof:lastmodified":1472227636,
+    "wof:lastmodified":1566608500,
     "wof:name":"Outeiro de Polima",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

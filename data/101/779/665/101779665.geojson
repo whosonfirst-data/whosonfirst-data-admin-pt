@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.09443,
     "lbl:longitude":-8.206321,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.09443,
     "mps:longitude":-8.206321,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Figueira dos Cavaleiros"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -82,9 +85,11 @@
     "wof:concordances":{
         "gn:id":2269471,
         "gp:id":739222,
-        "qs:id":206287,
-        "qs_pg:id":1055565,
+        "qs_pg:id":206287,
         "wd:id":"Q1411971"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055565
     },
     "wof:country":"PT",
     "wof:geomhash":"8b5b389be1b4df4c53fdaafc37493632",
@@ -97,7 +102,7 @@
         }
     ],
     "wof:id":101779665,
-    "wof:lastmodified":1563253005,
+    "wof:lastmodified":1566608454,
     "wof:name":"Figueira dos Cavaleiros",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.12603,
     "lbl:longitude":-7.650956,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":37.12603,
     "mps:longitude":-7.650956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0648\u064a\u0631\u0627"
     ],
@@ -171,7 +174,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1098,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
         "fct:id":"026a850c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262744,
         "gp:id":749235,
-        "qs:id":238304,
         "qs_pg:id":238304,
         "wd:id":"Q372840",
         "wk:page":"Tavira"
@@ -203,7 +205,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253172,
+    "wof:lastmodified":1566608522,
     "wof:name":"Tavira",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":40.129298,
     "geom:longitude":-8.243865,
     "iso:country":"PT",
+    "lbl:bbox":"-8.263865,40.109298,-8.223865,40.149298",
     "lbl:latitude":40.129298,
     "lbl:longitude":-8.243865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.129298,
     "mps:longitude":-8.243865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Gandara"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -49,7 +53,7 @@
         "fct:id":"02730498-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739101,
         "gp:id":741732,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
     "wof:geomhash":"c6405b1123a2045434f5a9e815ad07fb",
@@ -65,7 +69,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544751809,
+    "wof:lastmodified":1566608391,
     "wof:name":"G\u00e2ndaras",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

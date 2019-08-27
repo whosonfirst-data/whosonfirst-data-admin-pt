@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.993761,
     "lbl:longitude":-8.969014,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.993761,
     "mps:longitude":-8.969014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Castanheira do Ribatejo"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0448\u0442\u0430\u043d\u044c\u0454\u0439\u0440\u0430-\u0434\u0443-\u0420\u0456\u0431\u0430\u0442\u0435\u0436\u0443"
     ],
-    "name:unk_x_variant":[
-        "Castanheira"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.983333,
     "wd:longitude":-8.966667,
@@ -87,7 +87,6 @@
         "fct:id":"026cc6be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2269556,
         "gp:id":739100,
-        "qs:id":1353021,
         "qs_pg:id":1353021,
         "wd:id":"Q1048511",
         "wk:page":"Castanheira do Ribatejo e Cachoeiras"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253017,
+    "wof:lastmodified":1566608459,
     "wof:name":"Castanheira do Ribatejo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
+    "geom:area_square_m":1049049.656139,
     "geom:bbox":"-8.7872510897,39.6013175062,-8.76836834935,39.6277782782",
     "geom:latitude":39.614618,
     "geom:longitude":-8.779684,
     "iso:country":"PT",
     "lbl:latitude":39.61419,
     "lbl:longitude":-8.782688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.61419,
     "mps:longitude":-8.782688,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Alqueidao da Serra"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,10 +50,10 @@
         "fct:id":"0272fea8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271860,
         "gp:id":735978,
-        "qs:id":256854
+        "qs_pg:id":256854
     },
     "wof:country":"PT",
-    "wof:geomhash":"9a8706393628fcd524a3b3b062dd5852",
+    "wof:geomhash":"2acf7857263421fe61139a36859253d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626199,
+    "wof:lastmodified":1566608386,
     "wof:name":"Alqueid\u00e3o da Serra",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":2259604.194076,
+    "geom:area_square_m":2259604.194075,
     "geom:bbox":"-9.36613592796,38.7081072058,-9.34416053918,38.7330169727",
     "geom:latitude":38.721494,
     "geom:longitude":-9.352752,
     "iso:country":"PT",
     "lbl:latitude":38.714011,
     "lbl:longitude":-9.34834,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.714011,
     "mps:longitude":-9.34834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0637\u0627\u0631 \u0645\u0637\u0627\u0637\u064a"
     ],
@@ -210,7 +213,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":14235,
     "wof:belongsto":[
         102191581,
@@ -222,7 +225,6 @@
         "fct:id":"02752aa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262674,
         "gp:id":749352,
-        "qs:id":368307,
         "qs_pg:id":368307,
         "wd:id":"Q25374396"
     },
@@ -240,7 +242,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527714679,
+    "wof:lastmodified":1566608471,
     "wof:name":"Tires",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

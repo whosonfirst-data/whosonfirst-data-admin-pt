@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
+    "geom:area_square_m":1409863.052763,
     "geom:bbox":"-9.37435150913,38.7033158756,-9.35971354128,38.7212500545",
     "geom:latitude":38.713256,
     "geom:longitude":-9.367747,
     "iso:country":"PT",
     "lbl:latitude":38.716762,
     "lbl:longitude":-9.368246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.716762,
     "mps:longitude":-9.368246,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Caparide"
     ],
@@ -32,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -43,7 +48,6 @@
         "fct:id":"027123d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270228,
         "gp:id":738157,
-        "qs:id":265689,
         "qs_pg:id":265689
     },
     "wof:country":"PT",
@@ -60,7 +64,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497294395,
+    "wof:lastmodified":1566608501,
     "wof:name":"Caparide",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

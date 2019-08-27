@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
+    "geom:area_square_m":1467224.601162,
     "geom:bbox":"-9.39875015009,38.7376198886,-9.38454475807,38.7578713448",
     "geom:latitude":38.748048,
     "geom:longitude":-9.392228,
     "iso:country":"PT",
     "lbl:latitude":38.748713,
     "lbl:longitude":-9.394004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.748713,
     "mps:longitude":-9.394004,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Fermelha"
     ],
     "qs:a0":"Portugal",
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -41,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2261708,
         "gp:id":750512,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"PT",
     "wof:geomhash":"32cb110b7ef236f5bc81bedac61b72ec",
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":101760553,
-    "wof:lastmodified":1501262281,
+    "wof:lastmodified":1566608462,
     "wof:name":"Bairro da Cruz Vermelha",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

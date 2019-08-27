@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.91984,39.43269,-7.87984,39.47269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2268706
     },
     "wof:country":"PT",
-    "wof:geomhash":"18574cc66aa2d9a2a0da43a7fbec25ef",
+    "wof:geomhash":"dadb20580bc1acdd3d57f5bfa48799b1",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209384611,
-    "wof:lastmodified":1536288667,
+    "wof:lastmodified":1566607931,
     "wof:name":"Degracia Cimeira",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.899839999999998,
+    -7.89984,
     39.45269,
-    -7.899839999999998,
+    -7.89984,
     39.45269
 ],
   "geometry": {"coordinates":[-7.89984,39.45269],"type":"Point"}

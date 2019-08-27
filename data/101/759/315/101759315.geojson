@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":855396.33257,
     "geom:bbox":"-8.68022953419,41.1882023807,-8.66540006358,41.1981009497",
     "geom:latitude":41.19349,
     "geom:longitude":-8.672672,
     "iso:country":"PT",
     "lbl:latitude":41.193348,
     "lbl:longitude":-8.672666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.193348,
     "mps:longitude":-8.672666,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":748610,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"ee2bd732e564087e458bdce416de3c06",
+    "wof:geomhash":"987aec033dd7fa80e409325f88777a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759315,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608473,
     "wof:name":"Paus",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

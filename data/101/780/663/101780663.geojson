@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.053838,
     "lbl:longitude":-7.749966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.053838,
     "mps:longitude":-7.749966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Fuseta"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":788,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"02749c9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2267792,
         "gp:id":741642,
-        "qs:id":883568,
         "qs_pg:id":883568,
         "wd:id":"Q2652799",
         "wk:page":"Fuseta"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253176,
+    "wof:lastmodified":1566608523,
     "wof:name":"Fuseta",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

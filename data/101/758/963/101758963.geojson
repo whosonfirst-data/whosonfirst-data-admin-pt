@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
+    "geom:area_square_m":1142165.064299,
     "geom:bbox":"-9.34650738201,38.7077216982,-9.33021576172,38.7206554958",
     "geom:latitude":38.712476,
     "geom:longitude":-9.339294,
     "iso:country":"PT",
     "lbl:latitude":38.712425,
     "lbl:longitude":-9.339849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.712425,
     "mps:longitude":-9.339849,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56041813,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"9938fac2e7cd8d5c2abc95291860946f",
+    "wof:geomhash":"0137c1ab15a1d1f172838c6f230b70b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101758963,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608456,
     "wof:name":"Bairro Al\u00e9m das Vinhas",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

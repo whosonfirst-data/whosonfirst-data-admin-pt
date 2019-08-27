@@ -5,23 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
+    "geom:area_square_m":931239.659335,
     "geom:bbox":"-9.38052886264,38.8051186445,-9.35953748091,38.8154627832",
     "geom:latitude":38.810763,
     "geom:longitude":-9.369893,
     "iso:country":"PT",
     "lbl:latitude":38.812336,
     "lbl:longitude":-9.368306,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.812336,
     "mps:longitude":-9.368306,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Lourel de Baixo"
     ],
     "name:por_x_variant":[
         "Lourel"
-    ],
-    "name:unk_x_variant":[
-        "Lourel de Baixo"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -37,7 +39,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -48,7 +50,7 @@
         "fct:id":"0273de54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266979,
         "gp:id":29385502,
-        "qs:id":247299
+        "qs_pg:id":247299
     },
     "wof:country":"PT",
     "wof:geomhash":"1757d8bfb5f56db01e30ece379cb038f",
@@ -64,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501262309,
+    "wof:lastmodified":1566608459,
     "wof:name":"Lourel",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

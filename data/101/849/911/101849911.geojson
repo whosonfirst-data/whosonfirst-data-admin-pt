@@ -10,12 +10,16 @@
     "geom:latitude":38.784559,
     "geom:longitude":-9.277984,
     "iso:country":"PT",
+    "lbl:bbox":"-9.297984,38.764559,-9.257984,38.804559",
     "lbl:latitude":38.784559,
     "lbl:longitude":-9.277984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.784559,
     "mps:longitude":-9.277984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Venda Seca"
     ],
@@ -36,7 +40,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,7 +51,6 @@
         "fct:id":"026f0848-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261742,
         "gp:id":750446,
-        "qs:id":885178,
         "qs_pg:id":885178
     },
     "wof:country":"PT",
@@ -64,7 +67,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544741174,
+    "wof:lastmodified":1566608499,
     "wof:name":"Venda Seca",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.160548,
     "lbl:longitude":-8.613261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.160548,
     "mps:longitude":-8.613261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Mexilhoeira Grande"
     ],
@@ -61,9 +64,6 @@
     "name:spa_x_preferred":[
         "Mexilhoeira Grande"
     ],
-    "name:unk_x_variant":[
-        "Mexilhoeira"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -78,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":771,
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,7 @@
         "fct:id":"02759f0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266425,
         "gp:id":743501,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1019708"
     },
     "wof:country":"PT",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253177,
+    "wof:lastmodified":1566608524,
     "wof:name":"Mexilhoeira Grande",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
+    "geom:area_square_m":380599.765131,
     "geom:bbox":"-9.16265565774,38.8056718651,-9.15537734136,38.8130439587",
     "geom:latitude":38.809417,
     "geom:longitude":-9.159211,
     "iso:country":"PT",
     "lbl:latitude":38.809084,
     "lbl:longitude":-9.159644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.809084,
     "mps:longitude":-9.159644,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22661041,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"876262e8281d9906771c4ddbf5633606",
+    "wof:geomhash":"319e74775048e12441f731bc862c9c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101760555,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608462,
     "wof:name":"Flamenga",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

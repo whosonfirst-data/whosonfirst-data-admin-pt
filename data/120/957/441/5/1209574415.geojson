@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.83132,41.66212,-7.79132,41.70212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2732366
     },
     "wof:country":"PT",
-    "wof:geomhash":"135405d00986e5e9050ddfb0cdcd51b1",
+    "wof:geomhash":"6cfeb7f89ca719bd8262aa70790a0ae4",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209574415,
-    "wof:lastmodified":1536282983,
+    "wof:lastmodified":1566608004,
     "wof:name":"Vilarinho Seco",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.8113199999999985,
+    -7.81132,
     41.68212,
-    -7.8113199999999985,
+    -7.81132,
     41.68212
 ],
   "geometry": {"coordinates":[-7.81132,41.68212],"type":"Point"}

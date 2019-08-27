@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
+    "geom:area_square_m":289723.889141,
     "geom:bbox":"-8.75525985379,39.8421065799,-8.74346122492,39.8477836333",
     "geom:latitude":39.844496,
     "geom:longitude":-8.750071,
     "iso:country":"PT",
     "lbl:latitude":39.844672,
     "lbl:longitude":-8.751457,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.844672,
     "mps:longitude":-8.751457,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Leiria",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":8014334,
         "gp:id":737267,
-        "qs:id":180063
+        "qs_pg:id":180063
     },
     "wof:country":"PT",
-    "wof:geomhash":"9dd827f527999ad48b9709a6b6cc1a45",
+    "wof:geomhash":"8ce266b3fd13ff87357109d5810f3121",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101777119,
-    "wof:lastmodified":1466625899,
+    "wof:lastmodified":1566608442,
     "wof:name":"Bidoeira de Cima",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

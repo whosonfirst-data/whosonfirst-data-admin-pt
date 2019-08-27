@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.759453,
     "lbl:longitude":-8.068545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.759453,
     "mps:longitude":-8.068545,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:por_x_colloquial":[
         "Sao Pedro do Sul"
     ],
@@ -30,9 +33,6 @@
         "Santo Pedro do Sul",
         "Sto Pedro do Sul",
         "Sto. Pedro do Sul"
-    ],
-    "name:unk_x_variant":[
-        "Santo Pedro do Sul"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Viseu",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":22,
     "wof:belongsto":[
@@ -63,7 +63,6 @@
         "fct:id":"02679bbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734351,
         "gp:id":747745,
-        "qs:id":1081437,
         "qs_pg:id":1081437,
         "wd:id":"Q402130"
     },
@@ -81,7 +80,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527715886,
+    "wof:lastmodified":1566608528,
     "wof:name":"S\u00e3o Pedro do Sul",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.816641,
     "lbl:longitude":-9.236802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.816641,
     "mps:longitude":-9.236802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Cane\u00e7as"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.816667,
     "wd:longitude":-9.233333,
@@ -93,7 +96,6 @@
         "fct:id":"02701f76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270290,
         "gp:id":738092,
-        "qs:id":1034648,
         "qs_pg:id":1034648,
         "wd:id":"Q1026716"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253017,
+    "wof:lastmodified":1566608459,
     "wof:name":"Cane\u00e7as",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

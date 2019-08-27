@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":882585.69632,
     "geom:bbox":"-9.32366334637,38.7861129703,-9.30696123155,38.7980021971",
     "geom:latitude":38.792651,
     "geom:longitude":-9.315435,
     "iso:country":"PT",
     "lbl:latitude":38.791673,
     "lbl:longitude":-9.314866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.791673,
     "mps:longitude":-9.314866,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Rinchoa"
     ],
@@ -33,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,7 +49,6 @@
         "fct:id":"02751080-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263838,
         "gp:id":747331,
-        "qs:id":1157114,
         "qs_pg:id":1157114
     },
     "wof:country":"PT",
@@ -61,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497298819,
+    "wof:lastmodified":1566608455,
     "wof:name":"Rinchoa",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

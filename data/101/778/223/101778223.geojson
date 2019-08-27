@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.212016,
     "lbl:longitude":-8.9579,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.212016,
     "mps:longitude":-8.9579,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Perdig\u00e3o Queiroga"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,6 @@
         "fct:id":"02740460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272143,
         "gp:id":735622,
-        "qs:id":139299,
         "qs_pg:id":139299
     },
     "wof:country":"PT",
@@ -75,7 +77,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1505337889,
+    "wof:lastmodified":1566608416,
     "wof:name":"Alcoentre",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

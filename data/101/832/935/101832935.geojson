@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.658818,
     "lbl:longitude":-9.150872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.658818,
     "mps:longitude":-9.150872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Laranjeiro"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":8013119,
         "gp:id":23412814,
-        "qs:id":1183158,
         "qs_pg:id":1183158,
         "wd:id":"Q1805874",
         "wk:page":"Laranjeiro"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101832935,
-    "wof:lastmodified":1563252861,
+    "wof:lastmodified":1566608403,
     "wof:name":"Laranjeiro",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

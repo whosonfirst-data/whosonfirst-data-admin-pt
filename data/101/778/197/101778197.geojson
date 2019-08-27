@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.830625,
     "lbl:longitude":-7.838444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.830625,
     "mps:longitude":-7.838444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vimieiro"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
         "fct:id":"0268df18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261569,
         "gp:id":751087,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
     "wof:geomhash":"cda00d57fe679e0f0ae22931d20322a7",
@@ -82,7 +85,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220952,
+    "wof:lastmodified":1566608415,
     "wof:name":"Vimieiro",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

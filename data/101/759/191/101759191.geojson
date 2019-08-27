@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.843557,
     "lbl:longitude":-9.082383,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.843557,
     "mps:longitude":-9.082383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Santa Iria de Az\u00f3ia"
     ],
@@ -57,9 +60,6 @@
     "name:spa_x_preferred":[
         "Santa Iria de Az\u00f3ia"
     ],
-    "name:unk_x_variant":[
-        "Santa Iria"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"026dd982-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263523,
         "gp:id":747877,
-        "qs:id":218362,
         "qs_pg:id":218362,
         "wd:id":"Q2057078"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828734,
+    "wof:lastmodified":1566608475,
     "wof:name":"Santa Iria de Az\u00f3ia",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

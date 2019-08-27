@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.710972,
     "lbl:longitude":-8.48616,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.710972,
     "mps:longitude":-8.48616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Albergaria-a-Velha"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0440\u0433\u0430\u0440\u0456\u044f-\u0430-\u0412\u0435\u043b\u044c\u044f"
     ],
-    "name:unk_x_variant":[
-        "Albergaria"
-    ],
     "name:vie_x_preferred":[
         "Albergaria-a-Velha"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.693611,
     "wd:longitude":-8.480556,
@@ -126,7 +126,6 @@
         "fct:id":"0267a7ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743233,
         "gp:id":735558,
-        "qs:id":179098,
         "qs_pg:id":179098,
         "wd:id":"Q1870321",
         "wk:page":"Albergaria-a-Velha"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253198,
+    "wof:lastmodified":1566608529,
     "wof:name":"Albergaria-a-Velha",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

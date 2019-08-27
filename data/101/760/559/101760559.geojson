@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
-    "geom:area_square_m":2709491.317103,
+    "geom:area_square_m":2709491.317102,
     "geom:bbox":"-9.03904281964,38.9003845172,-9.01421015047,38.9207999227",
     "geom:latitude":38.910404,
     "geom:longitude":-9.026433,
@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.906705,
     "lbl:longitude":-9.027867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.906705,
     "mps:longitude":-9.027867,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:por_x_preferred":[
         "Sobralinho"
     ],
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,6 @@
         "fct:id":"02702fc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262867,
         "gp:id":748950,
-        "qs:id":139245,
         "qs_pg:id":139245
     },
     "wof:country":"PT",
@@ -65,7 +67,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1505337775,
+    "wof:lastmodified":1566608461,
     "wof:name":"Sobralinho",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

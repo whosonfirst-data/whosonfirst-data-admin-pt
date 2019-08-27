@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.752367,
     "lbl:longitude":-8.95228,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.752367,
     "mps:longitude":-8.95228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Alcochete"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.75,
     "wd:longitude":-8.966667,
@@ -144,7 +147,6 @@
         "fct:id":"02746b1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272144,
         "gp:id":735621,
-        "qs:id":458198,
         "qs_pg:id":458198,
         "wd:id":"Q605319"
     },
@@ -162,7 +164,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252977,
+    "wof:lastmodified":1566608447,
     "wof:name":"Alcochete",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

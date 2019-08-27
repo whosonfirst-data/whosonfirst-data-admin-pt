@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.125641,
     "lbl:longitude":-8.570011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.125641,
     "mps:longitude":-8.570011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bemposta"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29382325,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
     "wof:geomhash":"494f2815ecdc0b6baef15839b5dbbf15",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101832773,
-    "wof:lastmodified":1564220946,
+    "wof:lastmodified":1566608407,
     "wof:name":"Bemposta",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

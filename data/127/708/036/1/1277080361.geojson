@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.01034,41.46933,-7.97034,41.50933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u062a\u0648"
     ],
@@ -58,8 +62,7 @@
         "Basto"
     ],
     "name:und_x_variant":[
-        "Santa Senhorinha",
-        "Basto"
+        "Santa Senhorinha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1277080361,
-    "wof:lastmodified":1564219764,
+    "wof:lastmodified":1566607753,
     "wof:name":"Basto",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

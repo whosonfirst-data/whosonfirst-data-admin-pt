@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.657471,
     "lbl:longitude":-8.687591,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.657471,
     "mps:longitude":-8.687591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:chv_x_preferred":[
         "\u041b\u043e\u0443\u0440\u0435\u0439\u0440\u0443"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2266983,
         "gp:id":29382484,
-        "qs:id":527389,
+        "qs_pg:id":527389,
         "wd:id":"Q1474000"
     },
     "wof:country":"PT",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101831309,
-    "wof:lastmodified":1563253115,
+    "wof:lastmodified":1566608501,
     "wof:name":"Loureira",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

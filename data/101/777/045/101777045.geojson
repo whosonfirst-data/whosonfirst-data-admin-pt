@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.702794,
     "lbl:longitude":-7.402137,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.702794,
     "mps:longitude":-7.402137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Alandroal"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":38.62,
     "wd:longitude":-7.40806,
     "wd:wordcount":1679,
@@ -124,7 +127,6 @@
         "fct:id":"02693346-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272242,
         "gp:id":735535,
-        "qs:id":1168163,
         "qs_pg:id":1168163,
         "wd:id":"Q726910"
     },
@@ -142,7 +144,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252969,
+    "wof:lastmodified":1566608444,
     "wof:name":"Alandroal",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

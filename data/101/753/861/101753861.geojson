@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000143,
-    "geom:area_square_m":1382972.984362,
+    "geom:area_square_m":1382972.984363,
     "geom:bbox":"-8.85285442042,38.5030768434,-8.82390322685,38.5210098842",
     "geom:latitude":38.513554,
     "geom:longitude":-8.837843,
     "iso:country":"PT",
     "lbl:latitude":38.510818,
     "lbl:longitude":-8.842888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.510818,
     "mps:longitude":-8.842888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -32,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,7 +45,9 @@
     "wof:concordances":{
         "gn:id":8013164,
         "gp:id":23412869,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":981387
     },
     "wof:country":"PT",
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101753861,
-    "wof:lastmodified":1507750661,
+    "wof:lastmodified":1566608383,
     "wof:name":"Praias do Sado",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

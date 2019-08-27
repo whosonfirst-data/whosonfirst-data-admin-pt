@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.699642,
     "lbl:longitude":-9.378097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.699642,
     "mps:longitude":-9.378097,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "S Pedro do Estoril",
         "S. Pedro do Estoril",
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1477,
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
         "fct:id":"027303d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263237,
         "gp:id":748364,
-        "qs:id":1353363,
         "qs_pg:id":1353363,
         "wd:id":"Q5472499"
     },
@@ -71,7 +73,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527714682,
+    "wof:lastmodified":1566608479,
     "wof:name":"S\u00e3o Pedro do Estoril",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",
