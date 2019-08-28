@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.475735,
     "lbl:longitude":-7.975401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.475735,
     "mps:longitude":-7.975401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cabanas de Viriato"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.483333,
     "wd:longitude":-7.983333,
     "wd:wordcount":99,
@@ -82,7 +85,6 @@
         "fct:id":"0274b3a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741897,
         "gp:id":737683,
-        "qs:id":1054058,
         "qs_pg:id":1054058,
         "wd:id":"Q64444",
         "wk:page":"Cabanas de Viriato"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828727,
+    "wof:lastmodified":1566608426,
     "wof:name":"Cabanas de Viriato",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

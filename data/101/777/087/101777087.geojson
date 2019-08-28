@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.34845,
     "lbl:longitude":-8.529802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.34845,
     "mps:longitude":-8.529802,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Azinhaga"
     ],
@@ -91,9 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0437\u0456\u043d\u044c\u044f\u0491\u0430"
     ],
-    "name:unk_x_variant":[
-        "Azinhega"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Santar\u00e9m",
     "qs:a1r":"0",
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.349922,
     "wd:longitude":-8.532817,
     "wd:wordcount":67,
@@ -124,7 +124,6 @@
         "fct:id":"026b4992-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271296,
         "gp:id":736732,
-        "qs:id":1063069,
         "qs_pg:id":1063069,
         "wd:id":"Q793814"
     },
@@ -142,7 +141,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252969,
+    "wof:lastmodified":1566608444,
     "wof:name":"Azinhaga",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

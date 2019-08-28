@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
+    "geom:area_square_m":578427.401936,
     "geom:bbox":"-8.65446126224,40.6125547854,-8.64427389705,40.6219818835",
     "geom:latitude":40.617229,
     "geom:longitude":-8.649453,
     "iso:country":"PT",
     "lbl:latitude":40.617267,
     "lbl:longitude":-8.650059,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.617267,
     "mps:longitude":-8.650059,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Verdemilho"
     ],
@@ -30,7 +35,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -41,10 +46,10 @@
         "fct:id":"027044f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732800,
         "gp:id":750499,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"93ae5fc5a77ac3c238c58cd99b84a0bf",
+    "wof:geomhash":"fa1757a1ed43469298339c2890dfa0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +62,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626523,
+    "wof:lastmodified":1566608500,
     "wof:name":"Verdemilho",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

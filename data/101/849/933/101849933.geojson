@@ -9,10 +9,13 @@
     "geom:bbox":"-25.676338,37.740825,-25.676338,37.740825",
     "geom:latitude":37.740825,
     "geom:longitude":-25.676338,
-    "geonames:id":"3372783,6941014",
+    "gn:id":"3372783,6941014",
     "iso:country":"PT",
+    "lbl:bbox":"-25.696338,37.720825,-25.656338,37.760825",
     "lbl:latitude":37.740825,
     "lbl:longitude":-25.676338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.740825,
     "mps:longitude":-25.676338,
     "mz:hierarchy_label":1,
@@ -346,7 +349,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":37.733333,
     "wd:longitude":-25.666667,
     "wd:wordcount":4162,
@@ -359,9 +362,11 @@
     "wof:concordances":{
         "gn:id":6941014,
         "gp:id":538002,
-        "qs:id":3,
-        "qs_pg:id":1058243,
+        "qs_pg:id":3,
         "wd:id":"Q208149"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1058243
     },
     "wof:country":"PT",
     "wof:geomhash":"3a3e94d5cc49d7b5216a92e03c4b887f",
@@ -374,7 +379,7 @@
         }
     ],
     "wof:id":101849933,
-    "wof:lastmodified":1563253104,
+    "wof:lastmodified":1566608498,
     "wof:name":"Ponta Delgada",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

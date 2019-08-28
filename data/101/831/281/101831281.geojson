@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
+    "geom:area_square_m":1060036.754441,
     "geom:bbox":"-9.32618899799,39.1470249268,-9.30361412755,39.1605431272",
     "geom:latitude":39.153928,
     "geom:longitude":-9.312786,
     "iso:country":"PT",
     "lbl:latitude":39.152827,
     "lbl:longitude":-9.309793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.152827,
     "mps:longitude":-9.309793,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Andr\u00e9 Bernardes Santos"
     ],
@@ -59,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -70,10 +75,10 @@
         "fct:id":"026e612c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262855,
         "gp:id":748981,
-        "qs:id":1254766
+        "qs_pg:id":1254766
     },
     "wof:country":"PT",
-    "wof:geomhash":"afb6bffd621778e9d240a8daf5f1da47",
+    "wof:geomhash":"416ad4eefabbc3d53260ab12030b0dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +91,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467245813,
+    "wof:lastmodified":1566608505,
     "wof:name":"Sobreiro Curvo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

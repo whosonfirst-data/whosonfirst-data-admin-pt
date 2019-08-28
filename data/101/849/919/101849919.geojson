@@ -10,12 +10,16 @@
     "geom:latitude":39.155315,
     "geom:longitude":-8.542293,
     "iso:country":"PT",
+    "lbl:bbox":"-8.562293,39.135315,-8.522293,39.175315",
     "lbl:latitude":39.155315,
     "lbl:longitude":-8.542293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.155315,
     "mps:longitude":-8.542293,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Santar\u00e9m",
     "qs:a1r":"0",
@@ -33,7 +37,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -43,7 +47,9 @@
     "wof:concordances":{
         "gn:id":2272377,
         "gp:id":29384387,
-        "qs:id":4,
+        "qs_pg:id":4
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1187354
     },
     "wof:country":"PT",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":101849919,
-    "wof:lastmodified":1544741178,
+    "wof:lastmodified":1566608499,
     "wof:name":"Pa\u00e7o dos Negros",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":42.076538,
     "lbl:longitude":-8.482356,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.076538,
     "mps:longitude":-8.482356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u0995\u09af\u09bc\u09be\u0993"
     ],
@@ -72,7 +75,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0441\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mons\u00e3o"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.066667,
     "wd:longitude":-8.466667,
@@ -118,7 +121,6 @@
         "fct:id":"0275a2e8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737523,
         "gp:id":743704,
-        "qs:id":141263,
         "qs_pg:id":141263,
         "wd:id":"Q425738"
     },
@@ -136,7 +138,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828740,
+    "wof:lastmodified":1566608521,
     "wof:name":"Mon\u00e7\u00e3o",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

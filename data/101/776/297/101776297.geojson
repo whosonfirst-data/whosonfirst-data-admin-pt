@@ -9,16 +9,19 @@
     "geom:bbox":"-8.56935354768,41.0582434992,-8.53726949117,41.0776990772",
     "geom:latitude":41.06849,
     "geom:longitude":-8.550022,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.0689,
     "lbl:longitude":-8.550088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.0689,
     "mps:longitude":-8.550088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pedroso"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":159,
     "wof:belongsto":[
         102191581,
@@ -111,13 +114,12 @@
         "fct:id":"026aea10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2736521,
         "gp:id":745426,
-        "qs:id":188285,
-        "qs_pg:id":1243767,
+        "qs_pg:id":188285,
         "wd:id":"Q2066907"
     },
     "wof:concordances_alt":{
         "gn:id":2736522,
-        "qs_pg:id":188285
+        "qs_pg:id":1243767
     },
     "wof:country":"PT",
     "wof:geomhash":"e4ae7759d1198aa0df8aee184c2cbf93",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252941,
+    "wof:lastmodified":1566608433,
     "wof:name":"Pedroso",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

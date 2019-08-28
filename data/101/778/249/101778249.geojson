@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
+    "geom:area_square_m":489630.662917,
     "geom:bbox":"-7.25815750101,39.001777216,-7.24360299728,39.0159250758",
     "geom:latitude":39.008206,
     "geom:longitude":-7.251061,
     "iso:country":"PT",
     "lbl:latitude":39.007394,
     "lbl:longitude":-7.250951,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.007394,
     "mps:longitude":-7.250951,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Santa Eulalia",
         "Sta Eulalia",
@@ -42,7 +47,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -53,7 +58,6 @@
         "fct:id":"026cbfac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263528,
         "gp:id":747874,
-        "qs:id":1013282,
         "qs_pg:id":1013282
     },
     "wof:country":"PT",
@@ -70,7 +74,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497300293,
+    "wof:lastmodified":1566608416,
     "wof:name":"Santa Eul\u00e1lia",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

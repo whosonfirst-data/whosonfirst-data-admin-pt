@@ -9,17 +9,19 @@
     "geom:bbox":"-8.31648701192,41.189869579,-8.25413842102,41.226789808",
     "geom:latitude":41.208234,
     "geom:longitude":-8.285743,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8065,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":8065,
     "iso:country":"PT",
     "lbl:latitude":41.210858,
     "lbl:longitude":-8.282673,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.210858,
     "mps:longitude":-8.282673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0641\u0627\u064a\u0644"
     ],
@@ -165,7 +167,7 @@
     "qs_pg:woe_id":745478,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":148,
     "wof:belongsto":[
@@ -178,7 +180,6 @@
         "fct:id":"026a2f94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2736469,
         "gp:id":745478,
-        "qs:id":685376,
         "qs_pg:id":685376,
         "wd:id":"Q984656"
     },
@@ -196,7 +197,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253197,
+    "wof:lastmodified":1566608529,
     "wof:name":"Penafiel",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

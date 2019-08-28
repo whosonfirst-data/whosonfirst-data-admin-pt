@@ -10,8 +10,10 @@
     "geom:latitude":38.707954,
     "geom:longitude":-9.134362,
     "iso:country":"PT",
+    "lbl:bbox":"-9.13936237468,38.7029539407,-9.12936237468,38.7129539407",
     "lbl:latitude":38.707954,
     "lbl:longitude":-9.134362,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -75,7 +77,7 @@
     "name:vol_x_preferred":[
         "Madalena"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101752087,
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1108942525,
-    "wof:lastmodified":1564220585,
+    "wof:lastmodified":1566608206,
     "wof:name":"Madalena",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

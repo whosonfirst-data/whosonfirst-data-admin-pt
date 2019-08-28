@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.425192,
     "lbl:longitude":-7.537624,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.425192,
     "mps:longitude":-7.537624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u063a\u0648\u064a\u0646\u063a\u0648\u0633"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0435\u043d\u0433\u0443\u0448-\u0434\u0435-\u041c\u043e\u043d\u0441\u0430\u0440\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "Reguengos"
-    ],
     "name:vie_x_preferred":[
         "Reguengos de Monsaraz"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.416667,
     "wd:longitude":-7.533333,
@@ -127,10 +127,12 @@
         "fct:id":"0273fcb8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266246,
         "gp:id":743732,
-        "qs:id":911409,
         "qs_pg:id":883591,
         "wd:id":"Q990439",
         "wk:page":"Reguengos de Monsaraz"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":911409
     },
     "wof:country":"PT",
     "wof:geomhash":"cc2b99db8cd6a30e80afe273f2105c8e",
@@ -146,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252916,
+    "wof:lastmodified":1566608425,
     "wof:name":"Reguengos de Monsaraz",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

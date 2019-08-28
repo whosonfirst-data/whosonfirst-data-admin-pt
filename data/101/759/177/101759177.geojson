@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
+    "geom:area_square_m":446123.480382,
     "geom:bbox":"-9.14311050749,38.7893374392,-9.13418794238,38.7986460947",
     "geom:latitude":38.794072,
     "geom:longitude":-9.138184,
     "iso:country":"PT",
     "lbl:latitude":38.79415,
     "lbl:longitude":-9.138252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.79415,
     "mps:longitude":-9.138252,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Bairro de F\u00e1tima"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,10 +44,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"9e3a7cf4a639ea0e021da9cfc56f3e8a",
+    "wof:geomhash":"17d73ae19eead6aa9a0a17b4fd0b1f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":101759177,
-    "wof:lastmodified":1467242937,
+    "wof:lastmodified":1566608486,
     "wof:name":"Bairro de S\u00e3o Francisco",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

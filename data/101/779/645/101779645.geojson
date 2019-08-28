@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.165604,
     "lbl:longitude":-7.892746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.165604,
     "mps:longitude":-7.892746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cuba"
     ],
@@ -117,7 +120,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -128,7 +131,7 @@
         "fct:id":"026a3cfa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2268789,
         "gp:id":740210,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q552580"
     },
     "wof:country":"PT",
@@ -145,7 +148,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252991,
+    "wof:lastmodified":1566608450,
     "wof:name":"Cuba",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

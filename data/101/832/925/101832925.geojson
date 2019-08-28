@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.656955,
     "lbl:longitude":-9.04687,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.656955,
     "mps:longitude":-9.04687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Baixa da Banheira"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":8014693,
         "gp:id":23412811,
-        "qs:id":24670,
         "qs_pg:id":24670,
         "wd:id":"Q2451300",
         "wk:page":"Baixa da Banheira e Vale da Amoreira"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101832925,
-    "wof:lastmodified":1563252856,
+    "wof:lastmodified":1566608402,
     "wof:name":"Baixa da Banheira",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

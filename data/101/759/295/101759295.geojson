@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
+    "geom:area_square_m":262495.406155,
     "geom:bbox":"-8.6704969964,41.1956300404,-8.66338458495,41.2037108985",
     "geom:latitude":41.199136,
     "geom:longitude":-8.666698,
     "iso:country":"PT",
     "lbl:latitude":41.199035,
     "lbl:longitude":-8.666645,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.199035,
     "mps:longitude":-8.666645,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ch\u00e3 de Igreja"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -43,10 +48,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":742721,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"c0ee7c2c779487f11122cca674636a0f",
+    "wof:geomhash":"99a1a4f59821c42f1290a9e47a2191dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101759295,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608469,
     "wof:name":"Igreja",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

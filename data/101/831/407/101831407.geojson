@@ -9,14 +9,17 @@
     "geom:bbox":"-8.5860438409,41.3221341575,-8.56654884756,41.3553176606",
     "geom:latitude":41.340886,
     "geom:longitude":-8.574026,
-    "geonames:id":"2738545,2738546",
+    "gn:id":"2738545,2738546",
     "iso:country":"PT",
     "lbl:latitude":41.326512,
     "lbl:longitude":-8.569826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.326512,
     "mps:longitude":-8.569826,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Lagoa"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24899992,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
     "wof:geomhash":"ac8f8be8e5791b621bd5251e160b69a5",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101831407,
-    "wof:lastmodified":1564221022,
+    "wof:lastmodified":1566608506,
     "wof:name":"Lagoa",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

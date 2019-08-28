@@ -9,14 +9,18 @@
     "geom:bbox":"-8.19346,41.24966,-8.19346,41.24966",
     "geom:latitude":41.24966,
     "geom:longitude":-8.19346,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.21346,41.22966,-8.17346,41.26966",
     "lbl:latitude":41.24966,
     "lbl:longitude":-8.19346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Ata\u00edde"
@@ -48,7 +52,7 @@
     "name:spa_x_preferred":[
         "Ata\u00edde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Athayde"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":736588,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Porto",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125836943,
-    "wof:lastmodified":1563253707,
+    "wof:lastmodified":1566608789,
     "wof:name":"Ata\u00edde",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

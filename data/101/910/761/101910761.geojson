@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":1149216.881964,
     "geom:bbox":"-8.52265935148,38.6788019383,-8.49431358061,38.6879997198",
     "geom:latitude":38.683559,
     "geom:longitude":-8.511505,
     "iso:country":"PT",
     "lbl:latitude":38.683095,
     "lbl:longitude":-8.513653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.683095,
     "mps:longitude":-8.513653,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*\u00c9vora",
     "qs:a1r":"0",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29382040,
-        "qs:id":262951,
         "qs_pg:id":262951
     },
     "wof:country":"PT",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101910761,
-    "wof:lastmodified":1497294372,
+    "wof:lastmodified":1566608531,
     "wof:name":"Foros do Bombel",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

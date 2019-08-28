@@ -9,14 +9,18 @@
     "geom:bbox":"-8.63889,41.19332,-8.63889,41.19332",
     "geom:latitude":41.19332,
     "geom:longitude":-8.63889,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.65889,41.17332,-8.61889,41.21332",
     "lbl:latitude":41.19332,
     "lbl:longitude":-8.63889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:aze_x_preferred":[
         "Padrao"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0434\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Padr\u00e3o da L\u00e9gua"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":29383493,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Porto",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1126055683,
-    "wof:lastmodified":1564221195,
+    "wof:lastmodified":1566608622,
     "wof:name":"Padr\u00e3o",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

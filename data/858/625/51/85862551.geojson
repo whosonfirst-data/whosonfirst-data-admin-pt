@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16565519.313539,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-9.251776,38.751263,-9.251776,38.751263",
     "geom:latitude":38.751263,
     "geom:longitude":-9.251776,
     "gn:population":178858,
     "iso:country":"PT",
+    "lbl:bbox":"-9.256776,38.746263,-9.246776,38.756263",
     "lbl:latitude":38.751263,
     "lbl:longitude":-9.251776,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.749472,
     "mps:longitude":-9.255309,
     "mz:hierarchy_label":0,
@@ -85,10 +87,6 @@
     "name:tur_x_preferred":[
         "Amadora"
     ],
-    "name:unk_x_variant":[
-        "Amadora",
-        "Reboleira"
-    ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2271772,
@@ -118,7 +116,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -130,7 +128,6 @@
     "wof:concordances":{
         "gn:id":2271772,
         "gp:id":20105214,
-        "qs:id":842031,
         "qs_pg:id":842031
     },
     "wof:country":"PT",
@@ -148,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531870602,
+    "wof:lastmodified":1566607589,
     "wof:name":"Reboleira",
     "wof:parent_id":101758919,
     "wof:placetype":"neighbourhood",

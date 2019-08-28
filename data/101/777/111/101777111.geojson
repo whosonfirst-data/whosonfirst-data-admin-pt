@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
+    "geom:area_square_m":379652.52985,
     "geom:bbox":"-8.90811665494,39.6707035465,-8.89294063583,39.6759073368",
     "geom:latitude":39.673002,
     "geom:longitude":-8.900352,
     "iso:country":"PT",
     "lbl:latitude":39.672929,
     "lbl:longitude":-8.900352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.672929,
     "mps:longitude":-8.900352,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Maceirinha"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"0274afbe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266909,
         "gp:id":742942,
-        "qs:id":387694
+        "qs_pg:id":387694
     },
     "wof:country":"PT",
-    "wof:geomhash":"95a201127402b3947f846c32c0c869c6",
+    "wof:geomhash":"fc62d3f327193f1a4005aff3356b23c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625899,
+    "wof:lastmodified":1566608441,
     "wof:name":"Maceirinha",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

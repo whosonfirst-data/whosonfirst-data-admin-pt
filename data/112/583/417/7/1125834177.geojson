@@ -9,14 +9,18 @@
     "geom:bbox":"-28.26667,38.38333,-28.26667,38.38333",
     "geom:latitude":38.38333,
     "geom:longitude":-28.26667,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-28.28667,38.36333,-28.24667,38.40333",
     "lbl:latitude":38.38333,
     "lbl:longitude":-28.26667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Lajes do Pico"
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0436\u0435\u0448-\u0434\u0443-\u041f\u0456\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lagens"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +103,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":538115,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Azores",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1125834177,
-    "wof:lastmodified":1563253709,
+    "wof:lastmodified":1566608791,
     "wof:name":"Lajes do Pico",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

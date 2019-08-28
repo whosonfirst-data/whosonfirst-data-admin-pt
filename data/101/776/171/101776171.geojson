@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.359298,
     "lbl:longitude":-8.025098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.359298,
     "mps:longitude":-8.025098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "T\u00e1bua"
     ],
@@ -80,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0443\u0430"
     ],
-    "name:unk_x_variant":[
-        "T\u00e1boa"
-    ],
     "name:vie_x_preferred":[
         "T\u00e1bua"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.366667,
     "wd:longitude":-8.033333,
     "wd:wordcount":100,
@@ -125,7 +125,6 @@
         "fct:id":"0267e84c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733720,
         "gp:id":749159,
-        "qs:id":896035,
         "qs_pg:id":896035,
         "wd:id":"Q988846",
         "wk:page":"T\u00e1bua"
@@ -144,7 +143,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252949,
+    "wof:lastmodified":1566608436,
     "wof:name":"T\u00e1bua",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

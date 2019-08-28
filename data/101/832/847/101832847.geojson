@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.65383,
     "lbl:longitude":-9.164756,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.65383,
     "mps:longitude":-9.164756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Feij\u00f3"
     ],
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":8013120,
         "gp:id":23412812,
-        "qs:id":1183156,
         "qs_pg:id":1183156,
         "wd:id":"Q2304535"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101832847,
-    "wof:lastmodified":1563252868,
+    "wof:lastmodified":1566608405,
     "wof:name":"Feij\u00f3",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

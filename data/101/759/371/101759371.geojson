@@ -9,16 +9,19 @@
     "geom:bbox":"-8.65689948756,41.059220384,-8.6305779352,41.0786096144",
     "geom:latitude":41.069253,
     "geom:longitude":-8.643783,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.068227,
     "lbl:longitude":-8.640293,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.068227,
     "mps:longitude":-8.640293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Miramar"
     ],
@@ -30,9 +33,6 @@
         "Miramar"
     ],
     "name:por_x_variant":[
-        "Miro"
-    ],
-    "name:unk_x_variant":[
         "Miro"
     ],
     "qs:a0":"Portugal",
@@ -69,7 +69,7 @@
     "qs_pg:woe_id":743556,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.066667,
     "wd:longitude":-8.65,
     "wd:wordcount":311,
@@ -83,7 +83,6 @@
         "fct:id":"0270577a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737643,
         "gp:id":743556,
-        "qs:id":1057540,
         "qs_pg:id":1057540,
         "wd:id":"Q10352828",
         "wk:page":"Miramar, Portugal"
@@ -102,7 +101,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828734,
+    "wof:lastmodified":1566608474,
     "wof:name":"Miramar",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

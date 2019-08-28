@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.39254,40.01144,-8.35254,40.05144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741110
     },
     "wof:country":"PT",
-    "wof:geomhash":"eb7352bbd5b8d9f8ffef0880823e725c",
+    "wof:geomhash":"d4460aeafd70d0722da49e29aff27f16",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209436219,
-    "wof:lastmodified":1536287096,
+    "wof:lastmodified":1566608080,
     "wof:name":"Casal Pinto",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.372539999999999,
+    -8.37254,
     40.03144,
-    -8.372539999999999,
+    -8.37254,
     40.03144
 ],
   "geometry": {"coordinates":[-8.37254,40.03144],"type":"Point"}

@@ -9,15 +9,18 @@
     "geom:bbox":"-8.64999,40.28627,-8.64999,40.28627",
     "geom:latitude":40.28627,
     "geom:longitude":-8.64999,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5906,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":5906,
     "iso:country":"PT",
+    "lbl:bbox":"-8.66999,40.26627,-8.62999,40.30627",
     "lbl:latitude":40.28627,
     "lbl:longitude":-8.64999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Arazede"
@@ -55,7 +58,7 @@
     "name:spa_x_preferred":[
         "Arazede"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Araxede"
     ],
     "qs_pg:aaroncc":"PT",
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":736286,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125945501,
-    "wof:lastmodified":1563253302,
+    "wof:lastmodified":1566608590,
     "wof:name":"Arazede",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

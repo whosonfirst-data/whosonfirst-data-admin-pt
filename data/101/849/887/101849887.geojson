@@ -9,17 +9,20 @@
     "geom:bbox":"-17.171949,32.864949,-17.171949,32.864949",
     "geom:latitude":32.864949,
     "geom:longitude":-17.171949,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2762,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":2762,
     "iso:country":"PT",
+    "lbl:bbox":"-17.191949,32.844949,-17.151949,32.884949",
     "lbl:latitude":32.864949,
     "lbl:longitude":-17.171949,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":32.864949,
     "mps:longitude":-17.171949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Porto Moniz"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443-\u041c\u043e\u043d\u0456\u0436"
     ],
-    "name:unk_x_variant":[
-        "P\u00f4rto do Moniz"
-    ],
     "name:vie_x_preferred":[
         "Porto Moniz"
     ],
@@ -152,7 +152,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":32.866667,
     "wd:longitude":-17.166667,
@@ -167,7 +167,6 @@
         "fct:id":"0275d218-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264412,
         "gp:id":746254,
-        "qs:id":179261,
         "qs_pg:id":179261,
         "wd:id":"Q221412"
     },
@@ -185,7 +184,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253096,
+    "wof:lastmodified":1566608495,
     "wof:name":"Porto Moniz",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

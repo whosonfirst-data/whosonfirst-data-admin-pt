@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000212,
+    "geom:area_square_m":1973210.281515,
     "geom:bbox":"-8.62240281538,41.0786360605,-8.59226390718,41.0901057004",
     "geom:latitude":41.084376,
     "geom:longitude":-8.606432,
     "iso:country":"PT",
     "lbl:latitude":41.08421,
     "lbl:longitude":-8.604925,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.08421,
     "mps:longitude":-8.604925,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":2267256,
         "gp:id":742378,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"fb9c84f58d33aadb06153146816a81e0",
+    "wof:geomhash":"963483c01c1525406a7aff5d85892b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101759369,
-    "wof:lastmodified":1472227636,
+    "wof:lastmodified":1566608476,
     "wof:name":"Lagarteira",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

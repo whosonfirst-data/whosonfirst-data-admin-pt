@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
+    "geom:area_square_m":793801.790931,
     "geom:bbox":"-9.1704265173,38.626862571,-9.15784673691,38.6433535209",
     "geom:latitude":38.633745,
     "geom:longitude":-9.164835,
     "iso:country":"PT",
     "lbl:latitude":38.634279,
     "lbl:longitude":-9.164368,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.634279,
     "mps:longitude":-9.164368,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24900146,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"b4b36b43c75ab73625b4bc13e6e0f3f7",
+    "wof:geomhash":"58420801352c9b8cad9fe6b7a3cd15bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832839,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608405,
     "wof:name":"Pinhal do Vidal",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.493746,
     "lbl:longitude":-8.806425,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.493746,
     "mps:longitude":-8.806425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scotts Corner"
     ],
@@ -26,7 +29,7 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u06a9\u0627\u062a\u0633 \u06a9\u0648\u0631\u0646\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Scott's Corner"
     ],
     "name:zho_x_preferred":[
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,9 +60,11 @@
     "wof:concordances":{
         "gn:id":5393955,
         "gp:id":24900167,
-        "qs:id":1084620,
         "qs_pg:id":353513,
         "wk:page":"Scotts Corner, California"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1084620
     },
     "wof:country":"PT",
     "wof:geomhash":"8bca64b5f415a0ca054f27112e0b3fbc",
@@ -75,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564221031,
+    "wof:lastmodified":1566608517,
     "wof:name":"Bairro da Sapec",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

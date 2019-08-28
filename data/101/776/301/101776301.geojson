@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.085001,
     "lbl:longitude":-8.252166,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.085001,
     "mps:longitude":-8.252166,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "FC Alpendorada"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":8014630,
         "gp:id":743319,
-        "qs:id":41043,
+        "qs_pg:id":41043,
         "wd:id":"Q1133498"
     },
     "wof:country":"PT",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101776301,
-    "wof:lastmodified":1563252906,
+    "wof:lastmodified":1566608421,
     "wof:name":"Alpendorada",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

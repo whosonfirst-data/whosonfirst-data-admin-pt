@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
+    "geom:area_square_m":2579830.110522,
     "geom:bbox":"-9.45706346984,38.7190471431,-9.43209997892,38.7387830203",
     "geom:latitude":38.72977,
     "geom:longitude":-9.445124,
     "iso:country":"PT",
     "lbl:latitude":38.730818,
     "lbl:longitude":-9.447838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.730818,
     "mps:longitude":-9.447838,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Aldeia de Juso"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,10 +50,10 @@
         "fct:id":"026bff36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272092,
         "gp:id":29381643,
-        "qs:id":342580
+        "qs_pg:id":342580
     },
     "wof:country":"PT",
-    "wof:geomhash":"fd7d41ca75d2ffaf847c20945b5b3994",
+    "wof:geomhash":"4415249656fe4177dd22360fa49feaf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625827,
+    "wof:lastmodified":1566608458,
     "wof:name":"Aldeia de Juzo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

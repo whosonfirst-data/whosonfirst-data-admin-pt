@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.105254,
     "lbl:longitude":-8.362452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.105254,
     "mps:longitude":-8.362452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Arma\u00e7\u00e3o de P\u00eara"
     ],
@@ -56,9 +59,6 @@
     "name:tur_x_preferred":[
         "Arma\u00e7\u00e3o de P\u00eara"
     ],
-    "name:unk_x_variant":[
-        "Arma\u00e7\u00e3o de P\u00eara"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.1,
     "wd:longitude":-8.366667,
@@ -90,7 +90,6 @@
         "fct:id":"027299f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271542,
         "gp:id":736405,
-        "qs:id":911194,
         "qs_pg:id":911194,
         "wd:id":"Q680029",
         "wk:page":"Arma\u00e7\u00e3o de P\u00eara"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828740,
+    "wof:lastmodified":1566608523,
     "wof:name":"Arma\u00e7\u00e3o de Pera",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

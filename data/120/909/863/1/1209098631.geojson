@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.77964,39.91039,-7.73964,39.95039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2268877
     },
     "wof:country":"PT",
-    "wof:geomhash":"912142981b2a028e685144358e2e6006",
+    "wof:geomhash":"ad6fec47a4082aa3615ea39144132fa7",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209098631,
-    "wof:lastmodified":1536297805,
+    "wof:lastmodified":1566607925,
     "wof:name":"Cova da Azenha",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.759639999999999,
+    -7.75964,
     39.93039,
-    -7.759639999999999,
+    -7.75964,
     39.93039
 ],
   "geometry": {"coordinates":[-7.75964,39.93039],"type":"Point"}

@@ -5,22 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
+    "geom:area_square_m":968996.725723,
     "geom:bbox":"-8.64671164218,40.1543181927,-8.62832500024,40.1696426045",
     "geom:latitude":40.161665,
     "geom:longitude":-8.635557,
     "iso:country":"PT",
     "lbl:latitude":40.162473,
     "lbl:longitude":-8.633886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.162473,
     "mps:longitude":-8.633886,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Granja do Ulmeiro"
     ],
     "name:por_x_variant":[
-        "Granja"
-    ],
-    "name:unk_x_variant":[
         "Granja"
     ],
     "qs:a0":"Portugal",
@@ -39,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,7 +52,6 @@
         "fct:id":"026b2b74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738824,
         "gp:id":742047,
-        "qs:id":1353093,
         "qs_pg:id":1353093
     },
     "wof:country":"PT",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497299083,
+    "wof:lastmodified":1566608437,
     "wof:name":"Granja do Ulmeiro",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

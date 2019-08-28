@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.864109,
     "lbl:longitude":-9.320649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.864109,
     "mps:longitude":-9.320649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Maceira"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -93,7 +96,7 @@
         "fct:id":"0269656e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266917,
         "gp:id":742940,
-        "qs:id":1253879,
+        "qs_pg:id":1253879,
         "wd:id":"Q780493"
     },
     "wof:country":"PT",
@@ -110,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252874,
+    "wof:lastmodified":1566608407,
     "wof:name":"Maceira",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.511293,
     "lbl:longitude":-8.709138,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":37.511293,
     "mps:longitude":-8.709138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u00e3o Teot\u00f3nio"
     ],
@@ -71,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0422\u0435\u043e\u0442\u043e\u043d\u0456\u0443"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Theotonio"
-    ],
     "name:zho_x_preferred":[
         "\u5723\u7279\u5965\u6258\u7ebd"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -109,7 +109,6 @@
         "fct:id":"026bf950-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263207,
         "gp:id":748421,
-        "qs:id":139259,
         "qs_pg:id":139259,
         "wd:id":"Q1016673"
     },
@@ -127,7 +126,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253006,
+    "wof:lastmodified":1566608454,
     "wof:name":"S\u00e3o Teot\u00f3nio",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

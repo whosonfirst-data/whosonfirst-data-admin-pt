@@ -9,16 +9,19 @@
     "geom:bbox":"-8.5673924265,41.3180153603,-8.52211022193,41.3481203186",
     "geom:latitude":41.33549,
     "geom:longitude":-8.550229,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.337106,
     "lbl:longitude":-8.555022,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.337106,
     "mps:longitude":-8.555022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648\u0641\u0627"
     ],
@@ -146,7 +149,7 @@
     "qs_pg:woe_id":749632,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.35,
     "wd:longitude":-8.55,
     "wd:wordcount":216,
@@ -160,7 +163,6 @@
         "fct:id":"02683810-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733352,
         "gp:id":749632,
-        "qs:id":1353418,
         "qs_pg:id":1353418,
         "wd:id":"Q987964",
         "wk:page":"Trofa"
@@ -179,7 +181,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253117,
+    "wof:lastmodified":1566608502,
     "wof:name":"Trofa",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

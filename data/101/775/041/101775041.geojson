@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.264473,
     "lbl:longitude":-7.58716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.264473,
     "mps:longitude":-7.58716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0431\u0440\u043e\u0437\u0430"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1051,
     "wof:belongsto":[
         102191581,
@@ -131,7 +134,6 @@
         "fct:id":"02756972-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734928,
         "gp:id":747601,
-        "qs:id":1013057,
         "qs_pg:id":1013057,
         "wd:id":"Q1006389",
         "wk:page":"Sabrosa"
@@ -150,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253153,
+    "wof:lastmodified":1566608518,
     "wof:name":"Sabrosa",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

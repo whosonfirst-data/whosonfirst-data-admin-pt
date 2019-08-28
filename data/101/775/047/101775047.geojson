@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.409671,
     "lbl:longitude":-7.95681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.409671,
     "mps:longitude":-7.95681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Mondim de Basto"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0434\u0456\u043d-\u0434\u0435-\u0411\u0430\u0448\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Mondim"
-    ],
     "name:vie_x_preferred":[
         "Mondim de Basto"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.4,
     "wd:longitude":-7.95,
     "wd:wordcount":102,
@@ -118,7 +118,6 @@
         "fct:id":"026f3872-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737515,
         "gp:id":743714,
-        "qs:id":1025864,
         "qs_pg:id":1025864,
         "wd:id":"Q932771"
     },
@@ -136,7 +135,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253156,
+    "wof:lastmodified":1566608518,
     "wof:name":"Mondim de Basto",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

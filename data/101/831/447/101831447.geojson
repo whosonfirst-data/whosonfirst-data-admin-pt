@@ -9,14 +9,17 @@
     "geom:bbox":"-8.35583280274,41.4493859787,-8.31415044813,41.4876737435",
     "geom:latitude":41.470973,
     "geom:longitude":-8.336994,
-    "geonames:id":"2736067,2736068",
+    "gn:id":"2736067,2736068",
     "iso:country":"PT",
     "lbl:latitude":41.477214,
     "lbl:longitude":-8.335573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.477214,
     "mps:longitude":-8.335573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Ponte"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":318,
     "wof:belongsto":[
         102191581,
@@ -113,9 +116,11 @@
     "wof:concordances":{
         "gn:id":2736067,
         "gp:id":746019,
-        "qs:id":879786,
-        "qs_pg:id":965739,
+        "qs_pg:id":879786,
         "wd:id":"Q1023219"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":965739
     },
     "wof:country":"PT",
     "wof:geomhash":"6bb3d055a89624afb1c4678ecce13664",
@@ -128,7 +133,7 @@
         }
     ],
     "wof:id":101831447,
-    "wof:lastmodified":1563253118,
+    "wof:lastmodified":1566608503,
     "wof:name":"Ponte",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

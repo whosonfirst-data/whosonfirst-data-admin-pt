@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.73686,38.74484,-7.69686,38.78484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c9vora Monte"
     ],
@@ -51,9 +55,6 @@
     "name:spa_x_preferred":[
         "Evoramonte"
     ],
-    "name:und_x_variant":[
-        "\u00c9vora Monte"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1209835623,
-    "wof:lastmodified":1564220158,
+    "wof:lastmodified":1566607976,
     "wof:name":"Evora Monte",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

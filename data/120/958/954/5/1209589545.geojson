@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.38582,41.38607,-7.34582,41.42607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2732935
     },
     "wof:country":"PT",
-    "wof:geomhash":"55261d9390ce8253b91e7897262294fc",
+    "wof:geomhash":"b83e377560433c45505545c3e5944f25",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209589545,
-    "wof:lastmodified":1536282524,
+    "wof:lastmodified":1566608022,
     "wof:name":"Varges",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3658199999999985,
+    -7.36582,
     41.40607,
-    -7.3658199999999985,
+    -7.36582,
     41.40607
 ],
   "geometry": {"coordinates":[-7.36582,41.40607],"type":"Point"}

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":237290.048089,
     "geom:bbox":"-9.11516362527,38.6335278251,-9.10059847926,38.6398073735",
     "geom:latitude":38.637016,
     "geom:longitude":-9.103778,
     "iso:country":"PT",
     "lbl:latitude":38.636745,
     "lbl:longitude":-9.103485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.636745,
     "mps:longitude":-9.103485,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29381444,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"1d1d762cdb359e3dca8f8bf7ed720ce9",
+    "wof:geomhash":"f179bcd670a7ff8b531953ee7b1b093e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832899,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608406,
     "wof:name":"Murtinheira",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

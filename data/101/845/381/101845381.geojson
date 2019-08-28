@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.254014,
     "lbl:longitude":-8.286467,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.254014,
     "mps:longitude":-8.286467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "S\u00e3o Bartolomeu de Messines"
     ],
@@ -59,9 +62,6 @@
     "name:tur_x_preferred":[
         "S\u00e3o Bartolomeu de Messines"
     ],
-    "name:unk_x_variant":[
-        "Messines"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":35,
     "wof:belongsto":[
@@ -91,7 +91,6 @@
         "fct:id":"026a8930-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263393,
         "gp:id":748086,
-        "qs:id":265706,
         "qs_pg:id":265706,
         "wd:id":"Q2696039"
     },
@@ -109,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828719,
+    "wof:lastmodified":1566608390,
     "wof:name":"S\u00e3o Bartolomeu de Messines",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
+    "geom:area_square_m":1760504.106079,
     "geom:bbox":"-8.68537739739,37.1150558545,-8.65410584971,37.1413726866",
     "geom:latitude":37.123885,
     "geom:longitude":-8.667101,
     "iso:country":"PT",
     "lbl:latitude":37.119199,
     "lbl:longitude":-8.664949,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.119199,
     "mps:longitude":-8.664949,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29385254,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"fc4017b2040af2db8cad5f3abf11cd5f",
+    "wof:geomhash":"8792e848685b96357d84c90785d84ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832779,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608402,
     "wof:name":"Chinicato",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

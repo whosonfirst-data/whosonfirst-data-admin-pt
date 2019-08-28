@@ -5,21 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00051,
-    "geom:area_square_m":4746978.276701,
+    "geom:area_square_m":4746978.2767,
     "geom:bbox":"-8.61584099995,41.2009108009,-8.56890286055,41.2349651963",
     "geom:latitude":41.215801,
     "geom:longitude":-8.590916,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4342,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":4342,
     "iso:country":"PT",
     "lbl:latitude":41.205695,
     "lbl:longitude":-8.596411,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.205695,
     "mps:longitude":-8.596411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:fra_x_preferred":[
         "Milheir\u00f3s"
     ],
@@ -61,7 +63,7 @@
     "qs_pg:woe_id":743524,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -74,7 +76,6 @@
         "fct:id":"02752de0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737671,
         "gp:id":743524,
-        "qs:id":1037658,
         "qs_pg:id":1037658
     },
     "wof:country":"PT",
@@ -91,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379449,
+    "wof:lastmodified":1566608486,
     "wof:name":"Milheir\u00f3s",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

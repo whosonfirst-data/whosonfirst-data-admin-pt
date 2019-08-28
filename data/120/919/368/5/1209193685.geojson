@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.85931,39.50387,-8.81931,39.54387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2267257
     },
     "wof:country":"PT",
-    "wof:geomhash":"0850b75558c641361be2ecf065d5e134",
+    "wof:geomhash":"29ffae4d830f6c356b023cdf336e68cd",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209193685,
-    "wof:lastmodified":1536294846,
+    "wof:lastmodified":1566608065,
     "wof:name":"Lagar Novo",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.839310000000003,
+    -8.83931,
     39.52387,
-    -8.839310000000003,
+    -8.83931,
     39.52387
 ],
   "geometry": {"coordinates":[-8.83931,39.52387],"type":"Point"}

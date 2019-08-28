@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.650464,
     "lbl:longitude":-8.620723,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.650464,
     "mps:longitude":-8.620723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Esgueira"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":853,
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
         "fct:id":"026579d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739920,
         "gp:id":56070886,
-        "qs:id":946992,
         "qs_pg:id":946992,
         "wd:id":"Q2258588"
     },
@@ -104,7 +106,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253127,
+    "wof:lastmodified":1566608507,
     "wof:name":"Esgueira",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-8.64509137071,41.2121063922,-8.59577386621,41.2516719266",
     "geom:latitude":41.232215,
     "geom:longitude":-8.616967,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":36426,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":36426,
     "iso:country":"PT",
     "lbl:latitude":41.23421,
     "lbl:longitude":-8.617247,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.23421,
     "mps:longitude":-8.617247,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Maia"
     ],
@@ -66,7 +68,7 @@
     "qs_pg:woe_id":743017,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +80,6 @@
         "fct:id":"02698ad0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738014,
         "gp:id":743017,
-        "qs:id":900982,
         "qs_pg:id":900982,
         "wd:id":"Q17488862",
         "wk:page":"Cidade da Maia"
@@ -97,7 +98,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379445,
+    "wof:lastmodified":1566608479,
     "wof:name":"Maia",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

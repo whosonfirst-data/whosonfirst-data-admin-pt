@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000025,
+    "geom:area_square_m":237742.959807,
     "geom:bbox":"-9.09537875009,38.8340954405,-9.08995711776,38.8439694006",
     "geom:latitude":38.838637,
     "geom:longitude":-9.092682,
     "iso:country":"PT",
     "lbl:latitude":38.838758,
     "lbl:longitude":-9.093092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.838758,
     "mps:longitude":-9.093092,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56069264,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"95d81759e07d073f68fd8132fe6a6d60",
+    "wof:geomhash":"e6efcec7847b40d52a2490e1027b3f13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759165,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608475,
     "wof:name":"Pirescoxe e Quinta do Castelo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"-16.790386,32.687916,-16.790386,32.687916",
     "geom:latitude":32.687916,
     "geom:longitude":-16.790386,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6010,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":6010,
     "iso:country":"PT",
+    "lbl:bbox":"-16.810386,32.667916,-16.770386,32.707916",
     "lbl:latitude":32.687916,
     "lbl:longitude":-16.790386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":32.687916,
     "mps:longitude":-16.790386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632"
     ],
@@ -177,7 +180,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":303,
     "wof:belongsto":[
@@ -190,7 +193,6 @@
         "fct:id":"02760850-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263540,
         "gp:id":24944848,
-        "qs:id":1280186,
         "qs_pg:id":1280186,
         "wd:id":"Q658823",
         "wk:page":"Santa Cruz, Madeira"
@@ -209,7 +211,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253095,
+    "wof:lastmodified":1566608494,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

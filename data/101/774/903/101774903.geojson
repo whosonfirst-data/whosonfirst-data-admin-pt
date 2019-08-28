@@ -9,16 +9,19 @@
     "geom:bbox":"-7.55120900485,40.8050967409,-7.53178738531,40.823758486",
     "geom:latitude":40.814884,
     "geom:longitude":-7.541103,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":40.820391,
     "lbl:longitude":-7.537865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.820391,
     "mps:longitude":-7.537865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aguiar da Beira"
     ],
@@ -131,7 +134,7 @@
     "qs_pg:woe_id":735493,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.816667,
     "wd:longitude":-7.55,
     "wd:wordcount":180,
@@ -145,7 +148,6 @@
         "fct:id":"026be1a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743283,
         "gp:id":735493,
-        "qs:id":1352838,
         "qs_pg:id":1352838,
         "wd:id":"Q175373",
         "wk:page":"Aguiar da Beira"
@@ -164,7 +166,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253195,
+    "wof:lastmodified":1566608528,
     "wof:name":"Aguiar da Beira",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

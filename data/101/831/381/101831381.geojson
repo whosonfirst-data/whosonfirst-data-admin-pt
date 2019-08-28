@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
+    "geom:area_square_m":2088120.828235,
     "geom:bbox":"-8.6096399359,40.6620188638,-8.58033918102,40.6921027331",
     "geom:latitude":40.677148,
     "geom:longitude":-8.592245,
     "iso:country":"PT",
     "lbl:latitude":40.685609,
     "lbl:longitude":-8.585922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.685609,
     "mps:longitude":-8.585922,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Quinta do Loureiro"
     ],
@@ -36,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,7 +52,9 @@
         "fct:id":"026ba248-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738184,
         "gp:id":742811,
-        "qs:id":4,
+        "qs_pg:id":4
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":188217
     },
     "wof:country":"PT",
@@ -64,7 +71,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497298061,
+    "wof:lastmodified":1566608515,
     "wof:name":"Quinta do Loureiro",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

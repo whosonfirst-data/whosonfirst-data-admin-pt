@@ -12,11 +12,14 @@
     "iso:country":"PT",
     "lbl:latitude":38.619857,
     "lbl:longitude":-9.184062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.619857,
     "mps:longitude":-9.184062,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Rosais"
     ],
     "qs:a0":"Portugal",
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,7 +48,9 @@
     "wof:concordances":{
         "gn:id":3372678,
         "gp:id":538302,
-        "qs:id":3,
+        "qs_pg:id":3
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":983554
     },
     "wof:country":"PT",
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":101832829,
-    "wof:lastmodified":1504310327,
+    "wof:lastmodified":1566608397,
     "wof:name":"Vale Rosal",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

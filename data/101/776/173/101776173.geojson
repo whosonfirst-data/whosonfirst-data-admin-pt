@@ -9,13 +9,14 @@
     "geom:bbox":"-7.29016959158,40.5150017463,-7.20485166661,40.5737818465",
     "geom:latitude":40.546287,
     "geom:longitude":-7.251627,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":0,
-    "gn:population":32111,
+    "gn:country":"PT",
+    "gn:fcode":"PPLA",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":40.535913,
     "lbl:longitude":-7.262934,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":40.535913,
     "mps:longitude":-7.262934,
     "mz:hierarchy_label":1,
@@ -315,7 +316,7 @@
     "qs_pg:woe_id":742080,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":513,
     "wof:belongsto":[
@@ -328,13 +329,13 @@
         "fct:id":"026b3100-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738785,
         "gp:id":23412813,
-        "qs:id":968774,
         "qs_pg:id":458261,
         "wd:id":"Q750594",
         "wk:page":"Guarda, Portugal"
     },
     "wof:concordances_alt":{
-        "gp:id":742080
+        "gp:id":742080,
+        "qs_pg:id":968774
     },
     "wof:country":"PT",
     "wof:geomhash":"fb6342e1778d19ad6d8bc10b707a73a3",
@@ -350,7 +351,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252919,
+    "wof:lastmodified":1566608426,
     "wof:name":"Guarda",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

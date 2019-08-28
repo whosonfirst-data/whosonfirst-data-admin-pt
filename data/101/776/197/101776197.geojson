@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.431636,
     "lbl:longitude":-8.006683,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.431636,
     "mps:longitude":-8.006683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Carregal do Sal"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.433333,
     "wd:longitude":-8.0,
@@ -109,7 +112,6 @@
         "fct:id":"02657864-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741405,
         "gp:id":738358,
-        "qs:id":896026,
         "qs_pg:id":896026,
         "wd:id":"Q796938",
         "wk:page":"Carregal do Sal"
@@ -128,7 +130,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252929,
+    "wof:lastmodified":1566608429,
     "wof:name":"Carregal do Sal",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

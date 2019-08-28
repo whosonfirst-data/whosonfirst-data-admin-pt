@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.113962,
     "lbl:longitude":-8.485842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.113962,
     "mps:longitude":-8.485842,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gens"
     ],
@@ -87,7 +90,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -98,7 +101,7 @@
         "fct:id":"02711c0a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739031,
         "gp:id":741812,
-        "qs:id":387428
+        "qs_pg:id":387428
     },
     "wof:country":"PT",
     "wof:geomhash":"7eab47343ebd43823d2d237c38886441",
@@ -114,7 +117,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220961,
+    "wof:lastmodified":1566608430,
     "wof:name":"Gens",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

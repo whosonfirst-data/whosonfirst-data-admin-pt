@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":361410.691486,
     "geom:bbox":"-9.1395742121,38.7953028928,-9.13016556313,38.8022562127",
     "geom:latitude":38.799123,
     "geom:longitude":-9.13487,
     "iso:country":"PT",
     "lbl:latitude":38.799227,
     "lbl:longitude":-9.134942,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.799227,
     "mps:longitude":-9.134942,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56069239,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"c1fd63857b8a99563d9978e07d8497a9",
+    "wof:geomhash":"7d754b3d8a5fd98c4c28f706c5b20f38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759181,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608474,
     "wof:name":"Bairro Quinta das Loureiras",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

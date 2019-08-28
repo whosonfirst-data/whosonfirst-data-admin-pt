@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.44986,
     "lbl:longitude":-8.759234,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.44986,
     "mps:longitude":-8.759234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Amiais de Baixo"
     ],
@@ -57,7 +60,7 @@
     "name:tur_x_preferred":[
         "Amiais de Baixo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amiais de Cima"
     ],
     "qs:a0":"Portugal",
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.45,
     "wd:longitude":-8.733333,
     "wd:wordcount":49,
@@ -90,9 +93,11 @@
         "fct:id":"027116a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271712,
         "gp:id":736124,
-        "qs:id":1005092,
         "qs_pg:id":28402,
         "wd:id":"Q470761"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1005092
     },
     "wof:country":"PT",
     "wof:geomhash":"c3c72e26d707ce33f2a714dd375b3917",
@@ -108,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828730,
+    "wof:lastmodified":1566608446,
     "wof:name":"Amiais de Baixo",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.641326,
     "lbl:longitude":-7.572739,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.641326,
     "mps:longitude":-7.572739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Vidago"
     ],
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":586,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
         "fct:id":"027484ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732768,
         "gp:id":750544,
-        "qs:id":1168234,
         "qs_pg:id":1168234,
         "wd:id":"Q194617",
         "wk:page":"Vidago"
@@ -96,7 +98,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252948,
+    "wof:lastmodified":1566608436,
     "wof:name":"Vidago",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

@@ -16,6 +16,8 @@
     ],
     "lbl:latitude":39.225448,
     "lbl:longitude":-8.266333,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":39.225448,
     "mps:longitude":-8.266333,
     "mz:hierarchy_label":1,
@@ -923,18 +925,11 @@
     "name:und_x_colloquial":[
         "Portogalia"
     ],
-    "name:und_x_preferred":[
-        "Port\u00fagal",
-        "Republica Portuguesa"
-    ],
     "name:und_x_variant":[
+        "Republica Portuguesa",
         "Portogal\u00eda",
         "Portugale",
-        "Portugalija",
-        "Portugalsko",
-        "Portuhalija"
-    ],
-    "name:unk_x_variant":[
+        "Portuhalija",
         "Lusitania"
     ],
     "name:urd_x_preferred":[
@@ -1095,7 +1090,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"351",
     "statoids:ds":"P",
@@ -1139,7 +1134,7 @@
         "mzb:id":"portugal",
         "ne:adm0_a3":"PRT",
         "nyt:id":"58445269955092285191",
-        "qs:id":1032180,
+        "qs_pg:id":1032180,
         "uncrt:id":"P",
         "wd:id":"Q45",
         "wk:page":"Portugal",
@@ -1155,16 +1150,13 @@
         }
     ],
     "wof:id":85633735,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563251302,
+    "wof:lastmodified":1566607577,
     "wof:name":"Portugal",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

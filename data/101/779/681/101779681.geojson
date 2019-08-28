@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.925423,
     "lbl:longitude":-7.408406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.925423,
     "mps:longitude":-7.408406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vila Nova de S\u00e3o Bento"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":115,
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55867483,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q430933"
     },
     "wof:country":"PT",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101779681,
-    "wof:lastmodified":1561828731,
+    "wof:lastmodified":1566608450,
     "wof:name":"Vila Nova de S\u00e3o Bento",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

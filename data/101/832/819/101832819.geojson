@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
+    "geom:area_square_m":477485.690534,
     "geom:bbox":"-9.24043087536,38.6470205041,-9.22748197232,38.6568774802",
     "geom:latitude":38.651263,
     "geom:longitude":-9.234266,
     "iso:country":"PT",
     "lbl:latitude":38.650797,
     "lbl:longitude":-9.234364,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.650797,
     "mps:longitude":-9.234364,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09a8\u0995\u09af\u09bc\u09be\u0993"
     ],
@@ -59,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -69,10 +74,10 @@
     "wof:concordances":{
         "gn:id":2264181,
         "gp:id":29381627,
-        "qs:id":69473
+        "qs_pg:id":69473
     },
     "wof:country":"PT",
-    "wof:geomhash":"104761c2537df9c0fefc05278fe48f91",
+    "wof:geomhash":"f65ff0380264e3488f225abf976b89b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101832819,
-    "wof:lastmodified":1467244379,
+    "wof:lastmodified":1566608398,
     "wof:name":"Quinta de Santo Ant\u00f3nio",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

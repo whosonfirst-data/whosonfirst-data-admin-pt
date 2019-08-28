@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":1105539.096467,
     "geom:bbox":"-8.65672644451,41.0719895519,-8.64609263358,41.088348613",
     "geom:latitude":41.080172,
     "geom:longitude":-8.651765,
     "iso:country":"PT",
     "lbl:latitude":41.080172,
     "lbl:longitude":-8.651663,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.080172,
     "mps:longitude":-8.651663,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29381450,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"e2d7f94ca8956ccffdfa595e02479fd7",
+    "wof:geomhash":"16f44be7d8d6d5534969e4925adb8529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759375,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608488,
     "wof:name":"Moutadas",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

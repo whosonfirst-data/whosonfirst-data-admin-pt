@@ -9,14 +9,18 @@
     "geom:bbox":"-9.0229,39.58432,-9.0229,39.58432",
     "geom:latitude":39.58432,
     "geom:longitude":-9.0229,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.0429,39.56432,-9.0029,39.60432",
     "lbl:latitude":39.58432,
     "lbl:longitude":-9.0229,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Valado dos Frades"
@@ -51,9 +55,6 @@
     "name:spa_x_preferred":[
         "Valado dos Frades"
     ],
-    "name:unk_x_variant":[
-        "Valado dos Frades"
-    ],
     "qs_pg:aaroncc":"PT",
     "qs_pg:gn_country":"PT",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +76,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":749737,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Leiria",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1125877803,
-    "wof:lastmodified":1563253480,
+    "wof:lastmodified":1566608676,
     "wof:name":"Valdado dos Frades",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

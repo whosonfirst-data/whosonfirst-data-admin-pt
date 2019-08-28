@@ -5,24 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":509209.423314,
+    "geom:area_square_m":509209.423315,
     "geom:bbox":"-9.10933382866,38.6094048256,-9.09783295694,38.6211261758",
     "geom:latitude":38.615103,
     "geom:longitude":-9.102352,
     "iso:country":"PT",
     "lbl:latitude":38.615229,
     "lbl:longitude":-9.102326,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.615229,
     "mps:longitude":-9.102326,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Torre da Marinha"
     ],
     "name:por_x_variant":[
-        "Torre"
-    ],
-    "name:unk_x_variant":[
         "Torre"
     ],
     "qs:a0":"Portugal",
@@ -41,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -52,8 +52,10 @@
         "fct:id":"02720002-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262619,
         "gp:id":749437,
-        "qs:id":1225475,
         "qs_pg:id":477043
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1225475
     },
     "wof:country":"PT",
     "wof:geomhash":"28858361b316bfd48e4987e1359fce2a",
@@ -69,7 +71,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1507750726,
+    "wof:lastmodified":1566608399,
     "wof:name":"Torre da Marinha",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

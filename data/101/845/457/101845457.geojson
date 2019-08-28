@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.297825,
     "lbl:longitude":-8.601595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.297825,
     "mps:longitude":-8.601595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Muro"
     ],
@@ -96,7 +99,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,7 @@
         "fct:id":"02684d32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737247,
         "gp:id":55868658,
-        "qs:id":905271
+        "qs_pg:id":905271
     },
     "wof:country":"PT",
     "wof:geomhash":"c31e9b2459b05ca96c09d7484e6f31d0",
@@ -124,7 +127,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220928,
+    "wof:lastmodified":1566608389,
     "wof:name":"Muro",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

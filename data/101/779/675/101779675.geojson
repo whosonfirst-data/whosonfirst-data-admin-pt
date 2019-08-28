@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
+    "geom:area_square_m":559701.588541,
     "geom:bbox":"-7.60998395408,38.0325450015,-7.59882243377,38.0402113226",
     "geom:latitude":38.036372,
     "geom:longitude":-7.604862,
     "iso:country":"PT",
     "lbl:latitude":38.036224,
     "lbl:longitude":-7.604862,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.036224,
     "mps:longitude":-7.604862,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Brinches"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026e4ffc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270676,
         "gp:id":737569,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"98d0108a10cd8e445c679a155aef1211",
+    "wof:geomhash":"d2fcba061e397716b78d1da8237f7896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625908,
+    "wof:lastmodified":1566608449,
     "wof:name":"Brinches",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

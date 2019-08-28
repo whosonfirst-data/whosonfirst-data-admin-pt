@@ -10,12 +10,16 @@
     "geom:latitude":41.34216,
     "geom:longitude":-8.353986,
     "iso:country":"PT",
+    "lbl:bbox":"-8.373986,41.32216,-8.333986,41.36216",
     "lbl:latitude":41.34216,
     "lbl:longitude":-8.353986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.34216,
     "mps:longitude":-8.353986,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Vila Nova do Campo"
     ],
@@ -38,7 +42,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":744525,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
     "wof:geomhash":"2828229ea187dda378cf7d06f930cd36",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101851465,
-    "wof:lastmodified":1544741803,
+    "wof:lastmodified":1566608409,
     "wof:name":"S\u00e3o Mamede de Negrelos",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.271125,
     "lbl:longitude":-7.978467,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.271125,
     "mps:longitude":-7.978467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Coja"
     ],
@@ -58,9 +61,6 @@
     "name:spa_x_preferred":[
         "Coja"
     ],
-    "name:unk_x_variant":[
-        "Cojo"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Coimbra",
     "qs:a1r":"0",
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -88,7 +88,6 @@
         "fct:id":"0271cfe2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740625,
         "gp:id":739683,
-        "qs:id":1158393,
         "qs_pg:id":1158393,
         "wd:id":"Q3664"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252960,
+    "wof:lastmodified":1566608441,
     "wof:name":"Coja",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

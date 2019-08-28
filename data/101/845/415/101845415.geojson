@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.802108,
     "lbl:longitude":-8.09599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.802108,
     "mps:longitude":-8.09599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Sert\u00e3"
     ],
@@ -165,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":116,
     "wof:belongsto":[
@@ -178,7 +181,6 @@
         "fct:id":"0272a49e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262987,
         "gp:id":748762,
-        "qs:id":245860,
         "qs_pg:id":245860,
         "wd:id":"Q193402",
         "wk:page":"Sert\u00e3"
@@ -197,7 +199,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252817,
+    "wof:lastmodified":1566608385,
     "wof:name":"Sert\u00e3",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

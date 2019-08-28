@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.696582,
     "lbl:longitude":-9.22256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.680689,
     "mps:longitude":-9.240107,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     "name:spa_x_preferred":[
         "Pedrou\u00e7os"
     ],
-    "name:unk_x_variant":[
-        "Pedrou\u00e7os"
-    ],
     "name:zho_x_preferred":[
         "\u4f69\u5fb7\u7f57\u82cf\u4ec0"
     ],
@@ -86,7 +84,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -94,7 +91,7 @@
     "wof:concordances":{
         "gn:id":2264996,
         "gp:id":745429,
-        "qs:id":1079833
+        "qs_pg:id":1079833
     },
     "wof:country":"PT",
     "wof:geomhash":"7cf9c6191909119ca7a241dfad869635",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247569,
+    "wof:lastmodified":1566607566,
     "wof:name":"Pedrou\u00e7os",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

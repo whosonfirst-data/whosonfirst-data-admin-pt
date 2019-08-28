@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
+    "geom:area_square_m":649435.52688,
     "geom:bbox":"-8.50368239689,39.4657878611,-8.49171623695,39.4780481149",
     "geom:latitude":39.472287,
     "geom:longitude":-8.496941,
     "iso:country":"PT",
     "lbl:latitude":39.473499,
     "lbl:longitude":-8.497349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.473499,
     "mps:longitude":-8.497349,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Meia Via"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"0271c22c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266501,
         "gp:id":743394,
-        "qs:id":1253958
+        "qs_pg:id":1253958
     },
     "wof:country":"PT",
-    "wof:geomhash":"16bdc5b1d32921e4cd458ca5d386de8c",
+    "wof:geomhash":"0ecea9aa6c9eb4b9cd880021605e401a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625895,
+    "wof:lastmodified":1566608420,
     "wof:name":"Meia Via",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

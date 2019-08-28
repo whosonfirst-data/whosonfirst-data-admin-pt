@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.729485,
     "lbl:longitude":-9.284212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.729485,
     "mps:longitude":-9.284212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0631\u0633"
     ],
@@ -154,7 +157,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2000,
     "wof:belongsto":[
         102191581,
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gn:id":2266948,
         "gp:id":742879,
-        "qs:id":1140125,
+        "qs_pg:id":1140125,
         "wd:id":"Q926700"
     },
     "wof:country":"PT",
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101832969,
-    "wof:lastmodified":1563252863,
+    "wof:lastmodified":1566608403,
     "wof:name":"Leceias",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

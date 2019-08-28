@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000291,
+    "geom:area_square_m":2714967.538439,
     "geom:bbox":"-8.5754329264,41.0263093546,-8.55966067564,41.0609460274",
     "geom:latitude":41.045142,
     "geom:longitude":-8.567425,
     "iso:country":"PT",
     "lbl:latitude":41.055084,
     "lbl:longitude":-8.569277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.055084,
     "mps:longitude":-8.569277,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":750437,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"30e4d71dc2344e6d02939d740c3bd3df",
+    "wof:geomhash":"cd0efa4ea06dd476ef984b039831b002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759389,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608486,
     "wof:name":"Murracezes",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

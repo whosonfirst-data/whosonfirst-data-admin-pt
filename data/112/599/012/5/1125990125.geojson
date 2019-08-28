@@ -9,14 +9,18 @@
     "geom:bbox":"-9.20577,38.88829,-9.20577,38.88829",
     "geom:latitude":38.88829,
     "geom:longitude":-9.20577,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.22577,38.86829,-9.18577,38.90829",
     "lbl:latitude":38.88829,
     "lbl:longitude":-9.20577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Lousa"
@@ -39,7 +43,7 @@
     "name:tur_x_preferred":[
         "Lousa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Louza"
     ],
     "qs_pg:aaroncc":"PT",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":742856,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Lisboa",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125990125,
-    "wof:lastmodified":1564221318,
+    "wof:lastmodified":1566608682,
     "wof:name":"Lousa",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

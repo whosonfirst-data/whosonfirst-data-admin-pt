@@ -13,6 +13,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.751784,
     "lbl:longitude":-9.098116,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.769743,
     "mps:longitude":-9.050902,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
         "F\u00e1brica de Bra\u00e7o de Prata"
     ],
     "name:por_x_variant":[
-        "Braco de Prata"
-    ],
-    "name:unk_x_variant":[
         "Braco de Prata"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -61,14 +59,13 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":737511,
-        "qs:id":1061416
+        "qs_pg:id":1061416
     },
     "wof:country":"PT",
     "wof:geomhash":"957007773a8f49790fdba8ff0f8a40f0",
@@ -86,7 +83,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607570,
     "wof:name":"Bra\u00e7o de Prata",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.971266,
     "lbl:longitude":-8.535011,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.971266,
     "mps:longitude":-8.535011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "S\u00e3o Jo\u00e3o de Ver"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.953611,
     "wd:longitude":-8.550833,
@@ -89,7 +92,6 @@
         "fct:id":"02723518-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734473,
         "gp:id":748204,
-        "qs:id":241845,
         "qs_pg:id":241845,
         "wd:id":"Q4407267"
     },
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828734,
+    "wof:lastmodified":1566608469,
     "wof:name":"S\u00e3o Jo\u00e3o de Ver",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

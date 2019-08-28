@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":1148109.557207,
     "geom:bbox":"-9.42098283485,38.7071770038,-9.41113256696,38.7287574167",
     "geom:latitude":38.717232,
     "geom:longitude":-9.41607,
     "iso:country":"PT",
     "lbl:latitude":38.718776,
     "lbl:longitude":-9.417302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.718776,
     "mps:longitude":-9.417302,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Pai Her\u00f3i"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":735324,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"PT",
-    "wof:geomhash":"a66ed400817d6cdea0baf002d53ab66b",
+    "wof:geomhash":"aebd3518a9733efbac373e0d9d50df66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":101759005,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608484,
     "wof:name":"Pai do Vento",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

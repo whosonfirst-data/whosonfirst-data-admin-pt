@@ -9,17 +9,20 @@
     "geom:bbox":"-17.17795,32.722797,-17.17795,32.722797",
     "geom:latitude":32.722797,
     "geom:longitude":-17.17795,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1618,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":1618,
     "iso:country":"PT",
+    "lbl:bbox":"-17.19795,32.702797,-17.15795,32.742797",
     "lbl:latitude":32.722797,
     "lbl:longitude":-17.17795,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":32.722797,
     "mps:longitude":-17.17795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Calheta"
     ],
@@ -138,7 +141,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -150,15 +153,14 @@
         "fct:id":"0275ccf0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":8013455,
         "gp:id":23691197,
-        "qs:id":905831,
-        "qs_pg:id":989444,
+        "qs_pg:id":905831,
         "wd:id":"Q757078",
         "wk:page":"Calheta, Madeira"
     },
     "wof:concordances_alt":{
         "gn:id":2270408,
         "gp:id":737914,
-        "qs_pg:id":905831
+        "qs_pg:id":989444
     },
     "wof:country":"PT",
     "wof:geomhash":"6a3c07da6fd7c45a3dcda456675c602e",
@@ -174,7 +176,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253105,
+    "wof:lastmodified":1566608498,
     "wof:name":"Calheta",
     "wof:parent_id":85687345,
     "wof:placetype":"locality",

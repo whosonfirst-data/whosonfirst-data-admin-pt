@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.78064,40.32817,-7.74064,40.36817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2740559
     },
     "wof:country":"PT",
-    "wof:geomhash":"aa0edb152b227559662ab652911b937d",
+    "wof:geomhash":"58fff4c3b3fe3d814fe23ae0d90bf8b6",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209192415,
-    "wof:lastmodified":1536294887,
+    "wof:lastmodified":1566608065,
     "wof:name":"Corga",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.760639999999999,
+    -7.76064,
     40.34817,
-    -7.760639999999999,
+    -7.76064,
     40.34817
 ],
   "geometry": {"coordinates":[-7.76064,40.34817],"type":"Point"}

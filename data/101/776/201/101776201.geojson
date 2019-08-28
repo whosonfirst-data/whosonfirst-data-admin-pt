@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000191,
+    "geom:area_square_m":1787858.439835,
     "geom:bbox":"-8.60721029584,40.8982193158,-8.58072057116,40.9194089157",
     "geom:latitude":40.910796,
     "geom:longitude":-8.592792,
     "iso:country":"PT",
     "lbl:latitude":40.910984,
     "lbl:longitude":-8.592993,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.910984,
     "mps:longitude":-8.592993,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Aveiro",
     "qs:a1r":"0",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,7 +45,7 @@
         "gp:id":24899427
     },
     "wof:country":"PT",
-    "wof:geomhash":"8df5a306778cac3959c0d4d67c161774",
+    "wof:geomhash":"b8359e49b5c1718d156c0d4353b884f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101776201,
-    "wof:lastmodified":1477508541,
+    "wof:lastmodified":1566608433,
     "wof:name":"Outeiral",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.11049,
     "lbl:longitude":-8.848401,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.11049,
     "mps:longitude":-8.848401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u041a\u043e\u0432\u0430"
     ],
@@ -57,7 +60,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
         "fct:id":"0267a292-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740387,
         "gp:id":740037,
-        "qs:id":1139602
+        "qs_pg:id":1139602
     },
     "wof:country":"PT",
     "wof:geomhash":"9decf547b619b749ecff3a8951cf1153",
@@ -85,7 +88,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564221027,
+    "wof:lastmodified":1566608515,
     "wof:name":"Cova",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

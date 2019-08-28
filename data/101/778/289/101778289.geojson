@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.042,
     "lbl:longitude":-8.642171,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.042,
     "mps:longitude":-8.642171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gl\u00f3ria do Ribatejo"
     ],
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.033333,
     "wd:longitude":-8.633333,
     "wd:wordcount":86,
@@ -72,7 +75,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":741868,
-        "qs:id":949583,
+        "qs_pg:id":949583,
         "wd:id":"Q1532673"
     },
     "wof:country":"PT",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101778289,
-    "wof:lastmodified":1561828722,
+    "wof:lastmodified":1566608411,
     "wof:name":"Gl\u00f3ria do Ribatejo",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.278541,
     "lbl:longitude":-7.476002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.278541,
     "mps:longitude":-7.476002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u0456\u0436\u0430"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.283333,
     "wd:longitude":-7.466667,
     "wd:wordcount":1507,
@@ -136,7 +139,6 @@
         "fct:id":"0272a7e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2743067,
         "gp:id":735884,
-        "qs:id":286030,
         "qs_pg:id":286030,
         "wd:id":"Q712064"
     },
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253161,
+    "wof:lastmodified":1566608519,
     "wof:name":"Alij\u00f3",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

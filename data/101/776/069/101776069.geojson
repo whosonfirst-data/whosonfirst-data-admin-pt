@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.241245,
     "lbl:longitude":-9.103696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.241245,
     "mps:longitude":-9.103696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cadaval"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.25,
     "wd:longitude":-9.1,
     "wd:wordcount":94,
@@ -127,7 +130,6 @@
         "fct:id":"0273eec6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270475,
         "gp:id":737844,
-        "qs:id":315235,
         "qs_pg:id":315235,
         "wd:id":"Q986021"
     },
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252941,
+    "wof:lastmodified":1566608433,
     "wof:name":"Cadaval",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

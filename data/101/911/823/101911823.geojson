@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
+    "geom:area_square_m":809058.903993,
     "geom:bbox":"-8.09767593237,40.7323404689,-8.07522594741,40.7432428517",
     "geom:latitude":40.738807,
     "geom:longitude":-8.0881,
     "iso:country":"PT",
     "lbl:latitude":40.738815,
     "lbl:longitude":-8.092607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.738815,
     "mps:longitude":-8.092607,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Viseu",
     "qs:a1r":"9",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29384599,
-        "qs:id":1322162,
         "qs_pg:id":1322162
     },
     "wof:country":"PT",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101911823,
-    "wof:lastmodified":1497299948,
+    "wof:lastmodified":1566608516,
     "wof:name":"Termas",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

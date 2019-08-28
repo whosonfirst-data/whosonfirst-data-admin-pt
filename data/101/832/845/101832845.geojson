@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
+    "geom:area_square_m":1619905.00527,
     "geom:bbox":"-9.18032982932,38.64504274,-9.16913639206,38.6642078908",
     "geom:latitude":38.65348,
     "geom:longitude":-9.174235,
     "iso:country":"PT",
     "lbl:latitude":38.651682,
     "lbl:longitude":-9.174688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.651682,
     "mps:longitude":-9.174688,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23412812,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"9f9c0355c4d355514f3d16b45f140d06",
+    "wof:geomhash":"be29f23e9e287c08ad1d6222c060ecd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832845,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608397,
     "wof:name":"Vale Flores",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

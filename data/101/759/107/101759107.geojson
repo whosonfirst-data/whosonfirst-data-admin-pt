@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.69886,
     "lbl:longitude":-9.297464,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.69886,
     "mps:longitude":-9.297464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Pa\u00e7o de Arcos"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0441\u0443-\u0434\u0435-\u0410\u0440\u043a\u0443\u0448"
     ],
-    "name:unk_x_variant":[
-        "Pa\u00e7o d'Arcos"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":223,
     "wof:belongsto":[
@@ -95,7 +95,6 @@
         "fct:id":"0270997e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265326,
         "gp:id":744899,
-        "qs:id":894032,
         "qs_pg:id":894032,
         "wd:id":"Q2065632",
         "wk:page":"Pa\u00e7o de Arcos"
@@ -114,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253059,
+    "wof:lastmodified":1566608476,
     "wof:name":"Pa\u00e7o de Arcos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

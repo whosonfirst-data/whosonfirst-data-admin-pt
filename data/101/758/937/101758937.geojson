@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.789604,
     "lbl:longitude":-9.324384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.789604,
     "mps:longitude":-9.324384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Merc\u00eas"
     ],
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,6 @@
         "fct:id":"0264b460-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266444,
         "gp:id":20105164,
-        "qs:id":407417,
         "qs_pg:id":407417,
         "wd:id":"Q182737"
     },
@@ -110,7 +112,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253009,
+    "wof:lastmodified":1566608455,
     "wof:name":"Merc\u00eas",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

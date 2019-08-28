@@ -9,16 +9,19 @@
     "geom:bbox":"-7.72250795741,40.3980025424,-7.70926194037,40.405055925",
     "geom:latitude":40.40176,
     "geom:longitude":-7.715943,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":40.402427,
     "lbl:longitude":-7.716044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.402427,
     "mps:longitude":-7.716044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "S\u00e3o Rom\u00e3o"
     ],
@@ -92,7 +95,7 @@
     "qs_pg:woe_id":748376,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":155,
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,6 @@
         "fct:id":"02675292-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734346,
         "gp:id":748376,
-        "qs:id":1213168,
         "qs_pg:id":1213168,
         "wd:id":"Q1943011",
         "wk:page":"S\u00e3o Rom\u00e3o (Seia)"
@@ -123,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252823,
+    "wof:lastmodified":1566608387,
     "wof:name":"S\u00e3o Rom\u00e3o",
     "wof:parent_id":85687397,
     "wof:placetype":"locality",

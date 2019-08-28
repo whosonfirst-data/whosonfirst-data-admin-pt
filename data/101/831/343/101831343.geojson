@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.64584,
     "lbl:longitude":-7.920246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.64584,
     "mps:longitude":-7.920246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Repeses"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":8014008,
         "gp:id":23412867,
-        "qs:id":58248,
+        "qs_pg:id":58248,
         "wd:id":"Q168438"
     },
     "wof:country":"PT",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101831343,
-    "wof:lastmodified":1563253149,
+    "wof:lastmodified":1566608516,
     "wof:name":"Repeses",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

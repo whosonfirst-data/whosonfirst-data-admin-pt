@@ -9,17 +9,19 @@
     "geom:bbox":"-8.55454267837,41.1159658204,-8.51293136343,41.155376032",
     "geom:latitude":41.135979,
     "geom:longitude":-8.531105,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":27691,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":27691,
     "iso:country":"PT",
     "lbl:latitude":41.144424,
     "lbl:longitude":-8.525487,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.144424,
     "mps:longitude":-8.525487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Gondomar"
     ],
@@ -120,7 +122,7 @@
     "qs_pg:woe_id":741940,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -133,7 +135,6 @@
         "fct:id":"0269dc38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738925,
         "gp:id":741940,
-        "qs:id":1081241,
         "qs_pg:id":1081241,
         "wd:id":"Q251045"
     },
@@ -151,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253045,
+    "wof:lastmodified":1566608470,
     "wof:name":"Gondomar",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.864594,
     "lbl:longitude":-9.105701,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.864594,
     "mps:longitude":-9.105701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Vialonga"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -101,7 +104,6 @@
         "fct:id":"026a0564-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261697,
         "gp:id":750532,
-        "qs:id":238303,
         "qs_pg:id":238303,
         "wd:id":"Q1340615"
     },
@@ -119,7 +121,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253027,
+    "wof:lastmodified":1566608463,
     "wof:name":"Vialonga",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

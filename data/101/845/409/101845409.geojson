@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
-    "geom:area_square_m":359662.049792,
+    "geom:area_square_m":359662.049791,
     "geom:bbox":"-8.71288359745,39.7927626212,-8.70336949296,39.8012874435",
     "geom:latitude":39.797604,
     "geom:longitude":-8.708281,
     "iso:country":"PT",
     "lbl:latitude":39.798748,
     "lbl:longitude":-8.709398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.798748,
     "mps:longitude":-8.709398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Colmeias"
     ],
@@ -34,7 +37,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -46,7 +49,7 @@
         "fct:id":"02748fca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2269132,
         "gp:id":739699,
-        "qs:id":218614
+        "qs_pg:id":218614
     },
     "wof:country":"PT",
     "wof:geomhash":"7a5456e226981ad454a253a61278237b",
@@ -62,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1527642313,
+    "wof:lastmodified":1566608386,
     "wof:name":"Colmeias",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

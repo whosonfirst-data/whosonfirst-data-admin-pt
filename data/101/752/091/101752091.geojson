@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":40.200597,
     "lbl:longitude":-8.42868,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":40.200597,
     "mps:longitude":-8.42868,
     "mz:hierarchy_label":1,
@@ -420,7 +422,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.201272,
     "wd:longitude":-8.407739,
@@ -435,7 +437,6 @@
         "fct:id":"026ebf00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740637,
         "gp:id":739672,
-        "qs:id":141287,
         "qs_pg:id":141287,
         "wd:id":"Q45412"
     },
@@ -453,7 +454,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252798,
+    "wof:lastmodified":1566608382,
     "wof:name":"Coimbra",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

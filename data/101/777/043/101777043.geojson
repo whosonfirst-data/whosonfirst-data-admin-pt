@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.775239,
     "lbl:longitude":-7.41946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.775239,
     "mps:longitude":-7.41946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627 \u0641\u064a\u0632\u0648\u0633\u0627"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.75,
     "wd:longitude":-7.433333,
@@ -135,7 +138,6 @@
         "fct:id":"026f5640-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261577,
         "gp:id":750876,
-        "qs:id":218370,
         "qs_pg:id":218370,
         "wd:id":"Q1013623"
     },
@@ -153,7 +155,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252972,
+    "wof:lastmodified":1566608445,
     "wof:name":"Vila Vi\u00e7osa",
     "wof:parent_id":85687363,
     "wof:placetype":"locality",

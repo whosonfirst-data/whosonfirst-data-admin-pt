@@ -11,12 +11,16 @@
     "geom:longitude":-25.437151,
     "gn:population":5035,
     "iso:country":"PT",
+    "lbl:bbox":"-25.457151,37.696839,-25.417151,37.736839",
     "lbl:latitude":37.716839,
     "lbl:longitude":-25.437151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.716839,
     "mps:longitude":-25.437151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Vila Franca do Campo"
     ],
@@ -78,9 +82,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u0430-\u0424\u0440\u0430\u043d\u043a\u0430-\u0434\u0443-\u041a\u0430\u043c\u043f\u0443"
     ],
-    "name:unk_x_variant":[
-        "Villa Franca do Campo"
-    ],
     "name:vie_x_preferred":[
         "Vila Franca do Campo"
     ],
@@ -110,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1743,
     "wof:belongsto":[
@@ -123,7 +124,6 @@
         "fct:id":"02652490-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372472,
         "gp:id":538448,
-        "qs:id":1331912,
         "qs_pg:id":1331912,
         "wd:id":"Q565290",
         "wk:page":"Vila Franca do Campo"
@@ -142,7 +142,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828736,
+    "wof:lastmodified":1566608494,
     "wof:name":"Vila Franca do Campo",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

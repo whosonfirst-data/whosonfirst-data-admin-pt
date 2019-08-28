@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.696594,
     "lbl:longitude":-9.208122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.693847,
     "mps:longitude":-9.205125,
     "mz:hierarchy_label":1,
@@ -89,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f-\u0434\u0435-\u0411\u0435\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Bel\u00e9m"
-    ],
     "name:zho_x_preferred":[
         "\u8d1d\u4f26\u533a"
     ],
@@ -135,7 +133,6 @@
     "wof:concordances":{
         "gn:id":2270978,
         "gp:id":737145,
-        "qs:id":179140,
         "qs_pg:id":179140,
         "wd:id":"Q376866",
         "wk:page":"Bel\u00e9m (Lisbon)"
@@ -155,7 +152,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607572,
     "wof:name":"Belem",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

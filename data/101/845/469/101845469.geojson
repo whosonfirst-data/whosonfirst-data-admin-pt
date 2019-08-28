@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.575728,
     "lbl:longitude":-8.273727,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.575728,
     "mps:longitude":-8.273727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "P\u00f3voa de Lanhoso"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.566667,
     "wd:longitude":-8.266667,
@@ -120,7 +123,6 @@
         "fct:id":"02744a7e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735803,
         "gp:id":746379,
-        "qs:id":905414,
         "qs_pg:id":905414,
         "wd:id":"Q551689"
     },
@@ -138,7 +140,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252826,
+    "wof:lastmodified":1566608388,
     "wof:name":"P\u00f3voa de Lanhoso",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.727715,
     "lbl:longitude":-9.1886,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.727673,
     "mps:longitude":-9.190044,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:por_x_preferred":[
-        "Zona Interdita"
-    ],
-    "name:unk_x_variant":[
         "Zona Interdita"
     ],
     "qs:gn_adm0_cc":"PT",
@@ -69,8 +67,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20105220,
-        "qs:id":1014773,
         "qs_pg:id":247788
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1014773
     },
     "wof:country":"PT",
     "wof:geomhash":"2cf4bdfdaf85b97039bcecd1d401e18a",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247522,
+    "wof:lastmodified":1566608206,
     "wof:name":"Zona Interdita",
     "wof:parent_id":101759079,
     "wof:placetype":"neighbourhood",

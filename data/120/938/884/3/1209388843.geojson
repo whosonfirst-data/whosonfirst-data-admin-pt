@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.77762,41.27682,-7.73762,41.31682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2737119
     },
     "wof:country":"PT",
-    "wof:geomhash":"7db479c4ede8a3d1d70ef258197e4bb4",
+    "wof:geomhash":"2bf0e831e67da6a6796ff017a40e1481",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209388843,
-    "wof:lastmodified":1536288530,
+    "wof:lastmodified":1566607930,
     "wof:name":"Nossa Senhora de Almodena",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.757619999999998,
+    -7.75762,
     41.29682,
-    -7.757619999999998,
+    -7.75762,
     41.29682
 ],
   "geometry": {"coordinates":[-7.75762,41.29682],"type":"Point"}

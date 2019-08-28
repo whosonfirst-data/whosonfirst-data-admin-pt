@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000092,
+    "geom:area_square_m":859024.033867,
     "geom:bbox":"-7.89610759114,40.6223267833,-7.86266822414,40.6326494693",
     "geom:latitude":40.628268,
     "geom:longitude":-7.878359,
     "iso:country":"PT",
     "lbl:latitude":40.629092,
     "lbl:longitude":-7.880006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.629092,
     "mps:longitude":-7.880006,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Fragosela"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"02692806-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739311,
         "gp:id":741462,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"370754880db3b5de83702b7b0a6a0495",
+    "wof:geomhash":"a27588af37e4aff18eb75e85ba405889",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626199,
+    "wof:lastmodified":1566608388,
     "wof:name":"Fragosela",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

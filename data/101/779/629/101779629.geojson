@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.875137,
     "lbl:longitude":-8.16757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.875137,
     "mps:longitude":-8.16757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Aljustrel"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.916667,
     "wd:longitude":-8.166667,
@@ -133,7 +136,6 @@
         "fct:id":"026c3492-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271965,
         "gp:id":735891,
-        "qs:id":1231557,
         "qs_pg:id":1231557,
         "wd:id":"Q939511"
     },
@@ -151,7 +153,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252995,
+    "wof:lastmodified":1566608451,
     "wof:name":"Aljustrel",
     "wof:parent_id":85687355,
     "wof:placetype":"locality",

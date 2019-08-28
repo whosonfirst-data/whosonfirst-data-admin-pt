@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.18671,41.57669,-7.14671,41.61669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2735539
     },
     "wof:country":"PT",
-    "wof:geomhash":"979c71f2b47c51547ee2088bf088ece6",
+    "wof:geomhash":"4f186b534e7de37f5260c2ae747763b0",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209246575,
-    "wof:lastmodified":1536293144,
+    "wof:lastmodified":1566607982,
     "wof:name":"Quintas",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.166710000000001,
+    -7.16671,
     41.59669,
-    -7.166710000000001,
+    -7.16671,
     41.59669
 ],
   "geometry": {"coordinates":[-7.16671,41.59669],"type":"Point"}

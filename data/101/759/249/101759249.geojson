@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.983934,
     "lbl:longitude":-8.568403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.983934,
     "mps:longitude":-8.568403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Santa Maria de Lamas"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":40.981667,
     "wd:longitude":-8.573056,
     "wd:wordcount":85,
@@ -79,10 +82,12 @@
     "wof:concordances":{
         "gn:id":2738479,
         "gp:id":22660930,
-        "qs:id":205659,
-        "qs_pg:id":1037669,
+        "qs_pg:id":205659,
         "wd:id":"Q2571208",
         "wk:page":"Santa Maria de Lamas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037669
     },
     "wof:country":"PT",
     "wof:geomhash":"d2e60401f20fe70d8257c862b1cf4510",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101759249,
-    "wof:lastmodified":1561828735,
+    "wof:lastmodified":1566608480,
     "wof:name":"Santa Maria de Lamas",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

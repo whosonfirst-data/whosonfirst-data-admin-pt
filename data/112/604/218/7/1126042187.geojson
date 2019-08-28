@@ -9,14 +9,18 @@
     "geom:bbox":"-9.10318,38.46142,-9.10318,38.46142",
     "geom:latitude":38.46142,
     "geom:longitude":-9.10318,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.12318,38.44142,-9.08318,38.48142",
     "lbl:latitude":38.46142,
     "lbl:longitude":-9.10318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be\u09a8\u09be"
@@ -111,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Ana"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +148,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":747956,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Set\u00fabal",
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":1126042187,
-    "wof:lastmodified":1564221215,
+    "wof:lastmodified":1566608628,
     "wof:name":"Santana",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.03296,
     "lbl:longitude":-7.839766,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.03296,
     "mps:longitude":-7.839766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0647\u0627\u0648"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1085,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
         "fct:id":"026f1afe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265447,
         "gp:id":744679,
-        "qs:id":458288,
         "qs_pg:id":458288,
         "wd:id":"Q740845"
     },
@@ -166,7 +168,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253170,
+    "wof:lastmodified":1566608521,
     "wof:name":"Olh\u00e3o",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

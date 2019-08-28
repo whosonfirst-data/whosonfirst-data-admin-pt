@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7492242.890989,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-8.67388,41.148783,-8.67388,41.148783",
     "geom:latitude":41.148783,
     "geom:longitude":-8.67388,
     "gn:latitude":41.15119,
     "gn:longitude":-8.67125,
     "iso:country":"PT",
+    "lbl:bbox":"-8.67888,41.143783,-8.66888,41.153783",
     "lbl:latitude":41.148783,
     "lbl:longitude":-8.67388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.145849,
     "mps:longitude":-8.680933,
     "mz:hierarchy_label":0,
@@ -57,10 +59,6 @@
     "name:spa_x_preferred":[
         "Foz do Douro"
     ],
-    "name:unk_x_variant":[
-        "S\u00e3o Jo\u00e3o da Foz",
-        "Foz do Douro"
-    ],
     "name:zho_x_preferred":[
         "\u675c\u7f57\u6cb3\u7554\u798f\u65af"
     ],
@@ -92,9 +90,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":142,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         101752093,
@@ -107,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2739336,
         "gp:id":741441,
-        "qs:id":110244,
+        "qs_pg:id":110244,
         "wd:id":"Q1397371",
         "wk:page":"Foz do Douro"
     },
@@ -126,7 +123,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1531861969,
+    "wof:lastmodified":1566607570,
     "wof:name":"Foz do Douro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

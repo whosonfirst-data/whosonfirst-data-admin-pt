@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
+    "geom:area_square_m":532226.627024,
     "geom:bbox":"-9.34574662003,38.6915399077,-9.33170333593,38.6994836305",
     "geom:latitude":38.695814,
     "geom:longitude":-9.339636,
     "iso:country":"PT",
     "lbl:latitude":38.696005,
     "lbl:longitude":-9.341498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.696005,
     "mps:longitude":-9.341498,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Rebelva"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026fba68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264023,
         "gp:id":746978,
-        "qs:id":965769
+        "qs_pg:id":965769
     },
     "wof:country":"PT",
-    "wof:geomhash":"d4d682cef6d15445ad1f0f6a398c25e7",
+    "wof:geomhash":"11039d7e9703f0bd366865d5eee34dfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625828,
+    "wof:lastmodified":1566608481,
     "wof:name":"Rebelva",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.311843,
     "lbl:longitude":-7.459529,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.311843,
     "mps:longitude":-7.459529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Teixoso"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"0269351c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733628,
         "gp:id":749257,
-        "qs:id":876455,
         "qs_pg:id":876455,
         "wd:id":"Q1145109"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252952,
+    "wof:lastmodified":1566608437,
     "wof:name":"Teixoso",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

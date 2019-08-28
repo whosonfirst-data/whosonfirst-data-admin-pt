@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.160819,
     "lbl:longitude":-8.790535,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.160819,
     "mps:longitude":-8.790535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0627\u0643\u0633\u0648"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.15,
     "wd:longitude":-8.783333,
@@ -141,7 +144,6 @@
         "fct:id":"0268ea1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270023,
         "gp:id":738409,
-        "qs:id":458228,
         "qs_pg:id":458228,
         "wd:id":"Q841304"
     },
@@ -159,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252895,
+    "wof:lastmodified":1566608417,
     "wof:name":"Cartaxo",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

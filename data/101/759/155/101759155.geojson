@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.803717,
     "lbl:longitude":-9.159558,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.803717,
     "mps:longitude":-9.159558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Igreja da P\u00f3voa de Santo Adri\u00e3o"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":37,
     "wof:belongsto":[
@@ -89,7 +92,6 @@
         "fct:id":"026e27d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264357,
         "gp:id":746393,
-        "qs:id":1225426,
         "qs_pg:id":1225426,
         "wd:id":"Q511708"
     },
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828735,
+    "wof:lastmodified":1566608477,
     "wof:name":"P\u00f3voa de Santo Adri\u00e3o",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

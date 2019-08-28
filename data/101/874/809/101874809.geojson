@@ -10,12 +10,16 @@
     "geom:latitude":37.046843,
     "geom:longitude":-7.958985,
     "iso:country":"PT",
+    "lbl:bbox":"-7.978985,37.026843,-7.938985,37.066843",
     "lbl:latitude":37.046843,
     "lbl:longitude":-7.958985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.046843,
     "mps:longitude":-7.958985,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Faro",
     "qs:a1r":"0",
@@ -32,7 +36,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":2267737,
         "gp:id":745286,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
     "wof:geomhash":"2f73d3e4007d905426a6a51e7edf6e67",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":101874809,
-    "wof:lastmodified":1544751803,
+    "wof:lastmodified":1566608392,
     "wof:name":"Gambelas",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.9588,
     "lbl:longitude":-8.572503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.9588,
     "mps:longitude":-8.572503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Rio Me\u00e3o"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -97,7 +100,6 @@
         "fct:id":"0273c202-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735088,
         "gp:id":747387,
-        "qs:id":1159309,
         "qs_pg:id":1159309,
         "wd:id":"Q2378888"
     },
@@ -115,7 +117,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253039,
+    "wof:lastmodified":1566608468,
     "wof:name":"Rio Me\u00e3o",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

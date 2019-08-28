@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.049977,
     "lbl:longitude":-8.363199,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.049977,
     "mps:longitude":-8.363199,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rio Mau"
     ],
@@ -69,7 +72,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -80,7 +83,7 @@
         "fct:id":"0268be3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735095,
         "gp:id":747385,
-        "qs:id":945258,
+        "qs_pg:id":945258,
         "wd:id":"Q175819",
         "wk:page":"Rio Mau (Penafiel)"
     },
@@ -98,7 +101,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252828,
+    "wof:lastmodified":1566608389,
     "wof:name":"Rio Mau",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

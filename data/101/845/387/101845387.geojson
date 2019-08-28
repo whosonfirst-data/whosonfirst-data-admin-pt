@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
+    "geom:area_square_m":2538288.739271,
     "geom:bbox":"-8.79240766377,38.6007980436,-8.74502581842,38.6193601508",
     "geom:latitude":38.608926,
     "geom:longitude":-8.767265,
     "iso:country":"PT",
     "lbl:latitude":38.606527,
     "lbl:longitude":-8.770854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.606527,
     "mps:longitude":-8.770854,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Associa\u00e7\u00e3o de Futebol de Set\u00fabal"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29382346,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"e4d609d8403f5c2a00a6cf248f4354ec",
+    "wof:geomhash":"67648a4e58f719cbff55c4771383bed8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":101845387,
-    "wof:lastmodified":1477508572,
+    "wof:lastmodified":1566608390,
     "wof:name":"Lagame\u00e7as",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

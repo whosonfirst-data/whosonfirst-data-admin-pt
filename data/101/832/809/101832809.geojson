@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.672064,
     "lbl:longitude":-9.237862,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":38.672064,
     "mps:longitude":-9.237862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Trafaria"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -91,7 +94,6 @@
         "fct:id":"026bf61c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2262544,
         "gp:id":749526,
-        "qs:id":911449,
         "qs_pg:id":911449,
         "wd:id":"Q1767492",
         "wk:page":"Trafaria"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252869,
+    "wof:lastmodified":1566608405,
     "wof:name":"Trafaria",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

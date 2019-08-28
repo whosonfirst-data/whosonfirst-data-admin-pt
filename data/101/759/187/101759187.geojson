@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.817936,
     "lbl:longitude":-9.093427,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":38.817936,
     "mps:longitude":-9.093427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "S\u00e3o Jo\u00e3o da Talha"
     ],
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
         "fct:id":"026cdb5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263326,
         "gp:id":748193,
-        "qs:id":262480,
         "qs_pg:id":262480,
         "wd:id":"Q1024823"
     },
@@ -101,7 +103,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253048,
+    "wof:lastmodified":1566608472,
     "wof:name":"S\u00e3o Jo\u00e3o da Talha",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

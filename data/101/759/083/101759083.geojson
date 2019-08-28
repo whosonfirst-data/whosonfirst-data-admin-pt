@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000241,
+    "geom:area_square_m":2321951.605489,
     "geom:bbox":"-9.23963679416,38.7887056116,-9.21955695344,38.8101615285",
     "geom:latitude":38.799437,
     "geom:longitude":-9.230721,
     "iso:country":"PT",
     "lbl:latitude":38.798507,
     "lbl:longitude":-9.230573,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.798507,
     "mps:longitude":-9.230573,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,7 +45,6 @@
     "wof:concordances":{
         "gn:id":8014085,
         "gp:id":22661040,
-        "qs:id":1061776,
         "qs_pg:id":1061776
     },
     "wof:country":"PT",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":101759083,
-    "wof:lastmodified":1497303102,
+    "wof:lastmodified":1566608466,
     "wof:name":"Casal de Cambra",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.103437,
     "lbl:longitude":-9.343893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.103437,
     "mps:longitude":-9.343893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Casalinhos de Alfaiata"
     ],
@@ -41,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
         "fct:id":"026db3da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2269675,
         "gp:id":738993,
-        "qs:id":188136,
         "qs_pg:id":188136,
         "wd:id":"Q5048005",
         "wk:page":"Casalinhos de Alfaiata"
@@ -72,7 +74,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828723,
+    "wof:lastmodified":1566608416,
     "wof:name":"Casalinhos de Alfaiata",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

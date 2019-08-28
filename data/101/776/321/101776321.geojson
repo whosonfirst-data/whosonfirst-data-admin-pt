@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000038,
+    "geom:area_square_m":349519.943138,
     "geom:bbox":"-7.32973583252,41.6599590018,-7.31749764412,41.6670267564",
     "geom:latitude":41.663135,
     "geom:longitude":-7.324364,
     "iso:country":"PT",
     "lbl:latitude":41.663363,
     "lbl:longitude":-7.325895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.663363,
     "mps:longitude":-7.325895,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0628\u0648\u0643\u0627\u0633"
     ],
@@ -61,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -72,10 +77,10 @@
         "fct:id":"0274012c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732483,
         "gp:id":750972,
-        "qs:id":965912
+        "qs_pg:id":965912
     },
     "wof:country":"PT",
-    "wof:geomhash":"dd03accb68f24a71894a0a8a75e38b40",
+    "wof:geomhash":"e46ab6ec8de5ee7f299ef5db46e7eb90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +93,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467244589,
+    "wof:lastmodified":1566608436,
     "wof:name":"Vilarandelo",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

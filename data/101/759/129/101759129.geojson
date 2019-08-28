@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
+    "geom:area_square_m":810720.85421,
     "geom:bbox":"-9.10845256873,38.8095016442,-9.09911987752,38.8242054116",
     "geom:latitude":38.818209,
     "geom:longitude":-9.104053,
     "iso:country":"PT",
     "lbl:latitude":38.818543,
     "lbl:longitude":-9.103964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.818543,
     "mps:longitude":-9.103964,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56069234,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"74ff1b7b5d2ad183e49d7bacbf58c13c",
+    "wof:geomhash":"de5ae1423c277fb05a48e6c8b9babef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759129,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608473,
     "wof:name":"Bairro da Fraternidade",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

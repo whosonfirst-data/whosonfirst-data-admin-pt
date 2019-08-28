@@ -9,15 +9,18 @@
     "geom:bbox":"-9.16928398299,38.6756763899,-9.15501610757,38.6846662965",
     "geom:latitude":38.680115,
     "geom:longitude":-9.161488,
-    "geonames:id":"2271961,6930183",
+    "gn:id":"2271961,6930183",
     "gn:population":34008,
     "iso:country":"PT",
     "lbl:latitude":38.680621,
     "lbl:longitude":-9.159596,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.680621,
     "mps:longitude":-9.159596,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Almada"
     ],
@@ -241,7 +244,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.666667,
     "wd:longitude":-9.15,
@@ -255,7 +258,6 @@
     "wof:concordances":{
         "gn:id":2271961,
         "gp:id":735897,
-        "qs:id":239854,
         "qs_pg:id":239854,
         "wd:id":"Q328015",
         "wk:page":"Almada"
@@ -271,7 +273,7 @@
         }
     ],
     "wof:id":101832799,
-    "wof:lastmodified":1563252843,
+    "wof:lastmodified":1566608395,
     "wof:name":"Almada",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

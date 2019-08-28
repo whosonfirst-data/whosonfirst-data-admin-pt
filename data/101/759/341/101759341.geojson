@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
+    "geom:area_square_m":3007685.142458,
     "geom:bbox":"-8.456554371,41.1663059363,-8.42314143402,41.1907660113",
     "geom:latitude":41.178484,
     "geom:longitude":-8.441911,
     "iso:country":"PT",
     "lbl:latitude":41.178302,
     "lbl:longitude":-8.440764,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.178302,
     "mps:longitude":-8.440764,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vilarinho de Cima"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026f186a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732380,
         "gp:id":56041123,
-        "qs:id":78336
+        "qs_pg:id":78336
     },
     "wof:country":"PT",
-    "wof:geomhash":"1fbb568e9a5c21179b7443fa0b26e43c",
+    "wof:geomhash":"3e2284cd19bbfc03b2681e454a19b4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625829,
+    "wof:lastmodified":1566608472,
     "wof:name":"Vilarinho de Cima",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

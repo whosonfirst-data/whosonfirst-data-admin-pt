@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.819129,
     "lbl:longitude":-9.285004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.819129,
     "mps:longitude":-9.285004,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Sabugo"
     ],
@@ -35,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -46,7 +49,6 @@
         "fct:id":"0270d740-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263673,
         "gp:id":747606,
-        "qs:id":1187342,
         "qs_pg:id":1187342
     },
     "wof:country":"PT",
@@ -63,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1535390434,
+    "wof:lastmodified":1566608395,
     "wof:name":"Sabugo",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

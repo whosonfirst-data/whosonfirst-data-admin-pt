@@ -5,23 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
+    "geom:area_square_m":1712417.092244,
     "geom:bbox":"-9.38545535195,38.7322124791,-9.35928476815,38.7483523299",
     "geom:latitude":38.739227,
     "geom:longitude":-9.373179,
     "iso:country":"PT",
     "lbl:latitude":38.736526,
     "lbl:longitude":-9.370105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.736526,
     "mps:longitude":-9.370105,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Manique de Baixo"
     ],
     "name:por_x_variant":[
         "Manique"
-    ],
-    "name:unk_x_variant":[
-        "Manique de Baixo"
     ],
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
@@ -39,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -50,7 +52,6 @@
         "fct:id":"0271fac6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266766,
         "gp:id":743117,
-        "qs:id":292256,
         "qs_pg:id":292256
     },
     "wof:country":"PT",
@@ -67,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497299731,
+    "wof:lastmodified":1566608481,
     "wof:name":"Manique",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

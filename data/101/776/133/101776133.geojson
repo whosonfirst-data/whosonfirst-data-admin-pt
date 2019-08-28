@@ -9,17 +9,19 @@
     "geom:bbox":"-9.40157476302,39.3499787517,-9.3541505858,39.3718015878",
     "geom:latitude":39.359535,
     "geom:longitude":-9.379664,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":15662,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":15662,
     "iso:country":"PT",
     "lbl:latitude":39.361787,
     "lbl:longitude":-9.385592,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":39.361787,
     "mps:longitude":-9.385592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u064a\u062a\u0634\u064a"
     ],
@@ -162,7 +164,7 @@
     "qs_pg:woe_id":745528,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -175,7 +177,6 @@
         "fct:id":"026991ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264923,
         "gp:id":745528,
-        "qs:id":1353257,
         "qs_pg:id":1353257,
         "wd:id":"Q941967"
     },
@@ -193,7 +194,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252905,
+    "wof:lastmodified":1566608421,
     "wof:name":"Peniche",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.01092,
     "lbl:longitude":-8.938821,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":37.01092,
     "mps:longitude":-8.938821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Sagres"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -141,7 +144,6 @@
         "fct:id":"026c0378-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263650,
         "gp:id":747632,
-        "qs:id":1353321,
         "qs_pg:id":1353321,
         "wd:id":"Q926672"
     },
@@ -159,7 +161,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253173,
+    "wof:lastmodified":1566608522,
     "wof:name":"Sagres",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

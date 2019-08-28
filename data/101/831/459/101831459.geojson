@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":41.305644,
     "lbl:longitude":-7.740289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":41.305644,
     "mps:longitude":-7.740289,
     "mz:hierarchy_label":1,
@@ -166,7 +168,7 @@
         "Vila Real"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbf\u0bb2\u0bbe  \u0bb0\u0bbf\u0baf\u0bb2\u0bcd"
+        "\u0bb5\u0bbf\u0bb2\u0bbe \u0bb0\u0bbf\u0baf\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c32\u0c3e \u0c30\u0c3f\u0c2f\u0c32\u0c4d"
@@ -306,7 +308,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.283333,
     "wd:longitude":-7.8,
@@ -321,7 +323,6 @@
         "fct:id":"027417b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732438,
         "gp:id":750832,
-        "qs:id":297824,
         "qs_pg:id":297824,
         "wd:id":"Q503856",
         "wk:page":"Vila Real, Portugal"
@@ -340,7 +341,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253142,
+    "wof:lastmodified":1566608513,
     "wof:name":"Vila Real",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

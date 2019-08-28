@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.75919,
     "lbl:longitude":-8.569374,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.75919,
     "mps:longitude":-8.569374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u062a\u0627\u0631\u064a\u062c\u0627"
     ],
@@ -140,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191581,
@@ -152,7 +155,6 @@
         "fct:id":"026cd78a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739837,
         "gp:id":740729,
-        "qs:id":1210516,
         "qs_pg:id":1210516,
         "wd:id":"Q381337"
     },
@@ -170,7 +172,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252837,
+    "wof:lastmodified":1566608392,
     "wof:name":"Estarreja",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

@@ -9,17 +9,19 @@
     "geom:bbox":"-8.40263156675,41.1851021785,-8.37870273876,41.1955904531",
     "geom:latitude":41.190479,
     "geom:longitude":-8.38945,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4929,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":4929,
     "iso:country":"PT",
     "lbl:latitude":41.190233,
     "lbl:longitude":-8.385643,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.190233,
     "mps:longitude":-8.385643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Baltar"
     ],
@@ -94,7 +96,7 @@
     "qs_pg:woe_id":29385312,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":56,
     "wof:belongsto":[
@@ -107,7 +109,6 @@
         "fct:id":"0271bc64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742458,
         "gp:id":29385312,
-        "qs:id":946120,
         "qs_pg:id":946120,
         "wd:id":"Q805552"
     },
@@ -125,7 +126,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252940,
+    "wof:lastmodified":1566608433,
     "wof:name":"Baltar",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

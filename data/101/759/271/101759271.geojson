@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":4744187.423183,
+    "geom:area_square_m":4744187.423184,
     "geom:bbox":"-8.5250510232,40.8603136454,-8.48149672006,40.8932949977",
     "geom:latitude":40.874898,
     "geom:longitude":-8.501362,
     "iso:country":"PT",
     "lbl:latitude":40.876626,
     "lbl:longitude":-8.504424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.876626,
     "mps:longitude":-8.504424,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0641\u064a\u0631\u0627 \u062f\u064a \u0627\u0632\u0645\u064a\u0633"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":8014615,
         "gp:id":740218,
-        "qs:id":231295,
         "qs_pg:id":231295
     },
     "wof:country":"PT",
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101759271,
-    "wof:lastmodified":1507750665,
+    "wof:lastmodified":1566608481,
     "wof:name":"Vila de Cucuj\u00e3es",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

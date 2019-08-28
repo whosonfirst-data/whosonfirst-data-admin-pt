@@ -11,12 +11,16 @@
     "geom:longitude":-8.739682,
     "gn:population":4914,
     "iso:country":"PT",
+    "lbl:bbox":"-8.759682,40.600123,-8.719682,40.640123",
     "lbl:latitude":40.620123,
     "lbl:longitude":-8.739682,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":40.620123,
     "mps:longitude":-8.739682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Gafanha da Encarna\u00e7\u00e3o"
     ],
@@ -79,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +95,6 @@
         "fct:id":"026a305c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739153,
         "gp:id":741649,
-        "qs:id":871713,
         "qs_pg:id":871713,
         "wd:id":"Q388117"
     },
@@ -109,7 +112,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252835,
+    "wof:lastmodified":1566608392,
     "wof:name":"Gafanha da Encarna\u00e7\u00e3o",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

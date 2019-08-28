@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
+    "geom:area_square_m":779005.715612,
     "geom:bbox":"-8.72796176256,41.2592545718,-8.70701272663,41.2756330639",
     "geom:latitude":41.267515,
     "geom:longitude":-8.721393,
     "iso:country":"PT",
     "lbl:latitude":41.266896,
     "lbl:longitude":-8.723853,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.266896,
     "mps:longitude":-8.723853,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Angeiras"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"026e2608-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742885,
         "gp:id":736217,
-        "qs:id":206160
+        "qs_pg:id":206160
     },
     "wof:country":"PT",
-    "wof:geomhash":"b7f7d893c7ab24913233f2f949034180",
+    "wof:geomhash":"23fb292bbcb0e246f109efeaac770d33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626199,
+    "wof:lastmodified":1566608386,
     "wof:name":"Angeiras",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.94349,40.30819,-7.90349,40.34819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2742468
     },
     "wof:country":"PT",
-    "wof:geomhash":"e35f169e1a75d81fb67d2f14bc6250aa",
+    "wof:geomhash":"6456aba743ed0f5866d995c4c196a65a",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209436333,
-    "wof:lastmodified":1536287093,
+    "wof:lastmodified":1566608080,
     "wof:name":"Balocas",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.923489999999998,
+    -7.92349,
     40.32819,
-    -7.923489999999998,
+    -7.92349,
     40.32819
 ],
   "geometry": {"coordinates":[-7.92349,40.32819],"type":"Point"}

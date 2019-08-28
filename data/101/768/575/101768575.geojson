@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
+    "geom:area_square_m":379613.770828,
     "geom:bbox":"-8.63956478744,40.1046680705,-8.6313093333,40.1140753683",
     "geom:latitude":40.109606,
     "geom:longitude":-8.635347,
     "iso:country":"PT",
     "lbl:latitude":40.110652,
     "lbl:longitude":-8.634722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.110652,
     "mps:longitude":-8.634722,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Vila Nova D Ancos",
         "Vila Nova d'Ancos",
@@ -28,7 +33,7 @@
         "Vila Nova d'An\u00e7os",
         "Villa Nova d'An\u00e7os"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa Nova d\u2019An\u00e7os"
     ],
     "qs:a0":"Portugal",
@@ -45,7 +50,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,7 +61,7 @@
         "fct:id":"0273ed90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2732549,
         "gp:id":750792,
-        "qs:id":180589
+        "qs_pg:id":180589
     },
     "wof:country":"PT",
     "wof:geomhash":"71394278e45ba2692c2ac76cd6f3873f",
@@ -72,7 +77,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1501263958,
+    "wof:lastmodified":1566608462,
     "wof:name":"Vila Nova de An\u00e7os",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"PT",
     "lbl:latitude":37.140799,
     "lbl:longitude":-8.538386,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":37.140799,
     "mps:longitude":-8.538386,
     "mz:hierarchy_label":1,
@@ -166,9 +168,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0456\u043c\u0430\u0443"
     ],
-    "name:unk_x_variant":[
-        "Vila Nova de Portim\u00e3o"
-    ],
     "name:vie_x_preferred":[
         "Portim\u00e3o"
     ],
@@ -293,7 +292,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -305,7 +304,6 @@
         "fct:id":"027075ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264456,
         "gp:id":746194,
-        "qs:id":458305,
         "qs_pg:id":458305,
         "wd:id":"Q543542",
         "wk:page":"Portim\u00e3o (parish)"
@@ -324,7 +322,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252864,
+    "wof:lastmodified":1566608403,
     "wof:name":"Portim\u00e3o",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

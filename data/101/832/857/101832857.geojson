@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
+    "geom:area_square_m":1143670.15481,
     "geom:bbox":"-9.16649634014,38.6313998956,-9.14967336401,38.6474286469",
     "geom:latitude":38.639282,
     "geom:longitude":-9.157986,
     "iso:country":"PT",
     "lbl:latitude":38.639106,
     "lbl:longitude":-9.158135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.639106,
     "mps:longitude":-9.158135,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":739823,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"PT",
-    "wof:geomhash":"704b9edbe878526e052c5295a15e2914",
+    "wof:geomhash":"977a6ba78433a0a359edf5e74d3b2753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832857,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608399,
     "wof:name":"Alto do Moinho",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

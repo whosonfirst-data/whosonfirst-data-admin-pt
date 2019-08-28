@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.11613,40.37681,-7.07613,40.41681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2742437
     },
     "wof:country":"PT",
-    "wof:geomhash":"cc05f7ea4379eeba06b56de6af6c8ac0",
+    "wof:geomhash":"65b6fd81db8bcf261a1fa3e873f2b691",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209202753,
-    "wof:lastmodified":1536294554,
+    "wof:lastmodified":1566608041,
     "wof:name":"Baracal",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.0961300000000005,
+    -7.09613,
     40.39681,
-    -7.0961300000000005,
+    -7.09613,
     40.39681
 ],
   "geometry": {"coordinates":[-7.09613,40.39681],"type":"Point"}

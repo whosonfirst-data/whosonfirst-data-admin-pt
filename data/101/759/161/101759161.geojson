@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
+    "geom:area_square_m":1536940.84342,
     "geom:bbox":"-9.09431904502,38.8448992299,-9.0754024765,38.8630372277",
     "geom:latitude":38.853229,
     "geom:longitude":-9.084932,
     "iso:country":"PT",
     "lbl:latitude":38.853149,
     "lbl:longitude":-9.086365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.853149,
     "mps:longitude":-9.086365,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Via Rara"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"02721a6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261693,
         "gp:id":750528,
-        "qs:id":1255021
+        "qs_pg:id":1255021
     },
     "wof:country":"PT",
-    "wof:geomhash":"2025b889ecd254c2929678b5fc5b7d62",
+    "wof:geomhash":"a5eda791ee6ce4cd13e1b96455d097d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625828,
+    "wof:lastmodified":1566608464,
     "wof:name":"Via Rara",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

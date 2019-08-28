@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.659576,
     "lbl:longitude":-7.667237,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.659576,
     "mps:longitude":-7.667237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Vila Velha de R\u00f3d\u00e3o"
     ],
@@ -65,9 +68,6 @@
     "name:tur_x_preferred":[
         "Vila Velha de R\u00f3d\u00e3o"
     ],
-    "name:unk_x_variant":[
-        "Rodao"
-    ],
     "name:vie_x_preferred":[
         "Vila Velha de R\u00f3d\u00e3o"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.65,
     "wd:longitude":-7.666667,
     "wd:wordcount":162,
@@ -110,7 +110,6 @@
         "fct:id":"02724684-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261584,
         "gp:id":750853,
-        "qs:id":218364,
         "qs_pg:id":218364,
         "wd:id":"Q995188"
     },
@@ -128,7 +127,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828719,
+    "wof:lastmodified":1566608388,
     "wof:name":"Vila Velha de Rod\u00e3o",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

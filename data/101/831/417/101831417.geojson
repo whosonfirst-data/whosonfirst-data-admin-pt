@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.371257,
     "lbl:longitude":-8.336607,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.371257,
     "mps:longitude":-8.336607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Moreira de C\u00f3negos"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u0439\u0440\u0430-\u0434\u0435-\u041a\u043e\u043d\u0435\u0433\u0443\u0448"
     ],
-    "name:unk_x_variant":[
-        "Moreira de Conegos"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -80,7 +80,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.383333,
     "wd:longitude":-8.333333,
@@ -95,7 +95,7 @@
         "fct:id":"026ec9c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737393,
         "gp:id":29385577,
-        "qs:id":359282,
+        "qs_pg:id":359282,
         "wd:id":"Q1947515",
         "wk:page":"Moreira de C\u00f3negos"
     },
@@ -113,7 +113,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253137,
+    "wof:lastmodified":1566608511,
     "wof:name":"Moreira de C\u00f3negos",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

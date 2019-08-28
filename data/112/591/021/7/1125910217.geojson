@@ -9,14 +9,18 @@
     "geom:bbox":"-9.04333,38.59341,-9.04333,38.59341",
     "geom:latitude":38.59341,
     "geom:longitude":-9.04333,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.06333,38.57341,-9.02333,38.61341",
     "lbl:latitude":38.59341,
     "lbl:longitude":-9.04333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0432\u0438\u043d\u0430"
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0432\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abona"
     ],
     "name:vie_x_preferred":[
@@ -80,7 +84,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":29381859,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Set\u00fabal",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1125910217,
-    "wof:lastmodified":1564221391,
+    "wof:lastmodified":1566608725,
     "wof:name":"Corvina",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000146,
+    "geom:area_square_m":1417264.130169,
     "geom:bbox":"-9.13519935396,38.4459161496,-9.11636021112,38.46434588",
     "geom:latitude":38.453556,
     "geom:longitude":-9.126278,
     "iso:country":"PT",
     "lbl:latitude":38.452633,
     "lbl:longitude":-9.12378,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.452633,
     "mps:longitude":-9.12378,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Zambujal de Cima"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"02745366-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2261496,
         "gp:id":751172,
-        "qs:id":1255133
+        "qs_pg:id":1255133
     },
     "wof:country":"PT",
-    "wof:geomhash":"88de6dd24a2104d23e6c6e7850673fec",
+    "wof:geomhash":"133dcc069290d6a0b3cb65ba636091ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466626138,
+    "wof:lastmodified":1566608404,
     "wof:name":"Zambujal de Cima",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

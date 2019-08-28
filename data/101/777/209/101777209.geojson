@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.288844,
     "lbl:longitude":-8.421168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.288844,
     "mps:longitude":-8.421168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Souselas"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -74,7 +77,7 @@
         "fct:id":"027522dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733846,
         "gp:id":749036,
-        "qs:id":180537,
+        "qs_pg:id":180537,
         "wd:id":"Q1703269"
     },
     "wof:country":"PT",
@@ -91,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252973,
+    "wof:lastmodified":1566608446,
     "wof:name":"Souselas",
     "wof:parent_id":85687391,
     "wof:placetype":"locality",

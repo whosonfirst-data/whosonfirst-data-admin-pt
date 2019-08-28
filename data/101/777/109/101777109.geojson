@@ -9,17 +9,19 @@
     "geom:bbox":"-9.34055631681,39.3316486067,-9.31098826656,39.3465971271",
     "geom:latitude":39.337754,
     "geom:longitude":-9.32453,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8313,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":8313,
     "iso:country":"PT",
     "lbl:latitude":39.336042,
     "lbl:longitude":-9.325203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.336042,
     "mps:longitude":-9.325203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Atouguia da Baleia"
     ],
@@ -62,9 +64,6 @@
     "name:spa_x_preferred":[
         "Atouguia da Baleia"
     ],
-    "name:unk_x_variant":[
-        "Atouguia"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Leiria",
     "qs:a1r":"0",
@@ -99,7 +98,7 @@
     "qs_pg:woe_id":736623,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
     "wof:belongsto":[
@@ -112,7 +111,6 @@
         "fct:id":"026fc828-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271354,
         "gp:id":736623,
-        "qs:id":348022,
         "qs_pg:id":348022,
         "wd:id":"Q757700",
         "wk:page":"Atouguia da Baleia"
@@ -131,7 +129,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252965,
+    "wof:lastmodified":1566608443,
     "wof:name":"Atouguia da Baleia",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

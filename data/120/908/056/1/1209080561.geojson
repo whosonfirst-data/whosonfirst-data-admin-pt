@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.64863,41.84232,-8.60863,41.88232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741082
     },
     "wof:country":"PT",
-    "wof:geomhash":"194aaa7132942eb05445b7bc3d213a85",
+    "wof:geomhash":"1c2156f74255fb59aa3e0b58890793eb",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209080561,
-    "wof:lastmodified":1536298352,
+    "wof:lastmodified":1566607953,
     "wof:name":"Cascalhal",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.628630000000001,
+    -8.62863,
     41.86232,
-    -8.628630000000001,
+    -8.62863,
     41.86232
 ],
   "geometry": {"coordinates":[-8.62863,41.86232],"type":"Point"}

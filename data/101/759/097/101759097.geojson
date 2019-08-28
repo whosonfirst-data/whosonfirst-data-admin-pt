@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000406,
+    "geom:area_square_m":3908016.935135,
     "geom:bbox":"-9.22798748991,38.7958897252,-9.19008164112,38.8257901735",
     "geom:latitude":38.809836,
     "geom:longitude":-9.211116,
     "iso:country":"PT",
     "lbl:latitude":38.809999,
     "lbl:longitude":-9.211408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.809999,
     "mps:longitude":-9.211408,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -29,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -40,7 +45,7 @@
         "gp:id":23412859
     },
     "wof:country":"PT",
-    "wof:geomhash":"630ed3951933672798de3f71c494e5bb",
+    "wof:geomhash":"680b93797f451dc9a3f4cec127cf9355",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101759097,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608471,
     "wof:name":"Bairros Casal Novo e Moinho da Baeta",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

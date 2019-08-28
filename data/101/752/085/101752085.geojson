@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.772163,
     "lbl:longitude":-9.299411,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":38.772163,
     "mps:longitude":-9.299411,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u062c\u0648\u0627\u0644\u0641\u0627 \u0643\u0627\u0633\u064a\u0645"
     ],
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -147,7 +150,6 @@
         "fct:id":"02671d04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2270503,
         "gp:id":737816,
-        "qs:id":458213,
         "qs_pg:id":458213,
         "wd:id":"Q397900",
         "wk:page":"Agualva-Cac\u00e9m"
@@ -166,7 +168,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252796,
+    "wof:lastmodified":1566608382,
     "wof:name":"Cac\u00e9m",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

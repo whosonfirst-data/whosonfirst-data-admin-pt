@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
+    "geom:area_square_m":3725932.858064,
     "geom:bbox":"-8.89607174615,38.9004569076,-8.85138773799,38.9324983774",
     "geom:latitude":38.918312,
     "geom:longitude":-8.879392,
     "iso:country":"PT",
     "lbl:latitude":38.921191,
     "lbl:longitude":-8.882642,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.921191,
     "mps:longitude":-8.882642,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Porto Alto",
         "Associa\u00e7\u00e3o de Futebol de Santar\u00e9m"
@@ -32,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -43,10 +48,10 @@
         "fct:id":"02685188-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264446,
         "gp:id":746204,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
-    "wof:geomhash":"a2e9131ee4e601749c44c361baa93e90",
+    "wof:geomhash":"5f2db56e1ac4002cc9e93d9b20f49693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +64,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467244744,
+    "wof:lastmodified":1566608407,
     "wof:name":"Porto Alto",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

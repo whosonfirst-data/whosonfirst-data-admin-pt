@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
+    "geom:area_square_m":469691.442581,
     "geom:bbox":"-8.77978909206,38.5674699503,-8.76833825921,38.5795224671",
     "geom:latitude":38.574015,
     "geom:longitude":-8.773005,
     "iso:country":"PT",
     "lbl:latitude":38.574724,
     "lbl:longitude":-8.771964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.574724,
     "mps:longitude":-8.771964,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23412845,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
-    "wof:geomhash":"c01ed59805c041561cfd1b38c9fcc7ac",
+    "wof:geomhash":"17f8837070e83647171463550edc480c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101778177,
-    "wof:lastmodified":1477508541,
+    "wof:lastmodified":1566608419,
     "wof:name":"Cajados",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

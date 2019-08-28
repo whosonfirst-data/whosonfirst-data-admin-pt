@@ -9,14 +9,18 @@
     "geom:bbox":"-9.14712,39.28322,-9.14712,39.28322",
     "geom:latitude":39.28322,
     "geom:longitude":-9.14712,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-9.16712,39.26322,-9.12712,39.30322",
     "lbl:latitude":39.28322,
     "lbl:longitude":-9.14712,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09be\u09b2"
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0431\u0440\u0430\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sobral do Parelh\u00e3o"
     ],
     "qs_pg:aaroncc":"PT",
@@ -81,7 +85,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":748943,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Leiria",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1125766409,
-    "wof:lastmodified":1564221449,
+    "wof:lastmodified":1566608760,
     "wof:name":"Sobral",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

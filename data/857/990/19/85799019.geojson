@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.766431,
     "lbl:longitude":-9.161498,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.789238,
     "mps:longitude":-9.160796,
     "mz:hierarchy_label":1,
@@ -59,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043c\u0456\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Lumiar"
-    ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6458923,
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2266940,
         "gp:id":742900,
-        "qs:id":911274,
         "qs_pg:id":911274
     },
     "wof:country":"PT",
@@ -119,7 +116,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607564,
     "wof:name":"Lumiar",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

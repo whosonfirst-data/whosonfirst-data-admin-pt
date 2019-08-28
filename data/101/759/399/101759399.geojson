@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000179,
+    "geom:area_square_m":1664701.89198,
     "geom:bbox":"-8.52946932333,41.0917823429,-8.50402964675,41.1203550567",
     "geom:latitude":41.107131,
     "geom:longitude":-8.516696,
     "iso:country":"PT",
     "lbl:latitude":41.111717,
     "lbl:longitude":-8.520068,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.111717,
     "mps:longitude":-8.520068,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0643\u0627\u0633"
     ],
@@ -58,7 +63,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -67,10 +72,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29381373,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"PT",
-    "wof:geomhash":"4e15e1ed1bb7c80509ecf37ca53ffc9b",
+    "wof:geomhash":"9aa0e3f3c0985fd65cd5e666c5431aec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101759399,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608464,
     "wof:name":"Barraca",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

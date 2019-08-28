@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.754414,
     "lbl:longitude":-9.111001,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.754619,
     "mps:longitude":-9.107243,
     "mz:hierarchy_label":1,
@@ -32,10 +33,6 @@
     ],
     "name:por_x_variant":[
         "Chellas"
-    ],
-    "name:unk_x_variant":[
-        "Chellas",
-        "Chelas"
     ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
@@ -78,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2269251,
         "gp:id":739526,
-        "qs:id":1144091,
         "qs_pg:id":1144091
     },
     "wof:country":"PT",
@@ -96,7 +92,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247556,
+    "wof:lastmodified":1566607568,
     "wof:name":"Chelas",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.709259,
     "lbl:longitude":-9.39933,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":38.709259,
     "mps:longitude":-9.39933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u0648\u0631\u064a\u0644"
     ],
@@ -165,9 +168,6 @@
     "name:ukr_x_variant":[
         "\u0415\u0448\u0442\u043e\u0440\u0456\u043b"
     ],
-    "name:unk_x_variant":[
-        "Estroil"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u6258\u91cc\u723e"
     ],
@@ -187,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":998,
     "wof:belongsto":[
@@ -203,7 +203,6 @@
         "gn:id":2268436,
         "gp:id":740758,
         "nyt:id":"4715426425364677841",
-        "qs:id":685367,
         "qs_pg:id":685367,
         "wd:id":"Q193305",
         "wk:page":"Estoril"
@@ -222,7 +221,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253073,
+    "wof:lastmodified":1566608482,
     "wof:name":"Estoril",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"-8.3485,41.48465,-8.3485,41.48465",
     "geom:latitude":41.48465,
     "geom:longitude":-8.3485,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.3685,41.46465,-8.3285,41.50465",
     "lbl:latitude":41.48465,
     "lbl:longitude":-8.3485,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Caldelas"
@@ -63,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0434\u0435\u043b\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taipas"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +92,7 @@
     "qs_pg:woe_adm0":23424925,
     "qs_pg:woe_id":737891,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Braga",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1126015683,
-    "wof:lastmodified":1563253596,
+    "wof:lastmodified":1566608736,
     "wof:name":"Caldas das Taipas",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

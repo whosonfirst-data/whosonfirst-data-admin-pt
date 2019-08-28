@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
+    "geom:area_square_m":1660198.584351,
     "geom:bbox":"-9.45796660719,38.6940991779,-9.44189926996,38.7093902205",
     "geom:latitude":38.70215,
     "geom:longitude":-9.449832,
     "iso:country":"PT",
     "lbl:latitude":38.703909,
     "lbl:longitude":-9.453299,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.703909,
     "mps:longitude":-9.453299,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":739040,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"89de5985a2860963ccd64f8346cde60c",
+    "wof:geomhash":"8ed4640f71272302cfcbbdcc3a974786",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101758973,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608460,
     "wof:name":"Pampilheira",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.453975,
     "lbl:longitude":-8.363475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.453975,
     "mps:longitude":-8.363475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Brito"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"0273b0b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2741985,
         "gp:id":737583,
-        "qs:id":188096,
         "qs_pg:id":188096,
         "wd:id":"Q920477",
         "wk:page":"Brito (Guimar\u00e3es)"
@@ -103,7 +105,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253119,
+    "wof:lastmodified":1566608503,
     "wof:name":"Brito",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

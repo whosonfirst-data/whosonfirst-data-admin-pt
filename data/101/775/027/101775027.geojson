@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.687303,
     "lbl:longitude":-7.666714,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.687303,
     "mps:longitude":-7.666714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Boticas"
     ],
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.6833,
     "wd:longitude":-7.66667,
     "wd:wordcount":1414,
@@ -124,7 +127,6 @@
         "fct:id":"026858c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742090,
         "gp:id":737460,
-        "qs:id":315234,
         "qs_pg:id":315234,
         "wd:id":"Q894746",
         "wk:page":"Boticas"
@@ -143,7 +145,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253162,
+    "wof:lastmodified":1566608520,
     "wof:name":"Boticas",
     "wof:parent_id":85687423,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.457057,
     "lbl:longitude":-8.670454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":39.457057,
     "mps:longitude":-8.670454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Alcanena"
     ],
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -127,7 +130,6 @@
         "fct:id":"027235ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2272189,
         "gp:id":735581,
-        "qs:id":1352844,
         "qs_pg:id":1352844,
         "wd:id":"Q986107"
     },
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253120,
+    "wof:lastmodified":1566608503,
     "wof:name":"Alcanena",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

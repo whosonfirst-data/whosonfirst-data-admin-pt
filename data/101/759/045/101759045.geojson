@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.695252,
     "lbl:longitude":-9.35356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.695252,
     "mps:longitude":-9.35356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rana"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -113,7 +116,6 @@
         "fct:id":"0264ce5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264070,
         "gp:id":746911,
-        "qs:id":1158447,
         "qs_pg:id":1158447
     },
     "wof:country":"PT",
@@ -130,7 +132,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220999,
+    "wof:lastmodified":1566608478,
     "wof:name":"Rana",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

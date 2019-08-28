@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.111776,
     "lbl:longitude":-8.592647,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.122692,
     "mps:longitude":-8.585591,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Oliveira do Douro"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         "fct:id":"030bc9bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737039,
         "gp:id":744720,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"PT",
     "wof:geomhash":"59a51da536acee267638d357eb26d7cd",
@@ -71,7 +74,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1505337768,
+    "wof:lastmodified":1566608469,
     "wof:name":"Oliveira do Douro",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

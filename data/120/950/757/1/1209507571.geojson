@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.82873,39.68037,-7.78873,39.72037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2267301
     },
     "wof:country":"PT",
-    "wof:geomhash":"8844ee3f31da3af34ccf0e9da3ea7e4e",
+    "wof:geomhash":"01b5dbaa47a2ea3a9156382365a3b859",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209507571,
-    "wof:lastmodified":1536284985,
+    "wof:lastmodified":1566608002,
     "wof:name":"Junceira",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.8087300000000015,
+    -7.80873,
     39.70037,
-    -7.8087300000000015,
+    -7.80873,
     39.70037
 ],
   "geometry": {"coordinates":[-7.80873,39.70037],"type":"Point"}

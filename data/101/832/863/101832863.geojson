@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.615082,
     "lbl:longitude":-9.127275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.615082,
     "mps:longitude":-9.127275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Foros de Amora"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,6 @@
         "fct:id":"0265427c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6930182,
         "gp:id":24900142,
-        "qs:id":887553,
         "qs_pg:id":887553,
         "wd:id":"Q5470404"
     },
@@ -72,7 +74,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828722,
+    "wof:lastmodified":1566608406,
     "wof:name":"Foros de Amora",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

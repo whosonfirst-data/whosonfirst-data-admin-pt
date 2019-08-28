@@ -13,8 +13,10 @@
     "gn:longitude":-9.19935,
     "gn:population":23249,
     "iso:country":"PT",
+    "lbl:bbox":"-9.202505,38.765189,-9.192505,38.775189",
     "lbl:latitude":38.770189,
     "lbl:longitude":-9.197505,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.770189,
     "mps:longitude":-9.197505,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043d\u0442\u0456\u043d\u044f"
     ],
-    "name:unk_x_variant":[
-        "Pontinha"
-    ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":8010570,
@@ -103,7 +102,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2264526,
         "gp:id":746077,
-        "qs:id":458306,
         "qs_pg:id":458306,
         "wd:id":"Q2103898",
         "wk:page":"Pontinha (Odivelas)"
@@ -131,7 +129,7 @@
         }
     ],
     "wof:id":85799091,
-    "wof:lastmodified":1563251288,
+    "wof:lastmodified":1566607564,
     "wof:name":"Pontinha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

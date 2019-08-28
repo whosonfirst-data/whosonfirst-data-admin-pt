@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
+    "geom:area_square_m":1888519.927091,
     "geom:bbox":"-9.33233949473,39.0815858286,-9.29866597873,39.1007634681",
     "geom:latitude":39.091599,
     "geom:longitude":-9.315036,
     "iso:country":"PT",
     "lbl:latitude":39.09312,
     "lbl:longitude":-9.318098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.09312,
     "mps:longitude":-9.318098,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Ponte de Rol"
     ],
@@ -21,9 +26,6 @@
         "Ponte do Rol"
     ],
     "name:por_x_variant":[
-        "Ponte de R\u00f3l"
-    ],
-    "name:unk_x_variant":[
         "Ponte de R\u00f3l"
     ],
     "qs:a0":"Portugal",
@@ -42,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -53,7 +55,6 @@
         "fct:id":"0269e5b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264532,
         "gp:id":746058,
-        "qs:id":272993,
         "qs_pg:id":272993
     },
     "wof:country":"PT",
@@ -70,7 +71,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497291515,
+    "wof:lastmodified":1566608417,
     "wof:name":"Ponte de Rol",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

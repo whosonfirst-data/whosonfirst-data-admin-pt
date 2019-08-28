@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
+    "geom:area_square_m":1762052.011086,
     "geom:bbox":"-8.60386335377,40.6319770958,-8.57676169671,40.6588830442",
     "geom:latitude":40.648784,
     "geom:longitude":-8.592309,
     "iso:country":"PT",
     "lbl:latitude":40.649846,
     "lbl:longitude":-8.595882,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.649846,
     "mps:longitude":-8.595882,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Taboeira"
     ],
@@ -33,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,7 +49,6 @@
         "fct:id":"026fd05c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2733726,
         "gp:id":749152,
-        "qs:id":1158468,
         "qs_pg:id":1158468
     },
     "wof:country":"PT",
@@ -61,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497289913,
+    "wof:lastmodified":1566608515,
     "wof:name":"Taboeira",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

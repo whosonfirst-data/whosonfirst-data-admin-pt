@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00006,
+    "geom:area_square_m":554707.096316,
     "geom:bbox":"-8.65102075091,41.1885930759,-8.63758294503,41.1967842869",
     "geom:latitude":41.193255,
     "geom:longitude":-8.64467,
     "iso:country":"PT",
     "lbl:latitude":41.193419,
     "lbl:longitude":-8.644772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.193419,
     "mps:longitude":-8.644772,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "S Gens",
         "S. Gens",
@@ -37,7 +42,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -48,10 +53,10 @@
         "fct:id":"0273a358-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734512,
         "gp:id":748154,
-        "qs:id":1254595
+        "qs_pg:id":1254595
     },
     "wof:country":"PT",
-    "wof:geomhash":"ca8e6cac401fe478241658bdf1a11b6a",
+    "wof:geomhash":"ed27da4ca867f5e83e4a9cc4f4447a77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +69,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1467244910,
+    "wof:lastmodified":1566608486,
     "wof:name":"S\u00e3o Gens",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

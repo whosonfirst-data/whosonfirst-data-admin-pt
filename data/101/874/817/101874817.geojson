@@ -10,12 +10,16 @@
     "geom:latitude":38.775571,
     "geom:longitude":-9.205119,
     "iso:country":"PT",
+    "lbl:bbox":"-9.225119,38.755571,-9.185119,38.795571",
     "lbl:latitude":38.775571,
     "lbl:longitude":-9.205119,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.775571,
     "mps:longitude":-9.205119,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hbs_x_preferred":[
         "Op\u0161tina Boto\u015fe\u015fti-Paia"
     ],
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -74,7 +78,7 @@
         "fct:id":"026ac9ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265303,
         "gp:id":744972,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
     "wof:geomhash":"b42553b9139e1fab88cd7b6719474b13",
@@ -90,7 +94,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1544751807,
+    "wof:lastmodified":1566608390,
     "wof:name":"Pai\u00e3",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -5,23 +5,25 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
+    "geom:area_square_m":1586104.255949,
     "geom:bbox":"-8.74865629425,40.6144041679,-8.72934074291,40.6504428818",
     "geom:latitude":40.638634,
     "geom:longitude":-8.740147,
     "iso:country":"PT",
     "lbl:latitude":40.640736,
     "lbl:longitude":-8.743256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.640736,
     "mps:longitude":-8.743256,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Barra"
     ],
     "name:por_x_variant":[
         "Praia da Barra",
-        "Torre da Barra"
-    ],
-    "name:unk_x_variant":[
         "Torre da Barra"
     ],
     "qs:a0":"Portugal",
@@ -40,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -51,7 +53,6 @@
         "fct:id":"026e2504-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742404,
         "gp:id":736951,
-        "qs:id":286044,
         "qs_pg:id":286044
     },
     "wof:country":"PT",
@@ -68,7 +69,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497299366,
+    "wof:lastmodified":1566608507,
     "wof:name":"Praia da Barra",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

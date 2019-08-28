@@ -14,6 +14,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.714452,
     "lbl:longitude":-9.123579,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.706071,
     "mps:longitude":-9.112685,
     "mz:hierarchy_label":1,
@@ -47,9 +48,6 @@
     "name:swe_x_preferred":[
         "Santa Apolonia"
     ],
-    "name:unk_x_variant":[
-        "Santa Apolonia"
-    ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":6458923,
@@ -77,7 +75,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -85,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2263482,
         "gp:id":747809,
-        "qs:id":1158451
+        "qs_pg:id":1158451
     },
     "wof:country":"PT",
     "wof:geomhash":"0f3463186eb7a45184eb5f3fbf878bb0",
@@ -103,7 +100,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247557,
+    "wof:lastmodified":1566607561,
     "wof:name":"Santa Apolonia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

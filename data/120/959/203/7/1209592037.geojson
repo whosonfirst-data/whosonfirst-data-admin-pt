@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.47137,39.89007,-8.43137,39.93007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2268538
     },
     "wof:country":"PT",
-    "wof:geomhash":"c95ca02fd4a81fffb7dda95bd6906ab4",
+    "wof:geomhash":"54ef336c92dcf997553a74d0d60214a0",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209592037,
-    "wof:lastmodified":1536282447,
+    "wof:lastmodified":1566608013,
     "wof:name":"Escampado de Sao Miguel",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.451369999999999,
+    -8.45137,
     39.91007000000001,
-    -8.451369999999999,
+    -8.45137,
     39.91007000000001
 ],
   "geometry": {"coordinates":[-8.45137,39.91007000000001],"type":"Point"}

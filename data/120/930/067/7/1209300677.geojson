@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.47349,39.87656,-8.43349,39.91656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2272230
     },
     "wof:country":"PT",
-    "wof:geomhash":"e92633e9927069f8f81a999b17f07335",
+    "wof:geomhash":"e13b3f2dfedfa118344ba3c68c734d2f",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209300677,
-    "wof:lastmodified":1536291369,
+    "wof:lastmodified":1566607950,
     "wof:name":"Albarrol",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.453489999999999,
+    -8.45349,
     39.89656,
-    -8.453489999999999,
+    -8.45349,
     39.89656
 ],
   "geometry": {"coordinates":[-8.45349,39.89656],"type":"Point"}

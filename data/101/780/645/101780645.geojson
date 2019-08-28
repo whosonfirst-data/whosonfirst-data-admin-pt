@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.163232,
     "lbl:longitude":-8.303353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.163232,
     "mps:longitude":-8.303353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Algoz"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":37.163564,
     "wd:longitude":-8.30475,
     "wd:wordcount":589,
@@ -88,7 +91,6 @@
         "fct:id":"026c040e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2271980,
         "gp:id":735870,
-        "qs:id":286029,
         "qs_pg:id":286029,
         "wd:id":"Q2652888",
         "wk:page":"Algoz"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253169,
+    "wof:lastmodified":1566608521,
     "wof:name":"Algoz",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

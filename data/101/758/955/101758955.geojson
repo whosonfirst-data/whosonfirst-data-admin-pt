@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
+    "geom:area_square_m":457487.543801,
     "geom:bbox":"-9.34559060696,38.7194312727,-9.33621636847,38.7292109092",
     "geom:latitude":38.72474,
     "geom:longitude":-9.341406,
     "iso:country":"PT",
     "lbl:latitude":38.725269,
     "lbl:longitude":-9.341087,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.725269,
     "mps:longitude":-9.341087,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Barreiros"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -43,10 +48,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042201,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"PT",
-    "wof:geomhash":"88b4fb430205a2bfc0157ee187562931",
+    "wof:geomhash":"d86b3495b5cf793089a135b548d94bae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101758955,
-    "wof:lastmodified":1477508539,
+    "wof:lastmodified":1566608456,
     "wof:name":"Bairro 25 de Abril",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

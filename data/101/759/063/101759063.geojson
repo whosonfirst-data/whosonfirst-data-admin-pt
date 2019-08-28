@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.74931,
     "lbl:longitude":-9.298021,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.74931,
     "mps:longitude":-9.298021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u0993 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
     ],
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,6 @@
         "fct:id":"026cd8f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263290,
         "gp:id":748258,
-        "qs:id":325113,
         "qs_pg:id":325113
     },
     "wof:country":"PT",
@@ -123,7 +125,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1564220990,
+    "wof:lastmodified":1566608471,
     "wof:name":"S\u00e3o Marcos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

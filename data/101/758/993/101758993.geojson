@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1901177.63043,
+    "geom:area_square_m":1901177.630431,
     "geom:bbox":"-9.44132781399,38.6993753202,-9.42307892304,38.7229537543",
     "geom:latitude":38.710496,
     "geom:longitude":-9.433366,
     "iso:country":"PT",
     "lbl:latitude":38.71194,
     "lbl:longitude":-9.434256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.71194,
     "mps:longitude":-9.434256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Vila Assun\u00e7\u00e3o"
     ],
@@ -33,7 +36,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":219,
     "wof:belongsto":[
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042190,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"PT",
     "wof:geomhash":"2f7243f19ac1fd9895fe138042992dc9",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":101758993,
-    "wof:lastmodified":1527689308,
+    "wof:lastmodified":1566608458,
     "wof:name":"Bairro da Assun\u00e7\u00e3o",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-8.725621,
     "gn:population":5788,
     "iso:country":"PT",
+    "lbl:bbox":"-8.745621,39.03447,-8.705621,39.07447",
     "lbl:latitude":39.05447,
     "lbl:longitude":-8.725621,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.05447,
     "mps:longitude":-8.725621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Marinhais"
     ],
@@ -73,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +89,6 @@
         "fct:id":"026f8ef8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266702,
         "gp:id":743173,
-        "qs:id":1320157,
         "qs_pg:id":1320157,
         "wd:id":"Q1898548",
         "wk:page":"Marinhais"
@@ -104,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253109,
+    "wof:lastmodified":1566608499,
     "wof:name":"Marinhais",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",

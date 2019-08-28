@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.03051,
     "lbl:longitude":-8.554495,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.03051,
     "mps:longitude":-8.554495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Seixezelo"
     ],
@@ -55,9 +58,6 @@
     "name:tur_x_preferred":[
         "Seixezelo"
     ],
-    "name:unk_x_variant":[
-        "Seixezello"
-    ],
     "name:zho_x_preferred":[
         "\u585e\u8c22\u6cfd\u5362"
     ],
@@ -78,7 +78,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,7 @@
         "fct:id":"0269fe2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2734202,
         "gp:id":748564,
-        "qs:id":1254691,
+        "qs_pg:id":1254691,
         "wd:id":"Q1459542",
         "wk:page":"Seixezelo"
     },
@@ -108,7 +108,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253062,
+    "wof:lastmodified":1566608478,
     "wof:name":"Seixezelo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

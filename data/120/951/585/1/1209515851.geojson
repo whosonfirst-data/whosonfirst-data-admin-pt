@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.26466,41.38557,-8.22466,41.42557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741696
     },
     "wof:country":"PT",
-    "wof:geomhash":"a10d67f7ae2ef70755db5f75fa3faa9c",
+    "wof:geomhash":"a15e7ecb42435227886e0b472de89029",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209515851,
-    "wof:lastmodified":1536284735,
+    "wof:lastmodified":1566608034,
     "wof:name":"Calvos",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.244660000000001,
+    -8.24466,
     41.40557,
-    -8.244660000000001,
+    -8.24466,
     41.40557
 ],
   "geometry": {"coordinates":[-8.24466,41.40557],"type":"Point"}

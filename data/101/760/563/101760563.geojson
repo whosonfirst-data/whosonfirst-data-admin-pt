@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.019853,
     "lbl:longitude":-8.551168,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":41.019853,
     "mps:longitude":-8.551168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Argoncilhe"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":796,
     "wof:belongsto":[
@@ -94,7 +97,6 @@
         "fct:id":"026b3a2e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2742750,
         "gp:id":736384,
-        "qs:id":141285,
         "qs_pg:id":141285,
         "wd:id":"Q4068849",
         "wk:page":"Argoncilhe"
@@ -113,7 +115,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563253023,
+    "wof:lastmodified":1566608462,
     "wof:name":"Argoncilhe",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

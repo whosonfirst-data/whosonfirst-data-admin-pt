@@ -5,19 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
+    "geom:area_square_m":1119041.003963,
     "geom:bbox":"-9.22349184773,39.428737804,-9.2031671602,39.4403546319",
     "geom:latitude":39.434715,
     "geom:longitude":-9.214497,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.436081,
     "lbl:longitude":-9.217547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.436081,
     "mps:longitude":-9.217547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Foz do Arelho"
     ],
@@ -76,7 +80,7 @@
     "qs_pg:woe_id":741436,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":578,
     "wof:belongsto":[
         102191581,
@@ -89,7 +93,6 @@
         "gn:id":2267937,
         "gp:id":741436,
         "loc:id":"n97089942",
-        "qs:id":1166758,
         "qs_pg:id":1166758,
         "wd:id":"Q429713",
         "wk:page":"Foz do Arelho"
@@ -108,7 +111,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379447,
+    "wof:lastmodified":1566608437,
     "wof:name":"Foz do Arelho",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

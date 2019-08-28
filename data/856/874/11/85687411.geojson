@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":41.206541,
     "lbl:longitude":-8.389829,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.206541,
     "mps:longitude":-8.389829,
     "mz:hierarchy_label":1,
@@ -145,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Distrito do Porto"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0648 \u0636\u0644\u0639"
     ],
@@ -230,9 +228,9 @@
     "qs:type":"Distrito",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-03-21",
+    "src:population_date":"2011-03-21",
     "statoids:area_km":"2,332",
     "statoids:area_mi":"900",
     "statoids:as_of_date":"2011-03-21",
@@ -274,11 +272,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563251306,
+    "wof:lastmodified":1566607580,
     "wof:name":"Porto",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1817172,
     "wof:population_rank":12,

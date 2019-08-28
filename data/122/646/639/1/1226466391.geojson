@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.58566,41.54537,-8.54566,41.58537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d\u044c\u044e-\u0434\u0438-\u0413\u0430\u043b\u0435\u0433\u0443\u0448"
     ],
@@ -40,8 +44,7 @@
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d\u044e-\u0434\u0435-\u0413\u0430\u043b\u0435\u0433\u0443\u0448"
     ],
     "name:und_x_variant":[
-        "S\u00e3o Martinho",
-        "Galegos"
+        "S\u00e3o Martinho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226466391,
-    "wof:lastmodified":1564222258,
+    "wof:lastmodified":1566609180,
     "wof:name":"Galegos",
     "wof:parent_id":85687419,
     "wof:placetype":"locality",

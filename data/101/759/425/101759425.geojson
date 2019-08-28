@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
+    "geom:area_square_m":1068139.862263,
     "geom:bbox":"-8.68260499496,41.2610775942,-8.66157972718,41.2744738832",
     "geom:latitude":41.267994,
     "geom:longitude":-8.670975,
     "iso:country":"PT",
     "lbl:latitude":41.265167,
     "lbl:longitude":-8.666754,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.265167,
     "mps:longitude":-8.666754,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Porto",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -38,10 +43,10 @@
     "wof:concordances":{
         "gn:id":8014051,
         "gp:id":23413116,
-        "qs:id":980321
+        "qs_pg:id":980321
     },
     "wof:country":"PT",
-    "wof:geomhash":"bb71f23f32daf11d4e0ec48978002d87",
+    "wof:geomhash":"e5b1cb4cc5297827e588cb2b6fd69307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101759425,
-    "wof:lastmodified":1466625829,
+    "wof:lastmodified":1566608465,
     "wof:name":"Vilar do Pinheiro",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

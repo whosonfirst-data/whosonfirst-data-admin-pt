@@ -9,17 +9,19 @@
     "geom:bbox":"-9.01844308126,39.6545929422,-8.98374323357,39.6766170513",
     "geom:latitude":39.667646,
     "geom:longitude":-9.001623,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5510,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":5510,
     "iso:country":"PT",
     "lbl:latitude":39.670327,
     "lbl:longitude":-8.998469,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.670327,
     "mps:longitude":-8.998469,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:por_x_preferred":[
         "Pataias"
     ],
@@ -57,7 +59,7 @@
     "qs_pg:woe_id":745288,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +71,6 @@
         "fct:id":"026ef722-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265120,
         "gp:id":745288,
-        "qs:id":1081361,
         "qs_pg:id":1081361
     },
     "wof:country":"PT",
@@ -86,7 +87,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379448,
+    "wof:lastmodified":1566608442,
     "wof:name":"Pataias",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

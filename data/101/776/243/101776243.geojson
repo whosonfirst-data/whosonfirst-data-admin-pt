@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":40.543399,
     "lbl:longitude":-8.536985,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":40.543399,
     "mps:longitude":-8.536985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Oi\u00e3"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"026b18a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2737088,
         "gp:id":744653,
-        "qs:id":1216923,
         "qs_pg:id":1216923,
         "wd:id":"Q2259943"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252912,
+    "wof:lastmodified":1566608424,
     "wof:name":"Oi\u00e3",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

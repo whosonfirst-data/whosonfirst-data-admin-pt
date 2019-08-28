@@ -9,15 +9,16 @@
     "geom:bbox":"-8.653989,41.190863,-8.653989,41.190863",
     "geom:latitude":41.190863,
     "geom:longitude":-8.653989,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":28930,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:latitude":41.18641,
     "gn:longitude":-8.65172,
     "gn:population":28930,
     "iso:country":"PT",
+    "lbl:bbox":"-8.658989,41.185863,-8.648989,41.195863",
     "lbl:latitude":41.190863,
     "lbl:longitude":-8.653989,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.190863,
     "mps:longitude":-8.653989,
     "mz:hierarchy_label":0,
@@ -69,9 +70,6 @@
         "Senhora da Hora"
     ],
     "name:tur_x_preferred":[
-        "Senhora da Hora"
-    ],
-    "name:unk_x_variant":[
         "Senhora da Hora"
     ],
     "name:zho_x_preferred":[
@@ -128,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -140,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2734140,
         "gp:id":748632,
-        "qs:id":458336,
         "qs_pg:id":458336,
         "wd:id":"Q2117134",
         "wk:page":"Senhora da Hora"
@@ -157,7 +154,7 @@
         }
     ],
     "wof:id":85799131,
-    "wof:lastmodified":1563251285,
+    "wof:lastmodified":1566607561,
     "wof:name":"Senhora da Hora",
     "wof:parent_id":101759343,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
+    "geom:area_square_m":1677486.120215,
     "geom:bbox":"-7.51090181224,40.2497746248,-7.49335858714,40.26439085",
     "geom:latitude":40.257466,
     "geom:longitude":-7.502486,
     "iso:country":"PT",
     "lbl:latitude":40.254853,
     "lbl:longitude":-7.501776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.254853,
     "mps:longitude":-7.501776,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Castelo Branco",
     "qs:a1r":"0",
@@ -27,7 +32,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,10 +41,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29384348,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"PT",
-    "wof:geomhash":"4b02b5046a3a80441c4806a6bddcf2b2",
+    "wof:geomhash":"adf732ac3b0dad9884cad72075c972a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,7 +54,7 @@
         }
     ],
     "wof:id":101878373,
-    "wof:lastmodified":1477508676,
+    "wof:lastmodified":1566608501,
     "wof:name":"Alampada",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

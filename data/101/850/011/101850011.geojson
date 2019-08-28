@@ -11,12 +11,16 @@
     "geom:longitude":-27.253477,
     "gn:population":1425,
     "iso:country":"PT",
+    "lbl:bbox":"-27.273477,38.770439,-27.233477,38.810439",
     "lbl:latitude":38.790439,
     "lbl:longitude":-27.253477,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":38.790439,
     "mps:longitude":-27.253477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Biscoitos"
     ],
@@ -50,7 +54,7 @@
     "name:tur_x_preferred":[
         "Biscoitos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e3o Pedro Biscoutos"
     ],
     "qs:a0":"Portugal",
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -82,7 +86,6 @@
     "wof:concordances":{
         "gn:id":3373300,
         "gp:id":537909,
-        "qs:id":147510,
         "qs_pg:id":147510,
         "wd:id":"Q616959",
         "wk:page":"Biscoitos"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101850011,
-    "wof:lastmodified":1563252839,
+    "wof:lastmodified":1566608393,
     "wof:name":"Biscoitos",
     "wof:parent_id":85687441,
     "wof:placetype":"locality",

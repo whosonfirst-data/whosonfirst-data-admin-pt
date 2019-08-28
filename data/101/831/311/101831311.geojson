@@ -9,16 +9,19 @@
     "geom:bbox":"-9.1357921371,39.3703519447,-9.11282187647,39.3913726785",
     "geom:latitude":39.378715,
     "geom:longitude":-9.124887,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"ADM3",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.374164,
     "lbl:longitude":-9.119927,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.374164,
     "mps:longitude":-9.119927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Gaeiras"
     ],
@@ -96,7 +99,7 @@
     "qs_pg:woe_id":741668,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.366667,
     "wd:longitude":-9.133333,
     "wd:wordcount":32,
@@ -109,7 +112,6 @@
     "wof:concordances":{
         "gn:id":8012391,
         "gp:id":741668,
-        "qs:id":292234,
         "qs_pg:id":292234,
         "wd:id":"Q155131",
         "wk:page":"Gaeiras"
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":101831311,
-    "wof:lastmodified":1563253146,
+    "wof:lastmodified":1566608514,
     "wof:name":"Gaeiras",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

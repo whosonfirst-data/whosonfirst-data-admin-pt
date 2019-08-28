@@ -5,19 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
+    "geom:area_square_m":1617789.474795,
     "geom:bbox":"-8.81916698008,41.6190926433,-8.79449646521,41.638504011",
     "geom:latitude":41.627669,
     "geom:longitude":-8.805541,
     "iso:country":"PT",
     "lbl:latitude":41.628102,
     "lbl:longitude":-8.802644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.628102,
     "mps:longitude":-8.802644,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Castelo do Neiva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neiva"
     ],
     "qs:a0":"Portugal",
@@ -36,7 +41,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -47,7 +52,6 @@
         "fct:id":"0269f1dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740999,
         "gp:id":739156,
-        "qs:id":1168180,
         "qs_pg:id":1168180
     },
     "wof:country":"PT",
@@ -64,7 +68,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497292111,
+    "wof:lastmodified":1566608520,
     "wof:name":"Castelo de Neiva",
     "wof:parent_id":85687433,
     "wof:placetype":"locality",

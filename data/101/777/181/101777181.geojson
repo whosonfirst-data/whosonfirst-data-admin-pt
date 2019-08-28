@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
+    "geom:area_square_m":529480.935156,
     "geom:bbox":"-7.40750623285,39.924954004,-7.3867742612,39.937245891",
     "geom:latitude":39.931587,
     "geom:longitude":-7.399106,
     "iso:country":"PT",
     "lbl:latitude":39.931373,
     "lbl:longitude":-7.399812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.931373,
     "mps:longitude":-7.399812,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Escalos de Cima"
     ],
@@ -33,7 +38,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -44,7 +49,6 @@
         "fct:id":"026ed22e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2268540,
         "gp:id":740593,
-        "qs:id":987700,
         "qs_pg:id":987700
     },
     "wof:country":"PT",
@@ -61,7 +65,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1497297394,
+    "wof:lastmodified":1566608442,
     "wof:name":"Escalos de Cima",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

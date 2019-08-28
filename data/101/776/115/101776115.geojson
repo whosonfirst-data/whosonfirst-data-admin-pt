@@ -9,16 +9,19 @@
     "geom:bbox":"-8.29518933542,39.8959042614,-8.26733219376,39.9192877081",
     "geom:latitude":39.904426,
     "geom:longitude":-8.278633,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":39.902591,
     "lbl:longitude":-8.273779,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.902591,
     "mps:longitude":-8.273779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Figueir\u00f3 dos Vinhos"
     ],
@@ -122,7 +125,7 @@
     "qs_pg:woe_id":741111,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":39.9,
     "wd:longitude":-8.266667,
     "wd:wordcount":99,
@@ -136,7 +139,6 @@
         "fct:id":"026c8abe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2268188,
         "gp:id":741111,
-        "qs:id":1353079,
         "qs_pg:id":1353079,
         "wd:id":"Q679642"
     },
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252945,
+    "wof:lastmodified":1566608434,
     "wof:name":"Figueir\u00f3 dos Vinhos",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

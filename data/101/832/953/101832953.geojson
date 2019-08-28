@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
+    "geom:area_square_m":2606906.3477,
     "geom:bbox":"-9.00118688601,39.0298900147,-8.96224968154,39.0503549973",
     "geom:latitude":39.038791,
     "geom:longitude":-8.982584,
     "iso:country":"PT",
     "lbl:latitude":39.038765,
     "lbl:longitude":-8.981327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.038765,
     "mps:longitude":-8.981327,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Lisboa",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":738340,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"PT",
-    "wof:geomhash":"afc8d88f433b957b9a6c73c69ad53cda",
+    "wof:geomhash":"c03e1bb9c57c2df9ea43529a2e044a17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832953,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608395,
     "wof:name":"Casais Novos",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"PT",
     "lbl:latitude":38.741245,
     "lbl:longitude":-9.173374,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.742301,
     "mps:longitude":-9.16971,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
     ],
     "name:por_x_variant":[
         "Furnas"
-    ],
-    "name:unk_x_variant":[
-        "Bairro Das Furnas"
     ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
@@ -75,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2271237,
         "gp:id":20105206,
-        "qs:id":899932,
         "qs_pg:id":899932
     },
     "wof:country":"PT",
@@ -93,7 +90,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247520,
+    "wof:lastmodified":1566607589,
     "wof:name":"Bairro das Furnas",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
+    "geom:area_square_m":2069917.774752,
     "geom:bbox":"-8.58685623003,41.0268636859,-8.56971645787,41.0538272134",
     "geom:latitude":41.039007,
     "geom:longitude":-8.576861,
     "iso:country":"PT",
     "lbl:latitude":41.040246,
     "lbl:longitude":-8.575562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.040246,
     "mps:longitude":-8.575562,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Corveiros"
     ],
@@ -34,7 +39,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -45,10 +50,10 @@
         "fct:id":"0271d44c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740469,
         "gp:id":739942,
-        "qs:id":387037
+        "qs_pg:id":387037
     },
     "wof:country":"PT",
-    "wof:geomhash":"3ecd6f88b6b87f5306b78ef4fba65186",
+    "wof:geomhash":"016ff86e1786bdb094661e7212d7027d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +66,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625829,
+    "wof:lastmodified":1566608477,
     "wof:name":"Curveiros",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

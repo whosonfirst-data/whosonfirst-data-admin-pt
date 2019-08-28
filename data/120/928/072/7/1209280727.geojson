@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.30954,38.89163,-8.26954,38.93163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2266053
     },
     "wof:country":"PT",
-    "wof:geomhash":"2865c72b96cba89b486dda8e3a8d0736",
+    "wof:geomhash":"168e0b3a90304ed8a304cb6794a2b73f",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209280727,
-    "wof:lastmodified":1536292032,
+    "wof:lastmodified":1566608074,
     "wof:name":"Monte de Aldeia Velha",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.289539999999999,
+    -8.28954,
     38.91163,
-    -8.289539999999999,
+    -8.28954,
     38.91163
 ],
   "geometry": {"coordinates":[-8.28954,38.91163],"type":"Point"}

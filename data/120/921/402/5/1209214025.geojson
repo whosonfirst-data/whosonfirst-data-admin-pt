@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-6.89336,41.53221,-6.85336,41.57221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2734855
     },
     "wof:country":"PT",
-    "wof:geomhash":"48172743c425e5cc298fc56706712b7a",
+    "wof:geomhash":"84992917e7e57d6ba91c0179fcd52ef6",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209214025,
-    "wof:lastmodified":1536294194,
+    "wof:lastmodified":1566608068,
     "wof:name":"Salselas",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.873360000000001,
+    -6.87336,
     41.55221,
-    -6.873360000000001,
+    -6.87336,
     41.55221
 ],
   "geometry": {"coordinates":[-6.87336,41.55221],"type":"Point"}

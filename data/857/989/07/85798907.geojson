@@ -9,14 +9,15 @@
     "geom:bbox":"-9.11315917969,38.7162331886,-9.07294677734,38.7390882812",
     "geom:latitude":38.7289,
     "geom:longitude":-9.089724,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:latitude":38.73327,
     "gn:longitude":-9.10335,
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":38.734747,
     "lbl:longitude":-9.105942,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.729793,
     "mps:longitude":-9.089419,
     "mz:hierarchy_label":1,
@@ -53,9 +54,8 @@
     "name:spa_x_preferred":[
         "Beato"
     ],
-    "name:unk_x_variant":[
-        "Beato Ant\u00f3nio",
-        "Beato"
+    "name:und_x_variant":[
+        "Beato Ant\u00f3nio"
     ],
     "qs:gn_adm0_cc":"PT",
     "qs:gn_fcode":"PPL",
@@ -105,7 +105,6 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:wordcount":105,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85633735
     ],
@@ -113,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2271001,
         "gp:id":737105,
-        "qs:id":1080817,
         "qs_pg:id":1080817
     },
     "wof:country":"PT",
@@ -132,7 +130,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566247569,
+    "wof:lastmodified":1566607570,
     "wof:name":"Beato",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":37.141086,
     "lbl:longitude":-8.509489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.141086,
     "mps:longitude":-8.509489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Parchal"
     ],
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":37.136667,
     "wd:longitude":-8.512222,
     "wd:wordcount":424,
@@ -91,7 +94,6 @@
         "fct:id":"026ffadc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2265180,
         "gp:id":745192,
-        "qs:id":1168210,
         "qs_pg:id":1168210,
         "wd:id":"Q2341999",
         "wk:page":"Parchal"
@@ -110,7 +112,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252856,
+    "wof:lastmodified":1566608401,
     "wof:name":"Parchal",
     "wof:parent_id":85687349,
     "wof:placetype":"locality",

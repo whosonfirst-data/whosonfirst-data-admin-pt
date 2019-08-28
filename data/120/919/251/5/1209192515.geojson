@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.34352,40.86168,-7.30352,40.90168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741027
     },
     "wof:country":"PT",
-    "wof:geomhash":"0bc149b6d93bdc6c0188bee56ae9b3cc",
+    "wof:geomhash":"746bf47fbbc6f276785d413ec857230e",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209192515,
-    "wof:lastmodified":1536294885,
+    "wof:lastmodified":1566608064,
     "wof:name":"Casteicao",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.3235199999999985,
+    -7.32352,
     40.88168,
-    -7.3235199999999985,
+    -7.32352,
     40.88168
 ],
   "geometry": {"coordinates":[-7.32352,40.88168],"type":"Point"}

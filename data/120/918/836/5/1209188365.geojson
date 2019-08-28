@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.57787,41.39339,-7.53787,41.43339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741373
     },
     "wof:country":"PT",
-    "wof:geomhash":"3a68fab9df83fa03954e4190265e2e5c",
+    "wof:geomhash":"8ba7e1dd5549dd71a9f445fa75c48b1c",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209188365,
-    "wof:lastmodified":1536295021,
+    "wof:lastmodified":1566608051,
     "wof:name":"Carva",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.5578699999999985,
+    -7.55787,
     41.41339,
-    -7.5578699999999985,
+    -7.55787,
     41.41339
 ],
   "geometry": {"coordinates":[-7.55787,41.41339],"type":"Point"}

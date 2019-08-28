@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":41.164903,
     "lbl:longitude":-7.473895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.164903,
     "mps:longitude":-7.473895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ervedosa do Douro"
     ],
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.166667,
     "wd:longitude":-7.483333,
     "wd:wordcount":49,
@@ -82,7 +85,6 @@
         "fct:id":"02753506-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2739968,
         "gp:id":740573,
-        "qs:id":38913,
         "qs_pg:id":38913,
         "wd:id":"Q93629",
         "wk:page":"Ervedosa do Douro"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828727,
+    "wof:lastmodified":1566608428,
     "wof:name":"Ervedosa do Douro",
     "wof:parent_id":85687401,
     "wof:placetype":"locality",

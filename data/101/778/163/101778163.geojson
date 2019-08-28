@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
+    "geom:area_square_m":3327833.807462,
     "geom:bbox":"-9.00321667346,38.5423733486,-8.95473956129,38.5621631285",
     "geom:latitude":38.554014,
     "geom:longitude":-8.9828,
     "iso:country":"PT",
     "lbl:latitude":38.557141,
     "lbl:longitude":-8.975088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.557141,
     "mps:longitude":-8.975088,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24900100,
-        "qs:id":1103465,
         "qs_pg:id":1103465
     },
     "wof:country":"PT",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101778163,
-    "wof:lastmodified":1497293853,
+    "wof:lastmodified":1566608415,
     "wof:name":"Cabanas",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

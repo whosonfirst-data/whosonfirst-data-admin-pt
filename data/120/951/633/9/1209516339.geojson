@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.45429,41.3455,-8.41429,41.3855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633735
@@ -36,7 +40,7 @@
         "gn:id":2741553
     },
     "wof:country":"PT",
-    "wof:geomhash":"729c447675bd6ade97cc0a8faabd2ace",
+    "wof:geomhash":"03fe132a05b6573eb98ed09c2cf121f8",
     "wof:hierarchy":[
         {
             "country_id":85633735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209516339,
-    "wof:lastmodified":1536284721,
+    "wof:lastmodified":1566608032,
     "wof:name":"Canicos",
     "wof:parent_id":85633735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.434289999999999,
+    -8.43429,
     41.3655,
-    -8.434289999999999,
+    -8.43429,
     41.3655
 ],
   "geometry": {"coordinates":[-8.43429,41.3655],"type":"Point"}

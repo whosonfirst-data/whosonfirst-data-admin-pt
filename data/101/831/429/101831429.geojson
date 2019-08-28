@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
+    "geom:area_square_m":4483788.054536,
     "geom:bbox":"-8.38466729164,41.3365593907,-8.34469690999,41.38027929",
     "geom:latitude":41.362146,
     "geom:longitude":-8.363206,
     "iso:country":"PT",
     "lbl:latitude":41.363804,
     "lbl:longitude":-8.369098,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.363804,
     "mps:longitude":-8.369098,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "S\u00e3o Martinho do Campo"
     ],
@@ -58,7 +63,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -67,10 +72,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29383573,
-        "qs:id":41816
+        "qs_pg:id":41816
     },
     "wof:country":"PT",
-    "wof:geomhash":"e980d0743cb0b09615cb677a085eff33",
+    "wof:geomhash":"9fa75b4bef326f4d1049578493ee924a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101831429,
-    "wof:lastmodified":1467243000,
+    "wof:lastmodified":1566608511,
     "wof:name":"S\u00e3o Martinho do Campo",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

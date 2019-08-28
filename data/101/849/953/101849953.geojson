@@ -11,12 +11,16 @@
     "geom:longitude":-25.581678,
     "gn:population":7681,
     "iso:country":"PT",
+    "lbl:bbox":"-25.601678,37.791753,-25.561678,37.831753",
     "lbl:latitude":37.811753,
     "lbl:longitude":-25.581678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":37.811753,
     "mps:longitude":-25.581678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Rabo de Peixe"
     ],
@@ -50,9 +54,6 @@
     "name:tur_x_preferred":[
         "Rabo de Peixe"
     ],
-    "name:unk_x_variant":[
-        "Ribo de Peixe"
-    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1344,
     "wof:belongsto":[
@@ -83,7 +84,6 @@
         "fct:id":"02651252-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":3372745,
         "gp:id":538251,
-        "qs:id":147509,
         "qs_pg:id":147509,
         "wd:id":"Q2652576",
         "wk:page":"Rabo de Peixe"
@@ -102,7 +102,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1561828736,
+    "wof:lastmodified":1566608493,
     "wof:name":"Rabo de Peixe",
     "wof:parent_id":85687437,
     "wof:placetype":"locality",

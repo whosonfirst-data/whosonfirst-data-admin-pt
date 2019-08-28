@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
+    "geom:area_square_m":319667.078336,
     "geom:bbox":"-7.53327019523,40.2073334959,-7.52180316697,40.2136402745",
     "geom:latitude":40.210511,
     "geom:longitude":-7.527309,
     "iso:country":"PT",
     "lbl:latitude":40.210988,
     "lbl:longitude":-7.526744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.210988,
     "mps:longitude":-7.526744,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Dominguizo"
     ],
@@ -31,7 +36,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,10 +47,10 @@
         "fct:id":"0271a9cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2740118,
         "gp:id":740371,
-        "qs:id":180168
+        "qs_pg:id":180168
     },
     "wof:country":"PT",
-    "wof:geomhash":"6aa51dc6e96ce0e21110aba2483592b7",
+    "wof:geomhash":"0bbe3bebcd5821da74cc70600123c630",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +63,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1466625899,
+    "wof:lastmodified":1566608437,
     "wof:name":"Dominguizo",
     "wof:parent_id":85687385,
     "wof:placetype":"locality",

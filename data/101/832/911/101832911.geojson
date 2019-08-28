@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
+    "geom:area_square_m":1227589.40007,
     "geom:bbox":"-9.02018708934,38.6195620971,-8.99575719079,38.6503101622",
     "geom:latitude":38.643705,
     "geom:longitude":-9.007653,
     "iso:country":"PT",
     "lbl:latitude":38.643313,
     "lbl:longitude":-9.007588,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.643313,
     "mps:longitude":-9.007588,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Portugal",
     "qs:a1":"*Set\u00fabal",
     "qs:a1r":"0",
@@ -28,7 +33,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -37,10 +42,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24900080,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"PT",
-    "wof:geomhash":"75e1b42b509d71d73fec3fa99cf77681",
+    "wof:geomhash":"a0fe707d40d74382f62ea17d18ebdbb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101832911,
-    "wof:lastmodified":1477508565,
+    "wof:lastmodified":1566608406,
     "wof:name":"Arroteias",
     "wof:parent_id":85687359,
     "wof:placetype":"locality",

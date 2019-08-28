@@ -5,19 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000066,
+    "geom:area_square_m":609212.266173,
     "geom:bbox":"-8.64488235754,41.2857118492,-8.63173666667,41.299706952",
     "geom:latitude":41.292549,
     "geom:longitude":-8.638007,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"PT",
     "lbl:latitude":41.292218,
     "lbl:longitude":-8.63746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.292218,
     "mps:longitude":-8.63746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "M\u00e1rio Costa"
     ],
@@ -66,7 +70,7 @@
     "qs_pg:woe_id":742110,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -77,7 +81,6 @@
         "fct:id":"02690d1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2738765,
         "gp:id":742110,
-        "qs:id":268260,
         "qs_pg:id":268260
     },
     "wof:country":"PT",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534379444,
+    "wof:lastmodified":1566608428,
     "wof:name":"Guilhabreu",
     "wof:parent_id":85687411,
     "wof:placetype":"locality",

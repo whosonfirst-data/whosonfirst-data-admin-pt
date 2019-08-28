@@ -12,10 +12,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.843106,
     "lbl:longitude":-7.348029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.843106,
     "mps:longitude":-7.348029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Terrugem"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":2263423,
         "gp:id":748042,
-        "qs:id":206506,
+        "qs_pg:id":206506,
         "wd:id":"Q2257171"
     },
     "wof:country":"PT",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101778247,
-    "wof:lastmodified":1563252893,
+    "wof:lastmodified":1566608416,
     "wof:name":"Terrugem",
     "wof:parent_id":85687373,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":38.725331,
     "lbl:longitude":-27.210913,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.725331,
     "mps:longitude":-27.210913,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "qs:type":"Ilha",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633735
@@ -59,7 +60,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553643112,
+    "wof:lastmodified":1566607582,
     "wof:name":"Ilha Terceira",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

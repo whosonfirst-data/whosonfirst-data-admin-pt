@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
+    "geom:area_square_m":1458356.950781,
     "geom:bbox":"-8.62355044904,40.569393257,-8.60088289546,40.6085482375",
     "geom:latitude":40.590994,
     "geom:longitude":-8.611195,
     "iso:country":"PT",
     "lbl:latitude":40.594825,
     "lbl:longitude":-8.607034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.594825,
     "mps:longitude":-8.607034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_colloquial":[
         "Quintas"
     ],
@@ -22,9 +26,6 @@
         "Quint\u00e3s"
     ],
     "name:por_x_variant":[
-        "Quintans"
-    ],
-    "name:unk_x_variant":[
         "Quintans"
     ],
     "qs:a0":"Portugal",
@@ -43,7 +44,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         101845435,
@@ -55,7 +56,9 @@
         "fct:id":"026f7602-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2735544,
         "gp:id":746823,
-        "qs:id":1,
+        "qs_pg:id":1
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":37896
     },
     "wof:country":"PT",
@@ -72,7 +75,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1534985977,
+    "wof:lastmodified":1566608207,
     "wof:name":"Quint\u00e3s",
     "wof:parent_id":85687409,
     "wof:placetype":"locality",

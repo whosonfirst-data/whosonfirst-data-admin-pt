@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":38.930823,
     "lbl:longitude":-9.256328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":38.930823,
     "mps:longitude":-9.256328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Mafra"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":38.933333,
     "wd:longitude":-9.333333,
@@ -136,7 +139,6 @@
         "fct:id":"027185e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2266777,
         "gp:id":743086,
-        "qs:id":458273,
         "qs_pg:id":458273,
         "wd:id":"Q986419"
     },
@@ -154,7 +156,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252855,
+    "wof:lastmodified":1566608401,
     "wof:name":"Malveira",
     "wof:parent_id":85687367,
     "wof:placetype":"locality",

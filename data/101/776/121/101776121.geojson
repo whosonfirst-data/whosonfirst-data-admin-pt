@@ -9,17 +9,19 @@
     "geom:bbox":"-8.84454524523,39.5886822355,-8.81003664998,39.6063945613",
     "geom:latitude":39.599497,
     "geom:longitude":-8.825211,
-    "gn:gn_country":"PT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6032,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":6032,
     "iso:country":"PT",
     "lbl:latitude":39.598634,
     "lbl:longitude":-8.824034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.598634,
     "mps:longitude":-8.824034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Porto de M\u00f3s"
     ],
@@ -111,7 +113,7 @@
     "qs_pg:woe_id":746233,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.6,
     "wd:longitude":-8.816667,
@@ -126,7 +128,6 @@
         "fct:id":"026acfd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2264427,
         "gp:id":746233,
-        "qs:id":1250220,
         "qs_pg:id":1250220,
         "wd:id":"Q1012710",
         "wk:page":"Porto de M\u00f3s"
@@ -145,7 +146,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252925,
+    "wof:lastmodified":1566608427,
     "wof:name":"Porto de M\u00f3s",
     "wof:parent_id":85687381,
     "wof:placetype":"locality",

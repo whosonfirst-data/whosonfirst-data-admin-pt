@@ -13,10 +13,13 @@
     "iso:country":"PT",
     "lbl:latitude":39.438351,
     "lbl:longitude":-8.513034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":39.438351,
     "mps:longitude":-8.513034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Riachos"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"026ceb6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2263923,
         "gp:id":747194,
-        "qs:id":1231574,
         "qs_pg:id":1231574,
         "wd:id":"Q2053110"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1563252979,
+    "wof:lastmodified":1566608447,
     "wof:name":"Riachos",
     "wof:parent_id":85687377,
     "wof:placetype":"locality",
