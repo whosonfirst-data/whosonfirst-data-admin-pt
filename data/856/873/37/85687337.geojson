@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-12-12",
     "edtf:inception":"uuuu",
     "geom:area":0.00114,
     "geom:area_square_m":11887466.880843,
@@ -19,7 +20,7 @@
     "mps:latitude":32.544861,
     "mps:longitude":-16.526165,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
@@ -60,7 +61,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566607586,
+    "wof:lastmodified":1576197030,
     "wof:name":"Ilha da Madeira",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
