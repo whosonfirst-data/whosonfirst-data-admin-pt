@@ -9,6 +9,18 @@
     "geom:latitude":38.34732,
     "geom:longitude":-27.279976,
     "iso:country":"PT",
+    "label:eng_x_preferred_longname":[
+        "Autonomous Region of the Azores"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "autonomous region"
+    ],
+    "label:por_x_preferred_longname":[
+        "Regi\u00e3o Aut\u00f3noma dos A\u00e7ores"
+    ],
+    "label:por_x_preferred_placetype":[
+        "regi\u00e3o aut\u00f3noma"
+    ],
     "lbl:latitude":37.772787,
     "lbl:longitude":-25.505193,
     "mps:latitude":37.772787,
@@ -19,41 +31,10 @@
         "Azores"
     ],
     "name:por_x_preferred":[
-        "Açores"
-    ],
-    "label:eng_x_preferred_longname":[
-        "Autonomous Region of the Azores"
-    ],
-    "label:por_x_preferred_longname":[
-        "Região Autónoma dos Açores"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "autonomous region"
-    ],
-    "label:por_x_preferred_placetype":[
-        "região autónoma"
+        "A\u00e7ores"
     ],
     "src:geom":"whosonfirst",
-    "wof:concordances":{
-        "hasc:id":"PT.AC",
-        "wd:id":"Q25263",
-        "wk:page":"Azores"
-    },
     "src:geom_via":"quattroshapes",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:country":"PT",
-    "wof:created":1576262053,
-    "wof:geomhash":"6084371a50df773339d5ce423380ad0c",
-    "wof:hierarchy":[],
-    "wof:id":1511614891,
-    "wof:lang_x_official":[
-        "por"
-    ],
-    "wof:lang_x_spoken":[
-        "por"
-    ],
-    "wof:lastmodified":1576262053,
     "statoids:area_km":"2,322",
     "statoids:area_mi":"896",
     "statoids:as_of_date":"2011-03-21",
@@ -65,12 +46,41 @@
     "statoids:population":"246,772",
     "statoids:timezone":"-1~",
     "statoids:type":"autonomous region",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"PT.AC",
+        "wd:id":"Q25263",
+        "wk:page":"Azores"
+    },
+    "wof:country":"PT",
+    "wof:created":1576262053,
+    "wof:geomhash":"6084371a50df773339d5ce423380ad0c",
+    "wof:hierarchy":[],
+    "wof:id":1511614891,
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1576264819,
     "wof:name":"Azores",
     "wof:parent_id":-1,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85687459,
+        85687465,
+        85687429,
+        85687451,
+        85687437,
+        85687469,
+        85687455,
+        85687447,
+        85687441
+    ],
     "wof:tags":[]
 },
   "bbox": [
