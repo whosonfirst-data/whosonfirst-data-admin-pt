@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-12-12",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
     "geom:area_square_m":916719.368715,
@@ -22,7 +23,7 @@
     "mps:latitude":39.415204,
     "mps:longitude":-9.510806,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
@@ -319,7 +320,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566607582,
+    "wof:lastmodified":1576196264,
     "wof:name":"Leiria",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
@@ -328,7 +329,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:shortcode":"LE",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85687381
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
