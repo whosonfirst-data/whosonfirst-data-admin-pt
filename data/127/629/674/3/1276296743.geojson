@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679297,
         85633735,
         85687433
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679297,
             "locality_id":1276296743,
             "region_id":85687433
         }
     ],
     "wof:id":1276296743,
-    "wof:lastmodified":1566607800,
+    "wof:lastmodified":1576712186,
     "wof:name":"Vilarinho",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

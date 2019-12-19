@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680297,
         85633735,
         85687377
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680297,
             "locality_id":1327005881,
             "region_id":85687377
         }
     ],
     "wof:id":1327005881,
-    "wof:lastmodified":1566607120,
+    "wof:lastmodified":1576712347,
     "wof:name":"Vimieiro",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

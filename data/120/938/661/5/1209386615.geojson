@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680391,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"1a04a635ce3a96faa012d2f95309df6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209386615
+            "localadmin_id":1511680391,
+            "locality_id":1209386615,
+            "region_id":85687411
         }
     ],
     "wof:id":1209386615,
-    "wof:lastmodified":1566607929,
+    "wof:lastmodified":1576711935,
     "wof:name":"Senradelas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680391,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

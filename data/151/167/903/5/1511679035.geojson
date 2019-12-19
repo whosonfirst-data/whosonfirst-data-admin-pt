@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Longueira/Almograve",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"021117"
     },
     "wof:country":"PT",
     "wof:created":1576698034,
-    "wof:geomhash":"ec036f2ed2e583a59db90f4700fb31af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d25f63159931f81fc9e445b56d8163f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679035,
+            "region_id":85687355
+        }
+    ],
     "wof:id":1511679035,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698034,
+    "wof:lastmodified":1576712457,
     "wof:name":"Longueira/Almograve",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.81050633229019,
-    37.580910712086585,
+    37.58091071208658,
     -8.69972323459316,
     37.72796689319011
 ],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Oledo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"050509"
     },
     "wof:country":"PT",
     "wof:created":1576698471,
-    "wof:geomhash":"80f113a18026411db3c0717a117ebe78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e56a7f89020140ca151cbf84c0d41215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680847,
+            "region_id":85687385
+        }
+    ],
     "wof:id":1511680847,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698471,
+    "wof:lastmodified":1576712583,
     "wof:name":"Oledo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

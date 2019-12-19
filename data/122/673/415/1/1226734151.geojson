@@ -59,6 +59,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678881,
         85633735,
         85687349
     ],
@@ -73,14 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678881,
             "locality_id":1226734151,
             "region_id":85687349
         }
     ],
     "wof:id":1226734151,
-    "wof:lastmodified":1566609106,
+    "wof:lastmodified":1576712035,
     "wof:name":"Santa Luzia",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678881,
     "wof:placetype":"locality",
     "wof:population":1455,
     "wof:population_rank":3,

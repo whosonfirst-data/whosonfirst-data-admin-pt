@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Arruda dos Vinhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110202"
     },
     "wof:country":"PT",
     "wof:created":1576698231,
-    "wof:geomhash":"b619431a73285f33cb67c51b3ab13635",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d74d0c319fc0919a7ae40c959a15d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679901,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679901,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698231,
+    "wof:lastmodified":1576712507,
     "wof:name":"Arruda dos Vinhos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.105674419047869,
-    38.953647958476154,
+    -9.10567441904787,
+    38.95364795847615,
     -9.02327468225336,
     39.02879453341615
 ],

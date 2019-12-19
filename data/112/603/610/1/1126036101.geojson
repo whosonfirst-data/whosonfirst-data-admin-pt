@@ -88,6 +88,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682671,
         85633735,
         85687409
     ],
@@ -105,14 +106,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682671,
             "locality_id":1126036101,
             "region_id":85687409
         }
     ],
     "wof:id":1126036101,
-    "wof:lastmodified":1566608633,
+    "wof:lastmodified":1576711888,
     "wof:name":"Pardilh\u00f3",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682671,
     "wof:placetype":"locality",
     "wof:population":4169,
     "wof:population_rank":4,

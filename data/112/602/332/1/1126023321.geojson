@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681137,
         85633735,
         85687391
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681137,
             "locality_id":1126023321,
             "region_id":85687391
         }
     ],
     "wof:id":1126023321,
-    "wof:lastmodified":1566608619,
+    "wof:lastmodified":1576711886,
     "wof:name":"Quinta da Mizarella",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681137,
     "wof:placetype":"locality",
     "wof:population":2,
     "wof:population_rank":1,

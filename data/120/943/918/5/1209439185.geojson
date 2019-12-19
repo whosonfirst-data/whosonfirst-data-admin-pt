@@ -99,7 +99,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683637,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,14 +112,17 @@
     "wof:geomhash":"4a8bf515873ee372be9f811a36765784",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209439185
+            "localadmin_id":1511683637,
+            "locality_id":1209439185,
+            "region_id":85687419
         }
     ],
     "wof:id":1209439185,
-    "wof:lastmodified":1566608081,
+    "wof:lastmodified":1576711940,
     "wof:name":"Sobrado",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

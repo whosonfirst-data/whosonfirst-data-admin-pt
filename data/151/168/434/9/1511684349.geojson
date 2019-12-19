@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Moure",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030252"
     },
     "wof:country":"PT",
     "wof:created":1576699207,
-    "wof:geomhash":"dc42981555f6bce89ee5d646558e00ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5a0c313e8bacf743caa8cfcc36f55d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684349,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684349,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699207,
+    "wof:lastmodified":1576712721,
     "wof:name":"Moure",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.569477593530518,
+    -8.56947759353052,
     41.48992268010341,
     -8.5425055804671,
     41.51476460260409

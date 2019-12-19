@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Argozelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"041103"
     },
     "wof:country":"PT",
     "wof:created":1576698658,
-    "wof:geomhash":"a054046b1c829636451d6ae54942a7f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55c788e83d2c986b78936c8312bce8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681737,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511681737,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698658,
+    "wof:lastmodified":1576712625,
     "wof:name":"Argozelo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -6.64825819283766,
-    41.613391711600215,
+    41.61339171160022,
     -6.57015115172367,
     41.66766194206671
 ],

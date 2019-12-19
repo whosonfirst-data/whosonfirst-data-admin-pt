@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Oliveira do Douro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"180410"
     },
     "wof:country":"PT",
     "wof:created":1576698913,
-    "wof:geomhash":"fc5b5bcf5fe940192677a9b5c135e4fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d34b228e667a5946545ea604866f6700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682965,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682965,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698913,
+    "wof:lastmodified":1576712669,
     "wof:name":"Oliveira do Douro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.082728634341688,
+    -8.08272863434169,
     41.05626763732667,
     -8.01713432321913,
     41.09684337860775

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Carape\u00e7os",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030218"
     },
     "wof:country":"PT",
     "wof:created":1576699259,
-    "wof:geomhash":"a9ddadd8a5a5d35e4b2831b499afcda5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f6cac4be58889805a885ae2e53ee46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684581,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684581,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699259,
+    "wof:lastmodified":1576712728,
     "wof:name":"Carape\u00e7os",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.675426624227299,
+    -8.6754266242273,
     41.57555011621122,
     -8.6180570229396,
     41.60604678726798

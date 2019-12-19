@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Al\u00e9m da Ribeira e Pedreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"141817"
     },
     "wof:country":"PT",
     "wof:created":1576698390,
-    "wof:geomhash":"d83026a83fdd7878cd0ca885acbfae99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6af4337c7f97d2dbf346e7778627bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680513,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680513,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698390,
+    "wof:lastmodified":1576712555,
     "wof:name":"Al\u00e9m da Ribeira e Pedreira",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.445232841720014,
+    -8.44523284172001,
     39.61494085212434,
     -8.38445686021764,
     39.69443204368723

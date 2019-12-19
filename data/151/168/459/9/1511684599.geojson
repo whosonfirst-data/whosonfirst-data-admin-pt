@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vieira do Minho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031120"
     },
     "wof:country":"PT",
     "wof:created":1576699262,
-    "wof:geomhash":"65f76aeaccb2eb1ffb7118986ab775a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d7002c6d38d095e8e126984291bdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684599,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684599,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699262,
+    "wof:lastmodified":1576712728,
     "wof:name":"Vieira do Minho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.174274371309984,
+    -8.17427437130998,
     41.60256716086691,
     -8.12236682444385,
     41.63906246314479

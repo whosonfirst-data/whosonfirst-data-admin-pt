@@ -106,6 +106,7 @@
     "src:lbl_centroid":"qs_pg",
     "wof:belongsto":[
         102191581,
+        1511680085,
         85633735,
         85687373
     ],
@@ -121,14 +122,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680085,
             "locality_id":1125882309,
             "region_id":85687373
         }
     ],
     "wof:id":1125882309,
-    "wof:lastmodified":1566608656,
+    "wof:lastmodified":1576711842,
     "wof:name":"Alegrete",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511680085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -63,7 +63,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683105,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,14 +76,17 @@
     "wof:geomhash":"4e7b9e716285fc08326918e1936f5a47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209077629
+            "localadmin_id":1511683105,
+            "locality_id":1209077629,
+            "region_id":85687411
         }
     ],
     "wof:id":1209077629,
-    "wof:lastmodified":1566607932,
+    "wof:lastmodified":1576711916,
     "wof:name":"Bandeira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

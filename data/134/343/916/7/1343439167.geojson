@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125270163,
         85633735,
         85687397
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270163,
             "locality_id":1343439167,
             "region_id":85687397
         }
     ],
     "wof:id":1343439167,
-    "wof:lastmodified":1566607556,
+    "wof:lastmodified":1576712376,
     "wof:name":"Torre",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1125270163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

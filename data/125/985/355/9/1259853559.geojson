@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683883,
         85633735,
         85687423
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683883,
             "locality_id":1259853559,
             "region_id":85687423
         }
     ],
     "wof:id":1259853559,
-    "wof:lastmodified":1566609005,
+    "wof:lastmodified":1576712145,
     "wof:name":"Vale de Cunho",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511683883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

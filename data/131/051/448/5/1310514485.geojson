@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682011,
         85633735,
         85687409
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682011,
             "locality_id":1310514485,
             "region_id":85687409
         }
     ],
     "wof:id":1310514485,
-    "wof:lastmodified":1566608320,
+    "wof:lastmodified":1576712311,
     "wof:name":"Lavandeira",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682011,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Biscoitos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430202"
     },
     "wof:country":"PT",
     "wof:created":1576699399,
-    "wof:geomhash":"2d6a815862cd54953120b57e5d1819fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a31a456c5929d107fa777e16ccaf169d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685289,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685289,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699399,
+    "wof:lastmodified":1576712752,
     "wof:name":"Biscoitos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
 },
   "bbox": [
     -27.27855162227872,
-    38.729186008910496,
+    38.7291860089105,
     -27.21984262076596,
     38.80343834831255
 ],

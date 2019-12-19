@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Fornelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"180406"
     },
     "wof:country":"PT",
     "wof:created":1576698884,
-    "wof:geomhash":"1cf03e0d05fffa52974b47a65808bb56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60b504513fb0f338c56b676278d9dac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682825,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682825,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698884,
+    "wof:lastmodified":1576712664,
     "wof:name":"Fornelos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.2351404022265,
-    41.009432556756266,
+    41.00943255675627,
     -8.17616639376073,
     41.04424129542951
 ],

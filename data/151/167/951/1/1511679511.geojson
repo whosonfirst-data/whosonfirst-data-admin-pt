@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Sesimbra (Santiago)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"151102"
     },
     "wof:country":"PT",
     "wof:created":1576698142,
-    "wof:geomhash":"cedc42584b9d037b92ee9f781ebfff98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e96667a42effa76032396250d9e6882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679511,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679511,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698142,
+    "wof:lastmodified":1576712483,
     "wof:name":"Sesimbra (Santiago)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.111870446809952,
+    -9.11187044680995,
     38.4374317546508,
     -9.08379352001044,
     38.45351515783752

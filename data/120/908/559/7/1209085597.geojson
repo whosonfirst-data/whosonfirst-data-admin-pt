@@ -57,7 +57,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679095,
+        85633735,
+        85687381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +71,17 @@
     "wof:geomhash":"ab5cb34261dd48085e5361ddfc0a1aa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209085597
+            "localadmin_id":1511679095,
+            "locality_id":1209085597,
+            "region_id":85687381
         }
     ],
     "wof:id":1209085597,
-    "wof:lastmodified":1566607951,
+    "wof:lastmodified":1576711917,
     "wof:name":"A dos Francos",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

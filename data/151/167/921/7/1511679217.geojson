@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Curalha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170310"
     },
     "wof:country":"PT",
     "wof:created":1576698079,
-    "wof:geomhash":"a05b05e6e5179e7c927be24496b08136",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79268e98f593ed782db0fdb7e6d95ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679217,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511679217,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698079,
+    "wof:lastmodified":1576712469,
     "wof:name":"Curalha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.541606365447704,
+    -7.5416063654477,
     41.701052501678,
     -7.49709435990331,
     41.73685851785809

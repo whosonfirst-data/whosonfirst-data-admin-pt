@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685647,
+        85633735,
+        85687455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"7d1a4bd13efc2691c3ad02b702b9a8a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209373069
+            "localadmin_id":1511685647,
+            "locality_id":1209373069,
+            "region_id":85687455
         }
     ],
     "wof:id":1209373069,
-    "wof:lastmodified":1566607955,
+    "wof:lastmodified":1576711934,
     "wof:name":"Cimo da granja",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

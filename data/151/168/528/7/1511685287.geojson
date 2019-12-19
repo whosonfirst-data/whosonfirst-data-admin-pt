@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Altares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430101"
     },
     "wof:country":"PT",
     "wof:created":1576699399,
-    "wof:geomhash":"cfa1adcda4323f6eec4dc77f8629c674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f6fc5169af107dab707a271fb57d630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685287,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685287,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699399,
+    "wof:lastmodified":1576712752,
     "wof:name":"Altares",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -27.326051023753088,
+    -27.32605102375309,
     38.73234633909226,
     -27.26773645873793,
     38.80221640565645

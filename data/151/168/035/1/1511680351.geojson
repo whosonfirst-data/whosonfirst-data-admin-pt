@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Rans",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131128"
     },
     "wof:country":"PT",
     "wof:created":1576698350,
-    "wof:geomhash":"fb7b02d18ec4963460bdaffdae412c00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10669ead151d01a1f69c9727a31eacfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680351,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511680351,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698350,
+    "wof:lastmodified":1576712542,
     "wof:name":"Rans",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.313933310748267,
-    41.160360478349645,
+    -8.31393331074827,
+    41.16036047834965,
     -8.27730177316501,
     41.17914887739724
 ],

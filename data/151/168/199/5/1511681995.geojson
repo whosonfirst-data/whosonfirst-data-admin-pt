@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Mizarela, P\u00earo Soares e Vila Soeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"090763"
     },
     "wof:country":"PT",
     "wof:created":1576698707,
-    "wof:geomhash":"b96464d07b9909a1f4dc6c334eaf290b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0db12cdc21ad9a21638c4fe466214ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681995,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511681995,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698707,
+    "wof:lastmodified":1576712634,
     "wof:name":"Mizarela, P\u00earo Soares e Vila Soeiro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.371746728764074,
+    -7.37174672876407,
     40.52520606377989,
     -7.3177389697269,
     40.56869452516004

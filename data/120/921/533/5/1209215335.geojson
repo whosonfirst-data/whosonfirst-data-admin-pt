@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684067,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"a4f1f30ca550fddeff30ce251d7818bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209215335
+            "localadmin_id":1511684067,
+            "locality_id":1209215335,
+            "region_id":85687419
         }
     ],
     "wof:id":1209215335,
-    "wof:lastmodified":1566608066,
+    "wof:lastmodified":1576711924,
     "wof:name":"Alfarela",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

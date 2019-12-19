@@ -87,6 +87,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679085,
         85633735,
         85687363
     ],
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679085,
             "locality_id":1125898999,
             "region_id":85687363
         }
     ],
     "wof:id":1125898999,
-    "wof:lastmodified":1566608664,
+    "wof:lastmodified":1576711846,
     "wof:name":"Juromenha",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

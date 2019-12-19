@@ -54,7 +54,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679237,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +67,17 @@
     "wof:geomhash":"b091c3699e67028c7932fd375c5a7f40",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209616177
+            "localadmin_id":1511679237,
+            "locality_id":1209616177,
+            "region_id":85687419
         }
     ],
     "wof:id":1209616177,
-    "wof:lastmodified":1566608009,
+    "wof:lastmodified":1576711950,
     "wof:name":"Duas Igrejas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679629,
+        85633735,
+        85687359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"cba04b78999ee1c6838fffec574ce534",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209071813
+            "localadmin_id":1511679629,
+            "locality_id":1209071813,
+            "region_id":85687359
         }
     ],
     "wof:id":1209071813,
-    "wof:lastmodified":1566607933,
+    "wof:lastmodified":1576711916,
     "wof:name":"Esteiro Furado",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

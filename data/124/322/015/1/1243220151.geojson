@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682321,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682321,
             "locality_id":1243220151,
             "region_id":85687401
         }
     ],
     "wof:id":1243220151,
-    "wof:lastmodified":1566608874,
+    "wof:lastmodified":1576712084,
     "wof:name":"Povoa de Codecais",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

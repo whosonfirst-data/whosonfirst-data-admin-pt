@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679819,
         85633735,
         85687377
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679819,
             "locality_id":1293652527,
             "region_id":85687377
         }
     ],
     "wof:id":1293652527,
-    "wof:lastmodified":1566607608,
+    "wof:lastmodified":1576712260,
     "wof:name":"Santana do Mato",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511679819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gralhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170612"
     },
     "wof:country":"PT",
     "wof:created":1576698087,
-    "wof:geomhash":"b401e9d7e47c6f35e7d57c9e106f8d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da9ae03cdd34b5f3a118fe07944084d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679259,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511679259,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698087,
+    "wof:lastmodified":1576712470,
     "wof:name":"Gralhas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.740379941311187,
+    -7.74037994131119,
     41.81892653109907,
     -7.68297539369277,
     41.90686711734849

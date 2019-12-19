@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682503,
         85633735,
         85687397
     ],
@@ -75,14 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682503,
             "locality_id":1242756065,
             "region_id":85687397
         }
     ],
     "wof:id":1242756065,
-    "wof:lastmodified":1566608829,
+    "wof:lastmodified":1576712055,
     "wof:name":"Forninhos",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

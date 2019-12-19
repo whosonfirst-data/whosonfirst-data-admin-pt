@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Carreira e Bente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031253"
     },
     "wof:country":"PT",
     "wof:created":1576699113,
-    "wof:geomhash":"c0ac3f334220c1d4e492a56690cd30d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"211b2349fef12849dbcf1703a8acc5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683891,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683891,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699113,
+    "wof:lastmodified":1576712705,
     "wof:name":"Carreira e Bente",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.456801988478217,
+    -8.45680198847822,
     41.36349790479566,
     -8.42775916093578,
     41.39417170177042

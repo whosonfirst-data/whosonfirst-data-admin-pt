@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Guarda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"090758"
     },
     "wof:country":"PT",
     "wof:created":1576698711,
-    "wof:geomhash":"e083af0867e17e9a365034b9e6b00160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a30ac69d3fb072c104b8656c97828c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682015,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511682015,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698711,
+    "wof:lastmodified":1576712634,
     "wof:name":"Guarda",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.292651879687475,
-    40.504460100525286,
+    -7.29265187968748,
+    40.50446010052529,
     -7.19806836068294,
     40.57389138393187
 ],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Cabra\u00e7\u00e3o e Moreira do Lima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160757"
     },
     "wof:country":"PT",
     "wof:created":1576699343,
-    "wof:geomhash":"18d5cc8a66433e00e91bf7879f4ff696",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45af9da06a4a67df10a240251d72ba8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685011,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511685011,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699343,
+    "wof:lastmodified":1576712739,
     "wof:name":"Cabra\u00e7\u00e3o e Moreira do Lima",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.679309486239852,
+    -8.67930948623985,
     41.77520805524679,
     -8.60859595878678,
     41.8588118059043

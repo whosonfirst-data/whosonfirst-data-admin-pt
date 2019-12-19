@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Feteiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420309"
     },
     "wof:country":"PT",
     "wof:created":1576699427,
-    "wof:geomhash":"b2cdfd42269dbb2aebc50565e83a7d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fd6409ab6c58ad083874741ae09132a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685399,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685399,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699427,
+    "wof:lastmodified":1576712763,
     "wof:name":"Feteiras",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

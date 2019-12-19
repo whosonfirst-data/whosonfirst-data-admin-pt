@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vila Ch\u00e3 de Ourique",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140607"
     },
     "wof:country":"PT",
     "wof:created":1576698278,
-    "wof:geomhash":"b28973f46d166bab821850290bacc932",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ac1ec6ac665893dc4fda3e305efaa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680037,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680037,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698278,
+    "wof:lastmodified":1576712520,
     "wof:name":"Vila Ch\u00e3 de Ourique",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.798042142493593,
+    -8.79804214249359,
     39.13404559601899,
     -8.70440797039254,
     39.21174731801633

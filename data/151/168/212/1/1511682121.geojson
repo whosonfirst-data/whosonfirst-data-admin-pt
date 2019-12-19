@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"S\u00e3o Bernardo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"010510"
     },
     "wof:country":"PT",
     "wof:created":1576698736,
-    "wof:geomhash":"143ec4dc65c11eef4bea61e9aaf4b8d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"952e4d580513e653ce705fa0e95996dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682121,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511682121,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698736,
+    "wof:lastmodified":1576712638,
     "wof:name":"S\u00e3o Bernardo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.639561471475169,
-    40.600320108807246,
+    -8.63956147147517,
+    40.60032010880725,
     -8.61030613312911,
     40.62914977468403
 ],

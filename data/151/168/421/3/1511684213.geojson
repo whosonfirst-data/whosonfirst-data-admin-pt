@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Lombo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040519"
     },
     "wof:country":"PT",
     "wof:created":1576699176,
-    "wof:geomhash":"819ef7bdc0e3190896f023fa6cf25fff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c459e5e087993d819f9553fa2329a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684213,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684213,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699176,
+    "wof:lastmodified":1576712717,
     "wof:name":"Lombo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.888477935257139,
-    41.434398325626034,
+    -6.88847793525714,
+    41.43439832562603,
     -6.8076161988807,
     41.47133076658997
 ],

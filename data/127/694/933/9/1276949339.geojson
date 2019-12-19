@@ -73,6 +73,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680357,
         85633735,
         85687411
     ],
@@ -86,14 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680357,
             "locality_id":1276949339,
             "region_id":85687411
         }
     ],
     "wof:id":1276949339,
-    "wof:lastmodified":1566607811,
+    "wof:lastmodified":1576712221,
     "wof:name":"Lamas",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511680357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

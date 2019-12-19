@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vilar de Peregrinos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"041233"
     },
     "wof:country":"PT",
     "wof:created":1576699315,
-    "wof:geomhash":"83010d640823146e1661edd0b98d87ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"743e823451aa351cd6cadd03e2dd8cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684861,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684861,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699315,
+    "wof:lastmodified":1576712735,
     "wof:name":"Vilar de Peregrinos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.054418700526926,
+    -7.05441870052693,
     41.75331717869169,
     -6.99504590218188,
     41.79514357733996

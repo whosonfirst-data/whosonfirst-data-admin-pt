@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vila Verde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"041230"
     },
     "wof:country":"PT",
     "wof:created":1576699348,
-    "wof:geomhash":"0c042be81c91f36f47d622cd29df5b82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1938c82f8c041ae9eed1f240977002d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685037,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511685037,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699348,
+    "wof:lastmodified":1576712740,
     "wof:name":"Vila Verde",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.996340659384755,
-    41.810096024033676,
+    -6.99634065938475,
+    41.81009602403368,
     -6.93760297019137,
     41.86281273718085
 ],

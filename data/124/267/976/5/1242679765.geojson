@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679403,
         85633735,
         85687355
     ],
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679403,
             "locality_id":1242679765,
             "region_id":85687355
         }
     ],
     "wof:id":1242679765,
-    "wof:lastmodified":1566608846,
+    "wof:lastmodified":1576712050,
     "wof:name":"Mombeja",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679403,
     "wof:placetype":"locality",
     "wof:population":981,
     "wof:population_rank":2,

@@ -115,6 +115,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679917,
         85633735,
         85687373
     ],
@@ -132,6 +133,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679917,
             "locality_id":101776075,
             "region_id":85687373
         }
@@ -140,9 +142,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608431,
+    "wof:lastmodified":1576711762,
     "wof:name":"Campo Maior",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511679917,
     "wof:placetype":"locality",
     "wof:population":8235,
     "wof:population_rank":5,

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Perelhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030260"
     },
     "wof:country":"PT",
     "wof:created":1576699225,
-    "wof:geomhash":"f68d411559203ce8b1218effd68c0566",
-    "wof:hierarchy":[],
+    "wof:geomhash":"134fb47072dfc9546a63a64f73e665d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684435,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684435,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699225,
+    "wof:lastmodified":1576712724,
     "wof:name":"Perelhal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.722138254822097,
-    41.508613017523544,
+    -8.7221382548221,
+    41.50861301752354,
     -8.67869965343047,
     41.54100217751269
 ],

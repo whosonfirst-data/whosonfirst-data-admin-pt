@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Pico da Pedra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420506"
     },
     "wof:country":"PT",
     "wof:created":1576699418,
-    "wof:geomhash":"d7b20b38ffb1b180c02919a32965e5cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bbfafc8e8594d2ed57513e6245c554a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685365,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685365,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699418,
+    "wof:lastmodified":1576712759,
     "wof:name":"Pico da Pedra",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.639116735087295,
+    -25.6391167350873,
     37.77429948675878,
     -25.59812326935844,
     37.81449353215388

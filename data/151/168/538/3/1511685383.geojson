@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Arrifes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420301"
     },
     "wof:country":"PT",
     "wof:created":1576699422,
-    "wof:geomhash":"95511d15b7173da55bf703fe445dc0ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79a631b16c78ccee959bf5698b080352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685383,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685383,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699422,
+    "wof:lastmodified":1576712761,
     "wof:name":"Arrifes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.741118934337027,
-    37.747922671748874,
+    -25.74111893433703,
+    37.74792267174887,
     -25.67544724630524,
     37.82798219599878
 ],

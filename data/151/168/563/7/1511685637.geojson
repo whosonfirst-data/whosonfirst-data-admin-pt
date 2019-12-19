@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Porto Judeu",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430109"
     },
     "wof:country":"PT",
     "wof:created":1576703604,
-    "wof:geomhash":"d6fbdf2807dc8d7358856db86f20c693",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a24ecf7298a1ed0fd19af89e8ba554f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685637,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685637,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703604,
+    "wof:lastmodified":1576712798,
     "wof:name":"Porto Judeu",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -27.223306933975138,
-    38.643514019254745,
+    -27.22330693397514,
+    38.64351401925475,
     -27.1025599934883,
     38.72948107137581
 ],

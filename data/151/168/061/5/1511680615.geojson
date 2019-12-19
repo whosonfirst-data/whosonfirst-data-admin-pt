@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de \u00c1guas Boas e Forles",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"181713"
     },
     "wof:country":"PT",
     "wof:created":1576698414,
-    "wof:geomhash":"cd69025ebe5b5178f2dc0fb583fba2d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dd10dc0744b4194029149555e12cb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680615,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511680615,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698414,
+    "wof:lastmodified":1576712563,
     "wof:name":"\u00c1guas Boas e Forles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.689747295917051,
-    40.834554627998585,
+    -7.68974729591705,
+    40.83455462799859,
     -7.61230832239339,
     40.87478639935658
 ],

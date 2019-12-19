@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Jo\u00e3o do Monte e Mosteirinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"182130"
     },
     "wof:country":"PT",
     "wof:created":1576698725,
-    "wof:geomhash":"9f040307689a86b2d015010be2d55b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a01f9914ee223ddcf6597a16a28447ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682089,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682089,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698725,
+    "wof:lastmodified":1576712637,
     "wof:name":"S\u00e3o Jo\u00e3o do Monte e Mosteirinho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.308419918671198,
-    40.513828815532165,
+    -8.3084199186712,
+    40.51382881553216,
     -8.19099038502706,
     40.61431718155171
 ],

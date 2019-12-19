@@ -79,6 +79,7 @@
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
+        1511682167,
         85633735,
         85687409
     ],
@@ -94,14 +95,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682167,
             "locality_id":101874833,
             "region_id":85687409
         }
     ],
     "wof:id":101874833,
-    "wof:lastmodified":1566608391,
+    "wof:lastmodified":1576711793,
     "wof:name":"Mourisca",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

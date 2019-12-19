@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vila Nova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"060905"
     },
     "wof:country":"PT",
     "wof:created":1576698483,
-    "wof:geomhash":"b1f4540eac204ec00ac47206c74bed67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"934168e028486e89c1ab163f8127ea2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680901,
+            "region_id":85687391
+        }
+    ],
     "wof:id":1511680901,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698483,
+    "wof:lastmodified":1576712587,
     "wof:name":"Vila Nova",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.354597667546425,
+    -8.35459766754643,
     40.02605764787747,
     -8.24218833100989,
     40.07162724328908

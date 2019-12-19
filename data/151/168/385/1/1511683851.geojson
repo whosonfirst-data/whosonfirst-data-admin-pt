@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Penacova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"130313"
     },
     "wof:country":"PT",
     "wof:created":1576699104,
-    "wof:geomhash":"a2e2bcd85a69c057ac81e70aee88b077",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06053ba2392d293d0f080602360fe027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683851,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683851,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699104,
+    "wof:lastmodified":1576712703,
     "wof:name":"Penacova",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.262290055213104,
-    41.357808976744366,
+    -8.2622900552131,
+    41.35780897674437,
     -8.23455113331618,
     41.38144327135527
 ],

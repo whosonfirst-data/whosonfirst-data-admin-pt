@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vale de Cavalos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140705"
     },
     "wof:country":"PT",
     "wof:created":1576698297,
-    "wof:geomhash":"041499a5b8d2b0f8a9753f33a0bee90f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc53e8831eac4a93e4e411f784253f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680117,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680117,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698297,
+    "wof:lastmodified":1576712525,
     "wof:name":"Vale de Cavalos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.580532488576603,
-    39.195924074445166,
+    -8.5805324885766,
+    39.19592407444517,
     -8.38243934959286,
     39.3264708689786
 ],

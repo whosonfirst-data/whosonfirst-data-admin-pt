@@ -97,8 +97,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101752093,
+        1125409915,
         85633735,
+        101752093,
         85687411
     ],
     "wof:breaches":[],
@@ -114,13 +115,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409915,
             "locality_id":101752093,
             "neighbourhood_id":1126091735,
             "region_id":85687411
         }
     ],
     "wof:id":1126091735,
-    "wof:lastmodified":1566608752,
+    "wof:lastmodified":1576711895,
     "wof:name":"Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

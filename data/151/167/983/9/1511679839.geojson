@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Bucelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110702"
     },
     "wof:country":"PT",
     "wof:created":1576698214,
-    "wof:geomhash":"f9c236a3762c8829888aa72957e50fd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e07bc7bb40d6ce4a97ce4bec79979b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679839,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679839,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698214,
+    "wof:lastmodified":1576712501,
     "wof:name":"Bucelas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.183413320447569,
+    -9.18341332044757,
     38.87781735482994,
     -9.07042719248304,
     38.94091376260126

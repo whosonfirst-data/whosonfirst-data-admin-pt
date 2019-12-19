@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Campo de Besteiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"182102"
     },
     "wof:country":"PT",
     "wof:created":1576698708,
-    "wof:geomhash":"ed29b216c52a0afeccc8a8f4f6356753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e608d9219dc22161672cd4e5451d22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681997,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511681997,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698708,
+    "wof:lastmodified":1576712634,
     "wof:name":"Campo de Besteiros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.151688271955173,
-    40.546193356413596,
+    -8.15168827195517,
+    40.5461933564136,
     -8.09763704316165,
     40.57152767201133
 ],

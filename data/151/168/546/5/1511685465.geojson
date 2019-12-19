@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Faj\u00e3zinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"480102"
     },
     "wof:country":"PT",
     "wof:created":1576699444,
-    "wof:geomhash":"6d2042e131acb7ca07f4069fdfc3daf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"439f386d3ff2847927dc8a23b5f8eee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685465,
+            "region_id":85687465
+        }
+    ],
     "wof:id":1511685465,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699444,
+    "wof:lastmodified":1576712771,
     "wof:name":"Faj\u00e3zinha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687465,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -31.264044517644503,
+    -31.2640445176445,
     39.41407089027969,
     -31.21208205483059,
     39.43928140678794

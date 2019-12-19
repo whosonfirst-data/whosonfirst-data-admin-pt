@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680981,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"16a754ed9d001b166f632cf709fa416d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209212339
+            "localadmin_id":1511680981,
+            "locality_id":1209212339,
+            "region_id":85687385
         }
     ],
     "wof:id":1209212339,
-    "wof:lastmodified":1566608067,
+    "wof:lastmodified":1576711924,
     "wof:name":"Aranhas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

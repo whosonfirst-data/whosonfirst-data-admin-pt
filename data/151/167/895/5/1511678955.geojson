@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Azinhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"080401"
     },
     "wof:country":"PT",
     "wof:created":1576698008,
-    "wof:geomhash":"3327a3e715e81b6f2bcea3472b3c8cf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7504323c92e1b42de8b132d66d48db4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511678955,
+            "region_id":85687349
+        }
+    ],
     "wof:id":1511678955,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698008,
+    "wof:lastmodified":1576712441,
     "wof:name":"Azinhal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.595045883650058,
-    37.251144373957395,
+    -7.59504588365006,
+    37.25114437395739,
     -7.42169122327874,
     37.32417303335884
 ],

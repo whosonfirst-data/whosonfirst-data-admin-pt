@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Lajes do Pico",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"460102"
     },
     "wof:country":"PT",
     "wof:created":1576703600,
-    "wof:geomhash":"bdf3a904ac4edb2440a7e97e2adab03a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"321e20449c1cadeca1699f010b5d250d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685617,
+            "region_id":85687447
+        }
+    ],
     "wof:id":1511685617,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703600,
+    "wof:lastmodified":1576712796,
     "wof:name":"Lajes do Pico",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687447,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

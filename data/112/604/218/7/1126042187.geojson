@@ -155,6 +155,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679507,
         85633735,
         85687359
     ],
@@ -171,14 +172,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679507,
             "locality_id":1126042187,
             "region_id":85687359
         }
     ],
     "wof:id":1126042187,
-    "wof:lastmodified":1566608628,
+    "wof:lastmodified":1576711890,
     "wof:name":"Santana",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1125394577,
+        85633735,
+        85687355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"861282f75ceb8877fff6427042ce8a3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209526915
+            "localadmin_id":1125394577,
+            "locality_id":1209526915,
+            "region_id":85687355
         }
     ],
     "wof:id":1209526915,
-    "wof:lastmodified":1566607966,
+    "wof:lastmodified":1576711944,
     "wof:name":"Corte da Velha",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1125394577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

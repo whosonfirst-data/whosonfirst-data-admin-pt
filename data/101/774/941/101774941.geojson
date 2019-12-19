@@ -94,6 +94,7 @@
     "wd:wordcount":238,
     "wof:belongsto":[
         102191581,
+        1511682863,
         85633735,
         85687409
     ],
@@ -110,14 +111,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682863,
             "locality_id":101774941,
             "region_id":85687409
         }
     ],
     "wof:id":101774941,
-    "wof:lastmodified":1566608527,
+    "wof:lastmodified":1576711760,
     "wof:name":"Castelo de Paiva",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Font\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160721"
     },
     "wof:country":"PT",
     "wof:created":1576699288,
-    "wof:geomhash":"08a2f7ef6691e1ffc02df7151da79f8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c77a7add38bb2783c1e9cf1cdfcb47fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684723,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511684723,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699288,
+    "wof:lastmodified":1576712732,
     "wof:name":"Font\u00e3o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.674588298682663,
+    -8.67458829868266,
     41.73206224073606,
     -8.63668149532804,
     41.75667857893617

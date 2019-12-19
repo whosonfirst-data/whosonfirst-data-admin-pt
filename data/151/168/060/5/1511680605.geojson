@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Cepelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"011903"
     },
     "wof:country":"PT",
     "wof:created":1576698412,
-    "wof:geomhash":"a4308c39340bad635f9857407e796491",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fec4fc496a3a1715e3c11222ff7d94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680605,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511680605,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698412,
+    "wof:lastmodified":1576712563,
     "wof:name":"Cepelos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.369121263241613,
-    40.810350366577815,
+    -8.36912126324161,
+    40.81035036657781,
     -8.27973011064336,
     40.86869294385945
 ],

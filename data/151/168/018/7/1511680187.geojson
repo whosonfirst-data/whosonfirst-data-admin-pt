@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Miguel do Rio Torto e Rossio ao Sul do Tejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140124"
     },
     "wof:country":"PT",
     "wof:created":1576698313,
-    "wof:geomhash":"abe2ec7eff2451598567dbbe572d4a67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d58978a49524c0d969afaa26215c9403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680187,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680187,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698313,
+    "wof:lastmodified":1576712531,
     "wof:name":"S\u00e3o Miguel do Rio Torto e Rossio ao Sul do Tejo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.261593173963552,
-    39.362275401674474,
+    -8.26159317396355,
+    39.36227540167447,
     -8.14996453559944,
     39.45621069909334
 ],

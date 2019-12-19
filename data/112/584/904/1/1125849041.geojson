@@ -47,6 +47,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683831,
         85633735,
         85687411
     ],
@@ -63,14 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683831,
             "locality_id":1125849041,
             "region_id":85687411
         }
     ],
     "wof:id":1125849041,
-    "wof:lastmodified":1566608783,
+    "wof:lastmodified":1576711832,
     "wof:name":"Tel\u00f5es",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683831,
     "wof:placetype":"locality",
     "wof:population":4675,
     "wof:population_rank":4,

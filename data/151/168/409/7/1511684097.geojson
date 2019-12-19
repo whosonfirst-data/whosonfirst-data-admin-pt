@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Ar\u00f5es (Santa Cristina)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030726"
     },
     "wof:country":"PT",
     "wof:created":1576699153,
-    "wof:geomhash":"45f5f2714eb1796cd32a6f4c93d55818",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf8a906899d01242c9b48fb911232cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684097,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684097,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699153,
+    "wof:lastmodified":1576712712,
     "wof:name":"Ar\u00f5es (Santa Cristina)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.238925998987463,
-    41.426781180198695,
+    -8.23892599898746,
+    41.4267811801987,
     -8.20101501711696,
     41.44886987477177
 ],

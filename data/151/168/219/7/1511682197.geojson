@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Carrazedo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030107"
     },
     "wof:country":"PT",
     "wof:created":1576698752,
-    "wof:geomhash":"cefce786a1bc6633da01ea2e6dd4971b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff49588a06b3700b7518de1f5f4a8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682197,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511682197,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698752,
+    "wof:lastmodified":1576712640,
     "wof:name":"Carrazedo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.395659736420843,
-    41.621120239581074,
+    -8.39565973642084,
+    41.62112023958107,
     -8.37406357508429,
     41.64281629317527
 ],

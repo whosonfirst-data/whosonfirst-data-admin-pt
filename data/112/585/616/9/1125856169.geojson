@@ -117,6 +117,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679041,
         85633735,
         85687355
     ],
@@ -133,14 +134,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679041,
             "locality_id":1125856169,
             "region_id":85687355
         }
     ],
     "wof:id":1125856169,
-    "wof:lastmodified":1566608763,
+    "wof:lastmodified":1576711834,
     "wof:name":"Santa Luzia",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -83,6 +83,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679733,
         85633735,
         85687367
     ],
@@ -100,14 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679733,
             "locality_id":101758935,
             "region_id":85687367
         }
     ],
     "wof:id":101758935,
-    "wof:lastmodified":1566608458,
+    "wof:lastmodified":1576711751,
     "wof:name":"Rio de Mouro-Esta\u00e7\u00e3o",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679733,
     "wof:placetype":"locality",
     "wof:population":54695,
     "wof:population_rank":8,

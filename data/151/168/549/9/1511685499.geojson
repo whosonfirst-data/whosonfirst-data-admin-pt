@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ribeira Brava",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310702"
     },
     "wof:country":"PT",
     "wof:created":1576699454,
-    "wof:geomhash":"aa37bbac44f874089569116bd24c1c3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05c2c2d1af53bb168fc2e15b01823070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685499,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685499,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699454,
+    "wof:lastmodified":1576712775,
     "wof:name":"Ribeira Brava",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -17.073383394112945,
-    32.664804758540974,
+    -17.07338339411294,
+    32.66480475854097,
     -17.00245879661882,
     32.72662956329527
 ],

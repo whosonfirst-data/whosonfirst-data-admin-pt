@@ -39,6 +39,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679489,
         85633735,
         85687359
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679489,
             "locality_id":1226517385,
             "region_id":85687359
         }
     ],
     "wof:id":1226517385,
-    "wof:lastmodified":1566609121,
+    "wof:lastmodified":1576712021,
     "wof:name":"Sao Romao do Sado",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679489,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

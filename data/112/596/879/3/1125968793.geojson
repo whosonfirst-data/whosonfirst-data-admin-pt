@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679999,
         85633735,
         85687367
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679999,
             "locality_id":1125968793,
             "region_id":85687367
         }
     ],
     "wof:id":1125968793,
-    "wof:lastmodified":1566608715,
+    "wof:lastmodified":1576711863,
     "wof:name":"Penedos de Alenquer",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

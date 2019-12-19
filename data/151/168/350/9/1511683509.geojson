@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santa Eul\u00e1lia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031401"
     },
     "wof:country":"PT",
     "wof:created":1576699025,
-    "wof:geomhash":"ba2e86e49ff79c28fb535f5b6d5d9d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1d93057eb0fc818c100f77191542bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683509,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683509,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699025,
+    "wof:lastmodified":1576712692,
     "wof:name":"Santa Eul\u00e1lia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.317972461181354,
-    41.341064579151926,
+    -8.31797246118135,
+    41.34106457915193,
     -8.2776205789028,
     41.36628571626551
 ],

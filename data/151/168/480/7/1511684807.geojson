@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Soutelo e Seara Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170359"
     },
     "wof:country":"PT",
     "wof:created":1576699304,
-    "wof:geomhash":"f09d88caf7c620441c51946d286eedcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15a8a6677cb0a0156ba9017f1f0759fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684807,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511684807,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699304,
+    "wof:lastmodified":1576712734,
     "wof:name":"Soutelo e Seara Velha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.586890182110391,
+    -7.58689018211039,
     41.73288717027834,
     -7.51193189389496,
     41.78394850911711

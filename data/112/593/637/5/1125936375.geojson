@@ -51,6 +51,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681045,
         85633735,
         85687391
     ],
@@ -67,14 +68,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681045,
             "locality_id":1125936375,
             "region_id":85687391
         }
     ],
     "wof:id":1125936375,
-    "wof:lastmodified":1566608600,
+    "wof:lastmodified":1576711852,
     "wof:name":"Unhais-o-Velho",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681045,
     "wof:placetype":"locality",
     "wof:population":640,
     "wof:population_rank":2,

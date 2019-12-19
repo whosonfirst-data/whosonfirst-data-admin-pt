@@ -251,6 +251,7 @@
     "wd:wordcount":790,
     "wof:belongsto":[
         102191581,
+        1511679621,
         85633735,
         85687359
     ],
@@ -268,14 +269,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679621,
             "locality_id":101832799,
             "region_id":85687359
         }
     ],
     "wof:id":101832799,
-    "wof:lastmodified":1566608395,
+    "wof:lastmodified":1576711783,
     "wof:name":"Almada",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679621,
     "wof:placetype":"locality",
     "wof:population":34008,
     "wof:population_rank":7,

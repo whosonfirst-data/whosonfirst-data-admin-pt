@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681495,
         85633735,
         85687397
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681495,
             "locality_id":1276959847,
             "region_id":85687397
         }
     ],
     "wof:id":1276959847,
-    "wof:lastmodified":1566607826,
+    "wof:lastmodified":1576712222,
     "wof:name":"Famalicao",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511681495,
     "wof:placetype":"locality",
     "wof:population":615,
     "wof:population_rank":2,

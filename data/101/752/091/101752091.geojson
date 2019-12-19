@@ -429,6 +429,7 @@
     "wd:wordcount":7593,
     "wof:belongsto":[
         102191581,
+        1511681101,
         85633735,
         85687391
     ],
@@ -446,6 +447,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681101,
             "locality_id":101752091,
             "region_id":85687391
         }
@@ -454,9 +456,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608382,
+    "wof:lastmodified":1576711750,
     "wof:name":"Coimbra",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681101,
     "wof:placetype":"locality",
     "wof:population":106582,
     "wof:population_rank":9,

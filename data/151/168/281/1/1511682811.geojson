@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Baldos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"180705"
     },
     "wof:country":"PT",
     "wof:created":1576698882,
-    "wof:geomhash":"8fe525ff9de79ba417e15c6cacab1e3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3cf861802893d0e0519c10f7acc5249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682811,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682811,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698882,
+    "wof:lastmodified":1576712663,
     "wof:name":"Baldos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.583649206104963,
-    40.980586536080274,
+    -7.58364920610496,
+    40.98058653608027,
     -7.55220218009267,
     41.00221581150208
 ],

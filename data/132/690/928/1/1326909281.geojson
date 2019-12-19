@@ -205,6 +205,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679077,
         85633735,
         85687367
     ],
@@ -218,14 +219,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679077,
             "locality_id":1326909281,
             "region_id":85687367
         }
     ],
     "wof:id":1326909281,
-    "wof:lastmodified":1566607242,
+    "wof:lastmodified":1576712344,
     "wof:name":"Campo Grande",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

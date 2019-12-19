@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Pico",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031335"
     },
     "wof:country":"PT",
     "wof:created":1576699278,
-    "wof:geomhash":"aba28df8a7767ba7922f8cb9464fba1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d6de6d4a3a2dcdaa755c542f8726533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684675,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684675,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699278,
+    "wof:lastmodified":1576712730,
     "wof:name":"Pico",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

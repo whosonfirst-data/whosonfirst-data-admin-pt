@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Atouguia da Baleia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"101402"
     },
     "wof:country":"PT",
     "wof:created":1576698054,
-    "wof:geomhash":"d8e23f416e196df8df15110becd4f414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcb6c983e6d26bba4ddf44e8a025c4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679121,
+            "region_id":85687381
+        }
+    ],
     "wof:id":1511679121,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698054,
+    "wof:lastmodified":1576712464,
     "wof:name":"Atouguia da Baleia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -9.36594506546845,
-    39.283458735145224,
+    39.28345873514522,
     -9.26892565163567,
     39.3664489450549
 ],

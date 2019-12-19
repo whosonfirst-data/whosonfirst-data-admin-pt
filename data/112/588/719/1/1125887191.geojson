@@ -125,6 +125,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511678875,
         85633735,
         85687349
     ],
@@ -142,14 +143,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678875,
             "locality_id":1125887191,
             "region_id":85687349
         }
     ],
     "wof:id":1125887191,
-    "wof:lastmodified":1566608657,
+    "wof:lastmodified":1576711843,
     "wof:name":"Vila do Bispo",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678875,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

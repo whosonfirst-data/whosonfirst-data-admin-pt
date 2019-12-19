@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Pousade e Albardo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"090764"
     },
     "wof:country":"PT",
     "wof:created":1576698704,
-    "wof:geomhash":"ceae38e28fb94b6c31e1cd4e561b572e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a94dccbd9bf5a8f06514aa1a5da197d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681979,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511681979,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698704,
+    "wof:lastmodified":1576712633,
     "wof:name":"Pousade e Albardo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.157532403664862,
+    -7.15753240366486,
     40.49655283981852,
     -7.09092934736341,
     40.55851411501818

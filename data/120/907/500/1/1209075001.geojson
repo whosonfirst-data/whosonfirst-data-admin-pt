@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681653,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"3860326a79636e65b2efef5338431255",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209075001
+            "localadmin_id":1511681653,
+            "locality_id":1209075001,
+            "region_id":85687401
         }
     ],
     "wof:id":1209075001,
-    "wof:lastmodified":1566607933,
+    "wof:lastmodified":1576711916,
     "wof:name":"Freixinho",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Cep\u00e3es e Fareja",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030741"
     },
     "wof:country":"PT",
     "wof:created":1576699150,
-    "wof:geomhash":"b5dc88d65dbe5b3e5105fe3d2f83d5b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c6a644c4ea2ac564b32849fc8af3822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684083,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684083,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699150,
+    "wof:lastmodified":1576712712,
     "wof:name":"Cep\u00e3es e Fareja",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.247960909236095,
+    -8.2479609092361,
     41.40784584618662,
     -8.18660807858045,
     41.44510656115543

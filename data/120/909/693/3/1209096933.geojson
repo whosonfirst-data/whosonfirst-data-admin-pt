@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679557,
+        85633735,
+        85687363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"289439ef44b9f9588b49fe78446481ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209096933
+            "localadmin_id":1511679557,
+            "locality_id":1209096933,
+            "region_id":85687363
         }
     ],
     "wof:id":1209096933,
-    "wof:lastmodified":1566607924,
+    "wof:lastmodified":1576711918,
     "wof:name":"Escoural",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

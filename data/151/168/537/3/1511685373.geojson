@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Covoada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420305"
     },
     "wof:country":"PT",
     "wof:created":1576699419,
-    "wof:geomhash":"96f7950a96e3772b0c36296849894972",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc2247adbcabf41f3c2cb427e3ffafe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685373,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685373,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699419,
+    "wof:lastmodified":1576712760,
     "wof:name":"Covoada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

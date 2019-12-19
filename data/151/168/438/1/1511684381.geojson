@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gilmonde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030237"
     },
     "wof:country":"PT",
     "wof:created":1576699214,
-    "wof:geomhash":"fc21b1bc4ff1a986ec4c6b3f0abc9448",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f760f2a2d4f066de4e6ad819d8189939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684381,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684381,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699214,
+    "wof:lastmodified":1576712722,
     "wof:name":"Gilmonde",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.672279555309176,
-    41.495639714772246,
+    -8.67227955530918,
+    41.49563971477225,
     -8.64260276018008,
     41.5241106638806
 ],

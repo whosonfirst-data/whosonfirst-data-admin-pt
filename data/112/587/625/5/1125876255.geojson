@@ -96,6 +96,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685525,
         85633735,
         85687345
     ],
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685525,
             "locality_id":1125876255,
             "region_id":85687345
         }
     ],
     "wof:id":1125876255,
-    "wof:lastmodified":1566608674,
+    "wof:lastmodified":1576711841,
     "wof:name":"Cani\u00e7al",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685525,
     "wof:placetype":"locality",
     "wof:population":3893,
     "wof:population_rank":4,

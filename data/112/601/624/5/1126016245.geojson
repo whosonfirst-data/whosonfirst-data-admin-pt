@@ -87,6 +87,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683395,
         85633735,
         85687411
     ],
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683395,
             "locality_id":1126016245,
             "region_id":85687411
         }
     ],
     "wof:id":1126016245,
-    "wof:lastmodified":1566608742,
+    "wof:lastmodified":1576711884,
     "wof:name":"Lavra",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683395,
     "wof:placetype":"locality",
     "wof:population":9633,
     "wof:population_rank":5,

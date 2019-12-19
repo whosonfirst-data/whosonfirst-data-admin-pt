@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684701,
         85633735,
         85687433
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684701,
             "locality_id":1277036673,
             "region_id":85687433
         }
     ],
     "wof:id":1277036673,
-    "wof:lastmodified":1566607847,
+    "wof:lastmodified":1576712224,
     "wof:name":"Ribeira",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Barro\u00e7as e Taias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160405"
     },
     "wof:country":"PT",
     "wof:created":1576698676,
-    "wof:geomhash":"8bd295f3430f6942c533ce1c8b01c32e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f55b66c198fd5c39a00d7536d0ffc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681833,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681833,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698676,
+    "wof:lastmodified":1576712628,
     "wof:name":"Barro\u00e7as e Taias",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.517607201851588,
+    -8.51760720185159,
     41.99216687339325,
     -8.48668534169746,
     42.00837619354534

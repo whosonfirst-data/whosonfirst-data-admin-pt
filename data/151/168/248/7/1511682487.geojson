@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Atalaia e Safurd\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"091035"
     },
     "wof:country":"PT",
     "wof:created":1576698813,
-    "wof:geomhash":"2949b184b0f9ff9cd3604d215a891cf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09444757edb6a2336be83958c7818734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682487,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511682487,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698813,
+    "wof:lastmodified":1576712650,
     "wof:name":"Atalaia e Safurd\u00e3o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.085011578321803,
+    -7.0850115783218,
     40.62380698241815,
     -7.00367835099977,
     40.7129285395989

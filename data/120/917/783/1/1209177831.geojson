@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680337,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +73,17 @@
     "wof:geomhash":"5cc08445560dfad480444ef7cc58e5d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209177831
+            "localadmin_id":1511680337,
+            "locality_id":1209177831,
+            "region_id":85687411
         }
     ],
     "wof:id":1209177831,
-    "wof:lastmodified":1566608070,
+    "wof:lastmodified":1576711921,
     "wof:name":"Outeiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

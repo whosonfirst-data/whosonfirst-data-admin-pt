@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679487,
         85633735,
         85687355
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679487,
             "locality_id":1344258923,
             "region_id":85687355
         }
     ],
     "wof:id":1344258923,
-    "wof:lastmodified":1566607347,
+    "wof:lastmodified":1576712414,
     "wof:name":"Freixeira",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

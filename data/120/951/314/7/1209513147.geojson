@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680551,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"65a9b5cede361f2937bc8db97252fe4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209513147
+            "localadmin_id":1511680551,
+            "locality_id":1209513147,
+            "region_id":85687385
         }
     ],
     "wof:id":1209513147,
-    "wof:lastmodified":1566608032,
+    "wof:lastmodified":1576711943,
     "wof:name":"Alvaiade",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

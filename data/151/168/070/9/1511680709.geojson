@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"V\u00e1rzea dos Cavaleiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"050914"
     },
     "wof:country":"PT",
     "wof:created":1576698435,
-    "wof:geomhash":"02f4574feddee41608b1228b18af526d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b825b9faefcae1a0830f66a9331c0001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680709,
+            "region_id":85687385
+        }
+    ],
     "wof:id":1511680709,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698435,
+    "wof:lastmodified":1576712570,
     "wof:name":"V\u00e1rzea dos Cavaleiros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.047931477702543,
-    39.761268187787316,
+    -8.04793147770254,
+    39.76126818778732,
     -7.972865910306,
     39.83137819921116
 ],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Santo Ant\u00f3nio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420320"
     },
     "wof:country":"PT",
     "wof:created":1576699437,
-    "wof:geomhash":"fa30e400248fc8ecd41885d7d1fdc011",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83c5d3049c3c5a441b605b4e405779ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685435,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685435,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699437,
+    "wof:lastmodified":1576712768,
     "wof:name":"Santo Ant\u00f3nio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.763114544294332,
-    37.828418420984214,
+    -25.76311454429433,
+    37.82841842098421,
     -25.69348787672226,
     37.87425616122686
 ],

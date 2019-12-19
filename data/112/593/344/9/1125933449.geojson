@@ -51,6 +51,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679567,
         85633735,
         85687359
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679567,
             "locality_id":1125933449,
             "region_id":85687359
         }
     ],
     "wof:id":1125933449,
-    "wof:lastmodified":1566608601,
+    "wof:lastmodified":1576711851,
     "wof:name":"Pontes",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

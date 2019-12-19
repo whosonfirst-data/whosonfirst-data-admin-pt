@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Olmos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040523"
     },
     "wof:country":"PT",
     "wof:created":1576699216,
-    "wof:geomhash":"4472a3b311ad65270a8df81858705784",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb17d3fdb987477f004c59291ba3055c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684391,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684391,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699216,
+    "wof:lastmodified":1576712722,
     "wof:name":"Olmos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.938400618475812,
+    -6.93840061847581,
     41.47744068343145,
     -6.84764167177901,
     41.52122511868324

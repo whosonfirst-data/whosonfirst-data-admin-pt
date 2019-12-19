@@ -175,6 +175,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679301,
         85633735,
         85687415
     ],
@@ -188,14 +189,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679301,
             "locality_id":1276154797,
             "region_id":85687415
         }
     ],
     "wof:id":1276154797,
-    "wof:lastmodified":1566607873,
+    "wof:lastmodified":1576712179,
     "wof:name":"Santa Cruz",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511679301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679127,
         85633735,
         85687381
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679127,
             "locality_id":1125810803,
             "region_id":85687381
         }
     ],
     "wof:id":1125810803,
-    "wof:lastmodified":1566608651,
+    "wof:lastmodified":1576711826,
     "wof:name":"Peniche-S\u00e3o Pedro",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511679127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

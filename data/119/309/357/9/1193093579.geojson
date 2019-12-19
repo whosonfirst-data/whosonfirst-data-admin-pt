@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681341,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681341,
             "locality_id":1193093579,
             "region_id":85687401
         }
     ],
     "wof:id":1193093579,
-    "wof:lastmodified":1566608096,
+    "wof:lastmodified":1576711902,
     "wof:name":"Pinheiro de Azere",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

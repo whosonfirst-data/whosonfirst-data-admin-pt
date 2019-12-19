@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684699,
         85633735,
         85687415
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684699,
             "locality_id":1226544763,
             "region_id":85687415
         }
     ],
     "wof:id":1226544763,
-    "wof:lastmodified":1566609205,
+    "wof:lastmodified":1576712025,
     "wof:name":"Vidoedo",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

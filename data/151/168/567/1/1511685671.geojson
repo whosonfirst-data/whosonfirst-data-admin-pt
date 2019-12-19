@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Manadas (Santa B\u00e1rbara)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"450201"
     },
     "wof:country":"PT",
     "wof:created":1576703612,
-    "wof:geomhash":"cce478def9929f74a49468c279261736",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df4fdb263f0241510aa3e713fdc94222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685671,
+            "region_id":85687451
+        }
+    ],
     "wof:id":1511685671,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703612,
+    "wof:lastmodified":1576712800,
     "wof:name":"Manadas (Santa B\u00e1rbara)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687451,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -28.116921870325598,
-    38.625723202730285,
+    -28.1169218703256,
+    38.62572320273028,
     -28.05219461997643,
     38.65927236798532
 ],

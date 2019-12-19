@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Alcanede",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"141604"
     },
     "wof:country":"PT",
     "wof:created":1576698323,
-    "wof:geomhash":"b912a042f887b5a3fbed6325969e03d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d72235e1e545450320d189e556b32ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680231,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680231,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698323,
+    "wof:lastmodified":1576712534,
     "wof:name":"Alcanede",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.892566664065127,
+    -8.89256666406513,
     39.34735892786469,
     -8.75887020522377,
     39.48300943493597

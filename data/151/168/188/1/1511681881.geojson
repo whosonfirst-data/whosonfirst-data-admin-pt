@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Riba de Mouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160424"
     },
     "wof:country":"PT",
     "wof:created":1576698685,
-    "wof:geomhash":"660e102a9d8bec78b0d610c9c6f61dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a47a65117edf2e845620b2f58c3203b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681881,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681881,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698685,
+    "wof:lastmodified":1576712630,
     "wof:name":"Riba de Mouro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

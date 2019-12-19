@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Brunhozinho, Castanheira e Sanhoane",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040829"
     },
     "wof:country":"PT",
     "wof:created":1576699139,
-    "wof:geomhash":"762bad856114551e5e144dc7f1f09d7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99248e81b2cd4dd56d4e86f90db3406c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684029,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684029,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699139,
+    "wof:lastmodified":1576712710,
     "wof:name":"Brunhozinho, Castanheira e Sanhoane",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.615636075440099,
+    -6.6156360754401,
     41.33498123452296,
     -6.4926314572654,
     41.42062327826656

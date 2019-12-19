@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gen\u00edsio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040605"
     },
     "wof:country":"PT",
     "wof:created":1576699064,
-    "wof:geomhash":"fa92f9952c2462830718881647a58e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d51ba94a9ef7bab0dcb01082b20f26e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683681,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511683681,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699064,
+    "wof:lastmodified":1576712697,
     "wof:name":"Gen\u00edsio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.412320406003314,
+    -6.41232040600331,
     41.52337288650005,
     -6.35087596061102,
     41.60880484987848

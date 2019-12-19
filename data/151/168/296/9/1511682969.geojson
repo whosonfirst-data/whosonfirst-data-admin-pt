@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Canelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131105"
     },
     "wof:country":"PT",
     "wof:created":1576698914,
-    "wof:geomhash":"b1bed01697165fd4a76194aeb9420d63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5daeaaa747d1306ff7c95b88df4ae57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682969,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511682969,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698914,
+    "wof:lastmodified":1576712670,
     "wof:name":"Canelas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.351424184309039,
-    41.058395118120245,
+    -8.35142418430904,
+    41.05839511812025,
     -8.29892782807188,
     41.09756617730039
 ],

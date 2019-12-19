@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679025,
         85633735,
         85687355
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679025,
             "locality_id":1276874385,
             "region_id":85687355
         }
     ],
     "wof:id":1276874385,
-    "wof:lastmodified":1566607792,
+    "wof:lastmodified":1576712219,
     "wof:name":"A do Corvo",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

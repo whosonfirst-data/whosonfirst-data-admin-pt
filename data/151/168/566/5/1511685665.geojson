@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Quatro Ribeiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430208"
     },
     "wof:country":"PT",
     "wof:created":1576703610,
-    "wof:geomhash":"f70e5833582af9cc575fbbfda650bbbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d201777ad85811eb45ebaf88005780a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685665,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685665,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703610,
+    "wof:lastmodified":1576712799,
     "wof:name":"Quatro Ribeiras",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

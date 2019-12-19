@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Parada de Bouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031111"
     },
     "wof:country":"PT",
     "wof:created":1576698758,
-    "wof:geomhash":"36c83ec75702a134db28ab356bc8d7fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef6ee4ea29c14f0bd82f89938cab6516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682231,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511682231,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698758,
+    "wof:lastmodified":1576712641,
     "wof:name":"Parada de Bouro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.25957475371665,
-    41.626478818071504,
+    41.6264788180715,
     -8.21675028469304,
     41.65412876821891
 ],

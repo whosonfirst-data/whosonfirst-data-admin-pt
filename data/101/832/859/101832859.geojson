@@ -36,6 +36,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679595,
         85633735,
         85687359
     ],
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679595,
             "locality_id":101832859,
             "region_id":85687359
         }
     ],
     "wof:id":101832859,
-    "wof:lastmodified":1566608398,
+    "wof:lastmodified":1576711785,
     "wof:name":"Vale de Milha\u00e7os",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679595,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

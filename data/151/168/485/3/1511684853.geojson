@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Quintanilha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040232"
     },
     "wof:country":"PT",
     "wof:created":1576699313,
-    "wof:geomhash":"c1845e810249602930b2c3026dd8d445",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9a4a812e98be706a3fc78efa3aa04e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684853,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684853,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699313,
+    "wof:lastmodified":1576712735,
     "wof:name":"Quintanilha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.611996437540321,
+    -6.61199643754032,
     41.7290902358325,
     -6.55447460382095,
     41.7881791842751

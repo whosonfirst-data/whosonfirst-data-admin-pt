@@ -43,6 +43,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684057,
         85633735,
         85687419
     ],
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684057,
             "locality_id":1343285907,
             "region_id":85687419
         }
     ],
     "wof:id":1343285907,
-    "wof:lastmodified":1566607517,
+    "wof:lastmodified":1576712371,
     "wof:name":"Pousada de Saramagos",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

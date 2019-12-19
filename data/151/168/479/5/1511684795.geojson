@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Zoio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040249"
     },
     "wof:country":"PT",
     "wof:created":1576699302,
-    "wof:geomhash":"09f090d00228af8d3b054cab87ab8dee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6955ce1b4d784e34a40370b0e2dc52d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684795,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684795,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699302,
+    "wof:lastmodified":1576712733,
     "wof:name":"Zoio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.947970102878164,
+    -6.94797010287816,
     41.71545909403258,
     -6.85323190145698,
     41.77425038486916

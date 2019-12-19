@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santa Clara-a-Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"021119"
     },
     "wof:country":"PT",
     "wof:created":1576698026,
-    "wof:geomhash":"47a8739e0a9c332f75b72995c0fc1b69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c69f37b0f7d4bf58368d63ee847868ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679005,
+            "region_id":85687355
+        }
+    ],
     "wof:id":1511679005,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698026,
+    "wof:lastmodified":1576712454,
     "wof:name":"Santa Clara-a-Velha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Madalena do Mar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310502"
     },
     "wof:country":"PT",
     "wof:created":1576699453,
-    "wof:geomhash":"36c4e298379ec2f544d0fde97036d467",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1120b81e3a2e28bbe636c639bdd3770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685497,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685497,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699453,
+    "wof:lastmodified":1576712775,
     "wof:name":"Madalena do Mar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

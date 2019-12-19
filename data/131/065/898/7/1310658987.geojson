@@ -118,6 +118,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685455,
         85633735,
         85687465
     ],
@@ -131,14 +132,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685455,
             "locality_id":1310658987,
             "region_id":85687465
         }
     ],
     "wof:id":1310658987,
-    "wof:lastmodified":1566608229,
+    "wof:lastmodified":1576712316,
     "wof:name":"Costa",
-    "wof:parent_id":85687465,
+    "wof:parent_id":1511685455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

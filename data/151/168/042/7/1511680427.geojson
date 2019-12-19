@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Aljubarrota",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"100120"
     },
     "wof:country":"PT",
     "wof:created":1576698367,
-    "wof:geomhash":"b7f23e2493307d7ef16815a8a44e25b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2089a69e7d2771df92080b3a44359078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680427,
+            "region_id":85687381
+        }
+    ],
     "wof:id":1511680427,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698367,
+    "wof:lastmodified":1576712547,
     "wof:name":"Aljubarrota",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.968473162747925,
-    39.501375939155146,
+    -8.96847316274792,
+    39.50137593915515,
     -8.86542653803293,
     39.58441365947401
 ],

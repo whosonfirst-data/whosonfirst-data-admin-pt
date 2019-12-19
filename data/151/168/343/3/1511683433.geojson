@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Reguenga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131418"
     },
     "wof:country":"PT",
     "wof:created":1576699009,
-    "wof:geomhash":"1450d2b253d6fe43b1bb9bd10a4c0129",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddd9e3560a1018478e3520c817c7151b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683433,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683433,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699009,
+    "wof:lastmodified":1576712689,
     "wof:name":"Reguenga",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.470333220119764,
-    41.262027557475605,
+    -8.47033322011976,
+    41.26202755747561,
     -8.42927233209333,
     41.28688989489057
 ],

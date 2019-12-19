@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681131,
+        85633735,
+        85687391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"f291b96918a6ad47efe66b327e36e043",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209609501
+            "localadmin_id":1511681131,
+            "locality_id":1209609501,
+            "region_id":85687391
         }
     ],
     "wof:id":1209609501,
-    "wof:lastmodified":1566608027,
+    "wof:lastmodified":1576711949,
     "wof:name":"Meas de Cima",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

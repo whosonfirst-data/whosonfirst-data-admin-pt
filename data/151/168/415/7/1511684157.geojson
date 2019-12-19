@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Saldanha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040815"
     },
     "wof:country":"PT",
     "wof:created":1576699165,
-    "wof:geomhash":"b91b0240757a832cc2417676af26bb61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a41b8d97a6825f507bb6b24b76fdf017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684157,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511684157,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699165,
+    "wof:lastmodified":1576712715,
     "wof:name":"Saldanha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.576978171132695,
+    -6.5769781711327,
     41.39455308141104,
     -6.49721228876527,
     41.45340596763095

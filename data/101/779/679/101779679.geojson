@@ -70,6 +70,7 @@
     "wd:wordcount":91,
     "wof:belongsto":[
         102191581,
+        1511679405,
         85633735,
         85687355
     ],
@@ -87,6 +88,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679405,
             "locality_id":101779679,
             "region_id":85687355
         }
@@ -95,9 +97,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608453,
+    "wof:lastmodified":1576711776,
     "wof:name":"Vale de Vargo",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

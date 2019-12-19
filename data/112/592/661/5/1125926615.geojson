@@ -77,6 +77,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679577,
         85633735,
         85687363
     ],
@@ -94,14 +95,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679577,
             "locality_id":1125926615,
             "region_id":85687363
         }
     ],
     "wof:id":1125926615,
-    "wof:lastmodified":1566608603,
+    "wof:lastmodified":1576711850,
     "wof:name":"Nossa Senhora de Guadalupe",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679577,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

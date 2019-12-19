@@ -37,6 +37,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679073,
         85633735,
         85687367
     ],
@@ -48,14 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679073,
             "locality_id":101759079,
             "region_id":85687367
         }
     ],
     "wof:id":101759079,
-    "wof:lastmodified":1566608465,
+    "wof:lastmodified":1576711753,
     "wof:name":"Outurela-Portela",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679073,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

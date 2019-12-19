@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Santa Cruz da Graciosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687459
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"440104"
     },
     "wof:country":"PT",
     "wof:created":1576703597,
-    "wof:geomhash":"9dd09cba3f72da288d6dc690ac9b5df6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55dedaf381c77f287fa45ea16c94bd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685607,
+            "region_id":85687459
+        }
+    ],
     "wof:id":1511685607,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703597,
+    "wof:lastmodified":1576712796,
     "wof:name":"Santa Cruz da Graciosa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687459,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

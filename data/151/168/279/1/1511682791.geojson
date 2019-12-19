@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santa Maria de Lamas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"010925"
     },
     "wof:country":"PT",
     "wof:created":1576698878,
-    "wof:geomhash":"c2edc2f6e81284874ad29db279a70866",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ef6343b4e5c05a0095472225b934534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682791,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511682791,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698878,
+    "wof:lastmodified":1576712663,
     "wof:name":"Santa Maria de Lamas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.580242985968473,
+    -8.58024298596847,
     40.96884118426549,
     -8.55565421827556,
     40.99051478337895

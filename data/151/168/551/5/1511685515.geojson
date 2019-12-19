@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ribeira da Janela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310603"
     },
     "wof:country":"PT",
     "wof:created":1576699458,
-    "wof:geomhash":"e9f181cfc1e59240c4a7d423ad135f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f10939af0f3ccb20424c4e2667d64a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685515,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685515,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699458,
+    "wof:lastmodified":1576712778,
     "wof:name":"Ribeira da Janela",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -17.176085188822654,
-    32.767154864611015,
+    -17.17608518882265,
+    32.76715486461102,
     -17.10635100829864,
     32.85736692740666
 ],

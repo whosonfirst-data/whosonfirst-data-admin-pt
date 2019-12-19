@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683393,
         85633735,
         85687423
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683393,
             "locality_id":1260038821,
             "region_id":85687423
         }
     ],
     "wof:id":1260038821,
-    "wof:lastmodified":1566608191,
+    "wof:lastmodified":1576712156,
     "wof:name":"Veiga",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511683393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

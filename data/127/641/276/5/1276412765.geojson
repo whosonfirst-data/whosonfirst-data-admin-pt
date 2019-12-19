@@ -67,6 +67,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125375743,
         85633735,
         85687373
     ],
@@ -80,14 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125375743,
             "locality_id":1276412765,
             "region_id":85687373
         }
     ],
     "wof:id":1276412765,
-    "wof:lastmodified":1566607876,
+    "wof:lastmodified":1576712193,
     "wof:name":"Quinta",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1125375743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

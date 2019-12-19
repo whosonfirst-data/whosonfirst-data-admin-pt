@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Silva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030279"
     },
     "wof:country":"PT",
     "wof:created":1576699048,
-    "wof:geomhash":"4928e0b8f8c44dcde68552193027029b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b182e13e36808edccafa2d4edbde86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683621,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683621,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699048,
+    "wof:lastmodified":1576712696,
     "wof:name":"Silva",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.646812217170135,
-    41.562290842803876,
+    -8.64681221717013,
+    41.56229084280388,
     -8.61778817911435,
     41.57908011377701
 ],

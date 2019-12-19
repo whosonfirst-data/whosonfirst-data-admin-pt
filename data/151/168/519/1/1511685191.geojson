@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Pedro Miguel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"470109"
     },
     "wof:country":"PT",
     "wof:created":1576699379,
-    "wof:geomhash":"8ae13e230125e68d360d637573d52613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6521df0e53ec08f424d6dd0b4d23030e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685191,
+            "region_id":85687455
+        }
+    ],
     "wof:id":1511685191,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699379,
+    "wof:lastmodified":1576712747,
     "wof:name":"Pedro Miguel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687455,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -28.702744035369605,
-    38.564830177602566,
+    -28.70274403536961,
+    38.56483017760257,
     -28.6034872225742,
     38.59697629813693
 ],

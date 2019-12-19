@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Guardizela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030823"
     },
     "wof:country":"PT",
     "wof:created":1576699116,
-    "wof:geomhash":"90da050e548c52610d2ab8c66c9ffc7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bafa18b61ebea5c7a3891f282366f696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683909,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683909,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699116,
+    "wof:lastmodified":1576712706,
     "wof:name":"Guardizela",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.380876407610696,
+    -8.3808764076107,
     41.37605967058214,
     -8.34790239876432,
     41.39864032792989

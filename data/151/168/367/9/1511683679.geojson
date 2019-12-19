@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Oleiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031330"
     },
     "wof:country":"PT",
     "wof:created":1576699064,
-    "wof:geomhash":"eddfffc9cd9d40bd7aca99372a84329d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a72023ddf6b8c0252681c0ab3a9b8a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683679,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683679,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699064,
+    "wof:lastmodified":1576712697,
     "wof:name":"Oleiros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.509445465700399,
-    41.601425443839545,
+    -8.5094454657004,
+    41.60142544383955,
     -8.47722086011404,
     41.62095534864934
 ],

@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683601,
         85633735,
         85687419
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683601,
             "locality_id":1125823839,
             "region_id":85687419
         }
     ],
     "wof:id":1125823839,
-    "wof:lastmodified":1566608755,
+    "wof:lastmodified":1576711829,
     "wof:name":"Galegos-Santa Maria",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683601,
     "wof:placetype":"locality",
     "wof:population":5404,
     "wof:population_rank":5,

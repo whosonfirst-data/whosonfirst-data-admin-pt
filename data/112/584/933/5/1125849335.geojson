@@ -81,6 +81,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682891,
         85633735,
         85687411
     ],
@@ -97,14 +98,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682891,
             "locality_id":1125849335,
             "region_id":85687411
         }
     ],
     "wof:id":1125849335,
-    "wof:lastmodified":1566608784,
+    "wof:lastmodified":1576711832,
     "wof:name":"Arcozelo",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682891,
     "wof:placetype":"locality",
     "wof:population":13495,
     "wof:population_rank":6,

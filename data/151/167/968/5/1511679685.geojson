@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Campolide",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110610"
     },
     "wof:country":"PT",
     "wof:created":1576698180,
-    "wof:geomhash":"e1d602abc53e4b91f5217b37b395b15b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"181093d11cec047ba347d42a827222af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679685,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679685,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698180,
+    "wof:lastmodified":1576712492,
     "wof:name":"Campolide",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -9.18015047083727,
-    38.722301176660686,
+    38.72230117666069,
     -9.15547514153381,
     38.74167018959478
 ],

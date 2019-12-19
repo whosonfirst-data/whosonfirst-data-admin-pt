@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Dois Portos e Runa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"111324"
     },
     "wof:country":"PT",
     "wof:created":1576698247,
-    "wof:geomhash":"001dd52afd360e8d5b09426d80af692b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"259ea144d6c2e5bff7132a535742d601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679945,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679945,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698247,
+    "wof:lastmodified":1576712511,
     "wof:name":"Dois Portos e Runa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.235265467919044,
+    -9.23526546791904,
     39.00406835233853,
     -9.13584588658716,
     39.08473640637663

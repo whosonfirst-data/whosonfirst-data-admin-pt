@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Caldas de Vizela (S\u00e3o Miguel e S\u00e3o Jo\u00e3o)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031408"
     },
     "wof:country":"PT",
     "wof:created":1576699109,
-    "wof:geomhash":"3f388f2a25256b56dc7c6fc2a12ec5a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7764bf1f8d4466495531cf84ab39c18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683873,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683873,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699109,
+    "wof:lastmodified":1576712704,
     "wof:name":"Caldas de Vizela (S\u00e3o Miguel e S\u00e3o Jo\u00e3o)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.328090847618133,
-    41.355222339042015,
+    -8.32809084761813,
+    41.35522233904202,
     -8.28693376102487,
     41.39041750852671
 ],

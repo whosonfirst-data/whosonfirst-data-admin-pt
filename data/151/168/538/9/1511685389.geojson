@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"S\u00e3o Br\u00e1s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420514"
     },
     "wof:country":"PT",
     "wof:created":1576699423,
-    "wof:geomhash":"b8c5f8bf7f97ca1a0f4041696c96fccb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"900cbfdd64bd6b1d1d31abe869ed7d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685389,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685389,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699423,
+    "wof:lastmodified":1576712762,
     "wof:name":"S\u00e3o Br\u00e1s",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.431256862794182,
+    -25.43125686279418,
     37.78095853533889,
     -25.39860462689806,
     37.82764680860932

@@ -51,6 +51,7 @@
     "wd:wordcount":99,
     "wof:belongsto":[
         102191581,
+        1511679509,
         85633735,
         85687363
     ],
@@ -67,6 +68,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679509,
             "locality_id":101779711,
             "region_id":85687363
         }
@@ -75,9 +77,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608454,
+    "wof:lastmodified":1576711777,
     "wof:name":"Monte Trigo",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

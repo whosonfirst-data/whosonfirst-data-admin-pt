@@ -79,6 +79,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683269,
         85633735,
         85687411
     ],
@@ -96,14 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683269,
             "locality_id":1125858045,
             "region_id":85687411
         }
     ],
     "wof:id":1125858045,
-    "wof:lastmodified":1566608763,
+    "wof:lastmodified":1576711834,
     "wof:name":"Castel\u00f5es de Cepeda",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683269,
     "wof:placetype":"locality",
     "wof:population":8322,
     "wof:population_rank":5,

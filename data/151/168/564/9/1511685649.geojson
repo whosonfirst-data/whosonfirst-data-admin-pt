@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Topo (Nossa Senhora do Ros\u00e1rio)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687451
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"450105"
     },
     "wof:country":"PT",
     "wof:created":1576703607,
-    "wof:geomhash":"9ee17ab5adcebc77b46c9bca0ea6ff74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0abb17e998dd6c002bd19fd7ddf9a8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685649,
+            "region_id":85687451
+        }
+    ],
     "wof:id":1511685649,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703607,
+    "wof:lastmodified":1576712799,
     "wof:name":"Topo (Nossa Senhora do Ros\u00e1rio)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687451,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

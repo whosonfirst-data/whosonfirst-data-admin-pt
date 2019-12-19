@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Palha\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"011405"
     },
     "wof:country":"PT",
     "wof:created":1576698698,
-    "wof:geomhash":"81caf83af00c0c458e398630e90de5af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ceebbf9b194a048088be7ff6f2c4dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681947,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511681947,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698698,
+    "wof:lastmodified":1576712632,
     "wof:name":"Palha\u00e7a",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.624201480630834,
+    -8.62420148063083,
     40.50982779186455,
     -8.57865351566656,
     40.54903787332673

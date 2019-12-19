@@ -79,6 +79,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681899,
         85633735,
         85687433
     ],
@@ -92,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681899,
             "locality_id":1260257021,
             "region_id":85687433
         }
     ],
     "wof:id":1260257021,
-    "wof:lastmodified":1566608159,
+    "wof:lastmodified":1576712169,
     "wof:name":"Cabo",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511681899,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

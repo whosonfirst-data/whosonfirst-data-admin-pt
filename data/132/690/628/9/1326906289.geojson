@@ -52,6 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680467,
         85633735,
         85687377
     ],
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680467,
             "locality_id":1326906289,
             "region_id":85687377
         }
     ],
     "wof:id":1326906289,
-    "wof:lastmodified":1566607240,
+    "wof:lastmodified":1576712343,
     "wof:name":"Venda Nova",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680467,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

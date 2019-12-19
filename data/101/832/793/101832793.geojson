@@ -681,6 +681,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511678857,
         85633735,
         85687349
     ],
@@ -697,6 +698,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678857,
             "locality_id":101832793,
             "region_id":85687349
         }
@@ -705,9 +707,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608402,
+    "wof:lastmodified":1576711783,
     "wof:name":"Montenegro",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678857,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

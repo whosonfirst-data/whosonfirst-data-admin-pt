@@ -65,6 +65,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683489,
         85633735,
         85687411
     ],
@@ -81,14 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683489,
             "locality_id":1125827259,
             "region_id":85687411
         }
     ],
     "wof:id":1125827259,
-    "wof:lastmodified":1566608754,
+    "wof:lastmodified":1576711829,
     "wof:name":"S\u00e3o Miguel do Couto",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683489,
     "wof:placetype":"locality",
     "wof:population":5416,
     "wof:population_rank":5,

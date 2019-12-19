@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Pinheiro de Coja e Meda de Mouros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"061619"
     },
     "wof:country":"PT",
     "wof:created":1576698556,
-    "wof:geomhash":"4f19ee8827b0be7706e9a9d91b58ac1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdcf7f09d67256a61b918c750310bf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681243,
+            "region_id":85687391
+        }
+    ],
     "wof:id":1511681243,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698556,
+    "wof:lastmodified":1576712606,
     "wof:name":"Pinheiro de Coja e Meda de Mouros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.03490779550576,
-    40.254920146344254,
+    40.25492014634425,
     -7.96725525223626,
     40.32117884684174
 ],

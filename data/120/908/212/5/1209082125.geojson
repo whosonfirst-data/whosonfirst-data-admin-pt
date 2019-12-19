@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680303,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"0243782b803bfe663b943f34b4cdf16a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209082125
+            "localadmin_id":1511680303,
+            "locality_id":1209082125,
+            "region_id":85687377
         }
     ],
     "wof:id":1209082125,
-    "wof:lastmodified":1566607953,
+    "wof:lastmodified":1576711917,
     "wof:name":"Falagueiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

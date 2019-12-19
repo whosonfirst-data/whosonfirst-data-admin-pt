@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Monchique",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"080903"
     },
     "wof:country":"PT",
     "wof:created":1576698015,
-    "wof:geomhash":"a195f6114bab083703940135f99ddc86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"673079176fc01c674b2db04e4bb5a931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511678975,
+            "region_id":85687349
+        }
+    ],
     "wof:id":1511678975,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698015,
+    "wof:lastmodified":1576712445,
     "wof:name":"Monchique",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.654781927883931,
-    37.246036865587726,
+    -8.65478192788393,
+    37.24603686558773,
     -8.5026401473317,
     37.41198454247907
 ],

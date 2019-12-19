@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Medelim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"050506"
     },
     "wof:country":"PT",
     "wof:created":1576698492,
-    "wof:geomhash":"c333e6d93a81223527934b9c156e7724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41350b1e5da3e92521739b5f40da3b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680935,
+            "region_id":85687385
+        }
+    ],
     "wof:id":1511680935,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698492,
+    "wof:lastmodified":1576712591,
     "wof:name":"Medelim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.218577394433118,
-    40.007151468322675,
+    -7.21857739443312,
+    40.00715146832268,
     -7.14720289274409,
     40.09244339829856
 ],

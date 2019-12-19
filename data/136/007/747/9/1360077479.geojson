@@ -46,6 +46,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680713,
         85633735,
         85687385
     ],
@@ -59,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680713,
             "locality_id":1360077479,
             "region_id":85687385
         }
     ],
     "wof:id":1360077479,
-    "wof:lastmodified":1566608339,
+    "wof:lastmodified":1576712417,
     "wof:name":"Fontainhas",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

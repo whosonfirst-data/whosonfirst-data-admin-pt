@@ -85,6 +85,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681281,
         85633735,
         85687391
     ],
@@ -102,14 +103,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681281,
             "locality_id":1125968723,
             "region_id":85687391
         }
     ],
     "wof:id":1125968723,
-    "wof:lastmodified":1566608709,
+    "wof:lastmodified":1576711863,
     "wof:name":"Outil",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

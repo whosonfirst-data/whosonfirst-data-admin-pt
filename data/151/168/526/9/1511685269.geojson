@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Praia da Vit\u00f3ria (Santa Cruz)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430207"
     },
     "wof:country":"PT",
     "wof:created":1576699395,
-    "wof:geomhash":"98a609d88098f0685c81270bcaf6452c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05aac51fc275cb8cd7fa528b7eae6462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685269,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685269,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699395,
+    "wof:lastmodified":1576712750,
     "wof:name":"Praia da Vit\u00f3ria (Santa Cruz)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
 },
   "bbox": [
     -27.14972616321928,
-    38.690175097194405,
+    38.69017509719441,
     -27.04342994693117,
     38.76559932524221
 ],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Maia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420505"
     },
     "wof:country":"PT",
     "wof:created":1576699428,
-    "wof:geomhash":"a25aee591f5d2f8ee833e8cbaf3b7d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160d365a35f8114c76c2a65bde6d5b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685403,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685403,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699428,
+    "wof:lastmodified":1576712764,
     "wof:name":"Maia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

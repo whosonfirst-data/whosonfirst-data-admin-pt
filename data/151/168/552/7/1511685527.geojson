@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Cani\u00e7o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310803"
     },
     "wof:country":"PT",
     "wof:created":1576699462,
-    "wof:geomhash":"accd5acb766e98c9c7a4f51f21241b9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fadbb03d3bdf440ea95da74dd373d1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685527,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685527,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699462,
+    "wof:lastmodified":1576712780,
     "wof:name":"Cani\u00e7o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

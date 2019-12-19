@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Anha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160904"
     },
     "wof:country":"PT",
     "wof:created":1576698659,
-    "wof:geomhash":"f111a0cd7d849bc16971dfcbd5968dd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88ecf49ce4d1dbfb518f0ac481ecaa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681741,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681741,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698659,
+    "wof:lastmodified":1576712626,
     "wof:name":"Anha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.827362723228472,
+    -8.82736272322847,
     41.64806563458061,
     -8.77411790269572,
     41.67729651722717

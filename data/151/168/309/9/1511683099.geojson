@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Barqueiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170401"
     },
     "wof:country":"PT",
     "wof:created":1576698941,
-    "wof:geomhash":"374b9b0f84d4ea9e423178ea8f62a346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a518be176759fd3b82d4fa91be744f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683099,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511683099,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698941,
+    "wof:lastmodified":1576712674,
     "wof:name":"Barqueiros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.914410539720278,
+    -7.91441053972028,
     41.11872693811725,
     -7.88470415387714,
     41.14726991637346

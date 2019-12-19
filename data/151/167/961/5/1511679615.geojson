@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Caparica e Trafaria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"150313"
     },
     "wof:country":"PT",
     "wof:created":1576698166,
-    "wof:geomhash":"8a18c8a889537010551929cec542f472",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5439e909f00340e37dba8cafa7eefc1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679615,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679615,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698166,
+    "wof:lastmodified":1576712490,
     "wof:name":"Caparica e Trafaria",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.262975324253302,
+    -9.2629753242533,
     38.62856751754746,
     -9.18144325389714,
     38.67888061998166

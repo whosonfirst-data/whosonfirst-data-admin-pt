@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Prova e Castei\u00e7\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"090918"
     },
     "wof:country":"PT",
     "wof:created":1576698651,
-    "wof:geomhash":"e153c09d1ea39ee8f71061a310e50d3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9dc1696ecdcead2750d7c78b5c262a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681701,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511681701,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698651,
+    "wof:lastmodified":1576712624,
     "wof:name":"Prova e Castei\u00e7\u00e3o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.375773681659562,
-    40.866140129959426,
+    -7.37577368165956,
+    40.86614012995943,
     -7.28880290406441,
     40.97686560253591
 ],

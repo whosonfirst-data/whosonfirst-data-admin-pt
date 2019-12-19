@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Pedro de Alva e S\u00e3o Paio de Mondego",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"061314"
     },
     "wof:country":"PT",
     "wof:created":1576698567,
-    "wof:geomhash":"83fd4e86d7366f501c1e4d48809feeff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1c4c7dbbd300f6c1e3c84964fbb6e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681293,
+            "region_id":85687391
+        }
+    ],
     "wof:id":1511681293,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698567,
+    "wof:lastmodified":1576712608,
     "wof:name":"S\u00e3o Pedro de Alva e S\u00e3o Paio de Mondego",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.228529921640371,
-    40.273489765413615,
+    -8.22852992164037,
+    40.27348976541361,
     -8.10824803268886,
     40.34506902790323
 ],

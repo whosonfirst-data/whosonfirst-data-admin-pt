@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Nine",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031227"
     },
     "wof:country":"PT",
     "wof:created":1576699175,
-    "wof:geomhash":"c488fc7d26312838fe05d9144e4339fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85b80af37ba7c64e83e81c249f1e828c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684207,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684207,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699175,
+    "wof:lastmodified":1576712717,
     "wof:name":"Nine",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

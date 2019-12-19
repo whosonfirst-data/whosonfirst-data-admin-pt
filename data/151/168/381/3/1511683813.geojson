@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Fajozes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131607"
     },
     "wof:country":"PT",
     "wof:created":1576699091,
-    "wof:geomhash":"3c23b514ca4ac2349dbf65464009d907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e08f1b92bee09cdce80b17ea1114aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683813,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683813,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699091,
+    "wof:lastmodified":1576712702,
     "wof:name":"Fajozes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.722091372587567,
+    -8.72209137258757,
     41.3065931348786,
     -8.68359896775703,
     41.33640197369775

@@ -58,6 +58,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125382355,
         85633735,
         85687367
     ],
@@ -75,14 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125382355,
             "locality_id":1125893253,
             "region_id":85687367
         }
     ],
     "wof:id":1125893253,
-    "wof:lastmodified":1566608663,
+    "wof:lastmodified":1576711845,
     "wof:name":"Abelheira",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125382355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

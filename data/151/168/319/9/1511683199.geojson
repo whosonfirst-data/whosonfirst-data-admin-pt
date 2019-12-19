@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gandra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131011"
     },
     "wof:country":"PT",
     "wof:created":1576698962,
-    "wof:geomhash":"f54fb5f1648154974d417be28e50dd0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bca0e251fae04c2f45c7e4612f95b0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683199,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683199,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698962,
+    "wof:lastmodified":1576712678,
     "wof:name":"Gandra",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.458393443715279,
+    -8.45839344371528,
     41.17040423711319,
     -8.40417764070224,
     41.21458933588718

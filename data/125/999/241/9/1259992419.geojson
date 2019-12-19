@@ -38,6 +38,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681513,
         85633735,
         85687409
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681513,
             "locality_id":1259992419,
             "region_id":85687409
         }
     ],
     "wof:id":1259992419,
-    "wof:lastmodified":1566608985,
+    "wof:lastmodified":1576712155,
     "wof:name":"Sao Lourenco",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

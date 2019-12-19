@@ -46,6 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680075,
         85633735,
         85687377
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680075,
             "locality_id":1126055865,
             "region_id":85687377
         }
     ],
     "wof:id":1126055865,
-    "wof:lastmodified":1566608624,
+    "wof:lastmodified":1576711893,
     "wof:name":"Arruelas",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680075,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

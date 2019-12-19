@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682817,
         85633735,
         85687397
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682817,
             "locality_id":1125919295,
             "region_id":85687397
         }
     ],
     "wof:id":1125919295,
-    "wof:lastmodified":1566608726,
+    "wof:lastmodified":1576711849,
     "wof:name":"Longroiva",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

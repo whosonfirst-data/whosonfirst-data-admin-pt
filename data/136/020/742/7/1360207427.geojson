@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684731,
         85633735,
         85687415
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684731,
             "locality_id":1360207427,
             "region_id":85687415
         }
     ],
     "wof:id":1360207427,
-    "wof:lastmodified":1566608353,
+    "wof:lastmodified":1576712423,
     "wof:name":"Ervedosa",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684731,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -67,6 +67,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684643,
         85633735,
         85687415
     ],
@@ -81,14 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684643,
             "locality_id":1209948295,
             "region_id":85687415
         }
     ],
     "wof:id":1209948295,
-    "wof:lastmodified":1566608028,
+    "wof:lastmodified":1576711969,
     "wof:name":"Rebordainhos",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

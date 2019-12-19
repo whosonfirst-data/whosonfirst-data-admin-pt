@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gondesende",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040217"
     },
     "wof:country":"PT",
     "wof:created":1576699350,
-    "wof:geomhash":"656ab6b5547899fb56a757fc89972fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd8f6bc224df88c76dda42ec84473512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685049,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511685049,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699350,
+    "wof:lastmodified":1576712740,
     "wof:name":"Gondesende",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.890562031594214,
+    -6.89056203159421,
     41.82605324764606,
     -6.81282455688978,
     41.86472134290766

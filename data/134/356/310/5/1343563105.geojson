@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679059,
         85633735,
         85687355
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679059,
             "locality_id":1343563105,
             "region_id":85687355
         }
     ],
     "wof:id":1343563105,
-    "wof:lastmodified":1566607434,
+    "wof:lastmodified":1576712385,
     "wof:name":"Ribeira do Seissal de Baixo",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

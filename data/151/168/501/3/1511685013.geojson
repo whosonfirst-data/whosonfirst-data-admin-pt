@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Solveira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170631"
     },
     "wof:country":"PT",
     "wof:created":1576699344,
-    "wof:geomhash":"2062e59d04c0a128d38b432b857f5481",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f393ca1587fb9d8c7a4f583e0789c427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685013,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511685013,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699344,
+    "wof:lastmodified":1576712739,
     "wof:name":"Solveira",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.694741360939366,
-    41.818863092879944,
+    -7.69474136093937,
+    41.81886309287994,
     -7.6528620010221,
     41.85915560052495
 ],

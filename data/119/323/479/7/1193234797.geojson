@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681387,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681387,
             "locality_id":1193234797,
             "region_id":85687401
         }
     ],
     "wof:id":1193234797,
-    "wof:lastmodified":1566608104,
+    "wof:lastmodified":1576711908,
     "wof:name":"Ovoa",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681387,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

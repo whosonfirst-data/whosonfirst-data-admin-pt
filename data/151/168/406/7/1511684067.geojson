@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ca\u00e7arilhe e Infesta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030524"
     },
     "wof:country":"PT",
     "wof:created":1576699147,
-    "wof:geomhash":"cd7e343cdfe1a09f1437ea63fd1a4171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eba8fc960b7e39dafff7f99b5c20f294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684067,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684067,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699147,
+    "wof:lastmodified":1576712711,
     "wof:name":"Ca\u00e7arilhe e Infesta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.065771539453957,
-    41.389510550635194,
+    -8.06577153945396,
+    41.38951055063519,
     -8.02548020696703,
     41.43817115909764
 ],

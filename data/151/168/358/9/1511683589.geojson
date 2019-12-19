@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Abade de Neiva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030201"
     },
     "wof:country":"PT",
     "wof:created":1576699041,
-    "wof:geomhash":"367fc6dd8dc9963f8e1f4f361b00fdad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b142a4ede993673e385b635fbf2fa247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683589,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683589,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699041,
+    "wof:lastmodified":1576712695,
     "wof:name":"Abade de Neiva",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.658669995092144,
+    -8.65866999509214,
     41.5369513782777,
     -8.61778817911435,
     41.57156836647402

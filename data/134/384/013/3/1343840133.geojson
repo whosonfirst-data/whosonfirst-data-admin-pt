@@ -46,6 +46,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680001,
         85633735,
         85687373
     ],
@@ -59,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680001,
             "locality_id":1343840133,
             "region_id":85687373
         }
     ],
     "wof:id":1343840133,
-    "wof:lastmodified":1566607376,
+    "wof:lastmodified":1576712398,
     "wof:name":"Reguengo",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511680001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

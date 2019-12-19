@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Arma\u00e7\u00e3o de P\u00eara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"081303"
     },
     "wof:country":"PT",
     "wof:created":1576697984,
-    "wof:geomhash":"df8b8a93b2dfdc8d5a4352427835de58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"776047890340a2e076fab90e8142e73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511678887,
+            "region_id":85687349
+        }
+    ],
     "wof:id":1511678887,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576697984,
+    "wof:lastmodified":1576712433,
     "wof:name":"Arma\u00e7\u00e3o de P\u00eara",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.386491709201044,
+    -8.38649170920104,
     37.09864562678368,
     -8.34277774319953,
     37.1329550325263

@@ -87,6 +87,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679775,
         85633735,
         85687367
     ],
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679775,
             "locality_id":1125798383,
             "region_id":85687367
         }
     ],
     "wof:id":1125798383,
-    "wof:lastmodified":1566608779,
+    "wof:lastmodified":1576711824,
     "wof:name":"Gouveia",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679775,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

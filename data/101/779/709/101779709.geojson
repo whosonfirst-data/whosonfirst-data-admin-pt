@@ -37,6 +37,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679529,
         85633735,
         85687363
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679529,
             "locality_id":101779709,
             "region_id":85687363
         }
     ],
     "wof:id":101779709,
-    "wof:lastmodified":1566608449,
+    "wof:lastmodified":1576711777,
     "wof:name":"S\u00e3o Pedro do Corval",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

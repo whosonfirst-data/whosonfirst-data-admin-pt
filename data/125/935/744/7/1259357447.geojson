@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681865,
         85633735,
         85687433
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681865,
             "locality_id":1259357447,
             "region_id":85687433
         }
     ],
     "wof:id":1259357447,
-    "wof:lastmodified":1566609025,
+    "wof:lastmodified":1576712113,
     "wof:name":"Lara",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511681865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680321,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"69374cadddfb6426d88f4df6ec97749b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209687427
+            "localadmin_id":1511680321,
+            "locality_id":1209687427,
+            "region_id":85687411
         }
     ],
     "wof:id":1209687427,
-    "wof:lastmodified":1566608008,
+    "wof:lastmodified":1576711953,
     "wof:name":"Miguas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

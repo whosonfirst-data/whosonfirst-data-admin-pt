@@ -307,6 +307,7 @@
     "wd:wordcount":1031,
     "wof:belongsto":[
         102191581,
+        1511684705,
         85633735,
         85687433
     ],
@@ -324,6 +325,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684705,
             "locality_id":101831465,
             "region_id":85687433
         }
@@ -332,9 +334,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608506,
+    "wof:lastmodified":1576711782,
     "wof:name":"Viana do Castelo",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684705,
     "wof:placetype":"locality",
     "wof:population":91238,
     "wof:population_rank":8,

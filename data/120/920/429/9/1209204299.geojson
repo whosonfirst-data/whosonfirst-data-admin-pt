@@ -114,7 +114,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511678861,
+        85633735,
+        85687349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,14 +127,17 @@
     "wof:geomhash":"6bc3f6d1c7456b9bcdc88d5af285a0f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209204299
+            "localadmin_id":1511678861,
+            "locality_id":1209204299,
+            "region_id":85687349
         }
     ],
     "wof:id":1209204299,
-    "wof:lastmodified":1566608042,
+    "wof:lastmodified":1576711923,
     "wof:name":"Belmonte",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511678861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

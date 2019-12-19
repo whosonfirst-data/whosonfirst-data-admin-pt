@@ -79,6 +79,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681181,
         85633735,
         85687385
     ],
@@ -92,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681181,
             "locality_id":1259872233,
             "region_id":85687385
         }
     ],
     "wof:id":1259872233,
-    "wof:lastmodified":1566609042,
+    "wof:lastmodified":1576712146,
     "wof:name":"Salgueiro",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511681181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

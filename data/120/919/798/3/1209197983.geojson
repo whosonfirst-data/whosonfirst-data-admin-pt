@@ -81,7 +81,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679947,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +94,17 @@
     "wof:geomhash":"e21a0f0a96d4d5c3b8bab98f275676cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209197983
+            "localadmin_id":1511679947,
+            "locality_id":1209197983,
+            "region_id":85687367
         }
     ],
     "wof:id":1209197983,
-    "wof:lastmodified":1566608063,
+    "wof:lastmodified":1576711923,
     "wof:name":"Ventosa",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

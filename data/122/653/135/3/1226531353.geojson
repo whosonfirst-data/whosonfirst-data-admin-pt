@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685491,
         85633735,
         85687345
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685491,
             "locality_id":1226531353,
             "region_id":85687345
         }
     ],
     "wof:id":1226531353,
-    "wof:lastmodified":1566609203,
+    "wof:lastmodified":1576712023,
     "wof:name":"Ribeira do Raposo",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685491,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

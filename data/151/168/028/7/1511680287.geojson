@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Rio de Moinhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140108"
     },
     "wof:country":"PT",
     "wof:created":1576698336,
-    "wof:geomhash":"53549ac4c15c1cdc27d126e3e1059e24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72a3185c28a1abb0b4af3058a27cc56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680287,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680287,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698336,
+    "wof:lastmodified":1576712538,
     "wof:name":"Rio de Moinhos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.288365795276158,
+    -8.28836579527616,
     39.46210674519135,
     -8.22285373648525,
     39.53462380073518

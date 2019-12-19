@@ -123,7 +123,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681033,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,14 +136,17 @@
     "wof:geomhash":"8631eb5f3b5cfaa39c6ef55f324d5886",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209128285
+            "localadmin_id":1511681033,
+            "locality_id":1209128285,
+            "region_id":85687385
         }
     ],
     "wof:id":1209128285,
-    "wof:lastmodified":1566607981,
+    "wof:lastmodified":1576711920,
     "wof:name":"Rio",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

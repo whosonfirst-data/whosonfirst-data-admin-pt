@@ -35,6 +35,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684369,
         85633735,
         85687419
     ],
@@ -48,14 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684369,
             "locality_id":1276986985,
             "region_id":85687419
         }
     ],
     "wof:id":1276986985,
-    "wof:lastmodified":1566607913,
+    "wof:lastmodified":1576712223,
     "wof:name":"Vilaca",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684369,
     "wof:placetype":"locality",
     "wof:population":1580,
     "wof:population_rank":3,

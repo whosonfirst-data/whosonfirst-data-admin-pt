@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Moita",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"150603"
     },
     "wof:country":"PT",
     "wof:created":1576698165,
-    "wof:geomhash":"de2e4b6d3116550357ab4ae111e3ebc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcd8618920bdcbfe916d739e7dd4f608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679611,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679611,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698165,
+    "wof:lastmodified":1576712489,
     "wof:name":"Moita",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685277,
         85633735,
         85687441
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685277,
             "locality_id":1209784279,
             "region_id":85687441
         }
     ],
     "wof:id":1209784279,
-    "wof:lastmodified":1566607989,
+    "wof:lastmodified":1576711959,
     "wof:name":"Canada do Boqueirao",
-    "wof:parent_id":85687441,
+    "wof:parent_id":1511685277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -131,6 +131,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125363565,
         85633735,
         85687363
     ],
@@ -148,14 +149,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125363565,
             "locality_id":1126018799,
             "region_id":85687363
         }
     ],
     "wof:id":1126018799,
-    "wof:lastmodified":1566608741,
+    "wof:lastmodified":1576711885,
     "wof:name":"Venda Nova",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1125363565,
     "wof:placetype":"locality",
     "wof:population":11248,
     "wof:population_rank":6,

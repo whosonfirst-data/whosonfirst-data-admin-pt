@@ -40,6 +40,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685305,
         85633735,
         85687429
     ],
@@ -54,14 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685305,
             "locality_id":1277032879,
             "region_id":85687429
         }
     ],
     "wof:id":1277032879,
-    "wof:lastmodified":1566607846,
+    "wof:lastmodified":1576712224,
     "wof:name":"Sao Pedro",
-    "wof:parent_id":85687429,
+    "wof:parent_id":1511685305,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

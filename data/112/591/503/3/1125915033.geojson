@@ -114,6 +114,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680705,
         85633735,
         85687381
     ],
@@ -130,14 +131,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680705,
             "locality_id":1125915033,
             "region_id":85687381
         }
     ],
     "wof:id":1125915033,
-    "wof:lastmodified":1566608721,
+    "wof:lastmodified":1576711848,
     "wof:name":"Amor",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680705,
     "wof:placetype":"locality",
     "wof:population":4870,
     "wof:population_rank":4,

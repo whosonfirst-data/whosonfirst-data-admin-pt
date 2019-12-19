@@ -70,6 +70,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682361,
         85633735,
         85687419
     ],
@@ -86,14 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682361,
             "locality_id":1125952645,
             "region_id":85687419
         }
     ],
     "wof:id":1125952645,
-    "wof:lastmodified":1566608613,
+    "wof:lastmodified":1576711855,
     "wof:name":"Fragoso",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511682361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -74,6 +74,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680839,
         85633735,
         85687385
     ],
@@ -91,14 +92,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680839,
             "locality_id":1125936077,
             "region_id":85687385
         }
     ],
     "wof:id":1125936077,
-    "wof:lastmodified":1566608600,
+    "wof:lastmodified":1576711852,
     "wof:name":"P\u00f3voa de Rio de Moinhos",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679373,
         85633735,
         85687359
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679373,
             "locality_id":1126046623,
             "region_id":85687359
         }
     ],
     "wof:id":1126046623,
-    "wof:lastmodified":1566608632,
+    "wof:lastmodified":1576711891,
     "wof:name":"Sonega",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

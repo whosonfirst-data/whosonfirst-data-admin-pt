@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Portela e Extremo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160160"
     },
     "wof:country":"PT",
     "wof:created":1576698104,
-    "wof:geomhash":"259c7eade1b8bcd10535115121f68b85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"243ad84e2bf46f303fcb9292a97d8426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679351,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511679351,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698104,
+    "wof:lastmodified":1576712473,
     "wof:name":"Portela e Extremo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.494450686076771,
-    41.934398693839704,
+    -8.49445068607677,
+    41.9343986938397,
     -8.43864848594369,
     41.97369308428524
 ],

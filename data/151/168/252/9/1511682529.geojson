@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Alverca da Beira/Bou\u00e7a Cova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"091029"
     },
     "wof:country":"PT",
     "wof:created":1576698822,
-    "wof:geomhash":"7f3354fd1ae2a506831d8212953053d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c08eb7fc358301da5c205f71a63cbecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682529,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511682529,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698822,
+    "wof:lastmodified":1576712652,
     "wof:name":"Alverca da Beira/Bou\u00e7a Cova",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -7.26244425547741,
-    40.676042212886685,
+    40.67604221288668,
     -7.19559545684983,
     40.73324461669853
 ],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ponta Delgada (S\u00e3o Jos\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420313"
     },
     "wof:country":"PT",
     "wof:created":1576699406,
-    "wof:geomhash":"86a3f738322e9c1eb294ea495157f3d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c96670774f30de94dd79ecf6a964f53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685319,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685319,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699406,
+    "wof:lastmodified":1576712755,
     "wof:name":"Ponta Delgada (S\u00e3o Jos\u00e9)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.686556571510042,
-    37.733859504412564,
+    -25.68655657151004,
+    37.73385950441256,
     -25.65610212628652,
     37.75361614556374
 ],

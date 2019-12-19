@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Faial",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310902"
     },
     "wof:country":"PT",
     "wof:created":1576699480,
-    "wof:geomhash":"578b9e29a6aad06211597e31f1d33e11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b99f8931fe6c9cb7f6b53731524c72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685571,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685571,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699480,
+    "wof:lastmodified":1576712791,
     "wof:name":"Faial",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

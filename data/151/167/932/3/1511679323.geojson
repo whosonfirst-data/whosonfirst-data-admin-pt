@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Loivo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"161007"
     },
     "wof:country":"PT",
     "wof:created":1576698099,
-    "wof:geomhash":"0881f9e67062c2a422c9700f79263ef4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69852c65abde79332f3c10b9362ee143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679323,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511679323,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698099,
+    "wof:lastmodified":1576712472,
     "wof:name":"Loivo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.761573391836194,
-    41.920521191088774,
+    -8.76157339183619,
+    41.92052119108877,
     -8.70738956525478,
     41.93534359843956
 ],

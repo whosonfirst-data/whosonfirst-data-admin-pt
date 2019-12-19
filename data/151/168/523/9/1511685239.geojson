@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Terra Ch\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687441
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"430118"
     },
     "wof:country":"PT",
     "wof:created":1576699389,
-    "wof:geomhash":"1de0452477d4450f6e83efedbe8b7622",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1404f993d3bfbf98fe2aa0ddb38f0110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685239,
+            "region_id":85687441
+        }
+    ],
     "wof:id":1511685239,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699389,
+    "wof:lastmodified":1576712749,
     "wof:name":"Terra Ch\u00e3",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687441,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -27.274288298415325,
+    -27.27428829841532,
     38.66582338801922,
     -27.22918059847711,
     38.71249532201393

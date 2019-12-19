@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Bemposta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140104"
     },
     "wof:country":"PT",
     "wof:created":1576698303,
-    "wof:geomhash":"4fb33788b26fd27837e3a209e0cee9e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f42f747b42cf3cc6bafdf4bbd8aeb6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680143,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680143,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698303,
+    "wof:lastmodified":1576712527,
     "wof:name":"Bemposta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

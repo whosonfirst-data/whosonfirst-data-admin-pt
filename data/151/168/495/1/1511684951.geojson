@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Calheiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160713"
     },
     "wof:country":"PT",
     "wof:created":1576699333,
-    "wof:geomhash":"4f371c140eeb9da69f21888d20105282",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dba7d6e7df183c105846107c54070f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684951,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511684951,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699333,
+    "wof:lastmodified":1576712737,
     "wof:name":"Calheiros",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.599112954043266,
+    -8.59911295404327,
     41.79602272537167,
     -8.53755643176196,
     41.83192117640964

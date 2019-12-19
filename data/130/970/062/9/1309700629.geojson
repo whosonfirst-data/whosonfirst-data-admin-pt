@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682473,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682473,
             "locality_id":1309700629,
             "region_id":85687397
         }
     ],
     "wof:id":1309700629,
-    "wof:lastmodified":1566608550,
+    "wof:lastmodified":1576712279,
     "wof:name":"Forno Telheiro",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

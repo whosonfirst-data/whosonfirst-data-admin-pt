@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Merelim (S\u00e3o Pedro) e Frossos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030375"
     },
     "wof:country":"PT",
     "wof:created":1576699057,
-    "wof:geomhash":"544159d93f0637f39340711cd6d5d62c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc44233f1bac3865d391bcb2273f705f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683643,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683643,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699057,
+    "wof:lastmodified":1576712696,
     "wof:name":"Merelim (S\u00e3o Pedro) e Frossos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.465611975418446,
+    -8.46561197541845,
     41.55855319679939,
     -8.44308990692572,
     41.58521616514711

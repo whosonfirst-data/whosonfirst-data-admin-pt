@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679543,
+        85633735,
+        85687359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"70650150111e89e0556b97c6da9e9555",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209404473
+            "localadmin_id":1511679543,
+            "locality_id":1209404473,
+            "region_id":85687359
         }
     ],
     "wof:id":1209404473,
-    "wof:lastmodified":1566607984,
+    "wof:lastmodified":1576711937,
     "wof:name":"Cachopos",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

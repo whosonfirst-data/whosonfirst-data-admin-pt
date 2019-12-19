@@ -44,6 +44,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685269,
         85633735,
         85687441
     ],
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685269,
             "locality_id":1209771843,
             "region_id":85687441
         }
     ],
     "wof:id":1209771843,
-    "wof:lastmodified":1566607974,
+    "wof:lastmodified":1576711957,
     "wof:name":"Praia da Vitoria",
-    "wof:parent_id":85687441,
+    "wof:parent_id":1511685269,
     "wof:placetype":"locality",
     "wof:population":6061,
     "wof:population_rank":5,

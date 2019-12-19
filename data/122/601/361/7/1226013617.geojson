@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682515,
         85633735,
         85687401
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682515,
             "locality_id":1226013617,
             "region_id":85687401
         }
     ],
     "wof:id":1226013617,
-    "wof:lastmodified":1566609198,
+    "wof:lastmodified":1576711990,
     "wof:name":"Carvalhal",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

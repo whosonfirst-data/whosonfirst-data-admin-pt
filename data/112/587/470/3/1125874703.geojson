@@ -107,6 +107,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679755,
         85633735,
         85687367
     ],
@@ -123,14 +124,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679755,
             "locality_id":1125874703,
             "region_id":85687367
         }
     ],
     "wof:id":1125874703,
-    "wof:lastmodified":1566608671,
+    "wof:lastmodified":1576711841,
     "wof:name":"Tala",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

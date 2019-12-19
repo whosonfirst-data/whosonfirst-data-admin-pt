@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125392667,
         85633735,
         85687367
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125392667,
             "locality_id":1293373523,
             "region_id":85687367
         }
     ],
     "wof:id":1293373523,
-    "wof:lastmodified":1566607611,
+    "wof:lastmodified":1576712250,
     "wof:name":"Fontelas",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125392667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

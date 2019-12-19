@@ -813,7 +813,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682281,
+        85633735,
+        85687423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -823,14 +826,17 @@
     "wof:geomhash":"10766f9cc7937f18bf19eaa69d1c373f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209188287
+            "localadmin_id":1511682281,
+            "locality_id":1209188287,
+            "region_id":85687423
         }
     ],
     "wof:id":1209188287,
-    "wof:lastmodified":1566608048,
+    "wof:lastmodified":1576711922,
     "wof:name":"France",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

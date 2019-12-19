@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Infias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031404"
     },
     "wof:country":"PT",
     "wof:created":1576699122,
-    "wof:geomhash":"32fd8fda172edcd4758d60e4566f2dc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea34bfecd64b2a9a067ca2b01013e93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683937,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683937,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699122,
+    "wof:lastmodified":1576712707,
     "wof:name":"Infias",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.326515384287127,
+    -8.32651538428713,
     41.38794260946485,
     -8.29420382263887,
     41.40578455413843

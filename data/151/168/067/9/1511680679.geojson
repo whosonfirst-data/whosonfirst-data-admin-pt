@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Espite",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"142105"
     },
     "wof:country":"PT",
     "wof:created":1576698428,
-    "wof:geomhash":"e4bf60a76e176eea8ae54792143ecae8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a8540926362dd1a66e07468d57eccbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680679,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680679,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698428,
+    "wof:lastmodified":1576712568,
     "wof:name":"Espite",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.671967057473259,
+    -8.67196705747326,
     39.74202126580946,
     -8.60271079206667,
     39.79002211272631

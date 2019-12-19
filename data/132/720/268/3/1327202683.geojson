@@ -49,6 +49,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685607,
         85633735,
         85687459
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685607,
             "locality_id":1327202683,
             "region_id":85687459
         }
     ],
     "wof:id":1327202683,
-    "wof:lastmodified":1566607302,
+    "wof:lastmodified":1576712355,
     "wof:name":"Dores",
-    "wof:parent_id":85687459,
+    "wof:parent_id":1511685607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

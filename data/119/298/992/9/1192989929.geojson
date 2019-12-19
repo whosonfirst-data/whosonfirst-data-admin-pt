@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680335,
         85633735,
         85687411
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680335,
             "locality_id":1192989929,
             "region_id":85687411
         }
     ],
     "wof:id":1192989929,
-    "wof:lastmodified":1566608124,
+    "wof:lastmodified":1576711898,
     "wof:name":"Pereiras",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511680335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

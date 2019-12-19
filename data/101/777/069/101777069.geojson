@@ -124,6 +124,7 @@
     "wd:wordcount":284,
     "wof:belongsto":[
         102191581,
+        1125270237,
         85633735,
         85687373
     ],
@@ -140,14 +141,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270237,
             "locality_id":101777069,
             "region_id":85687373
         }
     ],
     "wof:id":101777069,
-    "wof:lastmodified":1566608447,
+    "wof:lastmodified":1576711769,
     "wof:name":"Avis",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1125270237,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

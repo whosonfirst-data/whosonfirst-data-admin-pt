@@ -83,6 +83,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683747,
         85633735,
         85687411
     ],
@@ -100,14 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683747,
             "locality_id":1125902255,
             "region_id":85687411
         }
     ],
     "wof:id":1125902255,
-    "wof:lastmodified":1566608697,
+    "wof:lastmodified":1576711846,
     "wof:name":"Lamelas",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683747,
     "wof:placetype":"locality",
     "wof:population":953,
     "wof:population_rank":2,

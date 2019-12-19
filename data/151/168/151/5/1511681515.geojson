@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Arcos e Mogofores",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"010317"
     },
     "wof:country":"PT",
     "wof:created":1576698612,
-    "wof:geomhash":"5865c4457a24b112d4fa14433779694c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4b63de4833b70a48e88f320de677bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681515,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511681515,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698612,
+    "wof:lastmodified":1576712616,
     "wof:name":"Arcos e Mogofores",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.476104986459392,
-    40.430466823792386,
+    -8.47610498645939,
+    40.43046682379239,
     -8.41451376282695,
     40.46959186621862
 ],

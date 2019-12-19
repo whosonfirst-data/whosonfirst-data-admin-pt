@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Rabal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"040234"
     },
     "wof:country":"PT",
     "wof:created":1576698091,
-    "wof:geomhash":"ea64027856622c9e60b0a894e707a4ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e87090282c1ec1371bdbd6ea1adaa8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679281,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511679281,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698091,
+    "wof:lastmodified":1576712471,
     "wof:name":"Rabal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.791388218806851,
+    -6.79138821880685,
     41.85537813943897,
     -6.71474767922796,
     41.90980530473459

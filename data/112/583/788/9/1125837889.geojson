@@ -137,6 +137,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684727,
         85633735,
         85687419
     ],
@@ -153,14 +154,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684727,
             "locality_id":1125837889,
             "region_id":85687419
         }
     ],
     "wof:id":1125837889,
-    "wof:lastmodified":1566608791,
+    "wof:lastmodified":1576711830,
     "wof:name":"Antas",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684727,
     "wof:placetype":"locality",
     "wof:population":5569,
     "wof:population_rank":5,

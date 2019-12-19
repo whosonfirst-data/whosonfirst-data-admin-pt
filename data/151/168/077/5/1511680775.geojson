@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Troviscal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"050913"
     },
     "wof:country":"PT",
     "wof:created":1576698453,
-    "wof:geomhash":"a078f07c025ee345291c00ced48f2d43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c26f25f9081f7ac7c9e1dcd8f1a85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680775,
+            "region_id":85687385
+        }
+    ],
     "wof:id":1511680775,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698453,
+    "wof:lastmodified":1576712576,
     "wof:name":"Troviscal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.09707642923611,
-    39.834834398187354,
+    39.83483439818735,
     -7.91585762444741,
     39.90951711556177
 ],

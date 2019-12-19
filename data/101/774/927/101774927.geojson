@@ -120,6 +120,7 @@
     "wd:wordcount":136,
     "wof:belongsto":[
         102191581,
+        1511682835,
         85633735,
         85687401
     ],
@@ -137,6 +138,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682835,
             "locality_id":101774927,
             "region_id":85687401
         }
@@ -145,9 +147,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608530,
+    "wof:lastmodified":1576711759,
     "wof:name":"Tarouca",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

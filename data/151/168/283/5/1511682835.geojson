@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Tarouca e D\u00e1lvares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"182013"
     },
     "wof:country":"PT",
     "wof:created":1576698886,
-    "wof:geomhash":"4daffe0b4cf93aaf25ea3b8796f549ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6caad9da4b4c9ac49ab67682b399077a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682835,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682835,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698886,
+    "wof:lastmodified":1576712664,
     "wof:name":"Tarouca e D\u00e1lvares",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.830320128823809,
+    -7.83032012882381,
     40.97749251282109,
     -7.7493532391813,
     41.04839627092509

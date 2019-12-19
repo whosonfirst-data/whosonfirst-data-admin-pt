@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679337,
+        85633735,
+        85687415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"0099ba336928e825e88c67b22d2fbd5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209110869
+            "localadmin_id":1511679337,
+            "locality_id":1209110869,
+            "region_id":85687415
         }
     ],
     "wof:id":1209110869,
-    "wof:lastmodified":1566608037,
+    "wof:lastmodified":1576711919,
     "wof:name":"Penso",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

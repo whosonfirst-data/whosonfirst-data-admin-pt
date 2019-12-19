@@ -74,6 +74,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511678859,
         85633735,
         85687349
     ],
@@ -91,14 +92,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678859,
             "locality_id":1125912013,
             "region_id":85687349
         }
     ],
     "wof:id":1125912013,
-    "wof:lastmodified":1566608726,
+    "wof:lastmodified":1576711848,
     "wof:name":"Olhos de \u00c1gua",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

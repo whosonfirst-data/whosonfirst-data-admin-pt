@@ -40,6 +40,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680009,
         85633735,
         85687377
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680009,
             "locality_id":1259458651,
             "region_id":85687377
         }
     ],
     "wof:id":1259458651,
-    "wof:lastmodified":1566609054,
+    "wof:lastmodified":1576712120,
     "wof:name":"Bemfica",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680009,
     "wof:placetype":"locality",
     "wof:population":3067,
     "wof:population_rank":4,

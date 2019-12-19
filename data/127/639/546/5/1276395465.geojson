@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681667,
         85633735,
         85687401
     ],
@@ -69,14 +70,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681667,
             "locality_id":1276395465,
             "region_id":85687401
         }
     ],
     "wof:id":1276395465,
-    "wof:lastmodified":1566607903,
+    "wof:lastmodified":1576712191,
     "wof:name":"Rua",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681667,
     "wof:placetype":"locality",
     "wof:population":601,
     "wof:population_rank":2,

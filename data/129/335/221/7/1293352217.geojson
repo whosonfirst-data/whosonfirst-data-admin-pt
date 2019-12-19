@@ -49,6 +49,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684745,
         85633735,
         85687433
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684745,
             "locality_id":1293352217,
             "region_id":85687433
         }
     ],
     "wof:id":1293352217,
-    "wof:lastmodified":1566607673,
+    "wof:lastmodified":1576712248,
     "wof:name":"Gandara",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

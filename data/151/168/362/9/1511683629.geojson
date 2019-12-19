@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Palmeira de Faro e Curvos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030620"
     },
     "wof:country":"PT",
     "wof:created":1576699049,
-    "wof:geomhash":"c954d5354bb4df2210479295add70a7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5c18dfdbd681c6c76ae5759fc0f7b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683629,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683629,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699049,
+    "wof:lastmodified":1576712696,
     "wof:name":"Palmeira de Faro e Curvos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.757550850357765,
+    -8.75755085035776,
     41.52425638684339,
     -8.72278867054674,
     41.57967659898437

@@ -39,6 +39,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679587,
         85633735,
         85687363
     ],
@@ -55,6 +56,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679587,
             "locality_id":101778189,
             "region_id":85687363
         }
@@ -63,9 +65,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608414,
+    "wof:lastmodified":1576711772,
     "wof:name":"Canaviais",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679587,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

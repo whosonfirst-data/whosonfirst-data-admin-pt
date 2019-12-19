@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1125270143,
+        85633735,
+        85687349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"97fc92bf57ab0826a2d15392feb10f3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209399227
+            "localadmin_id":1125270143,
+            "locality_id":1209399227,
+            "region_id":85687349
         }
     ],
     "wof:id":1209399227,
-    "wof:lastmodified":1566607944,
+    "wof:lastmodified":1576711937,
     "wof:name":"Poco Fundo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1125270143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

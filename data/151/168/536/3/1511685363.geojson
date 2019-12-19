@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Santa B\u00e1rbara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420513"
     },
     "wof:country":"PT",
     "wof:created":1576699417,
-    "wof:geomhash":"a8405f3593ec8e4a1d59906ef2480f23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"449d351594528e3dbf82ea92112ed22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685363,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685363,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699417,
+    "wof:lastmodified":1576712759,
     "wof:name":"Santa B\u00e1rbara",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
 },
   "bbox": [
     -25.57754487831996,
-    37.764493991338256,
+    37.76449399133826,
     -25.50478185140617,
     37.80839171070909
 ],

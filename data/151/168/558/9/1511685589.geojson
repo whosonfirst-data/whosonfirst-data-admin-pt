@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Estreito de C\u00e2mara de Lobos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310203"
     },
     "wof:country":"PT",
     "wof:created":1576699485,
-    "wof:geomhash":"7ce4b2f60740cbcff75c886af9901711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e8681f447a19ec8e6d18829dec9a4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685589,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685589,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699485,
+    "wof:lastmodified":1576712794,
     "wof:name":"Estreito de C\u00e2mara de Lobos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.999268060293115,
+    -16.99926806029312,
     32.66199725467421,
     -16.95764926308875,
     32.69631006635235

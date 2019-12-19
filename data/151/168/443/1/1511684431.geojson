@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Souto Santa Maria, Souto S\u00e3o Salvador e Gondomar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030890"
     },
     "wof:country":"PT",
     "wof:created":1576699225,
-    "wof:geomhash":"4fc0f047c40239ba04efeeceb24802cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3195c23d058c771655a6f8179ee9ddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684431,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684431,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699225,
+    "wof:lastmodified":1576712723,
     "wof:name":"Souto Santa Maria, Souto S\u00e3o Salvador e Gondomar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.319691915923427,
+    -8.31969191592343,
     41.48729576666684,
     -8.25467942207923,
     41.54123160473304

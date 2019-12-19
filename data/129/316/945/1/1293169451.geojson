@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685647,
         85633735,
         85687455
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685647,
             "locality_id":1293169451,
             "region_id":85687455
         }
     ],
     "wof:id":1293169451,
-    "wof:lastmodified":1566607714,
+    "wof:lastmodified":1576712240,
     "wof:name":"Poceirao",
-    "wof:parent_id":85687455,
+    "wof:parent_id":1511685647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

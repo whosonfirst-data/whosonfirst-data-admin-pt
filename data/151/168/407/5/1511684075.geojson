@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Urgezes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030871"
     },
     "wof:country":"PT",
     "wof:created":1576699149,
-    "wof:geomhash":"c6ca76697307b4e02eedce76b908dda7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f45862bf19fec27d1f42669be0ea416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684075,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684075,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699149,
+    "wof:lastmodified":1576712711,
     "wof:name":"Urgezes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.305471932188427,
+    -8.30547193218843,
     41.41994552431552,
     -8.27745499419879,
     41.44076426650928

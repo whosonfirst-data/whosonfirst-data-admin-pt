@@ -188,6 +188,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680263,
         85633735,
         85687377
     ],
@@ -204,14 +205,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680263,
             "locality_id":1125892893,
             "region_id":85687377
         }
     ],
     "wof:id":1125892893,
-    "wof:lastmodified":1566608661,
+    "wof:lastmodified":1576711844,
     "wof:name":"Monsanto",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680263,
     "wof:placetype":"locality",
     "wof:population":50000,
     "wof:population_rank":8,

@@ -39,6 +39,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679675,
         85633735,
         85687359
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679675,
             "locality_id":101845387,
             "region_id":85687359
         }
     ],
     "wof:id":101845387,
-    "wof:lastmodified":1566608390,
+    "wof:lastmodified":1576711788,
     "wof:name":"Lagame\u00e7as",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Campo e Campinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"071106"
     },
     "wof:country":"PT",
     "wof:created":1576698140,
-    "wof:geomhash":"a05b97cae0eb21a8af233ce1332ff994",
-    "wof:hierarchy":[],
+    "wof:geomhash":"544e658b8c1fbaebb296558a9ce47a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679503,
+            "region_id":85687363
+        }
+    ],
     "wof:id":1511679503,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698140,
+    "wof:lastmodified":1576712482,
     "wof:name":"Campo e Campinho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.567499595007535,
+    -7.56749959500754,
     38.22736509948245,
     -7.37683408112304,
     38.40312073452427

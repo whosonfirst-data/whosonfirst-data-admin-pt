@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681819,
         85633735,
         85687415
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681819,
             "locality_id":1125765411,
             "region_id":85687415
         }
     ],
     "wof:id":1125765411,
-    "wof:lastmodified":1566608762,
+    "wof:lastmodified":1576711815,
     "wof:name":"Vilaninho",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511681819,
     "wof:placetype":"locality",
     "wof:population":30,
     "wof:population_rank":1,

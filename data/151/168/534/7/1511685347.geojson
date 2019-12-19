@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ponta Gar\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420602"
     },
     "wof:country":"PT",
     "wof:created":1576699413,
-    "wof:geomhash":"f8c14789582aefdf7f8481fec8fde842",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc5761fe1b340b59056d8a38431ee947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685347,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685347,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699413,
+    "wof:lastmodified":1576712757,
     "wof:name":"Ponta Gar\u00e7a",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.410461784859823,
+    -25.41046178485982,
     37.71322275983129,
     -25.33537675395695,
     37.78140580526996

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Bouro (Santa Maria)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030119"
     },
     "wof:country":"PT",
     "wof:created":1576698662,
-    "wof:geomhash":"a0a9938edf7f673c356fade14c2ff79d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0376b66868157b25fe496b709d362e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681761,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511681761,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698662,
+    "wof:lastmodified":1576712626,
     "wof:name":"Bouro (Santa Maria)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.281398670482007,
-    41.650968412922865,
+    -8.28139867048201,
+    41.65096841292286,
     -8.24195287140733,
     41.68374217846653
 ],

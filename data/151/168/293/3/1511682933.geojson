@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Paredes da Beira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"181505"
     },
     "wof:country":"PT",
     "wof:created":1576698906,
-    "wof:geomhash":"cc6354b700b21d5dfe99e791b4f6251f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82e513dc8f5fc58fbb95fecadfcc74e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682933,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511682933,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698906,
+    "wof:lastmodified":1576712668,
     "wof:name":"Paredes da Beira",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.512741092077673,
-    41.040360172025935,
+    -7.51274109207767,
+    41.04036017202593,
     -7.4367736883208,
     41.08266051288557
 ],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gave",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160308"
     },
     "wof:country":"PT",
     "wof:created":1576698682,
-    "wof:geomhash":"0484954231f65ab5fa079e80952a3753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7179fef7ff05ed3610dcff4d5bcfc1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681867,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681867,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698682,
+    "wof:lastmodified":1576712629,
     "wof:name":"Gave",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.317002999291752,
+    -8.31700299929175,
     41.97275055141668,
     -8.26204526833247,
     42.05349323235546

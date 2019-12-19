@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Quinta do Conde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"151103"
     },
     "wof:country":"PT",
     "wof:created":1576698151,
-    "wof:geomhash":"2f63c1ebcc3d483ae765659b03df9751",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2f9ef9b651b6f8602bf70ba261eb8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679553,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679553,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698151,
+    "wof:lastmodified":1576712486,
     "wof:name":"Quinta do Conde",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.100827890128798,
-    38.533133875267566,
+    -9.1008278901288,
+    38.53313387526757,
     -9.03162427459373,
     38.58331896888761
 ],

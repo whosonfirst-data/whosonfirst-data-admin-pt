@@ -40,6 +40,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679279,
         85633735,
         85687433
     ],
@@ -54,14 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679279,
             "locality_id":1259744951,
             "region_id":85687433
         }
     ],
     "wof:id":1259744951,
-    "wof:lastmodified":1566609048,
+    "wof:lastmodified":1576712136,
     "wof:name":"Cristelo",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

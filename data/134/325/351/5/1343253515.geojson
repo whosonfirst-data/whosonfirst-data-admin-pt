@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681155,
         85633735,
         85687391
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681155,
             "locality_id":1343253515,
             "region_id":85687391
         }
     ],
     "wof:id":1343253515,
-    "wof:lastmodified":1566607397,
+    "wof:lastmodified":1576712369,
     "wof:name":"Moura",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

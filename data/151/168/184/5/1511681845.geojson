@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Pias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160420"
     },
     "wof:country":"PT",
     "wof:created":1576698678,
-    "wof:geomhash":"acd99165ab4760c87c3315118921cee0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4415cf4fefc3cbe0c94116189e7bcb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681845,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681845,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698678,
+    "wof:lastmodified":1576712629,
     "wof:name":"Pias",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.535260039120063,
+    -8.53526003912006,
     41.9891246453145,
     -8.49347653788965,
     42.03701216527786

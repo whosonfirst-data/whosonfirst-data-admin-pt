@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Gafanha da Nazar\u00e9",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"011006"
     },
     "wof:country":"PT",
     "wof:created":1576698770,
-    "wof:geomhash":"7b4105e72bc5a16088ad12661491f4c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d16a0c7622f6ed080b7f41a640f70df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682295,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511682295,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698770,
+    "wof:lastmodified":1576712643,
     "wof:name":"Gafanha da Nazar\u00e9",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.758220899315491,
+    -8.75822089931549,
     40.62020954202776,
     -8.68313507834806,
     40.65985505580711

@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680965,
+        85633735,
+        85687391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"d654518d3290f4dbdaee04ef1de8f76a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209636593
+            "localadmin_id":1511680965,
+            "locality_id":1209636593,
+            "region_id":85687391
         }
     ],
     "wof:id":1209636593,
-    "wof:lastmodified":1566607959,
+    "wof:lastmodified":1576711951,
     "wof:name":"Signo Samo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Valtorno e Mour\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"041022"
     },
     "wof:country":"PT",
     "wof:created":1576699005,
-    "wof:geomhash":"55eddaf397d6ad057c4a293270c142a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93b08e3dd2f0dc849be266a939151383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683411,
+            "region_id":85687415
+        }
+    ],
     "wof:id":1511683411,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699005,
+    "wof:lastmodified":1576712688,
     "wof:name":"Valtorno e Mour\u00e3o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.242788227869781,
+    -7.24278822786978,
     41.22791550801449,
     -7.1754378071051,
     41.27508155597587

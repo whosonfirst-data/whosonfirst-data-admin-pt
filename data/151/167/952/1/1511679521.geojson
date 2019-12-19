@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Alc\u00e1\u00e7ovas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"071301"
     },
     "wof:country":"PT",
     "wof:created":1576698144,
-    "wof:geomhash":"0325bdf99a2c0b9d5f81fdfd0aa78ee7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbd2580a09d833154e0664d473e2283a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679521,
+            "region_id":85687363
+        }
+    ],
     "wof:id":1511679521,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698144,
+    "wof:lastmodified":1576712484,
     "wof:name":"Alc\u00e1\u00e7ovas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -50,7 +61,7 @@
 },
   "bbox": [
     -8.32257078547732,
-    38.312810227148674,
+    38.31281022714867,
     -8.05836374153293,
     38.48174317671201
 ],

@@ -41,6 +41,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679773,
         85633735,
         85687367
     ],
@@ -59,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679773,
             "locality_id":101759143,
             "region_id":85687367
         }
     ],
     "wof:id":101759143,
-    "wof:lastmodified":1566608474,
+    "wof:lastmodified":1576711754,
     "wof:name":"Fetais",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

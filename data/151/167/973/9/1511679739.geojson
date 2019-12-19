@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sacav\u00e9m e Prior Velho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110727"
     },
     "wof:country":"PT",
     "wof:created":1576698191,
-    "wof:geomhash":"26ce53e2fb8d480bbb8e6a04cdf8335e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b67d150f093aada0236513db1e49e291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679739,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679739,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698191,
+    "wof:lastmodified":1576712494,
     "wof:name":"Sacav\u00e9m e Prior Velho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.131683626969256,
+    -9.13168362696926,
     38.78278205063665,
     -9.09936710064902,
     38.80605875400752

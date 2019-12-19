@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santiago da Ribeira de Alhariz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"171221"
     },
     "wof:country":"PT",
     "wof:created":1576698756,
-    "wof:geomhash":"813f06e2da71cea3213b62505d88e9b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ed63c44cec273af37d96222abe23d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682223,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511682223,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698756,
+    "wof:lastmodified":1576712641,
     "wof:name":"Santiago da Ribeira de Alhariz",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.453871315510114,
+    -7.45387131551011,
     41.60109906995488,
     -7.36271036745902,
     41.64827451831027

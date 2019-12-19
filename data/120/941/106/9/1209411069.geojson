@@ -111,7 +111,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511678953,
+        85633735,
+        85687349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,14 +124,17 @@
     "wof:geomhash":"8255701ec4d6e5aa9fc7dc431e504c49",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209411069
+            "localadmin_id":1511678953,
+            "locality_id":1209411069,
+            "region_id":85687349
         }
     ],
     "wof:id":1209411069,
-    "wof:lastmodified":1566607981,
+    "wof:lastmodified":1576711938,
     "wof:name":"Foz",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511678953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

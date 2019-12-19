@@ -73,6 +73,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685483,
         85633735,
         85687345
     ],
@@ -89,14 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685483,
             "locality_id":1125805169,
             "region_id":85687345
         }
     ],
     "wof:id":1125805169,
-    "wof:lastmodified":1566608667,
+    "wof:lastmodified":1576711825,
     "wof:name":"Prazeres",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685483,
     "wof:placetype":"locality",
     "wof:population":672,
     "wof:population_rank":2,

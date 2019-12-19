@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Verdoejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160816"
     },
     "wof:country":"PT",
     "wof:created":1576698684,
-    "wof:geomhash":"6e8e947b61661a3084489c3ae4520fa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18c1101c2c58b0652e1987c0f0868607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681873,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681873,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698684,
+    "wof:lastmodified":1576712629,
     "wof:name":"Verdoejo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.606237278842789,
+    -8.60623727884279,
     42.03297986425687,
     -8.57704430884663,
     42.05687232611901

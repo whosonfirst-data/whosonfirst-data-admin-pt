@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Caba\u00e7os e Fojo Lobal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160756"
     },
     "wof:country":"PT",
     "wof:created":1576699273,
-    "wof:geomhash":"05734f14b129deac03eface52fb3a058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d775296d27481c5a51bf2e8a9e84d010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684655,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511684655,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699273,
+    "wof:lastmodified":1576712730,
     "wof:name":"Caba\u00e7os e Fojo Lobal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.598676020884547,
+    -8.59867602088455,
     41.6783738218316,
     -8.54531654223787,
     41.70915913994633

@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679383,
         85633735,
         85687359
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679383,
             "locality_id":1259546017,
             "region_id":85687359
         }
     ],
     "wof:id":1259546017,
-    "wof:lastmodified":1566608969,
+    "wof:lastmodified":1576712124,
     "wof:name":"Monte Alto",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

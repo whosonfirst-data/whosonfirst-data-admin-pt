@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Rabo de Peixe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420508"
     },
     "wof:country":"PT",
     "wof:created":1576699420,
-    "wof:geomhash":"1cf4caa1de8343f8dda03d57e5d14ab2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8faa923ab48014c96a6447665e6fd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685375,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685375,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699420,
+    "wof:lastmodified":1576712760,
     "wof:name":"Rabo de Peixe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

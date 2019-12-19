@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Avel\u00e3s de Caminho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"010304"
     },
     "wof:country":"PT",
     "wof:created":1576698625,
-    "wof:geomhash":"fa1dec0f04e174eb2a16684baf943858",
-    "wof:hierarchy":[],
+    "wof:geomhash":"609f9ff8b8627887f70308d393f5703a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681579,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511681579,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698625,
+    "wof:lastmodified":1576712619,
     "wof:name":"Avel\u00e3s de Caminho",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.457989570425342,
+    -8.45798957042534,
     40.46754601286754,
     -8.42886881719487,
     40.50231647706045

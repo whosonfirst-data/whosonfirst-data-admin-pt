@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santana do Mato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140908"
     },
     "wof:country":"PT",
     "wof:created":1576698209,
-    "wof:geomhash":"baddcd993702eac31f0a0e86afb8ff3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9021fdf87f12deff90468b0b0c0f8008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679819,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511679819,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698209,
+    "wof:lastmodified":1576712500,
     "wof:name":"Santana do Mato",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.520264170031025,
+    -8.52026417003102,
     38.7902391408023,
     -8.30574043805519,
     38.91673101081174

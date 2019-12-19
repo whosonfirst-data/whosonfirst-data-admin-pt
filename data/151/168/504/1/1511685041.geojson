@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Labruj\u00f3, Rendufe e Vilar do Monte",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160759"
     },
     "wof:country":"PT",
     "wof:created":1576699349,
-    "wof:geomhash":"b334e3514ffd681bca0a47fc0c9aae81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"866d786d05809f87bf396c1287707432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685041,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511685041,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699349,
+    "wof:lastmodified":1576712740,
     "wof:name":"Labruj\u00f3, Rendufe e Vilar do Monte",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.574531336577559,
-    41.830427931258654,
+    -8.57453133657756,
+    41.83042793125865,
     -8.52308343820763,
     41.87028780628113
 ],

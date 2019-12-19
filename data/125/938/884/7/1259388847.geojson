@@ -110,6 +110,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682221,
         85633735,
         85687419
     ],
@@ -123,14 +124,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682221,
             "locality_id":1259388847,
             "region_id":85687419
         }
     ],
     "wof:id":1259388847,
-    "wof:lastmodified":1566608966,
+    "wof:lastmodified":1576712117,
     "wof:name":"Real",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511682221,
     "wof:placetype":"locality",
     "wof:population":95,
     "wof:population_rank":1,

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Lomba de S\u00e3o Pedro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420504"
     },
     "wof:country":"PT",
     "wof:created":1576699434,
-    "wof:geomhash":"87cb368711d112e0868aed7a466ee268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"276385d30ff5e81cf110e60a668ab4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685427,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685427,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699434,
+    "wof:lastmodified":1576712767,
     "wof:name":"Lomba de S\u00e3o Pedro",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
 },
   "bbox": [
     -25.32076846106044,
-    37.787223995616756,
+    37.78722399561676,
     -25.27196004560868,
     37.86123066216086
 ],

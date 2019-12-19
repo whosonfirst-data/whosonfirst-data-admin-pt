@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681299,
         85633735,
         85687391
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681299,
             "locality_id":1125766603,
             "region_id":85687391
         }
     ],
     "wof:id":1125766603,
-    "wof:lastmodified":1566608758,
+    "wof:lastmodified":1576711816,
     "wof:name":"P\u00f3voa do Loureiro",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681299,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

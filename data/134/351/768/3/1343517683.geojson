@@ -92,6 +92,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685607,
         85633735,
         85687459
     ],
@@ -106,14 +107,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685607,
             "locality_id":1343517683,
             "region_id":85687459
         }
     ],
     "wof:id":1343517683,
-    "wof:lastmodified":1566607436,
+    "wof:lastmodified":1576712379,
     "wof:name":"Santa Cruz da Graciosa",
-    "wof:parent_id":85687459,
+    "wof:parent_id":1511685607,
     "wof:placetype":"locality",
     "wof:population":1776,
     "wof:population_rank":3,

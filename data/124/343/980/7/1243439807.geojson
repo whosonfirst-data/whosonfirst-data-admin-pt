@@ -60,6 +60,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679527,
         85633735,
         85687363
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679527,
             "locality_id":1243439807,
             "region_id":85687363
         }
     ],
     "wof:id":1243439807,
-    "wof:lastmodified":1566608961,
+    "wof:lastmodified":1576712103,
     "wof:name":"Reguengos de Monsaraz",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679527,
     "wof:placetype":"locality",
     "wof:population":7217,
     "wof:population_rank":5,

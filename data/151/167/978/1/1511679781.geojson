@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Borba (Matriz)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"070301"
     },
     "wof:country":"PT",
     "wof:created":1576698200,
-    "wof:geomhash":"863b10a0a3707dbc4e95b5cc5a8b664c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bec73cdeb0daa2b4f152e1f4709e591f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679781,
+            "region_id":85687363
+        }
+    ],
     "wof:id":1511679781,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698200,
+    "wof:lastmodified":1576712497,
     "wof:name":"Borba (Matriz)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.508657335671217,
-    38.774167400024396,
+    -7.50865733567122,
+    38.7741674000244,
     -7.39167306191823,
     38.8450471285276
 ],

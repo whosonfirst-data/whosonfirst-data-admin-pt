@@ -86,6 +86,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684533,
         85633735,
         85687419
     ],
@@ -99,14 +100,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684533,
             "locality_id":1343627679,
             "region_id":85687419
         }
     ],
     "wof:id":1343627679,
-    "wof:lastmodified":1566607321,
+    "wof:lastmodified":1576712388,
     "wof:name":"Formigueiro",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684533,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

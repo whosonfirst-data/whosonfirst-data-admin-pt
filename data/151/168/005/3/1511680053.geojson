@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Almeirim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140301"
     },
     "wof:country":"PT",
     "wof:created":1576698282,
-    "wof:geomhash":"a2f6f4d4f7f001aa7152fec2678d635c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be53a1cd8af60b9560f2dc0cd1e9c3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680053,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680053,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698282,
+    "wof:lastmodified":1576712521,
     "wof:name":"Almeirim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.686938878240818,
+    -8.68693887824082,
     39.13699618273865,
     -8.57134320207329,
     39.24398195205184

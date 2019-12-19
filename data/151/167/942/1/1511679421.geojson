@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Brinches",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"021302"
     },
     "wof:country":"PT",
     "wof:created":1576698121,
-    "wof:geomhash":"8d80e2350033c96bf77a1c7df89fd65d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2706cfe66336271cb3e23ff3409b62f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679421,
+            "region_id":85687355
+        }
+    ],
     "wof:id":1511679421,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698121,
+    "wof:lastmodified":1576712477,
     "wof:name":"Brinches",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.654054000848795,
+    -7.6540540008488,
     37.98199087132519,
     -7.51051876404882,
     38.10618168239339

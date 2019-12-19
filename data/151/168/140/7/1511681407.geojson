@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Trez\u00f3i",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"180809"
     },
     "wof:country":"PT",
     "wof:created":1576698590,
-    "wof:geomhash":"4562045099dcba7eaa2f67435beaeef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e78d4ce0953cce9dd20ad7b4db46657d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681407,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511681407,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698590,
+    "wof:lastmodified":1576712612,
     "wof:name":"Trez\u00f3i",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.359447500784345,
+    -8.35944750078434,
     40.3544677406434,
     -8.2959987414856,
     40.41036652550885

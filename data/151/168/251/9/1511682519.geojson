@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vale da Mula",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"090227"
     },
     "wof:country":"PT",
     "wof:created":1576698820,
-    "wof:geomhash":"4021ebc81ef9c0eefc4c00912079d8ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c5ef567eb09a1fdcf7d8de84761d608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511682519,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511682519,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698820,
+    "wof:lastmodified":1576712651,
     "wof:name":"Vale da Mula",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.856225470711942,
+    -6.85622547071194,
     40.67294454454687,
     -6.80174146082184,
     40.7257928637031

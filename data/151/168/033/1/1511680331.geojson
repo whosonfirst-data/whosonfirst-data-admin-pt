@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Oldr\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131121"
     },
     "wof:country":"PT",
     "wof:created":1576698346,
-    "wof:geomhash":"5d93ff0cb6c37a9261029c10501b1b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc38279d1d6806a8157fc8872d2279f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680331,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511680331,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698346,
+    "wof:lastmodified":1576712541,
     "wof:name":"Oldr\u00f5es",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.314765420292611,
+    -8.31476542029261,
     41.13940064646237,
     -8.27133745656954,
     41.16533918601479

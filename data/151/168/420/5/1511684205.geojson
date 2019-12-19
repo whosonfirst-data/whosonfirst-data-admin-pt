@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Pencelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030835"
     },
     "wof:country":"PT",
     "wof:created":1576699174,
-    "wof:geomhash":"80cbc914a11328cb415c8a853bfa5f54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b6b50e0552359b3e0b741d041a36fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684205,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684205,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699174,
+    "wof:lastmodified":1576712717,
     "wof:name":"Pencelo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.315830352135334,
+    -8.31583035213533,
     41.4585429271461,
     -8.29125862434137,
     41.4771836855913

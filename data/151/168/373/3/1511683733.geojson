@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Constantim e Vale de Nogueiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"171433"
     },
     "wof:country":"PT",
     "wof:created":1576699074,
-    "wof:geomhash":"b5297bfbffa184b2f1aa61d3a1e9505c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ccdc4e66a1dba40f6d57d5952289de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683733,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511683733,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699074,
+    "wof:lastmodified":1576712699,
     "wof:name":"Constantim e Vale de Nogueiras",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.717534447007132,
-    41.266522636594964,
+    -7.71753444700713,
+    41.26652263659496,
     -7.61294118197137,
     41.31271306323736
 ],

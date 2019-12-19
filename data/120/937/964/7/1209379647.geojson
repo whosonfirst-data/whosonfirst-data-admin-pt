@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679247,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"42e7896d3cc20b1fd9e432238b3e16f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209379647
+            "localadmin_id":1511679247,
+            "locality_id":1209379647,
+            "region_id":85687433
         }
     ],
     "wof:id":1209379647,
-    "wof:lastmodified":1566607955,
+    "wof:lastmodified":1576711935,
     "wof:name":"Catezim",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679247,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

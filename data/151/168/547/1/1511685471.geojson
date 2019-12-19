@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Santa Cruz das Flores",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687465
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"480204"
     },
     "wof:country":"PT",
     "wof:created":1576699445,
-    "wof:geomhash":"2c49a63060f8f5d1be31101708ba69ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30815c1fea8969225f6fce60bcb99756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685471,
+            "region_id":85687465
+        }
+    ],
     "wof:id":1511685471,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699445,
+    "wof:lastmodified":1576712771,
     "wof:name":"Santa Cruz das Flores",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687465,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -31.253178601064835,
+    -31.25317860106484,
     39.42761338406689,
     -31.12363390255476,
     39.48678139197597

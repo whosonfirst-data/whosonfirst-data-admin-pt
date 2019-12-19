@@ -277,6 +277,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682397,
         85633735,
         85687411
     ],
@@ -294,14 +295,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682397,
             "locality_id":1126016273,
             "region_id":85687411
         }
     ],
     "wof:id":1126016273,
-    "wof:lastmodified":1566608737,
+    "wof:lastmodified":1576711884,
     "wof:name":"Freamunde",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682397,
     "wof:placetype":"locality",
     "wof:population":7983,
     "wof:population_rank":5,

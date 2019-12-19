@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Charneca de Caparica e Sobreda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"150314"
     },
     "wof:country":"PT",
     "wof:created":1576698163,
-    "wof:geomhash":"2679552d83917ab35968ee70710713dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d46cf64fcacf3c74bff74d9b16061750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679603,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679603,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698163,
+    "wof:lastmodified":1576712489,
     "wof:name":"Charneca de Caparica e Sobreda",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.212430005204368,
-    38.550528222152806,
+    -9.21243000520437,
+    38.55052822215281,
     -9.15678960625012,
     38.6633727344314
 ],

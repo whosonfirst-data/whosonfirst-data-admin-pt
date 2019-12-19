@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Feitosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160719"
     },
     "wof:country":"PT",
     "wof:created":1576699291,
-    "wof:geomhash":"03f9d4ecd0de1c684f592169cf7dc4af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6113c21d7424b219771b6e1f85f7a9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684737,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511684737,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699291,
+    "wof:lastmodified":1576712732,
     "wof:name":"Feitosa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.598118269578922,
+    -8.59811826957892,
     41.73985935598332,
     -8.57145373360041,
     41.7608657095464

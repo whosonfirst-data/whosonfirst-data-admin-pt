@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Carre\u00e7o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160908"
     },
     "wof:country":"PT",
     "wof:created":1576699296,
-    "wof:geomhash":"9bfc1528a78bfca80534e8610690b7dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49ded5c21b3020a9246988ef70b0f0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684761,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511684761,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699296,
+    "wof:lastmodified":1576712733,
     "wof:name":"Carre\u00e7o",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.881058316994912,
+    -8.88105831699491,
     41.72625785855997,
     -8.81146249957873,
     41.76505893296359

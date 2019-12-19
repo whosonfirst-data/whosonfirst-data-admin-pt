@@ -100,6 +100,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684885,
         85633735,
         85687433
     ],
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684885,
             "locality_id":1293551155,
             "region_id":85687433
         }
     ],
     "wof:id":1293551155,
-    "wof:lastmodified":1566607622,
+    "wof:lastmodified":1576712255,
     "wof:name":"Sobrado",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

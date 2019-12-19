@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Alpiar\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140401"
     },
     "wof:country":"PT",
     "wof:created":1576698292,
-    "wof:geomhash":"27096e1e241523afdef839c0d059c2a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ceadffd3e8d5cfe497d22c01a68afd8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680093,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680093,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698292,
+    "wof:lastmodified":1576712524,
     "wof:name":"Alpiar\u00e7a",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.634009538630243,
-    39.171475978694986,
+    -8.63400953863024,
+    39.17147597869499,
     -8.49270876905682,
     39.30615762415487
 ],

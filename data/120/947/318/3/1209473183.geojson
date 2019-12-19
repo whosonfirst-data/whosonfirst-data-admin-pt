@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685617,
+        85633735,
+        85687447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"49daee9aeaba278ae91195b8d834711a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209473183
+            "localadmin_id":1511685617,
+            "locality_id":1209473183,
+            "region_id":85687447
         }
     ],
     "wof:id":1209473183,
-    "wof:lastmodified":1566607993,
+    "wof:lastmodified":1576711940,
     "wof:name":"Ribeira do Meio",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

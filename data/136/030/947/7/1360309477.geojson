@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683675,
         85633735,
         85687419
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683675,
             "locality_id":1360309477,
             "region_id":85687419
         }
     ],
     "wof:id":1360309477,
-    "wof:lastmodified":1566608345,
+    "wof:lastmodified":1576712427,
     "wof:name":"Soutelo",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683675,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -75,7 +75,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683759,
+        85633735,
+        85687423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +88,17 @@
     "wof:geomhash":"a706f41d4e4601122db915981f91349e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209278819
+            "localadmin_id":1511683759,
+            "locality_id":1209278819,
+            "region_id":85687423
         }
     ],
     "wof:id":1209278819,
-    "wof:lastmodified":1566608044,
+    "wof:lastmodified":1576711928,
     "wof:name":"Parada",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

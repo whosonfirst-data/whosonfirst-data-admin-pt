@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Boelhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131102"
     },
     "wof:country":"PT",
     "wof:created":1576698937,
-    "wof:geomhash":"8cf242d53f150241d1b38c3baafb0938",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa44730d8c08208937d65c1d8fdf3828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683081,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683081,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698937,
+    "wof:lastmodified":1576712674,
     "wof:name":"Boelhe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.255016889392747,
-    41.112257596768366,
+    -8.25501688939275,
+    41.11225759676837,
     -8.22651394390818,
     41.14266412751269
 ],

@@ -44,6 +44,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679773,
         85633735,
         85687367
     ],
@@ -60,6 +61,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679773,
             "locality_id":101759141,
             "region_id":85687367
         }
@@ -68,9 +70,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608487,
+    "wof:lastmodified":1576711754,
     "wof:name":"Unhos",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679773,
     "wof:placetype":"locality",
     "wof:population":10712,
     "wof:population_rank":6,

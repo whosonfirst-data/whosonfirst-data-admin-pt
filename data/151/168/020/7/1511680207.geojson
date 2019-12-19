@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Santa Margarida da Coutada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"140803"
     },
     "wof:country":"PT",
     "wof:created":1576698318,
-    "wof:geomhash":"c7be7ffebf36e3b7ea6b1b0243366bcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63c353e1d56375cc689651c2b401098d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680207,
+            "region_id":85687377
+        }
+    ],
     "wof:id":1511680207,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698318,
+    "wof:lastmodified":1576712532,
     "wof:name":"Santa Margarida da Coutada",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.338519809618425,
-    39.337320356914276,
+    -8.33851980961843,
+    39.33732035691428,
     -8.24081725042668,
     39.47107091122908
 ],

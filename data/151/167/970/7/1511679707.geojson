@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Pardais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"071404"
     },
     "wof:country":"PT",
     "wof:created":1576698185,
-    "wof:geomhash":"cce46ecd250766d2ce72d4807b8bae19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b28ab2b096e93a645093b028eb276228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679707,
+            "region_id":85687363
+        }
+    ],
     "wof:id":1511679707,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698185,
+    "wof:lastmodified":1576712493,
     "wof:name":"Pardais",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.431393896823232,
+    -7.43139389682323,
     38.70501011032511,
     -7.36346168293883,
     38.75833943542405

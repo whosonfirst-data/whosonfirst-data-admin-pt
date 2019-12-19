@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Mozelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160513"
     },
     "wof:country":"PT",
     "wof:created":1576698100,
-    "wof:geomhash":"e4419089e190d8ed0af69f25f708affc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d3b4d54d1ca3a539481d03390cde616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679327,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511679327,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698100,
+    "wof:lastmodified":1576712472,
     "wof:name":"Mozelos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ribeirinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687447
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"460105"
     },
     "wof:country":"PT",
     "wof:created":1576703599,
-    "wof:geomhash":"788fd9eb48462c13d28574089a0294e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39a2a9fb7f56fd6bd91984808c0a6a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685613,
+            "region_id":85687447
+        }
+    ],
     "wof:id":1511685613,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576703599,
+    "wof:lastmodified":1576712796,
     "wof:name":"Ribeirinha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687447,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -28.124741890579077,
+    -28.12474189057908,
     38.42208924882449,
     -28.06621058392344,
     38.45040809090258

@@ -64,6 +64,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682383,
         85633735,
         85687411
     ],
@@ -77,14 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682383,
             "locality_id":1309683733,
             "region_id":85687411
         }
     ],
     "wof:id":1309683733,
-    "wof:lastmodified":1566608566,
+    "wof:lastmodified":1576712278,
     "wof:name":"Macieira",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

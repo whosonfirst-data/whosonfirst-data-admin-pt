@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Roli\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"100503"
     },
     "wof:country":"PT",
     "wof:created":1576698050,
-    "wof:geomhash":"9b06457c39ed0f95a47242a5f5340240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b6a6705a7c27a2870126790d6ee312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679103,
+            "region_id":85687381
+        }
+    ],
     "wof:id":1511679103,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698050,
+    "wof:lastmodified":1576712462,
     "wof:name":"Roli\u00e7a",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

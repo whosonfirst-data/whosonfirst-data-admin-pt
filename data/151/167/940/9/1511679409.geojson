@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Ermidas-Sado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687359
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"150904"
     },
     "wof:country":"PT",
     "wof:created":1576698117,
-    "wof:geomhash":"d7ccb9d591c2f36214a70d0db8ba0805",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bba4af2af054fbc9baa48d79c5a829b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679409,
+            "region_id":85687359
+        }
+    ],
     "wof:id":1511679409,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698117,
+    "wof:lastmodified":1576712476,
     "wof:name":"Ermidas-Sado",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.467641978805535,
+    -8.46764197880553,
     37.96175711140189,
     -8.29313532012503,
     38.06639425992837

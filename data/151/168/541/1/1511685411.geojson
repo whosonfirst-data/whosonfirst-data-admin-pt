@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Capelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420304"
     },
     "wof:country":"PT",
     "wof:created":1576699430,
-    "wof:geomhash":"2b39b50c0864ca14e6abdc70e4ba1b96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aa9fd62dbb6a207d0b82321a0c5534f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685411,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685411,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699430,
+    "wof:lastmodified":1576712766,
     "wof:name":"Capelas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,8 +59,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.750431515235952,
-    37.804248402838326,
+    -25.75043151523595,
+    37.80424840283833,
     -25.66932862946094,
     37.85171034271431
 ],

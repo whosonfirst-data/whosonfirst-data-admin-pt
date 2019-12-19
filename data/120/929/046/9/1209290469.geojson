@@ -66,7 +66,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680429,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +79,17 @@
     "wof:geomhash":"ebedc480b33cb1ff37dd29ec37797344",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209290469
+            "localadmin_id":1511680429,
+            "locality_id":1209290469,
+            "region_id":85687377
         }
     ],
     "wof:id":1209290469,
-    "wof:lastmodified":1566608038,
+    "wof:lastmodified":1576711930,
     "wof:name":"Portela",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

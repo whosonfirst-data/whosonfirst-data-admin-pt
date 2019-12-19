@@ -44,6 +44,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511682513,
         85633735,
         85687409
     ],
@@ -63,6 +64,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682513,
             "locality_id":101831381,
             "region_id":85687409
         }
@@ -71,9 +73,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608515,
+    "wof:lastmodified":1576711780,
     "wof:name":"Quinta do Loureiro",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

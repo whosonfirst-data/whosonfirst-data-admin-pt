@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679967,
         85633735,
         85687367
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679967,
             "locality_id":1125964121,
             "region_id":85687367
         }
     ],
     "wof:id":1125964121,
-    "wof:lastmodified":1566608709,
+    "wof:lastmodified":1576711859,
     "wof:name":"Cat\u00e9m",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

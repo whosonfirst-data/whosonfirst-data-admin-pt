@@ -52,6 +52,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680747,
         85633735,
         85687381
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680747,
             "locality_id":1125876761,
             "region_id":85687381
         }
     ],
     "wof:id":1125876761,
-    "wof:lastmodified":1566608675,
+    "wof:lastmodified":1576711841,
     "wof:name":"Souto da Carpalhosa",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680747,
     "wof:placetype":"locality",
     "wof:population":4130,
     "wof:population_rank":4,

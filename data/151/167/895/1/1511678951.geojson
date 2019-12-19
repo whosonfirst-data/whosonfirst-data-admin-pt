@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Queren\u00e7a, T\u00f4r e Benafim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"080812"
     },
     "wof:country":"PT",
     "wof:created":1576698001,
-    "wof:geomhash":"0c043bf0045c1a38d9479b5d0fb707f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5201d6578c4bcf9ae2028ff4220e943b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511678951,
+            "region_id":85687349
+        }
+    ],
     "wof:id":1511678951,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698001,
+    "wof:lastmodified":1576712441,
     "wof:name":"Queren\u00e7a, T\u00f4r e Benafim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.156870521884938,
+    -8.15687052188494,
     37.17222602295222,
     -7.92715133309899,
     37.28684629337542

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ceiv\u00e3es e Badim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687433
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"160435"
     },
     "wof:country":"PT",
     "wof:created":1576698687,
-    "wof:geomhash":"5350f4aadb6b0c7d1f1680971d148ef9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbcae6ef38301350c3efb32d716e0fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681891,
+            "region_id":85687433
+        }
+    ],
     "wof:id":1511681891,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698687,
+    "wof:lastmodified":1576712630,
     "wof:name":"Ceiv\u00e3es e Badim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.395362332605893,
+    -8.39536233260589,
     42.04601975381805,
     -8.32857845671802,
     42.07809071802635

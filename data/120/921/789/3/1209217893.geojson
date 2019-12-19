@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682167,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"e7fc6b224b4da4680158a4ca54c2563f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209217893
+            "localadmin_id":1511682167,
+            "locality_id":1209217893,
+            "region_id":85687409
         }
     ],
     "wof:id":1209217893,
-    "wof:lastmodified":1566608069,
+    "wof:lastmodified":1576711925,
     "wof:name":"Pedacais",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

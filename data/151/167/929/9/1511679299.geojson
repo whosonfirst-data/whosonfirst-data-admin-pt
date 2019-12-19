@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Tour\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170632"
     },
     "wof:country":"PT",
     "wof:created":1576698095,
-    "wof:geomhash":"9c7f0ce89997e3ca4dfdecc8275245a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ae68a4643d0c213c389b5a2b1167646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679299,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511679299,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698095,
+    "wof:lastmodified":1576712471,
     "wof:name":"Tour\u00e9m",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.921304579247244,
+    -7.92130457924724,
     41.85882159342878,
     -7.88371890355287,
     41.9270957494707

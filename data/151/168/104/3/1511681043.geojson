@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Anobra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"060401"
     },
     "wof:country":"PT",
     "wof:created":1576698515,
-    "wof:geomhash":"02e7dc7cc98cbcb16f492bbf8596f151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35cba2bd22c7f7c1b2c2bebe153be5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681043,
+            "region_id":85687391
+        }
+    ],
     "wof:id":1511681043,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698515,
+    "wof:lastmodified":1576712596,
     "wof:name":"Anobra",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

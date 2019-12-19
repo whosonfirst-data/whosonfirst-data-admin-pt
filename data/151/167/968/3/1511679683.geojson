@@ -23,15 +23,24 @@
     "pt-dgt:freguesia":"Beato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110607"
     },
     "wof:country":"PT",
     "wof:created":1576698180,
-    "wof:geomhash":"93d4ff956ae112b152950c69912a7cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6341f01930daeee28428bf9fde09e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1511679683,
+            "region_id":-1
+        }
+    ],
     "wof:id":1511679683,
     "wof:lang_x_official":[
         "por"
@@ -39,7 +48,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698180,
+    "wof:lastmodified":1576712492,
     "wof:name":"Beato",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
@@ -49,8 +58,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.126475963162735,
-    38.720546718412166,
+    -9.12647596316273,
+    38.72054671841217,
     -9.09658904370509,
     38.74117076335111
 ],

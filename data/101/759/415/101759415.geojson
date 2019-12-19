@@ -39,6 +39,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511682999,
         85633735,
         85687411
     ],
@@ -55,6 +56,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682999,
             "locality_id":101759415,
             "region_id":85687411
         }
@@ -63,9 +65,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608467,
+    "wof:lastmodified":1576711758,
     "wof:name":"Francelos",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

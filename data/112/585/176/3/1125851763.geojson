@@ -96,6 +96,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679733,
         85633735,
         85687367
     ],
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679733,
             "locality_id":1125851763,
             "region_id":85687367
         }
     ],
     "wof:id":1125851763,
-    "wof:lastmodified":1566608766,
+    "wof:lastmodified":1576711833,
     "wof:name":"Rio de Mouro",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679733,
     "wof:placetype":"locality",
     "wof:population":54695,
     "wof:population_rank":8,

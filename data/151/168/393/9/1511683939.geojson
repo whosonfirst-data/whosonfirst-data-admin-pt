@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Landim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031221"
     },
     "wof:country":"PT",
     "wof:created":1576699122,
-    "wof:geomhash":"5c407f6d0c8d74aa6152345b51a82d98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffc2ba4f1d307c66bfffa214a02ff1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683939,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683939,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699122,
+    "wof:lastmodified":1576712707,
     "wof:name":"Landim",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

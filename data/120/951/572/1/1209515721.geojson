@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684421,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +73,17 @@
     "wof:geomhash":"a6bb30339edb3e8aaa671a3b66e67458",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209515721
+            "localadmin_id":1511684421,
+            "locality_id":1209515721,
+            "region_id":85687419
         }
     ],
     "wof:id":1209515721,
-    "wof:lastmodified":1566608032,
+    "wof:lastmodified":1576711944,
     "wof:name":"Raposeira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

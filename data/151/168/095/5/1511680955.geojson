@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Alpedrinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"050406"
     },
     "wof:country":"PT",
     "wof:created":1576698496,
-    "wof:geomhash":"ac16c77cc65a6b782870f885360dfbc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdc1528692b412065b90abe69d2a4e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680955,
+            "region_id":85687385
+        }
+    ],
     "wof:id":1511680955,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698496,
+    "wof:lastmodified":1576712592,
     "wof:name":"Alpedrinha",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.488839817565927,
+    -7.48883981756593,
     40.07519544076122,
     -7.3883554032944,
     40.11266159963738

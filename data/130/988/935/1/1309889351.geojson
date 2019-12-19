@@ -82,6 +82,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680049,
         85633735,
         85687367
     ],
@@ -95,14 +96,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680049,
             "locality_id":1309889351,
             "region_id":85687367
         }
     ],
     "wof:id":1309889351,
-    "wof:lastmodified":1566608584,
+    "wof:lastmodified":1576712286,
     "wof:name":"Ventosa",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511680049,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

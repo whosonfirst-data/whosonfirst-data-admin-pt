@@ -153,6 +153,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685533,
         85633735,
         85687345
     ],
@@ -170,6 +171,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685533,
             "locality_id":101849891,
             "region_id":85687345
         }
@@ -178,9 +180,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608498,
+    "wof:lastmodified":1576711790,
     "wof:name":"Santana",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685533,
     "wof:placetype":"locality",
     "wof:population":8804,
     "wof:population_rank":5,

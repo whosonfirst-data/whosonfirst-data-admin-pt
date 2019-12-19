@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Marvila",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110621"
     },
     "wof:country":"PT",
     "wof:created":1576698043,
-    "wof:geomhash":"ffe2538997685cab744d138b9bbdcafd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e63e9e6591dfd3c199944e06304e6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679075,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679075,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698043,
+    "wof:lastmodified":1576712461,
     "wof:name":"Marvila",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.130390361502586,
+    -9.13039036150259,
     38.73190682312001,
     -9.09070975367929,
     38.76301354681153

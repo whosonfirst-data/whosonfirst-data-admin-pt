@@ -70,6 +70,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679315,
         85633735,
         85687433
     ],
@@ -83,14 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679315,
             "locality_id":1226814019,
             "region_id":85687433
         }
     ],
     "wof:id":1226814019,
-    "wof:lastmodified":1566609082,
+    "wof:lastmodified":1576712040,
     "wof:name":"Vila Boa",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

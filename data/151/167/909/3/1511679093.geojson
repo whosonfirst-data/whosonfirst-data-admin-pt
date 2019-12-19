@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Carvalhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"100502"
     },
     "wof:country":"PT",
     "wof:created":1576698048,
-    "wof:geomhash":"026e6c7d9cb49986c27a4a06a015c445",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e0262dfd249ee795b650365467613a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679093,
+            "region_id":85687381
+        }
+    ],
     "wof:id":1511679093,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698048,
+    "wof:lastmodified":1576712462,
     "wof:name":"Carvalhal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.166553230548256,
-    39.251921870056144,
+    -9.16655323054826,
+    39.25192187005614,
     -9.08478451121921,
     39.3305664072383
 ],

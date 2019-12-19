@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Serzedelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"030866"
     },
     "wof:country":"PT",
     "wof:created":1576699128,
-    "wof:geomhash":"910382a72cc0ad529feb898f6423de8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"553f775a8bce24785e8ab5d466c1b216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683969,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511683969,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699128,
+    "wof:lastmodified":1576712707,
     "wof:name":"Serzedelo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.385975526365703,
+    -8.3859755263657,
     41.39444317609646,
     -8.34278339916174,
     41.41591980100153

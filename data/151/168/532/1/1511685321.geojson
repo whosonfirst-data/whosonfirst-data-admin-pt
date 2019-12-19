@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Ponta Delgada (S\u00e3o Pedro)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"420314"
     },
     "wof:country":"PT",
     "wof:created":1576699406,
-    "wof:geomhash":"b76edc5c0e0f6d80c2e01ce9e85c8561",
-    "wof:hierarchy":[],
+    "wof:geomhash":"946100fed22f74efef31a07aee9781c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685321,
+            "region_id":85687437
+        }
+    ],
     "wof:id":1511685321,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699406,
+    "wof:lastmodified":1576712755,
     "wof:name":"Ponta Delgada (S\u00e3o Pedro)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687437,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -25.666297088935593,
+    -25.66629708893559,
     37.73954669752612,
     -25.64561941323456,
     37.76277658703572

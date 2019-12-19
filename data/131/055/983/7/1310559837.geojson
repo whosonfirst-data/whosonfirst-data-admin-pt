@@ -89,6 +89,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685201,
         85633735,
         85687451
     ],
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685201,
             "locality_id":1310559837,
             "region_id":85687451
         }
     ],
     "wof:id":1310559837,
-    "wof:lastmodified":1566608249,
+    "wof:lastmodified":1576712312,
     "wof:name":"Calheta",
-    "wof:parent_id":85687451,
+    "wof:parent_id":1511685201,
     "wof:placetype":"locality",
     "wof:population":3773,
     "wof:population_rank":4,

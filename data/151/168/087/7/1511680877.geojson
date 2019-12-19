@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Pedr\u00f3g\u00e3o Grande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687381
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"101302"
     },
     "wof:country":"PT",
     "wof:created":1576698478,
-    "wof:geomhash":"0d0c2ef39ec3f43bfc168b21cb4348b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9e8774e1aacb6cbcd19a61e5ebdd138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680877,
+            "region_id":85687381
+        }
+    ],
     "wof:id":1511680877,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698478,
+    "wof:lastmodified":1576712586,
     "wof:name":"Pedr\u00f3g\u00e3o Grande",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

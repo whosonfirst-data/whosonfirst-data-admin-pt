@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680079,
         85633735,
         85687367
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680079,
             "locality_id":1360059157,
             "region_id":85687367
         }
     ],
     "wof:id":1360059157,
-    "wof:lastmodified":1566608378,
+    "wof:lastmodified":1576712416,
     "wof:name":"Peral",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511680079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Ferral",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"170609"
     },
     "wof:country":"PT",
     "wof:created":1576699278,
-    "wof:geomhash":"327fb8fd4d8a8d1cca926608e9cac0ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca85ec672977b5049c7ef0494a2666bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684677,
+            "region_id":85687423
+        }
+    ],
     "wof:id":1511684677,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699278,
+    "wof:lastmodified":1576712730,
     "wof:name":"Ferral",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.023409962623989,
+    -8.02340996262399,
     41.67553370149581,
     -7.95376847282557,
     41.71980738330538

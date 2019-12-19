@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679169,
         85633735,
         85687401
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679169,
             "locality_id":1126015689,
             "region_id":85687401
         }
     ],
     "wof:id":1126015689,
-    "wof:lastmodified":1566608736,
+    "wof:lastmodified":1576711883,
     "wof:name":"Felgueira",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511679169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

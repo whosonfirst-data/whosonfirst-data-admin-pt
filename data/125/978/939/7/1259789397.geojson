@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682279,
         85633735,
         85687419
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682279,
             "locality_id":1259789397,
             "region_id":85687419
         }
     ],
     "wof:id":1259789397,
-    "wof:lastmodified":1566609002,
+    "wof:lastmodified":1576712141,
     "wof:name":"Fontela",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511682279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

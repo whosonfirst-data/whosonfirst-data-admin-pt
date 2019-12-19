@@ -108,7 +108,7 @@
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
-        101874817,
+        1511679745,
         85633735,
         85687367
     ],
@@ -126,7 +126,8 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101874817,
+            "localadmin_id":1511679745,
+            "locality_id":-1,
             "neighbourhood_id":85798945,
             "region_id":85687367
         }
@@ -135,9 +136,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566607568,
+    "wof:lastmodified":1576712801,
     "wof:name":"Brandoa",
-    "wof:parent_id":101874817,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

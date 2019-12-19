@@ -105,6 +105,7 @@
     "wd:wordcount":194,
     "wof:belongsto":[
         102191581,
+        1125270281,
         85633735,
         85687401
     ],
@@ -123,6 +124,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270281,
             "locality_id":101845425,
             "region_id":85687401
         }
@@ -131,9 +133,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608385,
+    "wof:lastmodified":1576711789,
     "wof:name":"Oliveira de Frades",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1125270281,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

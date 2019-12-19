@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683759,
         85633735,
         85687423
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683759,
             "locality_id":1226406755,
             "region_id":85687423
         }
     ],
     "wof:id":1226406755,
-    "wof:lastmodified":1566609167,
+    "wof:lastmodified":1576712013,
     "wof:name":"Campea",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511683759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -38,6 +38,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681615,
         85633735,
         85687401
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681615,
             "locality_id":1226098577,
             "region_id":85687401
         }
     ],
     "wof:id":1226098577,
-    "wof:lastmodified":1566609214,
+    "wof:lastmodified":1576711996,
     "wof:name":"Granjinha",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

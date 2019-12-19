@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Lousa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"110708"
     },
     "wof:country":"PT",
     "wof:created":1576698210,
-    "wof:geomhash":"a43baf9607db6864336157a93a0d6d12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74123e40ed8ce567b68b99b38af4ccfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511679821,
+            "region_id":85687367
+        }
+    ],
     "wof:id":1511679821,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698210,
+    "wof:lastmodified":1576712500,
     "wof:name":"Lousa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.234756470129854,
-    38.866633887639495,
+    -9.23475647012985,
+    38.86663388763949,
     -9.18479976151239,
     38.91679331051435
 ],

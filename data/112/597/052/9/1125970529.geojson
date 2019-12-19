@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511678923,
         85633735,
         85687349
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678923,
             "locality_id":1125970529,
             "region_id":85687349
         }
     ],
     "wof:id":1125970529,
-    "wof:lastmodified":1566608700,
+    "wof:lastmodified":1576711864,
     "wof:name":"Quinta da Saudade",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

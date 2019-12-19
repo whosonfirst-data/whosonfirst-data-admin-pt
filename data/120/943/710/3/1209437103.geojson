@@ -48,7 +48,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680867,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +61,17 @@
     "wof:geomhash":"eab8e3802ecfa03aeb1c748c65f05ec2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209437103
+            "localadmin_id":1511680867,
+            "locality_id":1209437103,
+            "region_id":85687385
         }
     ],
     "wof:id":1209437103,
-    "wof:lastmodified":1566608081,
+    "wof:lastmodified":1576711939,
     "wof:name":"Cavalo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680867,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

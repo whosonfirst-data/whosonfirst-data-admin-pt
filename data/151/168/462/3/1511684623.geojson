@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Ponte",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"031337"
     },
     "wof:country":"PT",
     "wof:created":1576699268,
-    "wof:geomhash":"a416965006bdc3f1370955bf36aaaf0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a26b5c3a750c2107ec6d822a25cadc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511684623,
+            "region_id":85687419
+        }
+    ],
     "wof:id":1511684623,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699268,
+    "wof:lastmodified":1576712729,
     "wof:name":"Ponte",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.398437943565561,
+    -8.39843794356556,
     41.67263464643797,
     -8.37162651490704,
     41.69848234178373

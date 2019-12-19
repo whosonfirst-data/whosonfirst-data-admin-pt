@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Vila Boa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687397
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"091138"
     },
     "wof:country":"PT",
     "wof:created":1576698589,
-    "wof:geomhash":"f066f98319e8972bc93542e66a19b1c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac904785d5d8675c59ef1685c2cf56ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511681405,
+            "region_id":85687397
+        }
+    ],
     "wof:id":1511681405,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698589,
+    "wof:lastmodified":1576712612,
     "wof:name":"Vila Boa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.021424429023321,
-    40.362653554874754,
+    -7.02142442902332,
+    40.36265355487475,
     -6.98113757596077,
     40.40435900527806
 ],

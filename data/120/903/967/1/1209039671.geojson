@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682353,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"7db5ea9e7d0a7c6a62d3147d351a87d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209039671
+            "localadmin_id":1511682353,
+            "locality_id":1209039671,
+            "region_id":85687419
         }
     ],
     "wof:id":1209039671,
-    "wof:lastmodified":1566608017,
+    "wof:lastmodified":1576711914,
     "wof:name":"Figueiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

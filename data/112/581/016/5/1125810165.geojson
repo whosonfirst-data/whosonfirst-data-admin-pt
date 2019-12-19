@@ -125,6 +125,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679929,
         85633735,
         85687367
     ],
@@ -141,14 +142,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679929,
             "locality_id":1125810165,
             "region_id":85687367
         }
     ],
     "wof:id":1125810165,
-    "wof:lastmodified":1566608651,
+    "wof:lastmodified":1576711826,
     "wof:name":"Valongo",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

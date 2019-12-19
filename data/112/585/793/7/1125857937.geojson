@@ -100,6 +100,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681515,
         85633735,
         85687409
     ],
@@ -116,14 +117,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681515,
             "locality_id":1125857937,
             "region_id":85687409
         }
     ],
     "wof:id":1125857937,
-    "wof:lastmodified":1566608764,
+    "wof:lastmodified":1576711834,
     "wof:name":"Arcos",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681515,
     "wof:placetype":"locality",
     "wof:population":6725,
     "wof:population_rank":5,

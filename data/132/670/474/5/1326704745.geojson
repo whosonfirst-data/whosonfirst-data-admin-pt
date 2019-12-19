@@ -178,6 +178,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679341,
         85633735,
         85687433
     ],
@@ -191,14 +192,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679341,
             "locality_id":1326704745,
             "region_id":85687433
         }
     ],
     "wof:id":1326704745,
-    "wof:lastmodified":1566607233,
+    "wof:lastmodified":1576712334,
     "wof:name":"Gondar",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias da P\u00f3voa de Varzim, Beiriz e Argivai",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131315"
     },
     "wof:country":"PT",
     "wof:created":1576699122,
-    "wof:geomhash":"05144c86921251fc0c1f68cb2ae39b30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b0eb7eb08e8588a81954dcf8f88d11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683941,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683941,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699122,
+    "wof:lastmodified":1576712707,
     "wof:name":"P\u00f3voa de Varzim, Beiriz e Argivai",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.775427425476305,
-    41.364571118995066,
+    -8.77542742547631,
+    41.36457111899507,
     -8.70979930015407,
     41.40674616672743
 ],

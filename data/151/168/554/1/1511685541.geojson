@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"Porto Santo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"320101"
     },
     "wof:country":"PT",
     "wof:created":1576699468,
-    "wof:geomhash":"f6d4abf97b08fc88eeb2dab8a17043cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efa21377dd519fe530fb276858e3b7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685541,
+            "region_id":85687341
+        }
+    ],
     "wof:id":1511685541,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699468,
+    "wof:lastmodified":1576712783,
     "wof:name":"Porto Santo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687341,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.410739828017338,
+    -16.41073982801734,
     32.99611833040636,
     -16.27738148006834,
     33.12816030345128

@@ -47,6 +47,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679443,
         85633735,
         85687355
     ],
@@ -61,14 +62,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679443,
             "locality_id":1293698569,
             "region_id":85687355
         }
     ],
     "wof:id":1293698569,
-    "wof:lastmodified":1566607676,
+    "wof:lastmodified":1576712263,
     "wof:name":"Faro do Alentejo",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679443,
     "wof:placetype":"locality",
     "wof:population":591,
     "wof:population_rank":2,

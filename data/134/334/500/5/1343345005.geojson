@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679927,
         85633735,
         85687367
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679927,
             "locality_id":1343345005,
             "region_id":85687367
         }
     ],
     "wof:id":1343345005,
-    "wof:lastmodified":1566607455,
+    "wof:lastmodified":1576712373,
     "wof:name":"Silveira da Machoa",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

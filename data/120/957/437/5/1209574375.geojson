@@ -51,7 +51,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681759,
+        85633735,
+        85687423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +64,17 @@
     "wof:geomhash":"c0779b08ad10754c0f87da5596b10ff6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209574375
+            "localadmin_id":1511681759,
+            "locality_id":1209574375,
+            "region_id":85687423
         }
     ],
     "wof:id":1209574375,
-    "wof:lastmodified":1566608004,
+    "wof:lastmodified":1576711945,
     "wof:name":"Fornos",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681759,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

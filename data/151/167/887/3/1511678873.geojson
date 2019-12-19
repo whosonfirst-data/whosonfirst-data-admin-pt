@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Porches",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687349
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"080604"
     },
     "wof:country":"PT",
     "wof:created":1576697979,
-    "wof:geomhash":"a1fc9a1b095f22b02d96d0b83911a956",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aa756e67f6f3e4ead8923a811a90096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511678873,
+            "region_id":85687349
+        }
+    ],
     "wof:id":1511678873,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576697979,
+    "wof:lastmodified":1576712430,
     "wof:name":"Porches",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.418176546634143,
+    -8.41817654663414,
     37.08990763194647,
     -8.36936146644758,
     37.15226941374849

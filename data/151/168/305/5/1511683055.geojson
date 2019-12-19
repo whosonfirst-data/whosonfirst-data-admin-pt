@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Termas de S\u00e3o Vicente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"131143"
     },
     "wof:country":"PT",
     "wof:created":1576698931,
-    "wof:geomhash":"99f31e4e175b3a4d4cb042714b6811da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbaed010a9ac3f492c418cfaf3cb88f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683055,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1511683055,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698931,
+    "wof:lastmodified":1576712673,
     "wof:name":"Termas de S\u00e3o Vicente",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.325610745537956,
+    -8.32561074553796,
     41.09067662232486,
     -8.27873824376045,
     41.1326937734262

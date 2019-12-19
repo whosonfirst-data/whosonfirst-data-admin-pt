@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Barr\u00f4",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"181302"
     },
     "wof:country":"PT",
     "wof:created":1576698943,
-    "wof:geomhash":"6ebc1ca70cb2092c83559c13a15c8976",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14f3ddefcacaece70357f0a631cd19b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511683109,
+            "region_id":85687401
+        }
+    ],
     "wof:id":1511683109,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698943,
+    "wof:lastmodified":1576712675,
     "wof:name":"Barr\u00f4",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,7 +60,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.899785471535353,
+    -7.89978547153535,
     41.10273456830253,
     -7.850346080395,
     41.15050831455042

@@ -57,6 +57,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681295,
         85633735,
         85687391
     ],
@@ -73,14 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681295,
             "locality_id":1125801249,
             "region_id":85687391
         }
     ],
     "wof:id":1125801249,
-    "wof:lastmodified":1566608670,
+    "wof:lastmodified":1576711824,
     "wof:name":"Alentejo",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681295,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

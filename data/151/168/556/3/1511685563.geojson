@@ -22,15 +22,26 @@
     "pt-dgt:freguesia":"S\u00e3o Roque",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"310309"
     },
     "wof:country":"PT",
     "wof:created":1576699477,
-    "wof:geomhash":"a3210123b2695f3e35c3e87deabea700",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc506bb14869c25633de6f88a8672e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685563,
+            "region_id":85687345
+        }
+    ],
     "wof:id":1511685563,
     "wof:lang_x_official":[
         "por"
@@ -38,9 +49,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576699477,
+    "wof:lastmodified":1576712790,
     "wof:name":"S\u00e3o Roque",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687345,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -48,7 +59,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    -16.935851333113572,
+    -16.93585133311357,
     32.6564750728719,
     -16.91373567281193,
     32.73308827758498

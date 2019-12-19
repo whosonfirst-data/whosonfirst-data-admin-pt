@@ -23,15 +23,26 @@
     "pt-dgt:freguesia":"Ar\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735,
+        85687409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "pt-dgt:id":"011901"
     },
     "wof:country":"PT",
     "wof:created":1576698406,
-    "wof:geomhash":"e8f8e82ec3a1dc19943ca317e1148674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a691664df906214956e96de07e0042e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511680579,
+            "region_id":85687409
+        }
+    ],
     "wof:id":1511680579,
     "wof:lang_x_official":[
         "por"
@@ -39,9 +50,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576698406,
+    "wof:lastmodified":1576712562,
     "wof:name":"Ar\u00f5es",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
@@ -49,8 +60,8 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.322751155870142,
-    40.763173414938755,
+    -8.32275115587014,
+    40.76317341493876,
     -8.23676351247146,
     40.85584219941552
 ],
