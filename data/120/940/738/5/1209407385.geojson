@@ -159,7 +159,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680541,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -169,14 +172,17 @@
     "wof:geomhash":"8ec84732744675a629ef5addf9721ece",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209407385
+            "localadmin_id":1511680541,
+            "locality_id":1209407385,
+            "region_id":85687385
         }
     ],
     "wof:id":1209407385,
-    "wof:lastmodified":1566607984,
+    "wof:lastmodified":1576711938,
     "wof:name":"Peso",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680541,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

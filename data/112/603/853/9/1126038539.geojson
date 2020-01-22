@@ -73,6 +73,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682015,
         85633735,
         85687397
     ],
@@ -89,14 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682015,
             "locality_id":1126038539,
             "region_id":85687397
         }
     ],
     "wof:id":1126038539,
-    "wof:lastmodified":1566608636,
+    "wof:lastmodified":1576711889,
     "wof:name":"Sequeira",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682015,
     "wof:placetype":"locality",
     "wof:population":28502,
     "wof:population_rank":7,

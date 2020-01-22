@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682369,
         85633735,
         85687433
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682369,
             "locality_id":1125862133,
             "region_id":85687433
         }
     ],
     "wof:id":1125862133,
-    "wof:lastmodified":1566608646,
+    "wof:lastmodified":1576711835,
     "wof:name":"Fieiro Alto",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511682369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

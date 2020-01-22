@@ -41,6 +41,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683873,
         85633735,
         85687419
     ],
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683873,
             "locality_id":1125919419,
             "region_id":85687419
         }
     ],
     "wof:id":1125919419,
-    "wof:lastmodified":1566608723,
+    "wof:lastmodified":1576711850,
     "wof:name":"Caldas de Vizela",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683873,
     "wof:placetype":"locality",
     "wof:population":10239,
     "wof:population_rank":6,

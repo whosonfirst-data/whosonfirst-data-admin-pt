@@ -62,6 +62,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511683019,
         85633735,
         85687411
     ],
@@ -78,6 +79,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683019,
             "locality_id":101759351,
             "region_id":85687411
         }
@@ -86,9 +88,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608477,
+    "wof:lastmodified":1576711757,
     "wof:name":"Rechousa",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683019,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -102,7 +102,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101759365,
+        1511682999,
         85633735,
         85687411
     ],
@@ -121,14 +121,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101759365,
+            "localadmin_id":1511682999,
+            "locality_id":1175613441,
             "region_id":85687411
         }
     ],
     "wof:id":1175613441,
-    "wof:lastmodified":1566608206,
+    "wof:lastmodified":1576711895,
     "wof:name":"Monte",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682999,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -287,6 +287,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685163,
         85633735,
         85687455
     ],
@@ -305,6 +306,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685163,
             "locality_id":101850015,
             "region_id":85687455
         }
@@ -313,9 +315,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608393,
+    "wof:lastmodified":1576711792,
     "wof:name":"Horta",
-    "wof:parent_id":85687455,
+    "wof:parent_id":1511685163,
     "wof:placetype":"locality",
     "wof:population":6572,
     "wof:population_rank":5,

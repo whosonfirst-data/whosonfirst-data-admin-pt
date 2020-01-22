@@ -39,6 +39,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684797,
         85633735,
         85687415
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684797,
             "locality_id":1226539147,
             "region_id":85687415
         }
     ],
     "wof:id":1226539147,
-    "wof:lastmodified":1566609204,
+    "wof:lastmodified":1576712024,
     "wof:name":"Sao Pedro de Serracenos",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684797,
     "wof:placetype":"locality",
     "wof:population":366,
     "wof:population_rank":2,

@@ -46,6 +46,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682043,
         85633735,
         85687401
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682043,
             "locality_id":1226718877,
             "region_id":85687401
         }
     ],
     "wof:id":1226718877,
-    "wof:lastmodified":1566609164,
+    "wof:lastmodified":1576712033,
     "wof:name":"Parada de Gonta",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682043,
     "wof:placetype":"locality",
     "wof:population":754,
     "wof:population_rank":2,

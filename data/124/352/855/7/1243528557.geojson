@@ -97,6 +97,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682229,
         85633735,
         85687423
     ],
@@ -111,14 +112,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682229,
             "locality_id":1243528557,
             "region_id":85687423
         }
     ],
     "wof:id":1243528557,
-    "wof:lastmodified":1566608811,
+    "wof:lastmodified":1576712107,
     "wof:name":"Alijo",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511682229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

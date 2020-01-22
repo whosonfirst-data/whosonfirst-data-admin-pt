@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680561,
+        85633735,
+        85687381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"8f8c5c77a5cbf5158bd3669156ba6c7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209695263
+            "localadmin_id":1511680561,
+            "locality_id":1209695263,
+            "region_id":85687381
         }
     ],
     "wof:id":1209695263,
-    "wof:lastmodified":1566608030,
+    "wof:lastmodified":1576711954,
     "wof:name":"Azoia",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

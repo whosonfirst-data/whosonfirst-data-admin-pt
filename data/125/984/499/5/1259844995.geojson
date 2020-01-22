@@ -41,6 +41,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679413,
         85633735,
         85687359
     ],
@@ -54,14 +55,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679413,
             "locality_id":1259844995,
             "region_id":85687359
         }
     ],
     "wof:id":1259844995,
-    "wof:lastmodified":1566608993,
+    "wof:lastmodified":1576712144,
     "wof:name":"Abela",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

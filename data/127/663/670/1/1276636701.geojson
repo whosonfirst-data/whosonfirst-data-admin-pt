@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682307,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682307,
             "locality_id":1276636701,
             "region_id":85687397
         }
     ],
     "wof:id":1276636701,
-    "wof:lastmodified":1566607898,
+    "wof:lastmodified":1576712206,
     "wof:name":"Pai Viegas",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

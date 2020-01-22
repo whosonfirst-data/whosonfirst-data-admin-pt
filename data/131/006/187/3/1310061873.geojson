@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685325,
         85633735,
         85687437
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685325,
             "locality_id":1310061873,
             "region_id":85687437
         }
     ],
     "wof:id":1310061873,
-    "wof:lastmodified":1566608263,
+    "wof:lastmodified":1576712292,
     "wof:name":"Ribeira Seca",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685325,
     "wof:placetype":"locality",
     "wof:population":1106,
     "wof:population_rank":3,

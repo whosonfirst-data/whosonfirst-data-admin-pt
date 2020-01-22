@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125384981,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125384981,
             "locality_id":1226013595,
             "region_id":85687401
         }
     ],
     "wof:id":1226013595,
-    "wof:lastmodified":1566609198,
+    "wof:lastmodified":1576711990,
     "wof:name":"Vinhos",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1125384981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

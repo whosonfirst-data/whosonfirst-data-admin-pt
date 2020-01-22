@@ -84,6 +84,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682981,
         85633735,
         85687411
     ],
@@ -100,14 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682981,
             "locality_id":1125919403,
             "region_id":85687411
         }
     ],
     "wof:id":1125919403,
-    "wof:lastmodified":1566608723,
+    "wof:lastmodified":1576711850,
     "wof:name":"Canelas",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682981,
     "wof:placetype":"locality",
     "wof:population":14247,
     "wof:population_rank":6,

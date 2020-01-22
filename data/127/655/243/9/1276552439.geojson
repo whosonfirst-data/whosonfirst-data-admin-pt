@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684713,
         85633735,
         85687415
     ],
@@ -72,14 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684713,
             "locality_id":1276552439,
             "region_id":85687415
         }
     ],
     "wof:id":1276552439,
-    "wof:lastmodified":1566607887,
+    "wof:lastmodified":1576712201,
     "wof:name":"Failde",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -84,6 +84,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679885,
         85633735,
         85687373
     ],
@@ -100,14 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679885,
             "locality_id":1125958175,
             "region_id":85687373
         }
     ],
     "wof:id":1125958175,
-    "wof:lastmodified":1566608607,
+    "wof:lastmodified":1576711857,
     "wof:name":"Santo Amaro",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511679885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

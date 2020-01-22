@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682817,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682817,
             "locality_id":1259957929,
             "region_id":85687397
         }
     ],
     "wof:id":1259957929,
-    "wof:lastmodified":1566609018,
+    "wof:lastmodified":1576712152,
     "wof:name":"Carrascais",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

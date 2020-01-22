@@ -62,6 +62,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682655,
         85633735,
         85687397
     ],
@@ -76,14 +77,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682655,
             "locality_id":1259867731,
             "region_id":85687397
         }
     ],
     "wof:id":1259867731,
-    "wof:lastmodified":1566609066,
+    "wof:lastmodified":1576712145,
     "wof:name":"Eirado",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682655,
     "wof:placetype":"locality",
     "wof:population":230,
     "wof:population_rank":2,

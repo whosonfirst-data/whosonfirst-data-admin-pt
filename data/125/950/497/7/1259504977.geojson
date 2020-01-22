@@ -133,6 +133,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681123,
         85633735,
         85687391
     ],
@@ -146,14 +147,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681123,
             "locality_id":1259504977,
             "region_id":85687391
         }
     ],
     "wof:id":1259504977,
-    "wof:lastmodified":1566609010,
+    "wof:lastmodified":1576712123,
     "wof:name":"Zorro",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

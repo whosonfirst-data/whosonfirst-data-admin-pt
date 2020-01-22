@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680661,
         85633735,
         85687381
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680661,
             "locality_id":1343637825,
             "region_id":85687381
         }
     ],
     "wof:id":1343637825,
-    "wof:lastmodified":1566607339,
+    "wof:lastmodified":1576712389,
     "wof:name":"Padrao",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -43,7 +43,7 @@
     "wd:wordcount":105,
     "wof:belongsto":[
         102191581,
-        101845443,
+        1511679175,
         85633735,
         85687409
     ],
@@ -60,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101845443,
+            "localadmin_id":1511679175,
+            "locality_id":1175613445,
             "region_id":85687409
         }
     ],
     "wof:id":1175613445,
-    "wof:lastmodified":1566608207,
+    "wof:lastmodified":1576711895,
     "wof:name":"Sobreiro",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511679175,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

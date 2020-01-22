@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685605,
+        85633735,
+        85687373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"609b6038b02279f48c9d2d5cdb2a66c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209186609
+            "localadmin_id":1511685605,
+            "locality_id":1209186609,
+            "region_id":85687373
         }
     ],
     "wof:id":1209186609,
-    "wof:lastmodified":1566608049,
+    "wof:lastmodified":1576711922,
     "wof:name":"Padrao",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

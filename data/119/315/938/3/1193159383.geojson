@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679835,
         85633735,
         85687363
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679835,
             "locality_id":1193159383,
             "region_id":85687363
         }
     ],
     "wof:id":1193159383,
-    "wof:lastmodified":1566608106,
+    "wof:lastmodified":1576711907,
     "wof:name":"Monte da Granja",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679835,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

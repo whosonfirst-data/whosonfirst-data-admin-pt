@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679227,
         85633735,
         85687433
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679227,
             "locality_id":1260155227,
             "region_id":85687433
         }
     ],
     "wof:id":1260155227,
-    "wof:lastmodified":1566608150,
+    "wof:lastmodified":1576712164,
     "wof:name":"Talhareses",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

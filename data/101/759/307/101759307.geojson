@@ -58,6 +58,7 @@
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
+        1511683395,
         85633735,
         85687411
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683395,
             "locality_id":101759307,
             "region_id":85687411
         }
     ],
     "wof:id":101759307,
-    "wof:lastmodified":1566608463,
+    "wof:lastmodified":1576711757,
     "wof:name":"Freixieiro",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

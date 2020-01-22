@@ -96,6 +96,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678869,
         85633735,
         85687349
     ],
@@ -117,6 +118,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678869,
             "locality_id":101849903,
             "region_id":85687349
         }
@@ -125,9 +127,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608497,
+    "wof:lastmodified":1576711790,
     "wof:name":"Carvoeiro",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678869,
     "wof:placetype":"locality",
     "wof:population":2784,
     "wof:population_rank":4,

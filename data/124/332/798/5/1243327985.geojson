@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684909,
         85633735,
         85687423
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684909,
             "locality_id":1243327985,
             "region_id":85687423
         }
     ],
     "wof:id":1243327985,
-    "wof:lastmodified":1566608888,
+    "wof:lastmodified":1576712092,
     "wof:name":"Polide de Cima",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

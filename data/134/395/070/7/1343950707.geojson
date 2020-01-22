@@ -67,6 +67,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680547,
         85633735,
         85687385
     ],
@@ -80,14 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680547,
             "locality_id":1343950707,
             "region_id":85687385
         }
     ],
     "wof:id":1343950707,
-    "wof:lastmodified":1566607400,
+    "wof:lastmodified":1576712402,
     "wof:name":"Portela",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

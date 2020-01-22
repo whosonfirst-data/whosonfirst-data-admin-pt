@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682059,
         85633735,
         85687409
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682059,
             "locality_id":1327440119,
             "region_id":85687409
         }
     ],
     "wof:id":1327440119,
-    "wof:lastmodified":1566607249,
+    "wof:lastmodified":1576712366,
     "wof:name":"Taipa",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

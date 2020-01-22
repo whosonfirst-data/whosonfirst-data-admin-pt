@@ -486,6 +486,7 @@
     "wd:wordcount":7149,
     "wof:belongsto":[
         102191581,
+        1125409915,
         85633735,
         85687411
     ],
@@ -507,6 +508,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409915,
             "locality_id":101752093,
             "region_id":85687411
         }
@@ -515,10 +517,10 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608383,
+    "wof:lastmodified":1576711750,
     "wof:megacity":1,
     "wof:name":"Porto",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1125409915,
     "wof:placetype":"locality",
     "wof:population":249633,
     "wof:population_rank":10,

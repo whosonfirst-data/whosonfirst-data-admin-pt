@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1125395765,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"9b7144d819e840ee330808d72865d8a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209637595
+            "localadmin_id":1125395765,
+            "locality_id":1209637595,
+            "region_id":85687385
         }
     ],
     "wof:id":1209637595,
-    "wof:lastmodified":1566607959,
+    "wof:lastmodified":1576711951,
     "wof:name":"Passaria",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1125395765,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

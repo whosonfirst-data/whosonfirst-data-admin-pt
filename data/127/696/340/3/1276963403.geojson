@@ -175,6 +175,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678975,
         85633735,
         85687349
     ],
@@ -188,14 +189,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678975,
             "locality_id":1276963403,
             "region_id":85687349
         }
     ],
     "wof:id":1276963403,
-    "wof:lastmodified":1566607908,
+    "wof:lastmodified":1576712222,
     "wof:name":"Nave",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -85,6 +85,7 @@
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
+        1511681443,
         85633735,
         85687391
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681443,
             "locality_id":101777217,
             "region_id":85687391
         }
     ],
     "wof:id":101777217,
-    "wof:lastmodified":1566608439,
+    "wof:lastmodified":1576711771,
     "wof:name":"Lagares",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

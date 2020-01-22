@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679979,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"e75a403b41ad7d333bd3707b7aa621c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209694715
+            "localadmin_id":1511679979,
+            "locality_id":1209694715,
+            "region_id":85687367
         }
     ],
     "wof:id":1209694715,
-    "wof:lastmodified":1566608029,
+    "wof:lastmodified":1576711954,
     "wof:name":"Aveiras de Baixo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679979,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

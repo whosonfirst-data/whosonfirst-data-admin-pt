@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685313,
         85633735,
         85687437
     ],
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685313,
             "locality_id":1242633575,
             "region_id":85687437
         }
     ],
     "wof:id":1242633575,
-    "wof:lastmodified":1566608939,
+    "wof:lastmodified":1576712045,
     "wof:name":"Ribeira Cha",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685313,
     "wof:placetype":"locality",
     "wof:population":396,
     "wof:population_rank":2,

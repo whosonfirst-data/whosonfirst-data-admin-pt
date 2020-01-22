@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679131,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"b9876856b60d2331b4a4617749864d2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209682069
+            "localadmin_id":1511679131,
+            "locality_id":1209682069,
+            "region_id":85687377
         }
     ],
     "wof:id":1209682069,
-    "wof:lastmodified":1566608008,
+    "wof:lastmodified":1576711952,
     "wof:name":"Quinta do Gualdim",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

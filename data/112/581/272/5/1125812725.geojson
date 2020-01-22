@@ -86,6 +86,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680861,
         85633735,
         85687385
     ],
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680861,
             "locality_id":1125812725,
             "region_id":85687385
         }
     ],
     "wof:id":1125812725,
-    "wof:lastmodified":1566608649,
+    "wof:lastmodified":1576711827,
     "wof:name":"Lardosa",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

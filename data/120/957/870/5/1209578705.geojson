@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680679,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"a2158a78663a5f010764ce22109e5258",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209578705
+            "localadmin_id":1511680679,
+            "locality_id":1209578705,
+            "region_id":85687377
         }
     ],
     "wof:id":1209578705,
-    "wof:lastmodified":1566608005,
+    "wof:lastmodified":1576711945,
     "wof:name":"Casal Monte",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

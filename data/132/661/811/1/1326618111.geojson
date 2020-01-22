@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682461,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682461,
             "locality_id":1326618111,
             "region_id":85687397
         }
     ],
     "wof:id":1326618111,
-    "wof:lastmodified":1566607143,
+    "wof:lastmodified":1576712331,
     "wof:name":"Aldeia Nova",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -57,7 +57,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679085,
+        85633735,
+        85687363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +70,17 @@
     "wof:geomhash":"17a3cf5baeaac9b34cc13dd1298f15fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209635381
+            "localadmin_id":1511679085,
+            "locality_id":1209635381,
+            "region_id":85687363
         }
     ],
     "wof:id":1209635381,
-    "wof:lastmodified":1566607959,
+    "wof:lastmodified":1576711951,
     "wof:name":"Misericordia",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679085,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

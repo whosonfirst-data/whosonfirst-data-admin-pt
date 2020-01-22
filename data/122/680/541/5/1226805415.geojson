@@ -99,6 +99,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685463,
         85633735,
         85687465
     ],
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685463,
             "locality_id":1226805415,
             "region_id":85687465
         }
     ],
     "wof:id":1226805415,
-    "wof:lastmodified":1566609103,
+    "wof:lastmodified":1576712039,
     "wof:name":"Lajes das Flores",
-    "wof:parent_id":85687465,
+    "wof:parent_id":1511685463,
     "wof:placetype":"locality",
     "wof:population":3907,
     "wof:population_rank":4,

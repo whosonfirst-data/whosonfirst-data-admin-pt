@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680025,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"f8e2027deb451db3f76fc3386c509da2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209076961
+            "localadmin_id":1511680025,
+            "locality_id":1209076961,
+            "region_id":85687367
         }
     ],
     "wof:id":1209076961,
-    "wof:lastmodified":1566607934,
+    "wof:lastmodified":1576711916,
     "wof:name":"Abrunheira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

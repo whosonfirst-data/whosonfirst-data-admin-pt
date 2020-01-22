@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683571,
         85633735,
         85687419
     ],
@@ -72,14 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683571,
             "locality_id":1243006271,
             "region_id":85687419
         }
     ],
     "wof:id":1243006271,
-    "wof:lastmodified":1566608796,
+    "wof:lastmodified":1576712072,
     "wof:name":"Areias",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683571,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

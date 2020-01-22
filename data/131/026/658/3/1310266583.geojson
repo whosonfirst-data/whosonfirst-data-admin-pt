@@ -391,6 +391,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679319,
         85633735,
         85687433
     ],
@@ -404,14 +405,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679319,
             "locality_id":1310266583,
             "region_id":85687433
         }
     ],
     "wof:id":1310266583,
-    "wof:lastmodified":1566608292,
+    "wof:lastmodified":1576712301,
     "wof:name":"Zebra",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511679319,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

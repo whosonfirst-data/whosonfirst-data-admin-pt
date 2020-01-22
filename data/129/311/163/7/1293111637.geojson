@@ -70,6 +70,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681657,
         85633735,
         85687409
     ],
@@ -83,14 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681657,
             "locality_id":1293111637,
             "region_id":85687409
         }
     ],
     "wof:id":1293111637,
-    "wof:lastmodified":1566607710,
+    "wof:lastmodified":1576712239,
     "wof:name":"Mota",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

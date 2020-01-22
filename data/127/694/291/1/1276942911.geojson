@@ -49,6 +49,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125409921,
         85633735,
         85687359
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409921,
             "locality_id":1276942911,
             "region_id":85687359
         }
     ],
     "wof:id":1276942911,
-    "wof:lastmodified":1566607812,
+    "wof:lastmodified":1576712221,
     "wof:name":"Santa Margarida da Serra",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1125409921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

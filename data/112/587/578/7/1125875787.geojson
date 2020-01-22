@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683003,
         85633735,
         85687411
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683003,
             "locality_id":1125875787,
             "region_id":85687411
         }
     ],
     "wof:id":1125875787,
-    "wof:lastmodified":1566608676,
+    "wof:lastmodified":1576711841,
     "wof:name":"V\u00e1rzea do Douro",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -88,6 +88,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511683843,
         85633735,
         85687411
     ],
@@ -102,14 +103,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683843,
             "locality_id":101831407,
             "region_id":85687411
         }
     ],
     "wof:id":101831407,
-    "wof:lastmodified":1566608506,
+    "wof:lastmodified":1576711781,
     "wof:name":"Lagoa",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683843,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

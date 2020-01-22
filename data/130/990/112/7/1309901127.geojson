@@ -44,7 +44,12 @@
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1511685497,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2266880,
@@ -54,16 +59,17 @@
     "wof:geomhash":"b663c73fef7a40be501164ecd8dc44d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685497,
             "locality_id":1309901127,
-            "region_id":-1
+            "region_id":85687345
         }
     ],
     "wof:id":1309901127,
-    "wof:lastmodified":1566608544,
+    "wof:lastmodified":1576712287,
     "wof:name":"Madalena do Mar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1511685497,
     "wof:placetype":"locality",
     "wof:population":516,
     "wof:population_rank":2,

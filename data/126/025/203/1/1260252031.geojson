@@ -79,6 +79,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125375755,
         85633735,
         85687373
     ],
@@ -92,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125375755,
             "locality_id":1260252031,
             "region_id":85687373
         }
     ],
     "wof:id":1260252031,
-    "wof:lastmodified":1566608157,
+    "wof:lastmodified":1576712169,
     "wof:name":"Seda",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1125375755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

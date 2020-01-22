@@ -52,6 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681945,
         85633735,
         85687409
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681945,
             "locality_id":1193149741,
             "region_id":85687409
         }
     ],
     "wof:id":1193149741,
-    "wof:lastmodified":1566608113,
+    "wof:lastmodified":1576711907,
     "wof:name":"Aguada de Baixo",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -114,7 +114,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682531,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,14 +127,17 @@
     "wof:geomhash":"59a8983142bf551b3a1047166846e8ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209182953
+            "localadmin_id":1511682531,
+            "locality_id":1209182953,
+            "region_id":85687401
         }
     ],
     "wof:id":1209182953,
-    "wof:lastmodified":1566608049,
+    "wof:lastmodified":1576711921,
     "wof:name":"Taboadela",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682531,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

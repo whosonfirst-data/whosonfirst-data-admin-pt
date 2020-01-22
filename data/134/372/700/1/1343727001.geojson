@@ -40,6 +40,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685095,
         85633735,
         85687433
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685095,
             "locality_id":1343727001,
             "region_id":85687433
         }
     ],
     "wof:id":1343727001,
-    "wof:lastmodified":1566607535,
+    "wof:lastmodified":1576712392,
     "wof:name":"Ribeirinho",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511685095,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

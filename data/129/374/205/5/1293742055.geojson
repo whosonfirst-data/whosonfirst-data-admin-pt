@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685669,
         85633735,
         85687459
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685669,
             "locality_id":1293742055,
             "region_id":85687459
         }
     ],
     "wof:id":1293742055,
-    "wof:lastmodified":1566607725,
+    "wof:lastmodified":1576712264,
     "wof:name":"Beco",
-    "wof:parent_id":85687459,
+    "wof:parent_id":1511685669,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

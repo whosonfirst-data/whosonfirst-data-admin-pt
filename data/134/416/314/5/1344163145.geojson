@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682195,
         85633735,
         85687419
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682195,
             "locality_id":1344163145,
             "region_id":85687419
         }
     ],
     "wof:id":1344163145,
-    "wof:lastmodified":1566607475,
+    "wof:lastmodified":1576712410,
     "wof:name":"Penedos Altos",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511682195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

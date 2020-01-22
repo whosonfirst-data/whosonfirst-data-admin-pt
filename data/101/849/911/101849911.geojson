@@ -43,6 +43,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679755,
         85633735,
         85687367
     ],
@@ -59,6 +60,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679755,
             "locality_id":101849911,
             "region_id":85687367
         }
@@ -67,9 +69,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608499,
+    "wof:lastmodified":1576711790,
     "wof:name":"Venda Seca",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

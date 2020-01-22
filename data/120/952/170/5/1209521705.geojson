@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684583,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"97efe080626d33aabe5b24a0b948fef7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209521705
+            "localadmin_id":1511684583,
+            "locality_id":1209521705,
+            "region_id":85687419
         }
     ],
     "wof:id":1209521705,
-    "wof:lastmodified":1566607966,
+    "wof:lastmodified":1576711944,
     "wof:name":"Espinheira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -52,6 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684789,
         85633735,
         85687423
     ],
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684789,
             "locality_id":1309780033,
             "region_id":85687423
         }
     ],
     "wof:id":1309780033,
-    "wof:lastmodified":1566608556,
+    "wof:lastmodified":1576712282,
     "wof:name":"Bobadela",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684789,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

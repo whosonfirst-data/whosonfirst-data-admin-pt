@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125358967,
         85633735,
         85687377
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125358967,
             "locality_id":1125799211,
             "region_id":85687377
         }
     ],
     "wof:id":1125799211,
-    "wof:lastmodified":1566608780,
+    "wof:lastmodified":1576711824,
     "wof:name":"Porto de Muge",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1125358967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

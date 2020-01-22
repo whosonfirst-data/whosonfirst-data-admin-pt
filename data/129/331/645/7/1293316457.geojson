@@ -38,6 +38,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683563,
         85633735,
         85687419
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683563,
             "locality_id":1293316457,
             "region_id":85687419
         }
     ],
     "wof:id":1293316457,
-    "wof:lastmodified":1566607605,
+    "wof:lastmodified":1576712248,
     "wof:name":"Vila Frescainha",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

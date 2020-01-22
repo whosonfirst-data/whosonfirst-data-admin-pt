@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682819,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"b836dd0d090e4e8df5c679d48cf3218b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209217701
+            "localadmin_id":1511682819,
+            "locality_id":1209217701,
+            "region_id":85687409
         }
     ],
     "wof:id":1209217701,
-    "wof:lastmodified":1566608067,
+    "wof:lastmodified":1576711925,
     "wof:name":"Serzedelo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682819,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

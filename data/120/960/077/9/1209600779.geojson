@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679499,
+        85633735,
+        85687363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"4c32c316136a5846e2965aec53b2822a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209600779
+            "localadmin_id":1511679499,
+            "locality_id":1209600779,
+            "region_id":85687363
         }
     ],
     "wof:id":1209600779,
-    "wof:lastmodified":1566608027,
+    "wof:lastmodified":1576711948,
     "wof:name":"Confraria",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679499,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

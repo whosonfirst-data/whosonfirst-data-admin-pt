@@ -44,8 +44,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685539,
         85633735,
-        85687345
+        85687337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685539,
             "locality_id":1293195795,
-            "region_id":85687345
+            "region_id":85687337
         }
     ],
     "wof:id":1293195795,
-    "wof:lastmodified":1566607735,
+    "wof:lastmodified":1576712242,
     "wof:name":"Agua de Pena",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685539,
     "wof:placetype":"locality",
     "wof:population":2434,
     "wof:population_rank":4,

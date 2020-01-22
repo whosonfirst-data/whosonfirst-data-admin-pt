@@ -76,6 +76,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680799,
         85633735,
         85687381
     ],
@@ -93,14 +94,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680799,
             "locality_id":1125912963,
             "region_id":85687381
         }
     ],
     "wof:id":1125912963,
-    "wof:lastmodified":1566608726,
+    "wof:lastmodified":1576711848,
     "wof:name":"Monte Redondo",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680799,
     "wof:placetype":"locality",
     "wof:population":4463,
     "wof:population_rank":4,

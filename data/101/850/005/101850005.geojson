@@ -75,6 +75,7 @@
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
+        1511685637,
         85633735,
         85687441
     ],
@@ -93,6 +94,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685637,
             "locality_id":101850005,
             "region_id":85687441
         }
@@ -101,9 +103,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608394,
+    "wof:lastmodified":1576711791,
     "wof:name":"Porto Judeu",
-    "wof:parent_id":85687441,
+    "wof:parent_id":1511685637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

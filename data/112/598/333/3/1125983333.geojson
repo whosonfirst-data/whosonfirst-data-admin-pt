@@ -75,6 +75,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679785,
         85633735,
         85687367
     ],
@@ -91,14 +92,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679785,
             "locality_id":1125983333,
             "region_id":85687367
         }
     ],
     "wof:id":1125983333,
-    "wof:lastmodified":1566608731,
+    "wof:lastmodified":1576711868,
     "wof:name":"Colares",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679785,
     "wof:placetype":"locality",
     "wof:population":7905,
     "wof:population_rank":5,

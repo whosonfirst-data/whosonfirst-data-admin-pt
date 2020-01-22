@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125328177,
         85633735,
         85687367
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125328177,
             "locality_id":1309777027,
             "region_id":85687367
         }
     ],
     "wof:id":1309777027,
-    "wof:lastmodified":1566608548,
+    "wof:lastmodified":1576712282,
     "wof:name":"Grossinhos",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125328177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

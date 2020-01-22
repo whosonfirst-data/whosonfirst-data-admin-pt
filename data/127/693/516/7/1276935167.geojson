@@ -67,6 +67,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685611,
         85633735,
         85687447
     ],
@@ -80,14 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685611,
             "locality_id":1276935167,
             "region_id":85687447
         }
     ],
     "wof:id":1276935167,
-    "wof:lastmodified":1566607814,
+    "wof:lastmodified":1576712220,
     "wof:name":"Ribeira Grande",
-    "wof:parent_id":85687447,
+    "wof:parent_id":1511685611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

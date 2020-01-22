@@ -81,6 +81,7 @@
     "wd:wordcount":544,
     "wof:belongsto":[
         102191581,
+        1511684575,
         85633735,
         85687419
     ],
@@ -98,6 +99,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684575,
             "locality_id":101831455,
             "region_id":85687419
         }
@@ -106,9 +108,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608505,
+    "wof:lastmodified":1576711782,
     "wof:name":"Mar",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

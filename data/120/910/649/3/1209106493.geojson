@@ -55,7 +55,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684245,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +68,17 @@
     "wof:geomhash":"40c522c849ec4211c3eda6aa5a5ac45d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209106493
+            "localadmin_id":1511684245,
+            "locality_id":1209106493,
+            "region_id":85687419
         }
     ],
     "wof:id":1209106493,
-    "wof:lastmodified":1566608077,
+    "wof:lastmodified":1576711918,
     "wof:name":"Guisande",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684245,
     "wof:placetype":"locality",
     "wof:population":1053,
     "wof:population_rank":3,

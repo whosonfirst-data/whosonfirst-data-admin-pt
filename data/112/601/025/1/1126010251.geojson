@@ -87,6 +87,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680495,
         85633735,
         85687377
     ],
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680495,
             "locality_id":1126010251,
             "region_id":85687377
         }
     ],
     "wof:id":1126010251,
-    "wof:lastmodified":1566608737,
+    "wof:lastmodified":1576711881,
     "wof:name":"Sobral",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

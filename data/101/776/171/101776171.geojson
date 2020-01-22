@@ -117,6 +117,7 @@
     "wd:wordcount":100,
     "wof:belongsto":[
         102191581,
+        1511681365,
         85633735,
         85687391
     ],
@@ -135,6 +136,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681365,
             "locality_id":101776171,
             "region_id":85687391
         }
@@ -143,9 +145,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608436,
+    "wof:lastmodified":1576711764,
     "wof:name":"T\u00e1bua",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -65,6 +65,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679353,
         85633735,
         85687415
     ],
@@ -78,14 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679353,
             "locality_id":1243559255,
             "region_id":85687415
         }
     ],
     "wof:id":1243559255,
-    "wof:lastmodified":1566608812,
+    "wof:lastmodified":1576712110,
     "wof:name":"Carragosa",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511679353,
     "wof:placetype":"locality",
     "wof:population":190,
     "wof:population_rank":1,

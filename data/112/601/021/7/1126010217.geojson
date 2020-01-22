@@ -123,6 +123,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682169,
         85633735,
         85687401
     ],
@@ -139,14 +140,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682169,
             "locality_id":1126010217,
             "region_id":85687401
         }
     ],
     "wof:id":1126010217,
-    "wof:lastmodified":1566608742,
+    "wof:lastmodified":1576711881,
     "wof:name":"Real",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

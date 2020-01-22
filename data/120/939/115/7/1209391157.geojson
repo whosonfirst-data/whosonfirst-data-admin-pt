@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683181,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"8f9444cd56e8b02514de68a05c1c9809",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209391157
+            "localadmin_id":1511683181,
+            "locality_id":1209391157,
+            "region_id":85687411
         }
     ],
     "wof:id":1209391157,
-    "wof:lastmodified":1566607946,
+    "wof:lastmodified":1576711936,
     "wof:name":"Vilarelho",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

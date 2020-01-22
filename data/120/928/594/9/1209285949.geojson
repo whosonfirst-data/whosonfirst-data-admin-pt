@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683917,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"932b1b1c7714f0e0b01f881a14d6dcea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209285949
+            "localadmin_id":1511683917,
+            "locality_id":1209285949,
+            "region_id":85687411
         }
     ],
     "wof:id":1209285949,
-    "wof:lastmodified":1566608072,
+    "wof:lastmodified":1576711929,
     "wof:name":"Sendim",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

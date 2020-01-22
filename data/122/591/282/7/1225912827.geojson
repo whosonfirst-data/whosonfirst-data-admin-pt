@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685181,
         85633735,
         85687455
     ],
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685181,
             "locality_id":1225912827,
             "region_id":85687455
         }
     ],
     "wof:id":1225912827,
-    "wof:lastmodified":1566609152,
+    "wof:lastmodified":1576711983,
     "wof:name":"Castelo Branco",
-    "wof:parent_id":85687455,
+    "wof:parent_id":1511685181,
     "wof:placetype":"locality",
     "wof:population":1309,
     "wof:population_rank":3,

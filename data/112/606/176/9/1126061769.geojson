@@ -79,9 +79,7 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101752095,
-        85633735,
-        85687411
+        101752095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,14 +93,14 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633735,
+            "country_id":-1,
             "locality_id":101752095,
             "neighbourhood_id":1126061769,
-            "region_id":85687411
+            "region_id":-1
         }
     ],
     "wof:id":1126061769,
-    "wof:lastmodified":1566608735,
+    "wof:lastmodified":1576711894,
     "wof:name":"Mafamude",
     "wof:parent_id":101752095,
     "wof:placetype":"neighbourhood",

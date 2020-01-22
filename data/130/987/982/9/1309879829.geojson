@@ -94,6 +94,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684501,
         85633735,
         85687423
     ],
@@ -107,14 +108,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684501,
             "locality_id":1309879829,
             "region_id":85687423
         }
     ],
     "wof:id":1309879829,
-    "wof:lastmodified":1566608574,
+    "wof:lastmodified":1576712286,
     "wof:name":"Cabanes",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684501,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

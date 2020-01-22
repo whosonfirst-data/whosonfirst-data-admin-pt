@@ -104,6 +104,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679647,
         85633735,
         85687367
     ],
@@ -121,14 +122,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679647,
             "locality_id":1125775589,
             "region_id":85687367
         }
     ],
     "wof:id":1125775589,
-    "wof:lastmodified":1566608785,
+    "wof:lastmodified":1576711819,
     "wof:name":"Cacilhas",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679647,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

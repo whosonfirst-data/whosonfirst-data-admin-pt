@@ -51,6 +51,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683067,
         85633735,
         85687397
     ],
@@ -67,14 +68,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683067,
             "locality_id":1125854517,
             "region_id":85687397
         }
     ],
     "wof:id":1125854517,
-    "wof:lastmodified":1566608765,
+    "wof:lastmodified":1576711833,
     "wof:name":"Custoias",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511683067,
     "wof:placetype":"locality",
     "wof:population":19406,
     "wof:population_rank":6,

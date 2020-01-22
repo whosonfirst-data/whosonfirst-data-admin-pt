@@ -126,6 +126,7 @@
     "wd:wordcount":1051,
     "wof:belongsto":[
         102191581,
+        1511683403,
         85633735,
         85687423
     ],
@@ -144,6 +145,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683403,
             "locality_id":101775041,
             "region_id":85687423
         }
@@ -152,9 +154,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608518,
+    "wof:lastmodified":1576711761,
     "wof:name":"Sabrosa",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511683403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

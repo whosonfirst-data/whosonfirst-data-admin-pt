@@ -39,6 +39,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511681063,
         85633735,
         85687391
     ],
@@ -55,6 +56,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681063,
             "locality_id":101777191,
             "region_id":85687391
         }
@@ -63,9 +65,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608442,
+    "wof:lastmodified":1576711771,
     "wof:name":"Formeselha",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

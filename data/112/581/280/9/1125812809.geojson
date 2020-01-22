@@ -71,6 +71,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679515,
         85633735,
         85687359
     ],
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679515,
             "locality_id":1125812809,
             "region_id":85687359
         }
     ],
     "wof:id":1125812809,
-    "wof:lastmodified":1566608648,
+    "wof:lastmodified":1576711827,
     "wof:name":"Portinho da Arr\u00e1bida",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

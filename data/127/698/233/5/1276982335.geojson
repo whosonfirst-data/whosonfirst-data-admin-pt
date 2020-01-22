@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679035,
         85633735,
         85687355
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679035,
             "locality_id":1276982335,
             "region_id":85687355
         }
     ],
     "wof:id":1276982335,
-    "wof:lastmodified":1566607912,
+    "wof:lastmodified":1576712223,
     "wof:name":"Almograve",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679035,
     "wof:placetype":"locality",
     "wof:population":1356,
     "wof:population_rank":3,

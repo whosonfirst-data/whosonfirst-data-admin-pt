@@ -73,6 +73,7 @@
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
+        1511679561,
         85633735,
         85687359
     ],
@@ -90,14 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679561,
             "locality_id":101832947,
             "region_id":85687359
         }
     ],
     "wof:id":101832947,
-    "wof:lastmodified":1566608401,
+    "wof:lastmodified":1576711787,
     "wof:name":"Fern\u00e3o Ferro",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679561,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -83,6 +83,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682403,
         85633735,
         85687411
     ],
@@ -98,14 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682403,
             "locality_id":101776271,
             "region_id":85687411
         }
     ],
     "wof:id":101776271,
-    "wof:lastmodified":1566608432,
+    "wof:lastmodified":1576711766,
     "wof:name":"Coronado",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682403,
     "wof:placetype":"locality",
     "wof:population":8697,
     "wof:population_rank":5,

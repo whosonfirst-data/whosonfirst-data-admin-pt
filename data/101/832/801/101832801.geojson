@@ -124,6 +124,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679597,
         85633735,
         85687359
     ],
@@ -142,6 +143,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679597,
             "locality_id":101832801,
             "region_id":85687359
         }
@@ -150,9 +152,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608405,
+    "wof:lastmodified":1576711783,
     "wof:name":"Amora",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679597,
     "wof:placetype":"locality",
     "wof:population":52577,
     "wof:population_rank":8,

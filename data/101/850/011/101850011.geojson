@@ -79,6 +79,7 @@
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
+        1511685289,
         85633735,
         85687441
     ],
@@ -96,14 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685289,
             "locality_id":101850011,
             "region_id":85687441
         }
     ],
     "wof:id":101850011,
-    "wof:lastmodified":1566608393,
+    "wof:lastmodified":1576711792,
     "wof:name":"Biscoitos",
-    "wof:parent_id":85687441,
+    "wof:parent_id":1511685289,
     "wof:placetype":"locality",
     "wof:population":1425,
     "wof:population_rank":3,

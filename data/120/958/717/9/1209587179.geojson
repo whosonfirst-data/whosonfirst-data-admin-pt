@@ -66,7 +66,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683233,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +79,17 @@
     "wof:geomhash":"acc92c8ce2d840555b1bf88c08fffa81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209587179
+            "localadmin_id":1511683233,
+            "locality_id":1209587179,
+            "region_id":85687411
         }
     ],
     "wof:id":1209587179,
-    "wof:lastmodified":1566608025,
+    "wof:lastmodified":1576711947,
     "wof:name":"Pinheiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

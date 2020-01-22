@@ -43,6 +43,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684617,
         85633735,
         85687423
     ],
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684617,
             "locality_id":1343726441,
             "region_id":85687423
         }
     ],
     "wof:id":1343726441,
-    "wof:lastmodified":1566607537,
+    "wof:lastmodified":1576712391,
     "wof:name":"Oura",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

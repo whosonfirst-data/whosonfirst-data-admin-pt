@@ -50,8 +50,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101759401,
+        1511683089,
         85633735,
+        101759401,
         85687411
     ],
     "wof:breaches":[],
@@ -67,13 +68,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683089,
             "locality_id":101759401,
             "neighbourhood_id":1126102935,
             "region_id":85687411
         }
     ],
     "wof:id":1126102935,
-    "wof:lastmodified":1566608615,
+    "wof:lastmodified":1576711895,
     "wof:name":"Oliveira do Douro",
     "wof:parent_id":101759401,
     "wof:placetype":"neighbourhood",

@@ -64,6 +64,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125313161,
         85633735,
         85687349
     ],
@@ -77,14 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125313161,
             "locality_id":1277060837,
             "region_id":85687349
         }
     ],
     "wof:id":1277060837,
-    "wof:lastmodified":1566607750,
+    "wof:lastmodified":1576712226,
     "wof:name":"Donalda",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1125313161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

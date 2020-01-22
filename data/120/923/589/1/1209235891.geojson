@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681367,
+        85633735,
+        85687391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"cdb2b86d7ec3cb451202c73d25b3617e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209235891
+            "localadmin_id":1511681367,
+            "locality_id":1209235891,
+            "region_id":85687391
         }
     ],
     "wof:id":1209235891,
-    "wof:lastmodified":1566607983,
+    "wof:lastmodified":1576711926,
     "wof:name":"Cochadas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

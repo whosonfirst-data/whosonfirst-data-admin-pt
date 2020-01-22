@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684929,
+        85633735,
+        85687423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"4cd7762c000043f1c8566ff864d7e6a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209080245
+            "localadmin_id":1511684929,
+            "locality_id":1209080245,
+            "region_id":85687423
         }
     ],
     "wof:id":1209080245,
-    "wof:lastmodified":1566607951,
+    "wof:lastmodified":1576711917,
     "wof:name":"Pincaes",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

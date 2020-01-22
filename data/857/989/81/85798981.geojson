@@ -61,8 +61,9 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101759079,
+        1511679077,
         85633735,
+        101752087,
         85687367
     ],
     "wof:breaches":[],
@@ -77,7 +78,8 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":101759079,
+            "localadmin_id":1511679077,
+            "locality_id":101752087,
             "neighbourhood_id":85798981,
             "region_id":85687367
         }
@@ -86,9 +88,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566607569,
+    "wof:lastmodified":1576712801,
     "wof:name":"Caselas",
-    "wof:parent_id":101759079,
+    "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

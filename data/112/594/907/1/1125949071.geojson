@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125270609,
         85633735,
         85687381
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270609,
             "locality_id":1125949071,
             "region_id":85687381
         }
     ],
     "wof:id":1125949071,
-    "wof:lastmodified":1566608590,
+    "wof:lastmodified":1576711854,
     "wof:name":"Azelha",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1125270609,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

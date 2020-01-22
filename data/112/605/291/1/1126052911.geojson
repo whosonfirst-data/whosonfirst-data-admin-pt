@@ -72,6 +72,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685515,
         85633735,
         85687345
     ],
@@ -87,14 +88,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685515,
             "locality_id":1126052911,
             "region_id":85687345
         }
     ],
     "wof:id":1126052911,
-    "wof:lastmodified":1566608625,
+    "wof:lastmodified":1576711892,
     "wof:name":"Ribeira da Janela",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

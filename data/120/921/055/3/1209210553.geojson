@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679793,
+        85633735,
+        85687363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"bbcd7391059c11338e6a07eed3f0fd8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209210553
+            "localadmin_id":1511679793,
+            "locality_id":1209210553,
+            "region_id":85687363
         }
     ],
     "wof:id":1209210553,
-    "wof:lastmodified":1566608067,
+    "wof:lastmodified":1576711924,
     "wof:name":"Sesmaria da Ameira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

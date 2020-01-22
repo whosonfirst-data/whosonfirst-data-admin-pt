@@ -59,6 +59,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680173,
         85633735,
         85687381
     ],
@@ -73,14 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680173,
             "locality_id":1309777457,
             "region_id":85687381
         }
     ],
     "wof:id":1309777457,
-    "wof:lastmodified":1566608549,
+    "wof:lastmodified":1576712282,
     "wof:name":"Nadadouro",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680173,
     "wof:placetype":"locality",
     "wof:population":1904,
     "wof:population_rank":3,

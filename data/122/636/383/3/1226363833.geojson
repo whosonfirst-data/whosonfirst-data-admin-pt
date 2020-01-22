@@ -43,6 +43,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125409901,
         85633735,
         85687391
     ],
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409901,
             "locality_id":1226363833,
             "region_id":85687391
         }
     ],
     "wof:id":1226363833,
-    "wof:lastmodified":1566609214,
+    "wof:lastmodified":1576712012,
     "wof:name":"Sobreira",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1125409901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -69,6 +69,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679925,
         85633735,
         85687377
     ],
@@ -84,14 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679925,
             "locality_id":101849923,
             "region_id":85687377
         }
     ],
     "wof:id":101849923,
-    "wof:lastmodified":1566608496,
+    "wof:lastmodified":1576711790,
     "wof:name":"Fajarda",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511679925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

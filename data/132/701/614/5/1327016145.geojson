@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680537,
         85633735,
         85687381
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680537,
             "locality_id":1327016145,
             "region_id":85687381
         }
     ],
     "wof:id":1327016145,
-    "wof:lastmodified":1566607113,
+    "wof:lastmodified":1576712348,
     "wof:name":"Casa dos Ferreiros",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680537,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

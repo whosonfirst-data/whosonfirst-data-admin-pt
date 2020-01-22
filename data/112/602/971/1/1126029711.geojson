@@ -57,6 +57,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685573,
         85633735,
         85687345
     ],
@@ -73,14 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685573,
             "locality_id":1126029711,
             "region_id":85687345
         }
     ],
     "wof:id":1126029711,
-    "wof:lastmodified":1566608618,
+    "wof:lastmodified":1576711887,
     "wof:name":"Ribeiro Frio",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

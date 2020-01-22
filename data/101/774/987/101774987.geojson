@@ -135,6 +135,7 @@
     "wd:wordcount":87,
     "wof:belongsto":[
         102191581,
+        1511684601,
         85633735,
         85687415
     ],
@@ -152,6 +153,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684601,
             "locality_id":101774987,
             "region_id":85687415
         }
@@ -160,9 +162,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608530,
+    "wof:lastmodified":1576711760,
     "wof:name":"Vimioso",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684601,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

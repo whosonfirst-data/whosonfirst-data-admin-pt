@@ -49,6 +49,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679079,
         85633735,
         85687363
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679079,
             "locality_id":1309796653,
             "region_id":85687363
         }
     ],
     "wof:id":1309796653,
-    "wof:lastmodified":1566608553,
+    "wof:lastmodified":1576712283,
     "wof:name":"Juncal",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

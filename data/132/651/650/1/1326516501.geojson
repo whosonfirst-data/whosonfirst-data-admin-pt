@@ -112,6 +112,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680817,
         85633735,
         85687381
     ],
@@ -125,14 +126,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680817,
             "locality_id":1326516501,
             "region_id":85687381
         }
     ],
     "wof:id":1326516501,
-    "wof:lastmodified":1566607133,
+    "wof:lastmodified":1576712324,
     "wof:name":"Boa Vista",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680817,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

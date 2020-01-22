@@ -46,6 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684925,
         85633735,
         85687423
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684925,
             "locality_id":1125969323,
             "region_id":85687423
         }
     ],
     "wof:id":1125969323,
-    "wof:lastmodified":1566608713,
+    "wof:lastmodified":1576711864,
     "wof:name":"Zebral",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684925,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

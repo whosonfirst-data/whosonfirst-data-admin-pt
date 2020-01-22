@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680697,
         85633735,
         85687385
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680697,
             "locality_id":1259781315,
             "region_id":85687385
         }
     ],
     "wof:id":1259781315,
-    "wof:lastmodified":1566609004,
+    "wof:lastmodified":1576712140,
     "wof:name":"Arraial da Fainina",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

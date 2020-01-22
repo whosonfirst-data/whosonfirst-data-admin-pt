@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680479,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"cdb28922bcce8440920727f43d3c8694",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209290325
+            "localadmin_id":1511680479,
+            "locality_id":1209290325,
+            "region_id":85687377
         }
     ],
     "wof:id":1209290325,
-    "wof:lastmodified":1566608039,
+    "wof:lastmodified":1576711930,
     "wof:name":"Cabecas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680479,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

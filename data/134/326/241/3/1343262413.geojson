@@ -76,6 +76,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684547,
         85633735,
         85687419
     ],
@@ -89,14 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684547,
             "locality_id":1343262413,
             "region_id":85687419
         }
     ],
     "wof:id":1343262413,
-    "wof:lastmodified":1566607523,
+    "wof:lastmodified":1576712370,
     "wof:name":"Vilar",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

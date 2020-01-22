@@ -40,6 +40,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680965,
         85633735,
         85687391
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680965,
             "locality_id":1276679615,
             "region_id":85687391
         }
     ],
     "wof:id":1276679615,
-    "wof:lastmodified":1566607813,
+    "wof:lastmodified":1576712209,
     "wof:name":"Carvalho",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511680965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

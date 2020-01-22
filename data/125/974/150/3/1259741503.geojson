@@ -39,6 +39,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685181,
         85633735,
         85687455
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685181,
             "locality_id":1259741503,
             "region_id":85687455
         }
     ],
     "wof:id":1259741503,
-    "wof:lastmodified":1566609045,
+    "wof:lastmodified":1576712136,
     "wof:name":"Cancela",
-    "wof:parent_id":85687455,
+    "wof:parent_id":1511685181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

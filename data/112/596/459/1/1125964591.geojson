@@ -74,6 +74,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679833,
         85633735,
         85687367
     ],
@@ -90,14 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679833,
             "locality_id":1125964591,
             "region_id":85687367
         }
     ],
     "wof:id":1125964591,
-    "wof:lastmodified":1566608718,
+    "wof:lastmodified":1576711859,
     "wof:name":"Broa",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679833,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

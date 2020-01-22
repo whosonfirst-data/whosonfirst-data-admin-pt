@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683575,
         85633735,
         85687419
     ],
@@ -72,14 +73,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683575,
             "locality_id":1276370137,
             "region_id":85687419
         }
     ],
     "wof:id":1276370137,
-    "wof:lastmodified":1566607898,
+    "wof:lastmodified":1576712191,
     "wof:name":"Pousa",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

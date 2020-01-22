@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682853,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"b4ebc79fcc03721dc5af146040917966",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209317893
+            "localadmin_id":1511682853,
+            "locality_id":1209317893,
+            "region_id":85687409
         }
     ],
     "wof:id":1209317893,
-    "wof:lastmodified":1566607927,
+    "wof:lastmodified":1576711932,
     "wof:name":"Pejao",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

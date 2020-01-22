@@ -62,6 +62,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684435,
         85633735,
         85687419
     ],
@@ -75,14 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684435,
             "locality_id":1226747769,
             "region_id":85687419
         }
     ],
     "wof:id":1226747769,
-    "wof:lastmodified":1566609105,
+    "wof:lastmodified":1576712036,
     "wof:name":"Perelhal",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684435,
     "wof:placetype":"locality",
     "wof:population":1749,
     "wof:population_rank":3,

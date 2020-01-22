@@ -102,9 +102,7 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101752087,
-        85633735,
-        85687367
+        101752087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,17 +114,17 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":85633735,
+            "country_id":-1,
             "locality_id":101752087,
             "neighbourhood_id":85862515,
-            "region_id":85687367
+            "region_id":-1
         }
     ],
     "wof:id":85862515,
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566607591,
+    "wof:lastmodified":1576712802,
     "wof:name":"Furnas",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

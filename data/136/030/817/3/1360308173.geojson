@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684881,
         85633735,
         85687415
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684881,
             "locality_id":1360308173,
             "region_id":85687415
         }
     ],
     "wof:id":1360308173,
-    "wof:lastmodified":1566608344,
+    "wof:lastmodified":1576712427,
     "wof:name":"Samil",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684881,
     "wof:placetype":"locality",
     "wof:population":1246,
     "wof:population_rank":3,

@@ -66,7 +66,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682733,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +79,17 @@
     "wof:geomhash":"cb1e78fd95beaad4804ee6f220441cd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209109215
+            "localadmin_id":1511682733,
+            "locality_id":1209109215,
+            "region_id":85687409
         }
     ],
     "wof:id":1209109215,
-    "wof:lastmodified":1566608077,
+    "wof:lastmodified":1576711919,
     "wof:name":"Quinta",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

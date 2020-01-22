@@ -35,6 +35,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681255,
         85633735,
         85687391
     ],
@@ -48,14 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681255,
             "locality_id":1327155531,
             "region_id":85687391
         }
     ],
     "wof:id":1327155531,
-    "wof:lastmodified":1566607168,
+    "wof:lastmodified":1576712354,
     "wof:name":"Santa Ovaia",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681255,
     "wof:placetype":"locality",
     "wof:population":952,
     "wof:population_rank":2,

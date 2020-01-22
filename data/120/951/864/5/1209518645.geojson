@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682681,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"7271585af945c24c018aa7ec5b8480ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209518645
+            "localadmin_id":1511682681,
+            "locality_id":1209518645,
+            "region_id":85687409
         }
     ],
     "wof:id":1209518645,
-    "wof:lastmodified":1566608034,
+    "wof:lastmodified":1576711944,
     "wof:name":"Lugar do Forno",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682449,
         85633735,
         85687401
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682449,
             "locality_id":1259936543,
             "region_id":85687401
         }
     ],
     "wof:id":1259936543,
-    "wof:lastmodified":1566609026,
+    "wof:lastmodified":1576712149,
     "wof:name":"Lousa",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682449,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

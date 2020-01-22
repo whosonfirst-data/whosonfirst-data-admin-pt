@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685475,
         85633735,
         85687465
     ],
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685475,
             "locality_id":1243130455,
             "region_id":85687465
         }
     ],
     "wof:id":1243130455,
-    "wof:lastmodified":1566608871,
+    "wof:lastmodified":1576712079,
     "wof:name":"Cedros",
-    "wof:parent_id":85687465,
+    "wof:parent_id":1511685475,
     "wof:placetype":"locality",
     "wof:population":128,
     "wof:population_rank":1,

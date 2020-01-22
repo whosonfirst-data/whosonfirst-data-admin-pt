@@ -97,6 +97,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679797,
         85633735,
         85687367
     ],
@@ -117,6 +118,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679797,
             "locality_id":101758917,
             "region_id":85687367
         }
@@ -125,9 +127,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608461,
+    "wof:lastmodified":1576711751,
     "wof:name":"P\u00f3voa de Santa Iria",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679797,
     "wof:placetype":"locality",
     "wof:population":28901,
     "wof:population_rank":7,

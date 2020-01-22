@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682997,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +74,17 @@
     "wof:geomhash":"6e4ba7eb132ce11284c93127c45907cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209170669
+            "localadmin_id":1511682997,
+            "locality_id":1209170669,
+            "region_id":85687401
         }
     ],
     "wof:id":1209170669,
-    "wof:lastmodified":1566608071,
+    "wof:lastmodified":1576711920,
     "wof:name":"Quintela",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682997,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

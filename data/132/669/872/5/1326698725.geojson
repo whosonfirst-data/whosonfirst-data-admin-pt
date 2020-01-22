@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685631,
         85633735,
         85687451
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685631,
             "locality_id":1326698725,
             "region_id":85687451
         }
     ],
     "wof:id":1326698725,
-    "wof:lastmodified":1566607134,
+    "wof:lastmodified":1576712334,
     "wof:name":"Toledo",
-    "wof:parent_id":85687451,
+    "wof:parent_id":1511685631,
     "wof:placetype":"locality",
     "wof:population":60,
     "wof:population_rank":1,

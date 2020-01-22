@@ -260,6 +260,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125423481,
         85633735,
         85687363
     ],
@@ -276,14 +277,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125423481,
             "locality_id":1125991735,
             "region_id":85687363
         }
     ],
     "wof:id":1125991735,
-    "wof:lastmodified":1566608685,
+    "wof:lastmodified":1576711872,
     "wof:name":"Pavia",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1125423481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

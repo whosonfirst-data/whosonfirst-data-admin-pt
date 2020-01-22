@@ -74,6 +74,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511685445,
         85633735,
         85687437
     ],
@@ -95,6 +96,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685445,
             "locality_id":101849945,
             "region_id":85687437
         }
@@ -103,9 +105,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608499,
+    "wof:lastmodified":1576711791,
     "wof:name":"Mosteiros",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

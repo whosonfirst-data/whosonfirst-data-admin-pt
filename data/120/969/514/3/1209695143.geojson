@@ -102,7 +102,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680737,
+        85633735,
+        85687381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,14 +115,17 @@
     "wof:geomhash":"9bec3612a636a63b959b163150a46575",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209695143
+            "localadmin_id":1511680737,
+            "locality_id":1209695143,
+            "region_id":85687381
         }
     ],
     "wof:id":1209695143,
-    "wof:lastmodified":1566608032,
+    "wof:lastmodified":1576711954,
     "wof:name":"Boca da Mata",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680737,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

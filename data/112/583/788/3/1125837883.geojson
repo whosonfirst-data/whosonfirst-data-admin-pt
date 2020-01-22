@@ -98,6 +98,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680553,
         85633735,
         85687377
     ],
@@ -114,14 +115,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680553,
             "locality_id":1125837883,
             "region_id":85687377
         }
     ],
     "wof:id":1125837883,
-    "wof:lastmodified":1566608791,
+    "wof:lastmodified":1576711830,
     "wof:name":"\u00d3bidos",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

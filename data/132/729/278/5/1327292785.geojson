@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683807,
         85633735,
         85687423
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683807,
             "locality_id":1327292785,
             "region_id":85687423
         }
     ],
     "wof:id":1327292785,
-    "wof:lastmodified":1566607296,
+    "wof:lastmodified":1576712359,
     "wof:name":"Pena",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511683807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

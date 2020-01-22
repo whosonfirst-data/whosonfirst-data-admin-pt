@@ -84,6 +84,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683409,
         85633735,
         85687411
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683409,
             "locality_id":1125930571,
             "region_id":85687411
         }
     ],
     "wof:id":1125930571,
-    "wof:lastmodified":1566608600,
+    "wof:lastmodified":1576711851,
     "wof:name":"Aveleda",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

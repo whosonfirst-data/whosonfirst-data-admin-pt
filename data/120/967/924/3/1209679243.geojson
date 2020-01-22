@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683779,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"f012ceae33e731d7b4ea2c09860d6a9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209679243
+            "localadmin_id":1511683779,
+            "locality_id":1209679243,
+            "region_id":85687411
         }
     ],
     "wof:id":1209679243,
-    "wof:lastmodified":1566608020,
+    "wof:lastmodified":1576711952,
     "wof:name":"Crasto",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

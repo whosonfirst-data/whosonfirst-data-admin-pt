@@ -78,7 +78,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680381,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +91,17 @@
     "wof:geomhash":"ee533a3c8328f1be8f0635a20dbd5b02",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209579037
+            "localadmin_id":1511680381,
+            "locality_id":1209579037,
+            "region_id":85687411
         }
     ],
     "wof:id":1209579037,
-    "wof:lastmodified":1566608005,
+    "wof:lastmodified":1576711946,
     "wof:name":"Salgueiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

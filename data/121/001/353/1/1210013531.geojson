@@ -37,6 +37,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681351,
         85633735,
         85687391
     ],
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681351,
             "locality_id":1210013531,
             "region_id":85687391
         }
     ],
     "wof:id":1210013531,
-    "wof:lastmodified":1566608088,
+    "wof:lastmodified":1576711973,
     "wof:name":"Sao Paio de Gramacos",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

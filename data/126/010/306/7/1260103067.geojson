@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681747,
         85633735,
         85687415
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681747,
             "locality_id":1260103067,
             "region_id":85687415
         }
     ],
     "wof:id":1260103067,
-    "wof:lastmodified":1566608185,
+    "wof:lastmodified":1576712161,
     "wof:name":"Cicouro",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511681747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

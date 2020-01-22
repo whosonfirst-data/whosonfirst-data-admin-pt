@@ -74,6 +74,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682379,
         85633735,
         85687411
     ],
@@ -87,14 +88,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682379,
             "locality_id":1343233643,
             "region_id":85687411
         }
     ],
     "wof:id":1343233643,
-    "wof:lastmodified":1566607379,
+    "wof:lastmodified":1576712368,
     "wof:name":"Anta",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682379,
     "wof:placetype":"locality",
     "wof:population":10951,
     "wof:population_rank":6,

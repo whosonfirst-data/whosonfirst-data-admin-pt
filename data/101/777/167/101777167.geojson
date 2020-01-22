@@ -73,6 +73,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681369,
         85633735,
         85687385
     ],
@@ -90,6 +91,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681369,
             "locality_id":101777167,
             "region_id":85687385
         }
@@ -98,9 +100,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608437,
+    "wof:lastmodified":1576711770,
     "wof:name":"Teixoso",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511681369,
     "wof:placetype":"locality",
     "wof:population":4703,
     "wof:population_rank":4,

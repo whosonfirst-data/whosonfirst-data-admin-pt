@@ -78,6 +78,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685053,
         85633735,
         85687433
     ],
@@ -95,14 +96,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685053,
             "locality_id":1125802981,
             "region_id":85687433
         }
     ],
     "wof:id":1125802981,
-    "wof:lastmodified":1566608669,
+    "wof:lastmodified":1576711825,
     "wof:name":"Venade",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511685053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

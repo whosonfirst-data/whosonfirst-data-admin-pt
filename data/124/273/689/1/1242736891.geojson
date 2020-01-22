@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684807,
         85633735,
         85687423
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684807,
             "locality_id":1242736891,
             "region_id":85687423
         }
     ],
     "wof:id":1242736891,
-    "wof:lastmodified":1566608818,
+    "wof:lastmodified":1576712052,
     "wof:name":"Limarinho",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685061,
         85633735,
         85687415
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685061,
             "locality_id":1343766797,
             "region_id":85687415
         }
     ],
     "wof:id":1343766797,
-    "wof:lastmodified":1566607387,
+    "wof:lastmodified":1576712394,
     "wof:name":"Brito",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511685061,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

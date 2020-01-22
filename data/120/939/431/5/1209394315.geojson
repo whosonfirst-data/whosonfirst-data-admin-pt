@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680877,
+        85633735,
+        85687381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"f8a0553e36dc32d686942c4d6cd6a7dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209394315
+            "localadmin_id":1511680877,
+            "locality_id":1209394315,
+            "region_id":85687381
         }
     ],
     "wof:id":1209394315,
-    "wof:lastmodified":1566607944,
+    "wof:lastmodified":1576711937,
     "wof:name":"Louriceira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680877,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

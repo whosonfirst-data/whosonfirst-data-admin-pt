@@ -40,6 +40,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685413,
         85633735,
         85687437
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685413,
             "locality_id":1259948397,
             "region_id":85687437
         }
     ],
     "wof:id":1259948397,
-    "wof:lastmodified":1566609034,
+    "wof:lastmodified":1576712150,
     "wof:name":"Senhora do Rosario",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685413,
     "wof:placetype":"locality",
     "wof:population":4937,
     "wof:population_rank":4,

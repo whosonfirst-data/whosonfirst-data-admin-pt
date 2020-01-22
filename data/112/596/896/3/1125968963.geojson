@@ -72,6 +72,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679823,
         85633735,
         85687377
     ],
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679823,
             "locality_id":1125968963,
             "region_id":85687377
         }
     ],
     "wof:id":1125968963,
-    "wof:lastmodified":1566608717,
+    "wof:lastmodified":1576711863,
     "wof:name":"Santo Est\u00eav\u00e3o",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511679823,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

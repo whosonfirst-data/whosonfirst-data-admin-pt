@@ -113,6 +113,7 @@
     "wd:wordcount":255,
     "wof:belongsto":[
         102191581,
+        1511681421,
         85633735,
         85687401
     ],
@@ -130,6 +131,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681421,
             "locality_id":101774909,
             "region_id":85687401
         }
@@ -138,9 +140,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608524,
+    "wof:lastmodified":1576711759,
     "wof:name":"Mort\u00e1gua",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

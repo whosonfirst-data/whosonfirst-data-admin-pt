@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679527,
+        85633735,
+        85687363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"d102b9ab1f67c071d2bcc56fbe06f05e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209405557
+            "localadmin_id":1511679527,
+            "locality_id":1209405557,
+            "region_id":85687363
         }
     ],
     "wof:id":1209405557,
-    "wof:lastmodified":1566607985,
+    "wof:lastmodified":1576711937,
     "wof:name":"Gafanhoeira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

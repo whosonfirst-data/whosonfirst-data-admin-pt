@@ -35,6 +35,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682181,
         85633735,
         85687409
     ],
@@ -49,14 +50,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682181,
             "locality_id":1293013577,
             "region_id":85687409
         }
     ],
     "wof:id":1293013577,
-    "wof:lastmodified":1566607614,
+    "wof:lastmodified":1576712235,
     "wof:name":"Eixo",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682181,
     "wof:placetype":"locality",
     "wof:population":5978,
     "wof:population_rank":5,

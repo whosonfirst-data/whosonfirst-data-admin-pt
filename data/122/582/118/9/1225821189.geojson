@@ -55,6 +55,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680663,
         85633735,
         85687377
     ],
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680663,
             "locality_id":1225821189,
             "region_id":85687377
         }
     ],
     "wof:id":1225821189,
-    "wof:lastmodified":1566609217,
+    "wof:lastmodified":1576711977,
     "wof:name":"Matos",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

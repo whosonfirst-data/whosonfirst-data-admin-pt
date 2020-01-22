@@ -49,6 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682379,
         85633735,
         85687411
     ],
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682379,
             "locality_id":1125827645,
             "region_id":85687411
         }
     ],
     "wof:id":1125827645,
-    "wof:lastmodified":1566608752,
+    "wof:lastmodified":1576711829,
     "wof:name":"Gemunde",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511682379,
     "wof:placetype":"locality",
     "wof:population":5284,
     "wof:population_rank":5,

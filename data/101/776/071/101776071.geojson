@@ -104,6 +104,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1125382355,
         85633735,
         85687367
     ],
@@ -122,14 +123,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125382355,
             "locality_id":101776071,
             "region_id":85687367
         }
     ],
     "wof:id":101776071,
-    "wof:lastmodified":1566608423,
+    "wof:lastmodified":1576711762,
     "wof:name":"Atalaia",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125382355,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

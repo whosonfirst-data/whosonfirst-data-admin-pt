@@ -86,6 +86,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680881,
         85633735,
         85687381
     ],
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680881,
             "locality_id":1125838121,
             "region_id":85687381
         }
     ],
     "wof:id":1125838121,
-    "wof:lastmodified":1566608791,
+    "wof:lastmodified":1576711830,
     "wof:name":"Louri\u00e7al",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680881,
     "wof:placetype":"locality",
     "wof:population":5085,
     "wof:population_rank":5,

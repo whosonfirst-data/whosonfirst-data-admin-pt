@@ -40,6 +40,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680805,
         85633735,
         85687385
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680805,
             "locality_id":1343453569,
             "region_id":85687385
         }
     ],
     "wof:id":1343453569,
-    "wof:lastmodified":1566607503,
+    "wof:lastmodified":1576712377,
     "wof:name":"Camoes",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

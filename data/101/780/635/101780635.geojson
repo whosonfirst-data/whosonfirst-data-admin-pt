@@ -175,6 +175,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125270143,
         85633735,
         85687349
     ],
@@ -192,6 +193,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270143,
             "locality_id":101780635,
             "region_id":85687349
         }
@@ -200,9 +202,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608522,
+    "wof:lastmodified":1576711777,
     "wof:name":"Silves",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1125270143,
     "wof:placetype":"locality",
     "wof:population":10917,
     "wof:population_rank":6,

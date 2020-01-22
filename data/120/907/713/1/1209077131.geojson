@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1125383861,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"a5ef94d12c30b5f967aaf92e9956f0bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209077131
+            "localadmin_id":1125383861,
+            "locality_id":1209077131,
+            "region_id":85687367
         }
     ],
     "wof:id":1209077131,
-    "wof:lastmodified":1566607932,
+    "wof:lastmodified":1576711916,
     "wof:name":"Casal do Cigano",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1125383861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

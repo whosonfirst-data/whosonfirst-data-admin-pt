@@ -110,7 +110,11 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679077,
+        85633735,
+        101752087,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,21 +126,21 @@
     "wof:geomhash":"08ec9a5136861c97c1add04cb68c2217",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633735,
-            "county_id":-1,
-            "locality_id":-1,
+            "localadmin_id":1511679077,
+            "locality_id":101752087,
             "neighbourhood_id":85799039,
-            "region_id":-1
+            "region_id":85687367
         }
     ],
     "wof:id":85799039,
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566607565,
+    "wof:lastmodified":1576712801,
     "wof:name":"Matinha",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

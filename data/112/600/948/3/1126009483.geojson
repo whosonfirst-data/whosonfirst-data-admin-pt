@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511678933,
         85633735,
         85687349
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678933,
             "locality_id":1126009483,
             "region_id":85687349
         }
     ],
     "wof:id":1126009483,
-    "wof:lastmodified":1566608747,
+    "wof:lastmodified":1576711881,
     "wof:name":"Quinta Velha",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

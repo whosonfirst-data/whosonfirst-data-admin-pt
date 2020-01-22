@@ -43,6 +43,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682423,
         85633735,
         85687401
     ],
@@ -59,6 +60,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682423,
             "locality_id":101831339,
             "region_id":85687401
         }
@@ -67,9 +69,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608502,
+    "wof:lastmodified":1576711779,
     "wof:name":"Rio de Loba",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682423,
     "wof:placetype":"locality",
     "wof:population":9529,
     "wof:population_rank":5,

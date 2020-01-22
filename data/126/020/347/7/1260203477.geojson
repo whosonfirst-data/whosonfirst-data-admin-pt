@@ -70,6 +70,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679079,
         85633735,
         85687363
     ],
@@ -83,14 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679079,
             "locality_id":1260203477,
             "region_id":85687363
         }
     ],
     "wof:id":1260203477,
-    "wof:lastmodified":1566608176,
+    "wof:lastmodified":1576712167,
     "wof:name":"Carmo",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

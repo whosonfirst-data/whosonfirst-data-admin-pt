@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125409921,
         85633735,
         85687359
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409921,
             "locality_id":1343436173,
             "region_id":85687359
         }
     ],
     "wof:id":1343436173,
-    "wof:lastmodified":1566607553,
+    "wof:lastmodified":1576712376,
     "wof:name":"Brejo da Silha do Centeio",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1125409921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -75,6 +75,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511678897,
         85633735,
         85687349
     ],
@@ -92,14 +93,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678897,
             "locality_id":1125870747,
             "region_id":85687349
         }
     ],
     "wof:id":1125870747,
-    "wof:lastmodified":1566608674,
+    "wof:lastmodified":1576711839,
     "wof:name":"Santa B\u00e1rbara de Nexe",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678897,
     "wof:placetype":"locality",
     "wof:population":4087,
     "wof:population_rank":4,

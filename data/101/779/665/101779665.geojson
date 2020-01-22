@@ -78,6 +78,7 @@
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
+        1125367971,
         85633735,
         85687355
     ],
@@ -97,14 +98,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125367971,
             "locality_id":101779665,
             "region_id":85687355
         }
     ],
     "wof:id":101779665,
-    "wof:lastmodified":1566608454,
+    "wof:lastmodified":1576711776,
     "wof:name":"Figueira dos Cavaleiros",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1125367971,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

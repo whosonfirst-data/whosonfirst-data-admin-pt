@@ -71,6 +71,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511681279,
         85633735,
         85687385
     ],
@@ -90,14 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681279,
             "locality_id":101831313,
             "region_id":85687385
         }
     ],
     "wof:id":101831313,
-    "wof:lastmodified":1566608508,
+    "wof:lastmodified":1576711779,
     "wof:name":"Cantar-Galo",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511681279,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

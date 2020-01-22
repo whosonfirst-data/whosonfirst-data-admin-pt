@@ -40,6 +40,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684959,
         85633735,
         85687433
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684959,
             "locality_id":1260350717,
             "region_id":85687433
         }
     ],
     "wof:id":1260350717,
-    "wof:lastmodified":1566608194,
+    "wof:lastmodified":1576712174,
     "wof:name":"Vila Praia de Ancora",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684959,
     "wof:placetype":"locality",
     "wof:population":4987,
     "wof:population_rank":4,

@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679635,
         85633735,
         85687359
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679635,
             "locality_id":1343527069,
             "region_id":85687359
         }
     ],
     "wof:id":1343527069,
-    "wof:lastmodified":1566607332,
+    "wof:lastmodified":1576712381,
     "wof:name":"Carregosa",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

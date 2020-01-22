@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679057,
         85633735,
         85687355
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679057,
             "locality_id":1242685191,
             "region_id":85687355
         }
     ],
     "wof:id":1242685191,
-    "wof:lastmodified":1566608832,
+    "wof:lastmodified":1576712051,
     "wof:name":"Luizeira",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

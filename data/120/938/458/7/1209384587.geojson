@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679895,
+        85633735,
+        85687373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"cf3473944e23361de29865f84a6bc87d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209384587
+            "localadmin_id":1511679895,
+            "locality_id":1209384587,
+            "region_id":85687373
         }
     ],
     "wof:id":1209384587,
-    "wof:lastmodified":1566607931,
+    "wof:lastmodified":1576711935,
     "wof:name":"Vale de Figueira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685517,
         85633735,
         85687345
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685517,
             "locality_id":1327217533,
             "region_id":85687345
         }
     ],
     "wof:id":1327217533,
-    "wof:lastmodified":1566607265,
+    "wof:lastmodified":1576712356,
     "wof:name":"Sao Martinho",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685517,
     "wof:placetype":"locality",
     "wof:population":26482,
     "wof:population_rank":7,

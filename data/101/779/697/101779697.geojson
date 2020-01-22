@@ -86,6 +86,7 @@
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
+        1511679409,
         85633735,
         85687359
     ],
@@ -105,14 +106,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679409,
             "locality_id":101779697,
             "region_id":85687359
         }
     ],
     "wof:id":101779697,
-    "wof:lastmodified":1566608453,
+    "wof:lastmodified":1576711776,
     "wof:name":"Ermidas do Sado",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

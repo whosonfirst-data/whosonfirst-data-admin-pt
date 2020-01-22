@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681339,
+        85633735,
+        85687397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"874e361b0a4e0954c160fca26fe8a3db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209396039
+            "localadmin_id":1511681339,
+            "locality_id":1209396039,
+            "region_id":85687397
         }
     ],
     "wof:id":1209396039,
-    "wof:lastmodified":1566607944,
+    "wof:lastmodified":1576711937,
     "wof:name":"Aguas Radium",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
