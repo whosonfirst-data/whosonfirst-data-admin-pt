@@ -46,7 +46,10 @@
     "statoids:population":"267,785",
     "statoids:timezone":"-1~",
     "statoids:type":"autonomous region",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PT.MA",
@@ -56,7 +59,13 @@
     "wof:country":"PT",
     "wof:created":1576262054,
     "wof:geomhash":"ab102e943e03a387c22fdd083362b77e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "region_id":1511614893
+        }
+    ],
     "wof:id":1511614893,
     "wof:lang_x_official":[
         "por"
@@ -64,9 +73,9 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576264817,
+    "wof:lastmodified":1579720203,
     "wof:name":"Madeira",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633735,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
