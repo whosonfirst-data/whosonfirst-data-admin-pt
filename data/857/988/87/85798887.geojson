@@ -61,7 +61,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85687367,
         102191581,
+        1511679077,
+        85633735,
         101752087
     ],
     "wof:breaches":[],
@@ -75,17 +78,18 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633735,
+            "localadmin_id":1511679077,
             "locality_id":101752087,
             "neighbourhood_id":85798887,
-            "region_id":-1
+            "region_id":85687367
         }
     ],
     "wof:id":85798887,
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1576712801,
+    "wof:lastmodified":1579720772,
     "wof:name":"Bairro do Alto da Ajuda",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",

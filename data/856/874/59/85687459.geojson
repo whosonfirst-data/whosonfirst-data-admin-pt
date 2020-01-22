@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-12-12",
     "edtf:inception":"uuuu",
     "geom:area":0.006382,
     "geom:area_square_m":61280695.36365,
@@ -19,7 +20,7 @@
     "mps:latitude":39.055255,
     "mps:longitude":-28.01394,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
@@ -60,12 +61,14 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566607578,
+    "wof:lastmodified":1576264817,
     "wof:name":"Ilha da Graciosa",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-pt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511614891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

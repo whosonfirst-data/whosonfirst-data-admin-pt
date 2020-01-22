@@ -78,7 +78,10 @@
     "woe:name_adm1":"Porto",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85687411,
         102191581,
+        1511683105,
+        85633735,
         101752095
     ],
     "wof:breaches":[],
@@ -93,14 +96,15 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633735,
+            "localadmin_id":1511683105,
             "locality_id":101752095,
             "neighbourhood_id":1126061769,
-            "region_id":-1
+            "region_id":85687411
         }
     ],
     "wof:id":1126061769,
-    "wof:lastmodified":1576711894,
+    "wof:lastmodified":1579720771,
     "wof:name":"Mafamude",
     "wof:parent_id":101752095,
     "wof:placetype":"neighbourhood",

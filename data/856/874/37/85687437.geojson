@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-12-12",
     "edtf:inception":"uuuu",
     "geom:area":0.0774,
     "geom:area_square_m":756270503.588084,
@@ -19,7 +20,7 @@
     "mps:latitude":37.772786,
     "mps:longitude":-25.505194,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
@@ -87,12 +88,14 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566607582,
+    "wof:lastmodified":1576264818,
     "wof:name":"Ilha de S\u00e3o Miguel",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-pt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1511614891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
