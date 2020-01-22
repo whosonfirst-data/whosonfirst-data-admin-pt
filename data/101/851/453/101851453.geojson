@@ -49,6 +49,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511682409,
         85633735,
         85687409
     ],
@@ -65,6 +66,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682409,
             "locality_id":101851453,
             "region_id":85687409
         }
@@ -73,9 +75,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608409,
+    "wof:lastmodified":1576711792,
     "wof:name":"Matadu\u00e7os",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511682409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

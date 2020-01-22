@@ -133,6 +133,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125283993,
         85633735,
         85687391
     ],
@@ -150,6 +151,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125283993,
             "locality_id":101776151,
             "region_id":85687391
         }
@@ -158,9 +160,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608422,
+    "wof:lastmodified":1576711763,
     "wof:name":"Cantanhede",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1125283993,
     "wof:placetype":"locality",
     "wof:population":7347,
     "wof:population_rank":5,

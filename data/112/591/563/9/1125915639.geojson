@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684223,
         85633735,
         85687415
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684223,
             "locality_id":1125915639,
             "region_id":85687415
         }
     ],
     "wof:id":1125915639,
-    "wof:lastmodified":1566608724,
+    "wof:lastmodified":1576711848,
     "wof:name":"Vila Ch\u00e3 de Braciosa",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

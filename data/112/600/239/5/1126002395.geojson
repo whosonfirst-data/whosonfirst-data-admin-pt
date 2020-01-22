@@ -48,6 +48,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681263,
         85633735,
         85687397
     ],
@@ -64,14 +65,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681263,
             "locality_id":1126002395,
             "region_id":85687397
         }
     ],
     "wof:id":1126002395,
-    "wof:lastmodified":1566608750,
+    "wof:lastmodified":1576711879,
     "wof:name":"Malcata",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511681263,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

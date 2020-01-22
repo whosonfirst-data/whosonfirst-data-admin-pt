@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685041,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"13a2e92b932c1448219441b3951e5bbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209480063
+            "localadmin_id":1511685041,
+            "locality_id":1209480063,
+            "region_id":85687433
         }
     ],
     "wof:id":1209480063,
-    "wof:lastmodified":1566607970,
+    "wof:lastmodified":1576711941,
     "wof:name":"Sobrada",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

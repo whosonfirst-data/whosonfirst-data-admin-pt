@@ -241,6 +241,7 @@
     "wd:wordcount":216,
     "wof:belongsto":[
         102191581,
+        1511682915,
         85633735,
         85687401
     ],
@@ -258,6 +259,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682915,
             "locality_id":101874823,
             "region_id":85687401
         }
@@ -266,9 +268,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608391,
+    "wof:lastmodified":1576711792,
     "wof:name":"Couto",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

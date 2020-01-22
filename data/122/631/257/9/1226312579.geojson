@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679977,
         85633735,
         85687373
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679977,
             "locality_id":1226312579,
             "region_id":85687373
         }
     ],
     "wof:id":1226312579,
-    "wof:lastmodified":1566609211,
+    "wof:lastmodified":1576712009,
     "wof:name":"Pero Viegas",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511679977,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

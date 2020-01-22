@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685071,
         85633735,
         85687433
     ],
@@ -48,14 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685071,
             "locality_id":1226714855,
             "region_id":85687433
         }
     ],
     "wof:id":1226714855,
-    "wof:lastmodified":1566609164,
+    "wof:lastmodified":1576712033,
     "wof:name":"Pedras de Moledo",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511685071,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678885,
         85633735,
         85687349
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678885,
             "locality_id":1243052359,
             "region_id":85687349
         }
     ],
     "wof:id":1243052359,
-    "wof:lastmodified":1566608906,
+    "wof:lastmodified":1576712076,
     "wof:name":"Pes do Cerro",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

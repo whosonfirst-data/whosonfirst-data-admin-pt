@@ -100,6 +100,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681389,
         85633735,
         85687409
     ],
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681389,
             "locality_id":1276989773,
             "region_id":85687409
         }
     ],
     "wof:id":1276989773,
-    "wof:lastmodified":1566607912,
+    "wof:lastmodified":1576712223,
     "wof:name":"Barro",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

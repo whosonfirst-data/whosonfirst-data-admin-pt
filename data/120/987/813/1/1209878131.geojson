@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684779,
         85633735,
         85687433
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684779,
             "locality_id":1209878131,
             "region_id":85687433
         }
     ],
     "wof:id":1209878131,
-    "wof:lastmodified":1566608054,
+    "wof:lastmodified":1576711963,
     "wof:name":"Bouca de Baixo",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684779,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

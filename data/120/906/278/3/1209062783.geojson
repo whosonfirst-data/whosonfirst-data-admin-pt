@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682089,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"36927c821377758dd9db0250c78ac9ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209062783
+            "localadmin_id":1511682089,
+            "locality_id":1209062783,
+            "region_id":85687401
         }
     ],
     "wof:id":1209062783,
-    "wof:lastmodified":1566607948,
+    "wof:lastmodified":1576711915,
     "wof:name":"Fragua",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

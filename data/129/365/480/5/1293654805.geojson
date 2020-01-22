@@ -94,6 +94,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679543,
         85633735,
         85687359
     ],
@@ -107,14 +108,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679543,
             "locality_id":1293654805,
             "region_id":85687359
         }
     ],
     "wof:id":1293654805,
-    "wof:lastmodified":1566607608,
+    "wof:lastmodified":1576712260,
     "wof:name":"Torrinha",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

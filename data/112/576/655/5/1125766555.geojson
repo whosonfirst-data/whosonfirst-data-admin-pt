@@ -74,6 +74,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684399,
         85633735,
         85687415
     ],
@@ -90,14 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684399,
             "locality_id":1125766555,
             "region_id":85687415
         }
     ],
     "wof:id":1125766555,
-    "wof:lastmodified":1566608761,
+    "wof:lastmodified":1576711816,
     "wof:name":"Duas Igrejas",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511684399,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

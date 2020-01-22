@@ -68,6 +68,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678867,
         85633735,
         85687349
     ],
@@ -82,14 +83,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678867,
             "locality_id":1259777767,
             "region_id":85687349
         }
     ],
     "wof:id":1259777767,
-    "wof:lastmodified":1566608990,
+    "wof:lastmodified":1576712140,
     "wof:name":"Senhora da Luz",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678867,
     "wof:placetype":"locality",
     "wof:population":3545,
     "wof:population_rank":4,

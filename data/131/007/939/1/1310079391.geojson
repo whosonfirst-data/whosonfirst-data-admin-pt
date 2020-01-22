@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680089,
         85633735,
         85687367
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680089,
             "locality_id":1310079391,
             "region_id":85687367
         }
     ],
     "wof:id":1310079391,
-    "wof:lastmodified":1566608235,
+    "wof:lastmodified":1576712294,
     "wof:name":"Venda do Freixo",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511680089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

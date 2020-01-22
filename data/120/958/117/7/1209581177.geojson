@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679413,
+        85633735,
+        85687359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"576720bf47307c62a34e1c0099e4b404",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209581177
+            "localadmin_id":1511679413,
+            "locality_id":1209581177,
+            "region_id":85687359
         }
     ],
     "wof:id":1209581177,
-    "wof:lastmodified":1566608023,
+    "wof:lastmodified":1576711946,
     "wof:name":"Vale Grande",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

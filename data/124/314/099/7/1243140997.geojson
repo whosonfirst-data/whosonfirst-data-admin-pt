@@ -56,6 +56,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683093,
         85633735,
         85687401
     ],
@@ -70,14 +71,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683093,
             "locality_id":1243140997,
             "region_id":85687401
         }
     ],
     "wof:id":1243140997,
-    "wof:lastmodified":1566608873,
+    "wof:lastmodified":1576712080,
     "wof:name":"Fontelo",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511683093,
     "wof:placetype":"locality",
     "wof:population":641,
     "wof:population_rank":2,

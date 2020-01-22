@@ -97,7 +97,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680007,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,14 +110,17 @@
     "wof:geomhash":"28b902ad84f04982cde0fa803c6abb8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209190117
+            "localadmin_id":1511680007,
+            "locality_id":1209190117,
+            "region_id":85687367
         }
     ],
     "wof:id":1209190117,
-    "wof:lastmodified":1566608065,
+    "wof:lastmodified":1576711922,
     "wof:name":"Vieiras",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680007,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -73,8 +73,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101752081,
+        1511679081,
         85633735,
+        101752081,
         85687367
     ],
     "wof:breaches":[],
@@ -90,13 +91,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679081,
             "locality_id":101752081,
             "neighbourhood_id":1126101977,
             "region_id":85687367
         }
     ],
     "wof:id":1126101977,
-    "wof:lastmodified":1566608615,
+    "wof:lastmodified":1576711895,
     "wof:name":"Buraca",
     "wof:parent_id":101752081,
     "wof:placetype":"neighbourhood",

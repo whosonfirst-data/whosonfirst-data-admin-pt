@@ -88,6 +88,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681581,
         85633735,
         85687397
     ],
@@ -101,14 +102,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681581,
             "locality_id":1343642677,
             "region_id":85687397
         }
     ],
     "wof:id":1343642677,
-    "wof:lastmodified":1566607342,
+    "wof:lastmodified":1576712389,
     "wof:name":"Marmeleiro",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511681581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

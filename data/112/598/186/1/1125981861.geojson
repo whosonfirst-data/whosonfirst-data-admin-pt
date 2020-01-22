@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679527,
         85633735,
         85687363
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679527,
             "locality_id":1125981861,
             "region_id":85687363
         }
     ],
     "wof:id":1125981861,
-    "wof:lastmodified":1566608729,
+    "wof:lastmodified":1576711867,
     "wof:name":"Peroliva",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

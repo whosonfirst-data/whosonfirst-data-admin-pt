@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683437,
         85633735,
         85687411
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683437,
             "locality_id":1225821649,
             "region_id":85687411
         }
     ],
     "wof:id":1225821649,
-    "wof:lastmodified":1566609218,
+    "wof:lastmodified":1576711978,
     "wof:name":"Barreiro",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685361,
         85633735,
         85687437
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685361,
             "locality_id":1293840105,
             "region_id":85687437
         }
     ],
     "wof:id":1293840105,
-    "wof:lastmodified":1566607643,
+    "wof:lastmodified":1576712271,
     "wof:name":"Estaleiro",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

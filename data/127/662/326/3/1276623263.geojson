@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682185,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682185,
             "locality_id":1276623263,
             "region_id":85687401
         }
     ],
     "wof:id":1276623263,
-    "wof:lastmodified":1566607907,
+    "wof:lastmodified":1576712204,
     "wof:name":"Cabanoes de Baixo",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

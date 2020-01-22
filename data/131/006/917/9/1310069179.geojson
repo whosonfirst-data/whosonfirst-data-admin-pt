@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683715,
         85633735,
         85687411
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683715,
             "locality_id":1310069179,
             "region_id":85687411
         }
     ],
     "wof:id":1310069179,
-    "wof:lastmodified":1566608265,
+    "wof:lastmodified":1576712293,
     "wof:name":"Silvares",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

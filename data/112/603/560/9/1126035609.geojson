@@ -67,6 +67,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684259,
         85633735,
         85687419
     ],
@@ -83,14 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684259,
             "locality_id":1126035609,
             "region_id":85687419
         }
     ],
     "wof:id":1126035609,
-    "wof:lastmodified":1566608633,
+    "wof:lastmodified":1576711888,
     "wof:name":"Cristelo",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

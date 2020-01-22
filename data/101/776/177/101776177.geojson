@@ -149,6 +149,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679151,
         85633735,
         85687397
     ],
@@ -166,6 +167,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679151,
             "locality_id":101776177,
             "region_id":85687397
         }
@@ -174,9 +176,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608435,
+    "wof:lastmodified":1576711764,
     "wof:name":"Gouveia",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511679151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -107,6 +107,7 @@
     "wd:wordcount":1438,
     "wof:belongsto":[
         102191581,
+        1511679605,
         85633735,
         85687359
     ],
@@ -125,6 +126,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679605,
             "locality_id":101832807,
             "region_id":85687359
         }
@@ -133,9 +135,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608405,
+    "wof:lastmodified":1576711784,
     "wof:name":"Costa da Caparica",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -69,6 +69,7 @@
     "wd:wordcount":136,
     "wof:belongsto":[
         102191581,
+        1511680261,
         85633735,
         85687377
     ],
@@ -85,6 +86,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680261,
             "locality_id":101776107,
             "region_id":85687377
         }
@@ -93,9 +95,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608429,
+    "wof:lastmodified":1576711762,
     "wof:name":"Montalvo",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680261,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

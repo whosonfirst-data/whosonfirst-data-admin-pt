@@ -120,8 +120,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        101758919,
+        1511679755,
         85633735,
+        101758919,
         85687367
     ],
     "wof:breaches":[],
@@ -136,6 +137,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679755,
             "locality_id":101758919,
             "neighbourhood_id":85862551,
             "region_id":85687367
@@ -145,7 +147,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566607589,
+    "wof:lastmodified":1576712803,
     "wof:name":"Reboleira",
     "wof:parent_id":101758919,
     "wof:placetype":"neighbourhood",

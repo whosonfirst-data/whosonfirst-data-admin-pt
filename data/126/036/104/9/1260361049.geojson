@@ -91,6 +91,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683701,
         85633735,
         85687411
     ],
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683701,
             "locality_id":1260361049,
             "region_id":85687411
         }
     ],
     "wof:id":1260361049,
-    "wof:lastmodified":1566608167,
+    "wof:lastmodified":1576712175,
     "wof:name":"Trindade",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

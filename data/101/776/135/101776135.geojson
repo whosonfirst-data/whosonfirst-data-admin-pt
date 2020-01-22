@@ -93,6 +93,7 @@
     "wd:wordcount":96,
     "wof:belongsto":[
         102191581,
+        1511680123,
         85633735,
         85687381
     ],
@@ -110,6 +111,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680123,
             "locality_id":101776135,
             "region_id":85687381
         }
@@ -118,9 +120,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608420,
+    "wof:lastmodified":1576711763,
     "wof:name":"Ferrel",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

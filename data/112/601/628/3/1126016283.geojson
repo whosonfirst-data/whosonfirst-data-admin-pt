@@ -61,6 +61,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683175,
         85633735,
         85687411
     ],
@@ -77,14 +78,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683175,
             "locality_id":1126016283,
             "region_id":85687411
         }
     ],
     "wof:id":1126016283,
-    "wof:lastmodified":1566608737,
+    "wof:lastmodified":1576711884,
     "wof:name":"Baguim do Monte",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683175,
     "wof:placetype":"locality",
     "wof:population":15850,
     "wof:population_rank":6,

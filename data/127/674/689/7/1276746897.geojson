@@ -71,6 +71,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679647,
         85633735,
         85687367
     ],
@@ -85,14 +86,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679647,
             "locality_id":1276746897,
             "region_id":85687367
         }
     ],
     "wof:id":1276746897,
-    "wof:lastmodified":1566607784,
+    "wof:lastmodified":1576712213,
     "wof:name":"Carcavelos",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679647,
     "wof:placetype":"locality",
     "wof:population":20366,
     "wof:population_rank":7,

@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1125270255,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"d545592a785e79e3e92d49f99f27949a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209383691
+            "localadmin_id":1125270255,
+            "locality_id":1209383691,
+            "region_id":85687401
         }
     ],
     "wof:id":1209383691,
-    "wof:lastmodified":1566607930,
+    "wof:lastmodified":1576711935,
     "wof:name":"Vila Pouca",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1125270255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

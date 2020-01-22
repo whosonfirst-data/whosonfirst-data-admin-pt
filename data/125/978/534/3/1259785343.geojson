@@ -39,6 +39,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679391,
         85633735,
         85687355
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679391,
             "locality_id":1259785343,
             "region_id":85687355
         }
     ],
     "wof:id":1259785343,
-    "wof:lastmodified":1566609002,
+    "wof:lastmodified":1576712140,
     "wof:name":"Santa Clara de Louredo",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679391,
     "wof:placetype":"locality",
     "wof:population":864,
     "wof:population_rank":2,

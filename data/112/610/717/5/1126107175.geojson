@@ -49,8 +49,9 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101752095,
+        1511683105,
         85633735,
+        101752095,
         85687411
     ],
     "wof:breaches":[],
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683105,
             "locality_id":101752095,
             "neighbourhood_id":1126107175,
             "region_id":85687411
         }
     ],
     "wof:id":1126107175,
-    "wof:lastmodified":1566608615,
+    "wof:lastmodified":1576711895,
     "wof:name":"Candal",
     "wof:parent_id":101752095,
     "wof:placetype":"neighbourhood",

@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679539,
+        85633735,
+        85687359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"30ccd8041b3830c12862c66dda946525",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209377427
+            "localadmin_id":1511679539,
+            "locality_id":1209377427,
+            "region_id":85687359
         }
     ],
     "wof:id":1209377427,
-    "wof:lastmodified":1566607958,
+    "wof:lastmodified":1576711934,
     "wof:name":"Sao Martinho",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679539,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

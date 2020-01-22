@@ -76,6 +76,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511685377,
         85633735,
         85687437
     ],
@@ -97,6 +98,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685377,
             "locality_id":101877203,
             "region_id":85687437
         }
@@ -105,9 +107,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608490,
+    "wof:lastmodified":1576711794,
     "wof:name":"Ribeira Seca",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

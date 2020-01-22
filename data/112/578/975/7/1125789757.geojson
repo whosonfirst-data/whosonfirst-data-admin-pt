@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684885,
         85633735,
         85687433
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684885,
             "locality_id":1125789757,
             "region_id":85687433
         }
     ],
     "wof:id":1125789757,
-    "wof:lastmodified":1566608772,
+    "wof:lastmodified":1576711822,
     "wof:name":"Brav\u00e3es",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

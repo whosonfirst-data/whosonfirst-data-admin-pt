@@ -73,6 +73,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511685401,
         85633735,
         85687437
     ],
@@ -93,6 +94,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685401,
             "locality_id":101849943,
             "region_id":85687437
         }
@@ -101,9 +103,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608500,
+    "wof:lastmodified":1576711791,
     "wof:name":"Candel\u00e1ria",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

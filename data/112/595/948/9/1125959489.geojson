@@ -94,7 +94,12 @@
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Madeira",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1511685487,
+        85633735,
+        85687345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55868356,
@@ -105,16 +110,17 @@
     "wof:geomhash":"fcb8432b839ec0a5f85de7559f837ebc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685487,
             "locality_id":1125959489,
-            "region_id":-1
+            "region_id":85687345
         }
     ],
     "wof:id":1125959489,
-    "wof:lastmodified":1566608608,
+    "wof:lastmodified":1576711858,
     "wof:name":"Lagoa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1511685487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

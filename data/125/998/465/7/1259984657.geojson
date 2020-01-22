@@ -73,6 +73,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681807,
         85633735,
         85687415
     ],
@@ -86,14 +87,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681807,
             "locality_id":1259984657,
             "region_id":85687415
         }
     ],
     "wof:id":1259984657,
-    "wof:lastmodified":1566608970,
+    "wof:lastmodified":1576712154,
     "wof:name":"Palacios",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511681807,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

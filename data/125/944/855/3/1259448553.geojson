@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679649,
         85633735,
         85687359
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679649,
             "locality_id":1259448553,
             "region_id":85687359
         }
     ],
     "wof:id":1259448553,
-    "wof:lastmodified":1566609057,
+    "wof:lastmodified":1576712119,
     "wof:name":"Quinta das Faias",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679649,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

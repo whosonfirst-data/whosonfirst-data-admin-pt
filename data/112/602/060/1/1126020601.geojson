@@ -82,6 +82,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681927,
         85633735,
         85687401
     ],
@@ -99,14 +100,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681927,
             "locality_id":1126020601,
             "region_id":85687401
         }
     ],
     "wof:id":1126020601,
-    "wof:lastmodified":1566608621,
+    "wof:lastmodified":1576711885,
     "wof:name":"Tourigo",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511681927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

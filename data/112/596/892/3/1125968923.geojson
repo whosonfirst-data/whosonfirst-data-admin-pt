@@ -73,6 +73,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680321,
         85633735,
         85687411
     ],
@@ -90,14 +91,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680321,
             "locality_id":1125968923,
             "region_id":85687411
         }
     ],
     "wof:id":1125968923,
-    "wof:lastmodified":1566608709,
+    "wof:lastmodified":1576711863,
     "wof:name":"Santa Marinha do Z\u00eazere",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511680321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

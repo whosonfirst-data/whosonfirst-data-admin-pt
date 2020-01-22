@@ -42,6 +42,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511680723,
         85633735,
         85687381
     ],
@@ -58,6 +59,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680723,
             "locality_id":101851447,
             "region_id":85687381
         }
@@ -66,9 +68,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608408,
+    "wof:lastmodified":1576711792,
     "wof:name":"Trutas",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -41,6 +41,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685309,
         85633735,
         85687429
     ],
@@ -55,14 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685309,
             "locality_id":1276502747,
             "region_id":85687429
         }
     ],
     "wof:id":1276502747,
-    "wof:lastmodified":1566607831,
+    "wof:lastmodified":1576712197,
     "wof:name":"Santa Barbara",
-    "wof:parent_id":85687429,
+    "wof:parent_id":1511685309,
     "wof:placetype":"locality",
     "wof:population":405,
     "wof:population_rank":2,

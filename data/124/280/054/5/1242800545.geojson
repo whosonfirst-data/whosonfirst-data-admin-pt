@@ -35,6 +35,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683689,
         85633735,
         85687415
     ],
@@ -48,14 +49,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683689,
             "locality_id":1242800545,
             "region_id":85687415
         }
     ],
     "wof:id":1242800545,
-    "wof:lastmodified":1566608814,
+    "wof:lastmodified":1576712058,
     "wof:name":"Podence",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511683689,
     "wof:placetype":"locality",
     "wof:population":250,
     "wof:population_rank":2,

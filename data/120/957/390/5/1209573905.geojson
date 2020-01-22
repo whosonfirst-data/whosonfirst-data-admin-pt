@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683109,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"37dfdad0f1b80b8708a07cd0b9e83b74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209573905
+            "localadmin_id":1511683109,
+            "locality_id":1209573905,
+            "region_id":85687401
         }
     ],
     "wof:id":1209573905,
-    "wof:lastmodified":1566608004,
+    "wof:lastmodified":1576711945,
     "wof:name":"Pardelhas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683109,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

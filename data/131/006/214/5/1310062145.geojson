@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682485,
         85633735,
         85687401
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682485,
             "locality_id":1310062145,
             "region_id":85687401
         }
     ],
     "wof:id":1310062145,
-    "wof:lastmodified":1566608265,
+    "wof:lastmodified":1576712292,
     "wof:name":"Silvite",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511682485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

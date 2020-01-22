@@ -75,7 +75,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682593,
+        85633735,
+        85687397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +88,17 @@
     "wof:geomhash":"84f68bb8c6947167837e59f5c73d3f81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209503251
+            "localadmin_id":1511682593,
+            "locality_id":1209503251,
+            "region_id":85687397
         }
     ],
     "wof:id":1209503251,
-    "wof:lastmodified":1566608001,
+    "wof:lastmodified":1576711943,
     "wof:name":"Moreira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

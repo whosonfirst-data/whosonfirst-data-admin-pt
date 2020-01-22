@@ -80,6 +80,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679615,
         85633735,
         85687359
     ],
@@ -99,14 +100,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679615,
             "locality_id":101832825,
             "region_id":85687359
         }
     ],
     "wof:id":101832825,
-    "wof:lastmodified":1566608405,
+    "wof:lastmodified":1576711784,
     "wof:name":"Monte da Caparica",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -79,6 +79,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684959,
         85633735,
         85687433
     ],
@@ -99,6 +100,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684959,
             "locality_id":101775065,
             "region_id":85687433
         }
@@ -107,9 +109,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608518,
+    "wof:lastmodified":1576711762,
     "wof:name":"Vila Praia de \u00c2ncora",
-    "wof:parent_id":85687433,
+    "wof:parent_id":1511684959,
     "wof:placetype":"locality",
     "wof:population":4987,
     "wof:population_rank":4,

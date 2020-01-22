@@ -80,6 +80,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683087,
         85633735,
         85687397
     ],
@@ -97,14 +98,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683087,
             "locality_id":1125812699,
             "region_id":85687397
         }
     ],
     "wof:id":1125812699,
-    "wof:lastmodified":1566608650,
+    "wof:lastmodified":1576711827,
     "wof:name":"Freixo de Num\u00e3o",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511683087,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

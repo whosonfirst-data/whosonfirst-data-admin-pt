@@ -113,6 +113,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1125384981,
         85633735,
         85687401
     ],
@@ -131,6 +132,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125384981,
             "locality_id":101845427,
             "region_id":85687401
         }
@@ -139,9 +141,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608388,
+    "wof:lastmodified":1576711789,
     "wof:name":"Resende",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1125384981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

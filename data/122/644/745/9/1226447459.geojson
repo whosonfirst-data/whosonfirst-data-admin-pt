@@ -85,6 +85,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683727,
         85633735,
         85687415
     ],
@@ -98,14 +99,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683727,
             "locality_id":1226447459,
             "region_id":85687415
         }
     ],
     "wof:id":1226447459,
-    "wof:lastmodified":1566609089,
+    "wof:lastmodified":1576712018,
     "wof:name":"Sampaio",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511683727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

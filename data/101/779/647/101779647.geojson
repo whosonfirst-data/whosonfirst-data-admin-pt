@@ -125,6 +125,7 @@
     "wd:wordcount":178,
     "wof:belongsto":[
         102191581,
+        1511679461,
         85633735,
         85687355
     ],
@@ -142,6 +143,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679461,
             "locality_id":101779647,
             "region_id":85687355
         }
@@ -150,9 +152,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608453,
+    "wof:lastmodified":1576711775,
     "wof:name":"Vidigueira",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -65,6 +65,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680043,
         85633735,
         85687367
     ],
@@ -78,14 +79,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680043,
             "locality_id":1343941423,
             "region_id":85687367
         }
     ],
     "wof:id":1343941423,
-    "wof:lastmodified":1566607449,
+    "wof:lastmodified":1576712402,
     "wof:name":"Vimeiro",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511680043,
     "wof:placetype":"locality",
     "wof:population":1470,
     "wof:population_rank":3,

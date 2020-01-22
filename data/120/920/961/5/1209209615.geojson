@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511678957,
+        85633735,
+        85687349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"d57f1223bb397bea66bfec32f4a60f32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209209615
+            "localadmin_id":1511678957,
+            "locality_id":1209209615,
+            "region_id":85687349
         }
     ],
     "wof:id":1209209615,
-    "wof:lastmodified":1566608041,
+    "wof:lastmodified":1576711924,
     "wof:name":"Cerro dos Passarinhos",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511678957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

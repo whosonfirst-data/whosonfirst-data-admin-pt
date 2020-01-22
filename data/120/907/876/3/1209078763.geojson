@@ -105,7 +105,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680249,
+        85633735,
+        85687373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,14 +118,17 @@
     "wof:geomhash":"3b290d94a0e2b9423769ca1aea3a1f8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209078763
+            "localadmin_id":1511680249,
+            "locality_id":1209078763,
+            "region_id":85687373
         }
     ],
     "wof:id":1209078763,
-    "wof:lastmodified":1566607933,
+    "wof:lastmodified":1576711917,
     "wof:name":"Barretos",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680249,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

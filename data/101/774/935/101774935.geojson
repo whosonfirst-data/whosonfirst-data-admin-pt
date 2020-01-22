@@ -96,6 +96,7 @@
     "wd:wordcount":110,
     "wof:belongsto":[
         102191581,
+        1511680625,
         85633735,
         85687401
     ],
@@ -113,6 +114,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680625,
             "locality_id":101774935,
             "region_id":85687401
         }
@@ -121,9 +123,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608528,
+    "wof:lastmodified":1576711759,
     "wof:name":"Vila Nova de Paiva",
-    "wof:parent_id":85687401,
+    "wof:parent_id":1511680625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

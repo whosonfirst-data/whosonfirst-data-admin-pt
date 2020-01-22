@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682199,
         85633735,
         85687415
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682199,
             "locality_id":1360083947,
             "region_id":85687415
         }
     ],
     "wof:id":1360083947,
-    "wof:lastmodified":1566608347,
+    "wof:lastmodified":1576712418,
     "wof:name":"Vale Bom Pitez",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511682199,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

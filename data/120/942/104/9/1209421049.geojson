@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684583,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"d3fb72224916ed4e9ff42c2d1b36749f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209421049
+            "localadmin_id":1511684583,
+            "locality_id":1209421049,
+            "region_id":85687419
         }
     ],
     "wof:id":1209421049,
-    "wof:lastmodified":1566608062,
+    "wof:lastmodified":1576711939,
     "wof:name":"Cabanelas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

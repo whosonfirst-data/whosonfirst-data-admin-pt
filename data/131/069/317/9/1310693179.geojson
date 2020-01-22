@@ -91,6 +91,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681057,
         85633735,
         85687391
     ],
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681057,
             "locality_id":1310693179,
             "region_id":85687391
         }
     ],
     "wof:id":1310693179,
-    "wof:lastmodified":1566608320,
+    "wof:lastmodified":1576712318,
     "wof:name":"Malhada",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681057,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

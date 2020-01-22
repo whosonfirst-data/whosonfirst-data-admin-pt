@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679135,
+        85633735,
+        85687377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"22494cbee86423479aae1604ac7d80ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209678845
+            "localadmin_id":1511679135,
+            "locality_id":1209678845,
+            "region_id":85687377
         }
     ],
     "wof:id":1209678845,
-    "wof:lastmodified":1566608020,
+    "wof:lastmodified":1576711952,
     "wof:name":"Murta",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

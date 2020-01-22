@@ -118,6 +118,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680439,
         85633735,
         85687381
     ],
@@ -134,14 +135,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680439,
             "locality_id":1126041077,
             "region_id":85687381
         }
     ],
     "wof:id":1126041077,
-    "wof:lastmodified":1566608630,
+    "wof:lastmodified":1576711889,
     "wof:name":"Morga",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680439,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

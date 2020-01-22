@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511683059,
+        85633735,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"863b1d314909533595fe48b1f318cd21",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209378469
+            "localadmin_id":1511683059,
+            "locality_id":1209378469,
+            "region_id":85687411
         }
     ],
     "wof:id":1209378469,
-    "wof:lastmodified":1566607957,
+    "wof:lastmodified":1576711934,
     "wof:name":"Cadavao",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511683059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

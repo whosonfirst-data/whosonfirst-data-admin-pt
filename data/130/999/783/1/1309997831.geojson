@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681291,
         85633735,
         85687391
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681291,
             "locality_id":1309997831,
             "region_id":85687391
         }
     ],
     "wof:id":1309997831,
-    "wof:lastmodified":1566608545,
+    "wof:lastmodified":1576712291,
     "wof:name":"Casal da Igreja",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

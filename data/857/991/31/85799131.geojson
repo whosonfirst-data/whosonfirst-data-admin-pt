@@ -130,8 +130,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        101759343,
+        1511683189,
         85633735,
+        101759343,
         85687411
     ],
     "wof:breaches":[],
@@ -148,13 +149,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683189,
             "locality_id":101759343,
             "neighbourhood_id":85799131,
             "region_id":85687411
         }
     ],
     "wof:id":85799131,
-    "wof:lastmodified":1566607561,
+    "wof:lastmodified":1576712802,
     "wof:name":"Senhora da Hora",
     "wof:parent_id":101759343,
     "wof:placetype":"neighbourhood",

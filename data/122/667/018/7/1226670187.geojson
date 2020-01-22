@@ -47,6 +47,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684421,
         85633735,
         85687419
     ],
@@ -61,14 +62,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684421,
             "locality_id":1226670187,
             "region_id":85687419
         }
     ],
     "wof:id":1226670187,
-    "wof:lastmodified":1566609129,
+    "wof:lastmodified":1576712032,
     "wof:name":"Cabeceiras de Basto",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684421,
     "wof:placetype":"locality",
     "wof:population":16710,
     "wof:population_rank":6,

@@ -173,6 +173,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685479,
         85633735,
         85687465
     ],
@@ -186,14 +187,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685479,
             "locality_id":1327190453,
             "region_id":85687465
         }
     ],
     "wof:id":1327190453,
-    "wof:lastmodified":1566607261,
+    "wof:lastmodified":1576712354,
     "wof:name":"Ponta Delgada",
-    "wof:parent_id":85687465,
+    "wof:parent_id":1511685479,
     "wof:placetype":"locality",
     "wof:population":359,
     "wof:population_rank":2,

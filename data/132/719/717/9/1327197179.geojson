@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680155,
         85633735,
         85687377
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680155,
             "locality_id":1327197179,
             "region_id":85687377
         }
     ],
     "wof:id":1327197179,
-    "wof:lastmodified":1566607264,
+    "wof:lastmodified":1576712354,
     "wof:name":"Quinta da Arresima",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

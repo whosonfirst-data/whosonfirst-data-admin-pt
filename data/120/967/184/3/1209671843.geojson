@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682881,
+        85633735,
+        85687401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"2c4f1307265e9b6e3ba42a0e4914e3f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209671843
+            "localadmin_id":1511682881,
+            "locality_id":1209671843,
+            "region_id":85687401
         }
     ],
     "wof:id":1209671843,
-    "wof:lastmodified":1566608021,
+    "wof:lastmodified":1576711951,
     "wof:name":"Panchorrinha",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

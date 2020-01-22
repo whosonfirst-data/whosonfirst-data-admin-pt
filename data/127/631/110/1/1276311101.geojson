@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682481,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682481,
             "locality_id":1276311101,
             "region_id":85687397
         }
     ],
     "wof:id":1276311101,
-    "wof:lastmodified":1566607919,
+    "wof:lastmodified":1576712187,
     "wof:name":"Macal do Chao",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

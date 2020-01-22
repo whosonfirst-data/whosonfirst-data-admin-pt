@@ -49,6 +49,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684007,
         85633735,
         85687419
     ],
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684007,
             "locality_id":1125853685,
             "region_id":85687419
         }
     ],
     "wof:id":1125853685,
-    "wof:lastmodified":1566608764,
+    "wof:lastmodified":1576711833,
     "wof:name":"Calend\u00e1rio",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684007,
     "wof:placetype":"locality",
     "wof:population":11357,
     "wof:population_rank":6,

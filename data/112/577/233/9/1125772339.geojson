@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679743,
         85633735,
         85687367
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679743,
             "locality_id":1125772339,
             "region_id":85687367
         }
     ],
     "wof:id":1125772339,
-    "wof:lastmodified":1566608786,
+    "wof:lastmodified":1576711818,
     "wof:name":"Olival do Basto",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679743,
     "wof:placetype":"locality",
     "wof:population":5959,
     "wof:population_rank":5,

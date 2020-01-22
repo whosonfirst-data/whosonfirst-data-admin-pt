@@ -112,6 +112,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681507,
         85633735,
         85687391
     ],
@@ -129,6 +130,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681507,
             "locality_id":101774885,
             "region_id":85687391
         }
@@ -137,9 +139,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608529,
+    "wof:lastmodified":1576711759,
     "wof:name":"Mira",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681507,
     "wof:placetype":"locality",
     "wof:population":7682,
     "wof:population_rank":5,

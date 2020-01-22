@@ -107,6 +107,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680019,
         85633735,
         85687367
     ],
@@ -120,14 +121,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680019,
             "locality_id":1276634311,
             "region_id":85687367
         }
     ],
     "wof:id":1276634311,
-    "wof:lastmodified":1566607896,
+    "wof:lastmodified":1576712205,
     "wof:name":"Vila Verde",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511680019,
     "wof:placetype":"locality",
     "wof:population":1162,
     "wof:population_rank":3,

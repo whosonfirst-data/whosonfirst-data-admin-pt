@@ -76,6 +76,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684337,
         85633735,
         85687419
     ],
@@ -89,14 +90,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684337,
             "locality_id":1360309387,
             "region_id":85687419
         }
     ],
     "wof:id":1360309387,
-    "wof:lastmodified":1566608344,
+    "wof:lastmodified":1576712427,
     "wof:name":"Pipe",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

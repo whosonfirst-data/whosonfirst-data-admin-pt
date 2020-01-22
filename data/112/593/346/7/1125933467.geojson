@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681233,
         85633735,
         85687385
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681233,
             "locality_id":1125933467,
             "region_id":85687385
         }
     ],
     "wof:id":1125933467,
-    "wof:lastmodified":1566608598,
+    "wof:lastmodified":1576711851,
     "wof:name":"Covilh\u00e3-Santa Maria",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511681233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

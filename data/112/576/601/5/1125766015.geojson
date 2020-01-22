@@ -71,6 +71,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125381709,
         85633735,
         85687385
     ],
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125381709,
             "locality_id":1125766015,
             "region_id":85687385
         }
     ],
     "wof:id":1125766015,
-    "wof:lastmodified":1566608761,
+    "wof:lastmodified":1576711815,
     "wof:name":"Penhas da Sa\u00fade",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1125381709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

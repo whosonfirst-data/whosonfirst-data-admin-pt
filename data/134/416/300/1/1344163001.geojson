@@ -52,6 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681791,
         85633735,
         85687419
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681791,
             "locality_id":1344163001,
             "region_id":85687419
         }
     ],
     "wof:id":1344163001,
-    "wof:lastmodified":1566607474,
+    "wof:lastmodified":1576712410,
     "wof:name":"Sequeiros",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511681791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

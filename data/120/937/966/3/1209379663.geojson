@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685021,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"985c461a41be3cb77af81d3ab22223be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209379663
+            "localadmin_id":1511685021,
+            "locality_id":1209379663,
+            "region_id":85687433
         }
     ],
     "wof:id":1209379663,
-    "wof:lastmodified":1566607956,
+    "wof:lastmodified":1576711935,
     "wof:name":"Vila Fonche",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

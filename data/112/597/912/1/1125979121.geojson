@@ -139,6 +139,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511684135,
         85633735,
         85687423
     ],
@@ -155,14 +156,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684135,
             "locality_id":1125979121,
             "region_id":85687423
         }
     ],
     "wof:id":1125979121,
-    "wof:lastmodified":1566608700,
+    "wof:lastmodified":1576711866,
     "wof:name":"Nora",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511684135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

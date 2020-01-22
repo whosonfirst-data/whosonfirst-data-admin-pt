@@ -45,6 +45,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680053,
         85633735,
         85687377
     ],
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680053,
             "locality_id":1125989815,
             "region_id":85687377
         }
     ],
     "wof:id":1125989815,
-    "wof:lastmodified":1566608734,
+    "wof:lastmodified":1576711870,
     "wof:name":"Santar\u00e9m-Marvila",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

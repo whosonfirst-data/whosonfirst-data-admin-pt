@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685509,
         85633735,
         85687345
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685509,
             "locality_id":1226033965,
             "region_id":85687345
         }
     ],
     "wof:id":1226033965,
-    "wof:lastmodified":1566609131,
+    "wof:lastmodified":1576711993,
     "wof:name":"Pedregal",
-    "wof:parent_id":85687345,
+    "wof:parent_id":1511685509,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

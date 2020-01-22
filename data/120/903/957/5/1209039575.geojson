@@ -57,7 +57,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684473,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +71,17 @@
     "wof:geomhash":"419d39ae6ce59735f972fc1bd4ad2288",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209039575
+            "localadmin_id":1511684473,
+            "locality_id":1209039575,
+            "region_id":85687419
         }
     ],
     "wof:id":1209039575,
-    "wof:lastmodified":1566608016,
+    "wof:lastmodified":1576711914,
     "wof:name":"Martim",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684473,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

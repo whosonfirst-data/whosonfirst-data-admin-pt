@@ -110,6 +110,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681151,
         85633735,
         85687391
     ],
@@ -126,14 +127,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681151,
             "locality_id":1125893599,
             "region_id":85687391
         }
     ],
     "wof:id":1125893599,
-    "wof:lastmodified":1566608663,
+    "wof:lastmodified":1576711845,
     "wof:name":"Poiares",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681151,
     "wof:placetype":"locality",
     "wof:population":5514,
     "wof:population_rank":5,

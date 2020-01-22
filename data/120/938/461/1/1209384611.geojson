@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680245,
+        85633735,
+        85687373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"dadb20580bc1acdd3d57f5bfa48799b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209384611
+            "localadmin_id":1511680245,
+            "locality_id":1209384611,
+            "region_id":85687373
         }
     ],
     "wof:id":1209384611,
-    "wof:lastmodified":1566607931,
+    "wof:lastmodified":1576711935,
     "wof:name":"Degracia Cimeira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -88,6 +88,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679809,
         85633735,
         85687367
     ],
@@ -105,6 +106,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679809,
             "locality_id":101832973,
             "region_id":85687367
         }
@@ -113,9 +115,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608407,
+    "wof:lastmodified":1576711787,
     "wof:name":"Maceira",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

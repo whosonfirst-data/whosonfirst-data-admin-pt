@@ -64,6 +64,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1125409931,
         85633735,
         85687423
     ],
@@ -80,14 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409931,
             "locality_id":1126055869,
             "region_id":85687423
         }
     ],
     "wof:id":1126055869,
-    "wof:lastmodified":1566608623,
+    "wof:lastmodified":1576711893,
     "wof:name":"Candedo",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1125409931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

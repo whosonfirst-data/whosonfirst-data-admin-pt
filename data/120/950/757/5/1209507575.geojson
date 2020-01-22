@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681119,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +73,17 @@
     "wof:geomhash":"e8c9561d42a7a7441d1ba875d32dd5df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209507575
+            "localadmin_id":1511681119,
+            "locality_id":1209507575,
+            "region_id":85687385
         }
     ],
     "wof:id":1209507575,
-    "wof:lastmodified":1566608002,
+    "wof:lastmodified":1576711943,
     "wof:name":"Pereiro",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

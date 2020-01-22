@@ -51,7 +51,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684383,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +65,17 @@
     "wof:geomhash":"30d0f0165c8c54039f450b423a7b819b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209639229
+            "localadmin_id":1511684383,
+            "locality_id":1209639229,
+            "region_id":85687419
         }
     ],
     "wof:id":1209639229,
-    "wof:lastmodified":1566607959,
+    "wof:lastmodified":1576711951,
     "wof:name":"Midoes",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684383,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

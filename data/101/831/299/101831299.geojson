@@ -156,6 +156,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680821,
         85633735,
         85687381
     ],
@@ -173,6 +174,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680821,
             "locality_id":101831299,
             "region_id":85687381
         }
@@ -181,9 +183,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608514,
+    "wof:lastmodified":1576711778,
     "wof:name":"Pombal",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680821,
     "wof:placetype":"locality",
     "wof:population":17355,
     "wof:population_rank":6,

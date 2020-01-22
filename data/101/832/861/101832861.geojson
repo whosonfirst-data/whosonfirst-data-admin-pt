@@ -36,6 +36,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679597,
         85633735,
         85687359
     ],
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679597,
             "locality_id":101832861,
             "region_id":85687359
         }
     ],
     "wof:id":101832861,
-    "wof:lastmodified":1566608398,
+    "wof:lastmodified":1576711785,
     "wof:name":"Quinta da Princesa",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

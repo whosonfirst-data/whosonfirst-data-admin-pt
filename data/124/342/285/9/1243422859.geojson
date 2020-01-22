@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685307,
         85633735,
         85687429
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685307,
             "locality_id":1243422859,
             "region_id":85687429
         }
     ],
     "wof:id":1243422859,
-    "wof:lastmodified":1566608948,
+    "wof:lastmodified":1576712101,
     "wof:name":"Rua do Congro",
-    "wof:parent_id":85687429,
+    "wof:parent_id":1511685307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

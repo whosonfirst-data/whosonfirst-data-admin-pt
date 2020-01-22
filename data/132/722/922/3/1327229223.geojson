@@ -43,6 +43,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680929,
         85633735,
         85687385
     ],
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680929,
             "locality_id":1327229223,
             "region_id":85687385
         }
     ],
     "wof:id":1327229223,
-    "wof:lastmodified":1566607146,
+    "wof:lastmodified":1576712357,
     "wof:name":"Aldeia de Santa Margarida",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680929,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

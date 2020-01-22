@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685239,
+        85633735,
+        85687441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"2f48c11749fa22b2987a7e0a0e3b49a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209170433
+            "localadmin_id":1511685239,
+            "locality_id":1209170433,
+            "region_id":85687441
         }
     ],
     "wof:id":1209170433,
-    "wof:lastmodified":1566608071,
+    "wof:lastmodified":1576711920,
     "wof:name":"Patameiros",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

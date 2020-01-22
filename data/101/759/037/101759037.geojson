@@ -41,6 +41,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679703,
         85633735,
         85687367
     ],
@@ -59,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679703,
             "locality_id":101759037,
             "region_id":85687367
         }
     ],
     "wof:id":101759037,
-    "wof:lastmodified":1566608471,
+    "wof:lastmodified":1576711753,
     "wof:name":"Matarraque",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

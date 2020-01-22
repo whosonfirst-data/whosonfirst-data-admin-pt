@@ -106,6 +106,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679745,
         85633735,
         85687367
     ],
@@ -123,13 +124,14 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679745,
             "locality_id":-1,
             "neighbourhood_id":85799091,
             "region_id":85687367
         }
     ],
     "wof:id":85799091,
-    "wof:lastmodified":1566607564,
+    "wof:lastmodified":1576712802,
     "wof:name":"Pontinha",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

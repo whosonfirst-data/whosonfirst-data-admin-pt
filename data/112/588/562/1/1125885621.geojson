@@ -50,6 +50,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681825,
         85633735,
         85687415
     ],
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681825,
             "locality_id":1125885621,
             "region_id":85687415
         }
     ],
     "wof:id":1125885621,
-    "wof:lastmodified":1566608655,
+    "wof:lastmodified":1576711843,
     "wof:name":"Montezinho",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511681825,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

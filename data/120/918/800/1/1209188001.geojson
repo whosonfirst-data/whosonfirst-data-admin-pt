@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680033,
+        85633735,
+        85687367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"bdcf3b65f840f9c477c923a60a91d38e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209188001
+            "localadmin_id":1511680033,
+            "locality_id":1209188001,
+            "region_id":85687367
         }
     ],
     "wof:id":1209188001,
-    "wof:lastmodified":1566608051,
+    "wof:lastmodified":1576711922,
     "wof:name":"Palhais",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680033,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

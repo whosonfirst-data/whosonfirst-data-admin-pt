@@ -78,6 +78,7 @@
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
+        1511679607,
         85633735,
         85687359
     ],
@@ -95,14 +96,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679607,
             "locality_id":101832935,
             "region_id":85687359
         }
     ],
     "wof:id":101832935,
-    "wof:lastmodified":1566608403,
+    "wof:lastmodified":1576711786,
     "wof:name":"Laranjeiro",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

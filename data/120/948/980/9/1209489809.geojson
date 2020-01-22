@@ -51,7 +51,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679367,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +64,17 @@
     "wof:geomhash":"38ad5763ce56ddddf3aba60fab1aef7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209489809
+            "localadmin_id":1511679367,
+            "locality_id":1209489809,
+            "region_id":85687433
         }
     ],
     "wof:id":1209489809,
-    "wof:lastmodified":1566607972,
+    "wof:lastmodified":1576711942,
     "wof:name":"Porreiras",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -70,6 +70,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125409901,
         85633735,
         85687391
     ],
@@ -83,14 +84,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125409901,
             "locality_id":1326851653,
             "region_id":85687391
         }
     ],
     "wof:id":1326851653,
-    "wof:lastmodified":1566607226,
+    "wof:lastmodified":1576712341,
     "wof:name":"Miro",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1125409901,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

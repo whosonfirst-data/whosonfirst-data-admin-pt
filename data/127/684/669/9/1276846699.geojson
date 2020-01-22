@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683133,
         85633735,
         85687411
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683133,
             "locality_id":1276846699,
             "region_id":85687411
         }
     ],
     "wof:id":1276846699,
-    "wof:lastmodified":1566607880,
+    "wof:lastmodified":1576712217,
     "wof:name":"Vales",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

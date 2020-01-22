@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680551,
+        85633735,
+        85687385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"234eca054b267b7974348673c064132b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209207323
+            "localadmin_id":1511680551,
+            "locality_id":1209207323,
+            "region_id":85687385
         }
     ],
     "wof:id":1209207323,
-    "wof:lastmodified":1566608041,
+    "wof:lastmodified":1576711924,
     "wof:name":"Sarrasqueira",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680551,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

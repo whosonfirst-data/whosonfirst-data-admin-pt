@@ -57,6 +57,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679071,
         85633735,
         85687367
     ],
@@ -73,14 +74,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679071,
             "locality_id":1125965831,
             "region_id":85687367
         }
     ],
     "wof:id":1125965831,
-    "wof:lastmodified":1566608720,
+    "wof:lastmodified":1576711860,
     "wof:name":"Figueira do Guincho",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679071,
     "wof:placetype":"locality",
     "wof:population":500,
     "wof:population_rank":2,

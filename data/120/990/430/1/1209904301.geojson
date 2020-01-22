@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682699,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682699,
             "locality_id":1209904301,
             "region_id":85687397
         }
     ],
     "wof:id":1209904301,
-    "wof:lastmodified":1566607963,
+    "wof:lastmodified":1576711966,
     "wof:name":"Palhais",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

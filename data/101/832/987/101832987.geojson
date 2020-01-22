@@ -73,6 +73,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679849,
         85633735,
         85687377
     ],
@@ -90,6 +91,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679849,
             "locality_id":101832987,
             "region_id":85687377
         }
@@ -98,9 +100,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608407,
+    "wof:lastmodified":1576711787,
     "wof:name":"Samora Correia",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511679849,
     "wof:placetype":"locality",
     "wof:population":14154,
     "wof:population_rank":6,

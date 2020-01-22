@@ -58,6 +58,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681673,
         85633735,
         85687409
     ],
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681673,
             "locality_id":1343674729,
             "region_id":85687409
         }
     ],
     "wof:id":1343674729,
-    "wof:lastmodified":1566607441,
+    "wof:lastmodified":1576712391,
     "wof:name":"Burgo",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -80,6 +80,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511681961,
         85633735,
         85687409
     ],
@@ -96,14 +97,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681961,
             "locality_id":1125886177,
             "region_id":85687409
         }
     ],
     "wof:id":1125886177,
-    "wof:lastmodified":1566608653,
+    "wof:lastmodified":1576711843,
     "wof:name":"Miragaia",
-    "wof:parent_id":85687409,
+    "wof:parent_id":1511681961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

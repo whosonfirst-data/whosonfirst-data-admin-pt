@@ -88,6 +88,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685541,
         85633735,
         85687341
     ],
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685541,
             "locality_id":1125869109,
             "region_id":85687341
         }
     ],
     "wof:id":1125869109,
-    "wof:lastmodified":1566608647,
+    "wof:lastmodified":1576711838,
     "wof:name":"Camacha",
-    "wof:parent_id":85687341,
+    "wof:parent_id":1511685541,
     "wof:placetype":"locality",
     "wof:population":8635,
     "wof:population_rank":5,

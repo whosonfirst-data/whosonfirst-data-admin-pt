@@ -84,7 +84,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511680871,
+        85633735,
+        85687381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +97,17 @@
     "wof:geomhash":"c0de9d33e3225141b70720167979a1c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209401061
+            "localadmin_id":1511680871,
+            "locality_id":1209401061,
+            "region_id":85687381
         }
     ],
     "wof:id":1209401061,
-    "wof:lastmodified":1566607985,
+    "wof:lastmodified":1576711937,
     "wof:name":"Alvito",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511680871,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

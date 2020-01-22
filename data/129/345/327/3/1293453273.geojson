@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684101,
         85633735,
         85687411
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684101,
             "locality_id":1293453273,
             "region_id":85687411
         }
     ],
     "wof:id":1293453273,
-    "wof:lastmodified":1566607719,
+    "wof:lastmodified":1576712252,
     "wof:name":"Serra do Monte",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511684101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -136,6 +136,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511678851,
         85633735,
         85687349
     ],
@@ -153,6 +154,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678851,
             "locality_id":101780659,
             "region_id":85687349
         }
@@ -161,9 +163,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608522,
+    "wof:lastmodified":1576711778,
     "wof:name":"Sagres",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678851,
     "wof:placetype":"locality",
     "wof:population":1939,
     "wof:population_rank":3,

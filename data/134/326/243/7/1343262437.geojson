@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681799,
         85633735,
         85687419
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681799,
             "locality_id":1343262437,
             "region_id":85687419
         }
     ],
     "wof:id":1343262437,
-    "wof:lastmodified":1566607520,
+    "wof:lastmodified":1576712370,
     "wof:name":"Fundevila",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511681799,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

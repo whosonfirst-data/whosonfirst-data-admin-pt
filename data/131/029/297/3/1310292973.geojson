@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682625,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682625,
             "locality_id":1310292973,
             "region_id":85687397
         }
     ],
     "wof:id":1310292973,
-    "wof:lastmodified":1566608282,
+    "wof:lastmodified":1576712303,
     "wof:name":"Povoa do Concelho",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682625,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

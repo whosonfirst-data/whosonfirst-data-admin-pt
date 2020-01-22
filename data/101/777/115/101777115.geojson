@@ -102,6 +102,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511680415,
         85633735,
         85687381
     ],
@@ -119,6 +120,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680415,
             "locality_id":101777115,
             "region_id":85687381
         }
@@ -127,9 +129,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608447,
+    "wof:lastmodified":1576711770,
     "wof:name":"Vestiaria",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

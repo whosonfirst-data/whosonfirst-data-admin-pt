@@ -94,6 +94,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681701,
         85633735,
         85687397
     ],
@@ -107,14 +108,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681701,
             "locality_id":1276859499,
             "region_id":85687397
         }
     ],
     "wof:id":1276859499,
-    "wof:lastmodified":1566607862,
+    "wof:lastmodified":1576712218,
     "wof:name":"Chaos",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511681701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

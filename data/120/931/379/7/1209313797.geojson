@@ -57,7 +57,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679353,
+        85633735,
+        85687415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,14 +70,17 @@
     "wof:geomhash":"a7266fb5c95ea2bf989a0c5c78b1f6cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209313797
+            "localadmin_id":1511679353,
+            "locality_id":1209313797,
+            "region_id":85687415
         }
     ],
     "wof:id":1209313797,
-    "wof:lastmodified":1566607926,
+    "wof:lastmodified":1576711931,
     "wof:name":"Soutelo",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

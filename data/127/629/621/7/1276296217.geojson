@@ -36,6 +36,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681757,
         85633735,
         85687423
     ],
@@ -49,14 +50,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681757,
             "locality_id":1276296217,
             "region_id":85687423
         }
     ],
     "wof:id":1276296217,
-    "wof:lastmodified":1566607800,
+    "wof:lastmodified":1576712186,
     "wof:name":"Povoa",
-    "wof:parent_id":85687423,
+    "wof:parent_id":1511681757,
     "wof:placetype":"locality",
     "wof:population":30,
     "wof:population_rank":1,

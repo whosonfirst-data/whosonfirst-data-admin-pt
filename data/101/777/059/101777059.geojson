@@ -125,6 +125,7 @@
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
+        1511680001,
         85633735,
         85687373
     ],
@@ -143,6 +144,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680001,
             "locality_id":101777059,
             "region_id":85687373
         }
@@ -151,9 +153,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608446,
+    "wof:lastmodified":1576711769,
     "wof:name":"Arronches",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511680001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

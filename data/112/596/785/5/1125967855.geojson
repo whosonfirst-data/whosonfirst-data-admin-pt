@@ -46,6 +46,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511682567,
         85633735,
         85687397
     ],
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682567,
             "locality_id":1125967855,
             "region_id":85687397
         }
     ],
     "wof:id":1125967855,
-    "wof:lastmodified":1566608712,
+    "wof:lastmodified":1576711861,
     "wof:name":"Cerejo",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

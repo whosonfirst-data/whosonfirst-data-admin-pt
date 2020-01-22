@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511682283,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"c3b2443c9b1fe72c8827cc42ad02c406",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209421101
+            "localadmin_id":1511682283,
+            "locality_id":1209421101,
+            "region_id":85687433
         }
     ],
     "wof:id":1209421101,
-    "wof:lastmodified":1566608062,
+    "wof:lastmodified":1576711939,
     "wof:name":"Eido",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511682283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

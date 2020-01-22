@@ -107,6 +107,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511680255,
         85633735,
         85687377
     ],
@@ -123,14 +124,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680255,
             "locality_id":1125821971,
             "region_id":85687377
         }
     ],
     "wof:id":1125821971,
-    "wof:lastmodified":1566608755,
+    "wof:lastmodified":1576711828,
     "wof:name":"Const\u00e2ncia",
-    "wof:parent_id":85687377,
+    "wof:parent_id":1511680255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

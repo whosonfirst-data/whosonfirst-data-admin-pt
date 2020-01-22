@@ -53,7 +53,12 @@
         "Prainha"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        1511685301,
+        85633735,
+        85687429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3372756
@@ -62,16 +67,17 @@
     "wof:geomhash":"077fa3f418fd2a94c16f23d79d552991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1511685301,
             "locality_id":1260138513,
-            "region_id":-1
+            "region_id":85687429
         }
     ],
     "wof:id":1260138513,
-    "wof:lastmodified":1566608151,
+    "wof:lastmodified":1576712162,
     "wof:name":"Prainha",
-    "wof:parent_id":-1,
+    "wof:parent_id":1511685301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

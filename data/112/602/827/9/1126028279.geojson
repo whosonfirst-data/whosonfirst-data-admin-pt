@@ -80,6 +80,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679629,
         85633735,
         85687359
     ],
@@ -97,14 +98,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679629,
             "locality_id":1126028279,
             "region_id":85687359
         }
     ],
     "wof:id":1126028279,
-    "wof:lastmodified":1566608616,
+    "wof:lastmodified":1576711887,
     "wof:name":"Gaio-Ros\u00e1rio",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1511679629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

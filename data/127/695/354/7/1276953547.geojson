@@ -39,6 +39,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125270271,
         85633735,
         85687359
     ],
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125270271,
             "locality_id":1276953547,
             "region_id":85687359
         }
     ],
     "wof:id":1276953547,
-    "wof:lastmodified":1566607823,
+    "wof:lastmodified":1576712221,
     "wof:name":"Sao Bartolomeu da Serra",
-    "wof:parent_id":85687359,
+    "wof:parent_id":1125270271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

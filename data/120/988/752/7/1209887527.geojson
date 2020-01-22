@@ -37,6 +37,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680277,
         85633735,
         85687381
     ],
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680277,
             "locality_id":1209887527,
             "region_id":85687381
         }
     ],
     "wof:id":1209887527,
-    "wof:lastmodified":1566608077,
+    "wof:lastmodified":1576711964,
     "wof:name":"Tornada",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511680277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -79,6 +79,7 @@
     "wd:wordcount":144,
     "wof:belongsto":[
         102191581,
+        1511679125,
         85633735,
         85687381
     ],
@@ -95,14 +96,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679125,
             "locality_id":101777131,
             "region_id":85687381
         }
     ],
     "wof:id":101777131,
-    "wof:lastmodified":1566608443,
+    "wof:lastmodified":1576711770,
     "wof:name":"Serra de El Rei",
-    "wof:parent_id":85687381,
+    "wof:parent_id":1511679125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -68,6 +68,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685253,
         85633735,
         85687441
     ],
@@ -84,14 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685253,
             "locality_id":1125807073,
             "region_id":85687441
         }
     ],
     "wof:id":1125807073,
-    "wof:lastmodified":1566608666,
+    "wof:lastmodified":1576711825,
     "wof:name":"Cinco Ribeiras",
-    "wof:parent_id":85687441,
+    "wof:parent_id":1511685253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

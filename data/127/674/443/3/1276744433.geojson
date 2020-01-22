@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511682009,
         85633735,
         85687397
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682009,
             "locality_id":1276744433,
             "region_id":85687397
         }
     ],
     "wof:id":1276744433,
-    "wof:lastmodified":1566607785,
+    "wof:lastmodified":1576712213,
     "wof:name":"Prados",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511682009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

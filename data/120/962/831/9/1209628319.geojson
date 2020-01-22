@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679187,
+        85633735,
+        85687409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"ec702f81b7c32ecc147ad35172537c4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209628319
+            "localadmin_id":1511679187,
+            "locality_id":1209628319,
+            "region_id":85687409
         }
     ],
     "wof:id":1209628319,
-    "wof:lastmodified":1566607941,
+    "wof:lastmodified":1576711951,
     "wof:name":"Vergas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679187,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

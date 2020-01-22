@@ -376,6 +376,7 @@
     "wd:wordcount":2085,
     "wof:belongsto":[
         102191581,
+        1511678865,
         85633735,
         85687349
     ],
@@ -397,6 +398,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511678865,
             "locality_id":101832755,
             "region_id":85687349
         }
@@ -405,9 +407,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608395,
+    "wof:lastmodified":1576711782,
     "wof:name":"Faro",
-    "wof:parent_id":85687349,
+    "wof:parent_id":1511678865,
     "wof:placetype":"locality",
     "wof:population":41355,
     "wof:population_rank":7,

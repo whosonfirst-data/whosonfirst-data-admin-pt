@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511679409,
+        85633735,
+        85687359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"f0b39a3af598c58224031f8ff88ad0f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209678209
+            "localadmin_id":1511679409,
+            "locality_id":1209678209,
+            "region_id":85687359
         }
     ],
     "wof:id":1209678209,
-    "wof:lastmodified":1566608019,
+    "wof:lastmodified":1576711952,
     "wof:name":"Ermidas",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511679409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

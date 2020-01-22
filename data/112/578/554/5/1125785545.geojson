@@ -68,6 +68,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511685417,
         85633735,
         85687437
     ],
@@ -84,14 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685417,
             "locality_id":1125785545,
             "region_id":85687437
         }
     ],
     "wof:id":1125785545,
-    "wof:lastmodified":1566608769,
+    "wof:lastmodified":1576711820,
     "wof:name":"Salga",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -116,6 +116,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511679697,
         85633735,
         85687363
     ],
@@ -132,14 +133,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679697,
             "locality_id":1125897005,
             "region_id":85687363
         }
     ],
     "wof:id":1125897005,
-    "wof:lastmodified":1566608661,
+    "wof:lastmodified":1576711845,
     "wof:name":"Igrejinha",
-    "wof:parent_id":85687363,
+    "wof:parent_id":1511679697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

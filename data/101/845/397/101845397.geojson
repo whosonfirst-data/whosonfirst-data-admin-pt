@@ -88,6 +88,7 @@
     "wd:wordcount":1223,
     "wof:belongsto":[
         102191581,
+        1511679117,
         85633735,
         85687373
     ],
@@ -105,6 +106,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679117,
             "locality_id":101845397,
             "region_id":85687373
         }
@@ -113,9 +115,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608384,
+    "wof:lastmodified":1576711788,
     "wof:name":"Fortios",
-    "wof:parent_id":85687373,
+    "wof:parent_id":1511679117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

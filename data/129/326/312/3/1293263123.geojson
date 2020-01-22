@@ -160,6 +160,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1125328177,
         85633735,
         85687367
     ],
@@ -173,14 +174,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125328177,
             "locality_id":1293263123,
             "region_id":85687367
         }
     ],
     "wof:id":1293263123,
-    "wof:lastmodified":1566607737,
+    "wof:lastmodified":1576712245,
     "wof:name":"Almada",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125328177,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

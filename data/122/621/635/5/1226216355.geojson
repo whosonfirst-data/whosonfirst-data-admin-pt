@@ -34,6 +34,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679847,
         85633735,
         85687367
     ],
@@ -47,14 +48,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679847,
             "locality_id":1226216355,
             "region_id":85687367
         }
     ],
     "wof:id":1226216355,
-    "wof:lastmodified":1566609095,
+    "wof:lastmodified":1576712004,
     "wof:name":"Alto do Casal",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679847,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

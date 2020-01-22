@@ -67,6 +67,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511682211,
         85633735,
         85687419
     ],
@@ -82,14 +83,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511682211,
             "locality_id":101775009,
             "region_id":85687419
         }
     ],
     "wof:id":101775009,
-    "wof:lastmodified":1566608518,
+    "wof:lastmodified":1576711761,
     "wof:name":"Ferreiros",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511682211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

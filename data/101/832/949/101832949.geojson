@@ -125,6 +125,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1125328177,
         85633735,
         85687367
     ],
@@ -142,6 +143,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1125328177,
             "locality_id":101832949,
             "region_id":85687367
         }
@@ -150,9 +152,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608401,
+    "wof:lastmodified":1576711787,
     "wof:name":"Mafra",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1125328177,
     "wof:placetype":"locality",
     "wof:population":12259,
     "wof:population_rank":6,

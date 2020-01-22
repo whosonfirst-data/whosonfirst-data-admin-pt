@@ -45,6 +45,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511680547,
         85633735,
         85687385
     ],
@@ -58,14 +59,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680547,
             "locality_id":1310598921,
             "region_id":85687385
         }
     ],
     "wof:id":1310598921,
-    "wof:lastmodified":1566608303,
+    "wof:lastmodified":1576712315,
     "wof:name":"Vila de Rei",
-    "wof:parent_id":85687385,
+    "wof:parent_id":1511680547,
     "wof:placetype":"locality",
     "wof:population":3452,
     "wof:population_rank":4,

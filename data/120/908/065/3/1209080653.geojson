@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511685059,
+        85633735,
+        85687433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"6ec60929082b639f3d5687a23b657477",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209080653
+            "localadmin_id":1511685059,
+            "locality_id":1209080653,
+            "region_id":85687433
         }
     ],
     "wof:id":1209080653,
-    "wof:lastmodified":1566607952,
+    "wof:lastmodified":1576711917,
     "wof:name":"Outeiral",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511685059,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

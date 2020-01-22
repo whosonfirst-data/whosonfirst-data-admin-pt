@@ -72,7 +72,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511681021,
+        85633735,
+        85687391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +85,17 @@
     "wof:geomhash":"9a7718fc0ee734eac7ae2fef4b4f9787",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209211747
+            "localadmin_id":1511681021,
+            "locality_id":1209211747,
+            "region_id":85687391
         }
     ],
     "wof:id":1209211747,
-    "wof:lastmodified":1566608067,
+    "wof:lastmodified":1576711924,
     "wof:name":"Vila Nova",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511681021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

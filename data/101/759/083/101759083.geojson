@@ -38,6 +38,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511679749,
         85633735,
         85687367
     ],
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679749,
             "locality_id":101759083,
             "region_id":85687367
         }
     ],
     "wof:id":101759083,
-    "wof:lastmodified":1566608466,
+    "wof:lastmodified":1576711753,
     "wof:name":"Casal de Cambra",
-    "wof:parent_id":85687367,
+    "wof:parent_id":1511679749,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

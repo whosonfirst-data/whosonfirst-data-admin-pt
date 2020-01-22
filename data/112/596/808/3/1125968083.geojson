@@ -47,6 +47,7 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
+        1511683741,
         85633735,
         85687411
     ],
@@ -63,14 +64,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683741,
             "locality_id":1125968083,
             "region_id":85687411
         }
     ],
     "wof:id":1125968083,
-    "wof:lastmodified":1566608717,
+    "wof:lastmodified":1576711861,
     "wof:name":"Figueir\u00f3",
-    "wof:parent_id":85687411,
+    "wof:parent_id":1511683741,
     "wof:placetype":"locality",
     "wof:population":4579,
     "wof:population_rank":4,

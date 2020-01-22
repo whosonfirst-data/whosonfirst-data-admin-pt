@@ -43,6 +43,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511679063,
         85633735,
         85687355
     ],
@@ -56,14 +57,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511679063,
             "locality_id":1293202317,
             "region_id":85687355
         }
     ],
     "wof:id":1293202317,
-    "wof:lastmodified":1566607706,
+    "wof:lastmodified":1576712243,
     "wof:name":"Algodor",
-    "wof:parent_id":85687355,
+    "wof:parent_id":1511679063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

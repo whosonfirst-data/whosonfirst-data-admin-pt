@@ -52,6 +52,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683365,
         85633735,
         85687415
     ],
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683365,
             "locality_id":1242600447,
             "region_id":85687415
         }
     ],
     "wof:id":1242600447,
-    "wof:lastmodified":1566608844,
+    "wof:lastmodified":1576712045,
     "wof:name":"Vide",
-    "wof:parent_id":85687415,
+    "wof:parent_id":1511683365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

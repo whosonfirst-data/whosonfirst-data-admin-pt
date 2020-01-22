@@ -80,6 +80,7 @@
     "wd:wordcount":141,
     "wof:belongsto":[
         102191581,
+        1511681461,
         85633735,
         85687391
     ],
@@ -100,6 +101,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681461,
             "locality_id":101776153,
             "region_id":85687391
         }
@@ -108,9 +110,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608428,
+    "wof:lastmodified":1576711763,
     "wof:name":"Corticeiro de Cima",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

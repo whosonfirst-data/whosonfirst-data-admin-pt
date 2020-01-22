@@ -140,6 +140,7 @@
     "wd:wordcount":211,
     "wof:belongsto":[
         102191581,
+        1511680367,
         85633735,
         85687397
     ],
@@ -160,14 +161,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511680367,
             "locality_id":101774887,
             "region_id":85687397
         }
     ],
     "wof:id":101774887,
-    "wof:lastmodified":1566608526,
+    "wof:lastmodified":1576711759,
     "wof:name":"Vila Nova de Foz C\u00f4a",
-    "wof:parent_id":85687397,
+    "wof:parent_id":1511680367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

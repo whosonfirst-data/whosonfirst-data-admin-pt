@@ -511,6 +511,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511683665,
         85633735,
         85687419
     ],
@@ -524,14 +525,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511683665,
             "locality_id":1226646471,
             "region_id":85687419
         }
     ],
     "wof:id":1226646471,
-    "wof:lastmodified":1566609189,
+    "wof:lastmodified":1576712030,
     "wof:name":"Santiago",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511683665,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

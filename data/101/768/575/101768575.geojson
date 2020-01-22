@@ -53,6 +53,7 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
+        1511681001,
         85633735,
         85687391
     ],
@@ -69,6 +70,7 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681001,
             "locality_id":101768575,
             "region_id":85687391
         }
@@ -77,9 +79,9 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1566608462,
+    "wof:lastmodified":1576711759,
     "wof:name":"Vila Nova de An\u00e7os",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

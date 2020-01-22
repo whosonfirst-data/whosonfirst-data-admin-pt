@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511678865,
+        85633735,
+        85687349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"e22d04b7151739c7e84cecb7fb0092d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209611029
+            "localadmin_id":1511678865,
+            "locality_id":1209611029,
+            "region_id":85687349
         }
     ],
     "wof:id":1209611029,
-    "wof:lastmodified":1566608009,
+    "wof:lastmodified":1576711949,
     "wof:name":"Vale de Carneiros",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511678865,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

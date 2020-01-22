@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681147,
         85633735,
         85687391
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681147,
             "locality_id":1326951455,
             "region_id":85687391
         }
     ],
     "wof:id":1326951455,
-    "wof:lastmodified":1566607144,
+    "wof:lastmodified":1576712345,
     "wof:name":"Olho Marinho",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

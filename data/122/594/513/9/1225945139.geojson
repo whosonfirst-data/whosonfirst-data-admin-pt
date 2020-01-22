@@ -142,6 +142,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511684443,
         85633735,
         85687419
     ],
@@ -155,14 +156,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511684443,
             "locality_id":1225945139,
             "region_id":85687419
         }
     ],
     "wof:id":1225945139,
-    "wof:lastmodified":1566609068,
+    "wof:lastmodified":1576711987,
     "wof:name":"Boza",
-    "wof:parent_id":85687419,
+    "wof:parent_id":1511684443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

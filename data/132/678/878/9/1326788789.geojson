@@ -61,6 +61,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685475,
         85633735,
         85687465
     ],
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685475,
             "locality_id":1326788789,
             "region_id":85687465
         }
     ],
     "wof:id":1326788789,
-    "wof:lastmodified":1566607228,
+    "wof:lastmodified":1576712338,
     "wof:name":"Alagoa",
-    "wof:parent_id":85687465,
+    "wof:parent_id":1511685475,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

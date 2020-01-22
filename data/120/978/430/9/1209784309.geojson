@@ -53,6 +53,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511685445,
         85633735,
         85687437
     ],
@@ -67,14 +68,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511685445,
             "locality_id":1209784309,
             "region_id":85687437
         }
     ],
     "wof:id":1209784309,
-    "wof:lastmodified":1566607987,
+    "wof:lastmodified":1576711959,
     "wof:name":"Mosteiros",
-    "wof:parent_id":85687437,
+    "wof:parent_id":1511685445,
     "wof:placetype":"locality",
     "wof:population":1123,
     "wof:population_rank":3,

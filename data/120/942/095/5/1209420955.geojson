@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633735
+        102191581,
+        1511684771,
+        85633735,
+        85687419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"723ae3fbd9f6d718bb06509b31f7922d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633735,
-            "locality_id":1209420955
+            "localadmin_id":1511684771,
+            "locality_id":1209420955,
+            "region_id":85687419
         }
     ],
     "wof:id":1209420955,
-    "wof:lastmodified":1566608063,
+    "wof:lastmodified":1576711938,
     "wof:name":"Lameiras",
-    "wof:parent_id":85633735,
+    "wof:parent_id":1511684771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

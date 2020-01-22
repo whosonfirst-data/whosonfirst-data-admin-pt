@@ -38,6 +38,7 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
+        1511681293,
         85633735,
         85687391
     ],
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633735,
+            "localadmin_id":1511681293,
             "locality_id":1226036867,
             "region_id":85687391
         }
     ],
     "wof:id":1226036867,
-    "wof:lastmodified":1566609132,
+    "wof:lastmodified":1576711993,
     "wof:name":"Sao Pedro de Alva",
-    "wof:parent_id":85687391,
+    "wof:parent_id":1511681293,
     "wof:placetype":"locality",
     "wof:population":1818,
     "wof:population_rank":3,
