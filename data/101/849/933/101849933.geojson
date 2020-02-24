@@ -345,8 +345,9 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "quattroshapes",
         "quattroshapes_pg",
-        "quattroshapes"
+        "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -370,6 +371,11 @@
         "qs_pg:id":1058243
     },
     "wof:country":"PT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"3a3e94d5cc49d7b5216a92e03c4b887f",
     "wof:hierarchy":[
         {
@@ -381,7 +387,7 @@
         }
     ],
     "wof:id":101849933,
-    "wof:lastmodified":1579720444,
+    "wof:lastmodified":1582359904,
     "wof:name":"Ponta Delgada",
     "wof:parent_id":1511685319,
     "wof:placetype":"locality",
