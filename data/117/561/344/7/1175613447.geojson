@@ -9,7 +9,6 @@
     "geom:bbox":"-9.21012589609,38.6769331235,-9.18373456878,38.7412307538",
     "geom:latitude":38.709217,
     "geom:longitude":-9.193513,
-    "gn:id":"",
     "iso:country":"PT",
     "lbl:latitude":38.727715,
     "lbl:longitude":-9.1886,
@@ -73,6 +72,9 @@
         "qs_pg:id":1014773
     },
     "wof:country":"PT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cf4bdfdaf85b97039bcecd1d401e18a",
     "wof:hierarchy":[
         {
@@ -85,10 +87,7 @@
         }
     ],
     "wof:id":1175613447,
-    "wof:lang":[
-        "por"
-    ],
-    "wof:lastmodified":1576711896,
+    "wof:lastmodified":1603260344,
     "wof:name":"Zona Interdita",
     "wof:parent_id":101759079,
     "wof:placetype":"neighbourhood",
