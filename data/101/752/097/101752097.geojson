@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00577,
     "geom:area_square_m":53385680.570259,
-    "geom:bbox":"-8.48558988784,41.5038795,-8.35374846498,41.6167710306",
+    "geom:bbox":"-8.48558988784174,41.50387949999998,-8.35374846497808,41.61677103061345",
     "geom:latitude":41.562978,
     "geom:longitude":-8.423944,
     "gn:population":121394,
@@ -61,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03ac\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Braga"
     ],
     "name:eng_x_variant":[
         "BGZ"
@@ -345,8 +348,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        1511683597,
         85633735,
+        1511683597,
         85687419
     ],
     "wof:breaches":[],
@@ -374,7 +377,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582359888,
+    "wof:lastmodified":1609879737,
     "wof:name":"Braga",
     "wof:parent_id":1511683597,
     "wof:placetype":"locality",
