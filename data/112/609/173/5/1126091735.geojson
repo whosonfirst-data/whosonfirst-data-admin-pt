@@ -110,8 +110,8 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        1125409915,
         85633735,
+        1125409915,
         101752093,
         85687411
     ],
@@ -138,13 +138,15 @@
         }
     ],
     "wof:id":1126091735,
-    "wof:lastmodified":1633561642,
+    "wof:lastmodified":1633563984,
     "wof:name":"Lordelo do Ouro",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85799069
+    ],
     "wof:tags":[]
 },
   "bbox": [
