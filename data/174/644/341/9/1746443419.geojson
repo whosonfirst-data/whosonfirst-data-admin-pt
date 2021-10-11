@@ -23,16 +23,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687411,
+        102191581,
+        1125409915,
+        85633735,
+        101752093
+    ],
     "wof:breaches":[],
     "wof:country":"PT",
     "wof:created":1633561649,
     "wof:geomhash":"c44763ec9105b30ad485f89e2f6de487",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409915,
+            "locality_id":101752093,
+            "neighbourhood_id":1746443419,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1746443419,
-    "wof:lastmodified":1633561649,
+    "wof:lastmodified":1633982994,
     "wof:name":"Nevogilde",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

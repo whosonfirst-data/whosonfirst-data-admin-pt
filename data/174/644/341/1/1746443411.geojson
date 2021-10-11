@@ -23,16 +23,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687411,
+        102191581,
+        1125409915,
+        85633735,
+        101752093
+    ],
     "wof:breaches":[],
     "wof:country":"PT",
     "wof:created":1633561646,
     "wof:geomhash":"12397adda4e31393411ed0c6369d8af9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633735,
+            "localadmin_id":1125409915,
+            "locality_id":101752093,
+            "neighbourhood_id":1746443411,
+            "region_id":85687411
+        }
+    ],
     "wof:id":1746443411,
-    "wof:lastmodified":1633561646,
+    "wof:lastmodified":1633982989,
     "wof:name":"Cedofeita",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
