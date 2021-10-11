@@ -101,8 +101,8 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        1125409915,
         85633735,
+        1125409915,
         101752093,
         85687411
     ],
@@ -112,6 +112,9 @@
         "gp:id":737409,
         "qs_pg:id":483892
     },
+    "wof:coterminous":[
+        1125358961
+    ],
     "wof:country":"PT",
     "wof:created":1497309450,
     "wof:geom_alt":[
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1126068879,
-    "wof:lastmodified":1633561649,
+    "wof:lastmodified":1633981625,
     "wof:name":"Bonfim",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

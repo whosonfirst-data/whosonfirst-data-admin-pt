@@ -86,8 +86,8 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        1125409915,
         85633735,
+        1125409915,
         101752093,
         85687411
     ],
@@ -97,6 +97,9 @@
         "gp:id":746885,
         "qs_pg:id":1081405
     },
+    "wof:coterminous":[
+        1511680375
+    ],
     "wof:country":"PT",
     "wof:created":1497315155,
     "wof:geom_alt":[
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1126095623,
-    "wof:lastmodified":1633561649,
+    "wof:lastmodified":1633981631,
     "wof:name":"Ramalde",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
