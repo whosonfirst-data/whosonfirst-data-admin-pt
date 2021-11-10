@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0628\u0631\u0627\u0644"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09ac\u09cd\u09b0\u09be\u09b2"
     ],
@@ -36,6 +39,15 @@
     ],
     "name:glg_x_preferred":[
         "Sobral"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d1\u05e8\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u092c\u094d\u0930\u093e\u0932"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ube0c\ub784"
     ],
     "name:mlg_x_preferred":[
         "Sobral"
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1125766409,
-    "wof:lastmodified":1576711816,
+    "wof:lastmodified":1636503049,
     "wof:name":"Sobral",
     "wof:parent_id":1511679093,
     "wof:placetype":"locality",

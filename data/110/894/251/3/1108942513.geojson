@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.13158718102,38.7118831771,-9.13158718102,38.7118831771",
+    "geom:bbox":"-9.131587,38.711883,-9.131587,38.711883",
     "geom:latitude":38.711883,
     "geom:longitude":-9.131587,
     "iso:country":"PT",
@@ -462,6 +462,9 @@
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648"
     ],
     "name:uzb_x_preferred":[
@@ -469,6 +472,9 @@
     ],
     "name:vep_x_preferred":[
         "Santjago"
+    ],
+    "name:vie_x_preferred":[
+        "Santiago"
     ],
     "name:vls_x_preferred":[
         "Santiago"
@@ -494,6 +500,12 @@
     "name:zea_x_preferred":[
         "Santiago"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5730\u4e9a\u54e5\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5730\u7259\u54e5"
+    ],
     "name:zho_x_preferred":[
         "\u5723\u5730\u4e9a\u54e5"
     ],
@@ -512,7 +524,7 @@
     "wof:concordances":{},
     "wof:country":"PT",
     "wof:created":1491363142,
-    "wof:geomhash":"be3f8838f3f9d6017e17ad11554c8b32",
+    "wof:geomhash":"00fda0c399e6e469a716ed076260e687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -524,7 +536,7 @@
         }
     ],
     "wof:id":1108942513,
-    "wof:lastmodified":1576711797,
+    "wof:lastmodified":1636503032,
     "wof:name":"Santiago",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
@@ -534,10 +546,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.13158718102244,
-    38.7118831771381,
-    -9.13158718102244,
-    38.7118831771381
+    -9.131587,
+    38.711883,
+    -9.131587,
+    38.711883
 ],
-  "geometry": {"coordinates":[-9.13158718102244,38.7118831771381],"type":"Point"}
+  "geometry": {"coordinates":[-9.131587,38.711883],"type":"Point"}
 }

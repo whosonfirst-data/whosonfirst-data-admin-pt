@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.13387600053,38.716772096,-9.13387600053,38.716772096",
+    "geom:bbox":"-9.133876,38.716772,-9.133876,38.716772",
     "geom:latitude":38.716772,
     "geom:longitude":-9.133876,
     "iso:country":"PT",
@@ -72,7 +72,13 @@
         "Socorro"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u0440\u0440\u043e"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u043e\u043a\u043e\u0440\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0631\u0648"
     ],
     "name:vol_x_preferred":[
         "Socorro"
@@ -95,7 +101,7 @@
     "wof:concordances":{},
     "wof:country":"PT",
     "wof:created":1491363146,
-    "wof:geomhash":"1b5483cf3d4c81655c7afcbd43159ace",
+    "wof:geomhash":"b43dbfdd73d9bc7d7e6c1a3ad629aa6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108942523,
-    "wof:lastmodified":1576711797,
+    "wof:lastmodified":1636503032,
     "wof:name":"Socorro",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
@@ -117,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.13387600053344,
-    38.7167720959823,
-    -9.13387600053344,
-    38.7167720959823
+    -9.133876,
+    38.716772,
+    -9.133876,
+    38.716772
 ],
-  "geometry": {"coordinates":[-9.13387600053344,38.7167720959823],"type":"Point"}
+  "geometry": {"coordinates":[-9.133876,38.716772],"type":"Point"}
 }

@@ -31,8 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0631\u0645\u064a\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09b0\u09ae\u09bf\u0997\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09ab\u09cb\u09b0\u09cd\u09ae\u09bf\u0997\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03cc\u03c1\u03bc\u03b9\u03b3\u03ba\u03b1"
     ],
     "name:epo_x_preferred":[
         "Formiga"
@@ -43,14 +52,29 @@
     "name:fra_x_preferred":[
         "Formiga"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05de\u05d9\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093c\u094b\u0930\u094d\u092e\u093f\u0917\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Formiga"
+    ],
     "name:ita_x_preferred":[
         "Formiga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30eb\u30df\u30ac"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10dd\u10e0\u10db\u10d8\u10d2\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0424\u043e\u0440\u043c\u0438\u0433\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ub974\ubbf8\uac00"
     ],
     "name:mlg_x_preferred":[
         "Formiga"
@@ -75,6 +99,18 @@
     ],
     "name:spa_x_preferred":[
         "Formiga"
+    ],
+    "name:swe_x_preferred":[
+        "Formiga"
+    ],
+    "name:tur_x_preferred":[
+        "Formiga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0440\u043c\u0456\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0631\u0645\u06cc\u06af\u0627"
     ],
     "name:vie_x_preferred":[
         "Formiga"
@@ -111,7 +147,7 @@
         }
     ],
     "wof:id":1293552931,
-    "wof:lastmodified":1576712256,
+    "wof:lastmodified":1636503009,
     "wof:name":"Formiga",
     "wof:parent_id":1511683175,
     "wof:placetype":"locality",

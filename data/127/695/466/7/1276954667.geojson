@@ -71,13 +71,25 @@
         "Barreiros"
     ],
     "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0435\u0439\u0440\u0443\u0441"
+    ],
+    "name:ukr_x_variant":[
         "\u0411\u0430\u0440\u0440\u0435\u0439\u0440\u0443\u0448"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u06cc\u0631\u0648\u0633"
     ],
     "name:vie_x_preferred":[
         "Barreiros"
     ],
     "name:war_x_preferred":[
         "Barreiros"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u96f7\u7f57\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u96f7\u7f85\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +103,7 @@
         "gn:id":2742370
     },
     "wof:country":"PT",
-    "wof:geomhash":"86b9700430771859f737e6d938825b50",
+    "wof:geomhash":"83806a62c93dd3019efcef96f6b086f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1276954667,
-    "wof:lastmodified":1576712222,
+    "wof:lastmodified":1636503017,
     "wof:name":"Barreiros",
     "wof:parent_id":1511683313,
     "wof:placetype":"locality",
@@ -113,9 +125,9 @@
 },
   "bbox": [
     -8.63063,
-    41.23739000000001,
+    41.23739,
     -8.63063,
-    41.23739000000001
+    41.23739
 ],
-  "geometry": {"coordinates":[-8.63063,41.23739000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.63063,41.23739],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.16020815375,38.7190238999,-9.16020815375,38.7190238999",
+    "geom:bbox":"-9.160208,38.719024,-9.160208,38.719024",
     "geom:latitude":38.719024,
     "geom:longitude":-9.160208,
     "iso:country":"PT",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0987\u09b8\u09be\u09ac\u09c7\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Santa Isabel"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u0399\u03b6\u03b1\u03bc\u03c0\u03ad\u03bb"
     ],
     "name:epo_x_preferred":[
         "Santa Isabel"
@@ -42,6 +48,15 @@
         "Santa Isabel"
     ],
     "name:glg_x_preferred":[
+        "Santa Isabel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05e1\u05e0\u05d8\u05d4 \u05d0\u05d9\u05d6\u05d1\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f\u093e \u0907\u0938\u093e\u092c\u0947\u0932"
+    ],
+    "name:hun_x_preferred":[
         "Santa Isabel"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +98,9 @@
     "name:swe_x_preferred":[
         "Santa Isabel"
     ],
+    "name:tur_x_preferred":[
+        "Santa Isabel"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0406\u0437\u0430\u0431\u0435\u043b"
     ],
@@ -104,7 +122,7 @@
     "wof:concordances":{},
     "wof:country":"PT",
     "wof:created":1491363167,
-    "wof:geomhash":"34a2678b11a2b4eb2db8c26924dd0d7e",
+    "wof:geomhash":"d1b3dd0d4587dc2dc24bb5ba0b5d587b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +134,7 @@
         }
     ],
     "wof:id":1108942557,
-    "wof:lastmodified":1576711798,
+    "wof:lastmodified":1636503032,
     "wof:name":"Santa Isabel",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
@@ -126,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.1602081537514,
-    38.7190238998837,
-    -9.1602081537514,
-    38.7190238998837
+    -9.160208,
+    38.719024,
+    -9.160208,
+    38.719024
 ],
-  "geometry": {"coordinates":[-9.1602081537514,38.7190238998837],"type":"Point"}
+  "geometry": {"coordinates":[-9.160208,38.719024],"type":"Point"}
 }

@@ -22,17 +22,38 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0647\u064a\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u09a8\u09b9\u09c7\u0987\u09b0\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Pinheiro"
     ],
     "name:deu_x_preferred":[
         "Pinheiro"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03bd\u03b9\u03ad\u03b9\u03c1\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u0647\u06cc\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Pinheiro"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u0928\u094d\u0939\u0947\u0930\u094b"
+    ],
+    "name:ind_x_preferred":[
         "Pinheiro"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30cb\u30a7\u30a4\u30ed"
+    ],
+    "name:kor_x_preferred":[
+        "\ud540\ud5e4\uc774\ub85c"
     ],
     "name:mlg_x_preferred":[
         "Pinheiro"
@@ -52,8 +73,14 @@
     "name:swe_x_preferred":[
         "Pinheiro"
     ],
+    "name:tur_x_preferred":[
+        "Pinheiro"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u043d\u044c\u0454\u0439\u0440\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0646\u06c1\u06cc\u0631\u0648"
     ],
     "qs_pg:aaroncc":"PT",
     "qs_pg:gn_country":"PT",
@@ -106,7 +133,7 @@
         }
     ],
     "wof:id":1125863243,
-    "wof:lastmodified":1579720445,
+    "wof:lastmodified":1636503046,
     "wof:name":"Pinheiro",
     "wof:parent_id":1511685539,
     "wof:placetype":"locality",

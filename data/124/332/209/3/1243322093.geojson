@@ -31,6 +31,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0627\u0646\u062e\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b0\u09be\u099e\u09cd\u099c\u09be"
+    ],
     "name:cat_x_preferred":[
         "Granja"
     ],
@@ -40,16 +46,40 @@
     "name:deu_x_preferred":[
         "Granja"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b6\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062c\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Granja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05e0\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u093e\u0928\u094d\u0939\u093e"
+    ],
+    "name:ind_x_preferred":[
         "Granja"
     ],
     "name:ita_x_preferred":[
         "Granja"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30b8\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub780\uc790"
+    ],
     "name:mlg_x_preferred":[
         "Granja"
     ],
     "name:nld_x_preferred":[
+        "Granja"
+    ],
+    "name:pol_x_preferred":[
         "Granja"
     ],
     "name:por_x_preferred":[
@@ -67,8 +97,20 @@
     "name:tur_x_preferred":[
         "Granja"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0436\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u062c\u0627"
+    ],
     "name:vie_x_preferred":[
         "Granja"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u683c\u5170\u54c8"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u683c\u862d\u54c8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -93,7 +135,7 @@
         }
     ],
     "wof:id":1243322093,
-    "wof:lastmodified":1576712091,
+    "wof:lastmodified":1636503053,
     "wof:name":"Granja",
     "wof:parent_id":1511680651,
     "wof:placetype":"locality",

@@ -67,6 +67,12 @@
     "name:glg_x_preferred":[
         "Valverde"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d5\u05e8\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Valverde"
+    ],
     "name:ita_x_preferred":[
         "Valverde"
     ],
@@ -136,7 +142,7 @@
         "gn:id":2261858
     },
     "wof:country":"PT",
-    "wof:geomhash":"b868800f698a3f9693d97d6e8f0a4efb",
+    "wof:geomhash":"1b99fefc34ec79b5d39b7231fc0e3df0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1344024229,
-    "wof:lastmodified":1576712404,
+    "wof:lastmodified":1636502993,
     "wof:name":"Valverde",
     "wof:parent_id":1511680231,
     "wof:placetype":"locality",
@@ -158,9 +164,9 @@
 },
   "bbox": [
     -8.86123,
-    39.46899000000001,
+    39.46899,
     -8.86123,
-    39.46899000000001
+    39.46899
 ],
-  "geometry": {"coordinates":[-8.86123,39.46899000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.86123,39.46899],"type":"Point"}
 }

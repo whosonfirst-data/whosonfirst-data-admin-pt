@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.12932697176,38.7115706321,-9.12932697176,38.7115706321",
+    "geom:bbox":"-9.129327,38.711571,-9.129327,38.711571",
     "geom:latitude":38.711571,
     "geom:longitude":-9.129327,
     "iso:country":"PT",
@@ -93,6 +93,9 @@
         "San Miguel"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u0420\u0438\u043e-\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d-\u041c\u0438\u0433\u0435\u043b\u044c"
     ],
     "name:sco_x_preferred":[
@@ -108,16 +111,34 @@
         "\u0421\u0430\u043d \u041c\u0438\u0433\u0435\u043b"
     ],
     "name:swe_x_preferred":[
+        "R\u00edo San Miguel"
+    ],
+    "name:swe_x_variant":[
         "San Miguel"
     ],
     "name:tgl_x_preferred":[
         "San Miguel"
     ],
+    "name:tur_x_preferred":[
+        "San Miguel"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng San Miguel"
+    ],
     "name:war_x_preferred":[
         "San Miguel"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u7c73\u683c\u5c14\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u6cb3"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -131,7 +152,7 @@
     "wof:concordances":{},
     "wof:country":"PT",
     "wof:created":1491363143,
-    "wof:geomhash":"51ec609fcc7213399d3a5d4611780a62",
+    "wof:geomhash":"e0be461727de810475552537ef0b28e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":1108942517,
-    "wof:lastmodified":1576711797,
+    "wof:lastmodified":1636503031,
     "wof:name":"San Miguel",
     "wof:parent_id":101752087,
     "wof:placetype":"neighbourhood",
@@ -153,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.12932697175533,
-    38.71157063214225,
-    -9.12932697175533,
-    38.71157063214225
+    -9.129327,
+    38.711571,
+    -9.129327,
+    38.711571
 ],
-  "geometry": {"coordinates":[-9.12932697175533,38.71157063214225],"type":"Point"}
+  "geometry": {"coordinates":[-9.129327,38.711571],"type":"Point"}
 }

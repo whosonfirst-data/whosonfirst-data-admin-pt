@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0628\u0648\u0646\u062a\u064a \u0646\u0648\u0641\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09a8\u09cd\u09a4\u09c7 \u09a8\u09cb\u09ad\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09cb\u09a8\u09cd\u099f\u09c7 \u09a8\u09cb\u09ad\u09be"
     ],
@@ -43,13 +46,28 @@
     "name:deu_x_preferred":[
         "Ponte Nova"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bd\u03c4\u03b5 \u039d\u03cc\u03b2\u03b1"
+    ],
     "name:epo_x_preferred":[
         "Ponte Nova"
     ],
     "name:eus_x_preferred":[
         "Ponte Nova"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u062a\u0647 \u0646\u0648\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Ponte Nova"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d4 \u05e0\u05d5\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0902\u091f\u0947 \u0928\u094b\u0935\u093e"
+    ],
+    "name:ind_x_preferred":[
         "Ponte Nova"
     ],
     "name:ita_x_preferred":[
@@ -60,6 +78,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043d\u0442\u0438-\u041d\u043e\u0432\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f0\ud14c \ub178\ubc14"
     ],
     "name:mlg_x_preferred":[
         "Ponte Nova"
@@ -90,6 +111,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e07\u0e0a\u0e35\u0e19\u0e2d\u0e27\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Ponte Nova"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0646\u0679\u06d2 \u0646\u0648\u0648\u0627"
     ],
     "name:vie_x_preferred":[
         "Ponte Nova"
@@ -126,7 +153,7 @@
         }
     ],
     "wof:id":1242855685,
-    "wof:lastmodified":1576712062,
+    "wof:lastmodified":1636503053,
     "wof:name":"Ponte Nova",
     "wof:parent_id":1511682077,
     "wof:placetype":"locality",
