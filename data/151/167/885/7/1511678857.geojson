@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montenegro",
+    "eurostat:nuts_2021_id":"080506",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080506",
+    "eurostat:population":8149,
+    "eurostat:population_year":2020,
     "geom:area":0.002146,
+    "geom:area_square_m":21190094.60932,
     "geom:bbox":"-8.00046786169,36.9798355414,-7.93645784938,37.0634561586",
     "geom:latitude":37.0242,
     "geom:longitude":-7.970098,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montenegro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080506",
+        "eurostat:nuts_2021_id":"080506",
         "pt-dgt:id":"080506"
     },
     "wof:country":"PT",
     "wof:created":1576697975,
-    "wof:geomhash":"2c5afd95822d27cdfae808dc1b9e6ce3",
+    "wof:geomhash":"c524546d5f5f6141957804f7c8a57289",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712428,
+    "wof:lastmodified":1684354452,
     "wof:name":"Montenegro",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":8149,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040523",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olmos",
+    "eurostat:nuts_2021_id":"040523",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040523",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.002016,
+    "geom:area_square_m":18673200.519932,
     "geom:bbox":"-6.938401,41.477441,-6.847642,41.521225",
     "geom:latitude":41.495014,
     "geom:longitude":-6.893566,
@@ -89,6 +102,8 @@
     "pt-dgt:freguesia":"Olmos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -96,11 +111,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040523",
+        "eurostat:nuts_2021_id":"040523",
         "pt-dgt:id":"040523"
     },
     "wof:country":"PT",
     "wof:created":1576699216,
-    "wof:geomhash":"1de521a18ec11c3182cd77de0bc57cdf",
+    "wof:geomhash":"94b46c582c0dcef37b414c99e88760e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,10 +133,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502997,
+    "wof:lastmodified":1684354677,
     "wof:name":"Olmos",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

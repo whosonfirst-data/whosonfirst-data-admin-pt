@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tabua\u00e7as",
+    "eurostat:nuts_2021_id":"031118",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031118",
+    "eurostat:population":919,
+    "eurostat:population_year":2020,
     "geom:area":0.001046,
+    "geom:area_square_m":9669160.300775,
     "geom:bbox":"-8.21042863931,41.6099278756,-8.15667827038,41.6498845689",
     "geom:latitude":41.631151,
     "geom:longitude":-8.180644,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tabua\u00e7as",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031118",
+        "eurostat:nuts_2021_id":"031118",
         "pt-dgt:id":"031118"
     },
     "wof:country":"PT",
     "wof:created":1576698756,
-    "wof:geomhash":"3e3f872a0e34c41367e388849c0572fa",
+    "wof:geomhash":"a04e6c559b1f02dce138b5989f4a4012",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Tabua\u00e7as",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":919,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jolda (S\u00e3o Paio)",
+    "eurostat:nuts_2021_id":"160142",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160142",
+    "eurostat:population":360,
+    "eurostat:population_year":2020,
     "geom:area":0.000184,
+    "geom:area_square_m":1697457.273966,
     "geom:bbox":"-8.51019972699,41.7908147686,-8.48096147918,41.8001645096",
     "geom:latitude":41.795499,
     "geom:longitude":-8.496561,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Jolda (S\u00e3o Paio)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160142",
+        "eurostat:nuts_2021_id":"160142",
         "pt-dgt:id":"160142"
     },
     "wof:country":"PT",
     "wof:created":1576699316,
-    "wof:geomhash":"a822416fa2c04b7df17c784461f35c2f",
+    "wof:geomhash":"89254b0f9f5c2c20f77d84a75dfde5f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"Jolda (S\u00e3o Paio)",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

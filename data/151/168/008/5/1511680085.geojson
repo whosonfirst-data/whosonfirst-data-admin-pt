@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alegrete",
+    "eurostat:nuts_2021_id":"121402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121402",
+    "eurostat:population":1746,
+    "eurostat:population_year":2020,
     "geom:area":0.009067,
+    "geom:area_square_m":86842035.080188,
     "geom:bbox":"-7.36278914627,39.1891197574,-7.23999129069,39.2934500328",
     "geom:latitude":39.235687,
     "geom:longitude":-7.303403,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alegrete",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121402",
+        "eurostat:nuts_2021_id":"121402",
         "pt-dgt:id":"121402"
     },
     "wof:country":"PT",
     "wof:created":1576698290,
-    "wof:geomhash":"605aa9bce3921716a6568ddefb973df2",
+    "wof:geomhash":"d02d1bce9d8a1d40f7b2c1844d95cb9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712523,
+    "wof:lastmodified":1684354510,
     "wof:name":"Alegrete",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":1746,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

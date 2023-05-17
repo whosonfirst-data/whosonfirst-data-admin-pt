@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160737",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ref\u00f3ios do Lima",
+    "eurostat:nuts_2021_id":"160737",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160737",
+    "eurostat:population":2169,
+    "eurostat:population_year":2020,
     "geom:area":0.001782,
+    "geom:area_square_m":16423672.745144,
     "geom:bbox":"-8.57197908777,41.7743499724,-8.51398374245,41.8317351239",
     "geom:latitude":41.800597,
     "geom:longitude":-8.540179,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ref\u00f3ios do Lima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160737",
+        "eurostat:nuts_2021_id":"160737",
         "pt-dgt:id":"160737"
     },
     "wof:country":"PT",
     "wof:created":1576699332,
-    "wof:geomhash":"314e6aea8b79feba33c2025c5a027294",
+    "wof:geomhash":"9b41f737010a82ab20498e5421a393f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Ref\u00f3ios do Lima",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":2169,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

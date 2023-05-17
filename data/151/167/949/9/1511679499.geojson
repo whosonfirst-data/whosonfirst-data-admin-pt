@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amieira e Alqueva",
+    "eurostat:nuts_2021_id":"070909",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070909",
+    "eurostat:population":691,
+    "eurostat:population_year":2020,
     "geom:area":0.018236,
+    "geom:area_square_m":177028883.591292,
     "geom:bbox":"-7.66319751038,38.1884539826,-7.4571949032,38.3841081549",
     "geom:latitude":38.270122,
     "geom:longitude":-7.571342,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Amieira e Alqueva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070909",
+        "eurostat:nuts_2021_id":"070909",
         "pt-dgt:id":"070909"
     },
     "wof:country":"PT",
     "wof:created":1576698139,
-    "wof:geomhash":"1203c4bb777de96f66fdc0ac27415a38",
+    "wof:geomhash":"66c3207a53f79a9433e64ce75eaf20ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712482,
+    "wof:lastmodified":1684354485,
     "wof:name":"Amieira e Alqueva",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":691,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

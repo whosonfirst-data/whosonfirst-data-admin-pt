@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barr\u00f4 e Aguada de Baixo",
+    "eurostat:nuts_2021_id":"010122",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010122",
+    "eurostat:population":3209,
+    "eurostat:population_year":2020,
     "geom:area":0.001083,
+    "geom:area_square_m":10178594.166955,
     "geom:bbox":"-8.48862884328,40.5021871881,-8.43521076761,40.5461732292",
     "geom:latitude":40.525092,
     "geom:longitude":-8.459357,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Barr\u00f4 e Aguada de Baixo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010122",
+        "eurostat:nuts_2021_id":"010122",
         "pt-dgt:id":"010122"
     },
     "wof:country":"PT",
     "wof:created":1576698698,
-    "wof:geomhash":"bf95b802b01943dc6eb95368f5c984c3",
+    "wof:geomhash":"7b6a859ca50fd1e7abb37d384f4be2ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712632,
+    "wof:lastmodified":1684354585,
     "wof:name":"Barr\u00f4 e Aguada de Baixo",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":3209,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

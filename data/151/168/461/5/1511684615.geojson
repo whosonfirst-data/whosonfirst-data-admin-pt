@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170329",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Leoc\u00e1dia",
+    "eurostat:nuts_2021_id":"170329",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170329",
+    "eurostat:population":324,
+    "eurostat:population_year":2020,
     "geom:area":0.001416,
+    "geom:area_square_m":13085407.224496,
     "geom:bbox":"-7.4997364664,41.5961048683,-7.44376525976,41.6394017734",
     "geom:latitude":41.619579,
     "geom:longitude":-7.4694,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Leoc\u00e1dia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170329",
+        "eurostat:nuts_2021_id":"170329",
         "pt-dgt:id":"170329"
     },
     "wof:country":"PT",
     "wof:created":1576699266,
-    "wof:geomhash":"95a9f8fd9de942e4469ec35c72225154",
+    "wof:geomhash":"919015047f0948a79d17613c2b73baa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712729,
+    "wof:lastmodified":1684354682,
     "wof:name":"Santa Leoc\u00e1dia",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

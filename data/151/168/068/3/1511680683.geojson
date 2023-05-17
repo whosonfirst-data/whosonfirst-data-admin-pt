@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio de Couros e Casal dos Bernardos",
+    "eurostat:nuts_2021_id":"142122",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142122",
+    "eurostat:population":2798,
+    "eurostat:population_year":2020,
     "geom:area":0.004636,
+    "geom:area_square_m":44070194.343602,
     "geom:bbox":"-8.5765651888,39.702910277,-8.45888583465,39.7978773269",
     "geom:latitude":39.75083,
     "geom:longitude":-8.522571,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Rio de Couros e Casal dos Bernardos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142122",
+        "eurostat:nuts_2021_id":"142122",
         "pt-dgt:id":"142122"
     },
     "wof:country":"PT",
     "wof:created":1576698429,
-    "wof:geomhash":"a5418c99ce7e004d745e99d31922b55c",
+    "wof:geomhash":"eb52851d4e99d10e4dfb3af545ec6f25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712568,
+    "wof:lastmodified":1684354538,
     "wof:name":"Rio de Couros e Casal dos Bernardos",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

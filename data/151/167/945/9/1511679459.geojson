@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moura (Santo Agostinho e S\u00e3o Jo\u00e3o Baptista) e Santo Amador",
+    "eurostat:nuts_2021_id":"021009",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"021009",
+    "eurostat:population":8831,
+    "eurostat:population_year":2020,
     "geom:area":0.029531,
+    "geom:area_square_m":287227409.224371,
     "geom:bbox":"-7.5327772725,38.0200542948,-7.24437944297,38.2293663945",
     "geom:latitude":38.132137,
     "geom:longitude":-7.400781,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Moura (Santo Agostinho e S\u00e3o Jo\u00e3o Baptista) e Santo Amador",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021009",
+        "eurostat:nuts_2021_id":"021009",
         "pt-dgt:id":"021009"
     },
     "wof:country":"PT",
     "wof:created":1576698130,
-    "wof:geomhash":"599d43408981949c17601af0521a1841",
+    "wof:geomhash":"afb9ecd155343e8a0fa46e7e79c932b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712479,
+    "wof:lastmodified":1684354484,
     "wof:name":"Santo Agostinho e S\u00e3o Jo\u00e3o Baptista e Santo Amador",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":8831,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

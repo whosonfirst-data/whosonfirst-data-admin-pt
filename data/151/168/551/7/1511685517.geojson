@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho",
+    "eurostat:nuts_2021_id":"310307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310307",
+    "eurostat:population":26482,
+    "eurostat:population_year":2020,
     "geom:area":0.000767,
+    "geom:area_square_m":7988124.930718,
     "geom:bbox":"-16.9696836468,32.6328792346,-16.9223190665,32.6613742336",
     "geom:latitude":32.646806,
     "geom:longitude":-16.944956,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310307",
+        "eurostat:nuts_2021_id":"310307",
         "pt-dgt:id":"310307"
     },
     "wof:country":"PT",
     "wof:created":1576699459,
-    "wof:geomhash":"00dd6e8784aeb765eadce36d8d109d9c",
+    "wof:geomhash":"f73d5fff7788a644393159bdb4de9ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720311,
+    "wof:lastmodified":1684354723,
     "wof:name":"S\u00e3o Martinho",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":26482,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

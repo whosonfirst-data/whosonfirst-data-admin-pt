@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tou\u00e7a",
+    "eurostat:nuts_2021_id":"091416",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"091416",
+    "eurostat:population":235,
+    "eurostat:population_year":2020,
     "geom:area":0.001006,
+    "geom:area_square_m":9381231.441674,
     "geom:bbox":"-7.25299225494,41.0266124523,-7.20040099037,41.0560185738",
     "geom:latitude":41.043219,
     "geom:longitude":-7.229079,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tou\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091416",
+        "eurostat:nuts_2021_id":"091416",
         "pt-dgt:id":"091416"
     },
     "wof:country":"PT",
     "wof:created":1576698890,
-    "wof:geomhash":"474c5f511f1130518a11060015a7383e",
+    "wof:geomhash":"0c3a8a35dd65966ed2272bf185bd24e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712665,
+    "wof:lastmodified":1684354615,
     "wof:name":"Tou\u00e7a",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":235,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

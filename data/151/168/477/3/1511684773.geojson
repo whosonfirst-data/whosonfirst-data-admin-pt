@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160728",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondufe",
+    "eurostat:nuts_2021_id":"160728",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160728",
+    "eurostat:population":450,
+    "eurostat:population_year":2020,
     "geom:area":0.000603,
+    "geom:area_square_m":5566055.671968,
     "geom:bbox":"-8.52949985947,41.7447347995,-8.48968202578,41.7725838337",
     "geom:latitude":41.758608,
     "geom:longitude":-8.509971,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gondufe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160728",
+        "eurostat:nuts_2021_id":"160728",
         "pt-dgt:id":"160728"
     },
     "wof:country":"PT",
     "wof:created":1576699298,
-    "wof:geomhash":"19a48bc11200d96fb5b13621b2f026e6",
+    "wof:geomhash":"446d4ca37bc6617e5ecf498ba104eef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354686,
     "wof:name":"Gondufe",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":450,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

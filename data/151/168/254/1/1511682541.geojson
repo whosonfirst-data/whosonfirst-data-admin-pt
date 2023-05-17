@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canelas e Fermel\u00e3",
+    "eurostat:nuts_2021_id":"010809",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010809",
+    "eurostat:population":2770,
+    "eurostat:population_year":2020,
     "geom:area":0.002453,
+    "geom:area_square_m":22994644.453866,
     "geom:bbox":"-8.60964559588,40.6888038554,-8.51138953957,40.7414830255",
     "geom:latitude":40.713476,
     "geom:longitude":-8.55126,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Canelas e Fermel\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010809",
+        "eurostat:nuts_2021_id":"010809",
         "pt-dgt:id":"010809"
     },
     "wof:country":"PT",
     "wof:created":1576698825,
-    "wof:geomhash":"e4188f09b3e8ea34ebb767ddf1633310",
+    "wof:geomhash":"6baeb489af8940895fdd71257ad8f6b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712652,
+    "wof:lastmodified":1684354603,
     "wof:name":"Canelas e Fermel\u00e3",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2770,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

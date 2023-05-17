@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Doze Ribeiras",
+    "eurostat:nuts_2021_id":"430107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430107",
+    "eurostat:population":513,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
+    "geom:area_square_m":10412890.660691,
     "geom:bbox":"-27.3783912215,38.7031465949,-27.3229672799,38.7397493948",
     "geom:latitude":38.725433,
     "geom:longitude":-27.3545,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Doze Ribeiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430107",
+        "eurostat:nuts_2021_id":"430107",
         "pt-dgt:id":"430107"
     },
     "wof:country":"PT",
     "wof:created":1576703606,
-    "wof:geomhash":"2b270df445542997cde26682157f7295",
+    "wof:geomhash":"d970f5b32348643780afa990e269c33c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720332,
+    "wof:lastmodified":1684354743,
     "wof:name":"Doze Ribeiras",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":513,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

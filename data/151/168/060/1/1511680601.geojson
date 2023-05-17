@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdujo",
+    "eurostat:nuts_2021_id":"091325",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091325",
+    "eurostat:population":185,
+    "eurostat:population_year":2020,
     "geom:area":0.001634,
+    "geom:area_square_m":15290635.457718,
     "geom:bbox":"-7.30235927183,40.8101433658,-7.24727147388,40.8643604068",
     "geom:latitude":40.837083,
     "geom:longitude":-7.278134,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valdujo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091325",
+        "eurostat:nuts_2021_id":"091325",
         "pt-dgt:id":"091325"
     },
     "wof:country":"PT",
     "wof:created":1576698411,
-    "wof:geomhash":"1308dddc915af58dab1652a4c53ee086",
+    "wof:geomhash":"5f40742acef02edbbf950069ef9a9f0a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712563,
+    "wof:lastmodified":1684354534,
     "wof:name":"Valdujo",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":185,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

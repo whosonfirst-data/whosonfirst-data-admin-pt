@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landim",
+    "eurostat:nuts_2021_id":"031221",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031221",
+    "eurostat:population":2834,
+    "eurostat:population_year":2020,
     "geom:area":0.000485,
+    "geom:area_square_m":4503970.589332,
     "geom:bbox":"-8.47813601452,41.3706443832,-8.44702184256,41.4073318177",
     "geom:latitude":41.385198,
     "geom:longitude":-8.461502,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Landim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031221",
+        "eurostat:nuts_2021_id":"031221",
         "pt-dgt:id":"031221"
     },
     "wof:country":"PT",
     "wof:created":1576699122,
-    "wof:geomhash":"ffc2ba4f1d307c66bfffa214a02ff1fe",
+    "wof:geomhash":"770beae7f9ba4de56ed74062236e39cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712707,
+    "wof:lastmodified":1684354662,
     "wof:name":"Landim",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2834,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

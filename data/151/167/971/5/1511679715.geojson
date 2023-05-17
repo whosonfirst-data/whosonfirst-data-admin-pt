@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lumiar",
+    "eurostat:nuts_2021_id":"110618",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110618",
+    "eurostat:population":45605,
+    "eurostat:population_year":2020,
     "geom:area":0.000681,
+    "geom:area_square_m":6568984.323633,
     "geom:bbox":"-9.18272911612,38.757247918,-9.14180663455,38.7855661714",
     "geom:latitude":38.769791,
     "geom:longitude":-9.163492,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lumiar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110618",
+        "eurostat:nuts_2021_id":"110618",
         "pt-dgt:id":"110618"
     },
     "wof:country":"PT",
     "wof:created":1576698187,
-    "wof:geomhash":"cfe6272c6c4a6532edd5c75587afa097",
+    "wof:geomhash":"a0ecce0af6df1ee01ab4c5dbf1eee63c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354492,
     "wof:name":"Lumiar",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":45605,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

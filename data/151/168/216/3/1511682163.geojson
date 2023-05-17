@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090759",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jarmelo S\u00e3o Miguel",
+    "eurostat:nuts_2021_id":"090759",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090759",
+    "eurostat:population":295,
+    "eurostat:population_year":2020,
     "geom:area":0.001815,
+    "geom:area_square_m":17040466.749337,
     "geom:bbox":"-7.16997936486,40.5762958041,-7.09772039266,40.644007512",
     "geom:latitude":40.612217,
     "geom:longitude":-7.142866,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Jarmelo S\u00e3o Miguel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090759",
+        "eurostat:nuts_2021_id":"090759",
         "pt-dgt:id":"090759"
     },
     "wof:country":"PT",
     "wof:created":1576698745,
-    "wof:geomhash":"30841a5cabdaa9a6ed7d288132d2f26d",
+    "wof:geomhash":"b574f9f4595d16a9f6250ae1a5568faa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712639,
+    "wof:lastmodified":1684354591,
     "wof:name":"Jarmelo S\u00e3o Miguel",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

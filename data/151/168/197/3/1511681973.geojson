@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cerdeira",
+    "eurostat:nuts_2021_id":"091113",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091113",
+    "eurostat:population":229,
+    "eurostat:population_year":2020,
     "geom:area":0.002489,
+    "geom:area_square_m":23397837.86053,
     "geom:bbox":"-7.07709227246,40.4739073719,-7.00229415589,40.5529948675",
     "geom:latitude":40.511789,
     "geom:longitude":-7.044958,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cerdeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091113",
+        "eurostat:nuts_2021_id":"091113",
         "pt-dgt:id":"091113"
     },
     "wof:country":"PT",
     "wof:created":1576698703,
-    "wof:geomhash":"3f7f7be41cd1d4aeb6f982dd69465315",
+    "wof:geomhash":"06f65d9adbbcc4a752fe38a57c0adf25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712633,
+    "wof:lastmodified":1684354586,
     "wof:name":"Cerdeira",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

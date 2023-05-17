@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130736",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marco",
+    "eurostat:nuts_2021_id":"130736",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130736",
+    "eurostat:population":11014,
+    "eurostat:population_year":2020,
     "geom:area":0.001866,
+    "geom:area_square_m":17367359.292048,
     "geom:bbox":"-8.184092989,41.1412581685,-8.12683706218,41.200446388",
     "geom:latitude":41.175742,
     "geom:longitude":-8.152145,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Marco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130736",
+        "eurostat:nuts_2021_id":"130736",
         "pt-dgt:id":"130736"
     },
     "wof:country":"PT",
     "wof:created":1576698954,
-    "wof:geomhash":"a5e9c6a6ba0d860726f37d28ad976f5d",
+    "wof:geomhash":"d8f31acf4e7a8440376d456e5739696e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712676,
+    "wof:lastmodified":1684354626,
     "wof:name":"Marco",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":11014,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

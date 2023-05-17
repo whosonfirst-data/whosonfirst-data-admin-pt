@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010936",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Miguel do Souto e Mosteir\u00f4",
+    "eurostat:nuts_2021_id":"010936",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010936",
+    "eurostat:population":6734,
+    "eurostat:population_year":2020,
     "geom:area":0.001475,
+    "geom:area_square_m":13785640.345042,
     "geom:bbox":"-8.58674776837,40.8721521121,-8.51208590658,40.9163621995",
     "geom:latitude":40.892271,
     "geom:longitude":-8.549941,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Miguel do Souto e Mosteir\u00f4",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010936",
+        "eurostat:nuts_2021_id":"010936",
         "pt-dgt:id":"010936"
     },
     "wof:country":"PT",
     "wof:created":1576698865,
-    "wof:geomhash":"e827c33312df54c1010e27556f018291",
+    "wof:geomhash":"e0422308df6e79a8b27d9d38ef81aae5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712660,
+    "wof:lastmodified":1684354611,
     "wof:name":"S\u00e3o Miguel do Souto e Mosteir\u00f4",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":6734,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

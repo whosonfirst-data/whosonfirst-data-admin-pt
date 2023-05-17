@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamosa",
+    "eurostat:nuts_2021_id":"181811",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181811",
+    "eurostat:population":179,
+    "eurostat:population_year":2020,
     "geom:area":0.001412,
+    "geom:area_square_m":13204437.192865,
     "geom:bbox":"-7.66058453135,40.8642634191,-7.59561254913,40.9123947076",
     "geom:latitude":40.885126,
     "geom:longitude":-7.625131,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lamosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181811",
+        "eurostat:nuts_2021_id":"181811",
         "pt-dgt:id":"181811"
     },
     "wof:country":"PT",
     "wof:created":1576698864,
-    "wof:geomhash":"65f8ab0acf70ad8ea44a420e311f4f35",
+    "wof:geomhash":"e0be762c0c4666d9108c4268f6aa808a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712660,
+    "wof:lastmodified":1684354610,
     "wof:name":"Lamosa",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":179,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tinalhas",
+    "eurostat:nuts_2021_id":"050225",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050225",
+    "eurostat:population":585,
+    "eurostat:population_year":2020,
     "geom:area":0.001707,
+    "geom:area_square_m":16177955.895075,
     "geom:bbox":"-7.56647597279,39.9193080305,-7.50395475267,39.9771171328",
     "geom:latitude":39.951882,
     "geom:longitude":-7.533154,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tinalhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050225",
+        "eurostat:nuts_2021_id":"050225",
         "pt-dgt:id":"050225"
     },
     "wof:country":"PT",
     "wof:created":1576698465,
-    "wof:geomhash":"dccb563be02f8d8fcebb216489a060eb",
+    "wof:geomhash":"c75935f3bfdec382928604723d8ca055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712581,
+    "wof:lastmodified":1684354547,
     "wof:name":"Tinalhas",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":585,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

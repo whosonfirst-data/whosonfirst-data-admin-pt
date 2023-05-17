@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Muxagata",
+    "eurostat:nuts_2021_id":"090511",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090511",
+    "eurostat:population":241,
+    "eurostat:population_year":2020,
     "geom:area":0.00106,
+    "geom:area_square_m":9948369.445917,
     "geom:bbox":"-7.48217120762,40.6356425699,-7.43079533936,40.6713870297",
     "geom:latitude":40.653368,
     "geom:longitude":-7.458354,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Muxagata",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090511",
+        "eurostat:nuts_2021_id":"090511",
         "pt-dgt:id":"090511"
     },
     "wof:country":"PT",
     "wof:created":1576698775,
-    "wof:geomhash":"46284bb850d27dcf03ddd0bc2158a40a",
+    "wof:geomhash":"2615a606b31da6f5c57e7e6cbd377a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354595,
     "wof:name":"Muxagata",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":241,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

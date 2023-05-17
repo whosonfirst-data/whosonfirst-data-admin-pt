@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Domingos e Vale de \u00c1gua",
+    "eurostat:nuts_2021_id":"150913",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150913",
+    "eurostat:population":1469,
+    "eurostat:population_year":2020,
     "geom:area":0.021088,
+    "geom:area_square_m":205774772.806484,
     "geom:bbox":"-8.67641571765,37.8158026497,-8.4269213156,37.9641161532",
     "geom:latitude":37.894422,
     "geom:longitude":-8.558056,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Domingos e Vale de \u00c1gua",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150913",
+        "eurostat:nuts_2021_id":"150913",
         "pt-dgt:id":"150913"
     },
     "wof:country":"PT",
     "wof:created":1576698111,
-    "wof:geomhash":"ef74168364bc60b1f938f33c1dfe67ce",
+    "wof:geomhash":"52a792f3be8c9405a918e4b7760f505c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712474,
+    "wof:lastmodified":1684354481,
     "wof:name":"S\u00e3o Domingos e Vale de \u00c1gua",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":1469,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

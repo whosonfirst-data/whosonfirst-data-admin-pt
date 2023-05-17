@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvados e Alcaria",
+    "eurostat:nuts_2021_id":"101615",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101615",
+    "eurostat:population":741,
+    "eurostat:population_year":2020,
     "geom:area":0.00349,
+    "geom:area_square_m":33274072.154352,
     "geom:bbox":"-8.81449127186,39.5268495278,-8.72874708501,39.5920731151",
     "geom:latitude":39.562043,
     "geom:longitude":-8.770531,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alvados e Alcaria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101615",
+        "eurostat:nuts_2021_id":"101615",
         "pt-dgt:id":"101615"
     },
     "wof:country":"PT",
     "wof:created":1576698369,
-    "wof:geomhash":"f9a8e148480a922cd248eebac593d6e8",
+    "wof:geomhash":"1cf61289212c17dc80617b0848e2b1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712548,
+    "wof:lastmodified":1684354525,
     "wof:name":"Alvados e Alcaria",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":741,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031017",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar da Veiga",
+    "eurostat:nuts_2021_id":"031017",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031017",
+    "eurostat:population":1286,
+    "eurostat:population_year":2020,
     "geom:area":0.008422,
+    "geom:area_square_m":77717374.087672,
     "geom:bbox":"-8.1929522904,41.6749776712,-8.06057462066,41.7892901297",
     "geom:latitude":41.731689,
     "geom:longitude":-8.128166,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar da Veiga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031017",
+        "eurostat:nuts_2021_id":"031017",
         "pt-dgt:id":"031017"
     },
     "wof:country":"PT",
     "wof:created":1576699307,
-    "wof:geomhash":"1735f53300c2119d62c98a02977be13a",
+    "wof:geomhash":"65ef187aaa91512f7c9c8a7614ecb1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712734,
+    "wof:lastmodified":1684354687,
     "wof:name":"Vilar da Veiga",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1286,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

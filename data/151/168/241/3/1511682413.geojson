@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santos Evos",
+    "eurostat:nuts_2021_id":"182325",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182325",
+    "eurostat:population":1569,
+    "eurostat:population_year":2020,
     "geom:area":0.001263,
+    "geom:area_square_m":11843271.87111,
     "geom:bbox":"-7.84904663586,40.6454323188,-7.79512361276,40.6875637004",
     "geom:latitude":40.670688,
     "geom:longitude":-7.826028,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santos Evos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182325",
+        "eurostat:nuts_2021_id":"182325",
         "pt-dgt:id":"182325"
     },
     "wof:country":"PT",
     "wof:created":1576698793,
-    "wof:geomhash":"3e4463a47844df34e185f18a72ffc982",
+    "wof:geomhash":"232b22b2c1533abe45c0c0604f725f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712647,
+    "wof:lastmodified":1684354599,
     "wof:name":"Santos Evos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1569,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

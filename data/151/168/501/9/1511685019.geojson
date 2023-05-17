@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Britelo",
+    "eurostat:nuts_2021_id":"160604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160604",
+    "eurostat:population":485,
+    "eurostat:population_year":2020,
     "geom:area":0.001398,
+    "geom:area_square_m":12881466.033461,
     "geom:bbox":"-8.31519591062,41.8251048348,-8.24015007565,41.8619454433",
     "geom:latitude":41.842059,
     "geom:longitude":-8.272548,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Britelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160604",
+        "eurostat:nuts_2021_id":"160604",
         "pt-dgt:id":"160604"
     },
     "wof:country":"PT",
     "wof:created":1576699345,
-    "wof:geomhash":"0464b6314d95778b7cef82e9e584257e",
+    "wof:geomhash":"de0df4b681351b11fb2615f2eaeb15ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712739,
+    "wof:lastmodified":1684354692,
     "wof:name":"Britelo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":485,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

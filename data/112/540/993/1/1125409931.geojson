@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candedo",
+    "eurostat:nuts_2021_id":"170701",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170701",
+    "eurostat:population":1002,
+    "eurostat:population_year":2020,
     "geom:area":0.003097,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":28743796.590381,
     "geom:bbox":"-7.41159491052,41.3240139291,-7.31416733206,41.3965176153",
     "geom:latitude":41.357996,
     "geom:longitude":-7.371504,
@@ -67,6 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170701",
+        "eurostat:nuts_2021_id":"170701",
         "gn:id":8013644,
         "pt-dgt:id":170701,
         "qs_pg:id":1155648
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8495f84249f653a05af788e1ee96eb76",
+    "wof:geomhash":"3e67a0204049a3bddbe7e8d4add0a140",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":1125409931,
-    "wof:lastmodified":1582359927,
+    "wof:lastmodified":1684354451,
     "wof:name":"Candedo",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1002,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

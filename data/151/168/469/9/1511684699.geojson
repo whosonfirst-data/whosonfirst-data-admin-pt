@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040248",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sortes",
+    "eurostat:nuts_2021_id":"040248",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040248",
+    "eurostat:population":296,
+    "eurostat:population_year":2020,
     "geom:area":0.002304,
+    "geom:area_square_m":21268370.459168,
     "geom:bbox":"-6.8839128955,41.6734299311,-6.80540269067,41.7202963069",
     "geom:latitude":41.698467,
     "geom:longitude":-6.837587,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sortes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040248",
+        "eurostat:nuts_2021_id":"040248",
         "pt-dgt:id":"040248"
     },
     "wof:country":"PT",
     "wof:created":1576699283,
-    "wof:geomhash":"3ec3d4d157d9ab7fb7614ad4b9b4991d",
+    "wof:geomhash":"655ba7788cccc89e6e950b83685082e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712731,
+    "wof:lastmodified":1684354684,
     "wof:name":"Sortes",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

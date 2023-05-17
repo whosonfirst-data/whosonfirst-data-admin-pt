@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1guas Belas",
+    "eurostat:nuts_2021_id":"141101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141101",
+    "eurostat:population":1181,
+    "eurostat:population_year":2020,
     "geom:area":0.002325,
+    "geom:area_square_m":22109756.775562,
     "geom:bbox":"-8.32646369892,39.6956375816,-8.23157959918,39.7391593664",
     "geom:latitude":39.719403,
     "geom:longitude":-8.287216,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"\u00c1guas Belas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141101",
+        "eurostat:nuts_2021_id":"141101",
         "pt-dgt:id":"141101"
     },
     "wof:country":"PT",
     "wof:created":1576698397,
-    "wof:geomhash":"218c17f0f98a6d6cfc17ddd4da828bfd",
+    "wof:geomhash":"36fbebb0a02a1a85afe63bf1a29a4834",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712558,
+    "wof:lastmodified":1684354532,
     "wof:name":"\u00c1guas Belas",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1181,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050432",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tr\u00eas Povos",
+    "eurostat:nuts_2021_id":"050432",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050432",
+    "eurostat:population":914,
+    "eurostat:population_year":2020,
     "geom:area":0.006977,
+    "geom:area_square_m":65880182.401076,
     "geom:bbox":"-7.36568096723,40.1562601134,-7.25190266553,40.272354919",
     "geom:latitude":40.216678,
     "geom:longitude":-7.303808,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tr\u00eas Povos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050432",
+        "eurostat:nuts_2021_id":"050432",
         "pt-dgt:id":"050432"
     },
     "wof:country":"PT",
     "wof:created":1576698543,
-    "wof:geomhash":"24b977f73e2e7b6faca2d3e33fd408bc",
+    "wof:geomhash":"b619cf1db74cd3ff522118e02eb5e473",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712602,
+    "wof:lastmodified":1684354561,
     "wof:name":"Tr\u00eas Povos",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":914,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

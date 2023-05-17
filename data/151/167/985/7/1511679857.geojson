@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110911",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Milharado",
+    "eurostat:nuts_2021_id":"110911",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110911",
+    "eurostat:population":7023,
+    "eurostat:population_year":2020,
     "geom:area":0.002538,
+    "geom:area_square_m":24408001.85702,
     "geom:bbox":"-9.2618142206,38.9032807076,-9.15943245475,38.9661663961",
     "geom:latitude":38.938982,
     "geom:longitude":-9.197668,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Milharado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110911",
+        "eurostat:nuts_2021_id":"110911",
         "pt-dgt:id":"110911"
     },
     "wof:country":"PT",
     "wof:created":1576698218,
-    "wof:geomhash":"e38ac0d2857d36ea9884bc1446bc458e",
+    "wof:geomhash":"9c5ada9a647a656e298e362c5dc55160",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712503,
+    "wof:lastmodified":1684354498,
     "wof:name":"Milharado",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":7023,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

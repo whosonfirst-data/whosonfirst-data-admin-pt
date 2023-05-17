@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espite",
+    "eurostat:nuts_2021_id":"142105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142105",
+    "eurostat:population":1104,
+    "eurostat:population_year":2020,
     "geom:area":0.002079,
+    "geom:area_square_m":19757111.672417,
     "geom:bbox":"-8.67196705747,39.7420212658,-8.60271079207,39.7900221127",
     "geom:latitude":39.76783,
     "geom:longitude":-8.635143,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Espite",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142105",
+        "eurostat:nuts_2021_id":"142105",
         "pt-dgt:id":"142105"
     },
     "wof:country":"PT",
     "wof:created":1576698428,
-    "wof:geomhash":"4a8540926362dd1a66e07468d57eccbb",
+    "wof:geomhash":"2e5aa345597c6158f3416e21d74e6089",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712568,
+    "wof:lastmodified":1684354538,
     "wof:name":"Espite",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1104,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

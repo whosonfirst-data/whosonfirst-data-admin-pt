@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Costa da Caparica",
+    "eurostat:nuts_2021_id":"150303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150303",
+    "eurostat:population":13418,
+    "eurostat:population_year":2020,
     "geom:area":0.001053,
+    "geom:area_square_m":10169120.418015,
     "geom:bbox":"-9.25259476921,38.5503212409,-9.18635163491,38.6630809923",
     "geom:latitude":38.624272,
     "geom:longitude":-9.220385,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Costa da Caparica",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150303",
+        "eurostat:nuts_2021_id":"150303",
         "pt-dgt:id":"150303"
     },
     "wof:country":"PT",
     "wof:created":1576698164,
-    "wof:geomhash":"b67051aa2f4f84ec352fd62eea76020e",
+    "wof:geomhash":"28763710fde73614fcdc4aeb1da000ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712489,
+    "wof:lastmodified":1684354489,
     "wof:name":"Costa da Caparica",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":13418,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fortios",
+    "eurostat:nuts_2021_id":"121404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121404",
+    "eurostat:population":2018,
+    "eurostat:population_year":2020,
     "geom:area":0.006875,
+    "geom:area_square_m":65794221.461443,
     "geom:bbox":"-7.54479976244,39.2305686469,-7.44426983875,39.3683848946",
     "geom:latitude":39.292067,
     "geom:longitude":-7.488228,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fortios",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121404",
+        "eurostat:nuts_2021_id":"121404",
         "pt-dgt:id":"121404"
     },
     "wof:country":"PT",
     "wof:created":1576698053,
-    "wof:geomhash":"f0cc4d31ef93534fbc981d0fb052f0d7",
+    "wof:geomhash":"acf9374d5026c25161ca8ffd3ea99661",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712463,
+    "wof:lastmodified":1684354473,
     "wof:name":"Fortios",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":2018,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

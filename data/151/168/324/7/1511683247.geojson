@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavandeira, Beira Grande e Selores",
+    "eurostat:nuts_2021_id":"040323",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040323",
+    "eurostat:population":447,
+    "eurostat:population_year":2020,
     "geom:area":0.003905,
+    "geom:area_square_m":36342357.336099,
     "geom:bbox":"-7.34732715431,41.1370536691,-7.2643655108,41.2288362534",
     "geom:latitude":41.177682,
     "geom:longitude":-7.299911,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Lavandeira, Beira Grande e Selores",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040323",
+        "eurostat:nuts_2021_id":"040323",
         "pt-dgt:id":"040323"
     },
     "wof:country":"PT",
     "wof:created":1576698971,
-    "wof:geomhash":"1fa93e5620f8c085728e9bf4672dc987",
+    "wof:geomhash":"97e9f73acc89209461ef332a8e77d5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712681,
+    "wof:lastmodified":1684354631,
     "wof:name":"Lavandeira, Beira Grande e Selores",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

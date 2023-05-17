@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueir\u00f3 do Campo",
+    "eurostat:nuts_2021_id":"061504",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061504",
+    "eurostat:population":1507,
+    "eurostat:population_year":2020,
     "geom:area":0.001191,
+    "geom:area_square_m":11258032.561632,
     "geom:bbox":"-8.62496567507,40.1319005299,-8.56033119137,40.165914102",
     "geom:latitude":40.146048,
     "geom:longitude":-8.595733,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Figueir\u00f3 do Campo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061504",
+        "eurostat:nuts_2021_id":"061504",
         "pt-dgt:id":"061504"
     },
     "wof:country":"PT",
     "wof:created":1576698510,
-    "wof:geomhash":"e64803927ba9f07742f3719ff2f2ce83",
+    "wof:geomhash":"417ab822a1e17472a60cfad2a78bbca5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354557,
     "wof:name":"Figueir\u00f3 do Campo",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1507,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

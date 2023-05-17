@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveira (S\u00e3o Mateus)",
+    "eurostat:nuts_2021_id":"031242",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031242",
+    "eurostat:population":2561,
+    "eurostat:population_year":2020,
     "geom:area":0.000217,
+    "geom:area_square_m":2015636.328173,
     "geom:bbox":"-8.4288116264,41.3840958383,-8.3956904657,41.4039330866",
     "geom:latitude":41.393505,
     "geom:longitude":-8.408554,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Oliveira (S\u00e3o Mateus)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031242",
+        "eurostat:nuts_2021_id":"031242",
         "pt-dgt:id":"031242"
     },
     "wof:country":"PT",
     "wof:created":1576699120,
-    "wof:geomhash":"50f0c2880410577f5ef997df685f8e0e",
+    "wof:geomhash":"836b71e328c8051a45ddd0f08b82e425",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712706,
+    "wof:lastmodified":1684354661,
     "wof:name":"Oliveira (S\u00e3o Mateus)",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2561,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

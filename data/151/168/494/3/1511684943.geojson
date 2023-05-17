@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cimo de Vila da Castanheira",
+    "eurostat:nuts_2021_id":"170309",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170309",
+    "eurostat:population":479,
+    "eurostat:population_year":2020,
     "geom:area":0.001778,
+    "geom:area_square_m":16391396.325284,
     "geom:bbox":"-7.31163033811,41.7756412381,-7.21803139759,41.8256353688",
     "geom:latitude":41.802171,
     "geom:longitude":-7.267864,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cimo de Vila da Castanheira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170309",
+        "eurostat:nuts_2021_id":"170309",
         "pt-dgt:id":"170309"
     },
     "wof:country":"PT",
     "wof:created":1576699331,
-    "wof:geomhash":"aae37bd9047f7486d8cb67ecf6956c31",
+    "wof:geomhash":"37eb73f5274e691c652b5cc3a7edc7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Cimo de Vila da Castanheira",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":479,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

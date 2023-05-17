@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tancos",
+    "eurostat:nuts_2021_id":"142003",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142003",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.000214,
+    "geom:area_square_m":2041663.925267,
     "geom:bbox":"-8.41127193192,39.4554895467,-8.38474343455,39.4769956308",
     "geom:latitude":39.466283,
     "geom:longitude":-8.399317,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tancos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142003",
+        "eurostat:nuts_2021_id":"142003",
         "pt-dgt:id":"142003"
     },
     "wof:country":"PT",
     "wof:created":1576698320,
-    "wof:geomhash":"b2ca6c485c2e5195efbcf398ef45f99a",
+    "wof:geomhash":"184225bb2b039edcf057515ff281b327",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354516,
     "wof:name":"Tancos",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

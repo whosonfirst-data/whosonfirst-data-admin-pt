@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030877",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arosa e Castel\u00f5es",
+    "eurostat:nuts_2021_id":"030877",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030877",
+    "eurostat:population":809,
+    "eurostat:population_year":2020,
     "geom:area":0.000596,
+    "geom:area_square_m":5515651.735015,
     "geom:bbox":"-8.23579696904,41.5294184336,-8.18837027637,41.5692483222",
     "geom:latitude":41.551899,
     "geom:longitude":-8.211775,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Arosa e Castel\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030877",
+        "eurostat:nuts_2021_id":"030877",
         "pt-dgt:id":"030877"
     },
     "wof:country":"PT",
     "wof:created":1576699039,
-    "wof:geomhash":"e07db5e1d5cbfa33b122a7c308d00581",
+    "wof:geomhash":"00cfd82256b5b3483566c2e3611197ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712695,
+    "wof:lastmodified":1684354647,
     "wof:name":"Arosa e Castel\u00f5es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":809,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

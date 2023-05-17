@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho da G\u00e2ndara",
+    "eurostat:nuts_2021_id":"011315",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011315",
+    "eurostat:population":1985,
+    "eurostat:population_year":2020,
     "geom:area":0.000868,
+    "geom:area_square_m":8121426.06104,
     "geom:bbox":"-8.55085941654,40.8300792054,-8.50892418453,40.8618910975",
     "geom:latitude":40.846448,
     "geom:longitude":-8.527978,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho da G\u00e2ndara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011315",
+        "eurostat:nuts_2021_id":"011315",
         "pt-dgt:id":"011315"
     },
     "wof:country":"PT",
     "wof:created":1576698408,
-    "wof:geomhash":"7b7518003bef7587352cd6dc25d5e976",
+    "wof:geomhash":"6af8af98803a284adbbbbd5f4d705734",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712562,
+    "wof:lastmodified":1684354534,
     "wof:name":"S\u00e3o Martinho da G\u00e2ndara",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1985,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Pouca de Aguiar",
+    "eurostat:nuts_2021_id":"171314",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171314",
+    "eurostat:population":3303,
+    "eurostat:population_year":2020,
     "geom:area":0.00247,
+    "geom:area_square_m":22874581.225066,
     "geom:bbox":"-7.6616700586,41.4733852871,-7.5954497592,41.5285472253",
     "geom:latitude":41.502313,
     "geom:longitude":-7.630046,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Pouca de Aguiar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171314",
+        "eurostat:nuts_2021_id":"171314",
         "pt-dgt:id":"171314"
     },
     "wof:country":"PT",
     "wof:created":1576699218,
-    "wof:geomhash":"4e871c4886150d276126baab43aa0943",
+    "wof:geomhash":"10188ef6cf0b56aaea9962d8ac451f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354677,
     "wof:name":"Vila Pouca de Aguiar",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":3303,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

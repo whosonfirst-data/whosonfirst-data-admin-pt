@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182322",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribafeita",
+    "eurostat:nuts_2021_id":"182322",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182322",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.001932,
+    "geom:area_square_m":18096155.448735,
     "geom:bbox":"-8.03087984869,40.7327860718,-7.93881820186,40.7668469873",
     "geom:latitude":40.75014,
     "geom:longitude":-7.986256,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ribafeita",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182322",
+        "eurostat:nuts_2021_id":"182322",
         "pt-dgt:id":"182322"
     },
     "wof:country":"PT",
     "wof:created":1576698834,
-    "wof:geomhash":"98275478e6b3481fbe8c4e4c2cac135d",
+    "wof:geomhash":"bb1f72fa61d407a7d8dcfc8bb7afd98f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712654,
+    "wof:lastmodified":1684354605,
     "wof:name":"Ribafeita",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

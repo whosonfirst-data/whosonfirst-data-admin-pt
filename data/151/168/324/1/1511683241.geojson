@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Linhares",
+    "eurostat:nuts_2021_id":"040308",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040308",
+    "eurostat:population":421,
+    "eurostat:population_year":2020,
     "geom:area":0.003074,
+    "geom:area_square_m":28602257.722839,
     "geom:bbox":"-7.392574,41.145402,-7.328923,41.228247",
     "geom:latitude":41.187964,
     "geom:longitude":-7.358114,
@@ -29,6 +42,8 @@
     "pt-dgt:freguesia":"Linhares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,11 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040308",
+        "eurostat:nuts_2021_id":"040308",
         "pt-dgt:id":"040308"
     },
     "wof:country":"PT",
     "wof:created":1576698970,
-    "wof:geomhash":"937ddc7dba164f7ac73b688d9df1d3e9",
+    "wof:geomhash":"9f21e41826c654500c7bec60c66897b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502998,
+    "wof:lastmodified":1684354631,
     "wof:name":"Linhares",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

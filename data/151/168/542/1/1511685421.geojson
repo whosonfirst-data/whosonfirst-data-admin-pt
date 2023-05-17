@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santana",
+    "eurostat:nuts_2021_id":"420207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420207",
+    "eurostat:population":475,
+    "eurostat:population_year":2020,
     "geom:area":0.000626,
+    "geom:area_square_m":6117995.411239,
     "geom:bbox":"-25.2611429877,37.8025183679,-25.2319586469,37.858354826",
     "geom:latitude":37.836965,
     "geom:longitude":-25.245907,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santana",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420207",
+        "eurostat:nuts_2021_id":"420207",
         "pt-dgt:id":"420207"
     },
     "wof:country":"PT",
     "wof:created":1576699433,
-    "wof:geomhash":"eab4b76a50eea80b530dc503b3a0d98c",
+    "wof:geomhash":"dd6bcd402acb341681853a713bc3fd46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720298,
+    "wof:lastmodified":1684354713,
     "wof:name":"Santana",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":475,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rabo de Peixe",
+    "eurostat:nuts_2021_id":"420508",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420508",
+    "eurostat:population":8866,
+    "eurostat:population_year":2020,
     "geom:area":0.001736,
+    "geom:area_square_m":16958903.465383,
     "geom:bbox":"-25.6099966871,37.769685713,-25.5570075348,37.8189924634",
     "geom:latitude":37.796132,
     "geom:longitude":-25.583849,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Rabo de Peixe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420508",
+        "eurostat:nuts_2021_id":"420508",
         "pt-dgt:id":"420508"
     },
     "wof:country":"PT",
     "wof:created":1576699420,
-    "wof:geomhash":"a8faa923ab48014c96a6447665e6fd72",
+    "wof:geomhash":"6642bec8116f645f211cf81071e5cd21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720319,
+    "wof:lastmodified":1684354704,
     "wof:name":"Rabo de Peixe",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":8866,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

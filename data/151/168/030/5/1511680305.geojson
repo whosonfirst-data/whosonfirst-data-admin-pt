@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c9vora de Alcoba\u00e7a",
+    "eurostat:nuts_2021_id":"100108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100108",
+    "eurostat:population":4485,
+    "eurostat:population_year":2020,
     "geom:area":0.004442,
+    "geom:area_square_m":42381306.8327,
     "geom:bbox":"-9.01910711796,39.4779184965,-8.89573294464,39.5477689807",
     "geom:latitude":39.509539,
     "geom:longitude":-8.958462,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"\u00c9vora de Alcoba\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100108",
+        "eurostat:nuts_2021_id":"100108",
         "pt-dgt:id":"100108"
     },
     "wof:country":"PT",
     "wof:created":1576698340,
-    "wof:geomhash":"df781a414939af08e67e9011af10c4fe",
+    "wof:geomhash":"92615b0829fb6463dbdc745affee5a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712540,
+    "wof:lastmodified":1684354520,
     "wof:name":"\u00c9vora de Alcoba\u00e7a",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":4485,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

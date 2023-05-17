@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170355",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eiras, S\u00e3o Juli\u00e3o de Montenegro e Cela",
+    "eurostat:nuts_2021_id":"170355",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170355",
+    "eurostat:population":970,
+    "eurostat:population_year":2020,
     "geom:area":0.002465,
+    "geom:area_square_m":22751264.672659,
     "geom:bbox":"-7.43908313029,41.6738646567,-7.35849342646,41.7390995811",
     "geom:latitude":41.715383,
     "geom:longitude":-7.398724,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias das Eiras, S\u00e3o Juli\u00e3o de Montenegro e Cela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170355",
+        "eurostat:nuts_2021_id":"170355",
         "pt-dgt:id":"170355"
     },
     "wof:country":"PT",
     "wof:created":1576698081,
-    "wof:geomhash":"488cee2783ef49cf5dab385da3ee10b0",
+    "wof:geomhash":"0c417c968be9cf2d1954955411894056",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712469,
+    "wof:lastmodified":1684354477,
     "wof:name":"Eiras, S\u00e3o Juli\u00e3o de Montenegro e Cela",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":970,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

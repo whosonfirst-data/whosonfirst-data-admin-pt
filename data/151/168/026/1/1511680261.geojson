@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalvo",
+    "eurostat:nuts_2021_id":"140802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140802",
+    "eurostat:population":1275,
+    "eurostat:population_year":2020,
     "geom:area":0.001342,
+    "geom:area_square_m":12803202.02763,
     "geom:bbox":"-8.31604459321,39.4623874202,-8.27246254897,39.5069995256",
     "geom:latitude":39.483058,
     "geom:longitude":-8.293992,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montalvo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140802",
+        "eurostat:nuts_2021_id":"140802",
         "pt-dgt:id":"140802"
     },
     "wof:country":"PT",
     "wof:created":1576698329,
-    "wof:geomhash":"f95bb8f5f6f825f11f2f410aee696c12",
+    "wof:geomhash":"0643fed2f575cd262401686d1c19e8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712536,
+    "wof:lastmodified":1684354518,
     "wof:name":"Montalvo",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1275,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

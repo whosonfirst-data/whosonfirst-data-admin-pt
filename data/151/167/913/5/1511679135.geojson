@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ulme",
+    "eurostat:nuts_2021_id":"140704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140704",
+    "eurostat:population":1277,
+    "eurostat:population_year":2020,
     "geom:area":0.012722,
+    "geom:area_square_m":121694839.309667,
     "geom:bbox":"-8.50077301062,39.2736398969,-8.26149969521,39.3855945803",
     "geom:latitude":39.321632,
     "geom:longitude":-8.378025,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ulme",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140704",
+        "eurostat:nuts_2021_id":"140704",
         "pt-dgt:id":"140704"
     },
     "wof:country":"PT",
     "wof:created":1576698057,
-    "wof:geomhash":"512f9192bd8be32ec297355ce064d07a",
+    "wof:geomhash":"dd937648da2519ad53fa754ddc8c1b45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712465,
+    "wof:lastmodified":1684354474,
     "wof:name":"Ulme",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1277,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

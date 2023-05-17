@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castro Verde e Cas\u00e9vel",
+    "eurostat:nuts_2021_id":"020606",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020606",
+    "eurostat:population":5346,
+    "eurostat:population_year":2020,
     "geom:area":0.032981,
+    "geom:area_square_m":322616863.216089,
     "geom:bbox":"-8.24653817171,37.6073412858,-7.96595908083,37.8273481639",
     "geom:latitude":37.71279,
     "geom:longitude":-8.091108,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Castro Verde e Cas\u00e9vel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020606",
+        "eurostat:nuts_2021_id":"020606",
         "pt-dgt:id":"020606"
     },
     "wof:country":"PT",
     "wof:created":1576698039,
-    "wof:geomhash":"b98cc4a070e26b416ce6ae74292c6ce0",
+    "wof:geomhash":"471381f1f4f63d6dec913a485e97e12c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712459,
+    "wof:lastmodified":1684354471,
     "wof:name":"Castro Verde e Cas\u00e9vel",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":5346,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

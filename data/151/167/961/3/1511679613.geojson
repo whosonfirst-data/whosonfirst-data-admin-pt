@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinhal Novo",
+    "eurostat:nuts_2021_id":"150803",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150803",
+    "eurostat:population":25000,
+    "eurostat:population_year":2020,
     "geom:area":0.005632,
+    "geom:area_square_m":54400170.099198,
     "geom:bbox":"-8.95410400247,38.6012550639,-8.83929836809,38.6790918094",
     "geom:latitude":38.639295,
     "geom:longitude":-8.898349,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pinhal Novo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150803",
+        "eurostat:nuts_2021_id":"150803",
         "pt-dgt:id":"150803"
     },
     "wof:country":"PT",
     "wof:created":1576698165,
-    "wof:geomhash":"f8be08ea10bd3e85f6324ca95a9fb49c",
+    "wof:geomhash":"54dddfa8885312e5cf9488481d5b89bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712489,
+    "wof:lastmodified":1684354489,
     "wof:name":"Pinhal Novo",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":25000,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

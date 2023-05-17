@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Esp\u00edrito Santo",
+    "eurostat:nuts_2021_id":"020903",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020903",
+    "eurostat:population":335,
+    "eurostat:population_year":2020,
     "geom:area":0.013858,
+    "geom:area_square_m":135856549.546295,
     "geom:bbox":"-7.73551047163,37.4897832764,-7.51218248178,37.6170922101",
     "geom:latitude":37.551114,
     "geom:longitude":-7.636103,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Esp\u00edrito Santo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020903",
+        "eurostat:nuts_2021_id":"020903",
         "pt-dgt:id":"020903"
     },
     "wof:country":"PT",
     "wof:created":1576698028,
-    "wof:geomhash":"0a186a5f677259c5258b3254562a6339",
+    "wof:geomhash":"19b2406abbb0f95d0055120e6e728c37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712455,
+    "wof:lastmodified":1684354468,
     "wof:name":"Esp\u00edrito Santo",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111512",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfragide",
+    "eurostat:nuts_2021_id":"111512",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111512",
+    "eurostat:population":17044,
+    "eurostat:population_year":2020,
     "geom:area":0.00026,
+    "geom:area_square_m":2508849.520121,
     "geom:bbox":"-9.2329719949,38.7219931863,-9.20508900635,38.7449096997",
     "geom:latitude":38.734733,
     "geom:longitude":-9.216739,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alfragide",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111512",
+        "eurostat:nuts_2021_id":"111512",
         "pt-dgt:id":"111512"
     },
     "wof:country":"PT",
     "wof:created":1576698181,
-    "wof:geomhash":"0a196842d2b9ac2da4876de4f4a48992",
+    "wof:geomhash":"3f9385ec73d6745bd2d3564b7d78307d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712493,
+    "wof:lastmodified":1684354491,
     "wof:name":"Alfragide",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":17044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

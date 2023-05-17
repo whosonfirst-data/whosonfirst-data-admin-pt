@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ganfei",
+    "eurostat:nuts_2021_id":"160808",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160808",
+    "eurostat:population":1296,
+    "eurostat:population_year":2020,
     "geom:area":0.00103,
+    "geom:area_square_m":9457965.051786,
     "geom:bbox":"-8.64528139598,42.0163885908,-8.59160291684,42.053801665",
     "geom:latitude":42.037076,
     "geom:longitude":-8.614606,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ganfei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160808",
+        "eurostat:nuts_2021_id":"160808",
         "pt-dgt:id":"160808"
     },
     "wof:country":"PT",
     "wof:created":1576698683,
-    "wof:geomhash":"8772c4f06539703142c2cef8406b9e7f",
+    "wof:geomhash":"6cc627fd7420f9eb1802d0b4f9e3cf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354583,
     "wof:name":"Ganfei",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1296,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

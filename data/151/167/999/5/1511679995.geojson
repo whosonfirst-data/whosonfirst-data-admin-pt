@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silveira",
+    "eurostat:nuts_2021_id":"111316",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"111316",
+    "eurostat:population":8530,
+    "eurostat:population_year":2020,
     "geom:area":0.0026,
+    "geom:area_square_m":24941680.79036,
     "geom:bbox":"-9.40325478481,39.08443019,-9.31572454697,39.1381147182",
     "geom:latitude":39.112042,
     "geom:longitude":-9.358049,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Silveira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111316",
+        "eurostat:nuts_2021_id":"111316",
         "pt-dgt:id":"111316"
     },
     "wof:country":"PT",
     "wof:created":1576698261,
-    "wof:geomhash":"2804c199326518904998b94484d94ca3",
+    "wof:geomhash":"d92bfd96783222ba9ae3a4458a58c3fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712516,
+    "wof:lastmodified":1684354506,
     "wof:name":"Silveira",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":8530,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

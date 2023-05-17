@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150912",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago do Cac\u00e9m, Santa Cruz e S\u00e3o Bartolomeu da Serra",
+    "eurostat:nuts_2021_id":"150912",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150912",
+    "eurostat:population":8454,
+    "eurostat:population_year":2020,
     "geom:area":0.021328,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":207812694.843757,
     "geom:bbox":"-8.77848143619,37.9007136183,-8.57227545596,38.0904147104",
     "geom:latitude":38.000246,
     "geom:longitude":-8.673646,
@@ -70,6 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150912",
+        "eurostat:nuts_2021_id":"150912",
         "gn:id":8014078,
         "pt-dgt:id":150912,
         "qs_pg:id":904378
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5c47f25d0358cd3ea1e6806b02d459c0",
+    "wof:geomhash":"d678f30eb325f17ef33e7c549a1d3ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":1125270271,
-    "wof:lastmodified":1582359917,
+    "wof:lastmodified":1684354444,
     "wof:name":"Santiago do Cac\u00e9m, S. Cruz e S. Bartolomeu da Serra",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":8454,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

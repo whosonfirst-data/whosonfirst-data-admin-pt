@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora da Gra\u00e7a de P\u00f3voa e Meadas",
+    "eurostat:nuts_2021_id":"120501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120501",
+    "eurostat:population":606,
+    "eurostat:population_year":2020,
     "geom:area":0.007703,
+    "geom:area_square_m":73475227.977167,
     "geom:bbox":"-7.58033420801,39.4893307793,-7.38772139002,39.5841775015",
     "geom:latitude":39.523446,
     "geom:longitude":-7.480677,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nossa Senhora da Gra\u00e7a de P\u00f3voa e Meadas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120501",
+        "eurostat:nuts_2021_id":"120501",
         "pt-dgt:id":"120501"
     },
     "wof:country":"PT",
     "wof:created":1576698366,
-    "wof:geomhash":"db2ef55f81b0a28263d181f35d44e409",
+    "wof:geomhash":"0cf81c5d58905e587e9fca81c504ee2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712546,
+    "wof:lastmodified":1684354524,
     "wof:name":"Nossa Senhora da Gra\u00e7a de P\u00f3voa e Meadas",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":606,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

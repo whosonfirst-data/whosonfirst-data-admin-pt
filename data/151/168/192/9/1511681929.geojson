@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beij\u00f3s",
+    "eurostat:nuts_2021_id":"180201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180201",
+    "eurostat:population":975,
+    "eurostat:population_year":2020,
     "geom:area":0.001331,
+    "geom:area_square_m":12511016.373342,
     "geom:bbox":"-7.98345896653,40.4890079135,-7.9329077738,40.5380702148",
     "geom:latitude":40.511432,
     "geom:longitude":-7.954857,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Beij\u00f3s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180201",
+        "eurostat:nuts_2021_id":"180201",
         "pt-dgt:id":"180201"
     },
     "wof:country":"PT",
     "wof:created":1576698694,
-    "wof:geomhash":"1840dc633bcd329769687a6c5d24c78a",
+    "wof:geomhash":"9a47cee811e563f8d2bd99c485f15dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712631,
+    "wof:lastmodified":1684354584,
     "wof:name":"Beij\u00f3s",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":975,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

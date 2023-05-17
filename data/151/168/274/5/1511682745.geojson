@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornos",
+    "eurostat:nuts_2021_id":"010908",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010908",
+    "eurostat:population":3397,
+    "eurostat:population_year":2020,
     "geom:area":0.000335,
+    "geom:area_square_m":3132561.697445,
     "geom:bbox":"-8.54197101994,40.9040450236,-8.51748284078,40.9234192413",
     "geom:latitude":40.912908,
     "geom:longitude":-8.530773,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fornos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010908",
+        "eurostat:nuts_2021_id":"010908",
         "pt-dgt:id":"010908"
     },
     "wof:country":"PT",
     "wof:created":1576698868,
-    "wof:geomhash":"05b1b12058d8b8d20fa73656da37b43f",
+    "wof:geomhash":"546a480117bb673e43580867f4c1f88b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712661,
+    "wof:lastmodified":1684354612,
     "wof:name":"Fornos",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":3397,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

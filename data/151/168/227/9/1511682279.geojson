@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantel\u00e3es",
+    "eurostat:nuts_2021_id":"031105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031105",
+    "eurostat:population":828,
+    "eurostat:population_year":2020,
     "geom:area":0.001248,
+    "geom:area_square_m":11526808.581609,
     "geom:bbox":"-8.13766737241,41.6319859396,-8.07972930432,41.6650970245",
     "geom:latitude":41.6508,
     "geom:longitude":-8.109991,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cantel\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031105",
+        "eurostat:nuts_2021_id":"031105",
         "pt-dgt:id":"031105"
     },
     "wof:country":"PT",
     "wof:created":1576698767,
-    "wof:geomhash":"72cf50d28ca1f78b8c95198ff909a8ed",
+    "wof:geomhash":"9acd77279334f16c72324be8740c680a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712643,
+    "wof:lastmodified":1684354594,
     "wof:name":"Cantel\u00e3es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":828,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

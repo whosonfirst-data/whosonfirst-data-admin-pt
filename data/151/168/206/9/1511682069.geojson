@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amoreira, Parada e Cabreira",
+    "eurostat:nuts_2021_id":"090230",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090230",
+    "eurostat:population":383,
+    "eurostat:population_year":2020,
     "geom:area":0.003338,
+    "geom:area_square_m":31353388.199466,
     "geom:bbox":"-7.05183324604,40.5180734362,-6.97965889961,40.6019930639",
     "geom:latitude":40.561941,
     "geom:longitude":-7.016623,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Amoreira, Parada e Cabreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090230",
+        "eurostat:nuts_2021_id":"090230",
         "pt-dgt:id":"090230"
     },
     "wof:country":"PT",
     "wof:created":1576698721,
-    "wof:geomhash":"069affbec92c4fd3daddfe84b8b1dd2e",
+    "wof:geomhash":"5003bf0ae56e5d2823a4cbb01e0193dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354589,
     "wof:name":"Amoreira, Parada e Cabreira",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":383,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manigoto",
+    "eurostat:nuts_2021_id":"091014",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091014",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.001692,
+    "geom:area_square_m":15865370.765202,
     "geom:bbox":"-7.09471615491,40.6801551613,-7.03433220674,40.7212207539",
     "geom:latitude":40.700446,
     "geom:longitude":-7.066365,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Manigoto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091014",
+        "eurostat:nuts_2021_id":"091014",
         "pt-dgt:id":"091014"
     },
     "wof:country":"PT",
     "wof:created":1576698815,
-    "wof:geomhash":"06e95004fb293b1a67fa89d3a2a1ce3e",
+    "wof:geomhash":"8f6a1fd86ced1a9eb9d00ad1a1d7d361",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712650,
+    "wof:lastmodified":1684354601,
     "wof:name":"Manigoto",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

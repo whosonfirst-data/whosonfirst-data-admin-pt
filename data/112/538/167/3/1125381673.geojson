@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueira de Castelo Rodrigo",
+    "eurostat:nuts_2021_id":"090408",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090408",
+    "eurostat:population":2211,
+    "eurostat:population_year":2020,
     "geom:area":0.002979,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27840548.277088,
     "geom:bbox":"-7.00031861419,40.883738247,-6.89982362064,40.9437724851",
     "geom:latitude":40.911085,
     "geom:longitude":-6.96324,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090408",
+        "eurostat:nuts_2021_id":"090408",
         "gn:id":8014613,
         "pt-dgt:id":90408,
         "qs_pg:id":381214
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"47cf1b5dcf2160f1e98efdc4c8776a83",
+    "wof:geomhash":"3f789c72ca6b88808288e10dc3ae2ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125381673,
-    "wof:lastmodified":1582359924,
+    "wof:lastmodified":1684354447,
     "wof:name":"Figueira de Castelo Rodrigo",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":2211,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

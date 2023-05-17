@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130616",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova da Telha",
+    "eurostat:nuts_2021_id":"130616",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"130616",
+    "eurostat:population":5886,
+    "eurostat:population_year":2020,
     "geom:area":0.000638,
+    "geom:area_square_m":5935268.388245,
     "geom:bbox":"-8.69398379244,41.2341253134,-8.65808489172,41.2624357825",
     "geom:latitude":41.248935,
     "geom:longitude":-8.67638,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova da Telha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130616",
+        "eurostat:nuts_2021_id":"130616",
         "pt-dgt:id":"130616"
     },
     "wof:country":"PT",
     "wof:created":1576698996,
-    "wof:geomhash":"fd6133f3c41a763bdc3e01b53b62236a",
+    "wof:geomhash":"de3dfb2d290300bd513802a4b947544e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712686,
+    "wof:lastmodified":1684354638,
     "wof:name":"Vila Nova da Telha",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":5886,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

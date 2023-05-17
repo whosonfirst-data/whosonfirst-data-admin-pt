@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160719",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feitosa",
+    "eurostat:nuts_2021_id":"160719",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160719",
+    "eurostat:population":1363,
+    "eurostat:population_year":2020,
     "geom:area":0.000292,
+    "geom:area_square_m":2689965.352468,
     "geom:bbox":"-8.59811826958,41.739859356,-8.5714537336,41.7608657095",
     "geom:latitude":41.750388,
     "geom:longitude":-8.584328,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Feitosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160719",
+        "eurostat:nuts_2021_id":"160719",
         "pt-dgt:id":"160719"
     },
     "wof:country":"PT",
     "wof:created":1576699291,
-    "wof:geomhash":"6113c21d7424b219771b6e1f85f7a9e7",
+    "wof:geomhash":"67761bf7f917f055bbd0254eaac26551",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354685,
     "wof:name":"Feitosa",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1363,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

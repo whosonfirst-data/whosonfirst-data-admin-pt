@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soure",
+    "eurostat:nuts_2021_id":"061509",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061509",
+    "eurostat:population":7917,
+    "eurostat:population_year":2020,
     "geom:area":0.009744,
+    "geom:area_square_m":92228196.26423,
     "geom:bbox":"-8.68058820671,39.9904179744,-8.53689356304,40.1132167553",
     "geom:latitude":40.053098,
     "geom:longitude":-8.612815,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Soure",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061509",
+        "eurostat:nuts_2021_id":"061509",
         "pt-dgt:id":"061509"
     },
     "wof:country":"PT",
     "wof:created":1576698496,
-    "wof:geomhash":"fc9c896531ebf6141b9faa214a8f5e35",
+    "wof:geomhash":"416cef0be024deb2d398a03f90a0adf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712592,
+    "wof:lastmodified":1684354554,
     "wof:name":"Soure",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":7917,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

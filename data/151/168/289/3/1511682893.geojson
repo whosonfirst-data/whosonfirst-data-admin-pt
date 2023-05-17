@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f3voa de Penela",
+    "eurostat:nuts_2021_id":"181208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181208",
+    "eurostat:population":325,
+    "eurostat:population_year":2020,
     "geom:area":0.001047,
+    "geom:area_square_m":9761789.082911,
     "geom:bbox":"-7.4089035732,41.0249499772,-7.36812732878,41.0701296905",
     "geom:latitude":41.048546,
     "geom:longitude":-7.387394,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"P\u00f3voa de Penela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181208",
+        "eurostat:nuts_2021_id":"181208",
         "pt-dgt:id":"181208"
     },
     "wof:country":"PT",
     "wof:created":1576698898,
-    "wof:geomhash":"cfb7195cdc309b22acb7f26b38688777",
+    "wof:geomhash":"0591cd53c2ccc9ee82fa037cc4db75a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712667,
+    "wof:lastmodified":1684354617,
     "wof:name":"P\u00f3voa de Penela",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":325,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

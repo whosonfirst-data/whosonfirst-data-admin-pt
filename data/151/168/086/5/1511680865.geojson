@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portela do Fojo-Machio",
+    "eurostat:nuts_2021_id":"061212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061212",
+    "eurostat:population":507,
+    "eurostat:population_year":2020,
     "geom:area":0.005567,
+    "geom:area_square_m":52742784.884985,
     "geom:bbox":"-8.13272993112,39.9328112559,-7.96933794077,40.0273613444",
     "geom:latitude":39.986459,
     "geom:longitude":-8.04522,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Portela do Fojo-Machio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061212",
+        "eurostat:nuts_2021_id":"061212",
         "pt-dgt:id":"061212"
     },
     "wof:country":"PT",
     "wof:created":1576698475,
-    "wof:geomhash":"9b6e6da17dbb70ea92d4b62762c89b4b",
+    "wof:geomhash":"25b861f0c1768be9ca662c93744eccdf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712585,
+    "wof:lastmodified":1684354550,
     "wof:name":"Portela do Fojo-Machio",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":507,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

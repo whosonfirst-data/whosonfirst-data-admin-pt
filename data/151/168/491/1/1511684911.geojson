@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040218",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gostei",
+    "eurostat:nuts_2021_id":"040218",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040218",
+    "eurostat:population":425,
+    "eurostat:population_year":2020,
     "geom:area":0.002111,
+    "geom:area_square_m":19459234.798036,
     "geom:bbox":"-6.87166553812,41.7594211571,-6.7766036473,41.8111574516",
     "geom:latitude":41.787807,
     "geom:longitude":-6.829062,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gostei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040218",
+        "eurostat:nuts_2021_id":"040218",
         "pt-dgt:id":"040218"
     },
     "wof:country":"PT",
     "wof:created":1576699324,
-    "wof:geomhash":"2c3224d714f087d785bd07039d0a7bcd",
+    "wof:geomhash":"5b02bff67ca3c4df8c9509f66eac48cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Gostei",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":425,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

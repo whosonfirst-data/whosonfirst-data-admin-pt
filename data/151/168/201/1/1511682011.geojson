@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sosa",
+    "eurostat:nuts_2021_id":"011807",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011807",
+    "eurostat:population":3069,
+    "eurostat:population_year":2020,
     "geom:area":0.002306,
+    "geom:area_square_m":21668053.076573,
     "geom:bbox":"-8.67693388804,40.526967036,-8.60768578319,40.5744487842",
     "geom:latitude":40.551013,
     "geom:longitude":-8.642166,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011807",
+        "eurostat:nuts_2021_id":"011807",
         "pt-dgt:id":"011807"
     },
     "wof:country":"PT",
     "wof:created":1576698710,
-    "wof:geomhash":"872e97e4334a51458a099e51718d6cca",
+    "wof:geomhash":"1745bd8849bd0a885d7694c5fa42cd49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712634,
+    "wof:lastmodified":1684354587,
     "wof:name":"Sosa",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":3069,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

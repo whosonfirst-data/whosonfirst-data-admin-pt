@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091110",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bendada",
+    "eurostat:nuts_2021_id":"091110",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091110",
+    "eurostat:population":580,
+    "eurostat:population_year":2020,
     "geom:area":0.003668,
+    "geom:area_square_m":34556976.545926,
     "geom:bbox":"-7.30299791234,40.3077936199,-7.22230711629,40.4213541521",
     "geom:latitude":40.371447,
     "geom:longitude":-7.256811,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bendada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091110",
+        "eurostat:nuts_2021_id":"091110",
         "pt-dgt:id":"091110"
     },
     "wof:country":"PT",
     "wof:created":1576698596,
-    "wof:geomhash":"fe1e6cd2c3483663152c4c9e1a67fb91",
+    "wof:geomhash":"e6c514d3cd5691c5d305ae32ca02e89b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712613,
+    "wof:lastmodified":1684354569,
     "wof:name":"Bendada",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":580,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

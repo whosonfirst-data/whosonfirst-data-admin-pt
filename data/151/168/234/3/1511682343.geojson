@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031352",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soutelo",
+    "eurostat:nuts_2021_id":"031352",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031352",
+    "eurostat:population":2102,
+    "eurostat:population_year":2020,
     "geom:area":0.000451,
+    "geom:area_square_m":4165489.206331,
     "geom:bbox":"-8.4551968621,41.6034432516,-8.42484616907,41.6291641686",
     "geom:latitude":41.615021,
     "geom:longitude":-8.438886,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Soutelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031352",
+        "eurostat:nuts_2021_id":"031352",
         "pt-dgt:id":"031352"
     },
     "wof:country":"PT",
     "wof:created":1576698780,
-    "wof:geomhash":"674503b87124c7f15786246af5406fed",
+    "wof:geomhash":"5c0d63697eefcf3648eb7f0220d4a7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Soutelo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2102,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

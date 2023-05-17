@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sebolido",
+    "eurostat:nuts_2021_id":"131134",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131134",
+    "eurostat:population":919,
+    "eurostat:population_year":2020,
     "geom:area":0.000552,
+    "geom:area_square_m":5148269.270194,
     "geom:bbox":"-8.36122820665,41.040103298,-8.32420234576,41.0825399408",
     "geom:latitude":41.055289,
     "geom:longitude":-8.344058,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sebolido",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131134",
+        "eurostat:nuts_2021_id":"131134",
         "pt-dgt:id":"131134"
     },
     "wof:country":"PT",
     "wof:created":1576698905,
-    "wof:geomhash":"b20926ab13befb114305177ca39009df",
+    "wof:geomhash":"75c69c163e3c1bbcf92112536742d310",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712668,
+    "wof:lastmodified":1684354618,
     "wof:name":"Sebolido",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":919,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

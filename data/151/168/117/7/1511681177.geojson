@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benqueren\u00e7a",
+    "eurostat:nuts_2021_id":"050706",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050706",
+    "eurostat:population":575,
+    "eurostat:population_year":2020,
     "geom:area":0.003026,
+    "geom:area_square_m":28567634.191692,
     "geom:bbox":"-7.27340314474,40.1964199436,-7.19319894744,40.2679231621",
     "geom:latitude":40.229036,
     "geom:longitude":-7.24097,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Benqueren\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050706",
+        "eurostat:nuts_2021_id":"050706",
         "pt-dgt:id":"050706"
     },
     "wof:country":"PT",
     "wof:created":1576698542,
-    "wof:geomhash":"b867cb91d345c929f8850a70da9af40e",
+    "wof:geomhash":"d354ef23eea154aff8b80c1fda8994ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712602,
+    "wof:lastmodified":1684354561,
     "wof:name":"Benqueren\u00e7a",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":575,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

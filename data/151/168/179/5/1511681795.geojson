@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar e Viveiro",
+    "eurostat:nuts_2021_id":"170221",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170221",
+    "eurostat:population":487,
+    "eurostat:population_year":2020,
     "geom:area":0.003338,
+    "geom:area_square_m":30836400.631701,
     "geom:bbox":"-7.82822842153,41.6417926578,-7.71049053037,41.6927615645",
     "geom:latitude":41.668088,
     "geom:longitude":-7.763224,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar e Viveiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170221",
+        "eurostat:nuts_2021_id":"170221",
         "pt-dgt:id":"170221"
     },
     "wof:country":"PT",
     "wof:created":1576698668,
-    "wof:geomhash":"b6a1fd94ba49b8d64ec61f1fd9c1cabd",
+    "wof:geomhash":"fa03048ea443c5894892c8d1a5f71cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712627,
+    "wof:lastmodified":1684354581,
     "wof:name":"Vilar e Viveiro",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":487,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

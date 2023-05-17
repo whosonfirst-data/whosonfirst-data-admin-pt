@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malhadas",
+    "eurostat:nuts_2021_id":"040607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040607",
+    "eurostat:population":344,
+    "eurostat:population_year":2020,
     "geom:area":0.002984,
+    "geom:area_square_m":27621227.152757,
     "geom:bbox":"-6.36972488369,41.5094438251,-6.28946011086,41.5660107275",
     "geom:latitude":41.536165,
     "geom:longitude":-6.328834,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Malhadas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040607",
+        "eurostat:nuts_2021_id":"040607",
         "pt-dgt:id":"040607"
     },
     "wof:country":"PT",
     "wof:created":1576699047,
-    "wof:geomhash":"6f56d510967d21a04622cf78f6997b4b",
+    "wof:geomhash":"b0cef53948e9830a2d4b74da49178732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712696,
+    "wof:lastmodified":1684354648,
     "wof:name":"Malhadas",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":344,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

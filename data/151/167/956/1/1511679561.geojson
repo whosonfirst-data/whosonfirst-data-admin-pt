@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fern\u00e3o Ferro",
+    "eurostat:nuts_2021_id":"151006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151006",
+    "eurostat:population":16410,
+    "eurostat:population_year":2020,
     "geom:area":0.002471,
+    "geom:area_square_m":23885699.701639,
     "geom:bbox":"-9.12811264478,38.5406754436,-9.04851685631,38.6016774248",
     "geom:latitude":38.571533,
     "geom:longitude":-9.087917,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fern\u00e3o Ferro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151006",
+        "eurostat:nuts_2021_id":"151006",
         "pt-dgt:id":"151006"
     },
     "wof:country":"PT",
     "wof:created":1576698153,
-    "wof:geomhash":"0fc4e42cff53f7f607bb130b963d458a",
+    "wof:geomhash":"3d659e504529acc93e0ed7a36996a00b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712486,
+    "wof:lastmodified":1684354488,
     "wof:name":"Fern\u00e3o Ferro",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":16410,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

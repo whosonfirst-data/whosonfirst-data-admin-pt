@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Croca",
+    "eurostat:nuts_2021_id":"131108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131108",
+    "eurostat:population":1769,
+    "eurostat:population_year":2020,
     "geom:area":0.000713,
+    "geom:area_square_m":6627359.654345,
     "geom:bbox":"-8.25460264597,41.2007336026,-8.21708990367,41.238312115",
     "geom:latitude":41.217381,
     "geom:longitude":-8.238953,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Croca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131108",
+        "eurostat:nuts_2021_id":"131108",
         "pt-dgt:id":"131108"
     },
     "wof:country":"PT",
     "wof:created":1576698976,
-    "wof:geomhash":"bade761e0613861689822141e416a6b8",
+    "wof:geomhash":"c95577e368c2de4a3f135a3dc6d7669a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712682,
+    "wof:lastmodified":1684354632,
     "wof:name":"Croca",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1769,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

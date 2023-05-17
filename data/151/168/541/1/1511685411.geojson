@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capelas",
+    "eurostat:nuts_2021_id":"420304",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420304",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.001726,
+    "geom:area_square_m":16854108.849503,
     "geom:bbox":"-25.7504315152,37.8042484028,-25.6693286295,37.8517103427",
     "geom:latitude":37.830231,
     "geom:longitude":-25.703029,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Capelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420304",
+        "eurostat:nuts_2021_id":"420304",
         "pt-dgt:id":"420304"
     },
     "wof:country":"PT",
     "wof:created":1576699430,
-    "wof:geomhash":"6aa9fd62dbb6a207d0b82321a0c5534f",
+    "wof:geomhash":"8596f6312798ebb5469f16fcc61e5ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720323,
+    "wof:lastmodified":1684354712,
     "wof:name":"Capelas",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

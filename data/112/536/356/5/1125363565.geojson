@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vendas Novas",
+    "eurostat:nuts_2021_id":"071201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071201",
+    "eurostat:population":11123,
+    "eurostat:population_year":2020,
     "geom:area":0.016327,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":157606345.825012,
     "geom:bbox":"-8.60152091848,38.6164036761,-8.37823964086,38.7546044941",
     "geom:latitude":38.679307,
     "geom:longitude":-8.477166,
@@ -121,6 +133,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071201",
+        "eurostat:nuts_2021_id":"071201",
         "gn:id":8011960,
         "pt-dgt:id":71201,
         "qs_pg:id":1245913
@@ -137,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"f2c6c6a929b06101b1b7a9122b26ab06",
+    "wof:geomhash":"e3677db83a758638f118240c992dd1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":1125363565,
-    "wof:lastmodified":1582359925,
+    "wof:lastmodified":1684354446,
     "wof:name":"Vendas Novas",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":11123,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

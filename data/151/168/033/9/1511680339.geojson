@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontelas",
+    "eurostat:nuts_2021_id":"170802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170802",
+    "eurostat:population":781,
+    "eurostat:population_year":2020,
     "geom:area":0.000347,
+    "geom:area_square_m":3230636.418433,
     "geom:bbox":"-7.83533096352,41.1470219593,-7.81264678193,41.173538384",
     "geom:latitude":41.159836,
     "geom:longitude":-7.822583,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fontelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170802",
+        "eurostat:nuts_2021_id":"170802",
         "pt-dgt:id":"170802"
     },
     "wof:country":"PT",
     "wof:created":1576698347,
-    "wof:geomhash":"ac752725b2dfac76af86e67e02631312",
+    "wof:geomhash":"ef6ad8648b17660415f0e8ef0420b923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712541,
+    "wof:lastmodified":1684354521,
     "wof:name":"Fontelas",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":781,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

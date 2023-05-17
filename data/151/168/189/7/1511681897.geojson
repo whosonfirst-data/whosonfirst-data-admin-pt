@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barbeita",
+    "eurostat:nuts_2021_id":"160404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160404",
+    "eurostat:population":1016,
+    "eurostat:population_year":2020,
     "geom:area":0.000749,
+    "geom:area_square_m":6873074.564129,
     "geom:bbox":"-8.42153139816,42.0405174979,-8.38873443029,42.0804775306",
     "geom:latitude":42.063527,
     "geom:longitude":-8.403021,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Barbeita",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160404",
+        "eurostat:nuts_2021_id":"160404",
         "pt-dgt:id":"160404"
     },
     "wof:country":"PT",
     "wof:created":1576698688,
-    "wof:geomhash":"64bd9b5efbbdaf59a4035a415f94adf4",
+    "wof:geomhash":"4d78f1bf93da0d426d75d3d0cb54a659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712630,
+    "wof:lastmodified":1684354583,
     "wof:name":"Barbeita",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1016,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

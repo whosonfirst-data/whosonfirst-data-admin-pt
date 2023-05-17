@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte da Pedra",
+    "eurostat:nuts_2021_id":"120605",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120605",
+    "eurostat:population":280,
+    "eurostat:population_year":2020,
     "geom:area":0.006277,
+    "geom:area_square_m":60023763.713175,
     "geom:bbox":"-7.90128205191,39.3243060302,-7.68208709302,39.382384948",
     "geom:latitude":39.348793,
     "geom:longitude":-7.775536,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Monte da Pedra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120605",
+        "eurostat:nuts_2021_id":"120605",
         "pt-dgt:id":"120605"
     },
     "wof:country":"PT",
     "wof:created":1576698055,
-    "wof:geomhash":"301dea4f41e5a44d0998e86e36b55d66",
+    "wof:geomhash":"9eac39d1cefeca9100e4aece03f492d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712464,
+    "wof:lastmodified":1684354474,
     "wof:name":"Monte da Pedra",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":280,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

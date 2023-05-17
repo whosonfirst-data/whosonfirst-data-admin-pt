@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Padrela e Tazem",
+    "eurostat:nuts_2021_id":"171215",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171215",
+    "eurostat:population":359,
+    "eurostat:population_year":2020,
     "geom:area":0.002495,
+    "geom:area_square_m":23086740.043595,
     "geom:bbox":"-7.53110805109,41.526891346,-7.46068640566,41.5946450649",
     "geom:latitude":41.562522,
     "geom:longitude":-7.496517,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Padrela e Tazem",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171215",
+        "eurostat:nuts_2021_id":"171215",
         "pt-dgt:id":"171215"
     },
     "wof:country":"PT",
     "wof:created":1576699249,
-    "wof:geomhash":"28205ac812867ff0846bab411555a4d6",
+    "wof:geomhash":"f63064ff4a95e3bf15661028b1c59f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712727,
+    "wof:lastmodified":1684354680,
     "wof:name":"Padrela e Tazem",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

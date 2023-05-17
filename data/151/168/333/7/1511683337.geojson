@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilela",
+    "eurostat:nuts_2021_id":"131024",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131024",
+    "eurostat:population":5160,
+    "eurostat:population_year":2020,
     "geom:area":0.000503,
+    "geom:area_square_m":4677607.346988,
     "geom:bbox":"-8.39940866359,41.2302411717,-8.36245077943,41.2579623217",
     "geom:latitude":41.242851,
     "geom:longitude":-8.381106,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131024",
+        "eurostat:nuts_2021_id":"131024",
         "pt-dgt:id":"131024"
     },
     "wof:country":"PT",
     "wof:created":1576698989,
-    "wof:geomhash":"f3e88a7d133a01015dd91d5331611808",
+    "wof:geomhash":"b6ca4f589fc6859cba50e3564cf9a254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712685,
+    "wof:lastmodified":1684354637,
     "wof:name":"Vilela",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":5160,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

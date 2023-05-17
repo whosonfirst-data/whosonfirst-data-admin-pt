@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061514",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gesteira e Brunh\u00f3s",
+    "eurostat:nuts_2021_id":"061514",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061514",
+    "eurostat:population":1154,
+    "eurostat:population_year":2020,
     "geom:area":0.001769,
+    "geom:area_square_m":16737275.637952,
     "geom:bbox":"-8.69182265401,40.0368705066,-8.64958765069,40.1237388941",
     "geom:latitude":40.083829,
     "geom:longitude":-8.67092,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Gesteira e Brunh\u00f3s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061514",
+        "eurostat:nuts_2021_id":"061514",
         "pt-dgt:id":"061514"
     },
     "wof:country":"PT",
     "wof:created":1576698500,
-    "wof:geomhash":"8783949318fa75070f0a4d9c130c4a10",
+    "wof:geomhash":"91a77c92c02993e680b79baff4965be1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712593,
+    "wof:lastmodified":1684354555,
     "wof:name":"Gesteira e Brunh\u00f3s",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1154,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

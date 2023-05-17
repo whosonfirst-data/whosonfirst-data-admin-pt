@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031359",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aboim da N\u00f3brega e Gondomar",
+    "eurostat:nuts_2021_id":"031359",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031359",
+    "eurostat:population":1058,
+    "eurostat:population_year":2020,
     "geom:area":0.00156,
+    "geom:area_square_m":14391434.495972,
     "geom:bbox":"-8.41014353517,41.728009314,-8.34716105407,41.7706084345",
     "geom:latitude":41.74883,
     "geom:longitude":-8.379371,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aboim da N\u00f3brega e Gondomar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031359",
+        "eurostat:nuts_2021_id":"031359",
         "pt-dgt:id":"031359"
     },
     "wof:country":"PT",
     "wof:created":1576699298,
-    "wof:geomhash":"651eca1195e18b50722202393acde265",
+    "wof:geomhash":"af2b4b539a859a447fda6492e48ca5af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354686,
     "wof:name":"Aboim da N\u00f3brega e Gondomar",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1058,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

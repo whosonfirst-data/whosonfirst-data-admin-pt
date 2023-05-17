@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ortiga",
+    "eurostat:nuts_2021_id":"141307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141307",
+    "eurostat:population":590,
+    "eurostat:population_year":2020,
     "geom:area":0.001714,
+    "geom:area_square_m":16354277.5654,
     "geom:bbox":"-8.06524154775,39.4694045747,-7.99502077507,39.5129368651",
     "geom:latitude":39.487516,
     "geom:longitude":-8.030396,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ortiga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141307",
+        "eurostat:nuts_2021_id":"141307",
         "pt-dgt:id":"141307"
     },
     "wof:country":"PT",
     "wof:created":1576698332,
-    "wof:geomhash":"b999a4decdd24b539e0330eddc6743e0",
+    "wof:geomhash":"d75bc573ac9bb59f8c611c57f5519d78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712537,
+    "wof:lastmodified":1684354518,
     "wof:name":"Ortiga",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

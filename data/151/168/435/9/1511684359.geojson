@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvelos",
+    "eurostat:nuts_2021_id":"030208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030208",
+    "eurostat:population":2145,
+    "eurostat:population_year":2020,
     "geom:area":0.000365,
+    "geom:area_square_m":3377063.066506,
     "geom:bbox":"-8.63129526761,41.4914651667,-8.60732576873,41.5187121894",
     "geom:latitude":41.506625,
     "geom:longitude":-8.620587,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030208",
+        "eurostat:nuts_2021_id":"030208",
         "pt-dgt:id":"030208"
     },
     "wof:country":"PT",
     "wof:created":1576699210,
-    "wof:geomhash":"6a5670d8df638b3399088bd642fb1def",
+    "wof:geomhash":"43d7d4b06b24d70201668d2c0fef9638",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354676,
     "wof:name":"Alvelos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2145,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

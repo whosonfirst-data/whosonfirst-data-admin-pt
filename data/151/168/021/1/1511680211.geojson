@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carvalhal Benfeito",
+    "eurostat:nuts_2021_id":"100604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100604",
+    "eurostat:population":1279,
+    "eurostat:population_year":2020,
     "geom:area":0.001459,
+    "geom:area_square_m":13934854.737515,
     "geom:bbox":"-9.08047613542,39.4185545647,-9.02955426169,39.4704211848",
     "geom:latitude":39.445011,
     "geom:longitude":-9.053298,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carvalhal Benfeito",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100604",
+        "eurostat:nuts_2021_id":"100604",
         "pt-dgt:id":"100604"
     },
     "wof:country":"PT",
     "wof:created":1576698319,
-    "wof:geomhash":"87e5e1adcf2ed8782bf6e626875f44f3",
+    "wof:geomhash":"37ee4dee592e8c1abfa8505c6d870e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354516,
     "wof:name":"Carvalhal Benfeito",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1279,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

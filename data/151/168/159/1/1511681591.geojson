@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010934",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lob\u00e3o, Gi\u00e3o, Louredo e Guisande",
+    "eurostat:nuts_2021_id":"010934",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010934",
+    "eurostat:population":9860,
+    "eurostat:population_year":2020,
     "geom:area":0.002523,
+    "geom:area_square_m":23553007.002489,
     "geom:bbox":"-8.5121777247,40.9565369529,-8.38947025481,41.004836245",
     "geom:latitude":40.981012,
     "geom:longitude":-8.467645,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Lob\u00e3o, Gi\u00e3o, Louredo e Guisande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010934",
+        "eurostat:nuts_2021_id":"010934",
         "pt-dgt:id":"010934"
     },
     "wof:country":"PT",
     "wof:created":1576698627,
-    "wof:geomhash":"3807f2218278cb65d2be7bf85e30258c",
+    "wof:geomhash":"9a4f30f183ab5545e10fdb54fa9b44a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712620,
+    "wof:lastmodified":1684354574,
     "wof:name":"Lob\u00e3o, Gi\u00e3o, Louredo e Guisande",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":9860,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

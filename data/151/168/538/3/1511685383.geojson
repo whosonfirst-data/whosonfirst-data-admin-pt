@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrifes",
+    "eurostat:nuts_2021_id":"420301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420301",
+    "eurostat:population":7086,
+    "eurostat:population_year":2020,
     "geom:area":0.002596,
+    "geom:area_square_m":25364435.93409,
     "geom:bbox":"-25.7411189343,37.7479226717,-25.6754472463,37.827982196",
     "geom:latitude":37.788479,
     "geom:longitude":-25.703817,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Arrifes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420301",
+        "eurostat:nuts_2021_id":"420301",
         "pt-dgt:id":"420301"
     },
     "wof:country":"PT",
     "wof:created":1576699422,
-    "wof:geomhash":"79a631b16c78ccee959bf5698b080352",
+    "wof:geomhash":"5cc3f0ee044e120265a9c962943b93f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720276,
+    "wof:lastmodified":1684354707,
     "wof:name":"Arrifes",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":7086,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420320",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Ant\u00f3nio",
+    "eurostat:nuts_2021_id":"420320",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420320",
+    "eurostat:population":1829,
+    "eurostat:population_year":2020,
     "geom:area":0.001203,
+    "geom:area_square_m":11745628.426519,
     "geom:bbox":"-25.7631145443,37.828418421,-25.6934878767,37.8742561612",
     "geom:latitude":37.849891,
     "geom:longitude":-25.727481,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santo Ant\u00f3nio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420320",
+        "eurostat:nuts_2021_id":"420320",
         "pt-dgt:id":"420320"
     },
     "wof:country":"PT",
     "wof:created":1576699437,
-    "wof:geomhash":"83c5d3049c3c5a441b605b4e405779ad",
+    "wof:geomhash":"b9491e851941d8c6c32530549c23bafa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720287,
+    "wof:lastmodified":1684354715,
     "wof:name":"Santo Ant\u00f3nio",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1829,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

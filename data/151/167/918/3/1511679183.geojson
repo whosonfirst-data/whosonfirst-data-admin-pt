@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091141",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia da Ribeira, Vilar Maior e Badamalos",
+    "eurostat:nuts_2021_id":"091141",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091141",
+    "eurostat:population":347,
+    "eurostat:population_year":2020,
     "geom:area":0.007303,
+    "geom:area_square_m":68691474.284721,
     "geom:bbox":"-7.00265874995,40.4343497215,-6.83317407434,40.5174680439",
     "geom:latitude":40.474652,
     "geom:longitude":-6.919159,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091141",
+        "eurostat:nuts_2021_id":"091141",
         "pt-dgt:id":"091141"
     },
     "wof:country":"PT",
     "wof:created":1576698067,
-    "wof:geomhash":"b26247acddf2dd99d7ad879e963b6cbd",
+    "wof:geomhash":"09e34faadecb724dfa0997a12912892f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712468,
+    "wof:lastmodified":1684354476,
     "wof:name":"Aldeia da Ribeira, Vilar Maior e Badamalos",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":347,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

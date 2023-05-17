@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090626",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melo e Nabais",
+    "eurostat:nuts_2021_id":"090626",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090626",
+    "eurostat:population":903,
+    "eurostat:population_year":2020,
     "geom:area":0.001535,
+    "geom:area_square_m":14429753.529561,
     "geom:bbox":"-7.58033716075,40.4937282846,-7.52092618249,40.5543824033",
     "geom:latitude":40.526193,
     "geom:longitude":-7.549368,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Melo e Nabais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090626",
+        "eurostat:nuts_2021_id":"090626",
         "pt-dgt:id":"090626"
     },
     "wof:country":"PT",
     "wof:created":1576698702,
-    "wof:geomhash":"2f7ac37c7ea816a04cbc26c51df979cc",
+    "wof:geomhash":"46626d87f2f4fa68af85a9dd398e9eb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712633,
+    "wof:lastmodified":1684354586,
     "wof:name":"Melo e Nabais",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":903,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

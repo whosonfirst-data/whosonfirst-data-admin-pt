@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bara\u00e7al",
+    "eurostat:nuts_2021_id":"090302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090302",
+    "eurostat:population":227,
+    "eurostat:population_year":2020,
     "geom:area":0.001302,
+    "geom:area_square_m":12208323.244067,
     "geom:bbox":"-7.36291484391,40.656172511,-7.29867647914,40.6976883792",
     "geom:latitude":40.674557,
     "geom:longitude":-7.329179,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bara\u00e7al",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090302",
+        "eurostat:nuts_2021_id":"090302",
         "pt-dgt:id":"090302"
     },
     "wof:country":"PT",
     "wof:created":1576698801,
-    "wof:geomhash":"e98bb336a9e134954e8827b635cd0a00",
+    "wof:geomhash":"eaca7c21218c90c8138c850574f5064c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712648,
+    "wof:lastmodified":1684354600,
     "wof:name":"Bara\u00e7al",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":227,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

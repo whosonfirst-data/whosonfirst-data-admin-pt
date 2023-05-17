@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedra\u00e7a",
+    "eurostat:nuts_2021_id":"030413",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030413",
+    "eurostat:population":760,
+    "eurostat:population_year":2020,
     "geom:area":0.001312,
+    "geom:area_square_m":12151844.755635,
     "geom:bbox":"-7.97416951226,41.4769653688,-7.92376200215,41.5217834",
     "geom:latitude":41.501662,
     "geom:longitude":-7.946308,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pedra\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030413",
+        "eurostat:nuts_2021_id":"030413",
         "pt-dgt:id":"030413"
     },
     "wof:country":"PT",
     "wof:created":1576699211,
-    "wof:geomhash":"793af8ad888556ff194f7a3e7d78d383",
+    "wof:geomhash":"7bca46caae4fbb3f6206d2aa1a10eea9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354676,
     "wof:name":"Pedra\u00e7a",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Laundos",
+    "eurostat:nuts_2021_id":"131308",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131308",
+    "eurostat:population":2055,
+    "eurostat:population_year":2020,
     "geom:area":0.000919,
+    "geom:area_square_m":8515457.782905,
     "geom:bbox":"-8.74455832999,41.4215629665,-8.70067934458,41.4555191365",
     "geom:latitude":41.438852,
     "geom:longitude":-8.721147,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Laundos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131308",
+        "eurostat:nuts_2021_id":"131308",
         "pt-dgt:id":"131308"
     },
     "wof:country":"PT",
     "wof:created":1576699159,
-    "wof:geomhash":"3baee5141529f8efcf341ce4a8e0fe6c",
+    "wof:geomhash":"e398b67b17cc538a518c1bd9d674dd51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712713,
+    "wof:lastmodified":1684354669,
     "wof:name":"Laundos",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2055,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

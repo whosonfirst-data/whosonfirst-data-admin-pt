@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o)",
+    "eurostat:nuts_2021_id":"151209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151209",
+    "eurostat:population":18877,
+    "eurostat:population_year":2020,
     "geom:area":0.007159,
+    "geom:area_square_m":69267576.19756,
     "geom:bbox":"-9.05562411248,38.4539603615,-8.96108360443,38.580721107",
     "geom:latitude":38.513402,
     "geom:longitude":-9.008871,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151209",
+        "eurostat:nuts_2021_id":"151209",
         "pt-dgt:id":"151209"
     },
     "wof:country":"PT",
     "wof:created":1576698143,
-    "wof:geomhash":"887aee3f8654e42917f8aed456735314",
+    "wof:geomhash":"40310ee9288b8e51a7e4f4fcce673694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712484,
+    "wof:lastmodified":1684354486,
     "wof:name":"Azeit\u00e3o (S\u00e3o Louren\u00e7o e S\u00e3o Sim\u00e3o)",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":18877,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

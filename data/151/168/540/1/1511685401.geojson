@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Candel\u00e1ria",
+    "eurostat:nuts_2021_id":"420303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420303",
+    "eurostat:population":1079,
+    "eurostat:population_year":2020,
     "geom:area":0.000884,
+    "geom:area_square_m":8633835.515897,
     "geom:bbox":"-25.840971257,37.8103082046,-25.7753433386,37.8442971931",
     "geom:latitude":37.829637,
     "geom:longitude":-25.811016,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Candel\u00e1ria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420303",
+        "eurostat:nuts_2021_id":"420303",
         "pt-dgt:id":"420303"
     },
     "wof:country":"PT",
     "wof:created":1576699427,
-    "wof:geomhash":"287a28e817a8d4a4799a927493bcddda",
+    "wof:geomhash":"5dc918e4edf310b71f82f73705b6c38f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720309,
+    "wof:lastmodified":1684354710,
     "wof:name":"Candel\u00e1ria",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1079,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

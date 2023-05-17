@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beato",
+    "eurostat:nuts_2021_id":"110607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110607",
+    "eurostat:population":12737,
+    "eurostat:population_year":2020,
     "geom:area":0.000257,
+    "geom:area_square_m":2481612.282829,
     "geom:bbox":"-9.12647596316,38.7205467184,-9.09658904371,38.7411707634",
     "geom:latitude":38.73105,
     "geom:longitude":-9.110095,
@@ -23,16 +36,20 @@
     "pt-dgt:freguesia":"Beato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110607",
+        "eurostat:nuts_2021_id":"110607",
         "pt-dgt:id":"110607"
     },
     "wof:country":"PT",
     "wof:created":1576698180,
-    "wof:geomhash":"f6341f01930daeee28428bf9fde09e21",
+    "wof:geomhash":"aaf09555baef3188fa1a04a307d29f56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,10 +65,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712492,
+    "wof:lastmodified":1684354491,
     "wof:name":"Beato",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
+    "wof:population":12737,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

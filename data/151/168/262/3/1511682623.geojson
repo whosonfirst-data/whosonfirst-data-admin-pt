@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corti\u00e7ada",
+    "eurostat:nuts_2021_id":"090103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"090103",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.001349,
+    "geom:area_square_m":12638331.895238,
     "geom:bbox":"-7.59302738463,40.749085667,-7.5149627384,40.7815594951",
     "geom:latitude":40.764984,
     "geom:longitude":-7.551924,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Corti\u00e7ada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090103",
+        "eurostat:nuts_2021_id":"090103",
         "pt-dgt:id":"090103"
     },
     "wof:country":"PT",
     "wof:created":1576698842,
-    "wof:geomhash":"694dad1df97ab5918183cc7186227cdb",
+    "wof:geomhash":"5edc9c996954b22289e6ed725318aeac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712655,
+    "wof:lastmodified":1684354606,
     "wof:name":"Corti\u00e7ada",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

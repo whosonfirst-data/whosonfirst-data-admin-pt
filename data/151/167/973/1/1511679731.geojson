@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111516",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mina de \u00c1gua",
+    "eurostat:nuts_2021_id":"111516",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111516",
+    "eurostat:population":43927,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
+    "geom:area_square_m":8084592.926078,
     "geom:bbox":"-9.25405192731,38.7573037014,-9.22054541094,38.7969834843",
     "geom:latitude":38.777438,
     "geom:longitude":-9.236908,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mina de \u00c1gua",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111516",
+        "eurostat:nuts_2021_id":"111516",
         "pt-dgt:id":"111516"
     },
     "wof:country":"PT",
     "wof:created":1576698190,
-    "wof:geomhash":"433097e3d482be5904a14ed485d73ff4",
+    "wof:geomhash":"ae356ef02ee63cab8c20f7b6c2f10026",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354492,
     "wof:name":"Mina de \u00c1gua",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":43927,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

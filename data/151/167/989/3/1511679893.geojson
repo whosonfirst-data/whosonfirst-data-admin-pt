@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mora",
+    "eurostat:nuts_2021_id":"070703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070703",
+    "eurostat:population":2522,
+    "eurostat:population_year":2020,
     "geom:area":0.01327,
+    "geom:area_square_m":127606175.422768,
     "geom:bbox":"-8.27218836265,38.8744418301,-8.09859798877,39.0269314499",
     "geom:latitude":38.953268,
     "geom:longitude":-8.182087,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mora",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070703",
+        "eurostat:nuts_2021_id":"070703",
         "pt-dgt:id":"070703"
     },
     "wof:country":"PT",
     "wof:created":1576698229,
-    "wof:geomhash":"39eb70d9cfbd06e66cf61f2981bf58ec",
+    "wof:geomhash":"9f10b30f3ea899f85e1b2372fa5a0d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712506,
+    "wof:lastmodified":1684354499,
     "wof:name":"Mora",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":2522,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

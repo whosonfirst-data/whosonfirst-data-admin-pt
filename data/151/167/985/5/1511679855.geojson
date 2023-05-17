@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Biscainho",
+    "eurostat:nuts_2021_id":"140907",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140907",
+    "eurostat:population":1074,
+    "eurostat:population_year":2020,
     "geom:area":0.00845,
+    "geom:area_square_m":81303385.58889,
     "geom:bbox":"-8.72952107322,38.8673496536,-8.52774585931,38.9566110441",
     "geom:latitude":38.914724,
     "geom:longitude":-8.617018,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Biscainho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140907",
+        "eurostat:nuts_2021_id":"140907",
         "pt-dgt:id":"140907"
     },
     "wof:country":"PT",
     "wof:created":1576698218,
-    "wof:geomhash":"e9a00f0d7e93a4c028cb6aec6918bc3f",
+    "wof:geomhash":"b722dc2a37b149dce5d08ab80223f7eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712503,
+    "wof:lastmodified":1684354497,
     "wof:name":"Biscainho",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1074,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

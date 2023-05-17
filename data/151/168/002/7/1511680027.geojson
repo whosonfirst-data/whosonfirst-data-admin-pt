@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cartaxo e Vale da Pinta",
+    "eurostat:nuts_2021_id":"140609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140609",
+    "eurostat:population":12665,
+    "eurostat:population_year":2020,
     "geom:area":0.002942,
+    "geom:area_square_m":28206211.849692,
     "geom:bbox":"-8.84612969209,39.1204376149,-8.75793685604,39.2003179451",
     "geom:latitude":39.165457,
     "geom:longitude":-8.799529,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias do Cartaxo e Vale da Pinta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140609",
+        "eurostat:nuts_2021_id":"140609",
         "pt-dgt:id":"140609"
     },
     "wof:country":"PT",
     "wof:created":1576698275,
-    "wof:geomhash":"4c6ffa10a1ae84d7a4b430b352eeade1",
+    "wof:geomhash":"d75fe7fbc7ebcddfbac8671266ad3b66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712519,
+    "wof:lastmodified":1684354507,
     "wof:name":"Cartaxo e Vale da Pinta",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":12665,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

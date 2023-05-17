@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060329",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torres do Mondego",
+    "eurostat:nuts_2021_id":"060329",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060329",
+    "eurostat:population":2402,
+    "eurostat:population_year":2020,
     "geom:area":0.001763,
+    "geom:area_square_m":16645449.890759,
     "geom:bbox":"-8.3932445878,40.1830630296,-8.32290770396,40.2387818475",
     "geom:latitude":40.208722,
     "geom:longitude":-8.36087,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Torres do Mondego",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060329",
+        "eurostat:nuts_2021_id":"060329",
         "pt-dgt:id":"060329"
     },
     "wof:country":"PT",
     "wof:created":1576698531,
-    "wof:geomhash":"31158d014bd665b4546efc4c228f876c",
+    "wof:geomhash":"68a44e9b21561159d79ff95c59eb2ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712600,
+    "wof:lastmodified":1684354560,
     "wof:name":"Torres do Mondego",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2402,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bordonhos",
+    "eurostat:nuts_2021_id":"181602",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181602",
+    "eurostat:population":547,
+    "eurostat:population_year":2020,
     "geom:area":0.000635,
+    "geom:area_square_m":5943561.324614,
     "geom:bbox":"-8.11934705868,40.7620155576,-8.06771823935,40.7833147191",
     "geom:latitude":40.77315,
     "geom:longitude":-8.093479,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bordonhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181602",
+        "eurostat:nuts_2021_id":"181602",
         "pt-dgt:id":"181602"
     },
     "wof:country":"PT",
     "wof:created":1576698843,
-    "wof:geomhash":"83a1b0f13a3f3ab336c701e6007460b2",
+    "wof:geomhash":"cf5acbdaf09dda807a69809a328483fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712655,
+    "wof:lastmodified":1684354606,
     "wof:name":"Bordonhos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":547,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

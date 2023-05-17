@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio de Mouro",
+    "eurostat:nuts_2021_id":"111108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111108",
+    "eurostat:population":47311,
+    "eurostat:population_year":2020,
     "geom:area":0.001709,
+    "geom:area_square_m":16477796.264072,
     "geom:bbox":"-9.35956885595,38.7407449338,-9.30589078975,38.7970428593",
     "geom:latitude":38.76656,
     "geom:longitude":-9.329811,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio de Mouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111108",
+        "eurostat:nuts_2021_id":"111108",
         "pt-dgt:id":"111108"
     },
     "wof:country":"PT",
     "wof:created":1576698191,
-    "wof:geomhash":"c800fe94b50babce3de18d9b62ade276",
+    "wof:geomhash":"7af23fae6efa51cfdb8172ac36d91a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354492,
     "wof:name":"Rio de Mouro",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":47311,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

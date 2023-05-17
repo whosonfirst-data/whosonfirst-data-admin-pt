@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arnas",
+    "eurostat:nuts_2021_id":"181801",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181801",
+    "eurostat:population":220,
+    "eurostat:population_year":2020,
     "geom:area":0.00227,
+    "geom:area_square_m":21226414.853255,
     "geom:bbox":"-7.46310213568,40.8456842769,-7.37420922961,40.9073014982",
     "geom:latitude":40.874235,
     "geom:longitude":-7.427789,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arnas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181801",
+        "eurostat:nuts_2021_id":"181801",
         "pt-dgt:id":"181801"
     },
     "wof:country":"PT",
     "wof:created":1576698423,
-    "wof:geomhash":"71031691f8c726d7bdf4bd0a36edfc63",
+    "wof:geomhash":"c720917c70e33aba418131074b5cf099",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712566,
+    "wof:lastmodified":1684354537,
     "wof:name":"Arnas",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":220,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

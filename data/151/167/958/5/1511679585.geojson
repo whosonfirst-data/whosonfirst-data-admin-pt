@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landeira",
+    "eurostat:nuts_2021_id":"071202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071202",
+    "eurostat:population":723,
+    "eurostat:population_year":2020,
     "geom:area":0.006687,
+    "geom:area_square_m":64624945.106962,
     "geom:bbox":"-8.65846794011,38.5421163019,-8.54984379093,38.6458858197",
     "geom:latitude":38.595686,
     "geom:longitude":-8.606644,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Landeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071202",
+        "eurostat:nuts_2021_id":"071202",
         "pt-dgt:id":"071202"
     },
     "wof:country":"PT",
     "wof:created":1576698159,
-    "wof:geomhash":"3188ec142b38b81e0e20ed755f56754a",
+    "wof:geomhash":"0111f9e2add754223c4e2bf944257750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712488,
+    "wof:lastmodified":1684354489,
     "wof:name":"Landeira",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":723,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

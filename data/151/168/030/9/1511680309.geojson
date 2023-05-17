@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arez e Amieira do Tejo",
+    "eurostat:nuts_2021_id":"121211",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121211",
+    "eurostat:population":497,
+    "eurostat:population_year":2020,
     "geom:area":0.016565,
+    "geom:area_square_m":158085367.787446,
     "geom:bbox":"-7.88292679982,39.4106524539,-7.68042329462,39.5555092703",
     "geom:latitude":39.483483,
     "geom:longitude":-7.771759,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Arez e Amieira do Tejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121211",
+        "eurostat:nuts_2021_id":"121211",
         "pt-dgt:id":"121211"
     },
     "wof:country":"PT",
     "wof:created":1576698342,
-    "wof:geomhash":"c3aa9dded8df3c3af1c326e8fc81c36e",
+    "wof:geomhash":"92d40a4d2be49fb6dc28473f6550dafa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712540,
+    "wof:lastmodified":1684354521,
     "wof:name":"Arez e Amieira do Tejo",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":497,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

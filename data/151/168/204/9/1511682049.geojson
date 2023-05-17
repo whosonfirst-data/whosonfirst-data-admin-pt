@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia Vi\u00e7osa",
+    "eurostat:nuts_2021_id":"090704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090704",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.000791,
+    "geom:area_square_m":7430031.357406,
     "geom:bbox":"-7.34455840543,40.5652440086,-7.30140841857,40.5974783926",
     "geom:latitude":40.580828,
     "geom:longitude":-7.319842,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aldeia Vi\u00e7osa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090704",
+        "eurostat:nuts_2021_id":"090704",
         "pt-dgt:id":"090704"
     },
     "wof:country":"PT",
     "wof:created":1576698718,
-    "wof:geomhash":"4a5cfd0a25550b824cefd49dfa2367df",
+    "wof:geomhash":"d8f61c16c3b594b8374980e8d80ba93f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712635,
+    "wof:lastmodified":1684354588,
     "wof:name":"Aldeia Vi\u00e7osa",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

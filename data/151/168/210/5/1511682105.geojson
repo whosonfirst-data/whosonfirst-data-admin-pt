@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Azares",
+    "eurostat:nuts_2021_id":"090318",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090318",
+    "eurostat:population":400,
+    "eurostat:population_year":2020,
     "geom:area":0.000963,
+    "geom:area_square_m":9043280.021835,
     "geom:bbox":"-7.39268685831,40.5873420067,-7.33573159107,40.6225003499",
     "geom:latitude":40.600665,
     "geom:longitude":-7.365551,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale de Azares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090318",
+        "eurostat:nuts_2021_id":"090318",
         "pt-dgt:id":"090318"
     },
     "wof:country":"PT",
     "wof:created":1576698729,
-    "wof:geomhash":"db3ee3c8dcdd6a068abd7cd858c1eb29",
+    "wof:geomhash":"cc0d7da61c1ae61c3ff497c5264d5b83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712637,
+    "wof:lastmodified":1684354590,
     "wof:name":"Vale de Azares",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":400,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180721",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paradinha e Nagosa",
+    "eurostat:nuts_2021_id":"180721",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180721",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.001295,
+    "geom:area_square_m":12078741.604716,
     "geom:bbox":"-7.62004104072,40.9945103786,-7.56824961737,41.0527082442",
     "geom:latitude":41.023964,
     "geom:longitude":-7.598766,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Paradinha e Nagosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180721",
+        "eurostat:nuts_2021_id":"180721",
         "pt-dgt:id":"180721"
     },
     "wof:country":"PT",
     "wof:created":1576698888,
-    "wof:geomhash":"250907d11095d877b8decca1596e753e",
+    "wof:geomhash":"2cd87d8a9fee8614ebea958a0d81f79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712665,
+    "wof:lastmodified":1684354615,
     "wof:name":"Paradinha e Nagosa",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

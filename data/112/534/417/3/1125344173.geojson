@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cunheira",
+    "eurostat:nuts_2021_id":"120104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120104",
+    "eurostat:population":389,
+    "eurostat:population_year":2020,
     "geom:area":0.003872,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":37047936.829737,
     "geom:bbox":"-7.84348305692,39.2747629109,-7.71414693247,39.3310866993",
     "geom:latitude":39.297946,
     "geom:longitude":-7.783894,
@@ -49,7 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120104",
+        "eurostat:nuts_2021_id":"120104",
         "gn:id":6930681,
         "pt-dgt:id":120104,
         "qs_pg:id":652905
@@ -66,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be7e9fb6cf6a68caae0296a07a54ab57",
+    "wof:geomhash":"5c9f79d4ed57e5891c056a7957323fae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1125344173,
-    "wof:lastmodified":1582359913,
+    "wof:lastmodified":1684354445,
     "wof:name":"Cunheira",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
-    "wof:population":457,
+    "wof:population":389,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

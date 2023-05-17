@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141634",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Vicente do Paul e Vale de Figueira",
+    "eurostat:nuts_2021_id":"141634",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141634",
+    "eurostat:population":2917,
+    "eurostat:population_year":2020,
     "geom:area":0.007503,
+    "geom:area_square_m":71759044.237367,
     "geom:bbox":"-8.6787693363,39.2657992647,-8.56652820336,39.3831108169",
     "geom:latitude":39.334286,
     "geom:longitude":-8.621051,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Vicente do Paul e Vale de Figueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141634",
+        "eurostat:nuts_2021_id":"141634",
         "pt-dgt:id":"141634"
     },
     "wof:country":"PT",
     "wof:created":1576698056,
-    "wof:geomhash":"ae4582e08dab98146cb436bbd4c00e0e",
+    "wof:geomhash":"8d7926f54b6a2d74bcdf9f7c70573880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712465,
+    "wof:lastmodified":1684354474,
     "wof:name":"S\u00e3o Vicente do Paul e Vale de Figueira",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2917,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

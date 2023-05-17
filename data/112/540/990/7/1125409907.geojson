@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ajuda",
+    "eurostat:nuts_2021_id":"110601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110601",
+    "eurostat:population":15617,
+    "eurostat:population_year":2020,
     "geom:area":0.000298,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2874003.39628,
     "geom:bbox":"-9.21008430294,38.7004206257,-9.18613200475,38.7247692569",
     "geom:latitude":38.712174,
     "geom:longitude":-9.198653,
@@ -79,6 +91,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110601",
+        "eurostat:nuts_2021_id":"110601",
         "gn:id":8012460,
         "pt-dgt:id":110601,
         "qs_pg:id":1155630
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9e07f7bd4e226b0bc1e1de86cad563e9",
+    "wof:geomhash":"95fc7a27f389549a0daa9cd9c62b437a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":1125409907,
-    "wof:lastmodified":1582359926,
+    "wof:lastmodified":1684354450,
     "wof:name":"Ajuda",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":15617,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

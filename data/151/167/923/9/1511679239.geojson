@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160745",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seara",
+    "eurostat:nuts_2021_id":"160745",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160745",
+    "eurostat:population":714,
+    "eurostat:population_year":2020,
     "geom:area":0.000393,
+    "geom:area_square_m":3629532.673374,
     "geom:bbox":"-8.63271538322,41.7254699003,-8.59321239741,41.7415507631",
     "geom:latitude":41.732467,
     "geom:longitude":-8.613277,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Seara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160745",
+        "eurostat:nuts_2021_id":"160745",
         "pt-dgt:id":"160745"
     },
     "wof:country":"PT",
     "wof:created":1576698083,
-    "wof:geomhash":"d7bb62273f92b1f99f54f984a384714d",
+    "wof:geomhash":"05670f517ec3763e498a40f4d6300897",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712469,
+    "wof:lastmodified":1684354477,
     "wof:name":"Seara",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":714,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

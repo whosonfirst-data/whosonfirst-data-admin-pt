@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120715",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terrugem e Vila Boim",
+    "eurostat:nuts_2021_id":"120715",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120715",
+    "eurostat:population":2475,
+    "eurostat:population_year":2020,
     "geom:area":0.010191,
+    "geom:area_square_m":98139428.610599,
     "geom:bbox":"-7.42429227732,38.7978524877,-7.25693370974,38.8974244501",
     "geom:latitude":38.850765,
     "geom:longitude":-7.341554,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Terrugem e Vila Boim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120715",
+        "eurostat:nuts_2021_id":"120715",
         "pt-dgt:id":"120715"
     },
     "wof:country":"PT",
     "wof:created":1576698207,
-    "wof:geomhash":"e0c481a42d671674d821fd7b01709a36",
+    "wof:geomhash":"bc0832c5b23e4e73061f61a976ecc450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712499,
+    "wof:lastmodified":1684354495,
     "wof:name":"Terrugem e Vila Boim",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":2475,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

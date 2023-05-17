@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lajes das Flores",
+    "eurostat:nuts_2021_id":"480105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480105",
+    "eurostat:population":627,
+    "eurostat:population_year":2020,
     "geom:area":0.001965,
+    "geom:area_square_m":18773481.299483,
     "geom:bbox":"-31.2301269578,39.3711575228,-31.1681100954,39.4360828797",
     "geom:latitude":39.394272,
     "geom:longitude":-31.205844,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Lajes das Flores",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480105",
+        "eurostat:nuts_2021_id":"480105",
         "pt-dgt:id":"480105"
     },
     "wof:country":"PT",
     "wof:created":1576699443,
-    "wof:geomhash":"7a634014dca516c42a43f2efc6f9372f",
+    "wof:geomhash":"1f8a09a4bc4694e33de36797d1f24de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720315,
+    "wof:lastmodified":1684354717,
     "wof:name":"Lajes das Flores",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":627,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

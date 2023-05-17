@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabe\u00e7udo",
+    "eurostat:nuts_2021_id":"050901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"050901",
+    "eurostat:population":957,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
+    "geom:area_square_m":10383963.202903,
     "geom:bbox":"-8.16498503204,39.8062533587,-8.11788879645,39.8511161336",
     "geom:latitude":39.828618,
     "geom:longitude":-8.141081,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabe\u00e7udo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050901",
+        "eurostat:nuts_2021_id":"050901",
         "pt-dgt:id":"050901"
     },
     "wof:country":"PT",
     "wof:created":1576698441,
-    "wof:geomhash":"023669a45ef83d39641a5d97459376e7",
+    "wof:geomhash":"7c8a6f2a8c37affa65455a67bb496948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712573,
+    "wof:lastmodified":1684354541,
     "wof:name":"Cabe\u00e7udo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":957,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

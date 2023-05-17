@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sendim",
+    "eurostat:nuts_2021_id":"181913",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181913",
+    "eurostat:population":705,
+    "eurostat:population_year":2020,
     "geom:area":0.002277,
+    "geom:area_square_m":21235940.664837,
     "geom:bbox":"-7.56525109426,41.0057013442,-7.50210010577,41.0658067107",
     "geom:latitude":41.037627,
     "geom:longitude":-7.533978,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sendim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181913",
+        "eurostat:nuts_2021_id":"181913",
         "pt-dgt:id":"181913"
     },
     "wof:country":"PT",
     "wof:created":1576698894,
-    "wof:geomhash":"d8a7ff8a0caddf5648c315667d9f09fe",
+    "wof:geomhash":"20d33ecfdedcd933c7be083bf571640c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712666,
+    "wof:lastmodified":1684354616,
     "wof:name":"Sendim",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":705,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

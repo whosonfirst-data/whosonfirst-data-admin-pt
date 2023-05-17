@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141629",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Achete, Azoia de Baixo e P\u00f3voa de Santar\u00e9m",
+    "eurostat:nuts_2021_id":"141629",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141629",
+    "eurostat:population":2923,
+    "eurostat:population_year":2020,
     "geom:area":0.004623,
+    "geom:area_square_m":44220959.878805,
     "geom:bbox":"-8.73030112003,39.2767265915,-8.65174146892,39.382516128",
     "geom:latitude":39.329094,
     "geom:longitude":-8.692684,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Achete, Azoia de Baixo e P\u00f3voa de Santar\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141629",
+        "eurostat:nuts_2021_id":"141629",
         "pt-dgt:id":"141629"
     },
     "wof:country":"PT",
     "wof:created":1576698056,
-    "wof:geomhash":"0324c468705b44e93008c176e1fbe8bb",
+    "wof:geomhash":"583aeb1d95a023987579003a04fd0676",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712464,
+    "wof:lastmodified":1684354474,
     "wof:name":"Achete, Azoia de Baixo e P\u00f3voa de Santar\u00e9m",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2923,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111414",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castanheira do Ribatejo e Cachoeiras",
+    "eurostat:nuts_2021_id":"111414",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111414",
+    "eurostat:population":8266,
+    "eurostat:population_year":2020,
     "geom:area":0.002784,
+    "geom:area_square_m":26757144.022007,
     "geom:bbox":"-9.0388676476,38.9657503081,-8.94042857064,39.0171574031",
     "geom:latitude":38.994585,
     "geom:longitude":-8.986024,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Castanheira do Ribatejo e Cachoeiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111414",
+        "eurostat:nuts_2021_id":"111414",
         "pt-dgt:id":"111414"
     },
     "wof:country":"PT",
     "wof:created":1576698228,
-    "wof:geomhash":"97b9410adde9266cb7f9ddd2034559a0",
+    "wof:geomhash":"30325f00ac41c2e8aa4f1eebc4500ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712506,
+    "wof:lastmodified":1684354499,
     "wof:name":"Castanheira do Ribatejo e Cachoeiras",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":8266,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

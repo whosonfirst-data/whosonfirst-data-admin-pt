@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estreito da Calheta",
+    "eurostat:nuts_2021_id":"310103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310103",
+    "eurostat:population":1607,
+    "eurostat:population_year":2020,
     "geom:area":0.001378,
+    "geom:area_square_m":14327457.966572,
     "geom:bbox":"-17.2005688296,32.7231905121,-17.147115778,32.7892761826",
     "geom:latitude":32.756769,
     "geom:longitude":-17.175953,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Estreito da Calheta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310103",
+        "eurostat:nuts_2021_id":"310103",
         "pt-dgt:id":"310103"
     },
     "wof:country":"PT",
     "wof:created":1576699449,
-    "wof:geomhash":"08855c0756e53b912dbcf247bfd30465",
+    "wof:geomhash":"b769bfcf7c695e6dfa691c0b4ba4ab6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720293,
+    "wof:lastmodified":1684354719,
     "wof:name":"Estreito da Calheta",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":1607,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

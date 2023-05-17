@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Mau",
+    "eurostat:nuts_2021_id":"131138",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131138",
+    "eurostat:population":1407,
+    "eurostat:population_year":2020,
     "geom:area":0.000657,
+    "geom:area_square_m":6125523.923925,
     "geom:bbox":"-8.38030569281,41.0448068607,-8.3461900191,41.0825399408",
     "geom:latitude":41.062048,
     "geom:longitude":-8.361816,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio Mau",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131138",
+        "eurostat:nuts_2021_id":"131138",
         "pt-dgt:id":"131138"
     },
     "wof:country":"PT",
     "wof:created":1576698905,
-    "wof:geomhash":"69386af0a97d63afe8262ba84b392e50",
+    "wof:geomhash":"cd2732fbd0cfb0a51cdeacfa762a239f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712668,
+    "wof:lastmodified":1684354618,
     "wof:name":"Rio Mau",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1407,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

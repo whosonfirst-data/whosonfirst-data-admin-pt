@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050336",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peso e Vales do Rio",
+    "eurostat:nuts_2021_id":"050336",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050336",
+    "eurostat:population":1411,
+    "eurostat:population_year":2020,
     "geom:area":0.001681,
+    "geom:area_square_m":15872317.900189,
     "geom:bbox":"-7.59856705226,40.1861894009,-7.53480754446,40.2292436806",
     "geom:latitude":40.209371,
     "geom:longitude":-7.562489,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Peso e Vales do Rio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050336",
+        "eurostat:nuts_2021_id":"050336",
         "pt-dgt:id":"050336"
     },
     "wof:country":"PT",
     "wof:created":1576698530,
-    "wof:geomhash":"8d77d1d49d536a7812d37573a61c88eb",
+    "wof:geomhash":"14cbcef06e2c0d5788f4333e688ea6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712600,
+    "wof:lastmodified":1684354559,
     "wof:name":"Peso e Vales do Rio",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1411,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

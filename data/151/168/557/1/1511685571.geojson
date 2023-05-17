@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faial",
+    "eurostat:nuts_2021_id":"310902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310902",
+    "eurostat:population":1567,
+    "eurostat:population_year":2020,
     "geom:area":0.00231,
+    "geom:area_square_m":24023769.744944,
     "geom:bbox":"-16.9436269134,32.7413759319,-16.8399169312,32.8078041193",
     "geom:latitude":32.765906,
     "geom:longitude":-16.88927,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Faial",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310902",
+        "eurostat:nuts_2021_id":"310902",
         "pt-dgt:id":"310902"
     },
     "wof:country":"PT",
     "wof:created":1576699480,
-    "wof:geomhash":"8b99f8931fe6c9cb7f6b53731524c72c",
+    "wof:geomhash":"fd3aafa7e1f3bbd0af77313c593f4637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720295,
+    "wof:lastmodified":1684354735,
     "wof:name":"Faial",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":1567,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

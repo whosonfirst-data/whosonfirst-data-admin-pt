@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Douro",
+    "eurostat:nuts_2021_id":"030415",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030415",
+    "eurostat:population":942,
+    "eurostat:population_year":2020,
     "geom:area":0.004653,
+    "geom:area_square_m":43055743.452107,
     "geom:bbox":"-7.98075924022,41.5190797358,-7.89777824314,41.596095876",
     "geom:latitude":41.557427,
     "geom:longitude":-7.940727,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio Douro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030415",
+        "eurostat:nuts_2021_id":"030415",
         "pt-dgt:id":"030415"
     },
     "wof:country":"PT",
     "wof:created":1576699249,
-    "wof:geomhash":"8dc128a64bac0e485fa781a0d66807e6",
+    "wof:geomhash":"d90208b15c22c99ad52ba935c3c36408",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712726,
+    "wof:lastmodified":1684354680,
     "wof:name":"Rio Douro",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":942,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

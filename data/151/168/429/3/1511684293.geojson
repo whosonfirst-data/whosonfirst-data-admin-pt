@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030259",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pereira",
+    "eurostat:nuts_2021_id":"030259",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030259",
+    "eurostat:population":1318,
+    "eurostat:population_year":2020,
     "geom:area":0.000415,
+    "geom:area_square_m":3842792.228928,
     "geom:bbox":"-8.64641822551,41.4771674209,-8.61853670431,41.4998487339",
     "geom:latitude":41.488905,
     "geom:longitude":-8.633805,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pereira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030259",
+        "eurostat:nuts_2021_id":"030259",
         "pt-dgt:id":"030259"
     },
     "wof:country":"PT",
     "wof:created":1576699191,
-    "wof:geomhash":"6fd783dede8d0cbc2216be5558aab59e",
+    "wof:geomhash":"eb97ad514cc0d821f88a31d26a9ab94c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354674,
     "wof:name":"Pereira",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1318,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

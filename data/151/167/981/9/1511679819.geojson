@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santana do Mato",
+    "eurostat:nuts_2021_id":"140908",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140908",
+    "eurostat:population":1148,
+    "eurostat:population_year":2020,
     "geom:area":0.010695,
+    "geom:area_square_m":102983171.456748,
     "geom:bbox":"-8.52026417003,38.7902391408,-8.30574043806,38.9167310108",
     "geom:latitude":38.856197,
     "geom:longitude":-8.412243,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santana do Mato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140908",
+        "eurostat:nuts_2021_id":"140908",
         "pt-dgt:id":"140908"
     },
     "wof:country":"PT",
     "wof:created":1576698209,
-    "wof:geomhash":"9021fdf87f12deff90468b0b0c0f8008",
+    "wof:geomhash":"e5db342ff73c0b457d39ccee71d7556a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712500,
+    "wof:lastmodified":1684354496,
     "wof:name":"Santana do Mato",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1148,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

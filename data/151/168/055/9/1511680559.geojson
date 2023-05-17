@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pataias e Martingan\u00e7a",
+    "eurostat:nuts_2021_id":"100123",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100123",
+    "eurostat:population":6591,
+    "eurostat:population_year":2020,
     "geom:area":0.009141,
+    "geom:area_square_m":86992162.872674,
     "geom:bbox":"-9.07312633777,39.6351534956,-8.90967228839,39.7414230185",
     "geom:latitude":39.679552,
     "geom:longitude":-9.002053,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Pataias e Martingan\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100123",
+        "eurostat:nuts_2021_id":"100123",
         "pt-dgt:id":"100123"
     },
     "wof:country":"PT",
     "wof:created":1576698402,
-    "wof:geomhash":"bb84d2b79c2cbad374cff6d3a97561af",
+    "wof:geomhash":"699835ad2aa9a6b1aa5d49ffdfa33c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712560,
+    "wof:lastmodified":1684354533,
     "wof:name":"Pataias e Martingan\u00e7a",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":6591,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

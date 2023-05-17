@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silves",
+    "eurostat:nuts_2021_id":"081307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081307",
+    "eurostat:population":11014,
+    "eurostat:population_year":2020,
     "geom:area":0.017765,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":174927620.600557,
     "geom:bbox":"-8.53545764791,37.1426459514,-8.34814893823,37.3056672341",
     "geom:latitude":37.220814,
     "geom:longitude":-8.433595,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081307",
+        "eurostat:nuts_2021_id":"081307",
         "gn:id":8012027,
         "pt-dgt:id":81307,
         "qs_pg:id":904358
@@ -134,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d60bef194dc34daebe65c6991064beb7",
+    "wof:geomhash":"50db6ca36fe3418f2c92f8e21c72ecd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":1125270143,
-    "wof:lastmodified":1582359916,
+    "wof:lastmodified":1684354443,
     "wof:name":"Silves",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":11014,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

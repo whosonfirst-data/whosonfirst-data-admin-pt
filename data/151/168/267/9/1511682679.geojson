@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pindelo dos Milagres",
+    "eurostat:nuts_2021_id":"181608",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181608",
+    "eurostat:population":659,
+    "eurostat:population_year":2020,
     "geom:area":0.00255,
+    "geom:area_square_m":23868885.08582,
     "geom:bbox":"-8.00804509768,40.76172316,-7.92751256412,40.8212128432",
     "geom:latitude":40.79565,
     "geom:longitude":-7.965296,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pindelo dos Milagres",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181608",
+        "eurostat:nuts_2021_id":"181608",
         "pt-dgt:id":"181608"
     },
     "wof:country":"PT",
     "wof:created":1576698854,
-    "wof:geomhash":"a4c1722da1a1749fbdfe04bb325cd738",
+    "wof:geomhash":"369d87788aaf945bff75fe11232e15e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712657,
+    "wof:lastmodified":1684354608,
     "wof:name":"Pindelo dos Milagres",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":659,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

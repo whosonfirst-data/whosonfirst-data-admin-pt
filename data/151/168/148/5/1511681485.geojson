@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carapelhos",
+    "eurostat:nuts_2021_id":"060803",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060803",
+    "eurostat:population":717,
+    "eurostat:population_year":2020,
     "geom:area":0.000465,
+    "geom:area_square_m":4376157.72052,
     "geom:bbox":"-8.70733074985,40.4237423166,-8.6819745455,40.4514360892",
     "geom:latitude":40.437097,
     "geom:longitude":-8.69454,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carapelhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060803",
+        "eurostat:nuts_2021_id":"060803",
         "pt-dgt:id":"060803"
     },
     "wof:country":"PT",
     "wof:created":1576698605,
-    "wof:geomhash":"6165c4461b9f2838795a7744ebca96bb",
+    "wof:geomhash":"20af5eb8badccdc8cec12deb33fb6bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712615,
+    "wof:lastmodified":1684354570,
     "wof:name":"Carapelhos",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":717,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

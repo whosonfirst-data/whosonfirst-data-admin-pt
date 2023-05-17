@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aguada de Cima",
+    "eurostat:nuts_2021_id":"010103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010103",
+    "eurostat:population":4013,
+    "eurostat:population_year":2020,
     "geom:area":0.003017,
+    "geom:area_square_m":28361189.040037,
     "geom:bbox":"-8.45323936774,40.4998541342,-8.34684768591,40.5538006949",
     "geom:latitude":40.524112,
     "geom:longitude":-8.40898,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aguada de Cima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010103",
+        "eurostat:nuts_2021_id":"010103",
         "pt-dgt:id":"010103"
     },
     "wof:country":"PT",
     "wof:created":1576698701,
-    "wof:geomhash":"f1bb80fd669c15f2733fbc896c8b6762",
+    "wof:geomhash":"5402c2eb09770f46cfbf8fd2231c22bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712633,
+    "wof:lastmodified":1684354586,
     "wof:name":"Aguada de Cima",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":4013,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

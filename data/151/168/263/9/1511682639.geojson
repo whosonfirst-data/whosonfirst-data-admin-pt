@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bedu\u00eddo e Veiros",
+    "eurostat:nuts_2021_id":"010808",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010808",
+    "eurostat:population":10047,
+    "eurostat:population_year":2020,
     "geom:area":0.003396,
+    "geom:area_square_m":31804280.935379,
     "geom:bbox":"-8.63034614897,40.7236335533,-8.51589015193,40.7883344649",
     "geom:latitude":40.761086,
     "geom:longitude":-8.579543,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Bedu\u00eddo e Veiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010808",
+        "eurostat:nuts_2021_id":"010808",
         "pt-dgt:id":"010808"
     },
     "wof:country":"PT",
     "wof:created":1576698845,
-    "wof:geomhash":"cc76058194393ea5b25cb6fca03bd8cc",
+    "wof:geomhash":"0c0bd012c3158746bd6fd3ecbf917b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712656,
+    "wof:lastmodified":1684354607,
     "wof:name":"Bedu\u00eddo e Veiros",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":10047,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabanelas",
+    "eurostat:nuts_2021_id":"040709",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040709",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.002013,
+    "geom:area_square_m":18628637.285097,
     "geom:bbox":"-7.24040080988,41.5066170073,-7.19016832211,41.5942396598",
     "geom:latitude":41.549548,
     "geom:longitude":-7.215108,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabanelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040709",
+        "eurostat:nuts_2021_id":"040709",
         "pt-dgt:id":"040709"
     },
     "wof:country":"PT",
     "wof:created":1576699250,
-    "wof:geomhash":"0396f4f362363719e78ec22f2ad49aa1",
+    "wof:geomhash":"72170150bcaa1f75980f60ae25326cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712727,
+    "wof:lastmodified":1684354680,
     "wof:name":"Cabanelas",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

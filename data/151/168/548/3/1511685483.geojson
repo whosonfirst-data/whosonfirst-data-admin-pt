@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Prazeres",
+    "eurostat:nuts_2021_id":"310108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310108",
+    "eurostat:population":704,
+    "eurostat:population_year":2020,
     "geom:area":0.000965,
+    "geom:area_square_m":10029328.405189,
     "geom:bbox":"-17.2211879896,32.7314618582,-17.1610596576,32.7887979811",
     "geom:latitude":32.762406,
     "geom:longitude":-17.194135,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Prazeres",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310108",
+        "eurostat:nuts_2021_id":"310108",
         "pt-dgt:id":"310108"
     },
     "wof:country":"PT",
     "wof:created":1576699448,
-    "wof:geomhash":"e28dd1431513e707829f238b78b6c36f",
+    "wof:geomhash":"531fca3289382e05a92506342a1fa73d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720317,
+    "wof:lastmodified":1684354719,
     "wof:name":"Prazeres",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":704,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

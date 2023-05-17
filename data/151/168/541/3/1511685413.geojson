@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nordeste",
+    "eurostat:nuts_2021_id":"420204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420204",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.002367,
+    "geom:area_square_m":23125965.194749,
     "geom:bbox":"-25.2108239862,37.7736617748,-25.134132238,37.8453023855",
     "geom:latitude":37.802594,
     "geom:longitude":-25.1616,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Nordeste",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420204",
+        "eurostat:nuts_2021_id":"420204",
         "pt-dgt:id":"420204"
     },
     "wof:country":"PT",
     "wof:created":1576699431,
-    "wof:geomhash":"3c01fa783448c7a95c471292f176667f",
+    "wof:geomhash":"c7087a11e42310facde9e7f87e908b86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720326,
+    "wof:lastmodified":1684354712,
     "wof:name":"Nordeste",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

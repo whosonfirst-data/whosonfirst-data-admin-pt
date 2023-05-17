@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atouguia da Baleia",
+    "eurostat:nuts_2021_id":"101402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101402",
+    "eurostat:population":8954,
+    "eurostat:population_year":2020,
     "geom:area":0.004911,
+    "geom:area_square_m":46972845.959121,
     "geom:bbox":"-9.36594506547,39.2834587351,-9.26892565164,39.3664489451",
     "geom:latitude":39.325858,
     "geom:longitude":-9.317393,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Atouguia da Baleia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101402",
+        "eurostat:nuts_2021_id":"101402",
         "pt-dgt:id":"101402"
     },
     "wof:country":"PT",
     "wof:created":1576698054,
-    "wof:geomhash":"fcb6c983e6d26bba4ddf44e8a025c4dd",
+    "wof:geomhash":"ce32e65347e6381419b353e394a80d64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712464,
+    "wof:lastmodified":1684354474,
     "wof:name":"Atouguia da Baleia",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":8954,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canaveses",
+    "eurostat:nuts_2021_id":"171206",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171206",
+    "eurostat:population":237,
+    "eurostat:population_year":2020,
     "geom:area":0.001388,
+    "geom:area_square_m":12853562.194226,
     "geom:bbox":"-7.40194403912,41.4891494161,-7.3432539356,41.5326547942",
     "geom:latitude":41.508671,
     "geom:longitude":-7.373028,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Canaveses",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171206",
+        "eurostat:nuts_2021_id":"171206",
         "pt-dgt:id":"171206"
     },
     "wof:country":"PT",
     "wof:created":1576699221,
-    "wof:geomhash":"473af99c48d8c916ab29a4f5f09d585d",
+    "wof:geomhash":"41ab0921942c8bbe7bafc2317c60f46b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354677,
     "wof:name":"Canaveses",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":237,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

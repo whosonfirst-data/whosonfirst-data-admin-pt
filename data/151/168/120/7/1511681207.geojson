@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Liceia",
+    "eurostat:nuts_2021_id":"061005",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061005",
+    "eurostat:population":1254,
+    "eurostat:population_year":2020,
     "geom:area":0.001343,
+    "geom:area_square_m":12676354.450752,
     "geom:bbox":"-8.74124602525,40.2192332003,-8.69988238851,40.2904459316",
     "geom:latitude":40.252745,
     "geom:longitude":-8.720318,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Liceia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061005",
+        "eurostat:nuts_2021_id":"061005",
         "pt-dgt:id":"061005"
     },
     "wof:country":"PT",
     "wof:created":1576698549,
-    "wof:geomhash":"38eb258b977844270bf39fbe266dace8",
+    "wof:geomhash":"822a2b4c797ed55c5d25bfba5cfea336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712604,
+    "wof:lastmodified":1684354562,
     "wof:name":"Liceia",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1254,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

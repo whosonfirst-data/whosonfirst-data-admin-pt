@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Facaia",
+    "eurostat:nuts_2021_id":"101303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101303",
+    "eurostat:population":579,
+    "eurostat:population_year":2020,
     "geom:area":0.001797,
+    "geom:area_square_m":17041300.128897,
     "geom:bbox":"-8.2556301311,39.9043229502,-8.18593375376,39.9587146146",
     "geom:latitude":39.938092,
     "geom:longitude":-8.216916,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Facaia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101303",
+        "eurostat:nuts_2021_id":"101303",
         "pt-dgt:id":"101303"
     },
     "wof:country":"PT",
     "wof:created":1576698461,
-    "wof:geomhash":"a0bd6346461debb2c95b430507901bb4",
+    "wof:geomhash":"04d28599f9a4a0232c98906422a89f35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712579,
+    "wof:lastmodified":1684354546,
     "wof:name":"Vila Facaia",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":579,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

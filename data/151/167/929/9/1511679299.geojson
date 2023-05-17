@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170632",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tour\u00e9m",
+    "eurostat:nuts_2021_id":"170632",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170632",
+    "eurostat:population":151,
+    "eurostat:population_year":2020,
     "geom:area":0.001848,
+    "geom:area_square_m":17009383.038513,
     "geom:bbox":"-7.92130457925,41.8588215934,-7.88371890355,41.9270957495",
     "geom:latitude":41.892713,
     "geom:longitude":-7.900387,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tour\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170632",
+        "eurostat:nuts_2021_id":"170632",
         "pt-dgt:id":"170632"
     },
     "wof:country":"PT",
     "wof:created":1576698095,
-    "wof:geomhash":"6ae68a4643d0c213c389b5a2b1167646",
+    "wof:geomhash":"419a1ff50c2d1ec9b77321e4a7ab7e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Tour\u00e9m",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":151,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

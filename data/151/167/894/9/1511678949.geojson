@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mexilhoeira Grande",
+    "eurostat:nuts_2021_id":"081102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081102",
+    "eurostat:population":4029,
+    "eurostat:population_year":2020,
     "geom:area":0.009252,
+    "geom:area_square_m":91116283.904313,
     "geom:bbox":"-8.6846649332,37.1278772517,-8.56774967325,37.2799168516",
     "geom:latitude":37.20639,
     "geom:longitude":-8.61777,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mexilhoeira Grande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081102",
+        "eurostat:nuts_2021_id":"081102",
         "pt-dgt:id":"081102"
     },
     "wof:country":"PT",
     "wof:created":1576698000,
-    "wof:geomhash":"b0b40f7b8dea3c1de5750486b28f6067",
+    "wof:geomhash":"6be6df3746b0930ae6efda7ce47baf57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712440,
+    "wof:lastmodified":1684354459,
     "wof:name":"Mexilhoeira Grande",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":4029,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

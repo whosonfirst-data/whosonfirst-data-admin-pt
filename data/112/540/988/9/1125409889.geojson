@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Escariz",
+    "eurostat:nuts_2021_id":"010409",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010409",
+    "eurostat:population":2222,
+    "eurostat:population_year":2020,
     "geom:area":0.001923,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":17962652.491153,
     "geom:bbox":"-8.43255087111,40.9016125793,-8.33782891281,40.9708965541",
     "geom:latitude":40.941227,
     "geom:longitude":-8.388723,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010409",
+        "eurostat:nuts_2021_id":"010409",
         "gn:id":8010734,
         "pt-dgt:id":10409,
         "qs_pg:id":1155617
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"e5d092d474112633e12893c7e2c7f9c4",
+    "wof:geomhash":"72ef9a3b9afbc304b55372e6a015ba51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125409889,
-    "wof:lastmodified":1582359928,
+    "wof:lastmodified":1684354450,
     "wof:name":"Escariz",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2222,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

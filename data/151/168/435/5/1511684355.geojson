@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carvalhal",
+    "eurostat:nuts_2021_id":"030220",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030220",
+    "eurostat:population":1391,
+    "eurostat:population_year":2020,
     "geom:area":0.000278,
+    "geom:area_square_m":2576235.402125,
     "geom:bbox":"-8.64564400101,41.4973214499,-8.62727786257,41.518179541",
     "geom:latitude":41.508142,
     "geom:longitude":-8.636724,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carvalhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030220",
+        "eurostat:nuts_2021_id":"030220",
         "pt-dgt:id":"030220"
     },
     "wof:country":"PT",
     "wof:created":1576699208,
-    "wof:geomhash":"f68fa4f494250e331dc47b5fc890181e",
+    "wof:geomhash":"98ccb040d197566471037e8ac7891064",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354676,
     "wof:name":"Carvalhal",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1391,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

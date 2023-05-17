@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago de Montalegre",
+    "eurostat:nuts_2021_id":"141702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141702",
+    "eurostat:population":229,
+    "eurostat:population_year":2020,
     "geom:area":0.001782,
+    "geom:area_square_m":16980857.757329,
     "geom:bbox":"-8.189071384,39.562860797,-8.13913489292,39.6266039737",
     "geom:latitude":39.592623,
     "geom:longitude":-8.161875,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santiago de Montalegre",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141702",
+        "eurostat:nuts_2021_id":"141702",
         "pt-dgt:id":"141702"
     },
     "wof:country":"PT",
     "wof:created":1576698373,
-    "wof:geomhash":"f6e28237bf532d33fc084cdb7444e502",
+    "wof:geomhash":"1635014adbf09caad0d1355f20b80285",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712549,
+    "wof:lastmodified":1684354526,
     "wof:name":"Santiago de Montalegre",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":229,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

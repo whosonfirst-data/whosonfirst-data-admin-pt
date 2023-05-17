@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondoriz",
+    "eurostat:nuts_2021_id":"160115",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160115",
+    "eurostat:population":958,
+    "eurostat:population_year":2020,
     "geom:area":0.003686,
+    "geom:area_square_m":33922849.321401,
     "geom:bbox":"-8.43362585776,41.8732966423,-8.29185588553,41.9359178619",
     "geom:latitude":41.909175,
     "geom:longitude":-8.36956,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gondoriz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160115",
+        "eurostat:nuts_2021_id":"160115",
         "pt-dgt:id":"160115"
     },
     "wof:country":"PT",
     "wof:created":1576698097,
-    "wof:geomhash":"22fb2f9befe6e74cc030f7c05207b062",
+    "wof:geomhash":"8d19ac0eac8d13f8240768e9012e98b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712472,
+    "wof:lastmodified":1684354479,
     "wof:name":"Gondoriz",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":958,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

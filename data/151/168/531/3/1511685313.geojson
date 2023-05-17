@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeira Ch\u00e3",
+    "eurostat:nuts_2021_id":"420105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420105",
+    "eurostat:population":396,
+    "eurostat:population_year":2020,
     "geom:area":0.000255,
+    "geom:area_square_m":2496931.914291,
     "geom:bbox":"-25.4961230831,37.7129899282,-25.4834947788,37.7463473526",
     "geom:latitude":37.728468,
     "geom:longitude":-25.489883,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ribeira Ch\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420105",
+        "eurostat:nuts_2021_id":"420105",
         "pt-dgt:id":"420105"
     },
     "wof:country":"PT",
     "wof:created":1576699405,
-    "wof:geomhash":"d4c1ef703ce0b9578189303b27780c7d",
+    "wof:geomhash":"4086e9573ea99c31e21fd3c9496da513",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720282,
+    "wof:lastmodified":1684354698,
     "wof:name":"Ribeira Ch\u00e3",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":396,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

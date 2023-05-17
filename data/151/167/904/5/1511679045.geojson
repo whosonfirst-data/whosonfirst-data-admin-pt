@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corte do Pinto",
+    "eurostat:nuts_2021_id":"020902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020902",
+    "eurostat:population":857,
+    "eurostat:population_year":2020,
     "geom:area":0.007301,
+    "geom:area_square_m":71420321.444719,
     "geom:bbox":"-7.53766781103,37.6615862269,-7.4263534381,37.7720098298",
     "geom:latitude":37.713365,
     "geom:longitude":-7.480703,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Corte do Pinto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020902",
+        "eurostat:nuts_2021_id":"020902",
         "pt-dgt:id":"020902"
     },
     "wof:country":"PT",
     "wof:created":1576698037,
-    "wof:geomhash":"04d51fbde6c34f4444478f2de1d1519f",
+    "wof:geomhash":"b681cdac2b222fb6edbad568bc7d9079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712459,
+    "wof:lastmodified":1684354470,
     "wof:name":"Corte do Pinto",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

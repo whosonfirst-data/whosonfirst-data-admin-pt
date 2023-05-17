@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lago",
+    "eurostat:nuts_2021_id":"030113",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030113",
+    "eurostat:population":1910,
+    "eurostat:population_year":2020,
     "geom:area":0.000431,
+    "geom:area_square_m":3984590.791344,
     "geom:bbox":"-8.43385918517,41.6032442902,-8.40438512429,41.6281484796",
     "geom:latitude":41.615153,
     "geom:longitude":-8.417619,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lago",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030113",
+        "eurostat:nuts_2021_id":"030113",
         "pt-dgt:id":"030113"
     },
     "wof:country":"PT",
     "wof:created":1576698779,
-    "wof:geomhash":"a018e49201df98a02e50ddbf0c1d0b73",
+    "wof:geomhash":"6b547ec71a283345f599f0d4bd6a1902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Lago",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1910,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

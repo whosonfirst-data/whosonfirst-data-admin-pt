@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carapinha",
+    "eurostat:nuts_2021_id":"061603",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061603",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.000997,
+    "geom:area_square_m":9407515.325953,
     "geom:bbox":"-8.11249040044,40.2600655196,-8.07621125143,40.3084384244",
     "geom:latitude":40.284199,
     "geom:longitude":-8.0964,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carapinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061603",
+        "eurostat:nuts_2021_id":"061603",
         "pt-dgt:id":"061603"
     },
     "wof:country":"PT",
     "wof:created":1576698555,
-    "wof:geomhash":"fa67725766f90a70efb212e864e32e80",
+    "wof:geomhash":"46454fdfcd547bab13f49e6ad62d8232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712605,
+    "wof:lastmodified":1684354563,
     "wof:name":"Carapinha",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

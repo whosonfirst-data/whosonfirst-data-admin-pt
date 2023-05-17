@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420512",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeirinha",
+    "eurostat:nuts_2021_id":"420512",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420512",
+    "eurostat:population":2349,
+    "eurostat:population_year":2020,
     "geom:area":0.00184,
+    "geom:area_square_m":17979558.262395,
     "geom:bbox":"-25.509913924,37.7782048518,-25.4415429569,37.8475992056",
     "geom:latitude":37.811858,
     "geom:longitude":-25.474943,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ribeirinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420512",
+        "eurostat:nuts_2021_id":"420512",
         "pt-dgt:id":"420512"
     },
     "wof:country":"PT",
     "wof:created":1576699430,
-    "wof:geomhash":"5695a7fc53895a72ad3d2408bcfaaa35",
+    "wof:geomhash":"326596cb5990352612f45031206ff15f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720287,
+    "wof:lastmodified":1684354711,
     "wof:name":"Ribeirinha",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2349,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

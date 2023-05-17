@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Crist\u00f3v\u00e3o de Mondim de Basto",
+    "eurostat:nuts_2021_id":"170505",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"170505",
+    "eurostat:population":3273,
+    "eurostat:population_year":2020,
     "geom:area":0.00172,
+    "geom:area_square_m":15949184.526177,
     "geom:bbox":"-7.98114856178,41.3763977858,-7.91926780067,41.4309010301",
     "geom:latitude":41.402395,
     "geom:longitude":-7.948594,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Crist\u00f3v\u00e3o de Mondim de Basto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170505",
+        "eurostat:nuts_2021_id":"170505",
         "pt-dgt:id":"170505"
     },
     "wof:country":"PT",
     "wof:created":1576699139,
-    "wof:geomhash":"9a32b28b236925d30491a1262652a012",
+    "wof:geomhash":"7ef3e8ab72604187609d623dd06d69ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712710,
+    "wof:lastmodified":1684354664,
     "wof:name":"S\u00e3o Crist\u00f3v\u00e3o de Mondim de Basto",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":3273,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

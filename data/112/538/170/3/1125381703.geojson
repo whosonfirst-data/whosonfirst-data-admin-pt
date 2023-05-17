@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia do Bispo",
+    "eurostat:nuts_2021_id":"091102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091102",
+    "eurostat:population":286,
+    "eurostat:population_year":2020,
     "geom:area":0.001392,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":13119173.407801,
     "geom:bbox":"-6.89346709018,40.2997673263,-6.81962804519,40.3380476749",
     "geom:latitude":40.319407,
     "geom:longitude":-6.856676,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091102",
+        "eurostat:nuts_2021_id":"091102",
         "gn:id":8014815,
         "pt-dgt:id":91102,
         "qs_pg:id":381218
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"302e14ace362dc2b525f7724d2eca4c2",
+    "wof:geomhash":"283b726206d052b9805cf1f7bed88988",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125381703,
-    "wof:lastmodified":1582359925,
+    "wof:lastmodified":1684354447,
     "wof:name":"Aldeia do Bispo",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho de Mouros",
+    "eurostat:nuts_2021_id":"181314",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"181314",
+    "eurostat:population":1495,
+    "eurostat:population_year":2020,
     "geom:area":0.001544,
+    "geom:area_square_m":14390440.436528,
     "geom:bbox":"-7.91573387185,41.0718251564,-7.86031326318,41.1217263616",
     "geom:latitude":41.099587,
     "geom:longitude":-7.888938,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho de Mouros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181314",
+        "eurostat:nuts_2021_id":"181314",
         "pt-dgt:id":"181314"
     },
     "wof:country":"PT",
     "wof:created":1576698926,
-    "wof:geomhash":"0585c98a4a8f3f03fa4d624175083e84",
+    "wof:geomhash":"53166b710f1652ca72f5700ca1399932",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"S\u00e3o Martinho de Mouros",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1495,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

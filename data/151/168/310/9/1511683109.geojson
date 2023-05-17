@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barr\u00f4",
+    "eurostat:nuts_2021_id":"181302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"181302",
+    "eurostat:population":744,
+    "eurostat:population_year":2020,
     "geom:area":0.001076,
+    "geom:area_square_m":10023902.165533,
     "geom:bbox":"-7.89978547154,41.1027345683,-7.8503460804,41.1505083146",
     "geom:latitude":41.125925,
     "geom:longitude":-7.873621,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Barr\u00f4",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181302",
+        "eurostat:nuts_2021_id":"181302",
         "pt-dgt:id":"181302"
     },
     "wof:country":"PT",
     "wof:created":1576698943,
-    "wof:geomhash":"14f3ddefcacaece70357f0a631cd19b4",
+    "wof:geomhash":"c6e9ff853068c311a98a675c561920d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712675,
+    "wof:lastmodified":1684354625,
     "wof:name":"Barr\u00f4",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":744,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

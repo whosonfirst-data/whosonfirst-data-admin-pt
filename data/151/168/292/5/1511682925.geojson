@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salzedas",
+    "eurostat:nuts_2021_id":"182005",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"182005",
+    "eurostat:population":767,
+    "eurostat:population_year":2020,
     "geom:area":0.000947,
+    "geom:area_square_m":8824467.726358,
     "geom:bbox":"-7.75592041251,41.0493596786,-7.69860231424,41.0810119922",
     "geom:latitude":41.069,
     "geom:longitude":-7.727953,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Salzedas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182005",
+        "eurostat:nuts_2021_id":"182005",
         "pt-dgt:id":"182005"
     },
     "wof:country":"PT",
     "wof:created":1576698904,
-    "wof:geomhash":"6986bb8cfc6906e38b03661829196bd4",
+    "wof:geomhash":"8ba7f1be847bb6a3a7a14f56a2c2f187",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712668,
+    "wof:lastmodified":1684354618,
     "wof:name":"Salzedas",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":767,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

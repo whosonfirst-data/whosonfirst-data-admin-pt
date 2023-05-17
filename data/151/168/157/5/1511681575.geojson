@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seixo da Beira",
+    "eurostat:nuts_2021_id":"061118",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061118",
+    "eurostat:population":1600,
+    "eurostat:population_year":2020,
     "geom:area":0.003581,
+    "geom:area_square_m":33691721.52951,
     "geom:bbox":"-7.89576078986,40.4274082519,-7.79694658929,40.4986118846",
     "geom:latitude":40.462187,
     "geom:longitude":-7.844464,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Seixo da Beira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061118",
+        "eurostat:nuts_2021_id":"061118",
         "pt-dgt:id":"061118"
     },
     "wof:country":"PT",
     "wof:created":1576698624,
-    "wof:geomhash":"04a459bb8aa481e43f050b5d0bd8094b",
+    "wof:geomhash":"5190a07b0e27349fe40126a914ba0dca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712619,
+    "wof:lastmodified":1684354573,
     "wof:name":"Seixo da Beira",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1600,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

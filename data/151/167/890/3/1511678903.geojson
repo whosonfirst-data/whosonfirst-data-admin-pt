@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bordeira",
+    "eurostat:nuts_2021_id":"080302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080302",
+    "eurostat:population":432,
+    "eurostat:population_year":2020,
     "geom:area":0.008106,
+    "geom:area_square_m":79836853.518001,
     "geom:bbox":"-8.91870934696,37.1494691415,-8.7760435731,37.2523166116",
     "geom:latitude":37.200276,
     "geom:longitude":-8.850597,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bordeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080302",
+        "eurostat:nuts_2021_id":"080302",
         "pt-dgt:id":"080302"
     },
     "wof:country":"PT",
     "wof:created":1576697988,
-    "wof:geomhash":"b8546c0e5b55a34612dad9b7d62c8855",
+    "wof:geomhash":"961345915544f403a2bb31ed3228e61a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712434,
+    "wof:lastmodified":1684354456,
     "wof:name":"Bordeira",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":432,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

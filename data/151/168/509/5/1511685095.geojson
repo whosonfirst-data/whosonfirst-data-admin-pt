@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coura",
+    "eurostat:nuts_2021_id":"160505",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160505",
+    "eurostat:population":374,
+    "eurostat:population_year":2020,
     "geom:area":0.000714,
+    "geom:area_square_m":6577820.311407,
     "geom:bbox":"-8.67538669359,41.8563048271,-8.6346099517,41.8925943116",
     "geom:latitude":41.877205,
     "geom:longitude":-8.652671,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Coura",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160505",
+        "eurostat:nuts_2021_id":"160505",
         "pt-dgt:id":"160505"
     },
     "wof:country":"PT",
     "wof:created":1576699359,
-    "wof:geomhash":"51d643ada727841dcc35904ef386a0d3",
+    "wof:geomhash":"3e66efd46141ae0df68996ee6902aca7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712741,
+    "wof:lastmodified":1684354694,
     "wof:name":"Coura",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

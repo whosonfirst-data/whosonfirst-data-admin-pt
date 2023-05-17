@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160717",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estor\u00e3os",
+    "eurostat:nuts_2021_id":"160717",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160717",
+    "eurostat:population":464,
+    "eurostat:population_year":2020,
     "geom:area":0.001756,
+    "geom:area_square_m":16185846.040963,
     "geom:bbox":"-8.69080236546,41.7741980779,-8.63556346702,41.8247924675",
     "geom:latitude":41.80017,
     "geom:longitude":-8.662986,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Estor\u00e3os",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160717",
+        "eurostat:nuts_2021_id":"160717",
         "pt-dgt:id":"160717"
     },
     "wof:country":"PT",
     "wof:created":1576699329,
-    "wof:geomhash":"f3ae4d6e11720fa1b37a60de464aa954",
+    "wof:geomhash":"26d4328d9d1e8d198cb1d17af7967003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Estor\u00e3os",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

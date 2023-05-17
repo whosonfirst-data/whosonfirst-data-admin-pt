@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavegadas",
+    "eurostat:nuts_2021_id":"061702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061702",
+    "eurostat:population":204,
+    "eurostat:population_year":2020,
     "geom:area":0.001192,
+    "geom:area_square_m":11252467.7617,
     "geom:bbox":"-8.22118730006,40.2025814561,-8.16362926944,40.2546875612",
     "geom:latitude":40.233679,
     "geom:longitude":-8.192482,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lavegadas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061702",
+        "eurostat:nuts_2021_id":"061702",
         "pt-dgt:id":"061702"
     },
     "wof:country":"PT",
     "wof:created":1576698537,
-    "wof:geomhash":"60238add3077cefda0f39fd167020996",
+    "wof:geomhash":"992d1c1b1a18c5c8191a9994600202f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712601,
+    "wof:lastmodified":1684354560,
     "wof:name":"Lavegadas",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":204,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte",
+    "eurostat:nuts_2021_id":"310302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310302",
+    "eurostat:population":6701,
+    "eurostat:population_year":2020,
     "geom:area":0.001787,
+    "geom:area_square_m":18596007.217014,
     "geom:bbox":"-16.9325605569,32.6640857843,-16.8726309326,32.7356522468",
     "geom:latitude":32.694121,
     "geom:longitude":-16.903416,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Monte",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310302",
+        "eurostat:nuts_2021_id":"310302",
         "pt-dgt:id":"310302"
     },
     "wof:country":"PT",
     "wof:created":1576699477,
-    "wof:geomhash":"99814eb49e6a09392847cba3043a4a72",
+    "wof:geomhash":"3dd82a97e00fc4497718b6d8907b99ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720324,
+    "wof:lastmodified":1684354734,
     "wof:name":"Monte",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":6701,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

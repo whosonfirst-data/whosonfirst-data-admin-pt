@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181814",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintela",
+    "eurostat:nuts_2021_id":"181814",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181814",
+    "eurostat:population":294,
+    "eurostat:population_year":2020,
     "geom:area":0.001471,
+    "geom:area_square_m":13755258.116366,
     "geom:bbox":"-7.61949588491,40.8299173897,-7.55853202466,40.8830175765",
     "geom:latitude":40.861928,
     "geom:longitude":-7.591731,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Quintela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181814",
+        "eurostat:nuts_2021_id":"181814",
         "pt-dgt:id":"181814"
     },
     "wof:country":"PT",
     "wof:created":1576698415,
-    "wof:geomhash":"337e0b0ac4d090e4e1e2d9c5c3f29651",
+    "wof:geomhash":"b455128f54e836fb2cf182e1bb82f75a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712564,
+    "wof:lastmodified":1684354535,
     "wof:name":"Quintela",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":294,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

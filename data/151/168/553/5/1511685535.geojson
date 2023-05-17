@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Machico",
+    "eurostat:nuts_2021_id":"310403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310403",
+    "eurostat:population":11256,
+    "eurostat:population_year":2020,
     "geom:area":0.00168,
+    "geom:area_square_m":17471440.464304,
     "geom:bbox":"-16.8143391232,32.7094750178,-16.7547030049,32.7663609908",
     "geom:latitude":32.738423,
     "geom:longitude":-16.781769,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Machico",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310403",
+        "eurostat:nuts_2021_id":"310403",
         "pt-dgt:id":"310403"
     },
     "wof:country":"PT",
     "wof:created":1576699465,
-    "wof:geomhash":"d68b4e7bcc1d6864a9a4a5ac8731a209",
+    "wof:geomhash":"d385f8edd348952c1867aab2b4f6c2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720289,
+    "wof:lastmodified":1684354726,
     "wof:name":"Machico",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":11256,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

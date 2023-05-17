@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420505",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maia",
+    "eurostat:nuts_2021_id":"420505",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420505",
+    "eurostat:population":1900,
+    "eurostat:population_year":2020,
     "geom:area":0.002249,
+    "geom:area_square_m":21970153.544494,
     "geom:bbox":"-25.4185984192,37.7703453446,-25.3568185065,37.8394716374",
     "geom:latitude":37.804058,
     "geom:longitude":-25.385168,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Maia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420505",
+        "eurostat:nuts_2021_id":"420505",
         "pt-dgt:id":"420505"
     },
     "wof:country":"PT",
     "wof:created":1576699428,
-    "wof:geomhash":"160d365a35f8114c76c2a65bde6d5b21",
+    "wof:geomhash":"c10aa4b609531cd3ba7fa96bd0f0139c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720320,
+    "wof:lastmodified":1684354710,
     "wof:name":"Maia",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1900,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

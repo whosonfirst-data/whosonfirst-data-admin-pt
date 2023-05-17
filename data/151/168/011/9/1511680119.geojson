@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Landal",
+    "eurostat:nuts_2021_id":"100607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100607",
+    "eurostat:population":1051,
+    "eurostat:population_year":2020,
     "geom:area":0.001066,
+    "geom:area_square_m":10195076.334218,
     "geom:bbox":"-9.0294422115,39.2914277774,-8.98644578532,39.3250229344",
     "geom:latitude":39.308886,
     "geom:longitude":-9.008258,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Landal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100607",
+        "eurostat:nuts_2021_id":"100607",
         "pt-dgt:id":"100607"
     },
     "wof:country":"PT",
     "wof:created":1576698298,
-    "wof:geomhash":"160c3c4bbb969b3864061b1b89ede8c4",
+    "wof:geomhash":"e1d7e06c321d27e023c366f37034fe97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712526,
+    "wof:lastmodified":1684354511,
     "wof:name":"Landal",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1051,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160944",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mazarefes e Vila Fria",
+    "eurostat:nuts_2021_id":"160944",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160944",
+    "eurostat:population":2670,
+    "eurostat:population_year":2020,
     "geom:area":0.001111,
+    "geom:area_square_m":10266156.874902,
     "geom:bbox":"-8.77792154315,41.6448386395,-8.74272962895,41.6972646352",
     "geom:latitude":41.669174,
     "geom:longitude":-8.763235,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Mazarefes e Vila Fria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160944",
+        "eurostat:nuts_2021_id":"160944",
         "pt-dgt:id":"160944"
     },
     "wof:country":"PT",
     "wof:created":1576699268,
-    "wof:geomhash":"d5c60c513d60ad22db4c2c0125cd6a7f",
+    "wof:geomhash":"f698e038b38000af1ea07fd7ac8a015f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712729,
+    "wof:lastmodified":1684354682,
     "wof:name":"Mazarefes e Vila Fria",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":2670,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

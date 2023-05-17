@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freixo de Espada \u00e0 Cinta e Mazouco",
+    "eurostat:nuts_2021_id":"040407",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040407",
+    "eurostat:population":2355,
+    "eurostat:population_year":2020,
     "geom:area":0.010014,
+    "geom:area_square_m":93302532.842811,
     "geom:bbox":"-6.90568365008,41.0289275966,-6.74940385162,41.1774112176",
     "geom:latitude":41.104405,
     "geom:longitude":-6.816907,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Freixo de Espada \u00e0 Cinta e Mazouco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040407",
+        "eurostat:nuts_2021_id":"040407",
         "pt-dgt:id":"040407"
     },
     "wof:country":"PT",
     "wof:created":1576698355,
-    "wof:geomhash":"d6b892929f3cfc8c9ed37d36f4e250b7",
+    "wof:geomhash":"feb19da5111ed390c262071b29f050b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712543,
+    "wof:lastmodified":1684354522,
     "wof:name":"Freixo de Espada \u00e0 Cinta e Mazouco",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":2355,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

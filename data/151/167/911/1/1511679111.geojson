@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abitureiras",
+    "eurostat:nuts_2021_id":"141601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141601",
+    "eurostat:population":972,
+    "eurostat:population_year":2020,
     "geom:area":0.002474,
+    "geom:area_square_m":23667419.274783,
     "geom:bbox":"-8.82117529629,39.2892085028,-8.74981786673,39.354828434",
     "geom:latitude":39.316566,
     "geom:longitude":-8.78583,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abitureiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141601",
+        "eurostat:nuts_2021_id":"141601",
         "pt-dgt:id":"141601"
     },
     "wof:country":"PT",
     "wof:created":1576698051,
-    "wof:geomhash":"43a06ea5317c9464e43be5fa667360c0",
+    "wof:geomhash":"5ea202af92063e0eeb81a4007f836565",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712463,
+    "wof:lastmodified":1684354473,
     "wof:name":"Abitureiras",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":972,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

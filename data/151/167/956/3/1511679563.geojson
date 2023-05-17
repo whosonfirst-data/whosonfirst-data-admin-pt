@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capelins (Santo Ant\u00f3nio)",
+    "eurostat:nuts_2021_id":"070104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070104",
+    "eurostat:population":527,
+    "eurostat:population_year":2020,
     "geom:area":0.009001,
+    "geom:area_square_m":87068455.709432,
     "geom:bbox":"-7.39778363803,38.4301056756,-7.2958904182,38.603253353",
     "geom:latitude":38.53077,
     "geom:longitude":-7.342534,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Capelins (Santo Ant\u00f3nio)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070104",
+        "eurostat:nuts_2021_id":"070104",
         "pt-dgt:id":"070104"
     },
     "wof:country":"PT",
     "wof:created":1576698153,
-    "wof:geomhash":"57864e0085a94376cfbd051cf40ca8ac",
+    "wof:geomhash":"d6a136ca72f84338e3746270b85594fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712486,
+    "wof:lastmodified":1684354488,
     "wof:name":"Capelins (Santo Ant\u00f3nio)",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":527,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

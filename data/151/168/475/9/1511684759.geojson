@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170341",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Anta",
+    "eurostat:nuts_2021_id":"170341",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170341",
+    "eurostat:population":1543,
+    "eurostat:population_year":2020,
     "geom:area":0.001101,
+    "geom:area_square_m":10162528.367157,
     "geom:bbox":"-7.52282068116,41.718407221,-7.47900143115,41.7652590861",
     "geom:latitude":41.741374,
     "geom:longitude":-7.500423,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale de Anta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170341",
+        "eurostat:nuts_2021_id":"170341",
         "pt-dgt:id":"170341"
     },
     "wof:country":"PT",
     "wof:created":1576699295,
-    "wof:geomhash":"9551deb6147da719e3aff20b471a25a4",
+    "wof:geomhash":"83bc41cab4abac7283badcad95f3c902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354686,
     "wof:name":"Vale de Anta",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1543,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

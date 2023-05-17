@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benfica",
+    "eurostat:nuts_2021_id":"110608",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110608",
+    "eurostat:population":36985,
+    "eurostat:population_year":2020,
     "geom:area":0.000831,
+    "geom:area_square_m":8017621.108696,
     "geom:bbox":"-9.21988441372,38.7168630348,-9.17385334654,38.7590548278",
     "geom:latitude":38.737742,
     "geom:longitude":-9.196365,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Benfica",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110608",
+        "eurostat:nuts_2021_id":"110608",
         "pt-dgt:id":"110608"
     },
     "wof:country":"PT",
     "wof:created":1576698043,
-    "wof:geomhash":"a881209a3e0498ade4f0686252a840ab",
+    "wof:geomhash":"8f55acd4343f4c9d4f782635089c8bcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712461,
+    "wof:lastmodified":1684354472,
     "wof:name":"Benfica",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":36985,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cunha",
+    "eurostat:nuts_2021_id":"160507",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160507",
+    "eurostat:population":529,
+    "eurostat:population_year":2020,
     "geom:area":0.001082,
+    "geom:area_square_m":9961504.686186,
     "geom:bbox":"-8.6088344397,41.8632049144,-8.55804076774,41.8939722103",
     "geom:latitude":41.879592,
     "geom:longitude":-8.584089,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cunha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160507",
+        "eurostat:nuts_2021_id":"160507",
         "pt-dgt:id":"160507"
     },
     "wof:country":"PT",
     "wof:created":1576699360,
-    "wof:geomhash":"843acade26eeafdbdb96a87163ec82c8",
+    "wof:geomhash":"a97c488cf748ce0f6e2b7bc7b1347208",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712742,
+    "wof:lastmodified":1684354694,
     "wof:name":"Cunha",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":529,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

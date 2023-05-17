@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo do Ger\u00eas",
+    "eurostat:nuts_2021_id":"031003",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031003",
+    "eurostat:population":162,
+    "eurostat:population_year":2020,
     "geom:area":0.007448,
+    "geom:area_square_m":68668338.375207,
     "geom:bbox":"-8.22168850821,41.7372317575,-8.04473105518,41.8206311264",
     "geom:latitude":41.786468,
     "geom:longitude":-8.147172,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campo do Ger\u00eas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031003",
+        "eurostat:nuts_2021_id":"031003",
         "pt-dgt:id":"031003"
     },
     "wof:country":"PT",
     "wof:created":1576699325,
-    "wof:geomhash":"173b240f57add1f41dc12685d79db673",
+    "wof:geomhash":"e17da4e9e5be5c656b0cf3806a51a84e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354689,
     "wof:name":"Campo do Ger\u00eas",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":162,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

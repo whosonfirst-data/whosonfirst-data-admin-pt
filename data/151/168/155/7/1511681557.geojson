@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011813",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponte de Vagos e Santa Catarina",
+    "eurostat:nuts_2021_id":"011813",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011813",
+    "eurostat:population":2781,
+    "eurostat:population_year":2020,
     "geom:area":0.001415,
+    "geom:area_square_m":13306030.176279,
     "geom:bbox":"-8.68407045785,40.4528238863,-8.62273386579,40.4935436079",
     "geom:latitude":40.47419,
     "geom:longitude":-8.655409,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ponte de Vagos e Santa Catarina",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011813",
+        "eurostat:nuts_2021_id":"011813",
         "pt-dgt:id":"011813"
     },
     "wof:country":"PT",
     "wof:created":1576698620,
-    "wof:geomhash":"c05d129d2f3151468ac75d59ae96d368",
+    "wof:geomhash":"0c1401c041707c75c75092932de49f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712618,
+    "wof:lastmodified":1684354573,
     "wof:name":"Ponte de Vagos e Santa Catarina",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2781,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

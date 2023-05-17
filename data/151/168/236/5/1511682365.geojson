@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030923",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jo\u00e3o de Rei",
+    "eurostat:nuts_2021_id":"030923",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030923",
+    "eurostat:population":401,
+    "eurostat:population_year":2020,
     "geom:area":0.00059,
+    "geom:area_square_m":5454593.25031,
     "geom:bbox":"-8.30289263332,41.6076672307,-8.27138633872,41.6369075013",
     "geom:latitude":41.623535,
     "geom:longitude":-8.286055,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Jo\u00e3o de Rei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030923",
+        "eurostat:nuts_2021_id":"030923",
         "pt-dgt:id":"030923"
     },
     "wof:country":"PT",
     "wof:created":1576698784,
-    "wof:geomhash":"cac2084481393fe79ed14673f29184e3",
+    "wof:geomhash":"13ce471584da4d293cdbb721767e46f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712645,
+    "wof:lastmodified":1684354597,
     "wof:name":"S\u00e3o Jo\u00e3o de Rei",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":401,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

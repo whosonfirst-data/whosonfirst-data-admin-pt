@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Queiriga",
+    "eurostat:nuts_2021_id":"182204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182204",
+    "eurostat:population":575,
+    "eurostat:population_year":2020,
     "geom:area":0.003408,
+    "geom:area_square_m":31899008.424843,
     "geom:bbox":"-7.78133505227,40.7649286031,-7.69703237862,40.8437713767",
     "geom:latitude":40.804979,
     "geom:longitude":-7.738307,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Queiriga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182204",
+        "eurostat:nuts_2021_id":"182204",
         "pt-dgt:id":"182204"
     },
     "wof:country":"PT",
     "wof:created":1576698861,
-    "wof:geomhash":"182ddce1a250d74d2f8c8a415fee2ca4",
+    "wof:geomhash":"f6617464e33d64c0c6f7c3b52204126a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712659,
+    "wof:lastmodified":1684354610,
     "wof:name":"Queiriga",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":575,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

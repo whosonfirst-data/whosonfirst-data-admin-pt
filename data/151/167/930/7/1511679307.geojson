@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_161006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondar\u00e9m",
+    "eurostat:nuts_2021_id":"161006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"161006",
+    "eurostat:population":1010,
+    "eurostat:population_year":2020,
     "geom:area":0.000745,
+    "geom:area_square_m":6851921.289852,
     "geom:bbox":"-8.78575404592,41.9080355225,-8.71230398243,41.9302382074",
     "geom:latitude":41.917545,
     "geom:longitude":-8.755282,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gondar\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_161006",
+        "eurostat:nuts_2021_id":"161006",
         "pt-dgt:id":"161006"
     },
     "wof:country":"PT",
     "wof:created":1576698096,
-    "wof:geomhash":"2632a0433d5448aab6a8dc4cc3530d91",
+    "wof:geomhash":"2fb6cc4403bb06dd4f064e48d03dfcc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Gondar\u00e9m",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1010,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

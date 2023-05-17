@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcanena e Vila Moreira",
+    "eurostat:nuts_2021_id":"140211",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140211",
+    "eurostat:population":5105,
+    "eurostat:population_year":2020,
     "geom:area":0.001615,
+    "geom:area_square_m":15416977.449191,
     "geom:bbox":"-8.69569404104,39.4328135894,-8.63074111839,39.4864307457",
     "geom:latitude":39.464869,
     "geom:longitude":-8.669221,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alcanena e Vila Moreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140211",
+        "eurostat:nuts_2021_id":"140211",
         "pt-dgt:id":"140211"
     },
     "wof:country":"PT",
     "wof:created":1576698324,
-    "wof:geomhash":"ec1a159d41a11601ce53c1052a10a367",
+    "wof:geomhash":"b0fcae85e27f0a86367c5aa09a693bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712534,
+    "wof:lastmodified":1684354517,
     "wof:name":"Alcanena e Vila Moreira",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":5105,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

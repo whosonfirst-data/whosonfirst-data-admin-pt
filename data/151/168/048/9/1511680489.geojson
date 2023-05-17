@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alburitel",
+    "eurostat:nuts_2021_id":"142101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142101",
+    "eurostat:population":1179,
+    "eurostat:population_year":2020,
     "geom:area":0.001175,
+    "geom:area_square_m":11183829.325597,
     "geom:bbox":"-8.54581213941,39.6175566377,-8.50141966368,39.6611857455",
     "geom:latitude":39.640079,
     "geom:longitude":-8.522979,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alburitel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142101",
+        "eurostat:nuts_2021_id":"142101",
         "pt-dgt:id":"142101"
     },
     "wof:country":"PT",
     "wof:created":1576698383,
-    "wof:geomhash":"24d19b96c8b06d196d1643fd7b958fed",
+    "wof:geomhash":"010388343aa27bd941b7560affc80f6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712553,
+    "wof:lastmodified":1684354529,
     "wof:name":"Alburitel",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1179,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1gua de Pau",
+    "eurostat:nuts_2021_id":"420101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420101",
+    "eurostat:population":3058,
+    "eurostat:population_year":2020,
     "geom:area":0.001785,
+    "geom:area_square_m":17453247.993222,
     "geom:bbox":"-25.5512664658,37.7064225894,-25.4910316088,37.7693955725",
     "geom:latitude":37.734404,
     "geom:longitude":-25.512505,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"\u00c1gua de Pau",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420101",
+        "eurostat:nuts_2021_id":"420101",
         "pt-dgt:id":"420101"
     },
     "wof:country":"PT",
     "wof:created":1576699409,
-    "wof:geomhash":"fc95ddac2cf93619e55aa733c3b8167b",
+    "wof:geomhash":"05cfb41c278318ddd8beef63463ad7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720315,
+    "wof:lastmodified":1684354699,
     "wof:name":"\u00c1gua de Pau",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3058,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

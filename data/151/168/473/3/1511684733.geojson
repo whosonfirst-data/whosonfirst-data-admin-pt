@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Negr\u00f5es",
+    "eurostat:nuts_2021_id":"170618",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170618",
+    "eurostat:population":177,
+    "eurostat:population_year":2020,
     "geom:area":0.00223,
+    "geom:area_square_m":20579858.755507,
     "geom:bbox":"-7.82254920922,41.7082357025,-7.75605498852,41.7603016687",
     "geom:latitude":41.735205,
     "geom:longitude":-7.78579,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Negr\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170618",
+        "eurostat:nuts_2021_id":"170618",
         "pt-dgt:id":"170618"
     },
     "wof:country":"PT",
     "wof:created":1576699290,
-    "wof:geomhash":"c6d8aab20c43352304d0c948138bbe60",
+    "wof:geomhash":"96612b3d27568dfbfd33899755786b51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354685,
     "wof:name":"Negr\u00f5es",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":177,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

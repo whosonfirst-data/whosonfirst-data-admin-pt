@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091029",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alverca da Beira/Bou\u00e7a Cova",
+    "eurostat:nuts_2021_id":"091029",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091029",
+    "eurostat:population":567,
+    "eurostat:population_year":2020,
     "geom:area":0.002102,
+    "geom:area_square_m":19708005.303378,
     "geom:bbox":"-7.26244425548,40.6760422129,-7.19559545685,40.7332446167",
     "geom:latitude":40.701847,
     "geom:longitude":-7.229741,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alverca da Beira/Bou\u00e7a Cova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091029",
+        "eurostat:nuts_2021_id":"091029",
         "pt-dgt:id":"091029"
     },
     "wof:country":"PT",
     "wof:created":1576698822,
-    "wof:geomhash":"c08eb7fc358301da5c205f71a63cbecf",
+    "wof:geomhash":"8d74b8e95681249a5c270776db6147fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712652,
+    "wof:lastmodified":1684354602,
     "wof:name":"Alverca da Beira/Bou\u00e7a Cova",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":567,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

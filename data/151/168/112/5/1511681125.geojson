@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Folques",
+    "eurostat:nuts_2021_id":"060109",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060109",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.001942,
+    "geom:area_square_m":18337183.55149,
     "geom:bbox":"-8.03244989249,40.1850515112,-7.9563721403,40.2399560969",
     "geom:latitude":40.216177,
     "geom:longitude":-7.990553,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Folques",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060109",
+        "eurostat:nuts_2021_id":"060109",
         "pt-dgt:id":"060109"
     },
     "wof:country":"PT",
     "wof:created":1576698531,
-    "wof:geomhash":"17e50128524a08c1c7c7a88560a82913",
+    "wof:geomhash":"68a64d6fc177723d1ad6ba5dc84026b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712600,
+    "wof:lastmodified":1684354560,
     "wof:name":"Folques",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

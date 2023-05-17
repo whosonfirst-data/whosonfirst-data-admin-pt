@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091414",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sebadelhe",
+    "eurostat:nuts_2021_id":"091414",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"091414",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.000865,
+    "geom:area_square_m":8067577.454301,
     "geom:bbox":"-7.29897527951,41.0412478898,-7.24604770192,41.0744349319",
     "geom:latitude":41.055971,
     "geom:longitude":-7.272825,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sebadelhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091414",
+        "eurostat:nuts_2021_id":"091414",
         "pt-dgt:id":"091414"
     },
     "wof:country":"PT",
     "wof:created":1576698901,
-    "wof:geomhash":"4892e100a73b9a6909de4f6fb0f1930a",
+    "wof:geomhash":"4e2888d915085d44ca98a4df57386552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712667,
+    "wof:lastmodified":1684354617,
     "wof:name":"Sebadelhe",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martinchel",
+    "eurostat:nuts_2021_id":"140105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140105",
+    "eurostat:population":604,
+    "eurostat:population_year":2020,
     "geom:area":0.001788,
+    "geom:area_square_m":17053201.677423,
     "geom:bbox":"-8.35556693419,39.500624156,-8.28979613334,39.5459562646",
     "geom:latitude":39.523058,
     "geom:longitude":-8.318393,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Martinchel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140105",
+        "eurostat:nuts_2021_id":"140105",
         "pt-dgt:id":"140105"
     },
     "wof:country":"PT",
     "wof:created":1576698339,
-    "wof:geomhash":"cf9f05713cdeb00e3b92268ceba4245c",
+    "wof:geomhash":"1fc40f652fdea5e92ebf7bbef4c8d944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712539,
+    "wof:lastmodified":1684354520,
     "wof:name":"Martinchel",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":604,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Erada",
+    "eurostat:nuts_2021_id":"050310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050310",
+    "eurostat:population":709,
+    "eurostat:population_year":2020,
     "geom:area":0.004593,
+    "geom:area_square_m":43348403.239924,
     "geom:bbox":"-7.73280704699,40.2021179687,-7.62905868752,40.2749134326",
     "geom:latitude":40.24003,
     "geom:longitude":-7.675934,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Erada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050310",
+        "eurostat:nuts_2021_id":"050310",
         "pt-dgt:id":"050310"
     },
     "wof:country":"PT",
     "wof:created":1576698543,
-    "wof:geomhash":"53a37f73392d5347d604ca0b2a9b72c4",
+    "wof:geomhash":"870b388ba1ad04e787f5c9aa9b77ab3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712602,
+    "wof:lastmodified":1684354561,
     "wof:name":"Erada",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":709,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

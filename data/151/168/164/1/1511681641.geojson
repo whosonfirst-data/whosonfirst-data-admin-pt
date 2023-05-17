@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pendilhe",
+    "eurostat:nuts_2021_id":"182203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182203",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
+    "geom:area_square_m":24160346.410736,
     "geom:bbox":"-7.86847987464,40.8727330861,-7.79706051432,40.9478326193",
     "geom:latitude":40.907449,
     "geom:longitude":-7.827112,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pendilhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182203",
+        "eurostat:nuts_2021_id":"182203",
         "pt-dgt:id":"182203"
     },
     "wof:country":"PT",
     "wof:created":1576698638,
-    "wof:geomhash":"c45043840d8920605c7a952a07a19eb6",
+    "wof:geomhash":"4c8c6c473c063ef3c18964cef4661816",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712622,
+    "wof:lastmodified":1684354576,
     "wof:name":"Pendilhe",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

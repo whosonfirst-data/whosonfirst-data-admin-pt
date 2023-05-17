@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abreiro",
+    "eurostat:nuts_2021_id":"040702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040702",
+    "eurostat:population":257,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
+    "geom:area_square_m":23993881.789549,
     "geom:bbox":"-7.36233726314,41.3336940093,-7.27122634222,41.381850514",
     "geom:latitude":41.359963,
     "geom:longitude":-7.316622,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abreiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040702",
+        "eurostat:nuts_2021_id":"040702",
         "pt-dgt:id":"040702"
     },
     "wof:country":"PT",
     "wof:created":1576699108,
-    "wof:geomhash":"9d5c4966d9e697c3c6737f2b4a911e9d",
+    "wof:geomhash":"7bbd9ddd05c282ce4bf2be2778c829e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712704,
+    "wof:lastmodified":1684354657,
     "wof:name":"Abreiro",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":257,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

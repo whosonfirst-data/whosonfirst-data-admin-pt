@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sampaio",
+    "eurostat:nuts_2021_id":"041011",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041011",
+    "eurostat:population":159,
+    "eurostat:population_year":2020,
     "geom:area":0.000927,
+    "geom:area_square_m":8609047.436327,
     "geom:bbox":"-7.12691148735,41.2738700533,-7.07101373666,41.3077613087",
     "geom:latitude":41.295747,
     "geom:longitude":-7.096493,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sampaio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041011",
+        "eurostat:nuts_2021_id":"041011",
         "pt-dgt:id":"041011"
     },
     "wof:country":"PT",
     "wof:created":1576699073,
-    "wof:geomhash":"58f3beb6b268a529457f7b467bfefee8",
+    "wof:geomhash":"b0abab5428f98b3847ffc9115d835457",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712699,
+    "wof:lastmodified":1684354650,
     "wof:name":"Sampaio",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

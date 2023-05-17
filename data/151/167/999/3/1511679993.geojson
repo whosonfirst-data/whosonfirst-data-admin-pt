@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fronteira",
+    "eurostat:nuts_2021_id":"120802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120802",
+    "eurostat:population":2069,
+    "eurostat:population_year":2020,
     "geom:area":0.014717,
+    "geom:area_square_m":141277820.728898,
     "geom:bbox":"-7.77249079893,38.9906692695,-7.58277142039,39.1414721209",
     "geom:latitude":39.071044,
     "geom:longitude":-7.666567,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fronteira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120802",
+        "eurostat:nuts_2021_id":"120802",
         "pt-dgt:id":"120802"
     },
     "wof:country":"PT",
     "wof:created":1576698260,
-    "wof:geomhash":"f1f3ba3f1fde30716482111291591e32",
+    "wof:geomhash":"bf312ebdd2dc4afb71ac2f3addfeb943",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712516,
+    "wof:lastmodified":1684354506,
     "wof:name":"Fronteira",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":2069,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

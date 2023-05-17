@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveira de Frades, Souto de Laf\u00f5es e Sej\u00e3es",
+    "eurostat:nuts_2021_id":"181015",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181015",
+    "eurostat:population":3923,
+    "eurostat:population_year":2020,
     "geom:area":0.0024,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":22488437.133352,
     "geom:bbox":"-8.23941967843,40.6969426946,-8.14064454874,40.758909753",
     "geom:latitude":40.730779,
     "geom:longitude":-8.188195,
@@ -58,6 +70,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181015",
+        "eurostat:nuts_2021_id":"181015",
         "gn:id":8014373,
         "pt-dgt:id":181015,
         "qs_pg:id":904379
@@ -74,7 +90,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"5afd079ec6b89e6cae4e8591f688e54a",
+    "wof:geomhash":"cb110a5252a8e80796ec25994140becb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":1125270281,
-    "wof:lastmodified":1582359917,
+    "wof:lastmodified":1684354444,
     "wof:name":"Oliveira de Frades, Souto de Laf\u00f5es e Sej\u00e3es",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":3923,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

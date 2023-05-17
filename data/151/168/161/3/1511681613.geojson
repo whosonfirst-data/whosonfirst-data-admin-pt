@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castain\u00e7o",
+    "eurostat:nuts_2021_id":"181203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181203",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.001431,
+    "geom:area_square_m":13352825.430597,
     "geom:bbox":"-7.46145612737,40.9662860368,-7.4201804739,41.0191176093",
     "geom:latitude":40.995316,
     "geom:longitude":-7.441082,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castain\u00e7o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181203",
+        "eurostat:nuts_2021_id":"181203",
         "pt-dgt:id":"181203"
     },
     "wof:country":"PT",
     "wof:created":1576698632,
-    "wof:geomhash":"2bad2cc65c3e32a77811aaae0526020a",
+    "wof:geomhash":"b177ee3d39fdd74a08a21f55385d8c54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712621,
+    "wof:lastmodified":1684354575,
     "wof:name":"Castain\u00e7o",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

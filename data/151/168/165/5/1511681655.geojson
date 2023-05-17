@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aveloso",
+    "eurostat:nuts_2021_id":"090901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090901",
+    "eurostat:population":207,
+    "eurostat:population_year":2020,
     "geom:area":0.000797,
+    "geom:area_square_m":7448081.184126,
     "geom:bbox":"-7.33345534664,40.9180179348,-7.28105195051,40.9527977073",
     "geom:latitude":40.932528,
     "geom:longitude":-7.311238,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aveloso",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090901",
+        "eurostat:nuts_2021_id":"090901",
         "pt-dgt:id":"090901"
     },
     "wof:country":"PT",
     "wof:created":1576698641,
-    "wof:geomhash":"63a7235e61b600206ed4a6f43e456e45",
+    "wof:geomhash":"1cc7462b20be76892494f0654fd21afa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712622,
+    "wof:lastmodified":1684354577,
     "wof:name":"Aveloso",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":207,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

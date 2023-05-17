@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010513",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Joana",
+    "eurostat:nuts_2021_id":"010513",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010513",
+    "eurostat:population":8094,
+    "eurostat:population_year":2020,
     "geom:area":0.000622,
+    "geom:area_square_m":5838649.058911,
     "geom:bbox":"-8.63577496949,40.612322749,-8.58928341191,40.6420272326",
     "geom:latitude":40.630419,
     "geom:longitude":-8.613136,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Joana",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010513",
+        "eurostat:nuts_2021_id":"010513",
         "pt-dgt:id":"010513"
     },
     "wof:country":"PT",
     "wof:created":1576698741,
-    "wof:geomhash":"f82380a6b2a20cd253161625f8c590e2",
+    "wof:geomhash":"ea3855d814297c15c1d82e5131db90f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712638,
+    "wof:lastmodified":1684354591,
     "wof:name":"Santa Joana",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":8094,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

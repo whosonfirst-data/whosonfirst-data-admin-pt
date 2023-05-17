@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Luzia",
+    "eurostat:nuts_2021_id":"081408",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081408",
+    "eurostat:population":1455,
+    "eurostat:population_year":2020,
     "geom:area":0.000862,
+    "geom:area_square_m":8497973.020543,
     "geom:bbox":"-7.68506934321,37.0789177469,-7.63673500085,37.1136787996",
     "geom:latitude":37.097144,
     "geom:longitude":-7.663253,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Luzia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081408",
+        "eurostat:nuts_2021_id":"081408",
         "pt-dgt:id":"081408"
     },
     "wof:country":"PT",
     "wof:created":1576697982,
-    "wof:geomhash":"dca7e0816569dd21e35912b10fb9fc35",
+    "wof:geomhash":"0439ba4625e4ac4fde17d420e4413c79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712432,
+    "wof:lastmodified":1684354454,
     "wof:name":"Santa Luzia",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":1455,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

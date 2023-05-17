@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bemposta",
+    "eurostat:nuts_2021_id":"040802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040802",
+    "eurostat:population":602,
+    "eurostat:population_year":2020,
     "geom:area":0.004075,
+    "geom:area_square_m":37852728.255418,
     "geom:bbox":"-6.54000561437,41.2640374055,-6.45558017355,41.3496509653",
     "geom:latitude":41.308734,
     "geom:longitude":-6.501135,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bemposta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040802",
+        "eurostat:nuts_2021_id":"040802",
         "pt-dgt:id":"040802"
     },
     "wof:country":"PT",
     "wof:created":1576699022,
-    "wof:geomhash":"58682cab63c83d1e98c88900edabbf99",
+    "wof:geomhash":"ed0dc7cefea615da0972949e06472c55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712691,
+    "wof:lastmodified":1684354643,
     "wof:name":"Bemposta",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

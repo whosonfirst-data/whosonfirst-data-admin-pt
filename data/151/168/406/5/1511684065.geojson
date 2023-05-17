@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agrobom, Saldonha e Vale Pereiro",
+    "eurostat:nuts_2021_id":"040121",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040121",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.003509,
+    "geom:area_square_m":32552109.511469,
     "geom:bbox":"-6.93033516235,41.3553732047,-6.85665005599,41.4314547979",
     "geom:latitude":41.394748,
     "geom:longitude":-6.897529,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Agrobom, Saldonha e Vale Pereiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040121",
+        "eurostat:nuts_2021_id":"040121",
         "pt-dgt:id":"040121"
     },
     "wof:country":"PT",
     "wof:created":1576699146,
-    "wof:geomhash":"7fbc482fd504c7cffc4662dbf4947db1",
+    "wof:geomhash":"a183a21f37dd518ac83c0a4c6639e91f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712711,
+    "wof:lastmodified":1684354666,
     "wof:name":"Agrobom, Saldonha e Vale Pereiro",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

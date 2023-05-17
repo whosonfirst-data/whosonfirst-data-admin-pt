@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pedome",
+    "eurostat:nuts_2021_id":"031230",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031230",
+    "eurostat:population":2120,
+    "eurostat:population_year":2020,
     "geom:area":0.000283,
+    "geom:area_square_m":2627297.788187,
     "geom:bbox":"-8.39877116943,41.4052567349,-8.37696864933,41.4265633907",
     "geom:latitude":41.416483,
     "geom:longitude":-8.387743,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pedome",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031230",
+        "eurostat:nuts_2021_id":"031230",
         "pt-dgt:id":"031230"
     },
     "wof:country":"PT",
     "wof:created":1576699136,
-    "wof:geomhash":"fb2b5f16fbe6c3cfad8327115db0ec27",
+    "wof:geomhash":"900f827cc9eb161bd4eaa2f4239349f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Pedome",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2120,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caba\u00e7os",
+    "eurostat:nuts_2021_id":"180706",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180706",
+    "eurostat:population":280,
+    "eurostat:population_year":2020,
     "geom:area":0.0012,
+    "geom:area_square_m":11197860.043769,
     "geom:bbox":"-7.59079822212,40.9963672205,-7.53098658968,41.0326814295",
     "geom:latitude":41.012282,
     "geom:longitude":-7.563832,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Caba\u00e7os",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180706",
+        "eurostat:nuts_2021_id":"180706",
         "pt-dgt:id":"180706"
     },
     "wof:country":"PT",
     "wof:created":1576698693,
-    "wof:geomhash":"24f28297abdd6a1caad2dd5d10e15b86",
+    "wof:geomhash":"6e71fdb667a2e58a82de7a74fa4ef377",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712631,
+    "wof:lastmodified":1684354584,
     "wof:name":"Caba\u00e7os",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":280,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

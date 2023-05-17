@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fatela",
+    "eurostat:nuts_2021_id":"050416",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050416",
+    "eurostat:population":564,
+    "eurostat:population_year":2020,
     "geom:area":0.001191,
+    "geom:area_square_m":11253110.92959,
     "geom:bbox":"-7.45172821002,40.1434442436,-7.40440356788,40.1875705055",
     "geom:latitude":40.163208,
     "geom:longitude":-7.427444,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fatela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050416",
+        "eurostat:nuts_2021_id":"050416",
         "pt-dgt:id":"050416"
     },
     "wof:country":"PT",
     "wof:created":1576698518,
-    "wof:geomhash":"9d997cab3bb58f43efa8c5181e435568",
+    "wof:geomhash":"8a5159956c2c34dc3328b103027eaa2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712597,
+    "wof:lastmodified":1684354558,
     "wof:name":"Fatela",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":564,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

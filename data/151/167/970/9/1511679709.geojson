@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070612",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras",
+    "eurostat:nuts_2021_id":"070612",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070612",
+    "eurostat:population":11568,
+    "eurostat:population_year":2020,
     "geom:area":0.043417,
+    "geom:area_square_m":419203533.481245,
     "geom:bbox":"-8.41050007127,38.5528766989,-8.02907652325,38.7867228501",
     "geom:latitude":38.662575,
     "geom:longitude":-8.21652,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070612",
+        "eurostat:nuts_2021_id":"070612",
         "pt-dgt:id":"070612"
     },
     "wof:country":"PT",
     "wof:created":1576698186,
-    "wof:geomhash":"2cea0b38095e5237f04b9378e004091a",
+    "wof:geomhash":"2df288a67caf2267f0d4dcdd11cfebe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712493,
+    "wof:lastmodified":1684354492,
     "wof:name":"N. S. da Vila, N. S. do Bispo e Silveiras",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":11568,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

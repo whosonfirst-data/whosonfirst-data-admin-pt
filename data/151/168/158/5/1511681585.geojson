@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090725",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meios",
+    "eurostat:nuts_2021_id":"090725",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090725",
+    "eurostat:population":197,
+    "eurostat:population_year":2020,
     "geom:area":0.000513,
+    "geom:area_square_m":4828208.891873,
     "geom:bbox":"-7.39748969679,40.4836072779,-7.33938618068,40.5047185759",
     "geom:latitude":40.492547,
     "geom:longitude":-7.370027,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Meios",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090725",
+        "eurostat:nuts_2021_id":"090725",
         "pt-dgt:id":"090725"
     },
     "wof:country":"PT",
     "wof:created":1576698626,
-    "wof:geomhash":"4e3e73876c69368485ff2d162d97d999",
+    "wof:geomhash":"b7145a0be5ae24e1d21fca5f4371cb53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712619,
+    "wof:lastmodified":1684354574,
     "wof:name":"Meios",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":197,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

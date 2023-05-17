@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldas da Rainha - Santo Onofre e Serra do Bouro",
+    "eurostat:nuts_2021_id":"100618",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100618",
+    "eurostat:population":11926,
+    "eurostat:population_year":2020,
     "geom:area":0.002878,
+    "geom:area_square_m":27480272.898792,
     "geom:bbox":"-9.2134042243,39.3880439085,-9.1385526367,39.4946104631",
     "geom:latitude":39.443576,
     "geom:longitude":-9.172906,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100618",
+        "eurostat:nuts_2021_id":"100618",
         "pt-dgt:id":"100618"
     },
     "wof:country":"PT",
     "wof:created":1576698328,
-    "wof:geomhash":"85335a36cb0c0f747d37cf1f33f7bc72",
+    "wof:geomhash":"22667f763f706873084aa4702885bac8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712535,
+    "wof:lastmodified":1684354518,
     "wof:name":"Caldas da Rainha - Santo Onofre e Serra do Bouro",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":11926,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

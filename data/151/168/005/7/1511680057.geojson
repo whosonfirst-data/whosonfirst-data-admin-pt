@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110813",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miragaia e Marteleira",
+    "eurostat:nuts_2021_id":"110813",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110813",
+    "eurostat:population":3583,
+    "eurostat:population_year":2020,
     "geom:area":0.00203,
+    "geom:area_square_m":19448754.349422,
     "geom:bbox":"-9.28963199267,39.1929169025,-9.23656692387,39.2506890909",
     "geom:latitude":39.219341,
     "geom:longitude":-9.260912,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Miragaia e Marteleira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110813",
+        "eurostat:nuts_2021_id":"110813",
         "pt-dgt:id":"110813"
     },
     "wof:country":"PT",
     "wof:created":1576698283,
-    "wof:geomhash":"ba9a1a85cefa02d6388a7c0425c2dea0",
+    "wof:geomhash":"fee8869c2ba9626e1ec562cc4f68b6a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712521,
+    "wof:lastmodified":1684354509,
     "wof:name":"Miragaia e Marteleira",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":3583,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontelo",
+    "eurostat:nuts_2021_id":"180107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180107",
+    "eurostat:population":641,
+    "eurostat:population_year":2020,
     "geom:area":0.000806,
+    "geom:area_square_m":7510135.144385,
     "geom:bbox":"-7.74752995874,41.1016706858,-7.71053228929,41.1451062602",
     "geom:latitude":41.125345,
     "geom:longitude":-7.730646,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fontelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180107",
+        "eurostat:nuts_2021_id":"180107",
         "pt-dgt:id":"180107"
     },
     "wof:country":"PT",
     "wof:created":1576698940,
-    "wof:geomhash":"fd8b5d602f9008e8cfddf20ac2cb92f1",
+    "wof:geomhash":"8b0a52debc19249ddd7e6d98342dc641",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712674,
+    "wof:lastmodified":1684354624,
     "wof:name":"Fontelo",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":641,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

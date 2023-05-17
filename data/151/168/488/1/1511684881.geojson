@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samil",
+    "eurostat:nuts_2021_id":"040240",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040240",
+    "eurostat:population":1246,
+    "eurostat:population_year":2020,
     "geom:area":0.001109,
+    "geom:area_square_m":10229833.782195,
     "geom:bbox":"-6.78923875398,41.7669842156,-6.7241672334,41.7957735578",
     "geom:latitude":41.779979,
     "geom:longitude":-6.75665,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Samil",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040240",
+        "eurostat:nuts_2021_id":"040240",
         "pt-dgt:id":"040240"
     },
     "wof:country":"PT",
     "wof:created":1576699318,
-    "wof:geomhash":"9ce000982f7ec45ab55d1f93c0d70726",
+    "wof:geomhash":"3fac8a99c6898ae75adf61d745584741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Samil",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":1246,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

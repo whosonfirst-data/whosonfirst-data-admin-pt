@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveira de Azem\u00e9is, Santiago da Riba-Ul, Ul, Macinhata da Seixa e Madail",
+    "eurostat:nuts_2021_id":"011321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011321",
+    "eurostat:population":20760,
+    "eurostat:population_year":2020,
     "geom:area":0.00277,
+    "geom:area_square_m":25913241.910905,
     "geom:bbox":"-8.52120152917,40.8052342312,-8.44776086983,40.8662877174",
     "geom:latitude":40.836334,
     "geom:longitude":-8.482939,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Oliveira de Azem\u00e9is, Santiago da Riba-Ul, Ul, Macinhata da Seixa e Madail",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011321",
+        "eurostat:nuts_2021_id":"011321",
         "pt-dgt:id":"011321"
     },
     "wof:country":"PT",
     "wof:created":1576698410,
-    "wof:geomhash":"d791e5fc7cd5b5fca2d826d3427f2912",
+    "wof:geomhash":"435813e79030f3d8a03b7b55b17f5344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712563,
+    "wof:lastmodified":1684354534,
     "wof:name":"O. Azem\u00e9is, Riba-Ul, Ul, Macinhata da Seixa, Madail",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":20760,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

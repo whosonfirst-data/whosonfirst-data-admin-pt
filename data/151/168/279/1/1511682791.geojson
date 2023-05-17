@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010925",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria de Lamas",
+    "eurostat:nuts_2021_id":"010925",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010925",
+    "eurostat:population":5073,
+    "eurostat:population_year":2020,
     "geom:area":0.000402,
-    "geom:area_square_m":3749827.589173,
+    "geom:area_square_m":3749827.589172,
     "geom:bbox":"-8.580243,40.968841,-8.555654,40.990515",
     "geom:latitude":40.978979,
     "geom:longitude":-8.567533,
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Maria de Lamas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010925",
+        "eurostat:nuts_2021_id":"010925",
         "pt-dgt:id":"010925"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698878,
-    "wof:geomhash":"dfc52e6f11b8690c1e5897f68860e622",
+    "wof:geomhash":"1b2543fbab2e19d8f103cad10cbaf430",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987231,
+    "wof:lastmodified":1684354613,
     "wof:name":"Santa Maria de Lamas",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":5073,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

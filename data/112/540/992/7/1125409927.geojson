@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170623",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pit\u00f5es das Junias",
+    "eurostat:nuts_2021_id":"170623",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170623",
+    "eurostat:population":161,
+    "eurostat:population_year":2020,
     "geom:area":0.003631,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":33446206.837979,
     "geom:bbox":"-8.00038900975,41.817521331,-7.90590623715,41.8782209154",
     "geom:latitude":41.851167,
     "geom:longitude":-7.952955,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170623",
+        "eurostat:nuts_2021_id":"170623",
         "gn:id":8013578,
         "pt-dgt:id":170623,
         "qs_pg:id":1155646
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"8034333f8748fab89bba7afb700c5f77",
+    "wof:geomhash":"2d161fe895a93b36a09c188e93d2a41e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125409927,
-    "wof:lastmodified":1582359927,
+    "wof:lastmodified":1684354451,
     "wof:name":"Pit\u00f5es das Junias",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":161,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

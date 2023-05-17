@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181821",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sernancelhe e Sarzeda",
+    "eurostat:nuts_2021_id":"181821",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181821",
+    "eurostat:population":1713,
+    "eurostat:population_year":2020,
     "geom:area":0.004785,
+    "geom:area_square_m":44720337.019116,
     "geom:bbox":"-7.51497667873,40.8338496324,-7.4138569274,40.9452759344",
     "geom:latitude":40.896741,
     "geom:longitude":-7.470413,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sernancelhe e Sarzeda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181821",
+        "eurostat:nuts_2021_id":"181821",
         "pt-dgt:id":"181821"
     },
     "wof:country":"PT",
     "wof:created":1576698638,
-    "wof:geomhash":"5c9b486953c672f854954b1f204833f2",
+    "wof:geomhash":"5a6ff5fa7451a3378e7126ac5a518e49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712622,
+    "wof:lastmodified":1684354576,
     "wof:name":"Sernancelhe e Sarzeda",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1713,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

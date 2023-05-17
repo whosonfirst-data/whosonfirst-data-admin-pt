@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060335",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eiras e S\u00e3o Paulo de Frades",
+    "eurostat:nuts_2021_id":"060335",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060335",
+    "eurostat:population":17921,
+    "eurostat:population_year":2020,
     "geom:area":0.002622,
+    "geom:area_square_m":24750807.272804,
     "geom:bbox":"-8.44514688421,40.2196503356,-8.35361520089,40.277497096",
     "geom:latitude":40.247336,
     "geom:longitude":-8.402978,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Eiras e S\u00e3o Paulo de Frades",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060335",
+        "eurostat:nuts_2021_id":"060335",
         "pt-dgt:id":"060335"
     },
     "wof:country":"PT",
     "wof:created":1576698544,
-    "wof:geomhash":"4f667e88dfd470caff9b439dac5a04f3",
+    "wof:geomhash":"edc4308df12075010105a63a20d91ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712603,
+    "wof:lastmodified":1684354561,
     "wof:name":"Eiras e S\u00e3o Paulo de Frades",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":17921,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

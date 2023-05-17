@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvendre",
+    "eurostat:nuts_2021_id":"090705",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090705",
+    "eurostat:population":210,
+    "eurostat:population_year":2020,
     "geom:area":0.001376,
+    "geom:area_square_m":12920977.740163,
     "geom:bbox":"-7.28790028676,40.5647522744,-7.22979105814,40.6061604008",
     "geom:latitude":40.586845,
     "geom:longitude":-7.256975,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvendre",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090705",
+        "eurostat:nuts_2021_id":"090705",
         "pt-dgt:id":"090705"
     },
     "wof:country":"PT",
     "wof:created":1576698723,
-    "wof:geomhash":"bccd917f3d02fa3ba883945335b80a65",
+    "wof:geomhash":"de40f6dbae1a7d87c2637e58926570a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354589,
     "wof:name":"Alvendre",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":210,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

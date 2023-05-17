@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120801",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabe\u00e7o de Vide",
+    "eurostat:nuts_2021_id":"120801",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120801",
+    "eurostat:population":1063,
+    "eurostat:population_year":2020,
     "geom:area":0.006853,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":65752650.274613,
     "geom:bbox":"-7.6506234764,39.0521049369,-7.52548218632,39.1670304746",
     "geom:latitude":39.111511,
     "geom:longitude":-7.580575,
@@ -49,7 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120801",
+        "eurostat:nuts_2021_id":"120801",
         "gn:id":6930693,
         "pt-dgt:id":120801,
         "qs_pg:id":652912
@@ -66,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9f2bc0b90a210656c2674251fd43dec9",
+    "wof:geomhash":"adadf881208bae80b1c0cd4e22fb9100",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1125375791,
-    "wof:lastmodified":1582359919,
+    "wof:lastmodified":1684354447,
     "wof:name":"Cabe\u00e7o de Vide",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
-    "wof:population":1133,
+    "wof:population":1063,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torr\u00e3o",
+    "eurostat:nuts_2021_id":"150104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150104",
+    "eurostat:population":2295,
+    "eurostat:population_year":2020,
     "geom:area":0.038332,
+    "geom:area_square_m":372165688.844089,
     "geom:bbox":"-8.46540181672,38.1783957976,-8.12969630378,38.3536215786",
     "geom:latitude":38.261545,
     "geom:longitude":-8.288269,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Torr\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150104",
+        "eurostat:nuts_2021_id":"150104",
         "pt-dgt:id":"150104"
     },
     "wof:country":"PT",
     "wof:created":1576698136,
-    "wof:geomhash":"a8da4272ec6466ae23b6ea4e3354584b",
+    "wof:geomhash":"f12f74a0a4fe079e56bcf90fb088f637",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712481,
+    "wof:lastmodified":1684354485,
     "wof:name":"Torr\u00e3o",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":2295,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160758",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornelos e Queijada",
+    "eurostat:nuts_2021_id":"160758",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160758",
+    "eurostat:population":1912,
+    "eurostat:population_year":2020,
     "geom:area":0.001408,
+    "geom:area_square_m":12992955.793196,
     "geom:bbox":"-8.57484092741,41.7037077855,-8.5016251109,41.7566375095",
     "geom:latitude":41.732269,
     "geom:longitude":-8.540544,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fornelos e Queijada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160758",
+        "eurostat:nuts_2021_id":"160758",
         "pt-dgt:id":"160758"
     },
     "wof:country":"PT",
     "wof:created":1576699287,
-    "wof:geomhash":"f207424e8cdeab89106a6d4ccbe32eec",
+    "wof:geomhash":"6ab1ae9c4dfb368c4f86e6dc5b5fbaae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712731,
+    "wof:lastmodified":1684354685,
     "wof:name":"Fornelos e Queijada",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1912,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

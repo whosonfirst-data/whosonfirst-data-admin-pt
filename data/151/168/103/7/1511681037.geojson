@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ereira",
+    "eurostat:nuts_2021_id":"061014",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061014",
+    "eurostat:population":649,
+    "eurostat:population_year":2020,
     "geom:area":0.000766,
+    "geom:area_square_m":7238495.575534,
     "geom:bbox":"-8.73646430327,40.1407255163,-8.68249747553,40.1689086366",
     "geom:latitude":40.154432,
     "geom:longitude":-8.703355,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ereira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061014",
+        "eurostat:nuts_2021_id":"061014",
         "pt-dgt:id":"061014"
     },
     "wof:country":"PT",
     "wof:created":1576698514,
-    "wof:geomhash":"2e6ca3e71d2294d72b5f56c5dbf8f8b1",
+    "wof:geomhash":"58c023edce239cf410907d4261993124",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712596,
+    "wof:lastmodified":1684354557,
     "wof:name":"Ereira",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":649,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

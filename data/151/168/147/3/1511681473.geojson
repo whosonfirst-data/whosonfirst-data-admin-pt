@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091126",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebolosa",
+    "eurostat:nuts_2021_id":"091126",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091126",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.000952,
+    "geom:area_square_m":8964193.575085,
     "geom:bbox":"-6.9231955625,40.3979624405,-6.88578010441,40.4386926079",
     "geom:latitude":40.419409,
     "geom:longitude":-6.90671,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rebolosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091126",
+        "eurostat:nuts_2021_id":"091126",
         "pt-dgt:id":"091126"
     },
     "wof:country":"PT",
     "wof:created":1576698603,
-    "wof:geomhash":"7c68729d64d6d0429b8d09efaf5a27fe",
+    "wof:geomhash":"3090c09eec5c0d584e1cdd6c9808b3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712615,
+    "wof:lastmodified":1684354570,
     "wof:name":"Rebolosa",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

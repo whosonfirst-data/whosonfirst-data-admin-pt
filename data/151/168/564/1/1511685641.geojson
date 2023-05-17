@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_460204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Madalena",
+    "eurostat:nuts_2021_id":"460204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"460204",
+    "eurostat:population":2581,
+    "eurostat:population_year":2020,
     "geom:area":0.003678,
+    "geom:area_square_m":35581147.562048,
     "geom:bbox":"-28.5384952945,38.4693342895,-28.4003075632,38.5554534782",
     "geom:latitude":38.517101,
     "geom:longitude":-28.482364,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Madalena",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_460204",
+        "eurostat:nuts_2021_id":"460204",
         "pt-dgt:id":"460204"
     },
     "wof:country":"PT",
     "wof:created":1576703605,
-    "wof:geomhash":"d748b3fc8b742f0e61a2a84513a03f24",
+    "wof:geomhash":"a40eaaf8fbc7aec18ec826eeb4685d35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720332,
+    "wof:lastmodified":1684354742,
     "wof:name":"Madalena",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2581,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

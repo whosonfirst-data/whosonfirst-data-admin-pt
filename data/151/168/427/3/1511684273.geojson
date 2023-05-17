@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chacim",
+    "eurostat:nuts_2021_id":"040509",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040509",
+    "eurostat:population":265,
+    "eurostat:population_year":2020,
     "geom:area":0.002094,
+    "geom:area_square_m":19398314.334917,
     "geom:bbox":"-6.94684540889,41.4461823568,-6.84701736447,41.4891164053",
     "geom:latitude":41.469521,
     "geom:longitude":-6.895434,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Chacim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040509",
+        "eurostat:nuts_2021_id":"040509",
         "pt-dgt:id":"040509"
     },
     "wof:country":"PT",
     "wof:created":1576699187,
-    "wof:geomhash":"6f34237eefe78d592db6ae05b51cdf20",
+    "wof:geomhash":"a6997e1a50340f4b729c8e4e0f6e31db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354673,
     "wof:name":"Chacim",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":265,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141411",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Sebasti\u00e3o",
+    "eurostat:nuts_2021_id":"141411",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141411",
+    "eurostat:population":523,
+    "eurostat:population_year":2020,
     "geom:area":0.00161,
+    "geom:area_square_m":15389640.700273,
     "geom:bbox":"-8.91504785883,39.3305798881,-8.85274978531,39.3956705681",
     "geom:latitude":39.363824,
     "geom:longitude":-8.886202,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Sebasti\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141411",
+        "eurostat:nuts_2021_id":"141411",
         "pt-dgt:id":"141411"
     },
     "wof:country":"PT",
     "wof:created":1576698299,
-    "wof:geomhash":"0e42c04c5fd49dd9954e56f833f4d5c8",
+    "wof:geomhash":"6a678ac732bc32c443523ea0c85f4754",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712526,
+    "wof:lastmodified":1684354512,
     "wof:name":"S\u00e3o Sebasti\u00e3o",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":523,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

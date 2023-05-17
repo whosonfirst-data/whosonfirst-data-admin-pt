@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bela",
+    "eurostat:nuts_2021_id":"160406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160406",
+    "eurostat:population":698,
+    "eurostat:population_year":2020,
     "geom:area":0.000413,
+    "geom:area_square_m":3786623.769744,
     "geom:bbox":"-8.44825971065,42.0520209315,-8.40751223894,42.0817675044",
     "geom:latitude":42.06593,
     "geom:longitude":-8.427791,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160406",
+        "eurostat:nuts_2021_id":"160406",
         "pt-dgt:id":"160406"
     },
     "wof:country":"PT",
     "wof:created":1576698688,
-    "wof:geomhash":"8b222a32b366712aba447343b6762a32",
+    "wof:geomhash":"3239e5f0fcc341a94dc5dae33ec77469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712630,
+    "wof:lastmodified":1684354583,
     "wof:name":"Bela",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odivelas",
+    "eurostat:nuts_2021_id":"111603",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111603",
+    "eurostat:population":59578,
+    "eurostat:population_year":2020,
     "geom:area":0.000523,
+    "geom:area_square_m":5039828.971325,
     "geom:bbox":"-9.19712573601,38.7785451609,-9.1673715711,38.8040495961",
     "geom:latitude":38.79119,
     "geom:longitude":-9.182423,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Odivelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111603",
+        "eurostat:nuts_2021_id":"111603",
         "pt-dgt:id":"111603"
     },
     "wof:country":"PT",
     "wof:created":1576698191,
-    "wof:geomhash":"7c70175d55dc7c7d1ffbfc319c392097",
+    "wof:geomhash":"ecb58cdcb430ec9fc4687fbb28f6f378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354493,
     "wof:name":"Odivelas",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":59578,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

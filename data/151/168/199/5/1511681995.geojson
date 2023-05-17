@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090763",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mizarela, P\u00earo Soares e Vila Soeiro",
+    "eurostat:nuts_2021_id":"090763",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090763",
+    "eurostat:population":246,
+    "eurostat:population_year":2020,
     "geom:area":0.00149,
+    "geom:area_square_m":14000697.590771,
     "geom:bbox":"-7.37174672876,40.5252060638,-7.31773896973,40.5686945252",
     "geom:latitude":40.546068,
     "geom:longitude":-7.344563,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Mizarela, P\u00earo Soares e Vila Soeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090763",
+        "eurostat:nuts_2021_id":"090763",
         "pt-dgt:id":"090763"
     },
     "wof:country":"PT",
     "wof:created":1576698707,
-    "wof:geomhash":"0db12cdc21ad9a21638c4fe466214ccf",
+    "wof:geomhash":"ac7442b5a9faffe4cb0ce5022a3b5fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712634,
+    "wof:lastmodified":1684354587,
     "wof:name":"Mizarela, P\u00earo Soares e Vila Soeiro",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":246,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

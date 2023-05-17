@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pont\u00e9vel",
+    "eurostat:nuts_2021_id":"140604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140604",
+    "eurostat:population":4614,
+    "eurostat:population_year":2020,
     "geom:area":0.002901,
+    "geom:area_square_m":27819120.837381,
     "geom:bbox":"-8.88160512591,39.1119003085,-8.79563287008,39.1830895205",
     "geom:latitude":39.143184,
     "geom:longitude":-8.841233,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pont\u00e9vel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140604",
+        "eurostat:nuts_2021_id":"140604",
         "pt-dgt:id":"140604"
     },
     "wof:country":"PT",
     "wof:created":1576698271,
-    "wof:geomhash":"b317cab786c9f1742e1fcec7e7cd6885",
+    "wof:geomhash":"ff4bbff445f7a5b23453b9c7e5959653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712518,
+    "wof:lastmodified":1684354507,
     "wof:name":"Pont\u00e9vel",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":4614,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

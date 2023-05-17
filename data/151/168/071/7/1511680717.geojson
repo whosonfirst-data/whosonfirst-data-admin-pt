@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelo Branco",
+    "eurostat:nuts_2021_id":"050205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050205",
+    "eurostat:population":35242,
+    "eurostat:population_year":2020,
     "geom:area":0.01791,
+    "geom:area_square_m":170087259.855104,
     "geom:bbox":"-7.586484,39.713687,-7.367007,39.909346",
     "geom:latitude":39.82331,
     "geom:longitude":-7.470726,
@@ -29,6 +42,8 @@
     "pt-dgt:freguesia":"Castelo Branco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,11 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050205",
+        "eurostat:nuts_2021_id":"050205",
         "pt-dgt:id":"050205"
     },
     "wof:country":"PT",
     "wof:created":1576698438,
-    "wof:geomhash":"82dca5519bcf8d91d55b977baea39f43",
+    "wof:geomhash":"e7e3926b122d999c61b9b02bb251626f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502996,
+    "wof:lastmodified":1684354541,
     "wof:name":"Castelo Branco",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":35242,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

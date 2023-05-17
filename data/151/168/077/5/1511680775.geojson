@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troviscal",
+    "eurostat:nuts_2021_id":"050913",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"050913",
+    "eurostat:population":864,
+    "eurostat:population_year":2020,
     "geom:area":0.005619,
+    "geom:area_square_m":53319288.225454,
     "geom:bbox":"-8.09707642924,39.8348343982,-7.91585762445,39.9095171156",
     "geom:latitude":39.875495,
     "geom:longitude":-8.017284,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Troviscal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050913",
+        "eurostat:nuts_2021_id":"050913",
         "pt-dgt:id":"050913"
     },
     "wof:country":"PT",
     "wof:created":1576698453,
-    "wof:geomhash":"34c26f25f9081f7ac7c9e1dcd8f1a85a",
+    "wof:geomhash":"47c0ce6fe043387151c93fa4a6b3f630",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712576,
+    "wof:lastmodified":1684354544,
     "wof:name":"Troviscal",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":864,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

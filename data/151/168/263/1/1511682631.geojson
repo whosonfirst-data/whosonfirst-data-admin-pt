@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Couto de Esteves",
+    "eurostat:nuts_2021_id":"011702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011702",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.001752,
+    "geom:area_square_m":16404641.915208,
     "geom:bbox":"-8.3348795729,40.7414795891,-8.27193227212,40.7865767462",
     "geom:latitude":40.765206,
     "geom:longitude":-8.304724,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Couto de Esteves",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011702",
+        "eurostat:nuts_2021_id":"011702",
         "pt-dgt:id":"011702"
     },
     "wof:country":"PT",
     "wof:created":1576698844,
-    "wof:geomhash":"91154fef78a33db201d53b7e69537abc",
+    "wof:geomhash":"6faee61f7a8dd2d07150698b394ebab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712655,
+    "wof:lastmodified":1684354606,
     "wof:name":"Couto de Esteves",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

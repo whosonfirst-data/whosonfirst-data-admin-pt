@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fenais da Luz",
+    "eurostat:nuts_2021_id":"420308",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420308",
+    "eurostat:population":2009,
+    "eurostat:population_year":2020,
     "geom:area":0.000787,
+    "geom:area_square_m":7685323.638127,
     "geom:bbox":"-25.6549517479,37.790067249,-25.6166747704,37.8338849354",
     "geom:latitude":37.814497,
     "geom:longitude":-25.63799,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Fenais da Luz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420308",
+        "eurostat:nuts_2021_id":"420308",
         "pt-dgt:id":"420308"
     },
     "wof:country":"PT",
     "wof:created":1576699424,
-    "wof:geomhash":"2ed43a29843321d4d1ea9bdc553d6f4e",
+    "wof:geomhash":"22adc2c7879f8d50198dce8e2b91cafd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720292,
+    "wof:lastmodified":1684354708,
     "wof:name":"Fenais da Luz",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2009,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

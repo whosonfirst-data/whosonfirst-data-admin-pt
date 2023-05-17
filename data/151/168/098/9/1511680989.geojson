@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia do Bispo, \u00c1guas e Aldeia de Jo\u00e3o Pires",
+    "eurostat:nuts_2021_id":"050713",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050713",
+    "eurostat:population":1171,
+    "eurostat:population_year":2020,
     "geom:area":0.003455,
+    "geom:area_square_m":32671223.076905,
     "geom:bbox":"-7.22461689125,40.076497298,-7.12704188291,40.1343556148",
     "geom:latitude":40.106504,
     "geom:longitude":-7.176794,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Aldeia do Bispo, \u00c1guas e Aldeia de Jo\u00e3o Pires",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050713",
+        "eurostat:nuts_2021_id":"050713",
         "pt-dgt:id":"050713"
     },
     "wof:country":"PT",
     "wof:created":1576698504,
-    "wof:geomhash":"e5358e64c51ab038aa8209ba891e5f30",
+    "wof:geomhash":"375a6cc32c2d0ce9035cada30b5ea5bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712594,
+    "wof:lastmodified":1684354556,
     "wof:name":"Aldeia do Bispo, \u00c1guas e Aldeia de Jo\u00e3o Pires",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1171,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

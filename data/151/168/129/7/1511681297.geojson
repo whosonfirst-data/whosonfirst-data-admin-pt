@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061612",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jo\u00e3o da Boa Vista",
+    "eurostat:nuts_2021_id":"061612",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061612",
+    "eurostat:population":453,
+    "eurostat:population_year":2020,
     "geom:area":0.001044,
+    "geom:area_square_m":9842836.746251,
     "geom:bbox":"-8.0252572103,40.3183056638,-7.97606557363,40.3516356428",
     "geom:latitude":40.336121,
     "geom:longitude":-7.999559,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Jo\u00e3o da Boa Vista",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061612",
+        "eurostat:nuts_2021_id":"061612",
         "pt-dgt:id":"061612"
     },
     "wof:country":"PT",
     "wof:created":1576698568,
-    "wof:geomhash":"21504401ada4d3b08f852264d90528a5",
+    "wof:geomhash":"bec78425b60676f2f74e71a1bfd22f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712608,
+    "wof:lastmodified":1684354565,
     "wof:name":"S\u00e3o Jo\u00e3o da Boa Vista",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":453,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

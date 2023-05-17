@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arroios",
+    "eurostat:nuts_2021_id":"171404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171404",
+    "eurostat:population":1117,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2887645.702998,
     "geom:bbox":"-7.7298649166,41.2793114403,-7.69898277653,41.2969872198",
     "geom:latitude":41.288414,
     "geom:longitude":-7.713772,
@@ -55,6 +67,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -62,6 +76,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171404",
+        "eurostat:nuts_2021_id":"171404",
         "gn:id":8013715,
         "pt-dgt:id":171404,
         "qs_pg:id":1155649
@@ -71,7 +87,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0100d0e4301b2c2af9296d1fd6cf50db",
+    "wof:geomhash":"1baf65e489b453c7d71ca4ed5818117a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,10 +97,12 @@
         }
     ],
     "wof:id":1125382363,
-    "wof:lastmodified":1582359924,
+    "wof:lastmodified":1684354447,
     "wof:name":"Arroios",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1117,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

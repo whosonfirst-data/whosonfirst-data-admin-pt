@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Frende",
+    "eurostat:nuts_2021_id":"130204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130204",
+    "eurostat:population":656,
+    "eurostat:population_year":2020,
     "geom:area":0.000311,
+    "geom:area_square_m":2896461.484846,
     "geom:bbox":"-7.94340488559,41.1181368767,-7.91093689227,41.1376823048",
     "geom:latitude":41.125539,
     "geom:longitude":-7.923836,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Frende",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130204",
+        "eurostat:nuts_2021_id":"130204",
         "pt-dgt:id":"130204"
     },
     "wof:country":"PT",
     "wof:created":1576698934,
-    "wof:geomhash":"c06d17de35db2e54cca0286d2cb001da",
+    "wof:geomhash":"9c949d4d59de47be4d90e4d00af4f81f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712673,
+    "wof:lastmodified":1684354623,
     "wof:name":"Frende",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":656,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

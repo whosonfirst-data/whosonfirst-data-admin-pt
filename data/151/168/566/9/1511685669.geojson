@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_440102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luz",
+    "eurostat:nuts_2021_id":"440102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"440102",
+    "eurostat:population":683,
+    "eurostat:population_year":2020,
     "geom:area":0.001218,
+    "geom:area_square_m":11701072.826008,
     "geom:bbox":"-28.0293689589,39.0085850535,-27.9479676597,39.0453005985",
     "geom:latitude":39.024896,
     "geom:longitude":-27.99266,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Luz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_440102",
+        "eurostat:nuts_2021_id":"440102",
         "pt-dgt:id":"440102"
     },
     "wof:country":"PT",
     "wof:created":1576703611,
-    "wof:geomhash":"1833208bd5310f616761aa155b6c469e",
+    "wof:geomhash":"7ed98b56609cd82365c23af7f0f54e84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720296,
+    "wof:lastmodified":1684354744,
     "wof:name":"Luz",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":683,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

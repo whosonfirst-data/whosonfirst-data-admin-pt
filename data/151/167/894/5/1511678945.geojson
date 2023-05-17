@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aljezur",
+    "eurostat:nuts_2021_id":"080301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080301",
+    "eurostat:population":3365,
+    "eurostat:population_year":2020,
     "geom:area":0.016946,
+    "geom:area_square_m":166683473.90652,
     "geom:bbox":"-8.87994891211,37.216087051,-8.69817529615,37.3837970209",
     "geom:latitude":37.300808,
     "geom:longitude":-8.793034,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aljezur",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080301",
+        "eurostat:nuts_2021_id":"080301",
         "pt-dgt:id":"080301"
     },
     "wof:country":"PT",
     "wof:created":1576697999,
-    "wof:geomhash":"01760c5a67faf3ff570ae6617f17eca7",
+    "wof:geomhash":"14f3fbf63a6dc91152703e9f25550216",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712439,
+    "wof:lastmodified":1684354459,
     "wof:name":"Aljezur",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":3365,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

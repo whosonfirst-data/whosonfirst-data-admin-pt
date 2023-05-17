@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Ant\u00f3nio da Charneca",
+    "eurostat:nuts_2021_id":"150407",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150407",
+    "eurostat:population":11536,
+    "eurostat:population_year":2020,
     "geom:area":0.000796,
+    "geom:area_square_m":7690340.658258,
     "geom:bbox":"-9.0488065273,38.5870177967,-8.99714167977,38.6410613824",
     "geom:latitude":38.618024,
     "geom:longitude":-9.023297,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santo Ant\u00f3nio da Charneca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150407",
+        "eurostat:nuts_2021_id":"150407",
         "pt-dgt:id":"150407"
     },
     "wof:country":"PT",
     "wof:created":1576698158,
-    "wof:geomhash":"19f75eea6c9ebc4c9b4ea8307565c3a4",
+    "wof:geomhash":"4d62527ae0cb5ce49b3e81d78536b693",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712488,
+    "wof:lastmodified":1684354489,
     "wof:name":"Santo Ant\u00f3nio da Charneca",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":11536,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

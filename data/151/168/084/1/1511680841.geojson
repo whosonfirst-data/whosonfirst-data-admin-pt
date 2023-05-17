@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pelariga",
+    "eurostat:nuts_2021_id":"101508",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101508",
+    "eurostat:population":2186,
+    "eurostat:population_year":2020,
     "geom:area":0.002777,
+    "geom:area_square_m":26318873.209031,
     "geom:bbox":"-8.64453075668,39.932181479,-8.56073196025,39.9914934612",
     "geom:latitude":39.960134,
     "geom:longitude":-8.610338,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pelariga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101508",
+        "eurostat:nuts_2021_id":"101508",
         "pt-dgt:id":"101508"
     },
     "wof:country":"PT",
     "wof:created":1576698469,
-    "wof:geomhash":"7810ee6123b6124191dcde74a6a188cf",
+    "wof:geomhash":"7f09f7e0b7b4c1f93e84165c76b72ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712582,
+    "wof:lastmodified":1684354548,
     "wof:name":"Pelariga",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2186,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

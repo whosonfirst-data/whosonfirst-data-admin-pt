@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171231",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilarandelo",
+    "eurostat:nuts_2021_id":"171231",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171231",
+    "eurostat:population":984,
+    "eurostat:population_year":2020,
     "geom:area":0.002179,
+    "geom:area_square_m":20130877.956097,
     "geom:bbox":"-7.34097698193,41.6367884394,-7.27858032208,41.6876994199",
     "geom:latitude":41.660888,
     "geom:longitude":-7.312057,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilarandelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171231",
+        "eurostat:nuts_2021_id":"171231",
         "pt-dgt:id":"171231"
     },
     "wof:country":"PT",
     "wof:created":1576698666,
-    "wof:geomhash":"301100708941eece53e286814c9e67a0",
+    "wof:geomhash":"02f30ce4f7e38372235f3d7d946a11e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712627,
+    "wof:lastmodified":1684354580,
     "wof:name":"Vilarandelo",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":984,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

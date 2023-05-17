@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caravelas",
+    "eurostat:nuts_2021_id":"040710",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040710",
+    "eurostat:population":214,
+    "eurostat:population_year":2020,
     "geom:area":0.001353,
+    "geom:area_square_m":12546585.556582,
     "geom:bbox":"-7.08576619408,41.4125886716,-7.03123199159,41.4546737816",
     "geom:latitude":41.434247,
     "geom:longitude":-7.061773,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Caravelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040710",
+        "eurostat:nuts_2021_id":"040710",
         "pt-dgt:id":"040710"
     },
     "wof:country":"PT",
     "wof:created":1576699161,
-    "wof:geomhash":"88f9ea0c3d1ac9e8ca7c9692f8c5fdf4",
+    "wof:geomhash":"2911e21346b2421c27af6ffd0cbb706f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712714,
+    "wof:lastmodified":1684354669,
     "wof:name":"Caravelas",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":214,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160524",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Formariz e Ferreira",
+    "eurostat:nuts_2021_id":"160524",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160524",
+    "eurostat:population":998,
+    "eurostat:population_year":2020,
     "geom:area":0.002121,
+    "geom:area_square_m":19510322.760975,
     "geom:bbox":"-8.6102488426,41.9085768951,-8.55774958677,41.9806202995",
     "geom:latitude":41.938586,
     "geom:longitude":-8.581197,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Formariz e Ferreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160524",
+        "eurostat:nuts_2021_id":"160524",
         "pt-dgt:id":"160524"
     },
     "wof:country":"PT",
     "wof:created":1576698107,
-    "wof:geomhash":"ccaccc0afc88e553b448ba2a82e77910",
+    "wof:geomhash":"1e932b264b3920f6c45863c6aa99e002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712473,
+    "wof:lastmodified":1684354480,
     "wof:name":"Formariz e Ferreira",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":998,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

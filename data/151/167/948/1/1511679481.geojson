@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova da Baronia",
+    "eurostat:nuts_2021_id":"020302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020302",
+    "eurostat:population":1245,
+    "eurostat:population_year":2020,
     "geom:area":0.013211,
+    "geom:area_square_m":128253608.664251,
     "geom:bbox":"-8.16436867643,38.1880193979,-7.99568088574,38.3293469855",
     "geom:latitude":38.26725,
     "geom:longitude":-8.079343,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova da Baronia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020302",
+        "eurostat:nuts_2021_id":"020302",
         "pt-dgt:id":"020302"
     },
     "wof:country":"PT",
     "wof:created":1576698135,
-    "wof:geomhash":"a4ae0ca64652d9a86a5ba796d76fea23",
+    "wof:geomhash":"19b608354bac3c9b23d0bd55b85052e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712481,
+    "wof:lastmodified":1684354484,
     "wof:name":"Vila Nova da Baronia",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1245,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

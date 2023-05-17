@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfeizer\u00e3o",
+    "eurostat:nuts_2021_id":"100102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100102",
+    "eurostat:population":3854,
+    "eurostat:population_year":2020,
     "geom:area":0.00293,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":27957632.260453,
     "geom:bbox":"-9.14365948851,39.4577115393,-9.05460256056,39.5190079564",
     "geom:latitude":39.488792,
     "geom:longitude":-9.097283,
@@ -73,6 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100102",
+        "eurostat:nuts_2021_id":"100102",
         "gn:id":8012307,
         "pt-dgt:id":100102,
         "qs_pg:id":904363
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"25e282bd82f1e304fb791124d0c75c74",
+    "wof:geomhash":"73597c1aa830c0fdc0d2116e971b946d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":1125270185,
-    "wof:lastmodified":1582359917,
+    "wof:lastmodified":1684354443,
     "wof:name":"Alfeizer\u00e3o",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

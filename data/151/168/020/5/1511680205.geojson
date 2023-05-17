@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141918",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brogueira, Parceiros de Igreja e Alcorochel",
+    "eurostat:nuts_2021_id":"141918",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141918",
+    "eurostat:population":2829,
+    "eurostat:population_year":2020,
     "geom:area":0.004401,
+    "geom:area_square_m":42036643.885202,
     "geom:bbox":"-8.63107888221,39.3971375408,-8.51943223023,39.4685986897",
     "geom:latitude":39.430558,
     "geom:longitude":-8.576774,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Brogueira, Parceiros de Igreja e Alcorochel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141918",
+        "eurostat:nuts_2021_id":"141918",
         "pt-dgt:id":"141918"
     },
     "wof:country":"PT",
     "wof:created":1576698317,
-    "wof:geomhash":"39f167616397ca4f37bad65e2751b545",
+    "wof:geomhash":"ea38e440bb8f2a2d464daed507c67524",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354515,
     "wof:name":"Brogueira, Parceiros de Igreja e Alcorochel",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2829,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

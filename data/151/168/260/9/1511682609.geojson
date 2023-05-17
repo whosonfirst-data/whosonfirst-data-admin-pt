@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Branca",
+    "eurostat:nuts_2021_id":"010204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010204",
+    "eurostat:population":5621,
+    "eurostat:population_year":2020,
     "geom:area":0.003229,
+    "geom:area_square_m":30252767.889365,
     "geom:bbox":"-8.53164682753,40.7167304646,-8.45263618157,40.7770899057",
     "geom:latitude":40.745563,
     "geom:longitude":-8.49025,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Branca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010204",
+        "eurostat:nuts_2021_id":"010204",
         "pt-dgt:id":"010204"
     },
     "wof:country":"PT",
     "wof:created":1576698839,
-    "wof:geomhash":"0c1fb949d7456627d558eecf71bd7c53",
+    "wof:geomhash":"fbfd5f1417b056a0ae6b33f6dda59bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712654,
+    "wof:lastmodified":1684354606,
     "wof:name":"Branca",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":5621,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

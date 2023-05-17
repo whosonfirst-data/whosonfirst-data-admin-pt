@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penacova",
+    "eurostat:nuts_2021_id":"061307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061307",
+    "eurostat:population":3254,
+    "eurostat:population_year":2020,
     "geom:area":0.003433,
+    "geom:area_square_m":32382446.156033,
     "geom:bbox":"-8.32013835484,40.241492706,-8.22423494073,40.3236778678",
     "geom:latitude":40.280919,
     "geom:longitude":-8.273219,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penacova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061307",
+        "eurostat:nuts_2021_id":"061307",
         "pt-dgt:id":"061307"
     },
     "wof:country":"PT",
     "wof:created":1576698559,
-    "wof:geomhash":"c9effaddf559cbc07cb993fad93eeacb",
+    "wof:geomhash":"d14c1e0e6f473f9c24ae5e40d04ac4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712606,
+    "wof:lastmodified":1684354564,
     "wof:name":"Penacova",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":3254,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

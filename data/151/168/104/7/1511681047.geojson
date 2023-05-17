@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050427",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Telhado",
+    "eurostat:nuts_2021_id":"050427",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050427",
+    "eurostat:population":618,
+    "eurostat:population_year":2020,
     "geom:area":0.001865,
+    "geom:area_square_m":17622436.957748,
     "geom:bbox":"-7.58789786553,40.1263400041,-7.52773126589,40.1824696869",
     "geom:latitude":40.154816,
     "geom:longitude":-7.560079,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Telhado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050427",
+        "eurostat:nuts_2021_id":"050427",
         "pt-dgt:id":"050427"
     },
     "wof:country":"PT",
     "wof:created":1576698516,
-    "wof:geomhash":"b1132681764d082e6683d7eef7c627a0",
+    "wof:geomhash":"861287207895532d3bb39d4cb6675728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712597,
+    "wof:lastmodified":1684354557,
     "wof:name":"Telhado",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":618,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

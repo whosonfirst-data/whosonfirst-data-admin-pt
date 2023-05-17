@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030823",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guardizela",
+    "eurostat:nuts_2021_id":"030823",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030823",
+    "eurostat:population":2474,
+    "eurostat:population_year":2020,
     "geom:area":0.000428,
+    "geom:area_square_m":3970474.334028,
     "geom:bbox":"-8.38087640761,41.3760596706,-8.34790239876,41.3986403279",
     "geom:latitude":41.387901,
     "geom:longitude":-8.365091,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Guardizela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030823",
+        "eurostat:nuts_2021_id":"030823",
         "pt-dgt:id":"030823"
     },
     "wof:country":"PT",
     "wof:created":1576699116,
-    "wof:geomhash":"bafa18b61ebea5c7a3891f282366f696",
+    "wof:geomhash":"16968aa097d4124cc8968361347b548e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712706,
+    "wof:lastmodified":1684354661,
     "wof:name":"Guardizela",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2474,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

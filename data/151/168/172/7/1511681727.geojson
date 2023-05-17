@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornos do Pinhal",
+    "eurostat:nuts_2021_id":"171211",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171211",
+    "eurostat:population":320,
+    "eurostat:population_year":2020,
     "geom:area":0.001124,
+    "geom:area_square_m":10383001.283676,
     "geom:bbox":"-7.28230113936,41.6376915259,-7.23024378919,41.6717553551",
     "geom:latitude":41.652263,
     "geom:longitude":-7.258813,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fornos do Pinhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171211",
+        "eurostat:nuts_2021_id":"171211",
         "pt-dgt:id":"171211"
     },
     "wof:country":"PT",
     "wof:created":1576698656,
-    "wof:geomhash":"603a58ffe1556f173b83435bb54df2aa",
+    "wof:geomhash":"287397f1d7c7bead5f2cc692905a576e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712625,
+    "wof:lastmodified":1684354579,
     "wof:name":"Fornos do Pinhal",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

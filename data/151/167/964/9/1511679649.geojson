@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peg\u00f5es",
+    "eurostat:nuts_2021_id":"150711",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150711",
+    "eurostat:population":3913,
+    "eurostat:population_year":2020,
     "geom:area":0.008258,
+    "geom:area_square_m":79711247.18223,
     "geom:bbox":"-8.78236482001,38.6446896418,-8.56621371925,38.7219665397",
     "geom:latitude":38.685652,
     "geom:longitude":-8.659163,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Peg\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150711",
+        "eurostat:nuts_2021_id":"150711",
         "pt-dgt:id":"150711"
     },
     "wof:country":"PT",
     "wof:created":1576698173,
-    "wof:geomhash":"2d35dbd62e620efe8ff16df8d4753e19",
+    "wof:geomhash":"88fb39643f80d71370aff892b43a51b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354490,
     "wof:name":"Peg\u00f5es",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":3913,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

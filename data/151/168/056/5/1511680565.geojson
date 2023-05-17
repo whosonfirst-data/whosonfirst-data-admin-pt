@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cardigos",
+    "eurostat:nuts_2021_id":"141303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141303",
+    "eurostat:population":1086,
+    "eurostat:population_year":2020,
     "geom:area":0.007449,
+    "geom:area_square_m":70861957.029997,
     "geom:bbox":"-8.06237998491,39.6528392328,-7.94972761817,39.7478340589",
     "geom:latitude":39.701954,
     "geom:longitude":-8.003454,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cardigos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141303",
+        "eurostat:nuts_2021_id":"141303",
         "pt-dgt:id":"141303"
     },
     "wof:country":"PT",
     "wof:created":1576698403,
-    "wof:geomhash":"4b2c2d9e83da72219b0c7b85d6861626",
+    "wof:geomhash":"6ec60772acc9f79f88840f53cc938f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712560,
+    "wof:lastmodified":1684354533,
     "wof:name":"Cardigos",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1086,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

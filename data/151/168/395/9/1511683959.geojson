@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre do Pinh\u00e3o",
+    "eurostat:nuts_2021_id":"171014",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171014",
+    "eurostat:population":342,
+    "eurostat:population_year":2020,
     "geom:area":0.001573,
+    "geom:area_square_m":14590455.984376,
     "geom:bbox":"-7.6509405387,41.3531419531,-7.595129572,41.4125480345",
     "geom:latitude":41.383874,
     "geom:longitude":-7.621917,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Torre do Pinh\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171014",
+        "eurostat:nuts_2021_id":"171014",
         "pt-dgt:id":"171014"
     },
     "wof:country":"PT",
     "wof:created":1576699126,
-    "wof:geomhash":"95f2c82534323d05cbfe5a27e92eab03",
+    "wof:geomhash":"782c9c80877e1e69a06436ab4ee768ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712707,
+    "wof:lastmodified":1684354662,
     "wof:name":"Torre do Pinh\u00e3o",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":342,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

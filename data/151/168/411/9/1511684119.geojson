@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cruz",
+    "eurostat:nuts_2021_id":"031212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031212",
+    "eurostat:population":1738,
+    "eurostat:population_year":2020,
     "geom:area":0.000445,
+    "geom:area_square_m":4126089.647965,
     "geom:bbox":"-8.50757882789,41.4258162943,-8.48123864498,41.4545390583",
     "geom:latitude":41.440794,
     "geom:longitude":-8.495552,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cruz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031212",
+        "eurostat:nuts_2021_id":"031212",
         "pt-dgt:id":"031212"
     },
     "wof:country":"PT",
     "wof:created":1576699157,
-    "wof:geomhash":"26c9fe9f2ed8c605eabc78b5521706f2",
+    "wof:geomhash":"80ef313ca67c1727f474e61a68c74244",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712713,
+    "wof:lastmodified":1684354668,
     "wof:name":"Cruz",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1738,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

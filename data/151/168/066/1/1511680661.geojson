@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100933",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Leiria, Pousos, Barreira e Cortes",
+    "eurostat:nuts_2021_id":"100933",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100933",
+    "eurostat:population":31775,
+    "eurostat:population_year":2020,
     "geom:area":0.005489,
+    "geom:area_square_m":52212159.435956,
     "geom:bbox":"-8.82867964601,39.6723773779,-8.73506561287,39.7660766464",
     "geom:latitude":39.716662,
     "geom:longitude":-8.783991,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Leiria, Pousos, Barreira e Cortes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100933",
+        "eurostat:nuts_2021_id":"100933",
         "pt-dgt:id":"100933"
     },
     "wof:country":"PT",
     "wof:created":1576698423,
-    "wof:geomhash":"c015f697837e525103b3b7c21794ff27",
+    "wof:geomhash":"bc5cee8137df478cb5e4f03a87cb78f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712566,
+    "wof:lastmodified":1684354537,
     "wof:name":"Leiria, Pousos, Barreira e Cortes",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":31775,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

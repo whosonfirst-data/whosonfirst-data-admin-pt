@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campanh\u00e3",
+    "eurostat:nuts_2021_id":"131203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131203",
+    "eurostat:population":32659,
+    "eurostat:population_year":2020,
     "geom:area":0.000863,
+    "geom:area_square_m":8032189.060873,
     "geom:bbox":"-8.5938,41.139958,-8.552613,41.179153",
     "geom:latitude":41.158637,
     "geom:longitude":-8.575994,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campanh\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131203",
+        "eurostat:nuts_2021_id":"131203",
         "pt-dgt:id":"131203"
     },
     "wof:coterminous":[
@@ -37,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698351,
-    "wof:geomhash":"abd41d7b570f42ba80c0e2841baf80aa",
+    "wof:geomhash":"7defd998aea73b9268794b5178fd3c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1633981639,
+    "wof:lastmodified":1684354522,
     "wof:name":"Campanh\u00e3",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":32659,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

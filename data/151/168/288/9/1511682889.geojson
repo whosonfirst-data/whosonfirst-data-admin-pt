@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gouvi\u00e3es e Ucanha",
+    "eurostat:nuts_2021_id":"182011",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"182011",
+    "eurostat:population":817,
+    "eurostat:population_year":2020,
     "geom:area":0.000958,
+    "geom:area_square_m":8929558.777189,
     "geom:bbox":"-7.7688507277,41.0318797032,-7.72093004262,41.0705463806",
     "geom:latitude":41.051984,
     "geom:longitude":-7.745719,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Gouvi\u00e3es e Ucanha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182011",
+        "eurostat:nuts_2021_id":"182011",
         "pt-dgt:id":"182011"
     },
     "wof:country":"PT",
     "wof:created":1576698897,
-    "wof:geomhash":"c67428c11d3f15f2bd2297aa66cb937c",
+    "wof:geomhash":"fb739fc7aa4891200c864a922bcdacab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712666,
+    "wof:lastmodified":1684354617,
     "wof:name":"Gouvi\u00e3es e Ucanha",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":817,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

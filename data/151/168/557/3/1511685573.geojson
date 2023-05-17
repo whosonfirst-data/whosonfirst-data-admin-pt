@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Roque do Faial",
+    "eurostat:nuts_2021_id":"310905",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310905",
+    "eurostat:population":736,
+    "eurostat:population_year":2020,
     "geom:area":0.001501,
+    "geom:area_square_m":15615503.745562,
     "geom:bbox":"-16.9391179936,32.717893445,-16.8474083896,32.7797660422",
     "geom:latitude":32.741509,
     "geom:longitude":-16.892149,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"S\u00e3o Roque do Faial",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310905",
+        "eurostat:nuts_2021_id":"310905",
         "pt-dgt:id":"310905"
     },
     "wof:country":"PT",
     "wof:created":1576699480,
-    "wof:geomhash":"03a4a0cb083d99c8b93987b758c43f18",
+    "wof:geomhash":"44465872ba954a1c5c424dd3f6b33d62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720289,
+    "wof:lastmodified":1684354736,
     "wof:name":"S\u00e3o Roque do Faial",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":736,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valadares",
+    "eurostat:nuts_2021_id":"181617",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181617",
+    "eurostat:population":805,
+    "eurostat:population_year":2020,
     "geom:area":0.002214,
+    "geom:area_square_m":20735806.597619,
     "geom:bbox":"-8.24478964532,40.745214218,-8.17129553527,40.7973953388",
     "geom:latitude":40.767935,
     "geom:longitude":-8.207255,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valadares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181617",
+        "eurostat:nuts_2021_id":"181617",
         "pt-dgt:id":"181617"
     },
     "wof:country":"PT",
     "wof:created":1576698848,
-    "wof:geomhash":"baf32b32f22643547b6d42a9db677096",
+    "wof:geomhash":"b957f496b4e70acf90efaec1ab1052de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712656,
+    "wof:lastmodified":1684354607,
     "wof:name":"Valadares",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":805,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alagoa",
+    "eurostat:nuts_2021_id":"121401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121401",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.001897,
+    "geom:area_square_m":18139707.32202,
     "geom:bbox":"-7.55852671327,39.3356588529,-7.49642144016,39.3847522333",
     "geom:latitude":39.363131,
     "geom:longitude":-7.523754,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alagoa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121401",
+        "eurostat:nuts_2021_id":"121401",
         "pt-dgt:id":"121401"
     },
     "wof:country":"PT",
     "wof:created":1576698058,
-    "wof:geomhash":"7cc29c76cb3a4791cd7d46796eebe0ac",
+    "wof:geomhash":"7269a873ca15a8afaee5a452a5c12618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712465,
+    "wof:lastmodified":1684354474,
     "wof:name":"Alagoa",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

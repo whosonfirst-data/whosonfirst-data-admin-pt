@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova de S\u00e3o Bento e Vale de Vargo",
+    "eurostat:nuts_2021_id":"021309",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"021309",
+    "eurostat:population":4040,
+    "eurostat:population_year":2020,
     "geom:area":0.03075,
+    "geom:area_square_m":300065104.277503,
     "geom:bbox":"-7.48979041269,37.7413585855,-7.31998150629,38.0550640387",
     "geom:latitude":37.89145,
     "geom:longitude":-7.405026,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vila Nova de S\u00e3o Bento e Vale de Vargo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021309",
+        "eurostat:nuts_2021_id":"021309",
         "pt-dgt:id":"021309"
     },
     "wof:country":"PT",
     "wof:created":1576698117,
-    "wof:geomhash":"a04c04dcc1669678055e76f1467ed8b2",
+    "wof:geomhash":"3bcc00d8ba9a2cb5d638c54f9706e123",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712476,
+    "wof:lastmodified":1684354482,
     "wof:name":"Vila Nova de S\u00e3o Bento e Vale de Vargo",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":4040,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

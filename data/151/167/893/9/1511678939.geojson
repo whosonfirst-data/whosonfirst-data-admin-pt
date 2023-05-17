@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Br\u00e1s de Alportel",
+    "eurostat:nuts_2021_id":"081201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081201",
+    "eurostat:population":10662,
+    "eurostat:population_year":2020,
     "geom:area":0.015565,
+    "geom:area_square_m":153313559.497276,
     "geom:bbox":"-7.96599897377,37.1225152126,-7.78492283071,37.2687656499",
     "geom:latitude":37.195684,
     "geom:longitude":-7.878642,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Br\u00e1s de Alportel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081201",
+        "eurostat:nuts_2021_id":"081201",
         "pt-dgt:id":"081201"
     },
     "wof:country":"PT",
     "wof:created":1576697997,
-    "wof:geomhash":"71ac0b26393fa4aa05d822c82566dc4f",
+    "wof:geomhash":"2e5c88cd8e66717e854e8e580a2da809",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712438,
+    "wof:lastmodified":1684354458,
     "wof:name":"S\u00e3o Br\u00e1s de Alportel",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":10662,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

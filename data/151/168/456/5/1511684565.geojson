@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040538",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vinhas",
+    "eurostat:nuts_2021_id":"040538",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040538",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.003563,
+    "geom:area_square_m":32965017.042444,
     "geom:bbox":"-6.84717357262,41.5130815052,-6.77213271355,41.5957252823",
     "geom:latitude":41.554921,
     "geom:longitude":-6.813123,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vinhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040538",
+        "eurostat:nuts_2021_id":"040538",
         "pt-dgt:id":"040538"
     },
     "wof:country":"PT",
     "wof:created":1576699256,
-    "wof:geomhash":"6333ff5cf833e6afadb73d43d3434abb",
+    "wof:geomhash":"6203a8a21a01cf1f6e3a5fea7a7c5d21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712727,
+    "wof:lastmodified":1684354681,
     "wof:name":"Vinhas",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

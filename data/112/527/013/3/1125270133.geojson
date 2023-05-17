@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redondo",
+    "eurostat:nuts_2021_id":"071002",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071002",
+    "eurostat:population":5733,
+    "eurostat:population_year":2020,
     "geom:area":0.031849,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":307572490.268846,
     "geom:bbox":"-7.72567034662,38.5371225149,-7.489086839,38.755128077",
     "geom:latitude":38.648134,
     "geom:longitude":-7.601747,
@@ -91,6 +103,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -98,6 +112,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071002",
+        "eurostat:nuts_2021_id":"071002",
         "gn:id":8011955,
         "pt-dgt:id":71002,
         "qs_pg:id":904351
@@ -107,7 +123,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a0fb5f887223b2054e26b7c914498b28",
+    "wof:geomhash":"ee62d12f8be38afef5c193ba4d8f31d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,10 +133,12 @@
         }
     ],
     "wof:id":1125270133,
-    "wof:lastmodified":1582359916,
+    "wof:lastmodified":1684354443,
     "wof:name":"Redondo",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":5733,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

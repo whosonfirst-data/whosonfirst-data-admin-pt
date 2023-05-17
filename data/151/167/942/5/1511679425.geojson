@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020524",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trigaches e S\u00e3o Brissos",
+    "eurostat:nuts_2021_id":"020524",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020524",
+    "eurostat:population":572,
+    "eurostat:population_year":2020,
     "geom:area":0.007009,
+    "geom:area_square_m":68221335.82728,
     "geom:bbox":"-8.00722127037,38.0229102742,-7.87699607,38.1209919716",
     "geom:latitude":38.076051,
     "geom:longitude":-7.941282,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Trigaches e S\u00e3o Brissos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020524",
+        "eurostat:nuts_2021_id":"020524",
         "pt-dgt:id":"020524"
     },
     "wof:country":"PT",
     "wof:created":1576698121,
-    "wof:geomhash":"1e8b0fc2954dd13fa4533c22ccb7c0d8",
+    "wof:geomhash":"a4b0c4adacab51ffc1ca594cb7687412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712477,
+    "wof:lastmodified":1684354482,
     "wof:name":"Trigaches e S\u00e3o Brissos",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":572,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

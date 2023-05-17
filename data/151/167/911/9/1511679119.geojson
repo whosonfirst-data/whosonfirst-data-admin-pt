@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A dos Negros",
+    "eurostat:nuts_2021_id":"101201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101201",
+    "eurostat:population":1489,
+    "eurostat:population_year":2020,
     "geom:area":0.001828,
+    "geom:area_square_m":17476152.415763,
     "geom:bbox":"-9.12806174218,39.3204572694,-9.05865580839,39.3663261593",
     "geom:latitude":39.342525,
     "geom:longitude":-9.097575,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"A dos Negros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101201",
+        "eurostat:nuts_2021_id":"101201",
         "pt-dgt:id":"101201"
     },
     "wof:country":"PT",
     "wof:created":1576698053,
-    "wof:geomhash":"e59b1c43bf418f6005944dab471095e3",
+    "wof:geomhash":"9412610731fcdba1f86073b109f209b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712464,
+    "wof:lastmodified":1684354473,
     "wof:name":"A dos Negros",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1489,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

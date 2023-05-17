@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castel\u00f5es",
+    "eurostat:nuts_2021_id":"031210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031210",
+    "eurostat:population":2021,
+    "eurostat:population_year":2020,
     "geom:area":0.00038,
+    "geom:area_square_m":3523768.675477,
     "geom:bbox":"-8.44551076781,41.4030049922,-8.41442710108,41.4210722398",
     "geom:latitude":41.412196,
     "geom:longitude":-8.428118,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castel\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031210",
+        "eurostat:nuts_2021_id":"031210",
         "pt-dgt:id":"031210"
     },
     "wof:country":"PT",
     "wof:created":1576699131,
-    "wof:geomhash":"6fbeafe74783df37f32e234f86fa924a",
+    "wof:geomhash":"9fa3a825a97e4c151eedd19962ce87f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712708,
+    "wof:lastmodified":1684354663,
     "wof:name":"Castel\u00f5es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2021,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

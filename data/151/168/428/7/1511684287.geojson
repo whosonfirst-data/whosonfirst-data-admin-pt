@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030725",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeiros",
+    "eurostat:nuts_2021_id":"030725",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030725",
+    "eurostat:population":640,
+    "eurostat:population_year":2020,
     "geom:area":0.000534,
+    "geom:area_square_m":4951400.141658,
     "geom:bbox":"-8.14394430036,41.4594667228,-8.10514975042,41.4991575174",
     "geom:latitude":41.481226,
     "geom:longitude":-8.125435,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ribeiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030725",
+        "eurostat:nuts_2021_id":"030725",
         "pt-dgt:id":"030725"
     },
     "wof:country":"PT",
     "wof:created":1576699190,
-    "wof:geomhash":"9a0e3c33c735733a6b5086a4f9905388",
+    "wof:geomhash":"900e3b3763c77eebea133bf42177a15a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354674,
     "wof:name":"Ribeiros",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":640,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

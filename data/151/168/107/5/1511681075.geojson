@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celavisa",
+    "eurostat:nuts_2021_id":"060105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060105",
+    "eurostat:population":182,
+    "eurostat:population_year":2020,
     "geom:area":0.001615,
+    "geom:area_square_m":15256111.44483,
     "geom:bbox":"-8.0820820213,40.1672029994,-8.00105748079,40.1979957265",
     "geom:latitude":40.18233,
     "geom:longitude":-8.041879,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Celavisa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060105",
+        "eurostat:nuts_2021_id":"060105",
         "pt-dgt:id":"060105"
     },
     "wof:country":"PT",
     "wof:created":1576698521,
-    "wof:geomhash":"9ed3668eb75707a6b4cf81bb3e6c82cc",
+    "wof:geomhash":"eb91909c7df3d26d2ccbdc9c162afaf8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712598,
+    "wof:lastmodified":1684354558,
     "wof:name":"Celavisa",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":182,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

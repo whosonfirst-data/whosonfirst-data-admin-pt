@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160818",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondomil e Sanfins",
+    "eurostat:nuts_2021_id":"160818",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160818",
+    "eurostat:population":464,
+    "eurostat:population_year":2020,
     "geom:area":0.001926,
+    "geom:area_square_m":17690075.666104,
     "geom:bbox":"-8.59709191841,41.9920498707,-8.53420462953,42.04324125",
     "geom:latitude":42.019205,
     "geom:longitude":-8.565634,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Gondomil e Sanfins",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160818",
+        "eurostat:nuts_2021_id":"160818",
         "pt-dgt:id":"160818"
     },
     "wof:country":"PT",
     "wof:created":1576698679,
-    "wof:geomhash":"d2f124c50f11d68c3373597ce5b95934",
+    "wof:geomhash":"36128da1af92705250a7ec2f51bcc9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354582,
     "wof:name":"Gondomil e Sanfins",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":464,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

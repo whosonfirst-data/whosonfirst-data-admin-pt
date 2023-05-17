@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Duas Igrejas",
+    "eurostat:nuts_2021_id":"040604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040604",
+    "eurostat:population":599,
+    "eurostat:population_year":2020,
     "geom:area":0.005376,
+    "geom:area_square_m":49801724.069271,
     "geom:bbox":"-6.40053764165,41.4480995162,-6.28471375074,41.5153029624",
     "geom:latitude":41.480682,
     "geom:longitude":-6.341218,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Duas Igrejas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040604",
+        "eurostat:nuts_2021_id":"040604",
         "pt-dgt:id":"040604"
     },
     "wof:country":"PT",
     "wof:created":1576699218,
-    "wof:geomhash":"c7de0e23fcff81c17e020ddd5e2c3886",
+    "wof:geomhash":"4a3af565a0ae5a8b54c443f711aeb110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354677,
     "wof:name":"Duas Igrejas",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":599,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cachopo",
+    "eurostat:nuts_2021_id":"081401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081401",
+    "eurostat:population":716,
+    "eurostat:population_year":2020,
     "geom:area":0.020687,
+    "geom:area_square_m":203445596.593299,
     "geom:bbox":"-7.91519018075,37.2401948528,-7.68225505258,37.3869758283",
     "geom:latitude":37.313365,
     "geom:longitude":-7.808923,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cachopo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081401",
+        "eurostat:nuts_2021_id":"081401",
         "pt-dgt:id":"081401"
     },
     "wof:country":"PT",
     "wof:created":1576698012,
-    "wof:geomhash":"8ecf7710c914e2d0eb581ddb3edee633",
+    "wof:geomhash":"f218cb4542063268ee30ec6fbacf7e32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712443,
+    "wof:lastmodified":1684354461,
     "wof:name":"Cachopo",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":716,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

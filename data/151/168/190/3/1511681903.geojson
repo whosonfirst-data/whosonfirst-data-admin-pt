@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090912",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Po\u00e7o do Canto",
+    "eurostat:nuts_2021_id":"090912",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090912",
+    "eurostat:population":443,
+    "eurostat:population_year":2020,
     "geom:area":0.001735,
+    "geom:area_square_m":16196671.442222,
     "geom:bbox":"-7.30787475984,40.9694972299,-7.24609789459,41.0189889391",
     "geom:latitude":40.996555,
     "geom:longitude":-7.28041,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Po\u00e7o do Canto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090912",
+        "eurostat:nuts_2021_id":"090912",
         "pt-dgt:id":"090912"
     },
     "wof:country":"PT",
     "wof:created":1576698689,
-    "wof:geomhash":"68cdb6cac5bfad25c8fadf294f7de8b4",
+    "wof:geomhash":"d09cf94c2e802b1f0263ed7d56d0dbfc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712630,
+    "wof:lastmodified":1684354583,
     "wof:name":"Po\u00e7o do Canto",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":443,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

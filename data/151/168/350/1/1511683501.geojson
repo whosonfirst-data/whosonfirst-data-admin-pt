@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131430",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Negrelos (S\u00e3o Tom\u00e9)",
+    "eurostat:nuts_2021_id":"131430",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131430",
+    "eurostat:population":4032,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
+    "geom:area_square_m":6108346.879749,
     "geom:bbox":"-8.41833800629,41.3291635078,-8.3893920274,41.3632057779",
     "geom:latitude":41.346137,
     "geom:longitude":-8.403205,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Negrelos (S\u00e3o Tom\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131430",
+        "eurostat:nuts_2021_id":"131430",
         "pt-dgt:id":"131430"
     },
     "wof:country":"PT",
     "wof:created":1576699023,
-    "wof:geomhash":"f2e79e4bd71033b358d37cd182d08389",
+    "wof:geomhash":"721df836513ca0ef51d23fcdf6b181ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712692,
+    "wof:lastmodified":1684354643,
     "wof:name":"Negrelos (S\u00e3o Tom\u00e9)",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":4032,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

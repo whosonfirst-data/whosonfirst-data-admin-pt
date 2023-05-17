@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sandomil",
+    "eurostat:nuts_2021_id":"091212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091212",
+    "eurostat:population":917,
+    "eurostat:population_year":2020,
     "geom:area":0.001402,
+    "geom:area_square_m":13208646.420357,
     "geom:bbox":"-7.80506278212,40.3356217448,-7.74045299747,40.3759259077",
     "geom:latitude":40.355121,
     "geom:longitude":-7.773059,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sandomil",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091212",
+        "eurostat:nuts_2021_id":"091212",
         "pt-dgt:id":"091212"
     },
     "wof:country":"PT",
     "wof:created":1576698578,
-    "wof:geomhash":"9cd44d05d2d434ab34714e280365b9ba",
+    "wof:geomhash":"aa7aec3a2041fa89fbed178106ef8907",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712610,
+    "wof:lastmodified":1684354566,
     "wof:name":"Sandomil",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":917,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

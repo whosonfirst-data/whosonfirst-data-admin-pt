@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valado dos Frades",
+    "eurostat:nuts_2021_id":"101103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101103",
+    "eurostat:population":3109,
+    "eurostat:population_year":2020,
     "geom:area":0.001941,
+    "geom:area_square_m":18495491.44921,
     "geom:bbox":"-9.07164261933,39.5705665641,-8.98909515173,39.6197970866",
     "geom:latitude":39.593385,
     "geom:longitude":-9.017546,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valado dos Frades",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101103",
+        "eurostat:nuts_2021_id":"101103",
         "pt-dgt:id":"101103"
     },
     "wof:country":"PT",
     "wof:created":1576698373,
-    "wof:geomhash":"e086652892299937e1912e5476b4c774",
+    "wof:geomhash":"43613aead1272eccd06458fd1cff7e92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712549,
+    "wof:lastmodified":1684354526,
     "wof:name":"Valado dos Frades",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3109,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

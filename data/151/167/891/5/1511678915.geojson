@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080804",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boliqueime",
+    "eurostat:nuts_2021_id":"080804",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080804",
+    "eurostat:population":4973,
+    "eurostat:population_year":2020,
     "geom:area":0.004687,
+    "geom:area_square_m":46197138.214516,
     "geom:bbox":"-8.19689043482,37.1080864515,-8.09963485437,37.190209108",
     "geom:latitude":37.14638,
     "geom:longitude":-8.143617,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Boliqueime",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080804",
+        "eurostat:nuts_2021_id":"080804",
         "pt-dgt:id":"080804"
     },
     "wof:country":"PT",
     "wof:created":1576697991,
-    "wof:geomhash":"d1fc51289fa58ca2e5a81702db3dab17",
+    "wof:geomhash":"a72c57a4a9ca6767fb21a1f0848c37dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712436,
+    "wof:lastmodified":1684354457,
     "wof:name":"Boliqueime",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":4973,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

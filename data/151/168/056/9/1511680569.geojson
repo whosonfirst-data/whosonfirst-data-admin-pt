@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_051001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fundada",
+    "eurostat:nuts_2021_id":"051001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"051001",
+    "eurostat:population":638,
+    "eurostat:population_year":2020,
     "geom:area":0.003839,
+    "geom:area_square_m":36510419.598504,
     "geom:bbox":"-8.20953773225,39.6957325593,-8.10535363314,39.7598893936",
     "geom:latitude":39.727336,
     "geom:longitude":-8.158981,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fundada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_051001",
+        "eurostat:nuts_2021_id":"051001",
         "pt-dgt:id":"051001"
     },
     "wof:country":"PT",
     "wof:created":1576698404,
-    "wof:geomhash":"6136a4fba1eb5cf79d3e215a38fcd965",
+    "wof:geomhash":"30ea097127542ae381c8d2aae1f75ca0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712561,
+    "wof:lastmodified":1684354533,
     "wof:name":"Fundada",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":638,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

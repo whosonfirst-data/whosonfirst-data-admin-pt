@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silvalde",
+    "eurostat:nuts_2021_id":"010705",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010705",
+    "eurostat:population":6673,
+    "eurostat:population_year":2020,
     "geom:area":0.000584,
+    "geom:area_square_m":5447937.351475,
     "geom:bbox":"-8.65123261784,40.9791124275,-8.6062412629,41.0039688715",
     "geom:latitude":40.992078,
     "geom:longitude":-8.630075,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Silvalde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010705",
+        "eurostat:nuts_2021_id":"010705",
         "pt-dgt:id":"010705"
     },
     "wof:country":"PT",
     "wof:created":1576698627,
-    "wof:geomhash":"2a454d3cd4f833858640d1a88696fb45",
+    "wof:geomhash":"910cf818651426f00fb7a11ff34bd1e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712620,
+    "wof:lastmodified":1684354574,
     "wof:name":"Silvalde",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":6673,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

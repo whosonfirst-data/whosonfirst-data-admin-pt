@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1guas Frias",
+    "eurostat:nuts_2021_id":"170301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170301",
+    "eurostat:population":746,
+    "eurostat:population_year":2020,
     "geom:area":0.003115,
+    "geom:area_square_m":28732643.21736,
     "geom:bbox":"-7.40646990341,41.7295469032,-7.30602220932,41.7977920933",
     "geom:latitude":41.764039,
     "geom:longitude":-7.359535,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"\u00c1guas Frias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170301",
+        "eurostat:nuts_2021_id":"170301",
         "pt-dgt:id":"170301"
     },
     "wof:country":"PT",
     "wof:created":1576699315,
-    "wof:geomhash":"912e1cc365256db9e65103d1d0d3cc6e",
+    "wof:geomhash":"c9d3fefa0380ae306a26905cd0a44e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"\u00c1guas Frias",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":746,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

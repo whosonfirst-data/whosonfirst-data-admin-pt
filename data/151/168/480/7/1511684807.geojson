@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170359",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soutelo e Seara Velha",
+    "eurostat:nuts_2021_id":"170359",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170359",
+    "eurostat:population":515,
+    "eurostat:population_year":2020,
     "geom:area":0.001962,
+    "geom:area_square_m":18093287.707276,
     "geom:bbox":"-7.58689018211,41.7328871703,-7.51193189389,41.7839485091",
     "geom:latitude":41.760558,
     "geom:longitude":-7.54705,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Soutelo e Seara Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170359",
+        "eurostat:nuts_2021_id":"170359",
         "pt-dgt:id":"170359"
     },
     "wof:country":"PT",
     "wof:created":1576699304,
-    "wof:geomhash":"15a8a6677cb0a0156ba9017f1f0759fc",
+    "wof:geomhash":"0a1e06fd2d9588dfc6b96d82ea128c7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712734,
+    "wof:lastmodified":1684354687,
     "wof:name":"Soutelo e Seara Velha",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":515,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

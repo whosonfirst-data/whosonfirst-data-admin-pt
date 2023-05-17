@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040822",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale da Madre",
+    "eurostat:nuts_2021_id":"040822",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040822",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.001244,
+    "geom:area_square_m":11546265.319119,
     "geom:bbox":"-6.7359594035,41.3495019626,-6.6698879343,41.3898666394",
     "geom:latitude":41.365915,
     "geom:longitude":-6.706318,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale da Madre",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040822",
+        "eurostat:nuts_2021_id":"040822",
         "pt-dgt:id":"040822"
     },
     "wof:country":"PT",
     "wof:created":1576699115,
-    "wof:geomhash":"0fe87848b38f45ef5e96fd4b15c6d1e3",
+    "wof:geomhash":"85f8d3c83ecb8a777822ab65e07110a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712706,
+    "wof:lastmodified":1684354660,
     "wof:name":"Vale da Madre",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170637",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meixedo e Padornelos",
+    "eurostat:nuts_2021_id":"170637",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170637",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.003876,
+    "geom:area_square_m":35706010.376711,
     "geom:bbox":"-7.77484623442,41.7978676979,-7.7026906732,41.8990043462",
     "geom:latitude":41.847746,
     "geom:longitude":-7.743573,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Meixedo e Padornelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170637",
+        "eurostat:nuts_2021_id":"170637",
         "pt-dgt:id":"170637"
     },
     "wof:country":"PT",
     "wof:created":1576699360,
-    "wof:geomhash":"64b7df488be913df018a31064654ec52",
+    "wof:geomhash":"cdc4bf9ac8de855952fd251ed8a59e66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712742,
+    "wof:lastmodified":1684354695,
     "wof:name":"Meixedo e Padornelos",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

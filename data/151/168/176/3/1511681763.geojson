@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160941",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barroselas e Carvoeiro",
+    "eurostat:nuts_2021_id":"160941",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160941",
+    "eurostat:population":5031,
+    "eurostat:population_year":2020,
     "geom:area":0.002019,
+    "geom:area_square_m":18648811.656646,
     "geom:bbox":"-8.72250987498,41.6312692327,-8.6428471896,41.6830335045",
     "geom:latitude":41.654026,
     "geom:longitude":-8.673486,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Barroselas e Carvoeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160941",
+        "eurostat:nuts_2021_id":"160941",
         "pt-dgt:id":"160941"
     },
     "wof:country":"PT",
     "wof:created":1576698663,
-    "wof:geomhash":"c8f311eb9c9de3ddf6a3648cf4bcb7b1",
+    "wof:geomhash":"460bb1432f44a4667d484c9bc7ccc67b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712626,
+    "wof:lastmodified":1684354580,
     "wof:name":"Barroselas e Carvoeiro",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":5031,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

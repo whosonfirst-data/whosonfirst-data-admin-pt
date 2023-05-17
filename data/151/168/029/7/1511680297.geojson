@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mouriscas",
+    "eurostat:nuts_2021_id":"140106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140106",
+    "eurostat:population":1832,
+    "eurostat:population_year":2020,
     "geom:area":0.003668,
+    "geom:area_square_m":34992053.871281,
     "geom:bbox":"-8.13065800904,39.4649864426,-8.05965731351,39.5456153299",
     "geom:latitude":39.503037,
     "geom:longitude":-8.091025,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mouriscas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140106",
+        "eurostat:nuts_2021_id":"140106",
         "pt-dgt:id":"140106"
     },
     "wof:country":"PT",
     "wof:created":1576698338,
-    "wof:geomhash":"37e445f8513c430b247792f1bffcfdc5",
+    "wof:geomhash":"04279fcd02576e23b381dd09d61db973",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712539,
+    "wof:lastmodified":1684354520,
     "wof:name":"Mouriscas",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1832,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041230",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Verde",
+    "eurostat:nuts_2021_id":"041230",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041230",
+    "eurostat:population":186,
+    "eurostat:population_year":2020,
     "geom:area":0.001613,
+    "geom:area_square_m":14860003.76896,
     "geom:bbox":"-6.99634065938,41.810096024,-6.93760297019,41.8628127372",
     "geom:latitude":41.839636,
     "geom:longitude":-6.966222,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Verde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041230",
+        "eurostat:nuts_2021_id":"041230",
         "pt-dgt:id":"041230"
     },
     "wof:country":"PT",
     "wof:created":1576699348,
-    "wof:geomhash":"1938c82f8c041ae9eed1f240977002d7",
+    "wof:geomhash":"89722c73b6fe5a02e2b99304c6685726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354692,
     "wof:name":"Vila Verde",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":186,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

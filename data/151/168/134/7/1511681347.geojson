@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quadrazais",
+    "eurostat:nuts_2021_id":"091123",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091123",
+    "eurostat:population":457,
+    "eurostat:population_year":2020,
     "geom:area":0.004302,
+    "geom:area_square_m":40559114.672232,
     "geom:bbox":"-7.04427953279,40.2782073002,-6.9495263383,40.3702803473",
     "geom:latitude":40.31977,
     "geom:longitude":-6.998502,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Quadrazais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091123",
+        "eurostat:nuts_2021_id":"091123",
         "pt-dgt:id":"091123"
     },
     "wof:country":"PT",
     "wof:created":1576698577,
-    "wof:geomhash":"23ce1e2c4805ab3ebbaad37071f9718f",
+    "wof:geomhash":"2b7ccc860497e7350451502f6964d6ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712610,
+    "wof:lastmodified":1684354566,
     "wof:name":"Quadrazais",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":457,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

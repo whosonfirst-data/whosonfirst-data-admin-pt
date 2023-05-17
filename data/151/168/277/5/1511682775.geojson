@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcozelos",
+    "eurostat:nuts_2021_id":"180703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180703",
+    "eurostat:population":674,
+    "eurostat:population_year":2020,
     "geom:area":0.001016,
+    "geom:area_square_m":9487987.580174,
     "geom:bbox":"-7.61934618305,40.9471277162,-7.56465414796,40.9826700168",
     "geom:latitude":40.96797,
     "geom:longitude":-7.587188,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arcozelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180703",
+        "eurostat:nuts_2021_id":"180703",
         "pt-dgt:id":"180703"
     },
     "wof:country":"PT",
     "wof:created":1576698874,
-    "wof:geomhash":"6a009f46d423032cd7fd1c6b7c12db50",
+    "wof:geomhash":"acb2cb6ee2df528d1eedf566bc836f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712662,
+    "wof:lastmodified":1684354613,
     "wof:name":"Arcozelos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":674,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

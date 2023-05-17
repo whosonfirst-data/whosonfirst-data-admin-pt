@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Armamar",
+    "eurostat:nuts_2021_id":"180120",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180120",
+    "eurostat:population":1464,
+    "eurostat:population_year":2020,
     "geom:area":0.001796,
+    "geom:area_square_m":16733157.570617,
     "geom:bbox":"-7.72657853444,41.0835315949,-7.62718095711,41.1259804169",
     "geom:latitude":41.105258,
     "geom:longitude":-7.677494,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Armamar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180120",
+        "eurostat:nuts_2021_id":"180120",
         "pt-dgt:id":"180120"
     },
     "wof:country":"PT",
     "wof:created":1576698929,
-    "wof:geomhash":"3f63b1344f268d03a06a13a96864a21f",
+    "wof:geomhash":"887402f14a40e8fb0e27882fd62f3dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"Armamar",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1464,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

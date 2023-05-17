@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Outeiro Seco",
+    "eurostat:nuts_2021_id":"170321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170321",
+    "eurostat:population":938,
+    "eurostat:population_year":2020,
     "geom:area":0.001647,
+    "geom:area_square_m":15184119.322274,
     "geom:bbox":"-7.47623059338,41.7475592824,-7.42816788201,41.8079237453",
     "geom:latitude":41.783709,
     "geom:longitude":-7.451466,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Outeiro Seco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170321",
+        "eurostat:nuts_2021_id":"170321",
         "pt-dgt:id":"170321"
     },
     "wof:country":"PT",
     "wof:created":1576699321,
-    "wof:geomhash":"2276b3fbc5669b44403655ceea29dd7e",
+    "wof:geomhash":"a947f997a1f5a0c61c83511acae128a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Outeiro Seco",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":938,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

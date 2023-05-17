@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050327",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verdelhos",
+    "eurostat:nuts_2021_id":"050327",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050327",
+    "eurostat:population":664,
+    "eurostat:population_year":2020,
     "geom:area":0.003869,
+    "geom:area_square_m":36450779.51061,
     "geom:bbox":"-7.53702636906,40.3177296505,-7.44335730781,40.4018350624",
     "geom:latitude":40.361342,
     "geom:longitude":-7.487156,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Verdelhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050327",
+        "eurostat:nuts_2021_id":"050327",
         "pt-dgt:id":"050327"
     },
     "wof:country":"PT",
     "wof:created":1576698586,
-    "wof:geomhash":"ce2883fc8cc23f9ccb14841abac4f734",
+    "wof:geomhash":"dc3a549deec88cb189d375dadd0fd3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712611,
+    "wof:lastmodified":1684354568,
     "wof:name":"Verdelhos",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":664,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

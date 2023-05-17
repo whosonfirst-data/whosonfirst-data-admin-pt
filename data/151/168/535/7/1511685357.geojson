@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1gua Retorta",
+    "eurostat:nuts_2021_id":"420401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420401",
+    "eurostat:population":489,
+    "eurostat:population_year":2020,
     "geom:area":0.001284,
+    "geom:area_square_m":12547390.631489,
     "geom:bbox":"-25.2011987563,37.7419236089,-25.1409856749,37.7893782473",
     "geom:latitude":37.765671,
     "geom:longitude":-25.169894,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"\u00c1gua Retorta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420401",
+        "eurostat:nuts_2021_id":"420401",
         "pt-dgt:id":"420401"
     },
     "wof:country":"PT",
     "wof:created":1576699415,
-    "wof:geomhash":"c69a8028c5baff0680eda5de54d8d03c",
+    "wof:geomhash":"097627c39c17af440813cc68cbc0540e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720285,
+    "wof:lastmodified":1684354702,
     "wof:name":"\u00c1gua Retorta",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":489,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

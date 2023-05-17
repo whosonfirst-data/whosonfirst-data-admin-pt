@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vimeiro",
+    "eurostat:nuts_2021_id":"110808",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110808",
+    "eurostat:population":1470,
+    "eurostat:population_year":2020,
     "geom:area":0.000738,
+    "geom:area_square_m":7070372.874525,
     "geom:bbox":"-9.32441509289,39.1744987035,-9.275419632,39.207917154",
     "geom:latitude":39.189803,
     "geom:longitude":-9.299378,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vimeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110808",
+        "eurostat:nuts_2021_id":"110808",
         "pt-dgt:id":"110808"
     },
     "wof:country":"PT",
     "wof:created":1576698279,
-    "wof:geomhash":"9ceefdf06c0dc9c2e881d42579eb6c1e",
+    "wof:geomhash":"b27817056b07e1ee28450e32f11063f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712520,
+    "wof:lastmodified":1684354508,
     "wof:name":"Vimeiro",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":1470,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

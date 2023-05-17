@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Eug\u00e9nia",
+    "eurostat:nuts_2021_id":"170113",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170113",
+    "eurostat:population":333,
+    "eurostat:population_year":2020,
     "geom:area":0.000984,
+    "geom:area_square_m":9130321.205325,
     "geom:bbox":"-7.43298549206,41.3311880104,-7.38723212057,41.3627831498",
     "geom:latitude":41.344944,
     "geom:longitude":-7.410233,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Eug\u00e9nia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170113",
+        "eurostat:nuts_2021_id":"170113",
         "pt-dgt:id":"170113"
     },
     "wof:country":"PT",
     "wof:created":1576699025,
-    "wof:geomhash":"ca8393066d6aecb93eb7491dd631124f",
+    "wof:geomhash":"b0aa84bd271f93bdeddac9ec089357c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712692,
+    "wof:lastmodified":1684354643,
     "wof:name":"Santa Eug\u00e9nia",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":333,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

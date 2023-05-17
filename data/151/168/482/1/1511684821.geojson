@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vade (S\u00e3o Tom\u00e9)",
+    "eurostat:nuts_2021_id":"160624",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160624",
+    "eurostat:population":287,
+    "eurostat:population_year":2020,
     "geom:area":0.00017,
+    "geom:area_square_m":1569900.332071,
     "geom:bbox":"-8.4166296788,41.77832623,-8.39360491401,41.7890841819",
     "geom:latitude":41.783423,
     "geom:longitude":-8.405916,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vade (S\u00e3o Tom\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160624",
+        "eurostat:nuts_2021_id":"160624",
         "pt-dgt:id":"160624"
     },
     "wof:country":"PT",
     "wof:created":1576699307,
-    "wof:geomhash":"ae21c67e3f768c5b159d14edcfb776b8",
+    "wof:geomhash":"36467f7044f796ff8406da338c80867a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712734,
+    "wof:lastmodified":1684354687,
     "wof:name":"Vade (S\u00e3o Tom\u00e9)",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":287,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

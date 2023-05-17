@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Refojos de Basto, Outeiro e Painzela",
+    "eurostat:nuts_2021_id":"030421",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030421",
+    "eurostat:population":6755,
+    "eurostat:population_year":2020,
     "geom:area":0.003123,
+    "geom:area_square_m":28913662.822539,
     "geom:bbox":"-8.05757331374,41.489084096,-7.95147781935,41.5390991532",
     "geom:latitude":41.514146,
     "geom:longitude":-8.010408,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Refojos de Basto, Outeiro e Painzela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030421",
+        "eurostat:nuts_2021_id":"030421",
         "pt-dgt:id":"030421"
     },
     "wof:country":"PT",
     "wof:created":1576699222,
-    "wof:geomhash":"60eb3cd8aac4291be2b907bd9472c54a",
+    "wof:geomhash":"0a8988151fb47ec457a6ed6bd38b890c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354677,
     "wof:name":"Refojos de Basto, Outeiro e Painzela",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":6755,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

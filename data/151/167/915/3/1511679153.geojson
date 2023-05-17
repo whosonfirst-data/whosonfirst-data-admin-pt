@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paranhos",
+    "eurostat:nuts_2021_id":"091208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091208",
+    "eurostat:population":1503,
+    "eurostat:population_year":2020,
     "geom:area":0.002255,
+    "geom:area_square_m":21205300.082307,
     "geom:bbox":"-7.82893563071,40.4627994205,-7.76014737928,40.5099078758",
     "geom:latitude":40.486517,
     "geom:longitude":-7.796322,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Paranhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091208",
+        "eurostat:nuts_2021_id":"091208",
         "pt-dgt:id":"091208"
     },
     "wof:country":"PT",
     "wof:created":1576698061,
-    "wof:geomhash":"321af49882ef43c9530e56ab9605b806",
+    "wof:geomhash":"06c113ea050d1b77039e742c90ae906f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712466,
+    "wof:lastmodified":1684354475,
     "wof:name":"Paranhos",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":1503,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

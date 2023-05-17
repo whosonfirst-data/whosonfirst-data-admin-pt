@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamengos, Aguim e \u00d3is do Bairro",
+    "eurostat:nuts_2021_id":"010318",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010318",
+    "eurostat:population":3264,
+    "eurostat:population_year":2020,
     "geom:area":0.001847,
+    "geom:area_square_m":17384637.28421,
     "geom:bbox":"-8.51087271782,40.3976012216,-8.42525573882,40.4364445399",
     "geom:latitude":40.419759,
     "geom:longitude":-8.464145,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Tamengos, Aguim e \u00d3is do Bairro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010318",
+        "eurostat:nuts_2021_id":"010318",
         "pt-dgt:id":"010318"
     },
     "wof:country":"PT",
     "wof:created":1576698599,
-    "wof:geomhash":"5fae97e0b67c97345754f86acf0e1e0d",
+    "wof:geomhash":"98790be7677f2f09990d56c6928ec3e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712614,
+    "wof:lastmodified":1684354569,
     "wof:name":"Tamengos, Aguim e \u00d3is do Bairro",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":3264,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

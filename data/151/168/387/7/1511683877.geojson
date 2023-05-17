@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030831",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moreira de C\u00f3negos",
+    "eurostat:nuts_2021_id":"030831",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030831",
+    "eurostat:population":4853,
+    "eurostat:population_year":2020,
     "geom:area":0.000509,
+    "geom:area_square_m":4718486.26356,
     "geom:bbox":"-8.3617668656,41.3664713475,-8.3150229471,41.3904139117",
     "geom:latitude":41.379353,
     "geom:longitude":-8.341103,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Moreira de C\u00f3negos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030831",
+        "eurostat:nuts_2021_id":"030831",
         "pt-dgt:id":"030831"
     },
     "wof:country":"PT",
     "wof:created":1576699109,
-    "wof:geomhash":"6625dbde52e5ecb7b8038309de877a56",
+    "wof:geomhash":"47e5e9924786f28e4a8787e1bca60aab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712705,
+    "wof:lastmodified":1684354659,
     "wof:name":"Moreira de C\u00f3negos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":4853,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

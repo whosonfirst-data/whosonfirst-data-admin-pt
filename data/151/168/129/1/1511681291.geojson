@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061618",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espariz e Sinde",
+    "eurostat:nuts_2021_id":"061618",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061618",
+    "eurostat:population":1006,
+    "eurostat:population_year":2020,
     "geom:area":0.002493,
+    "geom:area_square_m":23499472.438193,
     "geom:bbox":"-8.08930592651,40.2967056736,-7.99631916924,40.34482399",
     "geom:latitude":40.321885,
     "geom:longitude":-8.04714,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Espariz e Sinde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061618",
+        "eurostat:nuts_2021_id":"061618",
         "pt-dgt:id":"061618"
     },
     "wof:country":"PT",
     "wof:created":1576698566,
-    "wof:geomhash":"c0128c7556a4de3e3216c861a09cb3f2",
+    "wof:geomhash":"cc5fe7e5bf5fba37f90e2414287648b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712608,
+    "wof:lastmodified":1684354565,
     "wof:name":"Espariz e Sinde",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1006,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

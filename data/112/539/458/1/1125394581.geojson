@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amares e Figueiredo",
+    "eurostat:nuts_2021_id":"030125",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030125",
+    "eurostat:population":2654,
+    "eurostat:population_year":2020,
     "geom:area":0.000493,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":4554460.666008,
     "geom:bbox":"-8.35777343843,41.6180920061,-8.31786731638,41.6406027843",
     "geom:latitude":41.629705,
     "geom:longitude":-8.338062,
@@ -121,6 +133,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -128,6 +142,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030125",
+        "eurostat:nuts_2021_id":"030125",
         "gn:id":8010927,
         "pt-dgt:id":30125,
         "qs_pg:id":1042291
@@ -137,7 +153,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"26a704942856b265635a5517eef17163",
+    "wof:geomhash":"cf9b47546b16165ba3241cfa8a43cd22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -147,10 +163,12 @@
         }
     ],
     "wof:id":1125394581,
-    "wof:lastmodified":1582359921,
+    "wof:lastmodified":1684354449,
     "wof:name":"Amares e Figueiredo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2654,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

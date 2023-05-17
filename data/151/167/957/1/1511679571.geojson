@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago Maior",
+    "eurostat:nuts_2021_id":"070103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070103",
+    "eurostat:population":2205,
+    "eurostat:population_year":2020,
     "geom:area":0.011676,
+    "geom:area_square_m":112910223.66635,
     "geom:bbox":"-7.563669354,38.496544603,-7.37172240946,38.6276823346",
     "geom:latitude":38.553197,
     "geom:longitude":-7.469732,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santiago Maior",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070103",
+        "eurostat:nuts_2021_id":"070103",
         "pt-dgt:id":"070103"
     },
     "wof:country":"PT",
     "wof:created":1576698156,
-    "wof:geomhash":"4e6471701446cb480513034468e2e118",
+    "wof:geomhash":"9c0c04d4eda8a1beb2983e4ab7c35a65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712487,
+    "wof:lastmodified":1684354488,
     "wof:name":"Santiago Maior",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":2205,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

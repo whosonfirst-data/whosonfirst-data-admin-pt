@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180524",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova de Souto d'El-Rei",
+    "eurostat:nuts_2021_id":"180524",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180524",
+    "eurostat:population":824,
+    "eurostat:population_year":2020,
     "geom:area":0.000942,
+    "geom:area_square_m":8777556.80372,
     "geom:bbox":"-7.85908337201,41.0486124553,-7.80756339838,41.0904472786",
     "geom:latitude":41.069217,
     "geom:longitude":-7.833705,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova de Souto d'El-Rei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180524",
+        "eurostat:nuts_2021_id":"180524",
         "pt-dgt:id":"180524"
     },
     "wof:country":"PT",
     "wof:created":1576698910,
-    "wof:geomhash":"6a81ebe1ed614676aed252dd988b9b00",
+    "wof:geomhash":"a15ecd22c5699a87a64c5c2d7a93d944",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712669,
+    "wof:lastmodified":1684354619,
     "wof:name":"Vila Nova de Souto d'El-Rei",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":824,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

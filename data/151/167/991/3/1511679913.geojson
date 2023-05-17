@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carregado e Cadafais",
+    "eurostat:nuts_2021_id":"110120",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110120",
+    "eurostat:population":13441,
+    "eurostat:population_year":2020,
     "geom:area":0.00255,
+    "geom:area_square_m":24497809.795671,
     "geom:bbox":"-9.0474333218,39.0007161311,-8.93027698048,39.0459651697",
     "geom:latitude":39.021461,
     "geom:longitude":-8.979991,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Carregado e Cadafais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110120",
+        "eurostat:nuts_2021_id":"110120",
         "pt-dgt:id":"110120"
     },
     "wof:country":"PT",
     "wof:created":1576698234,
-    "wof:geomhash":"35c64294061c14f6e8d4fd299888399e",
+    "wof:geomhash":"168f86d59046a735010155d615b9f2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712508,
+    "wof:lastmodified":1684354501,
     "wof:name":"Carregado e Cadafais",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":13441,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

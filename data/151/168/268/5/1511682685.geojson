@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cogula",
+    "eurostat:nuts_2021_id":"091304",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091304",
+    "eurostat:population":195,
+    "eurostat:population_year":2020,
     "geom:area":0.000495,
+    "geom:area_square_m":4630870.942283,
     "geom:bbox":"-7.30433523815,40.7995723944,-7.25054656072,40.820839629",
     "geom:latitude":40.811478,
     "geom:longitude":-7.274741,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cogula",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091304",
+        "eurostat:nuts_2021_id":"091304",
         "pt-dgt:id":"091304"
     },
     "wof:country":"PT",
     "wof:created":1576698856,
-    "wof:geomhash":"e25597d4bcc50d3b3ef56a6e03e538f8",
+    "wof:geomhash":"afb990ecf92036801c07273df88904a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712658,
+    "wof:lastmodified":1684354609,
     "wof:name":"Cogula",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":195,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

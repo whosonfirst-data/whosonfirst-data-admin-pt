@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias",
+    "eurostat:nuts_2021_id":"111014",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111014",
+    "eurostat:population":58149,
+    "eurostat:population_year":2020,
     "geom:area":0.001401,
+    "geom:area_square_m":13518533.468695,
     "geom:bbox":"-9.32967649717,38.6731469053,-9.26003392554,38.7161490004",
     "geom:latitude":38.699858,
     "geom:longitude":-9.29837,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Oeiras e S\u00e3o Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111014",
+        "eurostat:nuts_2021_id":"111014",
         "pt-dgt:id":"111014"
     },
     "wof:country":"PT",
     "wof:created":1576698172,
-    "wof:geomhash":"48396991898e2c6c12b0f2fd2cc26f7b",
+    "wof:geomhash":"754a73e11d15ed412756f63dc98c2598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354490,
     "wof:name":"Oeiras e S. Juli\u00e3o da Barra, Pa\u00e7o de Arcos e Caxias",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":58149,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

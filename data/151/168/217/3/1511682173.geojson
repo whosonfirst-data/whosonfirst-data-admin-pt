@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00ednzio",
+    "eurostat:nuts_2021_id":"091018",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091018",
+    "eurostat:population":453,
+    "eurostat:population_year":2020,
     "geom:area":0.002886,
+    "geom:area_square_m":27093879.734162,
     "geom:bbox":"-7.11014467358,40.5876493693,-7.01596790832,40.6467279276",
     "geom:latitude":40.613115,
     "geom:longitude":-7.067958,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"P\u00ednzio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091018",
+        "eurostat:nuts_2021_id":"091018",
         "pt-dgt:id":"091018"
     },
     "wof:country":"PT",
     "wof:created":1576698747,
-    "wof:geomhash":"c35af8f7bce735e14c67031090fea05d",
+    "wof:geomhash":"c09aee67cdd113f1e3b212430eb7d880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712640,
+    "wof:lastmodified":1684354592,
     "wof:name":"P\u00ednzio",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":453,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

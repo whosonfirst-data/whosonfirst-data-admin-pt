@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Proen\u00e7a-a-Nova e Peral",
+    "eurostat:nuts_2021_id":"050807",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050807",
+    "eurostat:population":4969,
+    "eurostat:population_year":2020,
     "geom:area":0.018019,
+    "geom:area_square_m":171352852.916466,
     "geom:bbox":"-8.03575370222,39.6564653941,-7.76801017723,39.8223864424",
     "geom:latitude":39.728833,
     "geom:longitude":-7.902539,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Proen\u00e7a-a-Nova e Peral",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050807",
+        "eurostat:nuts_2021_id":"050807",
         "pt-dgt:id":"050807"
     },
     "wof:country":"PT",
     "wof:created":1576698434,
-    "wof:geomhash":"88ef01d5dcd1282de6bc1dc18c2beb12",
+    "wof:geomhash":"8380bbf214a80a0ca933c2e7bb5e90b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712570,
+    "wof:lastmodified":1684354540,
     "wof:name":"Proen\u00e7a-a-Nova e Peral",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":4969,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

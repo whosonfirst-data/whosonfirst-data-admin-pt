@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101519",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago e S\u00e3o Sim\u00e3o de Lit\u00e9m e Albergaria dos Doze",
+    "eurostat:nuts_2021_id":"101519",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101519",
+    "eurostat:population":5418,
+    "eurostat:population_year":2020,
     "geom:area":0.007457,
+    "geom:area_square_m":70814435.397184,
     "geom:bbox":"-8.66460692532,39.7768928084,-8.52648907487,39.8786292008",
     "geom:latitude":39.828308,
     "geom:longitude":-8.599401,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santiago e S\u00e3o Sim\u00e3o de Lit\u00e9m e Albergaria dos Doze",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101519",
+        "eurostat:nuts_2021_id":"101519",
         "pt-dgt:id":"101519"
     },
     "wof:country":"PT",
     "wof:created":1576698448,
-    "wof:geomhash":"27c9f9f2ff3fc1cd77c6f69f706be5f6",
+    "wof:geomhash":"fa2765c8f317e7f71c84f9fa7ca20aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712575,
+    "wof:lastmodified":1684354543,
     "wof:name":"Santiago e S. Sim\u00e3o de Lit\u00e9m e Albergaria dos Doze",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":5418,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

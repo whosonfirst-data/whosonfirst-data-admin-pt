@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faj\u00e3 de Cima",
+    "eurostat:nuts_2021_id":"420307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420307",
+    "eurostat:population":3438,
+    "eurostat:population_year":2020,
     "geom:area":0.001217,
+    "geom:area_square_m":11892443.072325,
     "geom:bbox":"-25.6801479712,37.756964677,-25.6282279859,37.8009156704",
     "geom:latitude":37.781473,
     "geom:longitude":-25.656249,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Faj\u00e3 de Cima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420307",
+        "eurostat:nuts_2021_id":"420307",
         "pt-dgt:id":"420307"
     },
     "wof:country":"PT",
     "wof:created":1576699416,
-    "wof:geomhash":"e2b29c2f89517016df6a4e589eea6f4e",
+    "wof:geomhash":"723df7b78f7764f3cd3b56f780020ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720308,
+    "wof:lastmodified":1684354702,
     "wof:name":"Faj\u00e3 de Cima",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3438,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

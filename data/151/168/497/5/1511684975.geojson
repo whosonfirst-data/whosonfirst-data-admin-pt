@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gimonde",
+    "eurostat:nuts_2021_id":"040216",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040216",
+    "eurostat:population":341,
+    "eurostat:population_year":2020,
     "geom:area":0.001787,
+    "geom:area_square_m":16466830.467868,
     "geom:bbox":"-6.72813302737,41.7847858891,-6.65844102096,41.8309124304",
     "geom:latitude":41.805804,
     "geom:longitude":-6.690052,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gimonde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040216",
+        "eurostat:nuts_2021_id":"040216",
         "pt-dgt:id":"040216"
     },
     "wof:country":"PT",
     "wof:created":1576699337,
-    "wof:geomhash":"8f372e120159accd201b5a62eb9922e2",
+    "wof:geomhash":"3535a7ede8f139a93d802daf0791b070",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712738,
+    "wof:lastmodified":1684354691,
     "wof:name":"Gimonde",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":341,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

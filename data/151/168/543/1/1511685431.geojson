@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fenais da Ajuda",
+    "eurostat:nuts_2021_id":"420502",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420502",
+    "eurostat:population":1131,
+    "eurostat:population_year":2020,
     "geom:area":0.001368,
+    "geom:area_square_m":13357926.02594,
     "geom:bbox":"-25.3562906401,37.7937199229,-25.3030257939,37.8667719927",
     "geom:latitude":37.832352,
     "geom:longitude":-25.327024,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Fenais da Ajuda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420502",
+        "eurostat:nuts_2021_id":"420502",
         "pt-dgt:id":"420502"
     },
     "wof:country":"PT",
     "wof:created":1576699436,
-    "wof:geomhash":"b42f52662b8b87646088b663aef43976",
+    "wof:geomhash":"3cd9db4b9c4f2bfb905607a416e174d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720310,
+    "wof:lastmodified":1684354714,
     "wof:name":"Fenais da Ajuda",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1131,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

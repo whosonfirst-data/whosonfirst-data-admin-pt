@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110918",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azueira e Sobral da Abelheira",
+    "eurostat:nuts_2021_id":"110918",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110918",
+    "eurostat:population":4316,
+    "eurostat:population_year":2020,
     "geom:area":0.003184,
+    "geom:area_square_m":30596641.071484,
     "geom:bbox":"-9.34962925394,38.9643105288,-9.24395332405,39.0301513751",
     "geom:latitude":38.999254,
     "geom:longitude":-9.296936,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Azueira e Sobral da Abelheira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110918",
+        "eurostat:nuts_2021_id":"110918",
         "pt-dgt:id":"110918"
     },
     "wof:country":"PT",
     "wof:created":1576698232,
-    "wof:geomhash":"267bed2e0e2772c679e04e01121fe851",
+    "wof:geomhash":"bf8e91b9c962953f655c85bc228a2423",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712507,
+    "wof:lastmodified":1684354501,
     "wof:name":"Azueira e Sobral da Abelheira",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":4316,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

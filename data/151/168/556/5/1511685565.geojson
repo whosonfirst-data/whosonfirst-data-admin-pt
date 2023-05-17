@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Funchal (S\u00e9)",
+    "eurostat:nuts_2021_id":"310310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310310",
+    "eurostat:population":2656,
+    "eurostat:population_year":2020,
     "geom:area":0.000358,
+    "geom:area_square_m":3802413.014957,
     "geom:bbox":"-16.9238073015,30.0287782705,-15.8536714667,32.6515235564",
     "geom:latitude":30.822237,
     "geom:longitude":-16.169323,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Funchal (S\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310310",
+        "eurostat:nuts_2021_id":"310310",
         "pt-dgt:id":"310310"
     },
     "wof:country":"PT",
     "wof:created":1576699478,
-    "wof:geomhash":"95abc183ec2bb3975d95be6c4b30a4a6",
+    "wof:geomhash":"1b237727074d0b5518188135107aaf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720313,
+    "wof:lastmodified":1684354734,
     "wof:name":"Funchal (S\u00e9)",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":2656,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

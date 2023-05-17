@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrifana",
+    "eurostat:nuts_2021_id":"061701",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061701",
+    "eurostat:population":1440,
+    "eurostat:population_year":2020,
     "geom:area":0.002523,
+    "geom:area_square_m":23817719.74884,
     "geom:bbox":"-8.34031332434,40.1895466747,-8.24464700336,40.2538965865",
     "geom:latitude":40.223033,
     "geom:longitude":-8.295356,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arrifana",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061701",
+        "eurostat:nuts_2021_id":"061701",
         "pt-dgt:id":"061701"
     },
     "wof:country":"PT",
     "wof:created":1576698536,
-    "wof:geomhash":"27f2d95768207e8158a976afa760caf4",
+    "wof:geomhash":"beaa826ad92a9725097960c7234c7e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712601,
+    "wof:lastmodified":1684354560,
     "wof:name":"Arrifana",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1440,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campe\u00e3",
+    "eurostat:nuts_2021_id":"171406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171406",
+    "eurostat:population":1375,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
+    "geom:area_square_m":24016736.012373,
     "geom:bbox":"-7.92136691621,41.2499254177,-7.85186935101,41.3176270028",
     "geom:latitude":41.285528,
     "geom:longitude":-7.885814,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campe\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171406",
+        "eurostat:nuts_2021_id":"171406",
         "pt-dgt:id":"171406"
     },
     "wof:country":"PT",
     "wof:created":1576699080,
-    "wof:geomhash":"505c49b20dcade4c50776270acc8c85b",
+    "wof:geomhash":"e5ab9618bfa4d1c28f2d259c55c4d5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712700,
+    "wof:lastmodified":1684354652,
     "wof:name":"Campe\u00e3",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1375,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

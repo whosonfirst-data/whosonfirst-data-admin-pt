@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sabugal e Aldeia de Santo Ant\u00f3nio",
+    "eurostat:nuts_2021_id":"091145",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091145",
+    "eurostat:population":2741,
+    "eurostat:population_year":2020,
     "geom:area":0.00597,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":56266618.554877,
     "geom:bbox":"-7.17030859961,40.3032624535,-7.00770493399,40.3698439203",
     "geom:latitude":40.339343,
     "geom:longitude":-7.089514,
@@ -124,6 +136,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -131,6 +145,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091145",
+        "eurostat:nuts_2021_id":"091145",
         "gn:id":8012236,
         "pt-dgt:id":91145,
         "qs_pg:id":904361
@@ -140,7 +156,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1480fd122924fd33dcd958e8ab465964",
+    "wof:geomhash":"558e895bcd7d44ba64866dc87638aa01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,10 +166,12 @@
         }
     ],
     "wof:id":1125270163,
-    "wof:lastmodified":1582359917,
+    "wof:lastmodified":1684354443,
     "wof:name":"Sabugal e Aldeia de Santo Ant\u00f3nio",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":2741,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

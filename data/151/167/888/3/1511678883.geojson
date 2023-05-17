@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quarteira",
+    "eurostat:nuts_2021_id":"080805",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080805",
+    "eurostat:population":21798,
+    "eurostat:population_year":2020,
     "geom:area":0.003867,
+    "geom:area_square_m":38144402.047191,
     "geom:bbox":"-8.16093402969,37.0516001053,-8.04844408412,37.1186832062",
     "geom:latitude":37.090785,
     "geom:longitude":-8.105143,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Quarteira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080805",
+        "eurostat:nuts_2021_id":"080805",
         "pt-dgt:id":"080805"
     },
     "wof:country":"PT",
     "wof:created":1576697983,
-    "wof:geomhash":"4a352ad791e83464a3e94e8a059511c6",
+    "wof:geomhash":"4cbff11eb060844f1872d137bec23870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712432,
+    "wof:lastmodified":1684354454,
     "wof:name":"Quarteira",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":21798,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430113",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa B\u00e1rbara",
+    "eurostat:nuts_2021_id":"430113",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430113",
+    "eurostat:population":1274,
+    "eurostat:population_year":2020,
     "geom:area":0.0017,
+    "geom:area_square_m":16400956.313759,
     "geom:bbox":"-27.3648782368,38.6771924614,-27.312164421,38.73960026",
     "geom:latitude":38.705557,
     "geom:longitude":-27.334243,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santa B\u00e1rbara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430113",
+        "eurostat:nuts_2021_id":"430113",
         "pt-dgt:id":"430113"
     },
     "wof:country":"PT",
     "wof:created":1576703605,
-    "wof:geomhash":"95c40869fcfb99191e4c33c11f678ac4",
+    "wof:geomhash":"93d53454d2bce2a0ac80b4abc6b4b0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720332,
+    "wof:lastmodified":1684354742,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1274,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

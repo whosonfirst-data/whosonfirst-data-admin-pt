@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131129",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio de Moinhos",
+    "eurostat:nuts_2021_id":"131129",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131129",
+    "eurostat:population":2886,
+    "eurostat:population_year":2020,
     "geom:area":0.00088,
+    "geom:area_square_m":8201184.201772,
     "geom:bbox":"-8.2836980017,41.0937235815,-8.24574261027,41.1390878867",
     "geom:latitude":41.112564,
     "geom:longitude":-8.26399,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio de Moinhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131129",
+        "eurostat:nuts_2021_id":"131129",
         "pt-dgt:id":"131129"
     },
     "wof:country":"PT",
     "wof:created":1576698936,
-    "wof:geomhash":"baf7d7ef64cb1b94b281472f20e4cc13",
+    "wof:geomhash":"de6c1c8f4a6c6d7f75e3b3ca11a4dfa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712673,
+    "wof:lastmodified":1684354623,
     "wof:name":"Rio de Moinhos",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2886,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

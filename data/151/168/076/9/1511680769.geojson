@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ma\u00e7\u00e3s de Dona Maria",
+    "eurostat:nuts_2021_id":"100204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100204",
+    "eurostat:population":1835,
+    "eurostat:population_year":2020,
     "geom:area":0.002584,
+    "geom:area_square_m":24518846.288242,
     "geom:bbox":"-8.36872134516,39.8402374251,-8.30104909035,39.9012043931",
     "geom:latitude":39.873422,
     "geom:longitude":-8.335219,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ma\u00e7\u00e3s de Dona Maria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100204",
+        "eurostat:nuts_2021_id":"100204",
         "pt-dgt:id":"100204"
     },
     "wof:country":"PT",
     "wof:created":1576698451,
-    "wof:geomhash":"35ee8ed68a259f82996ec938e23ceff0",
+    "wof:geomhash":"2924a347434423f961a4bae0875b2dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712576,
+    "wof:lastmodified":1684354544,
     "wof:name":"Ma\u00e7\u00e3s de Dona Maria",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1835,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

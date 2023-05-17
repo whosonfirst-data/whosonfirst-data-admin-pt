@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ermesinde",
+    "eurostat:nuts_2021_id":"131503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131503",
+    "eurostat:population":38963,
+    "eurostat:population_year":2020,
     "geom:area":0.000846,
     "geom:area_square_m":7868318.038551,
     "geom:bbox":"-8.570727,41.196265,-8.523339,41.240391",
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Ermesinde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131503",
+        "eurostat:nuts_2021_id":"131503",
         "pt-dgt:id":"131503"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698977,
-    "wof:geomhash":"167d481b3f187789fbacaa4d3d38e365",
+    "wof:geomhash":"7f4182c8e003f7503bd41c2d4f5417a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987226,
+    "wof:lastmodified":1684354633,
     "wof:name":"Ermesinde",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":38963,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

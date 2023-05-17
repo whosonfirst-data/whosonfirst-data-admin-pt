@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Portim\u00e3o",
+    "eurostat:nuts_2021_id":"081103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081103",
+    "eurostat:population":45431,
+    "eurostat:population_year":2020,
     "geom:area":0.007677,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":75627653.957642,
     "geom:bbox":"-8.58535462979,37.1084188597,-8.48520341809,37.251662058",
     "geom:latitude":37.183837,
     "geom:longitude":-8.541412,
@@ -166,6 +178,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -173,6 +187,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081103",
+        "eurostat:nuts_2021_id":"081103",
         "gn:id":8012023,
         "pt-dgt:id":81103,
         "qs_pg:id":1245916
@@ -182,7 +198,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"99e5f257107ab8c01489630b03e4e6b2",
+    "wof:geomhash":"dd9e0c32f5732f3b3210da6801268870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -192,10 +208,12 @@
         }
     ],
     "wof:id":1125313161,
-    "wof:lastmodified":1582359925,
+    "wof:lastmodified":1684354445,
     "wof:name":"Portim\u00e3o",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":45431,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

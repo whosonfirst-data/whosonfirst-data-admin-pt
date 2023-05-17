@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Areias",
+    "eurostat:nuts_2021_id":"030210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030210",
+    "eurostat:population":1014,
+    "eurostat:population_year":2020,
     "geom:area":0.000271,
+    "geom:area_square_m":2507889.385973,
     "geom:bbox":"-8.55244059202,41.5480900087,-8.5278051941,41.5668886604",
     "geom:latitude":41.557646,
     "geom:longitude":-8.54059,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Areias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030210",
+        "eurostat:nuts_2021_id":"030210",
         "pt-dgt:id":"030210"
     },
     "wof:country":"PT",
     "wof:created":1576699038,
-    "wof:geomhash":"6e8d40d55e846de38f4aa8927e9feffa",
+    "wof:geomhash":"0541f05fc29c08eec6601d43adef51f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712695,
+    "wof:lastmodified":1684354646,
     "wof:name":"Areias",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1014,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

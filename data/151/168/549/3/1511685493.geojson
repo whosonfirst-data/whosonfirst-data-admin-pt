@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canhas",
+    "eurostat:nuts_2021_id":"310501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310501",
+    "eurostat:population":3769,
+    "eurostat:population_year":2020,
     "geom:area":0.001603,
+    "geom:area_square_m":16679882.1837,
     "geom:bbox":"-17.1329789496,32.6813683974,-17.0679325578,32.7706462614",
     "geom:latitude":32.727033,
     "geom:longitude":-17.107229,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Canhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310501",
+        "eurostat:nuts_2021_id":"310501",
         "pt-dgt:id":"310501"
     },
     "wof:country":"PT",
     "wof:created":1576699453,
-    "wof:geomhash":"6d0ffee4417109ea580a02c5db21b418",
+    "wof:geomhash":"0e78d079178434b9c9baa161b4e57efd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720320,
+    "wof:lastmodified":1684354721,
     "wof:name":"Canhas",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":3769,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

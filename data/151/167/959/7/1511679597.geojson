@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amora",
+    "eurostat:nuts_2021_id":"151002",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151002",
+    "eurostat:population":48629,
+    "eurostat:population_year":2020,
     "geom:area":0.002516,
+    "geom:area_square_m":24312428.633061,
     "geom:bbox":"-9.15780843219,38.5748830172,-9.0997360549,38.6558833306",
     "geom:latitude":38.613917,
     "geom:longitude":-9.128854,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Amora",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151002",
+        "eurostat:nuts_2021_id":"151002",
         "pt-dgt:id":"151002"
     },
     "wof:country":"PT",
     "wof:created":1576698162,
-    "wof:geomhash":"23938a86a18402c467153110e7ff484c",
+    "wof:geomhash":"8086bb16ad04f264bdef7f01a7bd47d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712489,
+    "wof:lastmodified":1684354489,
     "wof:name":"Amora",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":48629,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

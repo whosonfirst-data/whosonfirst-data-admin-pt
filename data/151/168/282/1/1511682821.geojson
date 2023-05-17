@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nespereira",
+    "eurostat:nuts_2021_id":"180409",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"180409",
+    "eurostat:population":1977,
+    "eurostat:population_year":2020,
     "geom:area":0.003853,
+    "geom:area_square_m":35948188.499236,
     "geom:bbox":"-8.21335046384,40.9785565714,-8.09906782567,41.0415344695",
     "geom:latitude":41.00824,
     "geom:longitude":-8.150797,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nespereira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180409",
+        "eurostat:nuts_2021_id":"180409",
         "pt-dgt:id":"180409"
     },
     "wof:country":"PT",
     "wof:created":1576698884,
-    "wof:geomhash":"b64c67689cebd10f6523ee7c06a0a2ac",
+    "wof:geomhash":"248491c827d49749575ed8b74a72f458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712664,
+    "wof:lastmodified":1684354614,
     "wof:name":"Nespereira",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1977,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

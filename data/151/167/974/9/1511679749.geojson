@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111115",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Casal de Cambra",
+    "eurostat:nuts_2021_id":"111115",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111115",
+    "eurostat:population":12701,
+    "eurostat:population_year":2020,
     "geom:area":0.000225,
     "geom:area_square_m":2167445.756076,
     "geom:bbox":"-9.243078,38.794015,-9.220691,38.81071",
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Casal de Cambra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111115",
+        "eurostat:nuts_2021_id":"111115",
         "pt-dgt:id":"111115"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698193,
-    "wof:geomhash":"5ec40196e566e6de04cc19c19f0e344b",
+    "wof:geomhash":"1ed540109a5d348a773e89d9057040ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987227,
+    "wof:lastmodified":1684354493,
     "wof:name":"Casal de Cambra",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":12701,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

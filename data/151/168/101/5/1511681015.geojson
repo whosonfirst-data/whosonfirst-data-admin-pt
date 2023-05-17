@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelejo",
+    "eurostat:nuts_2021_id":"050412",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050412",
+    "eurostat:population":656,
+    "eurostat:population_year":2020,
     "geom:area":0.003118,
+    "geom:area_square_m":29486704.347692,
     "geom:bbox":"-7.64997835316,40.0791588265,-7.56324707498,40.1557205278",
     "geom:latitude":40.108879,
     "geom:longitude":-7.604291,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castelejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050412",
+        "eurostat:nuts_2021_id":"050412",
         "pt-dgt:id":"050412"
     },
     "wof:country":"PT",
     "wof:created":1576698509,
-    "wof:geomhash":"01b11bc83c926531f6523e40887e0730",
+    "wof:geomhash":"435b6d9acc0db0f343025e24fca7a1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354556,
     "wof:name":"Castelejo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":656,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

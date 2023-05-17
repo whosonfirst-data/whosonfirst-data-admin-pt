@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz das Flores",
+    "eurostat:nuts_2021_id":"480204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480204",
+    "eurostat:population":1725,
+    "eurostat:population_year":2020,
     "geom:area":0.004152,
+    "geom:area_square_m":39640988.853755,
     "geom:bbox":"-31.2531786011,39.4276133841,-31.1236339026,39.486781392",
     "geom:latitude":39.459048,
     "geom:longitude":-31.187395,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santa Cruz das Flores",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480204",
+        "eurostat:nuts_2021_id":"480204",
         "pt-dgt:id":"480204"
     },
     "wof:country":"PT",
     "wof:created":1576699445,
-    "wof:geomhash":"30815c1fea8969225f6fce60bcb99756",
+    "wof:geomhash":"79f47882bfcfa8eb80ccded1daf24401",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720324,
+    "wof:lastmodified":1684354718,
     "wof:name":"Santa Cruz das Flores",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1725,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

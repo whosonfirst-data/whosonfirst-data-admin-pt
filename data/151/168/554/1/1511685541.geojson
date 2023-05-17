@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_320101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Santo",
+    "eurostat:nuts_2021_id":"320101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"320101",
+    "eurostat:population":5483,
+    "eurostat:population_year":2020,
     "geom:area":0.004154,
+    "geom:area_square_m":43048792.860524,
     "geom:bbox":"-16.410739828,32.9961183304,-16.2773814801,33.1281603035",
     "geom:latitude":33.066456,
     "geom:longitude":-16.343829,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Porto Santo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_320101",
+        "eurostat:nuts_2021_id":"320101",
         "pt-dgt:id":"320101"
     },
     "wof:country":"PT",
     "wof:created":1576699468,
-    "wof:geomhash":"efa21377dd519fe530fb276858e3b7cc",
+    "wof:geomhash":"bdb251629bd5ee3bc82d83e1066c06e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720336,
+    "wof:lastmodified":1684354728,
     "wof:name":"Porto Santo",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":5483,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

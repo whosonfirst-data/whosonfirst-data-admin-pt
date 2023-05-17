@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horta da Vilari\u00e7a",
+    "eurostat:nuts_2021_id":"040909",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040909",
+    "eurostat:population":310,
+    "eurostat:population_year":2020,
     "geom:area":0.001763,
+    "geom:area_square_m":16397644.208487,
     "geom:bbox":"-7.15829267298,41.2100806488,-7.09522043666,41.2579995865",
     "geom:latitude":41.233491,
     "geom:longitude":-7.126299,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Horta da Vilari\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040909",
+        "eurostat:nuts_2021_id":"040909",
         "pt-dgt:id":"040909"
     },
     "wof:country":"PT",
     "wof:created":1576698995,
-    "wof:geomhash":"91c894524411de0dae509452d0226826",
+    "wof:geomhash":"414edff3512fa807cc2673ecaaea4b43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712686,
+    "wof:lastmodified":1684354638,
     "wof:name":"Horta da Vilari\u00e7a",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":310,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181714",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rom\u00e3s, Decermilo e Vila Longa",
+    "eurostat:nuts_2021_id":"181714",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181714",
+    "eurostat:population":1259,
+    "eurostat:population_year":2020,
     "geom:area":0.005019,
+    "geom:area_square_m":47015303.581067,
     "geom:bbox":"-7.67331591825,40.710410496,-7.57070467589,40.7814928499",
     "geom:latitude":40.745914,
     "geom:longitude":-7.626952,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Rom\u00e3s, Decermilo e Vila Longa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181714",
+        "eurostat:nuts_2021_id":"181714",
         "pt-dgt:id":"181714"
     },
     "wof:country":"PT",
     "wof:created":1576698841,
-    "wof:geomhash":"c677968e7f6eb1785c13a2289d032fc4",
+    "wof:geomhash":"f9486dbfc6828fd5438159af9fb3901b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712655,
+    "wof:lastmodified":1684354606,
     "wof:name":"Rom\u00e3s, Decermilo e Vila Longa",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1259,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

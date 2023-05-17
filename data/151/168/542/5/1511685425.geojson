@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Achadinha",
+    "eurostat:nuts_2021_id":"420202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420202",
+    "eurostat:population":535,
+    "eurostat:population_year":2020,
     "geom:area":0.001271,
+    "geom:area_square_m":12409277.16269,
     "geom:bbox":"-25.2974099788,37.7945127473,-25.2528326967,37.8603918026",
     "geom:latitude":37.827678,
     "geom:longitude":-25.279012,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Achadinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420202",
+        "eurostat:nuts_2021_id":"420202",
         "pt-dgt:id":"420202"
     },
     "wof:country":"PT",
     "wof:created":1576699434,
-    "wof:geomhash":"6cf3abc9f27038b8b084fd9daa8962b7",
+    "wof:geomhash":"50877c5932f109ea9a27132e50598111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720298,
+    "wof:lastmodified":1684354713,
     "wof:name":"Achadinha",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":535,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Batalha",
+    "eurostat:nuts_2021_id":"100401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100401",
+    "eurostat:population":8548,
+    "eurostat:population_year":2020,
     "geom:area":0.002982,
+    "geom:area_square_m":28388030.593214,
     "geom:bbox":"-8.87379932519,39.627787287,-8.79110528499,39.6871331489",
     "geom:latitude":39.657621,
     "geom:longitude":-8.831646,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Batalha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100401",
+        "eurostat:nuts_2021_id":"100401",
         "pt-dgt:id":"100401"
     },
     "wof:country":"PT",
     "wof:created":1576698389,
-    "wof:geomhash":"ff5b054ac0166c6b0b11f51acc81cc75",
+    "wof:geomhash":"7b5314331ad37afadf727f9148143a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712555,
+    "wof:lastmodified":1684354530,
     "wof:name":"Batalha",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":8548,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

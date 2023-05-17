@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfarelos",
+    "eurostat:nuts_2021_id":"061501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061501",
+    "eurostat:population":1439,
+    "eurostat:population_year":2020,
     "geom:area":0.001478,
+    "geom:area_square_m":13969377.165596,
     "geom:bbox":"-8.68005968528,40.1267476608,-8.61465458472,40.1741424145",
     "geom:latitude":40.150291,
     "geom:longitude":-8.650058,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alfarelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061501",
+        "eurostat:nuts_2021_id":"061501",
         "pt-dgt:id":"061501"
     },
     "wof:country":"PT",
     "wof:created":1576698514,
-    "wof:geomhash":"e568259b0dd4cf5d6eb6ff17f113f3ce",
+    "wof:geomhash":"d87aa5dd48cbfcc8bef88d51d27f8e98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712596,
+    "wof:lastmodified":1684354557,
     "wof:name":"Alfarelos",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1439,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

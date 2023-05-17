@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dornelas",
+    "eurostat:nuts_2021_id":"170210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170210",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.003952,
+    "geom:area_square_m":36526113.274721,
     "geom:bbox":"-7.9077351794,41.5792653124,-7.81036616139,41.68022359",
     "geom:latitude":41.635366,
     "geom:longitude":-7.848344,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Dornelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170210",
+        "eurostat:nuts_2021_id":"170210",
         "pt-dgt:id":"170210"
     },
     "wof:country":"PT",
     "wof:created":1576698659,
-    "wof:geomhash":"0e0950ec9a2de17dfba7262b0dbad046",
+    "wof:geomhash":"8b1c891e49ea5f67f1a4c86fe4e22291",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712626,
+    "wof:lastmodified":1684354580,
     "wof:name":"Dornelas",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

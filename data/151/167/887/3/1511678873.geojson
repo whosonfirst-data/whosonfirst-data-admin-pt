@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porches",
+    "eurostat:nuts_2021_id":"080604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080604",
+    "eurostat:population":2011,
+    "eurostat:population_year":2020,
     "geom:area":0.001586,
+    "geom:area_square_m":15635135.420403,
     "geom:bbox":"-8.41817654663,37.0899076319,-8.36936146645,37.1522694137",
     "geom:latitude":37.122091,
     "geom:longitude":-8.394561,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Porches",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080604",
+        "eurostat:nuts_2021_id":"080604",
         "pt-dgt:id":"080604"
     },
     "wof:country":"PT",
     "wof:created":1576697979,
-    "wof:geomhash":"3aa756e67f6f3e4ead8923a811a90096",
+    "wof:geomhash":"83e2774aa748d2362682f124ebc56144",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712430,
+    "wof:lastmodified":1684354453,
     "wof:name":"Porches",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":2011,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

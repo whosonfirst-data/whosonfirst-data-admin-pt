@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Caldo",
+    "eurostat:nuts_2021_id":"031013",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031013",
+    "eurostat:population":892,
+    "eurostat:population_year":2020,
     "geom:area":0.001509,
+    "geom:area_square_m":13934310.617661,
     "geom:bbox":"-8.23117475278,41.6535878642,-8.1763121678,41.714940052",
     "geom:latitude":41.684424,
     "geom:longitude":-8.201416,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio Caldo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031013",
+        "eurostat:nuts_2021_id":"031013",
         "pt-dgt:id":"031013"
     },
     "wof:country":"PT",
     "wof:created":1576699276,
-    "wof:geomhash":"894267088f94a69445708eed557d419f",
+    "wof:geomhash":"73a741ad02239d6e0be145c31e60ad84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712730,
+    "wof:lastmodified":1684354683,
     "wof:name":"Rio Caldo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":892,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

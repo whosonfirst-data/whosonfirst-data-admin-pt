@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131628",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila do Conde",
+    "eurostat:nuts_2021_id":"131628",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131628",
+    "eurostat:population":28636,
+    "eurostat:population_year":2020,
     "geom:area":0.000729,
+    "geom:area_square_m":6769473.078206,
     "geom:bbox":"-8.76796070715,41.3365767716,-8.72378288263,41.3739552289",
     "geom:latitude":41.359468,
     "geom:longitude":-8.745714,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila do Conde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131628",
+        "eurostat:nuts_2021_id":"131628",
         "pt-dgt:id":"131628"
     },
     "wof:country":"PT",
     "wof:created":1576699031,
-    "wof:geomhash":"c2e7840cec10f6f6c0c5e92436d3dedd",
+    "wof:geomhash":"a495cd72d8644a615cd65808bd45e1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712693,
+    "wof:lastmodified":1684354645,
     "wof:name":"Vila do Conde",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":28636,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

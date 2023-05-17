@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Urqueira",
+    "eurostat:nuts_2021_id":"142114",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142114",
+    "eurostat:population":1682,
+    "eurostat:population_year":2020,
     "geom:area":0.003263,
+    "geom:area_square_m":31025588.212298,
     "geom:bbox":"-8.62871499824,39.7105814521,-8.54912280173,39.7855518398",
     "geom:latitude":39.745206,
     "geom:longitude":-8.585966,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Urqueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142114",
+        "eurostat:nuts_2021_id":"142114",
         "pt-dgt:id":"142114"
     },
     "wof:country":"PT",
     "wof:created":1576698427,
-    "wof:geomhash":"2a0c87067d1482d414705e28d0df3415",
+    "wof:geomhash":"f36f85aff7f38620ff38155ae587b14c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712567,
+    "wof:lastmodified":1684354538,
     "wof:name":"Urqueira",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1682,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

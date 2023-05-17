@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cavadoude",
+    "eurostat:nuts_2021_id":"090713",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090713",
+    "eurostat:population":324,
+    "eurostat:population_year":2020,
     "geom:area":0.000707,
+    "geom:area_square_m":6639568.074687,
     "geom:bbox":"-7.30500314449,40.5730572847,-7.27086774967,40.6062422733",
     "geom:latitude":40.59048,
     "geom:longitude":-7.28746,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cavadoude",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090713",
+        "eurostat:nuts_2021_id":"090713",
         "pt-dgt:id":"090713"
     },
     "wof:country":"PT",
     "wof:created":1576698722,
-    "wof:geomhash":"e912a1795006ad9db7c78fb6bd246efb",
+    "wof:geomhash":"60943e9b62b20197954a5bfd0e1b8a66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354589,
     "wof:name":"Cavadoude",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":324,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

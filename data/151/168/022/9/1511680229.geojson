@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pego",
+    "eurostat:nuts_2021_id":"140107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140107",
+    "eurostat:population":2431,
+    "eurostat:population_year":2020,
     "geom:area":0.003772,
+    "geom:area_square_m":36015763.419615,
     "geom:bbox":"-8.18571202586,39.4135733947,-8.09267128242,39.483272742",
     "geom:latitude":39.450417,
     "geom:longitude":-8.137035,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pego",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140107",
+        "eurostat:nuts_2021_id":"140107",
         "pt-dgt:id":"140107"
     },
     "wof:country":"PT",
     "wof:created":1576698323,
-    "wof:geomhash":"10d548d5eb4f81b4c88d3469ff20cc47",
+    "wof:geomhash":"ce11a789c8eb6aa107ff7fc50d651dac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712533,
+    "wof:lastmodified":1684354516,
     "wof:name":"Pego",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2431,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090617",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Paio",
+    "eurostat:nuts_2021_id":"090617",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090617",
+    "eurostat:population":828,
+    "eurostat:population_year":2020,
     "geom:area":0.001655,
+    "geom:area_square_m":15555471.685551,
     "geom:bbox":"-7.61308022504,40.4725684716,-7.52571132151,40.5441058433",
     "geom:latitude":40.513564,
     "geom:longitude":-7.570597,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Paio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090617",
+        "eurostat:nuts_2021_id":"090617",
         "pt-dgt:id":"090617"
     },
     "wof:country":"PT",
     "wof:created":1576698697,
-    "wof:geomhash":"c05357530b48e0f561b418d00356f9a7",
+    "wof:geomhash":"eae020c4eb824a75e9696b683f2f60bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712632,
+    "wof:lastmodified":1684354585,
     "wof:name":"S\u00e3o Paio",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":828,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

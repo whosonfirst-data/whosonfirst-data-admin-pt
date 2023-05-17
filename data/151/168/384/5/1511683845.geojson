@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130317",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Refontoura",
+    "eurostat:nuts_2021_id":"130317",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130317",
+    "eurostat:population":2081,
+    "eurostat:population_year":2020,
     "geom:area":0.00037,
+    "geom:area_square_m":3434814.126314,
     "geom:bbox":"-8.20727815908,41.3262860773,-8.17374179703,41.3490096906",
     "geom:latitude":41.336158,
     "geom:longitude":-8.192234,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Refontoura",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130317",
+        "eurostat:nuts_2021_id":"130317",
         "pt-dgt:id":"130317"
     },
     "wof:country":"PT",
     "wof:created":1576699103,
-    "wof:geomhash":"5598016308ebad5157f02114dc89ffac",
+    "wof:geomhash":"590e329c97468c70917dfc547261558b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712703,
+    "wof:lastmodified":1684354656,
     "wof:name":"Refontoura",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2081,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

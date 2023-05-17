@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131143",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Termas de S\u00e3o Vicente",
+    "eurostat:nuts_2021_id":"131143",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131143",
+    "eurostat:population":5028,
+    "eurostat:population_year":2020,
     "geom:area":0.001094,
+    "geom:area_square_m":10195355.965943,
     "geom:bbox":"-8.32561074554,41.0906766223,-8.27873824376,41.1326937734",
     "geom:latitude":41.114794,
     "geom:longitude":-8.298982,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Termas de S\u00e3o Vicente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131143",
+        "eurostat:nuts_2021_id":"131143",
         "pt-dgt:id":"131143"
     },
     "wof:country":"PT",
     "wof:created":1576698931,
-    "wof:geomhash":"dbaed010a9ac3f492c418cfaf3cb88f5",
+    "wof:geomhash":"3419551c1e82857e4f339029ae67e647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712673,
+    "wof:lastmodified":1684354623,
     "wof:name":"Termas de S\u00e3o Vicente",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":5028,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caldelas",
+    "eurostat:nuts_2021_id":"030808",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030808",
+    "eurostat:population":5723,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
     "geom:area_square_m":2689928.05793,
     "geom:bbox":"-8.353558,41.479045,-8.335153,41.503404",
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Caldelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030808",
+        "eurostat:nuts_2021_id":"030808",
         "pt-dgt:id":"030808"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576699193,
-    "wof:geomhash":"071fd265da96f0d7abc5646b0049ecbe",
+    "wof:geomhash":"cbb28e41054f3bc82a57a659e05701fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987213,
+    "wof:lastmodified":1684354675,
     "wof:name":"Caldelas",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":5723,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

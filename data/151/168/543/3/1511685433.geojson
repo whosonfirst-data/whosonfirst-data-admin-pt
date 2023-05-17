@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ginetes",
+    "eurostat:nuts_2021_id":"420310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420310",
+    "eurostat:population":1378,
+    "eurostat:population_year":2020,
     "geom:area":0.001243,
+    "geom:area_square_m":12138024.960633,
     "geom:bbox":"-25.8547737026,37.8290168291,-25.8049881408,37.874097316",
     "geom:latitude":37.851918,
     "geom:longitude":-25.831936,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ginetes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420310",
+        "eurostat:nuts_2021_id":"420310",
         "pt-dgt:id":"420310"
     },
     "wof:country":"PT",
     "wof:created":1576699436,
-    "wof:geomhash":"9cdb6a61ca43c2cfdbfabe1f33a3ce1d",
+    "wof:geomhash":"9dfc69787f8cf0f7dce4cff2fb168903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720292,
+    "wof:lastmodified":1684354714,
     "wof:name":"Ginetes",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1378,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

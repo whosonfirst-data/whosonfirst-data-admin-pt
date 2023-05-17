@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030296",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chorente, G\u00f3ios, Courel, Pedra Furada e Gueral",
+    "eurostat:nuts_2021_id":"030296",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030296",
+    "eurostat:population":2568,
+    "eurostat:population_year":2020,
     "geom:area":0.001734,
+    "geom:area_square_m":16069613.398505,
     "geom:bbox":"-8.67203843505,41.4372783169,-8.58625857537,41.4815363427",
     "geom:latitude":41.458872,
     "geom:longitude":-8.630184,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Chorente, G\u00f3ios, Courel, Pedra Furada e Gueral",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030296",
+        "eurostat:nuts_2021_id":"030296",
         "pt-dgt:id":"030296"
     },
     "wof:country":"PT",
     "wof:created":1576699178,
-    "wof:geomhash":"2869947fff0d1c04c7bbdd76478b08cb",
+    "wof:geomhash":"5711aea8e29afcb288aed1190a998481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712718,
+    "wof:lastmodified":1684354672,
     "wof:name":"Chorente, G\u00f3ios, Courel, Pedra Furada e Gueral",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2568,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

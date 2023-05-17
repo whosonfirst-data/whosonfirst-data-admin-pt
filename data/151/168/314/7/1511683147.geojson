@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gesta\u00e7\u00f4",
+    "eurostat:nuts_2021_id":"130205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130205",
+    "eurostat:population":1258,
+    "eurostat:population_year":2020,
     "geom:area":0.001526,
+    "geom:area_square_m":14206482.448278,
     "geom:bbox":"-7.96123264641,41.1504660963,-7.88943532265,41.1961814817",
     "geom:latitude":41.172573,
     "geom:longitude":-7.931902,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gesta\u00e7\u00f4",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130205",
+        "eurostat:nuts_2021_id":"130205",
         "pt-dgt:id":"130205"
     },
     "wof:country":"PT",
     "wof:created":1576698951,
-    "wof:geomhash":"6bdd36859b9eb49244978fa2e3b75e54",
+    "wof:geomhash":"210754763e98d050fa59c8a4a3fca73a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712676,
+    "wof:lastmodified":1684354626,
     "wof:name":"Gesta\u00e7\u00f4",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1258,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

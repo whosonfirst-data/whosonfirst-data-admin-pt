@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago do Escoural",
+    "eurostat:nuts_2021_id":"070605",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070605",
+    "eurostat:population":1335,
+    "eurostat:population_year":2020,
     "geom:area":0.014329,
+    "geom:area_square_m":138614062.294512,
     "geom:bbox":"-8.2643484709,38.4626736071,-8.07634541623,38.6013098949",
     "geom:latitude":38.523942,
     "geom:longitude":-8.166912,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santiago do Escoural",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070605",
+        "eurostat:nuts_2021_id":"070605",
         "pt-dgt:id":"070605"
     },
     "wof:country":"PT",
     "wof:created":1576698152,
-    "wof:geomhash":"2a2da16ea96349d1e18f9aff0c22b3d1",
+    "wof:geomhash":"82144ec94297ca2bdca26a8a38e0e3cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712486,
+    "wof:lastmodified":1684354488,
     "wof:name":"Santiago do Escoural",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":1335,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

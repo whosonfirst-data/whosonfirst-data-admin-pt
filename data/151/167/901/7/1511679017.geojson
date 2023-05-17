@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ros\u00e1rio",
+    "eurostat:nuts_2021_id":"020203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020203",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.006192,
+    "geom:area_square_m":60662003.772377,
     "geom:bbox":"-8.14617266913,37.5602902351,-7.99892551871,37.6312659189",
     "geom:latitude":37.594726,
     "geom:longitude":-8.082439,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ros\u00e1rio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020203",
+        "eurostat:nuts_2021_id":"020203",
         "pt-dgt:id":"020203"
     },
     "wof:country":"PT",
     "wof:created":1576698029,
-    "wof:geomhash":"53d6469e37b129609d63257ebc1d19a8",
+    "wof:geomhash":"dfaa995c481b1dec54b7b3d8ea326b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712455,
+    "wof:lastmodified":1684354468,
     "wof:name":"Ros\u00e1rio",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

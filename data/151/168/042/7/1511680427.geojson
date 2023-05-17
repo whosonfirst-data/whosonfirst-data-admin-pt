@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aljubarrota",
+    "eurostat:nuts_2021_id":"100120",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100120",
+    "eurostat:population":6639,
+    "eurostat:population_year":2020,
     "geom:area":0.005023,
+    "geom:area_square_m":47894170.793508,
     "geom:bbox":"-8.96847316275,39.5013759392,-8.86542653803,39.5844136595",
     "geom:latitude":39.549067,
     "geom:longitude":-8.917809,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aljubarrota",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100120",
+        "eurostat:nuts_2021_id":"100120",
         "pt-dgt:id":"100120"
     },
     "wof:country":"PT",
     "wof:created":1576698367,
-    "wof:geomhash":"2089a69e7d2771df92080b3a44359078",
+    "wof:geomhash":"29348ce8b2d3b7ff0ff9841256a3fb35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712547,
+    "wof:lastmodified":1684354525,
     "wof:name":"Aljubarrota",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":6639,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

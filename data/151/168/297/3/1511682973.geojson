@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130416",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melres e Medas",
+    "eurostat:nuts_2021_id":"130416",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"130416",
+    "eurostat:population":5820,
+    "eurostat:population_year":2020,
     "geom:area":0.002979,
+    "geom:area_square_m":27773260.339959,
     "geom:bbox":"-8.46558398247,41.0356424631,-8.37257074148,41.0977466141",
     "geom:latitude":41.06875,
     "geom:longitude":-8.417228,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Melres e Medas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130416",
+        "eurostat:nuts_2021_id":"130416",
         "pt-dgt:id":"130416"
     },
     "wof:country":"PT",
     "wof:created":1576698915,
-    "wof:geomhash":"63ba602ae707eb19880b4e830e098c60",
+    "wof:geomhash":"aca35a6db40ffe784f1047068e0f8ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712670,
+    "wof:lastmodified":1684354620,
     "wof:name":"Melres e Medas",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":5820,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpedrinha",
+    "eurostat:nuts_2021_id":"050406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050406",
+    "eurostat:population":1087,
+    "eurostat:population_year":2020,
     "geom:area":0.001709,
+    "geom:area_square_m":16169143.368166,
     "geom:bbox":"-7.48883981757,40.0751954408,-7.38835540329,40.1126615996",
     "geom:latitude":40.090726,
     "geom:longitude":-7.449578,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alpedrinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050406",
+        "eurostat:nuts_2021_id":"050406",
         "pt-dgt:id":"050406"
     },
     "wof:country":"PT",
     "wof:created":1576698496,
-    "wof:geomhash":"bdc1528692b412065b90abe69d2a4e52",
+    "wof:geomhash":"1064e19b2d8400cf011330f8d417de70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712592,
+    "wof:lastmodified":1684354554,
     "wof:name":"Alpedrinha",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1087,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430211",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Martins",
+    "eurostat:nuts_2021_id":"430211",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430211",
+    "eurostat:population":1001,
+    "eurostat:population_year":2020,
     "geom:area":0.000356,
+    "geom:area_square_m":3432521.082445,
     "geom:bbox":"-27.0730274448,38.675215936,-27.0412065001,38.6979327134",
     "geom:latitude":38.687488,
     "geom:longitude":-27.059807,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Porto Martins",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430211",
+        "eurostat:nuts_2021_id":"430211",
         "pt-dgt:id":"430211"
     },
     "wof:country":"PT",
     "wof:created":1576703600,
-    "wof:geomhash":"887c027b1b96f66dc301d710bef90571",
+    "wof:geomhash":"921e46dbefc5d958d546bf8d1d12a08a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720272,
+    "wof:lastmodified":1684354741,
     "wof:name":"Porto Martins",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1001,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

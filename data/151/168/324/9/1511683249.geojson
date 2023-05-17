@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131018",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebordosa",
+    "eurostat:nuts_2021_id":"131018",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131018",
+    "eurostat:population":9106,
+    "eurostat:population_year":2020,
     "geom:area":0.001156,
+    "geom:area_square_m":10748435.186169,
     "geom:bbox":"-8.44683019227,41.1988757399,-8.38368736789,41.2326437508",
     "geom:latitude":41.217556,
     "geom:longitude":-8.413867,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rebordosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131018",
+        "eurostat:nuts_2021_id":"131018",
         "pt-dgt:id":"131018"
     },
     "wof:country":"PT",
     "wof:created":1576698972,
-    "wof:geomhash":"c11c2c56a0824823d156f47805a252d3",
+    "wof:geomhash":"2687543d22d0a61b0e983c2f708c30c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712681,
+    "wof:lastmodified":1684354631,
     "wof:name":"Rebordosa",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":9106,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

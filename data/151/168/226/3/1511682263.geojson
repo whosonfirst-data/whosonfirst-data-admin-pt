@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freiriz",
+    "eurostat:nuts_2021_id":"031316",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031316",
+    "eurostat:population":1099,
+    "eurostat:population_year":2020,
     "geom:area":0.000631,
+    "geom:area_square_m":5834397.455964,
     "geom:bbox":"-8.5208144319,41.6252508288,-8.49251421478,41.6612996784",
     "geom:latitude":41.643228,
     "geom:longitude":-8.508903,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Freiriz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031316",
+        "eurostat:nuts_2021_id":"031316",
         "pt-dgt:id":"031316"
     },
     "wof:country":"PT",
     "wof:created":1576698764,
-    "wof:geomhash":"eaf376a7a389225a486724169a3cd329",
+    "wof:geomhash":"29a8dfe1b5a57e9962b97d932628d9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Freiriz",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1099,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

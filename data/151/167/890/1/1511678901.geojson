@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Budens",
+    "eurostat:nuts_2021_id":"081502",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081502",
+    "eurostat:population":1520,
+    "eurostat:population_year":2020,
     "geom:area":0.004622,
+    "geom:area_square_m":45584157.583615,
     "geom:bbox":"-8.86674724132,37.054759388,-8.77226124995,37.1559634894",
     "geom:latitude":37.096367,
     "geom:longitude":-8.831358,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Budens",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081502",
+        "eurostat:nuts_2021_id":"081502",
         "pt-dgt:id":"081502"
     },
     "wof:country":"PT",
     "wof:created":1576697987,
-    "wof:geomhash":"8aef6f4c9dd4ba460b82484cdd9b27c8",
+    "wof:geomhash":"6b0485015659a673effa93bb9f3a28cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712434,
+    "wof:lastmodified":1684354456,
     "wof:name":"Budens",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":1520,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

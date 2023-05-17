@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060605",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova do Ceira",
+    "eurostat:nuts_2021_id":"060605",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060605",
+    "eurostat:population":929,
+    "eurostat:population_year":2020,
     "geom:area":0.002083,
+    "geom:area_square_m":19680948.598171,
     "geom:bbox":"-8.17323638746,40.1555502652,-8.1174315948,40.2128621373",
     "geom:latitude":40.186389,
     "geom:longitude":-8.148736,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova do Ceira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060605",
+        "eurostat:nuts_2021_id":"060605",
         "pt-dgt:id":"060605"
     },
     "wof:country":"PT",
     "wof:created":1576698525,
-    "wof:geomhash":"a0999bd4e1f741c7fa29f2d24b686f0c",
+    "wof:geomhash":"c7df2f8bf7afb26b45cf2d57f4a05782",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712599,
+    "wof:lastmodified":1684354559,
     "wof:name":"Vila Nova do Ceira",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":929,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

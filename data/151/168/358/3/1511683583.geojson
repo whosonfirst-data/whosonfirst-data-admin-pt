@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040533",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale da Porca",
+    "eurostat:nuts_2021_id":"040533",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040533",
+    "eurostat:population":286,
+    "eurostat:population_year":2020,
     "geom:area":0.00188,
+    "geom:area_square_m":17399350.466899,
     "geom:bbox":"-6.92630842151,41.5118224216,-6.87046581504,41.5651658236",
     "geom:latitude":41.537366,
     "geom:longitude":-6.89866,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale da Porca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040533",
+        "eurostat:nuts_2021_id":"040533",
         "pt-dgt:id":"040533"
     },
     "wof:country":"PT",
     "wof:created":1576699041,
-    "wof:geomhash":"06accd9038b568b9a87f03eed449f760",
+    "wof:geomhash":"bfd55cdfff53448b292c999dfa3f0cbf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712695,
+    "wof:lastmodified":1684354647,
     "wof:name":"Vale da Porca",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030815",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferment\u00f5es",
+    "eurostat:nuts_2021_id":"030815",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030815",
+    "eurostat:population":5707,
+    "eurostat:population_year":2020,
     "geom:area":0.000405,
+    "geom:area_square_m":3750602.410939,
     "geom:bbox":"-8.32807447415,41.4430505297,-8.30132569532,41.467916423",
     "geom:latitude":41.456141,
     "geom:longitude":-8.314269,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ferment\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030815",
+        "eurostat:nuts_2021_id":"030815",
         "pt-dgt:id":"030815"
     },
     "wof:country":"PT",
     "wof:created":1576699168,
-    "wof:geomhash":"eec2d94d26015a4da99710f856304510",
+    "wof:geomhash":"2e3c01620ec56d125f883d59fecec00d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712715,
+    "wof:lastmodified":1684354670,
     "wof:name":"Ferment\u00f5es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":5707,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

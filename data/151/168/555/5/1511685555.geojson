@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto da Cruz",
+    "eurostat:nuts_2021_id":"310404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310404",
+    "eurostat:population":2597,
+    "eurostat:population_year":2020,
     "geom:area":0.002424,
+    "geom:area_square_m":25211084.928868,
     "geom:bbox":"-16.9055591939,32.7099278002,-16.789217069,32.7875493745",
     "geom:latitude":32.748945,
     "geom:longitude":-16.846565,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Porto da Cruz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310404",
+        "eurostat:nuts_2021_id":"310404",
         "pt-dgt:id":"310404"
     },
     "wof:country":"PT",
     "wof:created":1576699475,
-    "wof:geomhash":"18cdd1a0b41dbce4621d028935aae1ff",
+    "wof:geomhash":"75a4a03300263ceffa1f00f6bac37cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720322,
+    "wof:lastmodified":1684354733,
     "wof:name":"Porto da Cruz",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":2597,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

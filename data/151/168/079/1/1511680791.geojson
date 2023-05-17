@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abiul",
+    "eurostat:nuts_2021_id":"101501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101501",
+    "eurostat:population":2765,
+    "eurostat:population_year":2020,
     "geom:area":0.0057,
+    "geom:area_square_m":54091020.302823,
     "geom:bbox":"-8.55532045341,39.8150495927,-8.46999088764,39.931743447",
     "geom:latitude":39.87408,
     "geom:longitude":-8.513389,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abiul",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101501",
+        "eurostat:nuts_2021_id":"101501",
         "pt-dgt:id":"101501"
     },
     "wof:country":"PT",
     "wof:created":1576698457,
-    "wof:geomhash":"cdd07ba04528c27cbc98228f477acf41",
+    "wof:geomhash":"756dd32b31dd0bcec479d0f5a10a9b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712578,
+    "wof:lastmodified":1684354545,
     "wof:name":"Abiul",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2765,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

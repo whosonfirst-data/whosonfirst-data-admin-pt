@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Souto de Aguiar da Beira e Valverde",
+    "eurostat:nuts_2021_id":"090116",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"090116",
+    "eurostat:population":451,
+    "eurostat:population_year":2020,
     "geom:area":0.002313,
+    "geom:area_square_m":21651578.338597,
     "geom:bbox":"-7.537105891,40.7710244108,-7.45397775709,40.8287763052",
     "geom:latitude":40.802247,
     "geom:longitude":-7.497445,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Souto de Aguiar da Beira e Valverde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090116",
+        "eurostat:nuts_2021_id":"090116",
         "pt-dgt:id":"090116"
     },
     "wof:country":"PT",
     "wof:created":1576698858,
-    "wof:geomhash":"53c800e4e23077b5745df916ae3be422",
+    "wof:geomhash":"48fb9a8db32f66abc7e43d5ee24cad4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712659,
+    "wof:lastmodified":1684354609,
     "wof:name":"Souto de Aguiar da Beira e Valverde",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":451,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

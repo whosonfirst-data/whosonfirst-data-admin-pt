@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182317",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Silgueiros",
+    "eurostat:nuts_2021_id":"182317",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182317",
+    "eurostat:population":3250,
+    "eurostat:population_year":2020,
     "geom:area":0.003847,
+    "geom:area_square_m":36132513.335002,
     "geom:bbox":"-8.00649624792,40.5357324752,-7.90075724913,40.6009765087",
     "geom:latitude":40.566544,
     "geom:longitude":-7.954081,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Silgueiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182317",
+        "eurostat:nuts_2021_id":"182317",
         "pt-dgt:id":"182317"
     },
     "wof:country":"PT",
     "wof:created":1576698718,
-    "wof:geomhash":"2669e8354741e7e65c14bece4d1e991f",
+    "wof:geomhash":"3c99de827101e34133755648bfa1f360",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354588,
     "wof:name":"Silgueiros",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":3250,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

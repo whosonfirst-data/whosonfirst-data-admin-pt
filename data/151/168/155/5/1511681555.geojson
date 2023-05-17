@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090722",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jo\u00e3o Ant\u00e3o",
+    "eurostat:nuts_2021_id":"090722",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090722",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.000932,
+    "geom:area_square_m":8771527.412034,
     "geom:bbox":"-7.25583522298,40.4385212749,-7.22296607419,40.4903404443",
     "geom:latitude":40.463149,
     "geom:longitude":-7.239295,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Jo\u00e3o Ant\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090722",
+        "eurostat:nuts_2021_id":"090722",
         "pt-dgt:id":"090722"
     },
     "wof:country":"PT",
     "wof:created":1576698620,
-    "wof:geomhash":"a2db87305628b74343d2e6a048ecee7d",
+    "wof:geomhash":"f25c1bc3e077e87947a4760627bf3826",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712618,
+    "wof:lastmodified":1684354572,
     "wof:name":"Jo\u00e3o Ant\u00e3o",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

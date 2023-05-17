@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050308",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cortes do Meio",
+    "eurostat:nuts_2021_id":"050308",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050308",
+    "eurostat:population":884,
+    "eurostat:population_year":2020,
     "geom:area":0.005019,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":47349696.667568,
     "geom:bbox":"-7.61393533062,40.2271352373,-7.53293815479,40.3203396661",
     "geom:latitude":40.270522,
     "geom:longitude":-7.57013,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050308",
+        "eurostat:nuts_2021_id":"050308",
         "gn:id":8014843,
         "pt-dgt:id":50308,
         "qs_pg:id":381219
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"31b947be80439ecc6e12680740b582e7",
+    "wof:geomhash":"347ece0c6cecb95127798db3834739cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125381709,
-    "wof:lastmodified":1582359924,
+    "wof:lastmodified":1684354447,
     "wof:name":"Cortes do Meio",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":884,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

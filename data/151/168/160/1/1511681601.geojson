@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jo\u00e3o de Tarouca",
+    "eurostat:nuts_2021_id":"182006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"182006",
+    "eurostat:population":606,
+    "eurostat:population_year":2020,
     "geom:area":0.001989,
+    "geom:area_square_m":18561931.882887,
     "geom:bbox":"-7.77977187469,40.954253026,-7.72404737655,41.0144609308",
     "geom:latitude":40.985061,
     "geom:longitude":-7.748162,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Jo\u00e3o de Tarouca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182006",
+        "eurostat:nuts_2021_id":"182006",
         "pt-dgt:id":"182006"
     },
     "wof:country":"PT",
     "wof:created":1576698630,
-    "wof:geomhash":"8f657c98526938c19dabbc15cfacdb33",
+    "wof:geomhash":"5be9ee7a849ba67a8315dcd0f71d8a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712620,
+    "wof:lastmodified":1684354574,
     "wof:name":"S\u00e3o Jo\u00e3o de Tarouca",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":606,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

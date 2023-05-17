@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091031",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valbom/Bogalhal",
+    "eurostat:nuts_2021_id":"091031",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091031",
+    "eurostat:population":251,
+    "eurostat:population_year":2020,
     "geom:area":0.003449,
+    "geom:area_square_m":32286228.285749,
     "geom:bbox":"-7.16049609635,40.7628771102,-7.08635225628,40.8345843961",
     "geom:latitude":40.802197,
     "geom:longitude":-7.124466,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valbom/Bogalhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091031",
+        "eurostat:nuts_2021_id":"091031",
         "pt-dgt:id":"091031"
     },
     "wof:country":"PT",
     "wof:created":1576698860,
-    "wof:geomhash":"62af36f15071bfb5d886080216f2cc3c",
+    "wof:geomhash":"e6eade2e7ee5fb5a5ba23baafc5ee483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712659,
+    "wof:lastmodified":1684354610,
     "wof:name":"Valbom/Bogalhal",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":251,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

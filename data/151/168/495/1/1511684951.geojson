@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calheiros",
+    "eurostat:nuts_2021_id":"160713",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160713",
+    "eurostat:population":991,
+    "eurostat:population_year":2020,
     "geom:area":0.000921,
+    "geom:area_square_m":8487054.224586,
     "geom:bbox":"-8.59911295404,41.7960227254,-8.53755643176,41.8319211764",
     "geom:latitude":41.812743,
     "geom:longitude":-8.567451,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Calheiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160713",
+        "eurostat:nuts_2021_id":"160713",
         "pt-dgt:id":"160713"
     },
     "wof:country":"PT",
     "wof:created":1576699333,
-    "wof:geomhash":"dba7d6e7df183c105846107c54070f1c",
+    "wof:geomhash":"bdef6c34766462e73a17fb665baf3cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Calheiros",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":991,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

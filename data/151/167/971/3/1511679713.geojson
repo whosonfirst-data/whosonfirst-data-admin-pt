@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111514",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encosta do Sol",
+    "eurostat:nuts_2021_id":"111514",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111514",
+    "eurostat:population":28261,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
+    "geom:area_square_m":2799377.407987,
     "geom:bbox":"-9.22626990785,38.75649236,-9.19782815766,38.78427844",
     "geom:latitude":38.769383,
     "geom:longitude":-9.214086,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Encosta do Sol",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111514",
+        "eurostat:nuts_2021_id":"111514",
         "pt-dgt:id":"111514"
     },
     "wof:country":"PT",
     "wof:created":1576698187,
-    "wof:geomhash":"e033943e3e17d0a2af120d530dcf6850",
+    "wof:geomhash":"4ab4f1a79553b0f906e9305906c08100",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354492,
     "wof:name":"Encosta do Sol",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":28261,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

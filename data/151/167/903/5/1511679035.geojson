@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021117",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Longueira/Almograve",
+    "eurostat:nuts_2021_id":"021117",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"021117",
+    "eurostat:population":1356,
+    "eurostat:population_year":2020,
     "geom:area":0.009361,
+    "geom:area_square_m":91642192.253128,
     "geom:bbox":"-8.81050633229,37.5809107121,-8.69972323459,37.7279668932",
     "geom:latitude":37.651736,
     "geom:longitude":-8.756731,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Longueira/Almograve",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021117",
+        "eurostat:nuts_2021_id":"021117",
         "pt-dgt:id":"021117"
     },
     "wof:country":"PT",
     "wof:created":1576698034,
-    "wof:geomhash":"3d25f63159931f81fc9e445b56d8163f",
+    "wof:geomhash":"0b002beefc4f6154a9a855d4cffd3394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712457,
+    "wof:lastmodified":1684354470,
     "wof:name":"Longueira/Almograve",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1356,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

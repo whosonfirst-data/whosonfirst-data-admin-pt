@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030247",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Martim",
+    "eurostat:nuts_2021_id":"030247",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030247",
+    "eurostat:population":2375,
+    "eurostat:population_year":2020,
     "geom:area":0.000574,
+    "geom:area_square_m":5309651.132028,
     "geom:bbox":"-8.5312121512,41.5163635623,-8.49454241012,41.5515881625",
     "geom:latitude":41.533558,
     "geom:longitude":-8.512733,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Martim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030247",
+        "eurostat:nuts_2021_id":"030247",
         "pt-dgt:id":"030247"
     },
     "wof:country":"PT",
     "wof:created":1576699232,
-    "wof:geomhash":"2dd270a07cd7d1c332c488ebca3ac043",
+    "wof:geomhash":"89c0ac6ca987a575c8c8de36e13c5088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712725,
+    "wof:lastmodified":1684354679,
     "wof:name":"Martim",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2375,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jo\u00e3o Baptista",
+    "eurostat:nuts_2021_id":"120403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120403",
+    "eurostat:population":3895,
+    "eurostat:population_year":2020,
     "geom:area":0.011069,
+    "geom:area_square_m":106280344.198197,
     "geom:bbox":"-7.14935662859,38.9808365644,-6.95941637978,39.118389882",
     "geom:latitude":39.0576,
     "geom:longitude":-7.045797,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Jo\u00e3o Baptista",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120403",
+        "eurostat:nuts_2021_id":"120403",
         "pt-dgt:id":"120403"
     },
     "wof:country":"PT",
     "wof:created":1576698254,
-    "wof:geomhash":"4ddfb0ae82cebf629dd9aa995bc169d2",
+    "wof:geomhash":"012021f7325d0baf0e89ad5cc5d65e82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712514,
+    "wof:lastmodified":1684354504,
     "wof:name":"S\u00e3o Jo\u00e3o Baptista",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":3895,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

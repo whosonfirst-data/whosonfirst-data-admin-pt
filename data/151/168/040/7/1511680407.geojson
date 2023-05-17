@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mira de Aire",
+    "eurostat:nuts_2021_id":"101608",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101608",
+    "eurostat:population":3775,
+    "eurostat:population_year":2020,
     "geom:area":0.001637,
+    "geom:area_square_m":15608236.9976,
     "geom:bbox":"-8.74461846557,39.5207845623,-8.68738035547,39.5677282458",
     "geom:latitude":39.545879,
     "geom:longitude":-8.717539,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mira de Aire",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101608",
+        "eurostat:nuts_2021_id":"101608",
         "pt-dgt:id":"101608"
     },
     "wof:country":"PT",
     "wof:created":1576698362,
-    "wof:geomhash":"202da31d5de559f2d0bfc6700e9d617e",
+    "wof:geomhash":"0b5a20e69125950ee2468df7130bd306",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712545,
+    "wof:lastmodified":1684354523,
     "wof:name":"Mira de Aire",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3775,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

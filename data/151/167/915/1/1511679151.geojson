@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090625",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gouveia",
+    "eurostat:nuts_2021_id":"090625",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090625",
+    "eurostat:population":3472,
+    "eurostat:population_year":2020,
     "geom:area":0.003765,
+    "geom:area_square_m":35414734.483664,
     "geom:bbox":"-7.62058595456,40.4323268068,-7.4934828722,40.508976154",
     "geom:latitude":40.474458,
     "geom:longitude":-7.559819,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gouveia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090625",
+        "eurostat:nuts_2021_id":"090625",
         "pt-dgt:id":"090625"
     },
     "wof:country":"PT",
     "wof:created":1576698061,
-    "wof:geomhash":"a65ad7ebf94b16de7d7c8c5805a1dd35",
+    "wof:geomhash":"75a588cdc3554169846cfc68d9327604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712466,
+    "wof:lastmodified":1684354475,
     "wof:name":"Gouveia",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":3472,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinhan\u00e7os",
+    "eurostat:nuts_2021_id":"091209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091209",
+    "eurostat:population":716,
+    "eurostat:population_year":2020,
     "geom:area":0.000884,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":8316088.328792,
     "geom:bbox":"-7.71050532929,40.4535352502,-7.66254103249,40.4865850168",
     "geom:latitude":40.469425,
     "geom:longitude":-7.688957,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091209",
+        "eurostat:nuts_2021_id":"091209",
         "gn:id":8012250,
         "pt-dgt:id":91209,
         "qs_pg:id":904362
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"d2d0a349373f1f0e005b3069e1a532c5",
+    "wof:geomhash":"0b15eb6185634f9451a84bfed60e4966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125270173,
-    "wof:lastmodified":1582359917,
+    "wof:lastmodified":1684354443,
     "wof:name":"Pinhan\u00e7os",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":716,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

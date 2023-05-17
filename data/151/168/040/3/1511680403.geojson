@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Belver",
+    "eurostat:nuts_2021_id":"120902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120902",
+    "eurostat:population":684,
+    "eurostat:population_year":2020,
     "geom:area":0.007315,
+    "geom:area_square_m":69777057.705376,
     "geom:bbox":"-8.00523494256,39.4773928236,-7.85109962246,39.5650858727",
     "geom:latitude":39.514834,
     "geom:longitude":-7.930683,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Belver",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120902",
+        "eurostat:nuts_2021_id":"120902",
         "pt-dgt:id":"120902"
     },
     "wof:country":"PT",
     "wof:created":1576698361,
-    "wof:geomhash":"96767448cadbb325aec9393ceae1b119",
+    "wof:geomhash":"43d5f690bbd8822c19f6ba38331585a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712544,
+    "wof:lastmodified":1684354523,
     "wof:name":"Belver",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":684,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

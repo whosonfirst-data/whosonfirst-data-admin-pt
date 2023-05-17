@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030875",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aba\u00e7\u00e3o e G\u00e9meos",
+    "eurostat:nuts_2021_id":"030875",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030875",
+    "eurostat:population":2694,
+    "eurostat:population_year":2020,
     "geom:area":0.000725,
+    "geom:area_square_m":6724802.927874,
     "geom:bbox":"-8.28197147163,41.391958221,-8.24487162623,41.425883928",
     "geom:latitude":41.409164,
     "geom:longitude":-8.264293,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Aba\u00e7\u00e3o e G\u00e9meos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030875",
+        "eurostat:nuts_2021_id":"030875",
         "pt-dgt:id":"030875"
     },
     "wof:country":"PT",
     "wof:created":1576699134,
-    "wof:geomhash":"1180b90d8a13dffc159a5a564e68b4bc",
+    "wof:geomhash":"86905068b62fc39e62b5f79d3aae6936",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Aba\u00e7\u00e3o e G\u00e9meos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2694,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

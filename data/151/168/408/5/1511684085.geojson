@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030854",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Selho (S\u00e3o Jorge)",
+    "eurostat:nuts_2021_id":"030854",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030854",
+    "eurostat:population":5729,
+    "eurostat:population_year":2020,
     "geom:area":0.00056,
+    "geom:area_square_m":5194657.42501,
     "geom:bbox":"-8.37907798061,41.4181778181,-8.33931679137,41.4451260227",
     "geom:latitude":41.433391,
     "geom:longitude":-8.359432,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Selho (S\u00e3o Jorge)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030854",
+        "eurostat:nuts_2021_id":"030854",
         "pt-dgt:id":"030854"
     },
     "wof:country":"PT",
     "wof:created":1576699151,
-    "wof:geomhash":"61be8044360b8a6bcaf1ba00ea9d71dd",
+    "wof:geomhash":"239169b517e9ef0cc07ea57f2a08b405",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712712,
+    "wof:lastmodified":1684354667,
     "wof:name":"Selho (S\u00e3o Jorge)",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":5729,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

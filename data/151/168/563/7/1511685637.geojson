@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430109",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto Judeu",
+    "eurostat:nuts_2021_id":"430109",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430109",
+    "eurostat:population":2501,
+    "eurostat:population_year":2020,
     "geom:area":0.003136,
+    "geom:area_square_m":30269449.23275,
     "geom:bbox":"-27.223306934,38.6435140193,-27.1025599935,38.7294810714",
     "geom:latitude":38.689409,
     "geom:longitude":-27.16083,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Porto Judeu",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430109",
+        "eurostat:nuts_2021_id":"430109",
         "pt-dgt:id":"430109"
     },
     "wof:country":"PT",
     "wof:created":1576703604,
-    "wof:geomhash":"a24ecf7298a1ed0fd19af89e8ba554f1",
+    "wof:geomhash":"51e85266d4e2c12fa6aa105fd1b59b48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720333,
+    "wof:lastmodified":1684354742,
     "wof:name":"Porto Judeu",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2501,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

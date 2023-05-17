@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030368",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Crespos e Pousada",
+    "eurostat:nuts_2021_id":"030368",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030368",
+    "eurostat:population":1347,
+    "eurostat:population_year":2020,
     "geom:area":0.000793,
+    "geom:area_square_m":7328175.577653,
     "geom:bbox":"-8.37510670822,41.5848317627,-8.33483425375,41.6172026779",
     "geom:latitude":41.603936,
     "geom:longitude":-8.35285,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Crespos e Pousada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030368",
+        "eurostat:nuts_2021_id":"030368",
         "pt-dgt:id":"030368"
     },
     "wof:country":"PT",
     "wof:created":1576699062,
-    "wof:geomhash":"0725bcb5edd39ec31dc8c6924e00119c",
+    "wof:geomhash":"6f16880d2714b89a145cbcc08f4bd970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"Crespos e Pousada",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1347,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

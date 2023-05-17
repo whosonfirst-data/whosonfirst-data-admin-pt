@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170810",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilarinho dos Freires",
+    "eurostat:nuts_2021_id":"170810",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170810",
+    "eurostat:population":950,
+    "eurostat:population_year":2020,
     "geom:area":0.000847,
+    "geom:area_square_m":7885596.900329,
     "geom:bbox":"-7.76931038007,41.1576387645,-7.72205160919,41.214491182",
     "geom:latitude":41.18508,
     "geom:longitude":-7.745349,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilarinho dos Freires",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170810",
+        "eurostat:nuts_2021_id":"170810",
         "pt-dgt:id":"170810"
     },
     "wof:country":"PT",
     "wof:created":1576698963,
-    "wof:geomhash":"14eac40ccb83c2246fa8ddd812fc7f75",
+    "wof:geomhash":"8c60927a550f9bbdf257591b4d0e7b13",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712679,
+    "wof:lastmodified":1684354629,
     "wof:name":"Vilarinho dos Freires",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":950,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comporta",
+    "eurostat:nuts_2021_id":"150106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150106",
+    "eurostat:population":1268,
+    "eurostat:population_year":2020,
     "geom:area":0.015519,
+    "geom:area_square_m":150435993.620025,
     "geom:bbox":"-8.82276390008,38.2944348415,-8.6467383508,38.4642440391",
     "geom:latitude":38.378367,
     "geom:longitude":-8.742993,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Comporta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150106",
+        "eurostat:nuts_2021_id":"150106",
         "pt-dgt:id":"150106"
     },
     "wof:country":"PT",
     "wof:created":1576698144,
-    "wof:geomhash":"243eaf9444af42acb4f740b940a351fd",
+    "wof:geomhash":"67608b534b24840240445376856137d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712484,
+    "wof:lastmodified":1684354486,
     "wof:name":"Comporta",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":1268,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

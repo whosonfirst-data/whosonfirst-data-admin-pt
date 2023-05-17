@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeiradio",
+    "eurostat:nuts_2021_id":"181007",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181007",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.00167,
+    "geom:area_square_m":15653227.045409,
     "geom:bbox":"-8.33358793183,40.6925299739,-8.28464559452,40.7512893516",
     "geom:latitude":40.723441,
     "geom:longitude":-8.30723,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ribeiradio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181007",
+        "eurostat:nuts_2021_id":"181007",
         "pt-dgt:id":"181007"
     },
     "wof:country":"PT",
     "wof:created":1576698828,
-    "wof:geomhash":"12aa169c0244a6eb9b14eee4948c92b4",
+    "wof:geomhash":"2e674a483ffa24ec6a1b202da8a1cc6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712653,
+    "wof:lastmodified":1684354604,
     "wof:name":"Ribeiradio",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

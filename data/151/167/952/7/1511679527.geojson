@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Reguengos de Monsaraz",
+    "eurostat:nuts_2021_id":"071104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071104",
+    "eurostat:population":7261,
+    "eurostat:population_year":2020,
     "geom:area":0.010492,
+    "geom:area_square_m":101649954.483008,
     "geom:bbox":"-7.61288859063,38.3378775708,-7.47842512103,38.5188432551",
     "geom:latitude":38.418702,
     "geom:longitude":-7.552667,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Reguengos de Monsaraz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071104",
+        "eurostat:nuts_2021_id":"071104",
         "pt-dgt:id":"071104"
     },
     "wof:country":"PT",
     "wof:created":1576698146,
-    "wof:geomhash":"b35072bb4eafcee67408f5fed3856791",
+    "wof:geomhash":"22efb5418035ca5937552ee933d8ac7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712484,
+    "wof:lastmodified":1684354487,
     "wof:name":"Reguengos de Monsaraz",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":7261,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

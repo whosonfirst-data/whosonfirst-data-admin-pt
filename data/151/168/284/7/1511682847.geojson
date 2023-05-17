@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180417",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Travanca",
+    "eurostat:nuts_2021_id":"180417",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"180417",
+    "eurostat:population":829,
+    "eurostat:population_year":2020,
     "geom:area":0.000533,
+    "geom:area_square_m":4968532.259971,
     "geom:bbox":"-8.24102123791,41.0160017122,-8.21058883007,41.0582098143",
     "geom:latitude":41.037983,
     "geom:longitude":-8.223877,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Travanca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180417",
+        "eurostat:nuts_2021_id":"180417",
         "pt-dgt:id":"180417"
     },
     "wof:country":"PT",
     "wof:created":1576698889,
-    "wof:geomhash":"eab19478283d79fe9a04b0a663e9fc26",
+    "wof:geomhash":"06e7598b8f00ec0504ed70841b2707e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712665,
+    "wof:lastmodified":1684354615,
     "wof:name":"Travanca",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":829,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

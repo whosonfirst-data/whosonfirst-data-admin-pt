@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Real",
+    "eurostat:nuts_2021_id":"010606",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"010606",
+    "eurostat:population":1300,
+    "eurostat:population_year":2020,
     "geom:area":0.003543,
+    "geom:area_square_m":33066013.256283,
     "geom:bbox":"-8.32410693296,40.962258743,-8.23412279272,41.0385157674",
     "geom:latitude":40.992264,
     "geom:longitude":-8.275674,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Real",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010606",
+        "eurostat:nuts_2021_id":"010606",
         "pt-dgt:id":"010606"
     },
     "wof:country":"PT",
     "wof:created":1576698060,
-    "wof:geomhash":"bf775189a8bc0b9569d1b489ca44078e",
+    "wof:geomhash":"740fbd7dc88c06b5c2d22df8751a184c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712466,
+    "wof:lastmodified":1684354475,
     "wof:name":"Real",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1300,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

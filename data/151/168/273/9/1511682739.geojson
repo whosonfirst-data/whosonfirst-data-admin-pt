@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090421",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freixeda do Torr\u00e3o, Quint\u00e3 de P\u00earo Martins e Penha de \u00c1guia",
+    "eurostat:nuts_2021_id":"090421",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090421",
+    "eurostat:population":518,
+    "eurostat:population_year":2020,
     "geom:area":0.006166,
+    "geom:area_square_m":57645104.484539,
     "geom:bbox":"-7.12224715784,40.8391825439,-6.98569917422,40.9181676498",
     "geom:latitude":40.879088,
     "geom:longitude":-7.054305,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Freixeda do Torr\u00e3o, Quint\u00e3 de P\u00earo Martins e Penha de \u00c1guia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090421",
+        "eurostat:nuts_2021_id":"090421",
         "pt-dgt:id":"090421"
     },
     "wof:country":"PT",
     "wof:created":1576698867,
-    "wof:geomhash":"22ec2464db91a958228ad310db7c0876",
+    "wof:geomhash":"d7b4e056440ed3b5f0ae3eeafd645d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712661,
+    "wof:lastmodified":1684354611,
     "wof:name":"Freixeda do Torr\u00e3o, Quint\u00e3 de P\u00earo Martins e Penha de \u00c1guia",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":518,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

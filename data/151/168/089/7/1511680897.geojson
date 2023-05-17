@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marinha das Ondas",
+    "eurostat:nuts_2021_id":"060508",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060508",
+    "eurostat:population":3179,
+    "eurostat:population_year":2020,
     "geom:area":0.002892,
+    "geom:area_square_m":27382208.016675,
     "geom:bbox":"-8.89493300989,40.0125586369,-8.78574995878,40.0627740808",
     "geom:latitude":40.039685,
     "geom:longitude":-8.84091,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Marinha das Ondas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060508",
+        "eurostat:nuts_2021_id":"060508",
         "pt-dgt:id":"060508"
     },
     "wof:country":"PT",
     "wof:created":1576698483,
-    "wof:geomhash":"4f3c674f58598c9749c905f8dd551c7c",
+    "wof:geomhash":"c20462de9afc78ae746c5e95f65d9f54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712587,
+    "wof:lastmodified":1684354551,
     "wof:name":"Marinha das Ondas",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":3179,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

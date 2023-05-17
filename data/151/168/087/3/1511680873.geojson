@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almagreira",
+    "eurostat:nuts_2021_id":"101503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101503",
+    "eurostat:population":3076,
+    "eurostat:population_year":2020,
     "geom:area":0.004493,
+    "geom:area_square_m":42566625.643824,
     "geom:bbox":"-8.71907526959,39.9368666649,-8.64012031982,40.0300977997",
     "geom:latitude":39.986543,
     "geom:longitude":-8.68112,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Almagreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101503",
+        "eurostat:nuts_2021_id":"101503",
         "pt-dgt:id":"101503"
     },
     "wof:country":"PT",
     "wof:created":1576698477,
-    "wof:geomhash":"e58d4b10d947e057c78b07a2fde8c69d",
+    "wof:geomhash":"fcb8c410e231387f898d942773acab34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712586,
+    "wof:lastmodified":1684354550,
     "wof:name":"Almagreira",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3076,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

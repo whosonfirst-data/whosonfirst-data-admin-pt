@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020807",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfund\u00e3o e Peroguarda",
+    "eurostat:nuts_2021_id":"020807",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020807",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.009074,
+    "geom:area_square_m":88282571.547207,
     "geom:bbox":"-8.10690598928,38.0530034032,-7.97706144035,38.1716914356",
     "geom:latitude":38.114566,
     "geom:longitude":-8.044592,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alfund\u00e3o e Peroguarda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020807",
+        "eurostat:nuts_2021_id":"020807",
         "pt-dgt:id":"020807"
     },
     "wof:country":"PT",
     "wof:created":1576698125,
-    "wof:geomhash":"eef1f2df06370c03309c722b70352ae3",
+    "wof:geomhash":"656a7519fb58c0c86fd695d26976958f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712478,
+    "wof:lastmodified":1684354483,
     "wof:name":"Alfund\u00e3o e Peroguarda",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

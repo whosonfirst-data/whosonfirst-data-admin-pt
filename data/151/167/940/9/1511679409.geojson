@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ermidas-Sado",
+    "eurostat:nuts_2021_id":"150904",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150904",
+    "eurostat:population":2020,
+    "eurostat:population_year":2020,
     "geom:area":0.008452,
+    "geom:area_square_m":82355489.20235,
     "geom:bbox":"-8.46764197881,37.9617571114,-8.29313532013,38.0663942599",
     "geom:latitude":38.002851,
     "geom:longitude":-8.379001,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ermidas-Sado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150904",
+        "eurostat:nuts_2021_id":"150904",
         "pt-dgt:id":"150904"
     },
     "wof:country":"PT",
     "wof:created":1576698117,
-    "wof:geomhash":"bba4af2af054fbc9baa48d79c5a829b3",
+    "wof:geomhash":"3652e1488fb1d824b5a88926235e1870",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712476,
+    "wof:lastmodified":1684354482,
     "wof:name":"Ermidas-Sado",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":2020,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

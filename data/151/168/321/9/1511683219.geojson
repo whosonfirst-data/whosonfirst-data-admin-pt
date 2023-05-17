@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loivos do Monte",
+    "eurostat:nuts_2021_id":"130208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130208",
+    "eurostat:population":373,
+    "eurostat:population_year":2020,
     "geom:area":0.000939,
+    "geom:area_square_m":8738276.220621,
     "geom:bbox":"-8.01482474125,41.1722866415,-7.95755790571,41.220203911",
     "geom:latitude":41.195293,
     "geom:longitude":-7.981241,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Loivos do Monte",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130208",
+        "eurostat:nuts_2021_id":"130208",
         "pt-dgt:id":"130208"
     },
     "wof:country":"PT",
     "wof:created":1576698966,
-    "wof:geomhash":"82370b846452a2dcefa7207cf55e4dc3",
+    "wof:geomhash":"72a690ae6fb7300e7640b46eb1835b31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712679,
+    "wof:lastmodified":1684354630,
     "wof:name":"Loivos do Monte",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":373,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

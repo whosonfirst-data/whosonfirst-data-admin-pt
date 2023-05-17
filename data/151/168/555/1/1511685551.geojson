@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Ant\u00f3nio da Serra",
+    "eurostat:nuts_2021_id":"310405",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310405",
+    "eurostat:population":1617,
+    "eurostat:population_year":2020,
     "geom:area":0.000829,
+    "geom:area_square_m":8625987.412506,
     "geom:bbox":"-16.854385496,32.7212715178,-16.7983999056,32.7480420071",
     "geom:latitude":32.736015,
     "geom:longitude":-16.821366,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santo Ant\u00f3nio da Serra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310405",
+        "eurostat:nuts_2021_id":"310405",
         "pt-dgt:id":"310405"
     },
     "wof:country":"PT",
     "wof:created":1576699473,
-    "wof:geomhash":"8fbbb82f0c3fb2bbee1c3206abbad250",
+    "wof:geomhash":"b6c3045b8053e2edd4e1cc433de9f066",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720312,
+    "wof:lastmodified":1684354733,
     "wof:name":"Santo Ant\u00f3nio da Serra",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":1617,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

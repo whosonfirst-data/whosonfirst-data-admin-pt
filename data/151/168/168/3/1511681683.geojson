@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010926",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jo\u00e3o de Ver",
+    "eurostat:nuts_2021_id":"010926",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010926",
+    "eurostat:population":10579,
+    "eurostat:population_year":2020,
     "geom:area":0.001644,
+    "geom:area_square_m":15355444.946398,
     "geom:bbox":"-8.59481933016,40.933945962,-8.51540760595,40.9730737512",
     "geom:latitude":40.95385,
     "geom:longitude":-8.549167,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Jo\u00e3o de Ver",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010926",
+        "eurostat:nuts_2021_id":"010926",
         "pt-dgt:id":"010926"
     },
     "wof:country":"PT",
     "wof:created":1576698647,
-    "wof:geomhash":"96338ec0c7fa40f6160fc5185f2c55ef",
+    "wof:geomhash":"925c65d2b6f24e7d87d7a327f56d8469",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712624,
+    "wof:lastmodified":1684354578,
     "wof:name":"S\u00e3o Jo\u00e3o de Ver",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":10579,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

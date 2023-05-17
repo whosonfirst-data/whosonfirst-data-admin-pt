@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010935",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria da Feira, Travanca, Sanfins e Espargo",
+    "eurostat:nuts_2021_id":"010935",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010935",
+    "eurostat:population":18194,
+    "eurostat:population_year":2020,
     "geom:area":0.002497,
+    "geom:area_square_m":23333218.006675,
     "geom:bbox":"-8.59886579654,40.8896603539,-8.50781213352,40.9513580419",
     "geom:latitude":40.9255,
     "geom:longitude":-8.555837,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010935",
+        "eurostat:nuts_2021_id":"010935",
         "pt-dgt:id":"010935"
     },
     "wof:country":"PT",
     "wof:created":1576698640,
-    "wof:geomhash":"dbec80a8b3d5380e7f591430d3793959",
+    "wof:geomhash":"d869ef84436587a8af13f3cd64fecb1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712622,
+    "wof:lastmodified":1684354576,
     "wof:name":"Santa Maria da Feira, Travanca, Sanfins e Espargo",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":18194,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

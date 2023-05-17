@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eira Vedra",
+    "eurostat:nuts_2021_id":"031107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031107",
+    "eurostat:population":702,
+    "eurostat:population_year":2020,
     "geom:area":0.000604,
+    "geom:area_square_m":5578258.008634,
     "geom:bbox":"-8.16374101995,41.6280513699,-8.12910559273,41.6634810745",
     "geom:latitude":41.646291,
     "geom:longitude":-8.146334,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Eira Vedra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031107",
+        "eurostat:nuts_2021_id":"031107",
         "pt-dgt:id":"031107"
     },
     "wof:country":"PT",
     "wof:created":1576698766,
-    "wof:geomhash":"97f552014fbe76a515d88eb47c9f6be4",
+    "wof:geomhash":"b7d61cbca3cb94e4cd2a3897d2cd455f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Eira Vedra",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":702,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

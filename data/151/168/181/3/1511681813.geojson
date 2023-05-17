@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabreiro",
+    "eurostat:nuts_2021_id":"160106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160106",
+    "eurostat:population":428,
+    "eurostat:population_year":2020,
     "geom:area":0.00453,
+    "geom:area_square_m":41660002.240456,
     "geom:bbox":"-8.43317335906,41.9214914405,-8.2872474202,41.9921000972",
     "geom:latitude":41.946262,
     "geom:longitude":-8.355473,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabreiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160106",
+        "eurostat:nuts_2021_id":"160106",
         "pt-dgt:id":"160106"
     },
     "wof:country":"PT",
     "wof:created":1576698672,
-    "wof:geomhash":"1a1fbb6f1958f8005715e49d2855401c",
+    "wof:geomhash":"2d4118f663d93291d5e8d21440a4c7e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712628,
+    "wof:lastmodified":1684354581,
     "wof:name":"Cabreiro",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":428,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

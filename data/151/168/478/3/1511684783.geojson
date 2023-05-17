@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beiral do Lima",
+    "eurostat:nuts_2021_id":"160707",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160707",
+    "eurostat:population":558,
+    "eurostat:population_year":2020,
     "geom:area":0.000792,
+    "geom:area_square_m":7304834.92742,
     "geom:bbox":"-8.50399032805,41.7413896546,-8.46634863938,41.7761715341",
     "geom:latitude":41.760612,
     "geom:longitude":-8.484854,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Beiral do Lima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160707",
+        "eurostat:nuts_2021_id":"160707",
         "pt-dgt:id":"160707"
     },
     "wof:country":"PT",
     "wof:created":1576699300,
-    "wof:geomhash":"bb016d35f4d0ed6759f75f4b67bf1451",
+    "wof:geomhash":"55c25ff2d867a9f2850ee545bbbf2ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354686,
     "wof:name":"Beiral do Lima",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":558,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

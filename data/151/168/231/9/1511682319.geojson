@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182341",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Viseu",
+    "eurostat:nuts_2021_id":"182341",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182341",
+    "eurostat:population":23430,
+    "eurostat:population_year":2020,
     "geom:area":0.001061,
+    "geom:area_square_m":9948366.781155,
     "geom:bbox":"-7.928849,40.644331,-7.884515,40.675652",
     "geom:latitude":40.661514,
     "geom:longitude":-7.908374,
@@ -59,6 +72,8 @@
     "pt-dgt:freguesia":"Viseu",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -66,11 +81,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182341",
+        "eurostat:nuts_2021_id":"182341",
         "pt-dgt:id":"182341"
     },
     "wof:country":"PT",
     "wof:created":1576698775,
-    "wof:geomhash":"8d62ce7d0dd2cfcfe74dd9f4a00ca47c",
+    "wof:geomhash":"bc39ec71a2eaf6facc3d290f1d9368d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,10 +103,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503002,
+    "wof:lastmodified":1684354596,
     "wof:name":"Viseu",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":23430,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

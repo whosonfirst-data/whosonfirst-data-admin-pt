@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alg\u00e9s, Linda-a-Velha e Cruz Quebrada-Dafundo",
+    "eurostat:nuts_2021_id":"111012",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111012",
+    "eurostat:population":48665,
+    "eurostat:population_year":2020,
     "geom:area":0.000744,
+    "geom:area_square_m":7176187.306515,
     "geom:bbox":"-9.26681626072,38.693732664,-9.21988441372,38.7209780941",
     "geom:latitude":38.708161,
     "geom:longitude":-9.242274,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alg\u00e9s, Linda-a-Velha e Cruz Quebrada-Dafundo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111012",
+        "eurostat:nuts_2021_id":"111012",
         "pt-dgt:id":"111012"
     },
     "wof:country":"PT",
     "wof:created":1576698174,
-    "wof:geomhash":"b7f2374e22312bac31f4bd04a9d5a492",
+    "wof:geomhash":"10f3d795d4d01d18cd4069f05be75f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354491,
     "wof:name":"Alg\u00e9s, Linda-a-Velha e Cruz Quebrada-Dafundo",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":48665,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

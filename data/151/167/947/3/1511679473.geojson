@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Alva",
+    "eurostat:nuts_2021_id":"020703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020703",
+    "eurostat:population":514,
+    "eurostat:population_year":2020,
     "geom:area":0.003828,
+    "geom:area_square_m":37175435.258464,
     "geom:bbox":"-7.93661356362,38.2193432355,-7.84326233013,38.2847756012",
     "geom:latitude":38.248785,
     "geom:longitude":-7.888756,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Alva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020703",
+        "eurostat:nuts_2021_id":"020703",
         "pt-dgt:id":"020703"
     },
     "wof:country":"PT",
     "wof:created":1576698132,
-    "wof:geomhash":"6ab70609320777d42ae39b2a57ecb2d6",
+    "wof:geomhash":"88f4f2dc97a777b46607f4cf3a67195a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712480,
+    "wof:lastmodified":1684354484,
     "wof:name":"Vila Alva",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

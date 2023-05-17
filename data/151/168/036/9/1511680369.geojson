@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cidadelhe",
+    "eurostat:nuts_2021_id":"170402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170402",
+    "eurostat:population":171,
+    "eurostat:population_year":2020,
     "geom:area":0.000278,
+    "geom:area_square_m":2585750.988291,
     "geom:bbox":"-7.85667324542,41.1603837234,-7.83576727701,41.1842347362",
     "geom:latitude":41.170882,
     "geom:longitude":-7.845002,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cidadelhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170402",
+        "eurostat:nuts_2021_id":"170402",
         "pt-dgt:id":"170402"
     },
     "wof:country":"PT",
     "wof:created":1576698354,
-    "wof:geomhash":"4f29d25953b9c9589aadce63424c1a87",
+    "wof:geomhash":"eee0ef42bfcf0f375c28e307b6adfcb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712543,
+    "wof:lastmodified":1684354522,
     "wof:name":"Cidadelhe",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":171,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

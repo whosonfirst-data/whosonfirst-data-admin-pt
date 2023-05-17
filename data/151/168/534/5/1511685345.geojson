@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeira das Ta\u00ednhas",
+    "eurostat:nuts_2021_id":"420603",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420603",
+    "eurostat:population":703,
+    "eurostat:population_year":2020,
     "geom:area":0.000981,
+    "geom:area_square_m":9590224.960454,
     "geom:bbox":"-25.4318013409,37.7136795131,-25.3967443494,37.779748241",
     "geom:latitude":37.750235,
     "geom:longitude":-25.412395,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ribeira das Ta\u00ednhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420603",
+        "eurostat:nuts_2021_id":"420603",
         "pt-dgt:id":"420603"
     },
     "wof:country":"PT",
     "wof:created":1576699413,
-    "wof:geomhash":"c743d9d1c0653af54c02deead207eae0",
+    "wof:geomhash":"292b2f82dc47c106197a5fd8b6365890",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720325,
+    "wof:lastmodified":1684354700,
     "wof:name":"Ribeira das Ta\u00ednhas",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":703,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

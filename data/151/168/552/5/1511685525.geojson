@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cani\u00e7al",
+    "eurostat:nuts_2021_id":"310402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310402",
+    "eurostat:population":3924,
+    "eurostat:population_year":2020,
     "geom:area":0.001138,
+    "geom:area_square_m":11840236.939802,
     "geom:bbox":"-16.7657012643,32.7226010481,-16.6552465149,32.7576224311",
     "geom:latitude":32.743031,
     "geom:longitude":-16.733358,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Cani\u00e7al",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310402",
+        "eurostat:nuts_2021_id":"310402",
         "pt-dgt:id":"310402"
     },
     "wof:country":"PT",
     "wof:created":1576699461,
-    "wof:geomhash":"bd3984458c6ddec2811b0325f2a194a8",
+    "wof:geomhash":"66eabdfec550e6b1bf8cd566c9e41d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720301,
+    "wof:lastmodified":1684354724,
     "wof:name":"Cani\u00e7al",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":3924,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rates",
+    "eurostat:nuts_2021_id":"131311",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131311",
+    "eurostat:population":2505,
+    "eurostat:population_year":2020,
     "geom:area":0.001497,
+    "geom:area_square_m":13878472.732645,
     "geom:bbox":"-8.70916545138,41.4075166529,-8.64933172077,41.4491624702",
     "geom:latitude":41.429301,
     "geom:longitude":-8.677298,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rates",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131311",
+        "eurostat:nuts_2021_id":"131311",
         "pt-dgt:id":"131311"
     },
     "wof:country":"PT",
     "wof:created":1576699154,
-    "wof:geomhash":"22735861758b292026bfd7c75b0b887a",
+    "wof:geomhash":"846bf4bc553ea64d20e10be876a10f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712712,
+    "wof:lastmodified":1684354667,
     "wof:name":"Rates",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2505,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

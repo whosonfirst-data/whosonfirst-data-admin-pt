@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180720",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar",
+    "eurostat:nuts_2021_id":"180720",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180720",
+    "eurostat:population":382,
+    "eurostat:population_year":2020,
     "geom:area":0.000914,
+    "geom:area_square_m":8533415.80297,
     "geom:bbox":"-7.56721471314,40.9597652981,-7.53370697365,40.9977162812",
     "geom:latitude":40.978534,
     "geom:longitude":-7.549726,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180720",
+        "eurostat:nuts_2021_id":"180720",
         "pt-dgt:id":"180720"
     },
     "wof:country":"PT",
     "wof:created":1576698880,
-    "wof:geomhash":"3c365f5198944415b8e59bc805aabe92",
+    "wof:geomhash":"a4b418ddd1367e4bdb377234e6942c81",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712663,
+    "wof:lastmodified":1684354614,
     "wof:name":"Vilar",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

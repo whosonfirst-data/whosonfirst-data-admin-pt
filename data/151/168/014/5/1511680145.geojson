@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria, S\u00e3o Pedro e Sobral da Lagoa",
+    "eurostat:nuts_2021_id":"101210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101210",
+    "eurostat:population":3779,
+    "eurostat:population_year":2020,
     "geom:area":0.003824,
+    "geom:area_square_m":36552622.626608,
     "geom:bbox":"-9.20696957012,39.3319929616,-9.12456854065,39.4048989181",
     "geom:latitude":39.368463,
     "geom:longitude":-9.167126,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Maria, S\u00e3o Pedro e Sobral da Lagoa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101210",
+        "eurostat:nuts_2021_id":"101210",
         "pt-dgt:id":"101210"
     },
     "wof:country":"PT",
     "wof:created":1576698304,
-    "wof:geomhash":"c8f72dbb2cd08e3428be752721e730b5",
+    "wof:geomhash":"e2381d257252ed36d01a8e25d146c4ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712528,
+    "wof:lastmodified":1684354513,
     "wof:name":"Santa Maria, S\u00e3o Pedro e Sobral da Lagoa",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3779,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

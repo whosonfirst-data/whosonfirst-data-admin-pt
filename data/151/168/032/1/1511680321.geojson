@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Marinha do Z\u00eazere",
+    "eurostat:nuts_2021_id":"130215",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130215",
+    "eurostat:population":2789,
+    "eurostat:population_year":2020,
     "geom:area":0.001146,
+    "geom:area_square_m":10675394.946279,
     "geom:bbox":"-7.969873998,41.1135453477,-7.92934755483,41.164306702",
     "geom:latitude":41.138624,
     "geom:longitude":-7.950478,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Marinha do Z\u00eazere",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130215",
+        "eurostat:nuts_2021_id":"130215",
         "pt-dgt:id":"130215"
     },
     "wof:country":"PT",
     "wof:created":1576698344,
-    "wof:geomhash":"823788211e78739c349703c8ef0fa326",
+    "wof:geomhash":"3f8495170fef749ba635d89657f8d1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712541,
+    "wof:lastmodified":1684354521,
     "wof:name":"Santa Marinha do Z\u00eazere",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2789,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

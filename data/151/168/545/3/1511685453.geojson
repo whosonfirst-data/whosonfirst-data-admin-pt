@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Pedro de Nordestinho",
+    "eurostat:nuts_2021_id":"420210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420210",
+    "eurostat:population":261,
+    "eurostat:population_year":2020,
     "geom:area":0.001091,
+    "geom:area_square_m":10650998.700387,
     "geom:bbox":"-25.2114410749,37.8090689466,-25.1710502558,37.8596684314",
     "geom:latitude":37.83803,
     "geom:longitude":-25.193491,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"S\u00e3o Pedro de Nordestinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420210",
+        "eurostat:nuts_2021_id":"420210",
         "pt-dgt:id":"420210"
     },
     "wof:country":"PT",
     "wof:created":1576699441,
-    "wof:geomhash":"3fc3f994ece42c67fc8e4ca89562923a",
+    "wof:geomhash":"1b53dd97f50afc290476f8f78ed03240",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720319,
+    "wof:lastmodified":1684354717,
     "wof:name":"S\u00e3o Pedro de Nordestinho",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":261,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

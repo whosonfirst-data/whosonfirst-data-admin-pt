@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueira e Barros",
+    "eurostat:nuts_2021_id":"120306",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120306",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.007312,
+    "geom:area_square_m":70208291.343063,
     "geom:bbox":"-7.80262881242,38.9971574095,-7.69666686427,39.114134353",
     "geom:latitude":39.056003,
     "geom:longitude":-7.753596,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Figueira e Barros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120306",
+        "eurostat:nuts_2021_id":"120306",
         "pt-dgt:id":"120306"
     },
     "wof:country":"PT",
     "wof:created":1576698253,
-    "wof:geomhash":"313205161c5feeba99efef636e827cf9",
+    "wof:geomhash":"7875b340fa85b6b24c085167dfd66d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712513,
+    "wof:lastmodified":1684354504,
     "wof:name":"Figueira e Barros",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

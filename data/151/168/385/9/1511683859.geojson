@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agilde",
+    "eurostat:nuts_2021_id":"030501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"030501",
+    "eurostat:population":1227,
+    "eurostat:population_year":2020,
     "geom:area":0.00097,
+    "geom:area_square_m":9000306.916598,
     "geom:bbox":"-8.14661285278,41.343160376,-8.10038641458,41.3833523614",
     "geom:latitude":41.363957,
     "geom:longitude":-8.121369,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Agilde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030501",
+        "eurostat:nuts_2021_id":"030501",
         "pt-dgt:id":"030501"
     },
     "wof:country":"PT",
     "wof:created":1576699105,
-    "wof:geomhash":"58cc345a443276e5c3879e88147d797a",
+    "wof:geomhash":"59af9e1125307ded404a40c284ec3033",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712704,
+    "wof:lastmodified":1684354657,
     "wof:name":"Agilde",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1227,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

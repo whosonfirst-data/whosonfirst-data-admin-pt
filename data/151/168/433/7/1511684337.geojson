@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueiredo",
+    "eurostat:nuts_2021_id":"030315",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030315",
+    "eurostat:population":1198,
+    "eurostat:population_year":2020,
     "geom:area":0.000219,
+    "geom:area_square_m":2023960.669562,
     "geom:bbox":"-8.45579841314,41.4929685978,-8.43212708769,41.5122693902",
     "geom:latitude":41.501861,
     "geom:longitude":-8.443835,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Figueiredo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030315",
+        "eurostat:nuts_2021_id":"030315",
         "pt-dgt:id":"030315"
     },
     "wof:country":"PT",
     "wof:created":1576699200,
-    "wof:geomhash":"023909169dce4b72dd430c3d2a087ddf",
+    "wof:geomhash":"b50bac5cce8bd4ba39f83ecd9fcfaef6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354675,
     "wof:name":"Figueiredo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1198,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

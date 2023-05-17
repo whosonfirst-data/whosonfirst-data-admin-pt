@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meimoa",
+    "eurostat:nuts_2021_id":"050708",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050708",
+    "eurostat:population":373,
+    "eurostat:population_year":2020,
     "geom:area":0.003047,
+    "geom:area_square_m":28760637.514197,
     "geom:bbox":"-7.22215082244,40.2009195172,-7.13703432621,40.2765378127",
     "geom:latitude":40.236649,
     "geom:longitude":-7.176612,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Meimoa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050708",
+        "eurostat:nuts_2021_id":"050708",
         "pt-dgt:id":"050708"
     },
     "wof:country":"PT",
     "wof:created":1576698545,
-    "wof:geomhash":"8304d444f69ede48d341b24ca4dc1fa3",
+    "wof:geomhash":"fdca06f78c72587aa5cf696b50161cca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712603,
+    "wof:lastmodified":1684354562,
     "wof:name":"Meimoa",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":373,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

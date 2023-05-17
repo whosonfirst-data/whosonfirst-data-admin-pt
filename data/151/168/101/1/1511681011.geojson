@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050419",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavacolhos",
+    "eurostat:nuts_2021_id":"050419",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050419",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.002099,
+    "geom:area_square_m":19844138.068319,
     "geom:bbox":"-7.67979736806,40.0927596214,-7.59427083826,40.1557730584",
     "geom:latitude":40.125117,
     "geom:longitude":-7.633584,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lavacolhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050419",
+        "eurostat:nuts_2021_id":"050419",
         "pt-dgt:id":"050419"
     },
     "wof:country":"PT",
     "wof:created":1576698508,
-    "wof:geomhash":"0290888ea41c4901c335e2c178e1f88a",
+    "wof:geomhash":"8991db5787d961ee2768528c3426b329",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354556,
     "wof:name":"Lavacolhos",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

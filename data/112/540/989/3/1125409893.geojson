@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gl\u00f3ria e Vera Cruz",
+    "eurostat:nuts_2021_id":"010517",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010517",
+    "eurostat:population":18756,
+    "eurostat:population_year":2020,
     "geom:area":0.004826,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":45266369.771683,
     "geom:bbox":"-8.72560868188,40.6241712423,-8.62828508168,40.721002746",
     "geom:latitude":40.669025,
     "geom:longitude":-8.679709,
@@ -76,6 +88,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010517",
+        "eurostat:nuts_2021_id":"010517",
         "gn:id":8010750,
         "pt-dgt:id":10517,
         "qs_pg:id":1155618
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"611bd4d33867fb8dfba120bbc8b8d0b2",
+    "wof:geomhash":"65f48eeb2bb78ebc02c2187a73d59def",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":1125409893,
-    "wof:lastmodified":1582359928,
+    "wof:lastmodified":1684354450,
     "wof:name":"Gl\u00f3ria e Vera Cruz",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":18756,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

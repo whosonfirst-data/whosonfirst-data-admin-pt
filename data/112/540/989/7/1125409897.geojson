@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinho",
+    "eurostat:nuts_2021_id":"010702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010702",
+    "eurostat:population":9832,
+    "eurostat:population_year":2020,
     "geom:area":0.000189,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":1764008.087293,
     "geom:bbox":"-8.64977564735,40.9991389325,-8.63341955335,41.0160051195",
     "geom:latitude":41.007665,
     "geom:longitude":-8.64078,
@@ -106,6 +118,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -113,6 +127,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010702",
+        "eurostat:nuts_2021_id":"010702",
         "gn:id":8010766,
         "pt-dgt:id":10702,
         "qs_pg:id":1155619
@@ -122,7 +138,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"fe68efca7d7e797c8b0a9db15f9851a4",
+    "wof:geomhash":"2aa33741159eb82ca9422c4f67d4246e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -132,10 +148,12 @@
         }
     ],
     "wof:id":1125409897,
-    "wof:lastmodified":1582359928,
+    "wof:lastmodified":1684354450,
     "wof:name":"Espinho",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":9832,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

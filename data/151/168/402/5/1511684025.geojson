@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mogege",
+    "eurostat:nuts_2021_id":"031225",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031225",
+    "eurostat:population":1943,
+    "eurostat:population_year":2020,
     "geom:area":0.000309,
+    "geom:area_square_m":2864246.593632,
     "geom:bbox":"-8.42805606656,41.4143990596,-8.39495367386,41.4304169247",
     "geom:latitude":41.422789,
     "geom:longitude":-8.411237,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mogege",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031225",
+        "eurostat:nuts_2021_id":"031225",
         "pt-dgt:id":"031225"
     },
     "wof:country":"PT",
     "wof:created":1576699138,
-    "wof:geomhash":"95df61b1b780983b1915dabe98daa3fb",
+    "wof:geomhash":"bc9fd311fc9e36e69f1b1ed6f1873445",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Mogege",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1943,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

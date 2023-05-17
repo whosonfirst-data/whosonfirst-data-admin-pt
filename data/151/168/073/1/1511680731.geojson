@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050915",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cernache do Bonjardim, Nesperal e Palhais",
+    "eurostat:nuts_2021_id":"050915",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"050915",
+    "eurostat:population":3625,
+    "eurostat:population_year":2020,
     "geom:area":0.010683,
+    "geom:area_square_m":101490878.671299,
     "geom:bbox":"-8.29312344999,39.7269792624,-8.14294884692,39.8560063463",
     "geom:latitude":39.795911,
     "geom:longitude":-8.216432,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cernache do Bonjardim, Nesperal e Palhais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050915",
+        "eurostat:nuts_2021_id":"050915",
         "pt-dgt:id":"050915"
     },
     "wof:country":"PT",
     "wof:created":1576698442,
-    "wof:geomhash":"ae731bf197228c321e073d71d01ac913",
+    "wof:geomhash":"9407bf43043381ff54eb27973e6925b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712573,
+    "wof:lastmodified":1684354542,
     "wof:name":"Cernache do Bonjardim, Nesperal e Palhais",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":3625,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

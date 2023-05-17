@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abela",
+    "eurostat:nuts_2021_id":"150901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150901",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.014122,
+    "geom:area_square_m":137601886.390434,
     "geom:bbox":"-8.6133928502,37.9286810334,-8.43261803219,38.0712872653",
     "geom:latitude":37.999444,
     "geom:longitude":-8.523991,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150901",
+        "eurostat:nuts_2021_id":"150901",
         "pt-dgt:id":"150901"
     },
     "wof:country":"PT",
     "wof:created":1576698118,
-    "wof:geomhash":"cf968fb9cfdfb07605ef6b954f870e2e",
+    "wof:geomhash":"43410982c03e8dd97beb527a03285ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712476,
+    "wof:lastmodified":1684354482,
     "wof:name":"Abela",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

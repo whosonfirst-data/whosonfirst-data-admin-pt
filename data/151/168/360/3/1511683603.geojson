@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030272",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Galegos (S\u00e3o Martinho)",
+    "eurostat:nuts_2021_id":"030272",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030272",
+    "eurostat:population":1930,
+    "eurostat:population_year":2020,
     "geom:area":0.000337,
+    "geom:area_square_m":3118078.92983,
     "geom:bbox":"-8.57290949873,41.5480489383,-8.5487437244,41.5752718547",
     "geom:latitude":41.560688,
     "geom:longitude":-8.561006,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Galegos (S\u00e3o Martinho)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030272",
+        "eurostat:nuts_2021_id":"030272",
         "pt-dgt:id":"030272"
     },
     "wof:country":"PT",
     "wof:created":1576699044,
-    "wof:geomhash":"2747d36066bf4107bf656c039239f16d",
+    "wof:geomhash":"02dec4c9b80c66b6a2512bf665a9f067",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712695,
+    "wof:lastmodified":1684354647,
     "wof:name":"Galegos (S\u00e3o Martinho)",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1930,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

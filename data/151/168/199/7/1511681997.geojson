@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campo de Besteiros",
+    "eurostat:nuts_2021_id":"182102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182102",
+    "eurostat:population":1474,
+    "eurostat:population_year":2020,
     "geom:area":0.000843,
+    "geom:area_square_m":7916395.448401,
     "geom:bbox":"-8.15168827196,40.5461933564,-8.09763704316,40.571527672",
     "geom:latitude":40.559335,
     "geom:longitude":-8.12366,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campo de Besteiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182102",
+        "eurostat:nuts_2021_id":"182102",
         "pt-dgt:id":"182102"
     },
     "wof:country":"PT",
     "wof:created":1576698708,
-    "wof:geomhash":"2e608d9219dc22161672cd4e5451d22f",
+    "wof:geomhash":"c18020779d945c7f0851d66658169426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712634,
+    "wof:lastmodified":1684354587,
     "wof:name":"Campo de Besteiros",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1474,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

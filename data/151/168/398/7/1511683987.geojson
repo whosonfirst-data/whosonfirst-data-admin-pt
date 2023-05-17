@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040812",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penas Roias",
+    "eurostat:nuts_2021_id":"040812",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040812",
+    "eurostat:population":382,
+    "eurostat:population_year":2020,
     "geom:area":0.003581,
+    "geom:area_square_m":33223060.751184,
     "geom:bbox":"-6.68158706552,41.3384543612,-6.57211125133,41.4120980409",
     "geom:latitude":41.375224,
     "geom:longitude":-6.627951,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penas Roias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040812",
+        "eurostat:nuts_2021_id":"040812",
         "pt-dgt:id":"040812"
     },
     "wof:country":"PT",
     "wof:created":1576699131,
-    "wof:geomhash":"fd9c0c52e9624db2f19ec7e3f06adabb",
+    "wof:geomhash":"35f6454cf1170470ae4622a2fe0171f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712708,
+    "wof:lastmodified":1684354663,
     "wof:name":"Penas Roias",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":382,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

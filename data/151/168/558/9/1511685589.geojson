@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estreito de C\u00e2mara de Lobos",
+    "eurostat:nuts_2021_id":"310203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310203",
+    "eurostat:population":10265,
+    "eurostat:population_year":2020,
     "geom:area":0.000757,
+    "geom:area_square_m":7876785.912885,
     "geom:bbox":"-16.9992680603,32.6619972547,-16.9576492631,32.6963100664",
     "geom:latitude":32.676674,
     "geom:longitude":-16.975731,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Estreito de C\u00e2mara de Lobos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310203",
+        "eurostat:nuts_2021_id":"310203",
         "pt-dgt:id":"310203"
     },
     "wof:country":"PT",
     "wof:created":1576699485,
-    "wof:geomhash":"1e8681f447a19ec8e6d18829dec9a4c2",
+    "wof:geomhash":"c74d28314051786dc0586b0e3ceacd18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720325,
+    "wof:lastmodified":1684354738,
     "wof:name":"Estreito de C\u00e2mara de Lobos",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":10265,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110302",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aveiras de Baixo",
+    "eurostat:nuts_2021_id":"110302",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"110302",
+    "eurostat:population":1317,
+    "eurostat:population_year":2020,
     "geom:area":0.001967,
+    "geom:area_square_m":18879331.8631,
     "geom:bbox":"-8.88123876576,39.0796595528,-8.79781522079,39.1283597785",
     "geom:latitude":39.102714,
     "geom:longitude":-8.840812,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aveiras de Baixo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110302",
+        "eurostat:nuts_2021_id":"110302",
         "pt-dgt:id":"110302"
     },
     "wof:country":"PT",
     "wof:created":1576698257,
-    "wof:geomhash":"33eacf47eab8b8960d2b37772cac58ca",
+    "wof:geomhash":"92083ed0dcc5454328a695f1e82de1c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712515,
+    "wof:lastmodified":1684354505,
     "wof:name":"Aveiras de Baixo",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":1317,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

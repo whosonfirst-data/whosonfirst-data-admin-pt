@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030931",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calvos e Frades",
+    "eurostat:nuts_2021_id":"030931",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030931",
+    "eurostat:population":753,
+    "eurostat:population_year":2020,
     "geom:area":0.000941,
+    "geom:area_square_m":8704219.448705,
     "geom:bbox":"-8.27418553503,41.5862297412,-8.23068916964,41.6279656583",
     "geom:latitude":41.604337,
     "geom:longitude":-8.246933,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Calvos e Frades",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030931",
+        "eurostat:nuts_2021_id":"030931",
         "pt-dgt:id":"030931"
     },
     "wof:country":"PT",
     "wof:created":1576698778,
-    "wof:geomhash":"28053df959acb1ee4d451454db78db63",
+    "wof:geomhash":"a4f33ddfbaa035e522443f3a39bf1f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Calvos e Frades",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":753,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

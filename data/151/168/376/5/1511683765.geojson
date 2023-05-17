@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131806",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Covelas",
+    "eurostat:nuts_2021_id":"131806",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131806",
+    "eurostat:population":1563,
+    "eurostat:population_year":2020,
     "geom:area":0.001643,
+    "geom:area_square_m":15260280.855392,
     "geom:bbox":"-8.56691047765,41.2781686325,-8.50762456757,41.321641502",
     "geom:latitude":41.300867,
     "geom:longitude":-8.536728,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Covelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131806",
+        "eurostat:nuts_2021_id":"131806",
         "pt-dgt:id":"131806"
     },
     "wof:country":"PT",
     "wof:created":1576699081,
-    "wof:geomhash":"6b88210d2b384d55551b3c7a33204220",
+    "wof:geomhash":"b69967015c04118df71158a6ec9d0f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712700,
+    "wof:lastmodified":1684354652,
     "wof:name":"Covelas",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1563,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

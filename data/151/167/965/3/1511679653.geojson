@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110658",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bel\u00e9m",
+    "eurostat:nuts_2021_id":"110658",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110658",
+    "eurostat:population":16528,
+    "eurostat:population_year":2020,
     "geom:area":0.00108,
+    "geom:area_square_m":10418135.043545,
     "geom:bbox":"-9.23794294816,38.6800326508,-9.18593685121,38.7196414482",
     "geom:latitude":38.696203,
     "geom:longitude":-9.213138,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bel\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110658",
+        "eurostat:nuts_2021_id":"110658",
         "pt-dgt:id":"110658"
     },
     "wof:country":"PT",
     "wof:created":1576698174,
-    "wof:geomhash":"88176a673092c5084db67311e9ba0595",
+    "wof:geomhash":"8e9c836ead9c4c1884ed3f1b508816ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354491,
     "wof:name":"Bel\u00e9m",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":16528,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

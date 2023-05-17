@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081411",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Luz de Tavira e Santo Est\u00eav\u00e3o",
+    "eurostat:nuts_2021_id":"081411",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081411",
+    "eurostat:population":4535,
+    "eurostat:population_year":2020,
     "geom:area":0.006074,
+    "geom:area_square_m":59890545.241142,
     "geom:bbox":"-7.76149139859,37.0540849932,-7.67501927694,37.1782553156",
     "geom:latitude":37.112283,
     "geom:longitude":-7.720002,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Luz de Tavira e Santo Est\u00eav\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081411",
+        "eurostat:nuts_2021_id":"081411",
         "pt-dgt:id":"081411"
     },
     "wof:country":"PT",
     "wof:created":1576697990,
-    "wof:geomhash":"718086b27f4dd3252db3b19ba7a1b99c",
+    "wof:geomhash":"4173a033db4f3c5ea1c7a1ced62ae5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712436,
+    "wof:lastmodified":1684354457,
     "wof:name":"Luz de Tavira e Santo Est\u00eav\u00e3o",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":4535,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

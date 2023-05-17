@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Veiros",
+    "eurostat:nuts_2021_id":"070413",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070413",
+    "eurostat:population":1036,
+    "eurostat:population_year":2020,
     "geom:area":0.004128,
+    "geom:area_square_m":39686495.38418,
     "geom:bbox":"-7.56694512588,38.926037366,-7.45271373613,39.0084382133",
     "geom:latitude":38.965608,
     "geom:longitude":-7.507462,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Veiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070413",
+        "eurostat:nuts_2021_id":"070413",
         "pt-dgt:id":"070413"
     },
     "wof:country":"PT",
     "wof:created":1576698224,
-    "wof:geomhash":"cb4b78f9ce8c7a683f342c87114f083f",
+    "wof:geomhash":"b95177ec3eb6a22ba6b8f66fc5374a69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712505,
+    "wof:lastmodified":1684354499,
     "wof:name":"Veiros",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":1036,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

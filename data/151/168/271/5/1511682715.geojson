@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio de Mel",
+    "eurostat:nuts_2021_id":"091316",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091316",
+    "eurostat:population":323,
+    "eurostat:population_year":2020,
     "geom:area":0.002493,
+    "geom:area_square_m":23329337.384384,
     "geom:bbox":"-7.46724065733,40.7843180298,-7.3742184614,40.8432526608",
     "geom:latitude":40.809766,
     "geom:longitude":-7.412283,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio de Mel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091316",
+        "eurostat:nuts_2021_id":"091316",
         "pt-dgt:id":"091316"
     },
     "wof:country":"PT",
     "wof:created":1576698862,
-    "wof:geomhash":"a8ed6693b5ce2e790f7b8665bb65ee5e",
+    "wof:geomhash":"c8f7e0e888341c991b302289f5b98862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712659,
+    "wof:lastmodified":1684354610,
     "wof:name":"Rio de Mel",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":323,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

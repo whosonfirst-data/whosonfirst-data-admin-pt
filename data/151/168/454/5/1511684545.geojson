@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrazedo de Montenegro e Curros",
+    "eurostat:nuts_2021_id":"171232",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171232",
+    "eurostat:population":1780,
+    "eurostat:population_year":2020,
     "geom:area":0.005376,
+    "geom:area_square_m":49754678.002341,
     "geom:bbox":"-7.49872182784,41.4932941149,-7.38151544401,41.5969248436",
     "geom:latitude":41.541177,
     "geom:longitude":-7.44102,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carrazedo de Montenegro e Curros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171232",
+        "eurostat:nuts_2021_id":"171232",
         "pt-dgt:id":"171232"
     },
     "wof:country":"PT",
     "wof:created":1576699251,
-    "wof:geomhash":"085a66cf3f5c4dfd385dd303cb30915a",
+    "wof:geomhash":"db0b2055d23bac6049dee339efc03894",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712727,
+    "wof:lastmodified":1684354681,
     "wof:name":"Carrazedo de Montenegro e Curros",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1780,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

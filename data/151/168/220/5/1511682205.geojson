@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030256",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Panque",
+    "eurostat:nuts_2021_id":"030256",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030256",
+    "eurostat:population":680,
+    "eurostat:population_year":2020,
     "geom:area":0.00068,
+    "geom:area_square_m":6280771.52974,
     "geom:bbox":"-8.61204722818,41.6157268161,-8.5690384749,41.6439042565",
     "geom:latitude":41.630607,
     "geom:longitude":-8.590648,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Panque",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030256",
+        "eurostat:nuts_2021_id":"030256",
         "pt-dgt:id":"030256"
     },
     "wof:country":"PT",
     "wof:created":1576698753,
-    "wof:geomhash":"34ee27b4f4a5a6ed6706ca7a0b95626f",
+    "wof:geomhash":"96304ccb956c5f1ffca50b0dab78a415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Panque",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":680,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arga (Baixo, Cima e S\u00e3o Jo\u00e3o)",
+    "eurostat:nuts_2021_id":"160221",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160221",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
+    "geom:area_square_m":30833141.360408,
     "geom:bbox":"-8.75921928652,41.8141476477,-8.67010195319,41.8774467427",
     "geom:latitude":41.845078,
     "geom:longitude":-8.719685,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Arga (Baixo, Cima e S\u00e3o Jo\u00e3o)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160221",
+        "eurostat:nuts_2021_id":"160221",
         "pt-dgt:id":"160221"
     },
     "wof:country":"PT",
     "wof:created":1576699354,
-    "wof:geomhash":"76381f21369226b5810a6c704117b2a1",
+    "wof:geomhash":"9bec808917895a16a9c715c89912dee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712741,
+    "wof:lastmodified":1684354693,
     "wof:name":"Arga (Baixo, Cima e S\u00e3o Jo\u00e3o)",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

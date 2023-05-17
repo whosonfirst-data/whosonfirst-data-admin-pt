@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160161",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Jorge e Ermelo",
+    "eurostat:nuts_2021_id":"160161",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160161",
+    "eurostat:population":806,
+    "eurostat:population_year":2020,
     "geom:area":0.002621,
+    "geom:area_square_m":24149992.349483,
     "geom:bbox":"-8.39010108682,41.8100949899,-8.2843241145,41.8665856995",
     "geom:latitude":41.836845,
     "geom:longitude":-8.331616,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Jorge e Ermelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160161",
+        "eurostat:nuts_2021_id":"160161",
         "pt-dgt:id":"160161"
     },
     "wof:country":"PT",
     "wof:created":1576699347,
-    "wof:geomhash":"45a163447ce85338666c757d6828f1b6",
+    "wof:geomhash":"f29452b8754445583c7325ec7c2c2172",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354692,
     "wof:name":"S\u00e3o Jorge e Ermelo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":806,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

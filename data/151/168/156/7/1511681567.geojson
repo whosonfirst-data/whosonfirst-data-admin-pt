@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dardavaz",
+    "eurostat:nuts_2021_id":"182106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182106",
+    "eurostat:population":782,
+    "eurostat:population_year":2020,
     "geom:area":0.001454,
+    "geom:area_square_m":13679451.221924,
     "geom:bbox":"-8.15354224465,40.4530629769,-8.09117619385,40.4979430167",
     "geom:latitude":40.473545,
     "geom:longitude":-8.119841,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Dardavaz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182106",
+        "eurostat:nuts_2021_id":"182106",
         "pt-dgt:id":"182106"
     },
     "wof:country":"PT",
     "wof:created":1576698623,
-    "wof:geomhash":"8b4327b781e698410af8bec2331e10b9",
+    "wof:geomhash":"8b082f20be334ec5344bc72b29b36db8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712619,
+    "wof:lastmodified":1684354573,
     "wof:name":"Dardavaz",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":782,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

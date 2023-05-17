@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cendufe",
+    "eurostat:nuts_2021_id":"160108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160108",
+    "eurostat:population":360,
+    "eurostat:population_year":2020,
     "geom:area":0.000342,
+    "geom:area_square_m":3153483.859331,
     "geom:bbox":"-8.51467974076,41.7980751461,-8.48213430601,41.8264330817",
     "geom:latitude":41.814215,
     "geom:longitude":-8.495175,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cendufe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160108",
+        "eurostat:nuts_2021_id":"160108",
         "pt-dgt:id":"160108"
     },
     "wof:country":"PT",
     "wof:created":1576699329,
-    "wof:geomhash":"104f485d487d8d0008945a6fff4e7be8",
+    "wof:geomhash":"4f2b9d8ba23fa32fc16bfc929935cce2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Cendufe",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":360,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

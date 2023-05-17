@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160940",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chaf\u00e9",
+    "eurostat:nuts_2021_id":"160940",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160940",
+    "eurostat:population":2841,
+    "eurostat:population_year":2020,
     "geom:area":0.000848,
+    "geom:area_square_m":7839522.46717,
     "geom:bbox":"-8.82640357796,41.6327136423,-8.77111827716,41.6579181495",
     "geom:latitude":41.645926,
     "geom:longitude":-8.799022,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Chaf\u00e9",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160940",
+        "eurostat:nuts_2021_id":"160940",
         "pt-dgt:id":"160940"
     },
     "wof:country":"PT",
     "wof:created":1576698762,
-    "wof:geomhash":"f428efd7468d3cc9de4e23c1e060f551",
+    "wof:geomhash":"dba5537ec7fb5b886670c9413bdc06ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Chaf\u00e9",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":2841,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

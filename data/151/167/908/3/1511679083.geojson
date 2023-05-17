@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bencatel",
+    "eurostat:nuts_2021_id":"071401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071401",
+    "eurostat:population":1679,
+    "eurostat:population_year":2020,
     "geom:area":0.00375,
+    "geom:area_square_m":36180592.731935,
     "geom:bbox":"-7.49999338189,38.6712344985,-7.41406716962,38.7746822352",
     "geom:latitude":38.722566,
     "geom:longitude":-7.460133,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bencatel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071401",
+        "eurostat:nuts_2021_id":"071401",
         "pt-dgt:id":"071401"
     },
     "wof:country":"PT",
     "wof:created":1576698045,
-    "wof:geomhash":"fb91361a346732497ce13e9fed5e74f9",
+    "wof:geomhash":"b72b202b435c2aed9a95ba6bb8ec9024",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712461,
+    "wof:lastmodified":1684354472,
     "wof:name":"Bencatel",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":1679,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060522",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lavos",
+    "eurostat:nuts_2021_id":"060522",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060522",
+    "eurostat:population":3999,
+    "eurostat:population_year":2020,
     "geom:area":0.004438,
+    "geom:area_square_m":41977296.819344,
     "geom:bbox":"-8.88890232687,40.0514384795,-8.80059778048,40.1446710363",
     "geom:latitude":40.092818,
     "geom:longitude":-8.842118,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lavos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060522",
+        "eurostat:nuts_2021_id":"060522",
         "pt-dgt:id":"060522"
     },
     "wof:country":"PT",
     "wof:created":1576698506,
-    "wof:geomhash":"05c691cfe368d52000b4da7e32699757",
+    "wof:geomhash":"0081965925927363c2d3b9fcd77f65d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354556,
     "wof:name":"Lavos",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":3999,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

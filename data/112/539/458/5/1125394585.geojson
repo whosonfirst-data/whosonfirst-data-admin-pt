@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ad\u00e3es",
+    "eurostat:nuts_2021_id":"030203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030203",
+    "eurostat:population":790,
+    "eurostat:population_year":2020,
     "geom:area":0.00029,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":2686641.425322,
     "geom:bbox":"-8.57934698286,41.5177662272,-8.5498112357,41.5321424994",
     "geom:latitude":41.524977,
     "geom:longitude":-8.563828,
@@ -76,6 +88,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -83,6 +97,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030203",
+        "eurostat:nuts_2021_id":"030203",
         "gn:id":8010952,
         "pt-dgt:id":30203,
         "qs_pg:id":1042292
@@ -92,7 +108,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"a67fe666bed72e2f223b1f7ffef6e747",
+    "wof:geomhash":"7a3fe4444dcf2e0acadd4474684e2f65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,10 +118,12 @@
         }
     ],
     "wof:id":1125394585,
-    "wof:lastmodified":1582359921,
+    "wof:lastmodified":1684354449,
     "wof:name":"Ad\u00e3es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":790,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

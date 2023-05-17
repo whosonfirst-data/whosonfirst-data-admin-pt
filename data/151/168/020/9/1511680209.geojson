@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salir de Matos",
+    "eurostat:nuts_2021_id":"100609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100609",
+    "eurostat:population":2583,
+    "eurostat:population_year":2020,
     "geom:area":0.002572,
+    "geom:area_square_m":24568026.291671,
     "geom:bbox":"-9.12248489931,39.3946367962,-9.04866225847,39.4698009155",
     "geom:latitude":39.433188,
     "geom:longitude":-9.087805,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Salir de Matos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100609",
+        "eurostat:nuts_2021_id":"100609",
         "pt-dgt:id":"100609"
     },
     "wof:country":"PT",
     "wof:created":1576698318,
-    "wof:geomhash":"8a84cb04fdbc0294b25d3984004dc651",
+    "wof:geomhash":"13c5876ef57d3706eb5ee1325580aedd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354516,
     "wof:name":"Salir de Matos",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2583,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

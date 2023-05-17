@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031120",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vieira do Minho",
+    "eurostat:nuts_2021_id":"031120",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031120",
+    "eurostat:population":2239,
+    "eurostat:population_year":2020,
     "geom:area":0.000776,
+    "geom:area_square_m":7176530.565934,
     "geom:bbox":"-8.17427437131,41.6025671609,-8.12236682444,41.6390624631",
     "geom:latitude":41.621424,
     "geom:longitude":-8.150732,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vieira do Minho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031120",
+        "eurostat:nuts_2021_id":"031120",
         "pt-dgt:id":"031120"
     },
     "wof:country":"PT",
     "wof:created":1576699262,
-    "wof:geomhash":"82d7002c6d38d095e8e126984291bdb7",
+    "wof:geomhash":"d82df557d08fec875b14a7b7fa9e132d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712728,
+    "wof:lastmodified":1684354682,
     "wof:name":"Vieira do Minho",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2239,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

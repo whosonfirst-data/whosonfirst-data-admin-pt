@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130223",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campelo e Ovil",
+    "eurostat:nuts_2021_id":"130223",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130223",
+    "eurostat:population":3938,
+    "eurostat:population_year":2020,
     "geom:area":0.003413,
+    "geom:area_square_m":31770642.471867,
     "geom:bbox":"-8.06103897264,41.1413900296,-7.98556503639,41.2060154307",
     "geom:latitude":41.173195,
     "geom:longitude":-8.023547,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Campelo e Ovil",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130223",
+        "eurostat:nuts_2021_id":"130223",
         "pt-dgt:id":"130223"
     },
     "wof:country":"PT",
     "wof:created":1576698958,
-    "wof:geomhash":"34b8b76cca932c2c85d04efe314ae44c",
+    "wof:geomhash":"8bca49fd14075143833b63207d5d6b70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712677,
+    "wof:lastmodified":1684354627,
     "wof:name":"Campelo e Ovil",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":3938,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

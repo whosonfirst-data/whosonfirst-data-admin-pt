@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valongo do Vouga",
+    "eurostat:nuts_2021_id":"010119",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010119",
+    "eurostat:population":4877,
+    "eurostat:population_year":2020,
     "geom:area":0.004598,
+    "geom:area_square_m":43151403.905203,
     "geom:bbox":"-8.46011530139,40.5938974199,-8.35250178216,40.6692231393",
     "geom:latitude":40.631077,
     "geom:longitude":-8.410485,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valongo do Vouga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010119",
+        "eurostat:nuts_2021_id":"010119",
         "pt-dgt:id":"010119"
     },
     "wof:country":"PT",
     "wof:created":1576698773,
-    "wof:geomhash":"590b533d3254a45936178b9453ff8c1d",
+    "wof:geomhash":"b73f52bee7f1e19f58610e48aba32445",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712643,
+    "wof:lastmodified":1684354595,
     "wof:name":"Valongo do Vouga",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":4877,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

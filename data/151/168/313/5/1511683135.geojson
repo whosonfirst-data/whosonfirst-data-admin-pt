@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180516",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penaj\u00f3ia",
+    "eurostat:nuts_2021_id":"180516",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180516",
+    "eurostat:population":1023,
+    "eurostat:population_year":2020,
     "geom:area":0.001086,
+    "geom:area_square_m":10114632.122916,
     "geom:bbox":"-7.88012633867,41.1197483499,-7.82527694217,41.1584809818",
     "geom:latitude":41.142996,
     "geom:longitude":-7.853169,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penaj\u00f3ia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180516",
+        "eurostat:nuts_2021_id":"180516",
         "pt-dgt:id":"180516"
     },
     "wof:country":"PT",
     "wof:created":1576698948,
-    "wof:geomhash":"43b263cfc314b393799970e52f65079b",
+    "wof:geomhash":"5be9a1852005c0fd79dc47bd5142d3b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712676,
+    "wof:lastmodified":1684354626,
     "wof:name":"Penaj\u00f3ia",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1023,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

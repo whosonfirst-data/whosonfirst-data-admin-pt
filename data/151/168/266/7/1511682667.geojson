@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091333",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale do Seixo e Vila Garcia",
+    "eurostat:nuts_2021_id":"091333",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091333",
+    "eurostat:population":245,
+    "eurostat:population_year":2020,
     "geom:area":0.002171,
+    "geom:area_square_m":20323222.616103,
     "geom:bbox":"-7.29708441665,40.7748526353,-7.20202506765,40.8134365758",
     "geom:latitude":40.793845,
     "geom:longitude":-7.248619,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vale do Seixo e Vila Garcia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091333",
+        "eurostat:nuts_2021_id":"091333",
         "pt-dgt:id":"091333"
     },
     "wof:country":"PT",
     "wof:created":1576698852,
-    "wof:geomhash":"dc1f794ac5ecd575db119c34059389cf",
+    "wof:geomhash":"cd968b9ad578de848b39eb01f12c3ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712657,
+    "wof:lastmodified":1684354608,
     "wof:name":"Vale do Seixo e Vila Garcia",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

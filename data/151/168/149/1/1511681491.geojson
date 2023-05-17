@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manteigas (Santa Maria)",
+    "eurostat:nuts_2021_id":"090802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090802",
+    "eurostat:population":1418,
+    "eurostat:population_year":2020,
     "geom:area":0.002366,
+    "geom:area_square_m":22275183.804035,
     "geom:bbox":"-7.57185771288,40.3902961954,-7.48604590808,40.454116328",
     "geom:latitude":40.422462,
     "geom:longitude":-7.526729,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Manteigas (Santa Maria)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090802",
+        "eurostat:nuts_2021_id":"090802",
         "pt-dgt:id":"090802"
     },
     "wof:country":"PT",
     "wof:created":1576698607,
-    "wof:geomhash":"c977c48625af5177b2bd91fb824ba82f",
+    "wof:geomhash":"5d787010ac922d2daae6775230cfa66e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712615,
+    "wof:lastmodified":1684354570,
     "wof:name":"Manteigas (Santa Maria)",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":1418,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

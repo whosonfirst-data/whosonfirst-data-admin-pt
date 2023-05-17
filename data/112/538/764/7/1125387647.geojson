@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A dos Cunhados e Maceira",
+    "eurostat:nuts_2021_id":"111321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"111321",
+    "eurostat:population":10391,
+    "eurostat:population_year":2020,
     "geom:area":0.005493,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":52667257.229192,
     "geom:bbox":"-9.38112436892,39.1198269655,-9.26299983829,39.1954186749",
     "geom:latitude":39.155535,
     "geom:longitude":-9.320741,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111321",
+        "eurostat:nuts_2021_id":"111321",
         "gn:id":8012562,
         "pt-dgt:id":111321,
         "qs_pg:id":906900
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"9358ee2a0b2f34e7829ec775c585f670",
+    "wof:geomhash":"374aed8f7e64ce18d9647d576d8fb03b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125387647,
-    "wof:lastmodified":1582359923,
+    "wof:lastmodified":1684354448,
     "wof:name":"A dos Cunhados e Maceira",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":10391,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

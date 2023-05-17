@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140909",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coruche, Fajarda e Erra",
+    "eurostat:nuts_2021_id":"140909",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140909",
+    "eurostat:population":11756,
+    "eurostat:population_year":2020,
     "geom:area":0.037046,
+    "geom:area_square_m":356203452.686705,
     "geom:bbox":"-8.72135637048,38.8293303605,-8.37129514138,39.0704393229",
     "geom:latitude":38.95908,
     "geom:longitude":-8.506234,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Coruche, Fajarda e Erra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140909",
+        "eurostat:nuts_2021_id":"140909",
         "pt-dgt:id":"140909"
     },
     "wof:country":"PT",
     "wof:created":1576698237,
-    "wof:geomhash":"3f2458e67a210259335ab0263f05f0f8",
+    "wof:geomhash":"65c83a18171483ead800213cc87e95e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712509,
+    "wof:lastmodified":1684354502,
     "wof:name":"Coruche, Fajarda e Erra",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":11756,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

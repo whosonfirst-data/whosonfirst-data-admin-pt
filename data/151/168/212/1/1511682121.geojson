@@ -4,6 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Bernardo",
+    "eurostat:nuts_2021_id":"010510",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010510",
+    "eurostat:population":4960,
+    "eurostat:population_year":2020,
     "geom:area":0.000419,
     "geom:area_square_m":3930987.196803,
     "geom:bbox":"-8.639561,40.60032,-8.610306,40.62915",
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Bernardo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010510",
+        "eurostat:nuts_2021_id":"010510",
         "pt-dgt:id":"010510"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698736,
-    "wof:geomhash":"8c2aaf6f763223b562bbb5b95adc6b1d",
+    "wof:geomhash":"2d8ec6a5992a8c51d44ed252abb16ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987237,
+    "wof:lastmodified":1684354590,
     "wof:name":"S\u00e3o Bernardo",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":4960,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

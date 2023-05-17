@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050434",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fund\u00e3o, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",
+    "eurostat:nuts_2021_id":"050434",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050434",
+    "eurostat:population":13434,
+    "eurostat:population_year":2020,
     "geom:area":0.006112,
+    "geom:area_square_m":57767903.890643,
     "geom:bbox":"-7.55443769976,40.1118231085,-7.4371171776,40.1929664452",
     "geom:latitude":40.154089,
     "geom:longitude":-7.493538,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Fund\u00e3o, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050434",
+        "eurostat:nuts_2021_id":"050434",
         "pt-dgt:id":"050434"
     },
     "wof:country":"PT",
     "wof:created":1576698520,
-    "wof:geomhash":"d54456d4a00b5e4ef42cc34eab375753",
+    "wof:geomhash":"61bf5a06c8f2d5e5dd6343b5c0c2010b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712597,
+    "wof:lastmodified":1684354558,
     "wof:name":"Fund\u00e3o, Valverde, Donas, A. Joanes, A. Nova do Cabo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":13434,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Outeiro",
+    "eurostat:nuts_2021_id":"170619",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170619",
+    "eurostat:population":156,
+    "eurostat:population_year":2020,
     "geom:area":0.005668,
+    "geom:area_square_m":52242003.93288,
     "geom:bbox":"-8.04517652771,41.758483174,-7.92929489054,41.850770952",
     "geom:latitude":41.801577,
     "geom:longitude":-7.98239,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Outeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170619",
+        "eurostat:nuts_2021_id":"170619",
         "pt-dgt:id":"170619"
     },
     "wof:country":"PT",
     "wof:created":1576699339,
-    "wof:geomhash":"fdce7805ebcc14dc75ee6ff5b786e6d1",
+    "wof:geomhash":"a3c6dd5c2b87e718f2c94d7d54bf0cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712738,
+    "wof:lastmodified":1684354691,
     "wof:name":"Outeiro",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":156,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
