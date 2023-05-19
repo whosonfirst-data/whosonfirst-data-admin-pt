@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ajuda da Bretanha",
+    "eurostat:nuts_2021_id":"420323",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420323",
+    "eurostat:population":661,
+    "eurostat:population_year":2020,
     "geom:area":0.000727,
+    "geom:area_square_m":7092309.865891,
     "geom:bbox":"-25.7766986075,37.8691810183,-25.7391430332,37.9061781896",
     "geom:latitude":37.88871,
     "geom:longitude":-25.760795,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ajuda da Bretanha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420323",
+        "eurostat:nuts_2021_id":"420323",
         "pt-dgt:id":"420323"
     },
     "wof:country":"PT",
     "wof:created":1576699440,
-    "wof:geomhash":"4490ecc2cf7a14fac3ecd06aaa2b099d",
+    "wof:geomhash":"ddc93b2bd7378ffa5eff3e8675a60ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720299,
+    "wof:lastmodified":1684354716,
     "wof:name":"Ajuda da Bretanha",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":661,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

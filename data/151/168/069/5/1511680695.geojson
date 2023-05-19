@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montes da Senhora",
+    "eurostat:nuts_2021_id":"050802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050802",
+    "eurostat:population":748,
+    "eurostat:population_year":2020,
     "geom:area":0.003861,
+    "geom:area_square_m":36695203.710646,
     "geom:bbox":"-7.83203376618,39.7348931967,-7.73966636981,39.8039143129",
     "geom:latitude":39.771161,
     "geom:longitude":-7.784669,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montes da Senhora",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050802",
+        "eurostat:nuts_2021_id":"050802",
         "pt-dgt:id":"050802"
     },
     "wof:country":"PT",
     "wof:created":1576698432,
-    "wof:geomhash":"4501f525dbdfc59a46ef28dbab60ec24",
+    "wof:geomhash":"e8d942e1aab4d16c0af6e7fd286ecb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712569,
+    "wof:lastmodified":1684354539,
     "wof:name":"Montes da Senhora",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":748,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

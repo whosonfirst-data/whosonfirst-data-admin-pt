@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060515",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bom Sucesso",
+    "eurostat:nuts_2021_id":"060515",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060515",
+    "eurostat:population":2133,
+    "eurostat:population_year":2020,
     "geom:area":0.006391,
+    "geom:area_square_m":60293045.478374,
     "geom:bbox":"-8.87469993467,40.2407758379,-8.74807318078,40.326880889",
     "geom:latitude":40.278479,
     "geom:longitude":-8.812424,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bom Sucesso",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060515",
+        "eurostat:nuts_2021_id":"060515",
         "pt-dgt:id":"060515"
     },
     "wof:country":"PT",
     "wof:created":1576698562,
-    "wof:geomhash":"326b2b662133cc53e1229ed8b821b504",
+    "wof:geomhash":"1b96b2b1e921d2bc6c61761a0a424db2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712607,
+    "wof:lastmodified":1684354564,
     "wof:name":"Bom Sucesso",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2133,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

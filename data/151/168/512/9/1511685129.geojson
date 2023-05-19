@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cristoval",
+    "eurostat:nuts_2021_id":"160305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160305",
+    "eurostat:population":528,
+    "eurostat:population_year":2020,
     "geom:area":0.000605,
+    "geom:area_square_m":5548645.117578,
     "geom:bbox":"-8.2172467059,42.1113922109,-8.18759310951,42.1543111274",
     "geom:latitude":42.128097,
     "geom:longitude":-8.200495,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cristoval",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160305",
+        "eurostat:nuts_2021_id":"160305",
         "pt-dgt:id":"160305"
     },
     "wof:country":"PT",
     "wof:created":1576699366,
-    "wof:geomhash":"66c5244f56712fb6ee13e9f14197dc34",
+    "wof:geomhash":"9c6905f7c724a00628d16495935ca8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712743,
+    "wof:lastmodified":1684354696,
     "wof:name":"Cristoval",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":528,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

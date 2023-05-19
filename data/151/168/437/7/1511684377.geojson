@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Air\u00f3",
+    "eurostat:nuts_2021_id":"030205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030205",
+    "eurostat:population":913,
+    "eurostat:population_year":2020,
     "geom:area":0.000326,
+    "geom:area_square_m":3019275.054398,
     "geom:bbox":"-8.5719364656,41.5030190577,-8.54152724504,41.5236479881",
     "geom:latitude":41.514102,
     "geom:longitude":-8.556942,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Air\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030205",
+        "eurostat:nuts_2021_id":"030205",
         "pt-dgt:id":"030205"
     },
     "wof:country":"PT",
     "wof:created":1576699213,
-    "wof:geomhash":"9ea394deb6bfe1198455a7d93ae2e6a3",
+    "wof:geomhash":"b6c295c453d549a7c096a8cc81a05ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354676,
     "wof:name":"Air\u00f3",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":913,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

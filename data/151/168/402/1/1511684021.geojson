@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040739",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avidagos, Navalho e Pereira",
+    "eurostat:nuts_2021_id":"040739",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040739",
+    "eurostat:population":531,
+    "eurostat:population_year":2020,
     "geom:area":0.00357,
+    "geom:area_square_m":33117394.853439,
     "geom:bbox":"-7.340265267,41.35294904,-7.24396836199,41.4272542452",
     "geom:latitude":41.394193,
     "geom:longitude":-7.294704,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Avidagos, Navalho e Pereira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040739",
+        "eurostat:nuts_2021_id":"040739",
         "pt-dgt:id":"040739"
     },
     "wof:country":"PT",
     "wof:created":1576699137,
-    "wof:geomhash":"ac818de75ad4f3cabcb865a8583bc1d6",
+    "wof:geomhash":"220dad1efa5132cc96d29c64c7086538",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Avidagos, Navalho e Pereira",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":531,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

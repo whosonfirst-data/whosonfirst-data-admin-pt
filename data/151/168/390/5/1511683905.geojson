@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tagilde e Vizela (S\u00e3o Paio)",
+    "eurostat:nuts_2021_id":"031409",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031409",
+    "eurostat:population":3364,
+    "eurostat:population_year":2020,
     "geom:area":0.000565,
+    "geom:area_square_m":5242150.74581,
     "geom:bbox":"-8.29087221726,41.3666176205,-8.24613835695,41.398161944",
     "geom:latitude":41.382765,
     "geom:longitude":-8.270204,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Tagilde e Vizela (S\u00e3o Paio)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031409",
+        "eurostat:nuts_2021_id":"031409",
         "pt-dgt:id":"031409"
     },
     "wof:country":"PT",
     "wof:created":1576699115,
-    "wof:geomhash":"1dd53a2424928946f00b9fe88dbf88ad",
+    "wof:geomhash":"19b98bf5759f65d85660e05e3f98fc74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712706,
+    "wof:lastmodified":1684354660,
     "wof:name":"Tagilde e Vizela (S\u00e3o Paio)",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":3364,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050324",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tortosendo",
+    "eurostat:nuts_2021_id":"050324",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050324",
+    "eurostat:population":5624,
+    "eurostat:population_year":2020,
     "geom:area":0.001878,
+    "geom:area_square_m":17730921.338807,
     "geom:bbox":"-7.55974288468,40.2123969931,-7.48822984539,40.2551355785",
     "geom:latitude":40.235009,
     "geom:longitude":-7.521581,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tortosendo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050324",
+        "eurostat:nuts_2021_id":"050324",
         "pt-dgt:id":"050324"
     },
     "wof:country":"PT",
     "wof:created":1576698539,
-    "wof:geomhash":"159d9dc3aa7ab6a073eed4ac780fec30",
+    "wof:geomhash":"f56b0175f3d346714f12e4f48bdf4052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712601,
+    "wof:lastmodified":1684354561,
     "wof:name":"Tortosendo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":5624,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

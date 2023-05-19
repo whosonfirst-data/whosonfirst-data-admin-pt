@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinheiro de Coja e Meda de Mouros",
+    "eurostat:nuts_2021_id":"061619",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061619",
+    "eurostat:population":521,
+    "eurostat:population_year":2020,
     "geom:area":0.002101,
+    "geom:area_square_m":19813941.035209,
     "geom:bbox":"-8.03490779551,40.2549201463,-7.96725525224,40.3211788468",
     "geom:latitude":40.291305,
     "geom:longitude":-8.002796,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Pinheiro de Coja e Meda de Mouros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061619",
+        "eurostat:nuts_2021_id":"061619",
         "pt-dgt:id":"061619"
     },
     "wof:country":"PT",
     "wof:created":1576698556,
-    "wof:geomhash":"fdcf7f09d67256a61b918c750310bf5a",
+    "wof:geomhash":"0ae9a76d13908fe54d389d2a5212747a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712606,
+    "wof:lastmodified":1684354564,
     "wof:name":"Pinheiro de Coja e Meda de Mouros",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":521,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

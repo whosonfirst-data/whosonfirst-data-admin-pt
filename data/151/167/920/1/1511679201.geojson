@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160718",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Facha",
+    "eurostat:nuts_2021_id":"160718",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160718",
+    "eurostat:population":1529,
+    "eurostat:population_year":2020,
     "geom:area":0.001656,
+    "geom:area_square_m":15285895.639372,
     "geom:bbox":"-8.66172582172,41.6924377168,-8.59428193366,41.7308561138",
     "geom:latitude":41.712045,
     "geom:longitude":-8.624083,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Facha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160718",
+        "eurostat:nuts_2021_id":"160718",
         "pt-dgt:id":"160718"
     },
     "wof:country":"PT",
     "wof:created":1576698071,
-    "wof:geomhash":"7263e049cc05ba8c250fb980f7b71bdf",
+    "wof:geomhash":"efa3b3c1d196b242ce3aaac0a1fd0a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712468,
+    "wof:lastmodified":1684354476,
     "wof:name":"Facha",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1529,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

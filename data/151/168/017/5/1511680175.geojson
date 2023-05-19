@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tolosa",
+    "eurostat:nuts_2021_id":"121210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121210",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.002461,
+    "geom:area_square_m":23507252.728006,
     "geom:bbox":"-7.76365168668,39.3831997125,-7.67434556372,39.4440288805",
     "geom:latitude":39.410446,
     "geom:longitude":-7.720134,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tolosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121210",
+        "eurostat:nuts_2021_id":"121210",
         "pt-dgt:id":"121210"
     },
     "wof:country":"PT",
     "wof:created":1576698310,
-    "wof:geomhash":"e2e6375928652cf86cbc673ae7354f02",
+    "wof:geomhash":"50e1cff59dcf1d8b671f182e3fb84636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712530,
+    "wof:lastmodified":1684354514,
     "wof:name":"Tolosa",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

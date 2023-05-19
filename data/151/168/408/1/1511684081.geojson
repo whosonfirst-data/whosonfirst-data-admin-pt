@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bilh\u00f3",
+    "eurostat:nuts_2021_id":"170502",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"170502",
+    "eurostat:population":546,
+    "eurostat:population_year":2020,
     "geom:area":0.002861,
+    "geom:area_square_m":26532919.288066,
     "geom:bbox":"-7.87626600892,41.3806388948,-7.78868737649,41.4443492268",
     "geom:latitude":41.409996,
     "geom:longitude":-7.839872,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bilh\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170502",
+        "eurostat:nuts_2021_id":"170502",
         "pt-dgt:id":"170502"
     },
     "wof:country":"PT",
     "wof:created":1576699150,
-    "wof:geomhash":"681951094af6c0cdf64e91c9ad206271",
+    "wof:geomhash":"f91ef229d42060ca556a5785a95d48e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712712,
+    "wof:lastmodified":1684354667,
     "wof:name":"Bilh\u00f3",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":546,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

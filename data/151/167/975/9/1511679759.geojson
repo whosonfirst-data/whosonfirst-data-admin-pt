@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcochete",
+    "eurostat:nuts_2021_id":"150201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150201",
+    "eurostat:population":12239,
+    "eurostat:population_year":2020,
     "geom:area":0.012373,
+    "geom:area_square_m":119344687.987947,
     "geom:bbox":"-9.02432048072,38.6713710316,-8.81029582395,38.8261419649",
     "geom:latitude":38.736052,
     "geom:longitude":-8.91027,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcochete",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150201",
+        "eurostat:nuts_2021_id":"150201",
         "pt-dgt:id":"150201"
     },
     "wof:country":"PT",
     "wof:created":1576698195,
-    "wof:geomhash":"90d30290486fb5541cbb5cde95f1006e",
+    "wof:geomhash":"1c1c3600f27ab31634870c28c5913083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712495,
+    "wof:lastmodified":1684354493,
     "wof:name":"Alcochete",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":12239,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

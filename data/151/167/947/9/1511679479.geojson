@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvito",
+    "eurostat:nuts_2021_id":"020301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020301",
+    "eurostat:population":1259,
+    "eurostat:population_year":2020,
     "geom:area":0.014046,
+    "geom:area_square_m":136443421.366009,
     "geom:bbox":"-8.11480088386,38.150559572,-7.92668750655,38.3181777188",
     "geom:latitude":38.222244,
     "geom:longitude":-8.005897,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvito",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020301",
+        "eurostat:nuts_2021_id":"020301",
         "pt-dgt:id":"020301"
     },
     "wof:country":"PT",
     "wof:created":1576698134,
-    "wof:geomhash":"4bb036bb5e382128c3e5bfec0e9018df",
+    "wof:geomhash":"6dda8878ef539a4f63538c689cdaf4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712480,
+    "wof:lastmodified":1684354484,
     "wof:name":"Alvito",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1259,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

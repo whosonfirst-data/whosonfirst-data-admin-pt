@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"A dos Francos",
+    "eurostat:nuts_2021_id":"100601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100601",
+    "eurostat:population":1701,
+    "eurostat:population_year":2020,
     "geom:area":0.001977,
+    "geom:area_square_m":18913429.093571,
     "geom:bbox":"-9.0940395532,39.2932421415,-8.99689378139,39.3356909689",
     "geom:latitude":39.319726,
     "geom:longitude":-9.054442,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"A dos Francos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100601",
+        "eurostat:nuts_2021_id":"100601",
         "pt-dgt:id":"100601"
     },
     "wof:country":"PT",
     "wof:created":1576698048,
-    "wof:geomhash":"95fa88c31a3c2212c507bf71d4f3a3fc",
+    "wof:geomhash":"1a8a9f9743cefed5dda56320eeab2fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712462,
+    "wof:lastmodified":1684354472,
     "wof:name":"A dos Francos",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1701,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

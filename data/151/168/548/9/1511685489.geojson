@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faj\u00e3 da Ovelha",
+    "eurostat:nuts_2021_id":"310104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310104",
+    "eurostat:population":895,
+    "eurostat:population_year":2020,
     "geom:area":0.002133,
+    "geom:area_square_m":22171238.175827,
     "geom:bbox":"-17.2471025487,32.7538008713,-17.1561869065,32.8119399543",
     "geom:latitude":32.783108,
     "geom:longitude":-17.205032,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Faj\u00e3 da Ovelha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310104",
+        "eurostat:nuts_2021_id":"310104",
         "pt-dgt:id":"310104"
     },
     "wof:country":"PT",
     "wof:created":1576699451,
-    "wof:geomhash":"0da9a08ec599acc6834db3b47d03d2e0",
+    "wof:geomhash":"c231ab342a5170e8f12f016f8578ea51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720328,
+    "wof:lastmodified":1684354720,
     "wof:name":"Faj\u00e3 da Ovelha",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":895,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

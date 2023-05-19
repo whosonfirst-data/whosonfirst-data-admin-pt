@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170350",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Maria Maior",
+    "eurostat:nuts_2021_id":"170350",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170350",
+    "eurostat:population":12019,
+    "eurostat:population_year":2020,
     "geom:area":0.000609,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":5623326.742864,
     "geom:bbox":"-7.49335042323,41.7191360944,-7.45897747659,41.7546264314",
     "geom:latitude":41.740078,
     "geom:longitude":-7.477948,
@@ -70,6 +82,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -77,6 +91,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170350",
+        "eurostat:nuts_2021_id":"170350",
         "gn:id":8013600,
         "pt-dgt:id":170350,
         "qs_pg:id":1155647
@@ -86,7 +102,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"ddbbb5ed5296ae003634c22c00f8db58",
+    "wof:geomhash":"4a26c9b7e033ae8bba913cdf76977e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,10 +112,12 @@
         }
     ],
     "wof:id":1125409929,
-    "wof:lastmodified":1582359927,
+    "wof:lastmodified":1684354451,
     "wof:name":"Santa Maria Maior",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":12019,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

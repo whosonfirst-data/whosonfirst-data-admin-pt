@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090732",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Porto da Carne",
+    "eurostat:nuts_2021_id":"090732",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090732",
+    "eurostat:population":385,
+    "eurostat:population_year":2020,
     "geom:area":0.000211,
+    "geom:area_square_m":1981156.129734,
     "geom:bbox":"-7.30027924682,40.6008784763,-7.27626738947,40.6131890645",
     "geom:latitude":40.607366,
     "geom:longitude":-7.288782,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Porto da Carne",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090732",
+        "eurostat:nuts_2021_id":"090732",
         "pt-dgt:id":"090732"
     },
     "wof:country":"PT",
     "wof:created":1576698726,
-    "wof:geomhash":"9f566f4e4654c48c7f7ff0b58332d212",
+    "wof:geomhash":"8f6e6813203636b8203074a7a57981ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712637,
+    "wof:lastmodified":1684354590,
     "wof:name":"Porto da Carne",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":385,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

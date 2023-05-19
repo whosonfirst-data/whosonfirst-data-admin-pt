@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pico da Pedra",
+    "eurostat:nuts_2021_id":"420506",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420506",
+    "eurostat:population":2909,
+    "eurostat:population_year":2020,
     "geom:area":0.000673,
+    "geom:area_square_m":6574793.975062,
     "geom:bbox":"-25.6391167351,37.7742994868,-25.5981232694,37.8144935322",
     "geom:latitude":37.795111,
     "geom:longitude":-25.615199,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Pico da Pedra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420506",
+        "eurostat:nuts_2021_id":"420506",
         "pt-dgt:id":"420506"
     },
     "wof:country":"PT",
     "wof:created":1576699418,
-    "wof:geomhash":"4bbfafc8e8594d2ed57513e6245c554a",
+    "wof:geomhash":"fe568b6f74e09ec9573516a883336ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720368,
+    "wof:lastmodified":1684354703,
     "wof:name":"Pico da Pedra",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2909,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

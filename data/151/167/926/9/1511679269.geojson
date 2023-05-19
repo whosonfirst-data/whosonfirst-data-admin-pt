@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_161009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mentrestido",
+    "eurostat:nuts_2021_id":"161009",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"161009",
+    "eurostat:population":264,
+    "eurostat:population_year":2020,
     "geom:area":0.00051,
+    "geom:area_square_m":4696996.843968,
     "geom:bbox":"-8.68275119508,41.88539952,-8.65181275656,41.91419564",
     "geom:latitude":41.900301,
     "geom:longitude":-8.667373,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mentrestido",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_161009",
+        "eurostat:nuts_2021_id":"161009",
         "pt-dgt:id":"161009"
     },
     "wof:country":"PT",
     "wof:created":1576698089,
-    "wof:geomhash":"8d7ca41ab0c71111c3de9f7ca56f75e3",
+    "wof:geomhash":"1f3dd5a3fe1f4cdc5972ea2e598abdf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712470,
+    "wof:lastmodified":1684354478,
     "wof:name":"Mentrestido",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":264,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

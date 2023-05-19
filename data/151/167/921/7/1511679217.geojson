@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Curalha",
+    "eurostat:nuts_2021_id":"170310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170310",
+    "eurostat:population":469,
+    "eurostat:population_year":2020,
     "geom:area":0.000846,
+    "geom:area_square_m":7810279.961691,
     "geom:bbox":"-7.54160636545,41.7010525017,-7.4970943599,41.7368585179",
     "geom:latitude":41.719102,
     "geom:longitude":-7.524981,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Curalha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170310",
+        "eurostat:nuts_2021_id":"170310",
         "pt-dgt:id":"170310"
     },
     "wof:country":"PT",
     "wof:created":1576698079,
-    "wof:geomhash":"79268e98f593ed782db0fdb7e6d95ace",
+    "wof:geomhash":"4469401caf001378a00a50961237b56e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712469,
+    "wof:lastmodified":1684354477,
     "wof:name":"Curalha",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

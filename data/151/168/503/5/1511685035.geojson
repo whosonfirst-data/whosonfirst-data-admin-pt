@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160149",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale",
+    "eurostat:nuts_2021_id":"160149",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160149",
+    "eurostat:population":776,
+    "eurostat:population_year":2020,
     "geom:area":0.001639,
+    "geom:area_square_m":15094354.176212,
     "geom:bbox":"-8.39260393146,41.8274075017,-8.32655228271,41.8683441035",
     "geom:latitude":41.848074,
     "geom:longitude":-8.360573,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160149",
+        "eurostat:nuts_2021_id":"160149",
         "pt-dgt:id":"160149"
     },
     "wof:country":"PT",
     "wof:created":1576699348,
-    "wof:geomhash":"7a491eadbb774c7c1533cefca09767b0",
+    "wof:geomhash":"bfd6f072bd5e579e27b114cb7755ffae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354692,
     "wof:name":"Vale",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":776,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

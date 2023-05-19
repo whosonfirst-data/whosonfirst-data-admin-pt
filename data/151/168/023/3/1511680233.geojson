@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova da Barquinha",
+    "eurostat:nuts_2021_id":"142006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142006",
+    "eurostat:population":3680,
+    "eurostat:population_year":2020,
     "geom:area":0.001343,
+    "geom:area_square_m":12821017.841559,
     "geom:bbox":"-8.46774731829,39.4470457741,-8.39330108923,39.486135756",
     "geom:latitude":39.467655,
     "geom:longitude":-8.428664,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova da Barquinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142006",
+        "eurostat:nuts_2021_id":"142006",
         "pt-dgt:id":"142006"
     },
     "wof:country":"PT",
     "wof:created":1576698324,
-    "wof:geomhash":"cb1a0106401d670ae33192f2cae7c830",
+    "wof:geomhash":"a70df8895d8a811aa9a7f776dedf15ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712534,
+    "wof:lastmodified":1684354517,
     "wof:name":"Vila Nova da Barquinha",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":3680,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

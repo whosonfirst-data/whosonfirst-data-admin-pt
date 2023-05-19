@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Janeiro de Baixo",
+    "eurostat:nuts_2021_id":"061204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061204",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.004297,
+    "geom:area_square_m":40653253.630186,
     "geom:bbox":"-7.85983846608,40.0357366336,-7.75367052738,40.1243167199",
     "geom:latitude":40.083484,
     "geom:longitude":-7.813844,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Janeiro de Baixo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061204",
+        "eurostat:nuts_2021_id":"061204",
         "pt-dgt:id":"061204"
     },
     "wof:country":"PT",
     "wof:created":1576698499,
-    "wof:geomhash":"e1d19572070d373b3da781ba273b7cc2",
+    "wof:geomhash":"f48a13f82309b7068207631b6d5fff61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712593,
+    "wof:lastmodified":1684354555,
     "wof:name":"Janeiro de Baixo",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

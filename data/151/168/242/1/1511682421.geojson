@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182319",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orgens",
+    "eurostat:nuts_2021_id":"182319",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182319",
+    "eurostat:population":3489,
+    "eurostat:population_year":2020,
     "geom:area":0.000948,
+    "geom:area_square_m":8891303.078172,
     "geom:bbox":"-7.96402598296,40.6463535762,-7.92608493835,40.6903107325",
     "geom:latitude":40.668356,
     "geom:longitude":-7.947766,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Orgens",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182319",
+        "eurostat:nuts_2021_id":"182319",
         "pt-dgt:id":"182319"
     },
     "wof:country":"PT",
     "wof:created":1576698795,
-    "wof:geomhash":"5d3e5bae2abfc61906b1b4f6f3c44a5d",
+    "wof:geomhash":"6a8cb5e75f89395f790d8195e6baa0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712647,
+    "wof:lastmodified":1684354599,
     "wof:name":"Orgens",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":3489,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

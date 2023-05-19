@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loures",
+    "eurostat:nuts_2021_id":"110707",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110707",
+    "eurostat:population":26769,
+    "eurostat:population_year":2020,
     "geom:area":0.003404,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":32784345.153912,
     "geom:bbox":"-9.24600109912,38.8121562325,-9.14529903841,38.8767659685",
     "geom:latitude":38.842828,
     "geom:longitude":-9.197898,
@@ -133,6 +145,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -140,6 +154,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110707",
+        "eurostat:nuts_2021_id":"110707",
         "gn:id":6930332,
         "pt-dgt:id":110707,
         "qs_pg:id":1039355
@@ -149,7 +165,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2a3c2b2a8d7d0017a602b47829296aca",
+    "wof:geomhash":"8a2f963d5748d4b527135d6bc35c245a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,10 +175,12 @@
         }
     ],
     "wof:id":1125392667,
-    "wof:lastmodified":1582359920,
+    "wof:lastmodified":1684354448,
     "wof:name":"Loures",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":26769,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

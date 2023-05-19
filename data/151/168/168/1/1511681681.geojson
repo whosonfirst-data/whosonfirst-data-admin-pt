@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beselga",
+    "eurostat:nuts_2021_id":"181202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181202",
+    "eurostat:population":321,
+    "eurostat:population_year":2020,
     "geom:area":0.001579,
+    "geom:area_square_m":14746479.964142,
     "geom:bbox":"-7.44354077681,40.9098990303,-7.39002720818,40.9688041878",
     "geom:latitude":40.947599,
     "geom:longitude":-7.415816,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Beselga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181202",
+        "eurostat:nuts_2021_id":"181202",
         "pt-dgt:id":"181202"
     },
     "wof:country":"PT",
     "wof:created":1576698647,
-    "wof:geomhash":"6742173f181994f4a030a1641281df01",
+    "wof:geomhash":"9215f2bea9cac77b891b0e7084d2f040",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712624,
+    "wof:lastmodified":1684354578,
     "wof:name":"Beselga",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":321,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

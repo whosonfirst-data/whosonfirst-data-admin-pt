@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boidobra",
+    "eurostat:nuts_2021_id":"050305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050305",
+    "eurostat:population":3246,
+    "eurostat:population_year":2020,
     "geom:area":0.001721,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":16241695.665808,
     "geom:bbox":"-7.51554904909,40.2359266881,-7.42305855076,40.2874519398",
     "geom:latitude":40.262997,
     "geom:longitude":-7.472129,
@@ -73,6 +85,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -80,6 +94,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050305",
+        "eurostat:nuts_2021_id":"050305",
         "gn:id":8011661,
         "pt-dgt:id":50305,
         "qs_pg:id":1049128
@@ -89,7 +105,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0da2c09a658dc6f9a23511989cb41e2b",
+    "wof:geomhash":"d228169a15ccc1d198c0bc976940155d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,10 +115,12 @@
         }
     ],
     "wof:id":1125395747,
-    "wof:lastmodified":1582359921,
+    "wof:lastmodified":1684354449,
     "wof:name":"Boidobra",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":3246,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

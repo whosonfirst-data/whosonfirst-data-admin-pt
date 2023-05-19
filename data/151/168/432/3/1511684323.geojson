@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030376",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morreira e Trandeiras",
+    "eurostat:nuts_2021_id":"030376",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030376",
+    "eurostat:population":1447,
+    "eurostat:population_year":2020,
     "geom:area":0.00049,
+    "geom:area_square_m":4536747.682573,
     "geom:bbox":"-8.42892737705,41.485085191,-8.38924800168,41.5100232814",
     "geom:latitude":41.497271,
     "geom:longitude":-8.406502,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Morreira e Trandeiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030376",
+        "eurostat:nuts_2021_id":"030376",
         "pt-dgt:id":"030376"
     },
     "wof:country":"PT",
     "wof:created":1576699197,
-    "wof:geomhash":"638002acae2bfdd123243c9b44647469",
+    "wof:geomhash":"15061c54699b55f097f431de582b9075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712720,
+    "wof:lastmodified":1684354675,
     "wof:name":"Morreira e Trandeiras",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1447,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

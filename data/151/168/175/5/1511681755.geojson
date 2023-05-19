@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031364",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marrancos e Arcozelo",
+    "eurostat:nuts_2021_id":"031364",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031364",
+    "eurostat:population":909,
+    "eurostat:population_year":2020,
     "geom:area":0.000701,
+    "geom:area_square_m":6479365.953104,
     "geom:bbox":"-8.54736003844,41.6548928822,-8.49965842716,41.6816652441",
     "geom:latitude":41.66655,
     "geom:longitude":-8.526121,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Marrancos e Arcozelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031364",
+        "eurostat:nuts_2021_id":"031364",
         "pt-dgt:id":"031364"
     },
     "wof:country":"PT",
     "wof:created":1576698661,
-    "wof:geomhash":"3c353bdf46ddc4a5d9cb8854125ff51c",
+    "wof:geomhash":"f013f31f40610cbaaf44195fbffb1983",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712626,
+    "wof:lastmodified":1684354580,
     "wof:name":"Marrancos e Arcozelo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":909,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

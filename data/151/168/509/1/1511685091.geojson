@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Agualonga",
+    "eurostat:nuts_2021_id":"160501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160501",
+    "eurostat:population":295,
+    "eurostat:population_year":2020,
     "geom:area":0.000577,
+    "geom:area_square_m":5315088.768595,
     "geom:bbox":"-8.6346099517,41.861514877,-8.59779131086,41.8904283675",
     "geom:latitude":41.877447,
     "geom:longitude":-8.61499,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Agualonga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160501",
+        "eurostat:nuts_2021_id":"160501",
         "pt-dgt:id":"160501"
     },
     "wof:country":"PT",
     "wof:created":1576699358,
-    "wof:geomhash":"01dcfc85e71a57057091864d794796ee",
+    "wof:geomhash":"c81b9037ff560f12d5892854f2312d48",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712741,
+    "wof:lastmodified":1684354694,
     "wof:name":"Agualonga",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":295,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

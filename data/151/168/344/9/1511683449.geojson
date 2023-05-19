@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Folhadela",
+    "eurostat:nuts_2021_id":"171409",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171409",
+    "eurostat:population":2261,
+    "eurostat:population_year":2020,
     "geom:area":0.001725,
+    "geom:area_square_m":16035582.175965,
     "geom:bbox":"-7.75560393751,41.2401616834,-7.69891096246,41.2911901332",
     "geom:latitude":41.265511,
     "geom:longitude":-7.730717,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Folhadela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171409",
+        "eurostat:nuts_2021_id":"171409",
         "pt-dgt:id":"171409"
     },
     "wof:country":"PT",
     "wof:created":1576699012,
-    "wof:geomhash":"75461c28ced9d5e9e43817dba756c883",
+    "wof:geomhash":"7260de6b0212f35dea8a7889864c4a01",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712689,
+    "wof:lastmodified":1684354641,
     "wof:name":"Folhadela",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":2261,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

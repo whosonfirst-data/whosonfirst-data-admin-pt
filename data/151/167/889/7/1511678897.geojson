@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa B\u00e1rbara de Nexe",
+    "eurostat:nuts_2021_id":"080503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080503",
+    "eurostat:population":4116,
+    "eurostat:population_year":2020,
     "geom:area":0.003874,
+    "geom:area_square_m":38203543.227019,
     "geom:bbox":"-8.00648949637,37.072884287,-7.90850159314,37.1457811791",
     "geom:latitude":37.111442,
     "geom:longitude":-7.957232,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa B\u00e1rbara de Nexe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080503",
+        "eurostat:nuts_2021_id":"080503",
         "pt-dgt:id":"080503"
     },
     "wof:country":"PT",
     "wof:created":1576697986,
-    "wof:geomhash":"5dc94fc14a0ae3a2b0f5027bdf75b426",
+    "wof:geomhash":"174bd3f64be08db57ec71bca9a8c0840",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712433,
+    "wof:lastmodified":1684354455,
     "wof:name":"Santa B\u00e1rbara de Nexe",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":4116,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

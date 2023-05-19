@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130526",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar do Torno e Alent\u00e9m",
+    "eurostat:nuts_2021_id":"130526",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130526",
+    "eurostat:population":1342,
+    "eurostat:population_year":2020,
     "geom:area":0.000406,
+    "geom:area_square_m":3769757.058272,
     "geom:bbox":"-8.23854920833,41.27379067,-8.20175448725,41.2914982008",
     "geom:latitude":41.282379,
     "geom:longitude":-8.220539,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar do Torno e Alent\u00e9m",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130526",
+        "eurostat:nuts_2021_id":"130526",
         "pt-dgt:id":"130526"
     },
     "wof:country":"PT",
     "wof:created":1576699012,
-    "wof:geomhash":"53daed34a66948bb5a1f52808a826490",
+    "wof:geomhash":"44c5ca6ce967b892824e779955f67de2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712689,
+    "wof:lastmodified":1684354641,
     "wof:name":"Vilar do Torno e Alent\u00e9m",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1342,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

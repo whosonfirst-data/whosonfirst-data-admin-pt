@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030615",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Ch\u00e3",
+    "eurostat:nuts_2021_id":"030615",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030615",
+    "eurostat:population":1419,
+    "eurostat:population_year":2020,
     "geom:area":0.000918,
+    "geom:area_square_m":8489943.121661,
     "geom:bbox":"-8.7743370354,41.5522939526,-8.73013968296,41.587588298",
     "geom:latitude":41.571811,
     "geom:longitude":-8.754623,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Ch\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030615",
+        "eurostat:nuts_2021_id":"030615",
         "pt-dgt:id":"030615"
     },
     "wof:country":"PT",
     "wof:created":1576699244,
-    "wof:geomhash":"357c6f6b67efbea33687a7a07f5e6b0b",
+    "wof:geomhash":"af72700eb8e50b716d2db09f7556fcef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712726,
+    "wof:lastmodified":1684354680,
     "wof:name":"Vila Ch\u00e3",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1419,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faj\u00e3zinha",
+    "eurostat:nuts_2021_id":"480102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480102",
+    "eurostat:population":76,
+    "eurostat:population_year":2020,
     "geom:area":0.000644,
+    "geom:area_square_m":6149906.028448,
     "geom:bbox":"-31.2640445176,39.4140708903,-31.2120820548,39.4392814068",
     "geom:latitude":39.427968,
     "geom:longitude":-31.236005,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Faj\u00e3zinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480102",
+        "eurostat:nuts_2021_id":"480102",
         "pt-dgt:id":"480102"
     },
     "wof:country":"PT",
     "wof:created":1576699444,
-    "wof:geomhash":"439f386d3ff2847927dc8a23b5f8eee1",
+    "wof:geomhash":"dc975030c36a91ac93d4d8c6a5b5d72d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720299,
+    "wof:lastmodified":1684354717,
     "wof:name":"Faj\u00e3zinha",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":76,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Roque",
+    "eurostat:nuts_2021_id":"011318",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011318",
+    "eurostat:population":5228,
+    "eurostat:population_year":2020,
     "geom:area":0.000753,
+    "geom:area_square_m":7044390.622372,
     "geom:bbox":"-8.48421520153,40.848875149,-8.45043115909,40.8932785992",
     "geom:latitude":40.87087,
     "geom:longitude":-8.467509,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Roque",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011318",
+        "eurostat:nuts_2021_id":"011318",
         "pt-dgt:id":"011318"
     },
     "wof:country":"PT",
     "wof:created":1576698417,
-    "wof:geomhash":"46976ce0729662369c52b7ff9d7dd8ef",
+    "wof:geomhash":"c3208256bb42b6eec4e97d0c5601be49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712564,
+    "wof:lastmodified":1684354536,
     "wof:name":"S\u00e3o Roque",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":5228,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

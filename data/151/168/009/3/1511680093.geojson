@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alpiar\u00e7a",
+    "eurostat:nuts_2021_id":"140401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140401",
+    "eurostat:population":7702,
+    "eurostat:population_year":2020,
     "geom:area":0.009949,
+    "geom:area_square_m":95282221.894004,
     "geom:bbox":"-8.63400953863,39.1714759787,-8.49270876906,39.3061576242",
     "geom:latitude":39.241131,
     "geom:longitude":-8.570561,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alpiar\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140401",
+        "eurostat:nuts_2021_id":"140401",
         "pt-dgt:id":"140401"
     },
     "wof:country":"PT",
     "wof:created":1576698292,
-    "wof:geomhash":"ceadffd3e8d5cfe497d22c01a68afd8c",
+    "wof:geomhash":"ab96f35ed7ad0f977fc0a868baa0fdfa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712524,
+    "wof:lastmodified":1684354510,
     "wof:name":"Alpiar\u00e7a",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":7702,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

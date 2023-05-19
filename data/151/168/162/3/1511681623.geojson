@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Cova \u00e0 Coelheira",
+    "eurostat:nuts_2021_id":"182206",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182206",
+    "eurostat:population":1109,
+    "eurostat:population_year":2020,
     "geom:area":0.003422,
+    "geom:area_square_m":31991063.719079,
     "geom:bbox":"-7.83708575783,40.8386536773,-7.74787267722,40.93977453",
     "geom:latitude":40.878971,
     "geom:longitude":-7.79632,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Cova \u00e0 Coelheira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182206",
+        "eurostat:nuts_2021_id":"182206",
         "pt-dgt:id":"182206"
     },
     "wof:country":"PT",
     "wof:created":1576698634,
-    "wof:geomhash":"0e08ae0173597d9957f2e2afb2ffa895",
+    "wof:geomhash":"b0008ec3c8d2af7565f6ac3b05c754eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712621,
+    "wof:lastmodified":1684354575,
     "wof:name":"Vila Cova \u00e0 Coelheira",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1109,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

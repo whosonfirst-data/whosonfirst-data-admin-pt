@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arrabal",
+    "eurostat:nuts_2021_id":"100902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100902",
+    "eurostat:population":2684,
+    "eurostat:population_year":2020,
     "geom:area":0.002109,
+    "geom:area_square_m":20065167.049535,
     "geom:bbox":"-8.75981570835,39.6700780977,-8.70416393889,39.7275635498",
     "geom:latitude":39.701337,
     "geom:longitude":-8.732294,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arrabal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100902",
+        "eurostat:nuts_2021_id":"100902",
         "pt-dgt:id":"100902"
     },
     "wof:country":"PT",
     "wof:created":1576698396,
-    "wof:geomhash":"3d532dace864f1e95cea96edaf20a38f",
+    "wof:geomhash":"554a1d1e8acdad65165e646498327620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712558,
+    "wof:lastmodified":1684354531,
     "wof:name":"Arrabal",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2684,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

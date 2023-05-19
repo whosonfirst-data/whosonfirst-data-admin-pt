@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160753",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ardeg\u00e3o, Freixo e Mato",
+    "eurostat:nuts_2021_id":"160753",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160753",
+    "eurostat:population":1754,
+    "eurostat:population_year":2020,
     "geom:area":0.001158,
+    "geom:area_square_m":10702344.765109,
     "geom:bbox":"-8.61367181445,41.6343144978,-8.5562051677,41.6741261682",
     "geom:latitude":41.656012,
     "geom:longitude":-8.588227,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ardeg\u00e3o, Freixo e Mato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160753",
+        "eurostat:nuts_2021_id":"160753",
         "pt-dgt:id":"160753"
     },
     "wof:country":"PT",
     "wof:created":1576698657,
-    "wof:geomhash":"490ce71372b5bc613f8ba58eb1eee9e1",
+    "wof:geomhash":"724e503435dc0a90f8e5e634dc57e2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712625,
+    "wof:lastmodified":1684354579,
     "wof:name":"Ardeg\u00e3o, Freixo e Mato",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1754,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

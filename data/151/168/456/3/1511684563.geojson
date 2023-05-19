@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabeceiras de Basto",
+    "eurostat:nuts_2021_id":"030406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030406",
+    "eurostat:population":711,
+    "eurostat:population_year":2020,
     "geom:area":0.002647,
+    "geom:area_square_m":24489183.999182,
     "geom:bbox":"-8.06890093991,41.5278810597,-7.98260716696,41.6031446119",
     "geom:latitude":41.559144,
     "geom:longitude":-8.020499,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabeceiras de Basto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030406",
+        "eurostat:nuts_2021_id":"030406",
         "pt-dgt:id":"030406"
     },
     "wof:country":"PT",
     "wof:created":1576699255,
-    "wof:geomhash":"87e0633331472ca46bdae3a84a28ca51",
+    "wof:geomhash":"0adff78210746a33f03f98ea3ee1c7d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712727,
+    "wof:lastmodified":1684354681,
     "wof:name":"Cabeceiras de Basto",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":711,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

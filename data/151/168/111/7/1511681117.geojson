@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Ant\u00f3nio dos Olivais",
+    "eurostat:nuts_2021_id":"060318",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060318",
+    "eurostat:population":38936,
+    "eurostat:population_year":2020,
     "geom:area":0.002039,
+    "geom:area_square_m":19253075.052466,
     "geom:bbox":"-8.42856113429,40.178245659,-8.37342546395,40.2381855065",
     "geom:latitude":40.210754,
     "geom:longitude":-8.400274,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santo Ant\u00f3nio dos Olivais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060318",
+        "eurostat:nuts_2021_id":"060318",
         "pt-dgt:id":"060318"
     },
     "wof:country":"PT",
     "wof:created":1576698530,
-    "wof:geomhash":"5210e5a4012156cb8183e490bac1ba22",
+    "wof:geomhash":"3931e5b639f3a223ded0bc7b6c4b4b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712600,
+    "wof:lastmodified":1684354560,
     "wof:name":"Santo Ant\u00f3nio dos Olivais",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":38936,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

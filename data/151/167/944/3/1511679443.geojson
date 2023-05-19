@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faro do Alentejo",
+    "eurostat:nuts_2021_id":"020702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020702",
+    "eurostat:population":591,
+    "eurostat:population_year":2020,
     "geom:area":0.004591,
+    "geom:area_square_m":44649596.603802,
     "geom:bbox":"-8.00330507503,38.1058273573,-7.906036732,38.1903295322",
     "geom:latitude":38.144589,
     "geom:longitude":-7.959181,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Faro do Alentejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020702",
+        "eurostat:nuts_2021_id":"020702",
         "pt-dgt:id":"020702"
     },
     "wof:country":"PT",
     "wof:created":1576698126,
-    "wof:geomhash":"76ae19b9c72cec84758ec62fc5efa798",
+    "wof:geomhash":"4183dc5bbb4f4e5e72a2361866464e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712478,
+    "wof:lastmodified":1684354483,
     "wof:name":"Faro do Alentejo",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":591,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

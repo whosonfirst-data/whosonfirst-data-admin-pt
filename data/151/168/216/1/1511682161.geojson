@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fragosela",
+    "eurostat:nuts_2021_id":"182315",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182315",
+    "eurostat:population":2662,
+    "eurostat:population_year":2020,
     "geom:area":0.001175,
+    "geom:area_square_m":11025572.440816,
     "geom:bbox":"-7.8773617499,40.6072457483,-7.82502734429,40.6474891356",
     "geom:latitude":40.628508,
     "geom:longitude":-7.850768,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fragosela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182315",
+        "eurostat:nuts_2021_id":"182315",
         "pt-dgt:id":"182315"
     },
     "wof:country":"PT",
     "wof:created":1576698745,
-    "wof:geomhash":"56baea4d87c85ff67ef22515529bbdf4",
+    "wof:geomhash":"2424ce4b2180315a27df5b05ed83b2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712639,
+    "wof:lastmodified":1684354591,
     "wof:name":"Fragosela",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":2662,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guilheiro",
+    "eurostat:nuts_2021_id":"091310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091310",
+    "eurostat:population":184,
+    "eurostat:population_year":2020,
     "geom:area":0.001462,
+    "geom:area_square_m":13661698.392505,
     "geom:bbox":"-7.43036732112,40.8800441034,-7.37885224736,40.9218209039",
     "geom:latitude":40.899885,
     "geom:longitude":-7.406874,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Guilheiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091310",
+        "eurostat:nuts_2021_id":"091310",
         "pt-dgt:id":"091310"
     },
     "wof:country":"PT",
     "wof:created":1576698868,
-    "wof:geomhash":"7a16c367f867fe3a94889a3d048143cc",
+    "wof:geomhash":"740c126753376537d359752aa8478706",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720352,
+    "wof:lastmodified":1684354612,
     "wof:name":"Guilheiro",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":184,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

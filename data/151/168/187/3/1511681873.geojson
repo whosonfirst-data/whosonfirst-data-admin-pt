@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160816",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Verdoejo",
+    "eurostat:nuts_2021_id":"160816",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160816",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.00046,
+    "geom:area_square_m":4227426.118202,
     "geom:bbox":"-8.60623727884,42.0329798643,-8.57704430885,42.0568723261",
     "geom:latitude":42.045651,
     "geom:longitude":-8.590603,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Verdoejo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160816",
+        "eurostat:nuts_2021_id":"160816",
         "pt-dgt:id":"160816"
     },
     "wof:country":"PT",
     "wof:created":1576698684,
-    "wof:geomhash":"18c1101c2c58b0652e1987c0f0868607",
+    "wof:geomhash":"cef54c7e95edf6342590bdc710a68060",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354583,
     "wof:name":"Verdoejo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

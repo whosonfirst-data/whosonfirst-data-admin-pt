@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penamaior",
+    "eurostat:nuts_2021_id":"130913",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130913",
+    "eurostat:population":3819,
+    "eurostat:population_year":2020,
     "geom:area":0.000722,
+    "geom:area_square_m":6709447.481462,
     "geom:bbox":"-8.43381003545,41.2702599182,-8.39700701109,41.3044534766",
     "geom:latitude":41.286766,
     "geom:longitude":-8.415493,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penamaior",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130913",
+        "eurostat:nuts_2021_id":"130913",
         "pt-dgt:id":"130913"
     },
     "wof:country":"PT",
     "wof:created":1576699067,
-    "wof:geomhash":"7992bdbb4aebd6f43c5279c869cd3e92",
+    "wof:geomhash":"8bd2ccd637845b03668678005e8becba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712698,
+    "wof:lastmodified":1684354649,
     "wof:name":"Penamaior",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":3819,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

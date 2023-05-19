@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111124",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cac\u00e9m e S\u00e3o Marcos",
+    "eurostat:nuts_2021_id":"111124",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111124",
+    "eurostat:population":38701,
+    "eurostat:population_year":2020,
     "geom:area":0.00046,
+    "geom:area_square_m":4439518.807096,
     "geom:bbox":"-9.31816765494,38.7465486993,-9.28758701159,38.782340186",
     "geom:latitude":38.761882,
     "geom:longitude":-9.304155,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias do Cac\u00e9m e S\u00e3o Marcos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111124",
+        "eurostat:nuts_2021_id":"111124",
         "pt-dgt:id":"111124"
     },
     "wof:country":"PT",
     "wof:created":1576698186,
-    "wof:geomhash":"33ea71e99ccec377273eb2742b9106e0",
+    "wof:geomhash":"d18a2d8a92a7f4782e807317585b58d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354492,
     "wof:name":"Cac\u00e9m e S\u00e3o Marcos",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":38701,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

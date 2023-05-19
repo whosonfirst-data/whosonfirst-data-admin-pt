@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Clara-a-Nova e Gomes Aires",
+    "eurostat:nuts_2021_id":"020210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020210",
+    "eurostat:population":955,
+    "eurostat:population_year":2020,
     "geom:area":0.017706,
+    "geom:area_square_m":173741657.842997,
     "geom:bbox":"-8.26578625057,37.3800274861,-8.06886909972,37.5622762735",
     "geom:latitude":37.479786,
     "geom:longitude":-8.168165,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santa Clara-a-Nova e Gomes Aires",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020210",
+        "eurostat:nuts_2021_id":"020210",
         "pt-dgt:id":"020210"
     },
     "wof:country":"PT",
     "wof:created":1576698025,
-    "wof:geomhash":"fff5c4a2a6b8910e4c50ccd401cb0efb",
+    "wof:geomhash":"2c7b6c3a4ea5505d7febf123c1cc70eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712453,
+    "wof:lastmodified":1684354467,
     "wof:name":"Santa Clara-a-Nova e Gomes Aires",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":955,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

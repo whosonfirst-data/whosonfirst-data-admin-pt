@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040233",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quintela de Lampa\u00e7as",
+    "eurostat:nuts_2021_id":"040233",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040233",
+    "eurostat:population":215,
+    "eurostat:population_year":2020,
     "geom:area":0.002158,
+    "geom:area_square_m":19952203.872158,
     "geom:bbox":"-6.91422340957,41.5834849085,-6.85083460199,41.6554779882",
     "geom:latitude":41.613102,
     "geom:longitude":-6.882883,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Quintela de Lampa\u00e7as",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040233",
+        "eurostat:nuts_2021_id":"040233",
         "pt-dgt:id":"040233"
     },
     "wof:country":"PT",
     "wof:created":1576698764,
-    "wof:geomhash":"675fcedc516f126f22a8f758396ca059",
+    "wof:geomhash":"7c9d042c4ea888f0e62e3825f699163a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Quintela de Lampa\u00e7as",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":215,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

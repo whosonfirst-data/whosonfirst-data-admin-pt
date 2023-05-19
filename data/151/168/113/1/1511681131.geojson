@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Me\u00e3s do Campo",
+    "eurostat:nuts_2021_id":"061006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061006",
+    "eurostat:population":1853,
+    "eurostat:population_year":2020,
     "geom:area":0.001031,
+    "geom:area_square_m":9733205.758549,
     "geom:bbox":"-8.65200170011,40.201306302,-8.60253332925,40.2400477679",
     "geom:latitude":40.221093,
     "geom:longitude":-8.629359,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Me\u00e3s do Campo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061006",
+        "eurostat:nuts_2021_id":"061006",
         "pt-dgt:id":"061006"
     },
     "wof:country":"PT",
     "wof:created":1576698533,
-    "wof:geomhash":"01b3984e0f16121eb0f96bbe6998af48",
+    "wof:geomhash":"b2badf52ab2173831001e86f72a341ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712600,
+    "wof:lastmodified":1684354560,
     "wof:name":"Me\u00e3s do Campo",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1853,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

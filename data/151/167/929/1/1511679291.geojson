@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160521",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vasc\u00f5es",
+    "eurostat:nuts_2021_id":"160521",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160521",
+    "eurostat:population":223,
+    "eurostat:population_year":2020,
     "geom:area":0.000675,
+    "geom:area_square_m":6208994.002441,
     "geom:bbox":"-8.52038835773,41.8862881797,-8.48854867547,41.9211515958",
     "geom:latitude":41.901771,
     "geom:longitude":-8.503348,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vasc\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160521",
+        "eurostat:nuts_2021_id":"160521",
         "pt-dgt:id":"160521"
     },
     "wof:country":"PT",
     "wof:created":1576698093,
-    "wof:geomhash":"c5e22bcf15facc313f220b7e5716ae36",
+    "wof:geomhash":"deb55712728b43658cc30803bd801fda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Vasc\u00f5es",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":223,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

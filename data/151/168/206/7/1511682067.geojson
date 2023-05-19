@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090721",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gon\u00e7alo Bocas",
+    "eurostat:nuts_2021_id":"090721",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090721",
+    "eurostat:population":227,
+    "eurostat:population_year":2020,
     "geom:area":0.000685,
+    "geom:area_square_m":6435520.774371,
     "geom:bbox":"-7.19286033119,40.5629616044,-7.16077056124,40.6030693828",
     "geom:latitude":40.581202,
     "geom:longitude":-7.174758,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gon\u00e7alo Bocas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090721",
+        "eurostat:nuts_2021_id":"090721",
         "pt-dgt:id":"090721"
     },
     "wof:country":"PT",
     "wof:created":1576698721,
-    "wof:geomhash":"31d813a8bd0f1a86be4cd298a276b2e5",
+    "wof:geomhash":"1b1a5ae6f6fab84b42e26c2fea49dbfe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354589,
     "wof:name":"Gon\u00e7alo Bocas",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":227,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

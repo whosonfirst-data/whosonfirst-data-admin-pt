@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Junqueira",
+    "eurostat:nuts_2021_id":"011905",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011905",
+    "eurostat:population":1067,
+    "eurostat:population_year":2020,
     "geom:area":0.001925,
+    "geom:area_square_m":18016918.95909,
     "geom:bbox":"-8.37153513563,40.7763899107,-8.30725023371,40.8301727637",
     "geom:latitude":40.802871,
     "geom:longitude":-8.335001,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Junqueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011905",
+        "eurostat:nuts_2021_id":"011905",
         "pt-dgt:id":"011905"
     },
     "wof:country":"PT",
     "wof:created":1576698857,
-    "wof:geomhash":"76009efcc4e84d1e4422985166c8ec9f",
+    "wof:geomhash":"8cecd322c64d00ab1a060cb6f2c653ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712658,
+    "wof:lastmodified":1684354609,
     "wof:name":"Junqueira",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1067,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

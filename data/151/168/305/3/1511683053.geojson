@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Av\u00f5es",
+    "eurostat:nuts_2021_id":"180502",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180502",
+    "eurostat:population":619,
+    "eurostat:population_year":2020,
     "geom:area":0.000522,
+    "geom:area_square_m":4864748.045261,
     "geom:bbox":"-7.8601919143,41.1028327861,-7.82358721366,41.1302800123",
     "geom:latitude":41.116495,
     "geom:longitude":-7.839978,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Av\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180502",
+        "eurostat:nuts_2021_id":"180502",
         "pt-dgt:id":"180502"
     },
     "wof:country":"PT",
     "wof:created":1576698931,
-    "wof:geomhash":"ca48c6030d494119235381e0531fbf36",
+    "wof:geomhash":"4b0b2896f990e86dd1eabdb160c4a0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"Av\u00f5es",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":619,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

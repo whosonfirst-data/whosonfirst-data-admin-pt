@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ovar, S\u00e3o Jo\u00e3o, Arada e S\u00e3o Vicente de Pereira Jus\u00e3",
+    "eurostat:nuts_2021_id":"011509",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011509",
+    "eurostat:population":29765,
+    "eurostat:population_year":2020,
     "geom:area":0.009228,
+    "geom:area_square_m":86290124.876008,
     "geom:bbox":"-8.69598097326,40.7957315021,-8.523237082,40.9248192526",
     "geom:latitude":40.864998,
     "geom:longitude":-8.625149,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ovar, S\u00e3o Jo\u00e3o, Arada e S\u00e3o Vicente de Pereira Jus\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011509",
+        "eurostat:nuts_2021_id":"011509",
         "pt-dgt:id":"011509"
     },
     "wof:country":"PT",
     "wof:created":1576698869,
-    "wof:geomhash":"cb44cae392f1389b924b87d4fddfd39c",
+    "wof:geomhash":"a676bff1f3d584aad900f62bf41704cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712661,
+    "wof:lastmodified":1684354612,
     "wof:name":"Ovar, S. Jo\u00e3o, Arada e S. Vicente de Pereira Jus\u00e3",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":29765,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140707",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carregueira",
+    "eurostat:nuts_2021_id":"140707",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140707",
+    "eurostat:population":2020,
+    "eurostat:population_year":2020,
     "geom:area":0.010317,
+    "geom:area_square_m":98559637.410694,
     "geom:bbox":"-8.44954203451,39.3379469015,-8.27877782316,39.4637896628",
     "geom:latitude":39.412209,
     "geom:longitude":-8.364274,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carregueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140707",
+        "eurostat:nuts_2021_id":"140707",
         "pt-dgt:id":"140707"
     },
     "wof:country":"PT",
     "wof:created":1576698315,
-    "wof:geomhash":"fc2045fee0d11a7dcc63dc3e67f13433",
+    "wof:geomhash":"2fc9e947e003f9c5691de58217e1e36a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712531,
+    "wof:lastmodified":1684354515,
     "wof:name":"Carregueira",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2020,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

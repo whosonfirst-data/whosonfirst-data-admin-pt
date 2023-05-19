@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091419",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova de Foz C\u00f4a",
+    "eurostat:nuts_2021_id":"091419",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"091419",
+    "eurostat:population":3437,
+    "eurostat:population_year":2020,
     "geom:area":0.009664,
+    "geom:area_square_m":90043401.021235,
     "geom:bbox":"-7.22451117701,41.0359115661,-7.08382522053,41.179351675",
     "geom:latitude":41.102234,
     "geom:longitude":-7.148861,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova de Foz C\u00f4a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091419",
+        "eurostat:nuts_2021_id":"091419",
         "pt-dgt:id":"091419"
     },
     "wof:country":"PT",
     "wof:created":1576698353,
-    "wof:geomhash":"f7aaf4df320fafce2bc1cc247856ad3f",
+    "wof:geomhash":"5d698d71d1bd3ac891359f449ba851ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712543,
+    "wof:lastmodified":1684354522,
     "wof:name":"Vila Nova de Foz C\u00f4a",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":3437,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

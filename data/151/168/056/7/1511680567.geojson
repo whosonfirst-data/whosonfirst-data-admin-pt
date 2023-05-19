@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ch\u00e3os",
+    "eurostat:nuts_2021_id":"141104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141104",
+    "eurostat:population":597,
+    "eurostat:population_year":2020,
     "geom:area":0.002451,
+    "geom:area_square_m":23313678.730464,
     "geom:bbox":"-8.43260737051,39.680633618,-8.37270577956,39.7520988205",
     "geom:latitude":39.711201,
     "geom:longitude":-8.405944,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ch\u00e3os",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141104",
+        "eurostat:nuts_2021_id":"141104",
         "pt-dgt:id":"141104"
     },
     "wof:country":"PT",
     "wof:created":1576698403,
-    "wof:geomhash":"83497d912f6018eadd521c67b3f3aed0",
+    "wof:geomhash":"9e4a5cb1b34a06558e0222d95c8a553c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712561,
+    "wof:lastmodified":1684354533,
     "wof:name":"Ch\u00e3os",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":597,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

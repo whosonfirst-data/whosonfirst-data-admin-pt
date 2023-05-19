@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Medelo",
+    "eurostat:nuts_2021_id":"030716",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030716",
+    "eurostat:population":1602,
+    "eurostat:population_year":2020,
     "geom:area":0.000271,
+    "geom:area_square_m":2513797.607246,
     "geom:bbox":"-8.17259061078,41.4593624642,-8.14867000516,41.4797894944",
     "geom:latitude":41.46982,
     "geom:longitude":-8.159613,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Medelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030716",
+        "eurostat:nuts_2021_id":"030716",
         "pt-dgt:id":"030716"
     },
     "wof:country":"PT",
     "wof:created":1576699178,
-    "wof:geomhash":"9cee23fef0584328592830a4c2f9d214",
+    "wof:geomhash":"912a6acbd2cdba292f3f5f1814e0a3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712717,
+    "wof:lastmodified":1684354672,
     "wof:name":"Medelo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1602,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

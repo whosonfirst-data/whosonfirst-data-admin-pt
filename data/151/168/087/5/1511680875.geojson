@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Orvalho",
+    "eurostat:nuts_2021_id":"050609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050609",
+    "eurostat:population":678,
+    "eurostat:population_year":2020,
     "geom:area":0.003514,
+    "geom:area_square_m":33277441.763517,
     "geom:bbox":"-7.82830885683,39.9906028308,-7.69108889975,40.035710407",
     "geom:latitude":40.011156,
     "geom:longitude":-7.763005,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Orvalho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050609",
+        "eurostat:nuts_2021_id":"050609",
         "pt-dgt:id":"050609"
     },
     "wof:country":"PT",
     "wof:created":1576698478,
-    "wof:geomhash":"d1e955175c0a640ffc19d37e8cb78c41",
+    "wof:geomhash":"8f551fb00df5c31bb28abf438693691b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712586,
+    "wof:lastmodified":1684354550,
     "wof:name":"Orvalho",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":678,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

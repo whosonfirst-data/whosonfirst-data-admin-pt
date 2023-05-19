@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palmeira",
+    "eurostat:nuts_2021_id":"030331",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030331",
+    "eurostat:population":5468,
+    "eurostat:population_year":2020,
     "geom:area":0.000959,
+    "geom:area_square_m":8867381.32953,
     "geom:bbox":"-8.46284352981,41.572092679,-8.41119805,41.6065542206",
     "geom:latitude":41.59113,
     "geom:longitude":-8.434231,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Palmeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030331",
+        "eurostat:nuts_2021_id":"030331",
         "pt-dgt:id":"030331"
     },
     "wof:country":"PT",
     "wof:created":1576699258,
-    "wof:geomhash":"1fb262ef5b4ebcc43fa17dc2c8c016c7",
+    "wof:geomhash":"f10d11491bfa42c8ec75e70c2b844578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712728,
+    "wof:lastmodified":1684354681,
     "wof:name":"Palmeira",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":5468,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

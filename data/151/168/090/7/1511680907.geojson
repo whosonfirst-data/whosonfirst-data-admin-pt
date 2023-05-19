@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050511",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Proen\u00e7a-a-Velha",
+    "eurostat:nuts_2021_id":"050511",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050511",
+    "eurostat:population":224,
+    "eurostat:population_year":2020,
     "geom:area":0.006118,
+    "geom:area_square_m":57935697.225039,
     "geom:bbox":"-7.29238633531,39.9738819467,-7.17874698994,40.0717289737",
     "geom:latitude":40.019016,
     "geom:longitude":-7.239506,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Proen\u00e7a-a-Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050511",
+        "eurostat:nuts_2021_id":"050511",
         "pt-dgt:id":"050511"
     },
     "wof:country":"PT",
     "wof:created":1576698484,
-    "wof:geomhash":"c4de3bd3234ed5b0442f05ccc9eebca9",
+    "wof:geomhash":"f075e51f7ce22ac46bcb13bd3bd91409",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712587,
+    "wof:lastmodified":1684354551,
     "wof:name":"Proen\u00e7a-a-Velha",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":224,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

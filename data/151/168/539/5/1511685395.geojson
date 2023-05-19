@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeira Grande (Matriz)",
+    "eurostat:nuts_2021_id":"420510",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420510",
+    "eurostat:population":3968,
+    "eurostat:population_year":2020,
     "geom:area":0.00111,
+    "geom:area_square_m":10842273.221052,
     "geom:bbox":"-25.5261550736,37.765679306,-25.4435150182,37.833160677",
     "geom:latitude":37.799874,
     "geom:longitude":-25.487158,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ribeira Grande (Matriz)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420510",
+        "eurostat:nuts_2021_id":"420510",
         "pt-dgt:id":"420510"
     },
     "wof:country":"PT",
     "wof:created":1576699425,
-    "wof:geomhash":"0a111ec077d6cab59fa343a5d32809db",
+    "wof:geomhash":"63a44850e05e3faa8c25d466a3701d22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720286,
+    "wof:lastmodified":1684354708,
     "wof:name":"Ribeira Grande (Matriz)",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3968,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

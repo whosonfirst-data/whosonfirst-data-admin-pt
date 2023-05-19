@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora de Machede",
+    "eurostat:nuts_2021_id":"070503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070503",
+    "eurostat:population":1123,
+    "eurostat:population_year":2020,
     "geom:area":0.01914,
+    "geom:area_square_m":185062030.167711,
     "geom:bbox":"-7.87259497733,38.4910771511,-7.60886289232,38.6259714885",
     "geom:latitude":38.561115,
     "geom:longitude":-7.755374,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nossa Senhora de Machede",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070503",
+        "eurostat:nuts_2021_id":"070503",
         "pt-dgt:id":"070503"
     },
     "wof:country":"PT",
     "wof:created":1576698156,
-    "wof:geomhash":"2356147f053b83f28dc21a048d1ccc95",
+    "wof:geomhash":"1f482b5badf4989ab36a365c7a8dc8d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712487,
+    "wof:lastmodified":1684354488,
     "wof:name":"Nossa Senhora de Machede",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":1123,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

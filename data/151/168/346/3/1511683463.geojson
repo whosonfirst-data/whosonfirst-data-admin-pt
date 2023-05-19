@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar de Ma\u00e7ada",
+    "eurostat:nuts_2021_id":"170118",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170118",
+    "eurostat:population":915,
+    "eurostat:population_year":2020,
     "geom:area":0.002172,
+    "geom:area_square_m":20167379.414738,
     "geom:bbox":"-7.57669295385,41.2922072167,-7.50090099075,41.3481662887",
     "geom:latitude":41.324247,
     "geom:longitude":-7.544331,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar de Ma\u00e7ada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170118",
+        "eurostat:nuts_2021_id":"170118",
         "pt-dgt:id":"170118"
     },
     "wof:country":"PT",
     "wof:created":1576699015,
-    "wof:geomhash":"3c062bf021868689d3392cf60d41ce23",
+    "wof:geomhash":"08e73a4737d56244c17797251169bfb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712690,
+    "wof:lastmodified":1684354642,
     "wof:name":"Vilar de Ma\u00e7ada",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":915,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

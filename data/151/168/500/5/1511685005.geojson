@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Dem",
+    "eurostat:nuts_2021_id":"160209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160209",
+    "eurostat:population":363,
+    "eurostat:population_year":2020,
     "geom:area":0.000697,
+    "geom:area_square_m":6422047.843413,
     "geom:bbox":"-8.79083839304,41.8188744762,-8.74398537762,41.8549617758",
     "geom:latitude":41.837636,
     "geom:longitude":-8.765688,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Dem",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160209",
+        "eurostat:nuts_2021_id":"160209",
         "pt-dgt:id":"160209"
     },
     "wof:country":"PT",
     "wof:created":1576699342,
-    "wof:geomhash":"cca5907c5c46e33f44f715013984ab7f",
+    "wof:geomhash":"3dd2c4aaa02efd3a4a725f6b56a3acd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712739,
+    "wof:lastmodified":1684354692,
     "wof:name":"Dem",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":363,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

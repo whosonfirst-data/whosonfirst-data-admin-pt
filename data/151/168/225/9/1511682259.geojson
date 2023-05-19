@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caires",
+    "eurostat:nuts_2021_id":"030105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030105",
+    "eurostat:population":868,
+    "eurostat:population_year":2020,
     "geom:area":0.00051,
+    "geom:area_square_m":4709048.194868,
     "geom:bbox":"-8.37551300752,41.6337802706,-8.33641336202,41.660175762",
     "geom:latitude":41.647098,
     "geom:longitude":-8.352815,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Caires",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030105",
+        "eurostat:nuts_2021_id":"030105",
         "pt-dgt:id":"030105"
     },
     "wof:country":"PT",
     "wof:created":1576698763,
-    "wof:geomhash":"0563ce2ffa199b0e673e04be21f33168",
+    "wof:geomhash":"8ceefd30d002e071ce7ee33e56f29a94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Caires",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":868,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

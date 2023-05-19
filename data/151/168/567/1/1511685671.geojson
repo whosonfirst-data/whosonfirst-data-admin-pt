@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_450201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Manadas (Santa B\u00e1rbara)",
+    "eurostat:nuts_2021_id":"450201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"450201",
+    "eurostat:population":374,
+    "eurostat:population_year":2020,
     "geom:area":0.00116,
+    "geom:area_square_m":11201211.437544,
     "geom:bbox":"-28.1169218703,38.6257232027,-28.05219462,38.659272368",
     "geom:latitude":38.640586,
     "geom:longitude":-28.085326,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Manadas (Santa B\u00e1rbara)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_450201",
+        "eurostat:nuts_2021_id":"450201",
         "pt-dgt:id":"450201"
     },
     "wof:country":"PT",
     "wof:created":1576703612,
-    "wof:geomhash":"df4fdb263f0241510aa3e713fdc94222",
+    "wof:geomhash":"828979458bb9adb5f1f0f7a0109af36a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720300,
+    "wof:lastmodified":1684354744,
     "wof:name":"Manadas (Santa B\u00e1rbara)",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

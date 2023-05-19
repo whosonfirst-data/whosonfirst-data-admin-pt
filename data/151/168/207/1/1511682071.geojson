@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mesquitela",
+    "eurostat:nuts_2021_id":"090310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090310",
+    "eurostat:population":238,
+    "eurostat:population_year":2020,
     "geom:area":0.001809,
+    "geom:area_square_m":16991560.999033,
     "geom:bbox":"-7.50327939645,40.5652834813,-7.44297288107,40.6060913651",
     "geom:latitude":40.585244,
     "geom:longitude":-7.472429,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mesquitela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090310",
+        "eurostat:nuts_2021_id":"090310",
         "pt-dgt:id":"090310"
     },
     "wof:country":"PT",
     "wof:created":1576698722,
-    "wof:geomhash":"665d7e5bcb9e70240a1e1718a3357b89",
+    "wof:geomhash":"1e41b00a3990cd4d18029708b8ae7863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712636,
+    "wof:lastmodified":1684354589,
     "wof:name":"Mesquitela",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":238,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

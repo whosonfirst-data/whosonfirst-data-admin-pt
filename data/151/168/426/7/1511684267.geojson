@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambeses",
+    "eurostat:nuts_2021_id":"030216",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030216",
+    "eurostat:population":1300,
+    "eurostat:population_year":2020,
     "geom:area":0.000357,
+    "geom:area_square_m":3307284.624956,
     "geom:bbox":"-8.54124165267,41.4711837578,-8.5136716068,41.4941434324",
     "geom:latitude":41.482444,
     "geom:longitude":-8.530474,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cambeses",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030216",
+        "eurostat:nuts_2021_id":"030216",
         "pt-dgt:id":"030216"
     },
     "wof:country":"PT",
     "wof:created":1576699186,
-    "wof:geomhash":"c3de914fb2562c25b56deab7ff5983cb",
+    "wof:geomhash":"55950994c56f0d92bdbd9f1daf415dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354673,
     "wof:name":"Cambeses",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1300,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

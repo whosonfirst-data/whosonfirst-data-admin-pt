@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030887",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sande Vila Nova e Sande S\u00e3o Clemente",
+    "eurostat:nuts_2021_id":"030887",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030887",
+    "eurostat:population":3434,
+    "eurostat:population_year":2020,
     "geom:area":0.000782,
+    "geom:area_square_m":7243378.145506,
     "geom:bbox":"-8.39403046951,41.4613083985,-8.34456179017,41.4945289837",
     "geom:latitude":41.47926,
     "geom:longitude":-8.367682,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sande Vila Nova e Sande S\u00e3o Clemente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030887",
+        "eurostat:nuts_2021_id":"030887",
         "pt-dgt:id":"030887"
     },
     "wof:country":"PT",
     "wof:created":1576699186,
-    "wof:geomhash":"a00d5604d7ce1892cda884d43ec1e56b",
+    "wof:geomhash":"d488692edf710b38dceebf91abb09c52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354673,
     "wof:name":"Sande Vila Nova e Sande S\u00e3o Clemente",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":3434,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

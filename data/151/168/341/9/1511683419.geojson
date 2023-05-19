@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Mamede de Ribatua",
+    "eurostat:nuts_2021_id":"170114",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170114",
+    "eurostat:population":728,
+    "eurostat:population_year":2020,
     "geom:area":0.00216,
+    "geom:area_square_m":20081269.913513,
     "geom:bbox":"-7.45830444715,41.2148258115,-7.38726957382,41.2798155075",
     "geom:latitude":41.25399,
     "geom:longitude":-7.423668,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Mamede de Ribatua",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170114",
+        "eurostat:nuts_2021_id":"170114",
         "pt-dgt:id":"170114"
     },
     "wof:country":"PT",
     "wof:created":1576699006,
-    "wof:geomhash":"801cca2dc0ce22cffcd9a16aac2deac7",
+    "wof:geomhash":"c2962c08b94729c31d3ff8b80451cf50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712688,
+    "wof:lastmodified":1684354640,
     "wof:name":"S\u00e3o Mamede de Ribatua",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":728,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aves",
+    "eurostat:nuts_2021_id":"131405",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131405",
+    "eurostat:population":8455,
+    "eurostat:population_year":2020,
     "geom:area":0.000658,
+    "geom:area_square_m":6105989.604658,
     "geom:bbox":"-8.43242170341,41.355951005,-8.386664657,41.3842886064",
     "geom:latitude":41.368286,
     "geom:longitude":-8.407748,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aves",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131405",
+        "eurostat:nuts_2021_id":"131405",
         "pt-dgt:id":"131405"
     },
     "wof:country":"PT",
     "wof:created":1576699107,
-    "wof:geomhash":"0b700fa550dc34a23d8313b059a2abb3",
+    "wof:geomhash":"f5e4cf49a325c68892030beeb7a753c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712704,
+    "wof:lastmodified":1684354657,
     "wof:name":"Aves",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":8455,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

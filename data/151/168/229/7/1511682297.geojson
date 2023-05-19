@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ratoeira",
+    "eurostat:nuts_2021_id":"090314",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090314",
+    "eurostat:population":303,
+    "eurostat:population_year":2020,
     "geom:area":0.000824,
+    "geom:area_square_m":7733301.686249,
     "geom:bbox":"-7.37151692995,40.6260326383,-7.32943984163,40.6589407116",
     "geom:latitude":40.644407,
     "geom:longitude":-7.351593,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ratoeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090314",
+        "eurostat:nuts_2021_id":"090314",
         "pt-dgt:id":"090314"
     },
     "wof:country":"PT",
     "wof:created":1576698771,
-    "wof:geomhash":"e1b7ffa389e4a794564b76249a35edbb",
+    "wof:geomhash":"3fffe225eac3e875093f3c06393c17e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712643,
+    "wof:lastmodified":1684354595,
     "wof:name":"Ratoeira",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":303,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

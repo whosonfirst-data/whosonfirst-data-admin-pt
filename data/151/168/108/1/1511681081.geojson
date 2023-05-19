@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serpins",
+    "eurostat:nuts_2021_id":"060704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060704",
+    "eurostat:population":1802,
+    "eurostat:population_year":2020,
     "geom:area":0.003819,
+    "geom:area_square_m":36084877.450493,
     "geom:bbox":"-8.23842061068,40.1220251096,-8.15152689691,40.2055481133",
     "geom:latitude":40.164539,
     "geom:longitude":-8.191136,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Serpins",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060704",
+        "eurostat:nuts_2021_id":"060704",
         "pt-dgt:id":"060704"
     },
     "wof:country":"PT",
     "wof:created":1576698523,
-    "wof:geomhash":"4cc79ed08ecad55531592abbebe163a3",
+    "wof:geomhash":"04f8c643199e6f7d778891baccc7e228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712598,
+    "wof:lastmodified":1684354558,
     "wof:name":"Serpins",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1802,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

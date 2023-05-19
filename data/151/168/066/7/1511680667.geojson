@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cebolais de Cima e Retaxo",
+    "eurostat:nuts_2021_id":"050226",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050226",
+    "eurostat:population":1869,
+    "eurostat:population_year":2020,
     "geom:area":0.002641,
+    "geom:area_square_m":25101143.629356,
     "geom:bbox":"-7.6135088658,39.73427645,-7.49505323546,39.7779432745",
     "geom:latitude":39.755066,
     "geom:longitude":-7.566279,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cebolais de Cima e Retaxo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050226",
+        "eurostat:nuts_2021_id":"050226",
         "pt-dgt:id":"050226"
     },
     "wof:country":"PT",
     "wof:created":1576698425,
-    "wof:geomhash":"acd70f4814119112b0859ac857b19d9a",
+    "wof:geomhash":"98071d890c9a1a85cf8d0e9d46abbfb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712567,
+    "wof:lastmodified":1684354537,
     "wof:name":"Cebolais de Cima e Retaxo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1869,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

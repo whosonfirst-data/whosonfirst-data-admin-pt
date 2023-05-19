@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030242",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lama",
+    "eurostat:nuts_2021_id":"030242",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030242",
+    "eurostat:population":1271,
+    "eurostat:population_year":2020,
     "geom:area":0.000353,
+    "geom:area_square_m":3262738.29762,
     "geom:bbox":"-8.56300139487,41.559926889,-8.52528038478,41.5780130283",
     "geom:latitude":41.56928,
     "geom:longitude":-8.542968,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lama",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030242",
+        "eurostat:nuts_2021_id":"030242",
         "pt-dgt:id":"030242"
     },
     "wof:country":"PT",
     "wof:created":1576699047,
-    "wof:geomhash":"9d27b87683e1d42fe499a0635cf6888e",
+    "wof:geomhash":"0b51257d6c28b1830a793bcbafd6af26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712696,
+    "wof:lastmodified":1684354647,
     "wof:name":"Lama",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1271,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

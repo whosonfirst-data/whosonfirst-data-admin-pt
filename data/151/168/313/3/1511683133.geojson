@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonte Arcada",
+    "eurostat:nuts_2021_id":"131112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131112",
+    "eurostat:population":1584,
+    "eurostat:population_year":2020,
     "geom:area":0.000517,
+    "geom:area_square_m":4816261.473902,
     "geom:bbox":"-8.38159599303,41.1364462412,-8.34310906457,41.1573288111",
     "geom:latitude":41.146973,
     "geom:longitude":-8.362369,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fonte Arcada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131112",
+        "eurostat:nuts_2021_id":"131112",
         "pt-dgt:id":"131112"
     },
     "wof:country":"PT",
     "wof:created":1576698948,
-    "wof:geomhash":"4318098912933921d5c26b53b3d4cd47",
+    "wof:geomhash":"e24f83cb49a78512bbcba64ea31c60f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712676,
+    "wof:lastmodified":1684354626,
     "wof:name":"Fonte Arcada",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1584,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

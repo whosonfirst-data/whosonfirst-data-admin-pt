@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_460305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Roque do Pico",
+    "eurostat:nuts_2021_id":"460305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"460305",
+    "eurostat:population":1316,
+    "eurostat:population_year":2020,
     "geom:area":0.004363,
+    "geom:area_square_m":42225587.921202,
     "geom:bbox":"-28.3624263208,38.462058335,-28.2421598133,38.5320215943",
     "geom:latitude":38.491231,
     "geom:longitude":-28.309167,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"S\u00e3o Roque do Pico",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_460305",
+        "eurostat:nuts_2021_id":"460305",
         "pt-dgt:id":"460305"
     },
     "wof:country":"PT",
     "wof:created":1576703602,
-    "wof:geomhash":"c972193efb053153f0643d878d8e7ada",
+    "wof:geomhash":"72347ea53b2e97aa7349fa07f50e5f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720296,
+    "wof:lastmodified":1684354741,
     "wof:name":"S\u00e3o Roque do Pico",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1316,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arranh\u00f3",
+    "eurostat:nuts_2021_id":"110201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110201",
+    "eurostat:population":2531,
+    "eurostat:population_year":2020,
     "geom:area":0.002232,
+    "geom:area_square_m":21454625.234317,
     "geom:bbox":"-9.17852725381,38.9297762292,-9.108796886,39.00009308",
     "geom:latitude":38.964173,
     "geom:longitude":-9.140842,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arranh\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110201",
+        "eurostat:nuts_2021_id":"110201",
         "pt-dgt:id":"110201"
     },
     "wof:country":"PT",
     "wof:created":1576698224,
-    "wof:geomhash":"24462a3fa2a4f955a10726e0b83068be",
+    "wof:geomhash":"66f5ea8b34510f7fb98fdc23ad89d780",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712505,
+    "wof:lastmodified":1684354499,
     "wof:name":"Arranh\u00f3",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":2531,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

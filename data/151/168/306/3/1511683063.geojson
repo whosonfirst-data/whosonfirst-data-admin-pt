@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeias",
+    "eurostat:nuts_2021_id":"180101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180101",
+    "eurostat:population":337,
+    "eurostat:population_year":2020,
     "geom:area":0.000557,
+    "geom:area_square_m":5184613.181932,
     "geom:bbox":"-7.73598299159,41.1019379002,-7.69988521777,41.135924306",
     "geom:latitude":41.11725,
     "geom:longitude":-7.714104,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aldeias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180101",
+        "eurostat:nuts_2021_id":"180101",
         "pt-dgt:id":"180101"
     },
     "wof:country":"PT",
     "wof:created":1576698934,
-    "wof:geomhash":"1ed64e8a6aca97056c4d1fd63e31de90",
+    "wof:geomhash":"670d5827d3a706f1d3af4d2336fc54ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712673,
+    "wof:lastmodified":1684354623,
     "wof:name":"Aldeias",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":337,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

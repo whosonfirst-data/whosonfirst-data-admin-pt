@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Verde de Ficalho",
+    "eurostat:nuts_2021_id":"021307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"021307",
+    "eurostat:population":1459,
+    "eurostat:population_year":2020,
     "geom:area":0.010798,
+    "geom:area_square_m":105326552.259274,
     "geom:bbox":"-7.3634474777,37.8238465289,-7.24826023759,38.0045888515",
     "geom:latitude":37.92418,
     "geom:longitude":-7.31031,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Verde de Ficalho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021307",
+        "eurostat:nuts_2021_id":"021307",
         "pt-dgt:id":"021307"
     },
     "wof:country":"PT",
     "wof:created":1576698115,
-    "wof:geomhash":"a54da765eed75d4cb5b0d4d7b8c91c39",
+    "wof:geomhash":"5c9805c4c679e8e758423efe8a6bed29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712475,
+    "wof:lastmodified":1684354481,
     "wof:name":"Vila Verde de Ficalho",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1459,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

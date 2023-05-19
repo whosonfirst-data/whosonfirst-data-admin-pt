@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110727",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sacav\u00e9m e Prior Velho",
+    "eurostat:nuts_2021_id":"110727",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110727",
+    "eurostat:population":24822,
+    "eurostat:population_year":2020,
     "geom:area":0.000403,
+    "geom:area_square_m":3882024.299148,
     "geom:bbox":"-9.13168362697,38.7827820506,-9.09936710065,38.806058754",
     "geom:latitude":38.792763,
     "geom:longitude":-9.114284,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sacav\u00e9m e Prior Velho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110727",
+        "eurostat:nuts_2021_id":"110727",
         "pt-dgt:id":"110727"
     },
     "wof:country":"PT",
     "wof:created":1576698191,
-    "wof:geomhash":"b67d150f093aada0236513db1e49e291",
+    "wof:geomhash":"cf9f4ada1e8354cd630b72af70babf9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712494,
+    "wof:lastmodified":1684354493,
     "wof:name":"Sacav\u00e9m e Prior Velho",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":24822,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

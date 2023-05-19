@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060706",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00e2ndaras",
+    "eurostat:nuts_2021_id":"060706",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060706",
+    "eurostat:population":1308,
+    "eurostat:population_year":2020,
     "geom:area":0.001061,
+    "geom:area_square_m":10030153.508254,
     "geom:bbox":"-8.30659798618,40.1151026181,-8.25203919889,40.1452667572",
     "geom:latitude":40.128026,
     "geom:longitude":-8.27752,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"G\u00e2ndaras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060706",
+        "eurostat:nuts_2021_id":"060706",
         "pt-dgt:id":"060706"
     },
     "wof:country":"PT",
     "wof:created":1576698505,
-    "wof:geomhash":"09d6520ce5c4f70794774239614bda09",
+    "wof:geomhash":"8e57eb195c15457566d9d3ab3a30b2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712594,
+    "wof:lastmodified":1684354556,
     "wof:name":"G\u00e2ndaras",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1308,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

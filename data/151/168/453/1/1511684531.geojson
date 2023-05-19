@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030374",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merelim (S\u00e3o Paio), Panoias e Parada de Tib\u00e3es",
+    "eurostat:nuts_2021_id":"030374",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030374",
+    "eurostat:population":5363,
+    "eurostat:population_year":2020,
     "geom:area":0.000579,
+    "geom:area_square_m":5352392.093742,
     "geom:bbox":"-8.4814316336,41.5526795141,-8.45249981993,41.5955408761",
     "geom:latitude":41.574918,
     "geom:longitude":-8.465578,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Merelim (S\u00e3o Paio), Panoias e Parada de Tib\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030374",
+        "eurostat:nuts_2021_id":"030374",
         "pt-dgt:id":"030374"
     },
     "wof:country":"PT",
     "wof:created":1576699248,
-    "wof:geomhash":"81d3279470a960aac3f77a07bcea1aa3",
+    "wof:geomhash":"ff66880ee98480a3f37e5ffab01e5220",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712726,
+    "wof:lastmodified":1684354680,
     "wof:name":"Merelim (S\u00e3o Paio), Panoias e Parada de Tib\u00e3es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":5363,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

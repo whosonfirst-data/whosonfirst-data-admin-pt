@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141616",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f3voa da Isenta",
+    "eurostat:nuts_2021_id":"141616",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141616",
+    "eurostat:population":1127,
+    "eurostat:population_year":2020,
     "geom:area":0.00145,
+    "geom:area_square_m":13891343.775932,
     "geom:bbox":"-8.79080202019,39.2031168066,-8.72040636792,39.23547465",
     "geom:latitude":39.219866,
     "geom:longitude":-8.754588,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"P\u00f3voa da Isenta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141616",
+        "eurostat:nuts_2021_id":"141616",
         "pt-dgt:id":"141616"
     },
     "wof:country":"PT",
     "wof:created":1576698282,
-    "wof:geomhash":"233ee77db441331cf8a1b6dfdfc5e6da",
+    "wof:geomhash":"da8ec8cc6d984aa5f3d854aef8720bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712521,
+    "wof:lastmodified":1684354508,
     "wof:name":"P\u00f3voa da Isenta",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1127,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

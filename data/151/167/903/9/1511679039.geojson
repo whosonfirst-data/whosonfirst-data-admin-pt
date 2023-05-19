@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rel\u00edquias",
+    "eurostat:nuts_2021_id":"021102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"021102",
+    "eurostat:population":931,
+    "eurostat:population_year":2020,
     "geom:area":0.012267,
+    "geom:area_square_m":120023407.795568,
     "geom:bbox":"-8.61706055577,37.6317951642,-8.44968362883,37.760415596",
     "geom:latitude":37.694489,
     "geom:longitude":-8.532886,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rel\u00edquias",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021102",
+        "eurostat:nuts_2021_id":"021102",
         "pt-dgt:id":"021102"
     },
     "wof:country":"PT",
     "wof:created":1576698035,
-    "wof:geomhash":"42d476bd2d5ef09b79c84b2b440f9c0a",
+    "wof:geomhash":"cd5e63a5100a8d6269b6abbc007dfa11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712458,
+    "wof:lastmodified":1684354470,
     "wof:name":"Rel\u00edquias",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":931,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

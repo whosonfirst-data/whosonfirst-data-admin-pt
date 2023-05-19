@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arruda dos Vinhos",
+    "eurostat:nuts_2021_id":"110202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110202",
+    "eurostat:population":8656,
+    "eurostat:population_year":2020,
     "geom:area":0.003574,
+    "geom:area_square_m":34347014.91326,
     "geom:bbox":"-9.10567441905,38.9536479585,-9.02327468225,39.0287945334",
     "geom:latitude":38.993124,
     "geom:longitude":-9.06983,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arruda dos Vinhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110202",
+        "eurostat:nuts_2021_id":"110202",
         "pt-dgt:id":"110202"
     },
     "wof:country":"PT",
     "wof:created":1576698231,
-    "wof:geomhash":"5d74d0c319fc0919a7ae40c959a15d13",
+    "wof:geomhash":"52b90781cd1fdc5d22209920eb05f43e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712507,
+    "wof:lastmodified":1684354500,
     "wof:name":"Arruda dos Vinhos",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":8656,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

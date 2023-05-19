@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182131",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Miguel do Outeiro e Sabugosa",
+    "eurostat:nuts_2021_id":"182131",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182131",
+    "eurostat:population":1458,
+    "eurostat:population_year":2020,
     "geom:area":0.001972,
+    "geom:area_square_m":18517336.03916,
     "geom:bbox":"-8.07476540324,40.551049483,-7.99589824769,40.6212684916",
     "geom:latitude":40.586645,
     "geom:longitude":-8.033415,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Miguel do Outeiro e Sabugosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182131",
+        "eurostat:nuts_2021_id":"182131",
         "pt-dgt:id":"182131"
     },
     "wof:country":"PT",
     "wof:created":1576698727,
-    "wof:geomhash":"2077beba177d69cc8cbbcb6b2ee5740f",
+    "wof:geomhash":"e45fa4be2599be1a3888c90c50d81073",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712637,
+    "wof:lastmodified":1684354590,
     "wof:name":"S\u00e3o Miguel do Outeiro e Sabugosa",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1458,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

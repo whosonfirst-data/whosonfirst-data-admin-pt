@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lusinde",
+    "eurostat:nuts_2021_id":"181106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181106",
+    "eurostat:population":189,
+    "eurostat:population_year":2020,
     "geom:area":0.000299,
+    "geom:area_square_m":2803729.508921,
     "geom:bbox":"-7.74383659478,40.6771349784,-7.71444342483,40.6962441396",
     "geom:latitude":40.689067,
     "geom:longitude":-7.72736,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lusinde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181106",
+        "eurostat:nuts_2021_id":"181106",
         "pt-dgt:id":"181106"
     },
     "wof:country":"PT",
     "wof:created":1576698800,
-    "wof:geomhash":"47d6f062a9209b0b83dd80c85dd05126",
+    "wof:geomhash":"0fd87b440497e98e88c3587ff0cfcd6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712648,
+    "wof:lastmodified":1684354600,
     "wof:name":"Lusinde",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":189,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

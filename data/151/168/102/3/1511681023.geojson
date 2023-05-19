@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miranda do Corvo",
+    "eurostat:nuts_2021_id":"060902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060902",
+    "eurostat:population":7614,
+    "eurostat:population_year":2020,
     "geom:area":0.004913,
+    "geom:area_square_m":46472166.227675,
     "geom:bbox":"-8.37960279472,40.0511759187,-8.2431419808,40.1621913311",
     "geom:latitude":40.098029,
     "geom:longitude":-8.328159,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Miranda do Corvo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060902",
+        "eurostat:nuts_2021_id":"060902",
         "pt-dgt:id":"060902"
     },
     "wof:country":"PT",
     "wof:created":1576698511,
-    "wof:geomhash":"aacde7b456e4632fb443e4baeb4da46c",
+    "wof:geomhash":"7a3a50eace4c7cd086a668555a4e2577",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712596,
+    "wof:lastmodified":1684354557,
     "wof:name":"Miranda do Corvo",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":7614,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

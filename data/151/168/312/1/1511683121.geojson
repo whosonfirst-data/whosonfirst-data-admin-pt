@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grilo",
+    "eurostat:nuts_2021_id":"130207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130207",
+    "eurostat:population":590,
+    "eurostat:population_year":2020,
     "geom:area":0.000637,
+    "geom:area_square_m":5936678.040888,
     "geom:bbox":"-8.09743986343,41.1181186329,-8.06333204199,41.1534985973",
     "geom:latitude":41.136926,
     "geom:longitude":-8.077849,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Grilo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130207",
+        "eurostat:nuts_2021_id":"130207",
         "pt-dgt:id":"130207"
     },
     "wof:country":"PT",
     "wof:created":1576698945,
-    "wof:geomhash":"0d60f797c5ce295e6170164fe90254ad",
+    "wof:geomhash":"2765fc1c4aac4b941a4a50963ccd9896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712675,
+    "wof:lastmodified":1684354625,
     "wof:name":"Grilo",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":590,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

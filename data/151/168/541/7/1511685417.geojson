@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salga",
+    "eurostat:nuts_2021_id":"420206",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420206",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.000789,
+    "geom:area_square_m":7707825.364075,
     "geom:bbox":"-25.3085146006,37.7907946963,-25.2667571214,37.8573964114",
     "geom:latitude":37.820319,
     "geom:longitude":-25.292326,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Salga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420206",
+        "eurostat:nuts_2021_id":"420206",
         "pt-dgt:id":"420206"
     },
     "wof:country":"PT",
     "wof:created":1576699432,
-    "wof:geomhash":"60bbbe56caf6d76b298ccb75ed93b5a0",
+    "wof:geomhash":"e5a386f110ec6e7b69f104f8619b2bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720305,
+    "wof:lastmodified":1684354712,
     "wof:name":"Salga",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Azinhaga",
+    "eurostat:nuts_2021_id":"141201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141201",
+    "eurostat:population":1620,
+    "eurostat:population_year":2020,
     "geom:area":0.003994,
+    "geom:area_square_m":38180462.32933,
     "geom:bbox":"-8.57829241933,39.3177910773,-8.48849781466,39.4058620498",
     "geom:latitude":39.364544,
     "geom:longitude":-8.534669,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Azinhaga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141201",
+        "eurostat:nuts_2021_id":"141201",
         "pt-dgt:id":"141201"
     },
     "wof:country":"PT",
     "wof:created":1576698301,
-    "wof:geomhash":"e4995af472709985fca2ea639a5edf80",
+    "wof:geomhash":"f7a707e66c822e54542afb5faa4b4004",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712527,
+    "wof:lastmodified":1684354512,
     "wof:name":"Azinhaga",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1620,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

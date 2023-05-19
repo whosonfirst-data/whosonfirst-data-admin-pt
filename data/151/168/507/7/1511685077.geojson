@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170636",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cambeses do Rio, Don\u00f5es e Mourilhe",
+    "eurostat:nuts_2021_id":"170636",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170636",
+    "eurostat:population":309,
+    "eurostat:population_year":2020,
     "geom:area":0.00491,
+    "geom:area_square_m":45237455.739993,
     "geom:bbox":"-7.87335413393,41.7846329501,-7.80381790998,41.8817280899",
     "geom:latitude":41.833266,
     "geom:longitude":-7.837218,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cambeses do Rio, Don\u00f5es e Mourilhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170636",
+        "eurostat:nuts_2021_id":"170636",
         "pt-dgt:id":"170636"
     },
     "wof:country":"PT",
     "wof:created":1576699356,
-    "wof:geomhash":"74de8e5f990cc7f5a58894b484249f05",
+    "wof:geomhash":"a96ab408ec811fa0c2255277165201fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712741,
+    "wof:lastmodified":1684354694,
     "wof:name":"Cambeses do Rio, Don\u00f5es e Mourilhe",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":309,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

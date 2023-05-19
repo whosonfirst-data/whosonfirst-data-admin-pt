@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060521",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreira-a-Nova",
+    "eurostat:nuts_2021_id":"060521",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060521",
+    "eurostat:population":2477,
+    "eurostat:population_year":2020,
     "geom:area":0.002944,
+    "geom:area_square_m":27800158.056856,
     "geom:bbox":"-8.76086296733,40.1598709889,-8.69987548416,40.2920500035",
     "geom:latitude":40.222145,
     "geom:longitude":-8.73301,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ferreira-a-Nova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060521",
+        "eurostat:nuts_2021_id":"060521",
         "pt-dgt:id":"060521"
     },
     "wof:country":"PT",
     "wof:created":1576698550,
-    "wof:geomhash":"2755b5d8fff7de463ffa28a5b3ecac00",
+    "wof:geomhash":"4e3ff00013fa240518289bc4e4e04a42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712604,
+    "wof:lastmodified":1684354562,
     "wof:name":"Ferreira-a-Nova",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2477,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

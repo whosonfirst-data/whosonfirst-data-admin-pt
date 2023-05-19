@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091330",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freches e Torres",
+    "eurostat:nuts_2021_id":"091330",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091330",
+    "eurostat:population":593,
+    "eurostat:population_year":2020,
     "geom:area":0.002543,
+    "geom:area_square_m":23823701.611549,
     "geom:bbox":"-7.3760085482,40.7020878389,-7.29399706542,40.7585602309",
     "geom:latitude":40.733821,
     "geom:longitude":-7.343149,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Freches e Torres",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091330",
+        "eurostat:nuts_2021_id":"091330",
         "pt-dgt:id":"091330"
     },
     "wof:country":"PT",
     "wof:created":1576698832,
-    "wof:geomhash":"a17b22d090a60d2d00ccedfff10937a0",
+    "wof:geomhash":"96a0785e55b51bc9c8e61b9fa657e6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712653,
+    "wof:lastmodified":1684354605,
     "wof:name":"Freches e Torres",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":593,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

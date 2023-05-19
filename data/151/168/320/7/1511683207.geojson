@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Soutelo do Douro",
+    "eurostat:nuts_2021_id":"181509",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181509",
+    "eurostat:population":459,
+    "eurostat:population_year":2020,
     "geom:area":0.00191,
+    "geom:area_square_m":17775733.933197,
     "geom:bbox":"-7.47087658964,41.1591014267,-7.40863814821,41.2146578219",
     "geom:latitude":41.189869,
     "geom:longitude":-7.440444,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Soutelo do Douro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181509",
+        "eurostat:nuts_2021_id":"181509",
         "pt-dgt:id":"181509"
     },
     "wof:country":"PT",
     "wof:created":1576698964,
-    "wof:geomhash":"ecd78437018efed3097c6ae99ea14d3c",
+    "wof:geomhash":"04fdd33f14924c466abca9fa2a3bcbce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712679,
+    "wof:lastmodified":1684354629,
     "wof:name":"Soutelo do Douro",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":459,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

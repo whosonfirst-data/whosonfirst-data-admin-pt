@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110639",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Domingos de Benfica",
+    "eurostat:nuts_2021_id":"110639",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110639",
+    "eurostat:population":33043,
+    "eurostat:population_year":2020,
     "geom:area":0.000445,
+    "geom:area_square_m":4290455.586185,
     "geom:bbox":"-9.19017383902,38.7343981011,-9.15750243198,38.7576403393",
     "geom:latitude":38.746447,
     "geom:longitude":-9.176374,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Domingos de Benfica",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110639",
+        "eurostat:nuts_2021_id":"110639",
         "pt-dgt:id":"110639"
     },
     "wof:country":"PT",
     "wof:created":1576698042,
-    "wof:geomhash":"c7a5eda11f3262de5376aa247e5b9e24",
+    "wof:geomhash":"914bfbaa88d89fc1f448b9ea1ab411ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712460,
+    "wof:lastmodified":1684354472,
     "wof:name":"S\u00e3o Domingos de Benfica",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":33043,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

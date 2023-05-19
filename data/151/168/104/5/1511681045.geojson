@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unhais-o-Velho",
+    "eurostat:nuts_2021_id":"061209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061209",
+    "eurostat:population":458,
+    "eurostat:population_year":2020,
     "geom:area":0.004182,
+    "geom:area_square_m":39533242.549175,
     "geom:bbox":"-7.87929962469,40.1015629659,-7.76905741501,40.1817720343",
     "geom:latitude":40.139855,
     "geom:longitude":-7.817294,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Unhais-o-Velho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061209",
+        "eurostat:nuts_2021_id":"061209",
         "pt-dgt:id":"061209"
     },
     "wof:country":"PT",
     "wof:created":1576698515,
-    "wof:geomhash":"68af5e2151223fc1268e77c78bbd60da",
+    "wof:geomhash":"b697295cec57e9a15a34d33f1c28efc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712597,
+    "wof:lastmodified":1684354557,
     "wof:name":"Unhais-o-Velho",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":458,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

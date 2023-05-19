@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avel\u00e3s de Cima",
+    "eurostat:nuts_2021_id":"010305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010305",
+    "eurostat:population":2185,
+    "eurostat:population_year":2020,
     "geom:area":0.00431,
+    "geom:area_square_m":40532800.710503,
     "geom:bbox":"-8.43647536629,40.4598105657,-8.31149471543,40.5125261517",
     "geom:latitude":40.485559,
     "geom:longitude":-8.378341,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Avel\u00e3s de Cima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010305",
+        "eurostat:nuts_2021_id":"010305",
         "pt-dgt:id":"010305"
     },
     "wof:country":"PT",
     "wof:created":1576698063,
-    "wof:geomhash":"502232b3ecf1a9f712f0706a8f4f9266",
+    "wof:geomhash":"d14bca4e1bc181dcf50f2091e4abd1d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712467,
+    "wof:lastmodified":1684354475,
     "wof:name":"Avel\u00e3s de Cima",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2185,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

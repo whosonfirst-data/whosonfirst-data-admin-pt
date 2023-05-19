@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060412",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sebal e Belide",
+    "eurostat:nuts_2021_id":"060412",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060412",
+    "eurostat:population":2723,
+    "eurostat:population_year":2020,
     "geom:area":0.001372,
+    "geom:area_square_m":12972501.778673,
     "geom:bbox":"-8.57047545216,40.1091457899,-8.49366651378,40.1465439546",
     "geom:latitude":40.128863,
     "geom:longitude":-8.529074,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sebal e Belide",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060412",
+        "eurostat:nuts_2021_id":"060412",
         "pt-dgt:id":"060412"
     },
     "wof:country":"PT",
     "wof:created":1576698506,
-    "wof:geomhash":"33cf9994c0e38b21e174065b6e6dce1a",
+    "wof:geomhash":"2315d5d252e5ba026572f3ec76166685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354556,
     "wof:name":"Sebal e Belide",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2723,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

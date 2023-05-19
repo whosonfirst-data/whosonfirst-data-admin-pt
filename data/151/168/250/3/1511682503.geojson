@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forninhos",
+    "eurostat:nuts_2021_id":"090107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"090107",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.001025,
+    "geom:area_square_m":9605699.22199,
     "geom:bbox":"-7.57621555866,40.6903022186,-7.51830527304,40.7259787986",
     "geom:latitude":40.705379,
     "geom:longitude":-7.543264,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Forninhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090107",
+        "eurostat:nuts_2021_id":"090107",
         "pt-dgt:id":"090107"
     },
     "wof:country":"PT",
     "wof:created":1576698816,
-    "wof:geomhash":"f58b810acf389a3dcf43a754f310930c",
+    "wof:geomhash":"9a092dde09b17c64e14d598d1f851908",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712650,
+    "wof:lastmodified":1684354602,
     "wof:name":"Forninhos",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

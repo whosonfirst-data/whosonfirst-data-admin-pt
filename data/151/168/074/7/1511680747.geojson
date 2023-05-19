@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100940",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Souto da Carpalhosa e Ortigosa",
+    "eurostat:nuts_2021_id":"100940",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100940",
+    "eurostat:population":5834,
+    "eurostat:population_year":2020,
     "geom:area":0.004442,
+    "geom:area_square_m":42169324.611132,
     "geom:bbox":"-8.86014768709,39.8069536321,-8.75502281811,39.8750833106",
     "geom:latitude":39.841248,
     "geom:longitude":-8.812813,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Souto da Carpalhosa e Ortigosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100940",
+        "eurostat:nuts_2021_id":"100940",
         "pt-dgt:id":"100940"
     },
     "wof:country":"PT",
     "wof:created":1576698447,
-    "wof:geomhash":"b477557fe768e795356840f444414a06",
+    "wof:geomhash":"9ca690cc396fa717542b7efffdb83f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712575,
+    "wof:lastmodified":1684354543,
     "wof:name":"Souto da Carpalhosa e Ortigosa",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":5834,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

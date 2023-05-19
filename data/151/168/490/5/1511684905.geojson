@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160630",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Ch\u00e3 (S\u00e3o Jo\u00e3o Baptista e Santiago)",
+    "eurostat:nuts_2021_id":"160630",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160630",
+    "eurostat:population":623,
+    "eurostat:population_year":2020,
     "geom:area":0.001815,
+    "geom:area_square_m":16735637.179759,
     "geom:bbox":"-8.35354134785,41.76104969,-8.29238255641,41.8152101214",
     "geom:latitude":41.789773,
     "geom:longitude":-8.321554,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vila Ch\u00e3 (S\u00e3o Jo\u00e3o Baptista e Santiago)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160630",
+        "eurostat:nuts_2021_id":"160630",
         "pt-dgt:id":"160630"
     },
     "wof:country":"PT",
     "wof:created":1576699323,
-    "wof:geomhash":"64e875697596e08d52a58890ee651ae0",
+    "wof:geomhash":"e713ea47e9ce17d622a845936bebc6ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Vila Ch\u00e3 (S\u00e3o Jo\u00e3o Baptista e Santiago)",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":623,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

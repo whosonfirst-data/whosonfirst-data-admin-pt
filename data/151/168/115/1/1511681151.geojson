@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poiares (Santo Andr\u00e9)",
+    "eurostat:nuts_2021_id":"061703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061703",
+    "eurostat:population":4306,
+    "eurostat:population_year":2020,
     "geom:area":0.003047,
+    "geom:area_square_m":28776981.646489,
     "geom:bbox":"-8.31179329913,40.176043722,-8.21885792954,40.2539065651",
     "geom:latitude":40.204872,
     "geom:longitude":-8.259549,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Poiares (Santo Andr\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061703",
+        "eurostat:nuts_2021_id":"061703",
         "pt-dgt:id":"061703"
     },
     "wof:country":"PT",
     "wof:created":1576698537,
-    "wof:geomhash":"2442bbed16d483fe274fa7df43c78762",
+    "wof:geomhash":"39b00f31fef892ca9de3162e2c6db426",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712601,
+    "wof:lastmodified":1684354560,
     "wof:name":"Poiares (Santo Andr\u00e9)",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":4306,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvite",
+    "eurostat:nuts_2021_id":"180702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180702",
+    "eurostat:population":1095,
+    "eurostat:population_year":2020,
     "geom:area":0.002063,
+    "geom:area_square_m":19262652.506943,
     "geom:bbox":"-7.75733440335,40.9387643996,-7.68904611053,40.9909769677",
     "geom:latitude":40.96293,
     "geom:longitude":-7.717668,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvite",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180702",
+        "eurostat:nuts_2021_id":"180702",
         "pt-dgt:id":"180702"
     },
     "wof:country":"PT",
     "wof:created":1576698878,
-    "wof:geomhash":"d7f7e7b792fe0c7b6a06c7f3df277e5f",
+    "wof:geomhash":"14858d8c51a83caa79a1de1a6715ad92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712663,
+    "wof:lastmodified":1684354613,
     "wof:name":"Alvite",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1095,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080206",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoutim e Pereiro",
+    "eurostat:nuts_2021_id":"080206",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080206",
+    "eurostat:population":1134,
+    "eurostat:population_year":2020,
     "geom:area":0.023537,
+    "geom:area_square_m":231064871.655594,
     "geom:bbox":"-7.64866135142,37.3689731867,-7.43708185619,37.5291306646",
     "geom:latitude":37.44537,
     "geom:longitude":-7.544111,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alcoutim e Pereiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080206",
+        "eurostat:nuts_2021_id":"080206",
         "pt-dgt:id":"080206"
     },
     "wof:country":"PT",
     "wof:created":1576698023,
-    "wof:geomhash":"6879a386a57f367700011a72442e0306",
+    "wof:geomhash":"b07c6fbb50595bb86e81575172df2954",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712452,
+    "wof:lastmodified":1684354466,
     "wof:name":"Alcoutim e Pereiro",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":1134,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

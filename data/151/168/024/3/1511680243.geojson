@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora de F\u00e1tima",
+    "eurostat:nuts_2021_id":"141002",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141002",
+    "eurostat:population":12630,
+    "eurostat:population_year":2020,
     "geom:area":0.00096,
+    "geom:area_square_m":9159432.419202,
     "geom:bbox":"-8.49963236078,39.4434949045,-8.45686171252,39.4924416709",
     "geom:latitude":39.469287,
     "geom:longitude":-8.481283,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nossa Senhora de F\u00e1tima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141002",
+        "eurostat:nuts_2021_id":"141002",
         "pt-dgt:id":"141002"
     },
     "wof:country":"PT",
     "wof:created":1576698325,
-    "wof:geomhash":"c81bde98504852a6a065887e28586855",
+    "wof:geomhash":"c73db16b91dfb410b540648d9994b44d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712534,
+    "wof:lastmodified":1684354517,
     "wof:name":"Nossa Senhora de F\u00e1tima",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":12630,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

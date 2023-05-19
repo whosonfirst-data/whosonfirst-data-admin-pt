@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Chancelaria",
+    "eurostat:nuts_2021_id":"120102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120102",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.007482,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":71640493.780896,
     "geom:bbox":"-7.87875319786,39.2163780973,-7.70451406998,39.2895192704",
     "geom:latitude":39.255833,
     "geom:longitude":-7.802286,
@@ -49,7 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120102",
+        "eurostat:nuts_2021_id":"120102",
         "gn:id":6930691,
         "pt-dgt:id":120102,
         "qs_pg:id":652910
@@ -66,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"842d312e45b3197925535c8070d4c5a0",
+    "wof:geomhash":"7d638120be7a43ce9b9c577f51d51724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1125375749,
-    "wof:lastmodified":1582359919,
+    "wof:lastmodified":1684354446,
     "wof:name":"Chancelaria",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
-    "wof:population":536,
+    "wof:population":448,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

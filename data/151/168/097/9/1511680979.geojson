@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Seca e Bem da F\u00e9",
+    "eurostat:nuts_2021_id":"060413",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060413",
+    "eurostat:population":988,
+    "eurostat:population_year":2020,
     "geom:area":0.001719,
+    "geom:area_square_m":16254629.059319,
     "geom:bbox":"-8.45101073345,40.0719710715,-8.39819887014,40.1291380725",
     "geom:latitude":40.099037,
     "geom:longitude":-8.423227,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vila Seca e Bem da F\u00e9",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060413",
+        "eurostat:nuts_2021_id":"060413",
         "pt-dgt:id":"060413"
     },
     "wof:country":"PT",
     "wof:created":1576698501,
-    "wof:geomhash":"aff0d4d180009b51f2e89bfbb038d47c",
+    "wof:geomhash":"9e9d4c01cc41e4bbf3f6647522944781",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712593,
+    "wof:lastmodified":1684354555,
     "wof:name":"Vila Seca e Bem da F\u00e9",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":988,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

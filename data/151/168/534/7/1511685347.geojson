@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ponta Gar\u00e7a",
+    "eurostat:nuts_2021_id":"420602",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420602",
+    "eurostat:population":3547,
+    "eurostat:population_year":2020,
     "geom:area":0.003002,
+    "geom:area_square_m":29348447.874166,
     "geom:bbox":"-25.4104617849,37.7132227598,-25.335376754,37.7814058053",
     "geom:latitude":37.744632,
     "geom:longitude":-25.376953,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ponta Gar\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420602",
+        "eurostat:nuts_2021_id":"420602",
         "pt-dgt:id":"420602"
     },
     "wof:country":"PT",
     "wof:created":1576699413,
-    "wof:geomhash":"dc5761fe1b340b59056d8a38431ee947",
+    "wof:geomhash":"7ef9b89f37e4dbdf8ec9d1c6f462bdbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720303,
+    "wof:lastmodified":1684354700,
     "wof:name":"Ponta Gar\u00e7a",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3547,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

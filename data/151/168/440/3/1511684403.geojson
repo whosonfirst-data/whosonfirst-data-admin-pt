@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jou",
+    "eurostat:nuts_2021_id":"170704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170704",
+    "eurostat:population":654,
+    "eurostat:population_year":2020,
     "geom:area":0.00402,
+    "geom:area_square_m":37238540.485691,
     "geom:bbox":"-7.48454249388,41.4522621094,-7.38347066555,41.5278653565",
     "geom:latitude":41.484465,
     "geom:longitude":-7.433172,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Jou",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170704",
+        "eurostat:nuts_2021_id":"170704",
         "pt-dgt:id":"170704"
     },
     "wof:country":"PT",
     "wof:created":1576699219,
-    "wof:geomhash":"b861743d3e873e2ff14f45a168747d28",
+    "wof:geomhash":"3f15d3a0157875ced63afa3064787c92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354677,
     "wof:name":"Jou",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":654,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

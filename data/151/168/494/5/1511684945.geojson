@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160920",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montaria",
+    "eurostat:nuts_2021_id":"160920",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160920",
+    "eurostat:population":549,
+    "eurostat:population_year":2020,
     "geom:area":0.00243,
+    "geom:area_square_m":22398780.774861,
     "geom:bbox":"-8.76041422222,41.7732104359,-8.6877737056,41.829707898",
     "geom:latitude":41.803774,
     "geom:longitude":-8.727952,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montaria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160920",
+        "eurostat:nuts_2021_id":"160920",
         "pt-dgt:id":"160920"
     },
     "wof:country":"PT",
     "wof:created":1576699331,
-    "wof:geomhash":"98255532577b43740d5b6275831b9cd7",
+    "wof:geomhash":"c622d902c6e5348dddfbf39b0e51babd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Montaria",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":549,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

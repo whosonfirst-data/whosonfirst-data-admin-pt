@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110730",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Ant\u00f3nio dos Cavaleiros e Frielas",
+    "eurostat:nuts_2021_id":"110730",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110730",
+    "eurostat:population":28052,
+    "eurostat:population_year":2020,
     "geom:area":0.000954,
+    "geom:area_square_m":9188672.571273,
     "geom:bbox":"-9.18947705954,38.7995650761,-9.12854703202,38.8371645548",
     "geom:latitude":38.817123,
     "geom:longitude":-9.155153,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santo Ant\u00f3nio dos Cavaleiros e Frielas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110730",
+        "eurostat:nuts_2021_id":"110730",
         "pt-dgt:id":"110730"
     },
     "wof:country":"PT",
     "wof:created":1576698198,
-    "wof:geomhash":"7db3fbc0cd78e6b7eb87afe14ebc2584",
+    "wof:geomhash":"71ebafef3168cae356e988457d79ff0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712496,
+    "wof:lastmodified":1684354494,
     "wof:name":"Santo Ant\u00f3nio dos Cavaleiros e Frielas",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":28052,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

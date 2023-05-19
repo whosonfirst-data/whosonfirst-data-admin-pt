@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beir\u00e3",
+    "eurostat:nuts_2021_id":"121001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121001",
+    "eurostat:population":498,
+    "eurostat:population_year":2020,
     "geom:area":0.004684,
+    "geom:area_square_m":44716301.236124,
     "geom:bbox":"-7.41478795797,39.4164103466,-7.30496507785,39.4952683667",
     "geom:latitude":39.457764,
     "geom:longitude":-7.36955,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Beir\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121001",
+        "eurostat:nuts_2021_id":"121001",
         "pt-dgt:id":"121001"
     },
     "wof:country":"PT",
     "wof:created":1576698327,
-    "wof:geomhash":"66a710506e64c1288d61025151daed6b",
+    "wof:geomhash":"89b0e78131ef9530844b2c26e8a49edb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712535,
+    "wof:lastmodified":1684354517,
     "wof:name":"Beir\u00e3",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":498,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

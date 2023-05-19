@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borba (Matriz)",
+    "eurostat:nuts_2021_id":"070301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070301",
+    "eurostat:population":3779,
+    "eurostat:population_year":2020,
     "geom:area":0.004285,
+    "geom:area_square_m":41286800.772326,
     "geom:bbox":"-7.50865733567,38.7741674,-7.39167306192,38.8450471285",
     "geom:latitude":38.81068,
     "geom:longitude":-7.443375,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Borba (Matriz)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070301",
+        "eurostat:nuts_2021_id":"070301",
         "pt-dgt:id":"070301"
     },
     "wof:country":"PT",
     "wof:created":1576698200,
-    "wof:geomhash":"bec73cdeb0daa2b4f152e1f4709e591f",
+    "wof:geomhash":"a619ee627fa2dad43fbe1d5d38fb4468",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712497,
+    "wof:lastmodified":1684354494,
     "wof:name":"Borba (Matriz)",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":3779,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Louri\u00e7al do Campo",
+    "eurostat:nuts_2021_id":"050212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050212",
+    "eurostat:population":636,
+    "eurostat:population_year":2020,
     "geom:area":0.002353,
+    "geom:area_square_m":22281804.475146,
     "geom:bbox":"-7.53598094841,39.9850660429,-7.48018946608,40.0718074753",
     "geom:latitude":40.028916,
     "geom:longitude":-7.508756,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Louri\u00e7al do Campo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050212",
+        "eurostat:nuts_2021_id":"050212",
         "pt-dgt:id":"050212"
     },
     "wof:country":"PT",
     "wof:created":1576698484,
-    "wof:geomhash":"369277da4cd45dc467cc5cc1f6ea9c3f",
+    "wof:geomhash":"e459c62b6befe8cbde6ef9359d8f19dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712587,
+    "wof:lastmodified":1684354551,
     "wof:name":"Louri\u00e7al do Campo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":636,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

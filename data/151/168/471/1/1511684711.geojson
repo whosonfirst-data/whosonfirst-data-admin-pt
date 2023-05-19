@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170344",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar de Nantes",
+    "eurostat:nuts_2021_id":"170344",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170344",
+    "eurostat:population":2084,
+    "eurostat:population_year":2020,
     "geom:area":0.000787,
+    "geom:area_square_m":7264569.80722,
     "geom:bbox":"-7.46788051539,41.6907772139,-7.42601229178,41.7299845241",
     "geom:latitude":41.711002,
     "geom:longitude":-7.448949,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar de Nantes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170344",
+        "eurostat:nuts_2021_id":"170344",
         "pt-dgt:id":"170344"
     },
     "wof:country":"PT",
     "wof:created":1576699286,
-    "wof:geomhash":"6f8eaeaaf0a3bba0673a4a142b5a6922",
+    "wof:geomhash":"ac4e0e881ba2b5b8f265491eec9e3f88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712731,
+    "wof:lastmodified":1684354685,
     "wof:name":"Vilar de Nantes",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":2084,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

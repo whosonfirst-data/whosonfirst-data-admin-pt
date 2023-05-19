@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ca\u00edde de Rei",
+    "eurostat:nuts_2021_id":"130504",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130504",
+    "eurostat:population":2529,
+    "eurostat:population_year":2020,
     "geom:area":0.000723,
+    "geom:area_square_m":6724528.550294,
     "geom:bbox":"-8.24344655743,41.2420804797,-8.20828605145,41.2764907125",
     "geom:latitude":41.262155,
     "geom:longitude":-8.223903,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ca\u00edde de Rei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130504",
+        "eurostat:nuts_2021_id":"130504",
         "pt-dgt:id":"130504"
     },
     "wof:country":"PT",
     "wof:created":1576699002,
-    "wof:geomhash":"1fb6d7bcca1319d7b84c754be259b7bb",
+    "wof:geomhash":"8df89cf94699166734c1a8f7a010e803",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712687,
+    "wof:lastmodified":1684354639,
     "wof:name":"Ca\u00edde de Rei",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2529,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

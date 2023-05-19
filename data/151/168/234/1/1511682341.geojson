@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030917",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monsul",
+    "eurostat:nuts_2021_id":"030917",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030917",
+    "eurostat:population":770,
+    "eurostat:population_year":2020,
     "geom:area":0.000354,
+    "geom:area_square_m":3274185.660398,
     "geom:bbox":"-8.32511998055,41.6072238087,-8.29243298017,41.6289003736",
     "geom:latitude":41.617935,
     "geom:longitude":-8.308734,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Monsul",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030917",
+        "eurostat:nuts_2021_id":"030917",
         "pt-dgt:id":"030917"
     },
     "wof:country":"PT",
     "wof:created":1576698779,
-    "wof:geomhash":"831f98d70a7b3eee47b080f9041d3258",
+    "wof:geomhash":"cf046b174c5f279eee5ad82794f12697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Monsul",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":770,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

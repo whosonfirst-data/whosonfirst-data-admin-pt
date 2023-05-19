@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010418",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trope\u00e7o",
+    "eurostat:nuts_2021_id":"010418",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010418",
+    "eurostat:population":1150,
+    "eurostat:population_year":2020,
     "geom:area":0.001908,
+    "geom:area_square_m":17817056.522663,
     "geom:bbox":"-8.34859289916,40.9146960228,-8.28805819005,40.9838972566",
     "geom:latitude":40.946341,
     "geom:longitude":-8.323144,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Trope\u00e7o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010418",
+        "eurostat:nuts_2021_id":"010418",
         "pt-dgt:id":"010418"
     },
     "wof:country":"PT",
     "wof:created":1576698875,
-    "wof:geomhash":"337d7af0afce6553cef6d39f11c8e1df",
+    "wof:geomhash":"80b7a5ea0d8d7787cd27282f18d3d061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712662,
+    "wof:lastmodified":1684354613,
     "wof:name":"Trope\u00e7o",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1150,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

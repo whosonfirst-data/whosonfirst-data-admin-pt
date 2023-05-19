@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090917",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00eada, Outeiro de Gatos e Fonte Longa",
+    "eurostat:nuts_2021_id":"090917",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090917",
+    "eurostat:population":2464,
+    "eurostat:population_year":2020,
     "geom:area":0.00545,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":50876479.562428,
     "geom:bbox":"-7.31974149415,40.9259345316,-7.19040785594,41.0374848323",
     "geom:latitude":40.977212,
     "geom:longitude":-7.252987,
@@ -67,6 +79,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -74,6 +88,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090917",
+        "eurostat:nuts_2021_id":"090917",
         "gn:id":8012181,
         "pt-dgt:id":90917,
         "qs_pg:id":904360
@@ -83,7 +99,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"4f9cd8acdc0dd17ed6865b8fbd52be70",
+    "wof:geomhash":"e105ca6c747fc95b361ff5e3bc194481",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,10 +109,12 @@
         }
     ],
     "wof:id":1125270157,
-    "wof:lastmodified":1582359916,
+    "wof:lastmodified":1684354443,
     "wof:name":"M\u00eada, Outeiro de Gatos e Fonte Longa",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":2464,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

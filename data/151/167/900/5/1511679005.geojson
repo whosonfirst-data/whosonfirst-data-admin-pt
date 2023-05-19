@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021119",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Clara-a-Velha",
+    "eurostat:nuts_2021_id":"021119",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"021119",
+    "eurostat:population":873,
+    "eurostat:population_year":2020,
     "geom:area":0.016675,
+    "geom:area_square_m":163602572.006911,
     "geom:bbox":"-8.48771610702,37.373718976,-8.35772347757,37.5902764934",
     "geom:latitude":37.488822,
     "geom:longitude":-8.430003,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Clara-a-Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021119",
+        "eurostat:nuts_2021_id":"021119",
         "pt-dgt:id":"021119"
     },
     "wof:country":"PT",
     "wof:created":1576698026,
-    "wof:geomhash":"c69f37b0f7d4bf58368d63ee847868ad",
+    "wof:geomhash":"99fd07c3c2a1be52462dad155a970a88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712454,
+    "wof:lastmodified":1684354467,
     "wof:name":"Santa Clara-a-Velha",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":873,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

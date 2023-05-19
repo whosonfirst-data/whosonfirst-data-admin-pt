@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinheiro",
+    "eurostat:nuts_2021_id":"031112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031112",
+    "eurostat:population":447,
+    "eurostat:population_year":2020,
     "geom:area":0.001109,
+    "geom:area_square_m":10252311.102896,
     "geom:bbox":"-8.128296,41.613811,-8.068642,41.654837",
     "geom:latitude":41.631454,
     "geom:longitude":-8.099518,
@@ -53,6 +66,8 @@
     "pt-dgt:freguesia":"Pinheiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -60,11 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031112",
+        "eurostat:nuts_2021_id":"031112",
         "pt-dgt:id":"031112"
     },
     "wof:country":"PT",
     "wof:created":1576698759,
-    "wof:geomhash":"1f24d8b2be4f710f11eb3b00fffc5942",
+    "wof:geomhash":"ca1a28f0cee2a521489a3adcaab29e18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503000,
+    "wof:lastmodified":1684354594,
     "wof:name":"Pinheiro",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":447,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

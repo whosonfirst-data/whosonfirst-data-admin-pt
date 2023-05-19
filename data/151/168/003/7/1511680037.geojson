@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Ch\u00e3 de Ourique",
+    "eurostat:nuts_2021_id":"140607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140607",
+    "eurostat:population":2771,
+    "eurostat:population_year":2020,
     "geom:area":0.003462,
+    "geom:area_square_m":33190102.351611,
     "geom:bbox":"-8.79804214249,39.134045596,-8.70440797039,39.211747318",
     "geom:latitude":39.173663,
     "geom:longitude":-8.751024,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Ch\u00e3 de Ourique",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140607",
+        "eurostat:nuts_2021_id":"140607",
         "pt-dgt:id":"140607"
     },
     "wof:country":"PT",
     "wof:created":1576698278,
-    "wof:geomhash":"9ac1ec6ac665893dc4fda3e305efaa88",
+    "wof:geomhash":"a8b8b64d828fb43d58bd34944f4130e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712520,
+    "wof:lastmodified":1684354508,
     "wof:name":"Vila Ch\u00e3 de Ourique",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2771,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canas de Senhorim",
+    "eurostat:nuts_2021_id":"180901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180901",
+    "eurostat:population":3509,
+    "eurostat:population_year":2020,
     "geom:area":0.002704,
+    "geom:area_square_m":25424195.259775,
     "geom:bbox":"-7.93903246746,40.4691621901,-7.86294017993,40.5320528274",
     "geom:latitude":40.500931,
     "geom:longitude":-7.89975,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Canas de Senhorim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180901",
+        "eurostat:nuts_2021_id":"180901",
         "pt-dgt:id":"180901"
     },
     "wof:country":"PT",
     "wof:created":1576698069,
-    "wof:geomhash":"efc0bfe444869676c6eb79c1cfe7159b",
+    "wof:geomhash":"f6f275b0d08179ab9e8094e00e1f42d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712468,
+    "wof:lastmodified":1684354476,
     "wof:name":"Canas de Senhorim",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":3509,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

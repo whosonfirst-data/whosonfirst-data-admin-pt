@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171316",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vreia de Jales",
+    "eurostat:nuts_2021_id":"171316",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171316",
+    "eurostat:population":967,
+    "eurostat:population_year":2020,
     "geom:area":0.005094,
+    "geom:area_square_m":47213458.691661,
     "geom:bbox":"-7.64272091108,41.3910899592,-7.56343628706,41.4999996351",
     "geom:latitude":41.444342,
     "geom:longitude":-7.603139,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vreia de Jales",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171316",
+        "eurostat:nuts_2021_id":"171316",
         "pt-dgt:id":"171316"
     },
     "wof:country":"PT",
     "wof:created":1576699192,
-    "wof:geomhash":"f8f18f626ad12bbc86df99eff7d0adf4",
+    "wof:geomhash":"9c6542b549d847c6b786bab95c8194d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712720,
+    "wof:lastmodified":1684354674,
     "wof:name":"Vreia de Jales",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":967,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

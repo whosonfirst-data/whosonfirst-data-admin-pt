@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eiriz",
+    "eurostat:nuts_2021_id":"130904",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130904",
+    "eurostat:population":2303,
+    "eurostat:population_year":2020,
     "geom:area":0.000648,
+    "geom:area_square_m":6016989.796597,
     "geom:bbox":"-8.40657471034,41.2906913345,-8.36293930052,41.3258582951",
     "geom:latitude":41.306546,
     "geom:longitude":-8.386634,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Eiriz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130904",
+        "eurostat:nuts_2021_id":"130904",
         "pt-dgt:id":"130904"
     },
     "wof:country":"PT",
     "wof:created":1576699085,
-    "wof:geomhash":"548acbfc7bce6bf8734f7078c5999177",
+    "wof:geomhash":"ba1490035f772012817e2e819cfe6ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712701,
+    "wof:lastmodified":1684354653,
     "wof:name":"Eiriz",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2303,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

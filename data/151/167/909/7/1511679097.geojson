@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia da Mata",
+    "eurostat:nuts_2021_id":"120601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120601",
+    "eurostat:population":374,
+    "eurostat:population_year":2020,
     "geom:area":0.003894,
+    "geom:area_square_m":37251984.346756,
     "geom:bbox":"-7.80173857214,39.263926169,-7.67948420612,39.3396776255",
     "geom:latitude":39.310237,
     "geom:longitude":-7.727709,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aldeia da Mata",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120601",
+        "eurostat:nuts_2021_id":"120601",
         "pt-dgt:id":"120601"
     },
     "wof:country":"PT",
     "wof:created":1576698048,
-    "wof:geomhash":"3d69270867916118d8b53165d0f8ef03",
+    "wof:geomhash":"242be9f435aa4a4c235c80bbf79b1f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712462,
+    "wof:lastmodified":1684354472,
     "wof:name":"Aldeia da Mata",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":374,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

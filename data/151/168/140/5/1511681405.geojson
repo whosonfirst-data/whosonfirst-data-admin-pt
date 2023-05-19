@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091138",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Boa",
+    "eurostat:nuts_2021_id":"091138",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091138",
+    "eurostat:population":243,
+    "eurostat:population_year":2020,
     "geom:area":0.000914,
+    "geom:area_square_m":8604240.171916,
     "geom:bbox":"-7.02142442902,40.3626535549,-6.98113757596,40.4043590053",
     "geom:latitude":40.382897,
     "geom:longitude":-7.002887,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Boa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091138",
+        "eurostat:nuts_2021_id":"091138",
         "pt-dgt:id":"091138"
     },
     "wof:country":"PT",
     "wof:created":1576698589,
-    "wof:geomhash":"ac904785d5d8675c59ef1685c2cf56ea",
+    "wof:geomhash":"9d0b93743769dd4b7121613f5c5fe81a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712612,
+    "wof:lastmodified":1684354568,
     "wof:name":"Vila Boa",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":243,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

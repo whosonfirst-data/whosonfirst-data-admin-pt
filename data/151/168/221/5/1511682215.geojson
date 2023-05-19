@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040252",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Izeda, Calvelhe e Paradinha Nova",
+    "eurostat:nuts_2021_id":"040252",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040252",
+    "eurostat:population":1212,
+    "eurostat:population_year":2020,
     "geom:area":0.007844,
+    "geom:area_square_m":72545901.611408,
     "geom:bbox":"-6.75696608932,41.5345767268,-6.64697790255,41.6403874025",
     "geom:latitude":41.588373,
     "geom:longitude":-6.703098,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Izeda, Calvelhe e Paradinha Nova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040252",
+        "eurostat:nuts_2021_id":"040252",
         "pt-dgt:id":"040252"
     },
     "wof:country":"PT",
     "wof:created":1576698755,
-    "wof:geomhash":"5a36191b1252cd7c3f7c335d2ef26629",
+    "wof:geomhash":"e8b7dec8641f63211f5a46d07f5b8051",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Izeda, Calvelhe e Paradinha Nova",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":1212,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

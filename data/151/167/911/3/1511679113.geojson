@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Olho Marinho",
+    "eurostat:nuts_2021_id":"101203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101203",
+    "eurostat:population":1279,
+    "eurostat:population_year":2020,
     "geom:area":0.001892,
+    "geom:area_square_m":18098929.906617,
     "geom:bbox":"-9.2705471077,39.3046224601,-9.20269282221,39.3568177276",
     "geom:latitude":39.333074,
     "geom:longitude":-9.240491,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Olho Marinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101203",
+        "eurostat:nuts_2021_id":"101203",
         "pt-dgt:id":"101203"
     },
     "wof:country":"PT",
     "wof:created":1576698052,
-    "wof:geomhash":"a29427ab1824c2b24a1276659ba8b855",
+    "wof:geomhash":"cad5fd0a4e6c97542be9bcc3675137f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712463,
+    "wof:lastmodified":1684354473,
     "wof:name":"Olho Marinho",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1279,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

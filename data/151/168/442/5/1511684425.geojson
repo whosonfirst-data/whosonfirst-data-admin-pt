@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040521",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Morais",
+    "eurostat:nuts_2021_id":"040521",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040521",
+    "eurostat:population":644,
+    "eurostat:population_year":2020,
     "geom:area":0.005622,
+    "geom:area_square_m":52076986.433827,
     "geom:bbox":"-6.8520015298,41.4575463202,-6.73311033064,41.5325772478",
     "geom:latitude":41.489675,
     "geom:longitude":-6.78918,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Morais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040521",
+        "eurostat:nuts_2021_id":"040521",
         "pt-dgt:id":"040521"
     },
     "wof:country":"PT",
     "wof:created":1576699223,
-    "wof:geomhash":"53cec05cb5b4d67e5bba6c5ca6689f64",
+    "wof:geomhash":"98d27907d3327bc9263c00b76402391b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354678,
     "wof:name":"Morais",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":644,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

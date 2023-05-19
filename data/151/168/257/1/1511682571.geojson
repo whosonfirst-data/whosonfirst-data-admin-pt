@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090512",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Queiriz",
+    "eurostat:nuts_2021_id":"090512",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090512",
+    "eurostat:population":260,
+    "eurostat:population_year":2020,
     "geom:area":0.001038,
+    "geom:area_square_m":9724463.702841,
     "geom:bbox":"-7.47873398669,40.71383513,-7.42125317936,40.7580916717",
     "geom:latitude":40.734562,
     "geom:longitude":-7.452766,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Queiriz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090512",
+        "eurostat:nuts_2021_id":"090512",
         "pt-dgt:id":"090512"
     },
     "wof:country":"PT",
     "wof:created":1576698831,
-    "wof:geomhash":"37663230f8a95cb2f9bfda962c43c2dd",
+    "wof:geomhash":"20908e89bfbe7e7850a91c805ac586e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712653,
+    "wof:lastmodified":1684354604,
     "wof:name":"Queiriz",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Santiago",
+    "eurostat:nuts_2021_id":"021122",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"021122",
+    "eurostat:population":1047,
+    "eurostat:population_year":2020,
     "geom:area":0.011481,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":112151528.259668,
     "geom:bbox":"-8.55321131694,37.7356553731,-8.37405488185,37.8709092514",
     "geom:latitude":37.815374,
     "geom:longitude":-8.451196,
@@ -61,6 +73,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -68,6 +82,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021122",
+        "eurostat:nuts_2021_id":"021122",
         "gn:id":8014077,
         "pt-dgt:id":21122,
         "qs_pg:id":904377
@@ -77,7 +93,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cb977b8cd7cb0b8be65806d1583bac5a",
+    "wof:geomhash":"241c8eadd3557dada214cf35c912801a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,10 +103,12 @@
         }
     ],
     "wof:id":1125395969,
-    "wof:lastmodified":1582359921,
+    "wof:lastmodified":1684354449,
     "wof:name":"Vale de Santiago",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1047,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

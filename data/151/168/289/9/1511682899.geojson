@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Britiande",
+    "eurostat:nuts_2021_id":"180504",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180504",
+    "eurostat:population":934,
+    "eurostat:population_year":2020,
     "geom:area":0.000514,
+    "geom:area_square_m":4790373.447175,
     "geom:bbox":"-7.80813633598,41.0507335916,-7.76381189925,41.0723966836",
     "geom:latitude":41.060785,
     "geom:longitude":-7.788119,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Britiande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180504",
+        "eurostat:nuts_2021_id":"180504",
         "pt-dgt:id":"180504"
     },
     "wof:country":"PT",
     "wof:created":1576698899,
-    "wof:geomhash":"7f7b9a82e9c6f254a9b2db19b42ad277",
+    "wof:geomhash":"ccb5631f9b901602c0616aa834c7ff4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712667,
+    "wof:lastmodified":1684354617,
     "wof:name":"Britiande",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":934,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

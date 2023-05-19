@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algueir\u00e3o-Mem Martins",
+    "eurostat:nuts_2021_id":"111102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111102",
+    "eurostat:population":66250,
+    "eurostat:population_year":2020,
     "geom:area":0.001658,
+    "geom:area_square_m":15979776.816403,
     "geom:bbox":"-9.36722048766,38.7788247452,-9.30076559578,38.8276763958",
     "geom:latitude":38.805379,
     "geom:longitude":-9.333934,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Algueir\u00e3o-Mem Martins",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111102",
+        "eurostat:nuts_2021_id":"111102",
         "pt-dgt:id":"111102"
     },
     "wof:country":"PT",
     "wof:created":1576698197,
-    "wof:geomhash":"854e1542c91f16306c784ed6f3be707e",
+    "wof:geomhash":"37c0017dbc1a8ae826b71583e0c1a985",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712496,
+    "wof:lastmodified":1684354493,
     "wof:name":"Algueir\u00e3o-Mem Martins",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":66250,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

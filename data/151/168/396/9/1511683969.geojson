@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030866",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Serzedelo",
+    "eurostat:nuts_2021_id":"030866",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030866",
+    "eurostat:population":3630,
+    "eurostat:population_year":2020,
     "geom:area":0.000553,
+    "geom:area_square_m":5131810.742278,
     "geom:bbox":"-8.38597552637,41.3944431761,-8.34278339916,41.415919801",
     "geom:latitude":41.404639,
     "geom:longitude":-8.366758,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Serzedelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030866",
+        "eurostat:nuts_2021_id":"030866",
         "pt-dgt:id":"030866"
     },
     "wof:country":"PT",
     "wof:created":1576699128,
-    "wof:geomhash":"553f775a8bce24785e8ab5d466c1b216",
+    "wof:geomhash":"03a1fefbab7ca3b1ad10724047b8bbf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712707,
+    "wof:lastmodified":1684354663,
     "wof:name":"Serzedelo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":3630,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

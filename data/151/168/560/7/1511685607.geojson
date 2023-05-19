@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_440104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz da Graciosa",
+    "eurostat:nuts_2021_id":"440104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"440104",
+    "eurostat:population":1776,
+    "eurostat:population_year":2020,
     "geom:area":0.001616,
+    "geom:area_square_m":15513798.428105,
     "geom:bbox":"-28.0561423187,39.0580213107,-27.9776249743,39.0972202097",
     "geom:latitude":39.078816,
     "geom:longitude":-28.017299,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Santa Cruz da Graciosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_440104",
+        "eurostat:nuts_2021_id":"440104",
         "pt-dgt:id":"440104"
     },
     "wof:country":"PT",
     "wof:created":1576703597,
-    "wof:geomhash":"55dedaf381c77f287fa45ea16c94bd58",
+    "wof:geomhash":"e4083da9c06d05eea4d0ede5154969ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720341,
+    "wof:lastmodified":1684354740,
     "wof:name":"Santa Cruz da Graciosa",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1776,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

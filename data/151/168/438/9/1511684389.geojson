@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030283",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"V\u00e1rzea",
+    "eurostat:nuts_2021_id":"030283",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030283",
+    "eurostat:population":1904,
+    "eurostat:population_year":2020,
     "geom:area":0.000318,
+    "geom:area_square_m":2948014.011316,
     "geom:bbox":"-8.59006008426,41.4994766788,-8.56431784949,41.5258776256",
     "geom:latitude":41.513509,
     "geom:longitude":-8.577053,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"V\u00e1rzea",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030283",
+        "eurostat:nuts_2021_id":"030283",
         "pt-dgt:id":"030283"
     },
     "wof:country":"PT",
     "wof:created":1576699216,
-    "wof:geomhash":"9a3461cce4c1248f2369041e15c32c51",
+    "wof:geomhash":"813f8ac624161fb6504ff37bb379438c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354677,
     "wof:name":"V\u00e1rzea",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1904,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

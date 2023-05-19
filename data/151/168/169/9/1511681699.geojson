@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada de Ester e Ester",
+    "eurostat:nuts_2021_id":"180325",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180325",
+    "eurostat:population":874,
+    "eurostat:population_year":2020,
     "geom:area":0.004304,
+    "geom:area_square_m":40198845.305946,
     "geom:bbox":"-8.10676020155,40.9059574732,-7.99636236194,40.9793505109",
     "geom:latitude":40.943108,
     "geom:longitude":-8.041818,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Parada de Ester e Ester",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180325",
+        "eurostat:nuts_2021_id":"180325",
         "pt-dgt:id":"180325"
     },
     "wof:country":"PT",
     "wof:created":1576698651,
-    "wof:geomhash":"44b41404471b53192a81b5cf82da31c1",
+    "wof:geomhash":"7dfa9f02508cc03192b82015f5a9c79b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712624,
+    "wof:lastmodified":1684354578,
     "wof:name":"Parada de Ester e Ester",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":874,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Portugal",
+    "eurostat:name_local":"Portugal",
+    "eurostat:nuts_2021_id":"PT",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:population":10352042,
+    "eurostat:population_year":2022,
     "geom:area":9.677512,
-    "geom:area_square_m":92182702477.408325,
+    "geom:area_square_m":92180713831.008743,
     "geom:bbox":"-31.268219,30.136984,-6.189361,42.154405",
     "geom:latitude":39.59266,
     "geom:longitude":-8.521434,
@@ -1214,7 +1222,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"351",
     "statoids:ds":"P",
     "statoids:fifa":"POR",
@@ -1243,6 +1252,7 @@
     "wof:concordances":{
         "dbp:id":"Portugal",
         "digitalenvoy:country_code":620,
+        "eurostat:nuts_2021_id":"PT",
         "fb:id":"en.portugal",
         "fifa:id":"POR",
         "fips:code":"PO",
@@ -1273,7 +1283,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"487704e6bdd4a23a512d875f98ab9d96",
+    "wof:geomhash":"5b29e7ebae1ad76e0b15b65ae7271264",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1287,11 +1297,11 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1618362706,
+    "wof:lastmodified":1684351342,
     "wof:name":"Portugal",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":10457295,
+    "wof:population":10352042,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:shortcode":"PT",

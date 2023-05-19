@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueiredo de Alva",
+    "eurostat:nuts_2021_id":"181606",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181606",
+    "eurostat:population":816,
+    "eurostat:population_year":2020,
     "geom:area":0.001568,
+    "geom:area_square_m":14668249.313787,
     "geom:bbox":"-8.02471119943,40.8040487381,-7.96140383315,40.854149136",
     "geom:latitude":40.828112,
     "geom:longitude":-7.992882,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Figueiredo de Alva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181606",
+        "eurostat:nuts_2021_id":"181606",
         "pt-dgt:id":"181606"
     },
     "wof:country":"PT",
     "wof:created":1576698406,
-    "wof:geomhash":"3a24ca08fbb6419451abaf14f77011cc",
+    "wof:geomhash":"b9057d0a35111928ed7688db3b665002",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712561,
+    "wof:lastmodified":1684354533,
     "wof:name":"Figueiredo de Alva",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":816,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

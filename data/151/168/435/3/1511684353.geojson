@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fonte Boa e Rio Tinto",
+    "eurostat:nuts_2021_id":"030619",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030619",
+    "eurostat:population":1944,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
+    "geom:area_square_m":10364255.261308,
     "geom:bbox":"-8.76695999379,41.485372379,-8.70068358773,41.5169320022",
     "geom:latitude":41.500091,
     "geom:longitude":-8.73078,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Fonte Boa e Rio Tinto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030619",
+        "eurostat:nuts_2021_id":"030619",
         "pt-dgt:id":"030619"
     },
     "wof:country":"PT",
     "wof:created":1576699208,
-    "wof:geomhash":"57769838bc0fa11d80ebe2918f05c3aa",
+    "wof:geomhash":"ccf06fcf64f639b9640803c1799d858e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354676,
     "wof:name":"Fonte Boa e Rio Tinto",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1944,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

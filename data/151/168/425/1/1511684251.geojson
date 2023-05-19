@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atei",
+    "eurostat:nuts_2021_id":"170501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"170501",
+    "eurostat:population":1352,
+    "eurostat:population_year":2020,
     "geom:area":0.002659,
+    "geom:area_square_m":24643176.911731,
     "geom:bbox":"-7.94384524302,41.4164334603,-7.8856568378,41.4917921824",
     "geom:latitude":41.451786,
     "geom:longitude":-7.917657,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Atei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170501",
+        "eurostat:nuts_2021_id":"170501",
         "pt-dgt:id":"170501"
     },
     "wof:country":"PT",
     "wof:created":1576699184,
-    "wof:geomhash":"584e8305ca3328a0720f79b60567320a",
+    "wof:geomhash":"d1da285503d0f1eb9c68f6654d35ecb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712718,
+    "wof:lastmodified":1684354673,
     "wof:name":"Atei",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1352,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

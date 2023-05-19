@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101514",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila C\u00e3",
+    "eurostat:nuts_2021_id":"101514",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101514",
+    "eurostat:population":1607,
+    "eurostat:population_year":2020,
     "geom:area":0.003323,
+    "geom:area_square_m":31537807.921007,
     "geom:bbox":"-8.60414739982,39.8152548076,-8.52333960331,39.9346087718",
     "geom:latitude":39.872202,
     "geom:longitude":-8.558248,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila C\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101514",
+        "eurostat:nuts_2021_id":"101514",
         "pt-dgt:id":"101514"
     },
     "wof:country":"PT",
     "wof:created":1576698457,
-    "wof:geomhash":"00c3effc9308c35aff95213dc259b721",
+    "wof:geomhash":"0d7db8f2e67a2975a61d600924eb798d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712578,
+    "wof:lastmodified":1684354545,
     "wof:name":"Vila C\u00e3",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1607,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

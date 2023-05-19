@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091144",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruvina, Ruiv\u00f3s e Vale das \u00c9guas",
+    "eurostat:nuts_2021_id":"091144",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091144",
+    "eurostat:population":221,
+    "eurostat:population_year":2020,
     "geom:area":0.001955,
+    "geom:area_square_m":18400155.881864,
     "geom:bbox":"-7.03903374929,40.4012868381,-6.96798722801,40.4530507364",
     "geom:latitude":40.424219,
     "geom:longitude":-7.006607,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ruvina, Ruiv\u00f3s e Vale das \u00c9guas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091144",
+        "eurostat:nuts_2021_id":"091144",
         "pt-dgt:id":"091144"
     },
     "wof:country":"PT",
     "wof:created":1576698607,
-    "wof:geomhash":"9f4ef62c5ea27bef9fced1c989ec4db8",
+    "wof:geomhash":"6cfae77fc2ca3edefe62282815cf6fba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712615,
+    "wof:lastmodified":1684354571,
     "wof:name":"Ruvina, Ruiv\u00f3s e Vale das \u00c9guas",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":221,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

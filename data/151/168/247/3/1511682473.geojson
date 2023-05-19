@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Forno Telheiro",
+    "eurostat:nuts_2021_id":"090306",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090306",
+    "eurostat:population":735,
+    "eurostat:population_year":2020,
     "geom:area":0.002211,
+    "geom:area_square_m":20737402.388913,
     "geom:bbox":"-7.4265912772,40.6516726086,-7.35226511478,40.7051315292",
     "geom:latitude":40.677411,
     "geom:longitude":-7.389122,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Forno Telheiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090306",
+        "eurostat:nuts_2021_id":"090306",
         "pt-dgt:id":"090306"
     },
     "wof:country":"PT",
     "wof:created":1576698810,
-    "wof:geomhash":"ce00dfc6d0457046477f40570b449e3d",
+    "wof:geomhash":"7a443a294795ae68b197c8b24f7bf3f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712649,
+    "wof:lastmodified":1684354601,
     "wof:name":"Forno Telheiro",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":735,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

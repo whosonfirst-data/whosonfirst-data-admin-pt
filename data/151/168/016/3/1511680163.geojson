@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140123",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Facundo e Vale das M\u00f3s",
+    "eurostat:nuts_2021_id":"140123",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140123",
+    "eurostat:population":1515,
+    "eurostat:population_year":2020,
     "geom:area":0.010967,
+    "geom:area_square_m":104823430.056091,
     "geom:bbox":"-8.15428986764,39.3203783464,-7.98979959968,39.4321890913",
     "geom:latitude":39.380557,
     "geom:longitude":-8.073269,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de S\u00e3o Facundo e Vale das M\u00f3s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140123",
+        "eurostat:nuts_2021_id":"140123",
         "pt-dgt:id":"140123"
     },
     "wof:country":"PT",
     "wof:created":1576698308,
-    "wof:geomhash":"d2b42e0deee0912ac832e760f580ea43",
+    "wof:geomhash":"f12474939ff814aaa2d973afa5463a4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712529,
+    "wof:lastmodified":1684354513,
     "wof:name":"S\u00e3o Facundo e Vale de M\u00f3s",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1515,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

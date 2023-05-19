@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Peraboa",
+    "eurostat:nuts_2021_id":"050315",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050315",
+    "eurostat:population":953,
+    "eurostat:population_year":2020,
     "geom:area":0.002879,
+    "geom:area_square_m":27170053.78881,
     "geom:bbox":"-7.4414914338,40.2255829883,-7.35822155098,40.3028513903",
     "geom:latitude":40.262301,
     "geom:longitude":-7.398778,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Peraboa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050315",
+        "eurostat:nuts_2021_id":"050315",
         "pt-dgt:id":"050315"
     },
     "wof:country":"PT",
     "wof:created":1576698553,
-    "wof:geomhash":"f5bce50dd2b386cd331cd42ad557487b",
+    "wof:geomhash":"81b68af89bcf46662684ec6d1dfa6abd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712605,
+    "wof:lastmodified":1684354563,
     "wof:name":"Peraboa",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":953,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

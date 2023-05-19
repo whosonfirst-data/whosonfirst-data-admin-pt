@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ancede e Ribadouro",
+    "eurostat:nuts_2021_id":"130221",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130221",
+    "eurostat:population":2777,
+    "eurostat:population_year":2020,
     "geom:area":0.001539,
+    "geom:area_square_m":14342205.153919,
     "geom:bbox":"-8.09703168641,41.0895849149,-8.01336548885,41.1261514765",
     "geom:latitude":41.105405,
     "geom:longitude":-8.054434,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ancede e Ribadouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130221",
+        "eurostat:nuts_2021_id":"130221",
         "pt-dgt:id":"130221"
     },
     "wof:country":"PT",
     "wof:created":1576698929,
-    "wof:geomhash":"d38c1365f9599f47602478aec269f320",
+    "wof:geomhash":"594c04947766011eb5bd7fc77d734ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"Ancede e Ribadouro",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2777,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

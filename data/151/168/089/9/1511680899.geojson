@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campelo",
+    "eurostat:nuts_2021_id":"100803",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100803",
+    "eurostat:population":278,
+    "eurostat:population_year":2020,
     "geom:area":0.005447,
+    "geom:area_square_m":51589158.610847,
     "geom:bbox":"-8.297977061,39.9487424724,-8.20974904271,40.0673376957",
     "geom:latitude":40.010635,
     "geom:longitude":-8.255152,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100803",
+        "eurostat:nuts_2021_id":"100803",
         "pt-dgt:id":"100803"
     },
     "wof:country":"PT",
     "wof:created":1576698483,
-    "wof:geomhash":"ef88e8477fdcd23d516ebdb714d887a0",
+    "wof:geomhash":"32a3b4a3a5d9de567171be4111a4f4be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712587,
+    "wof:lastmodified":1684354551,
     "wof:name":"Campelo",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":278,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

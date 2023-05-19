@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nogueira do Cravo",
+    "eurostat:nuts_2021_id":"061111",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061111",
+    "eurostat:population":2309,
+    "eurostat:population_year":2020,
     "geom:area":0.001588,
+    "geom:area_square_m":14967481.522876,
     "geom:bbox":"-7.91721890081,40.3121478329,-7.85791060064,40.3556362197",
     "geom:latitude":40.333686,
     "geom:longitude":-7.888405,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nogueira do Cravo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061111",
+        "eurostat:nuts_2021_id":"061111",
         "pt-dgt:id":"061111"
     },
     "wof:country":"PT",
     "wof:created":1576698569,
-    "wof:geomhash":"9a94454fce1e3f0b691e83bd47a8e491",
+    "wof:geomhash":"b24c45f8d001dddf7edfb87b50979442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712608,
+    "wof:lastmodified":1684354565,
     "wof:name":"Nogueira do Cravo",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2309,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

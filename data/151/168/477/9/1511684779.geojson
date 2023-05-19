@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160752",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arca e Ponte de Lima",
+    "eurostat:nuts_2021_id":"160752",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160752",
+    "eurostat:population":3756,
+    "eurostat:population_year":2020,
     "geom:area":0.000434,
+    "geom:area_square_m":4000259.327711,
     "geom:bbox":"-8.59826947312,41.7484373235,-8.5591351343,41.775245451",
     "geom:latitude":41.761526,
     "geom:longitude":-8.577281,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arca e Ponte de Lima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160752",
+        "eurostat:nuts_2021_id":"160752",
         "pt-dgt:id":"160752"
     },
     "wof:country":"PT",
     "wof:created":1576699299,
-    "wof:geomhash":"8703d9028805000c6d1a09b49a298488",
+    "wof:geomhash":"3a082f8a22531836cad5814a8450e563",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354686,
     "wof:name":"Arca e Ponte de Lima",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":3756,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

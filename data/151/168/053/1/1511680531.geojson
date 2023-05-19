@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_051101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fratel",
+    "eurostat:nuts_2021_id":"051101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"051101",
+    "eurostat:population":608,
+    "eurostat:population_year":2020,
     "geom:area":0.010265,
+    "geom:area_square_m":97752770.78473,
     "geom:bbox":"-7.82884893181,39.5373649019,-7.70049748591,39.7179615875",
     "geom:latitude":39.630967,
     "geom:longitude":-7.759354,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fratel",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_051101",
+        "eurostat:nuts_2021_id":"051101",
         "pt-dgt:id":"051101"
     },
     "wof:country":"PT",
     "wof:created":1576698394,
-    "wof:geomhash":"aef546b036bc88caaf8c0a44228777f9",
+    "wof:geomhash":"2166f1dabf296acbdcfebffa890c97dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712557,
+    "wof:lastmodified":1684354531,
     "wof:name":"Fratel",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":608,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

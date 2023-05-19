@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ribeira Seca",
+    "eurostat:nuts_2021_id":"420606",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420606",
+    "eurostat:population":1106,
+    "eurostat:population_year":2020,
     "geom:area":0.000565,
+    "geom:area_square_m":5525330.378266,
     "geom:bbox":"-25.4299748868,37.7153372999,-25.4087412109,37.7606117117",
     "geom:latitude":37.738524,
     "geom:longitude":-25.419086,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Ribeira Seca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420606",
+        "eurostat:nuts_2021_id":"420606",
         "pt-dgt:id":"420606"
     },
     "wof:country":"PT",
     "wof:created":1576699407,
-    "wof:geomhash":"3739c7af32b2c8b5774cb26d0de9289d",
+    "wof:geomhash":"296de9f9935e921c667f7f2587d1507b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720285,
+    "wof:lastmodified":1684354698,
     "wof:name":"Ribeira Seca",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1106,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

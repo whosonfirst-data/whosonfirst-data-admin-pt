@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Cosmado",
+    "eurostat:nuts_2021_id":"180114",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180114",
+    "eurostat:population":598,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
+    "geom:area_square_m":13935793.404865,
     "geom:bbox":"-7.65864966269,41.0190259445,-7.62090168126,41.0770561725",
     "geom:latitude":41.050417,
     "geom:longitude":-7.640968,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Cosmado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180114",
+        "eurostat:nuts_2021_id":"180114",
         "pt-dgt:id":"180114"
     },
     "wof:country":"PT",
     "wof:created":1576698901,
-    "wof:geomhash":"fed9f04de451eebbfc8f4354dd5ac61a",
+    "wof:geomhash":"b54f184c6aad0a97e78b1e2e06b64f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712667,
+    "wof:lastmodified":1684354618,
     "wof:name":"S\u00e3o Cosmado",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":598,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

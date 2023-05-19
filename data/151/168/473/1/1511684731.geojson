@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ervedosa",
+    "eurostat:nuts_2021_id":"041208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041208",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.003262,
+    "geom:area_square_m":30106078.759444,
     "geom:bbox":"-7.11326837207,41.6948302712,-7.00971753137,41.7557385127",
     "geom:latitude":41.721636,
     "geom:longitude":-7.068446,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ervedosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041208",
+        "eurostat:nuts_2021_id":"041208",
         "pt-dgt:id":"041208"
     },
     "wof:country":"PT",
     "wof:created":1576699289,
-    "wof:geomhash":"940641d210fa673a7f0f18a5a09cfd53",
+    "wof:geomhash":"73c3b454817e55e598d5b778e8c0f7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354685,
     "wof:name":"Ervedosa",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

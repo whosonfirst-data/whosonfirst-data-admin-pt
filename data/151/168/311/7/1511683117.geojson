@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Desejosa",
+    "eurostat:nuts_2021_id":"181905",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181905",
+    "eurostat:population":175,
+    "eurostat:population_year":2020,
     "geom:area":0.000803,
+    "geom:area_square_m":7478587.261109,
     "geom:bbox":"-7.56437521155,41.1220066152,-7.51963635758,41.1505571821",
     "geom:latitude":41.136312,
     "geom:longitude":-7.544039,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Desejosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181905",
+        "eurostat:nuts_2021_id":"181905",
         "pt-dgt:id":"181905"
     },
     "wof:country":"PT",
     "wof:created":1576698945,
-    "wof:geomhash":"c0278cdf56656f29ff0580de0616bb4d",
+    "wof:geomhash":"c5eb5a51d77609a3736654286fe3b4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712675,
+    "wof:lastmodified":1684354625,
     "wof:name":"Desejosa",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":175,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

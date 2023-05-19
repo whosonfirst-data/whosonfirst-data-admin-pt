@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jardim da Serra",
+    "eurostat:nuts_2021_id":"310205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310205",
+    "eurostat:population":3311,
+    "eurostat:population_year":2020,
     "geom:area":0.000708,
+    "geom:area_square_m":7366854.792279,
     "geom:bbox":"-17.0057983144,32.6770250669,-16.974243729,32.716076533",
     "geom:latitude":32.694461,
     "geom:longitude":-16.991445,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Jardim da Serra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310205",
+        "eurostat:nuts_2021_id":"310205",
         "pt-dgt:id":"310205"
     },
     "wof:country":"PT",
     "wof:created":1576699484,
-    "wof:geomhash":"26a106d5deb397681cc9cdc9e35b36fd",
+    "wof:geomhash":"fc5a8342209f0862c1357e9e0abe9d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720329,
+    "wof:lastmodified":1684354738,
     "wof:name":"Jardim da Serra",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":3311,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

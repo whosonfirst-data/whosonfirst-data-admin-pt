@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carvi\u00e7ais",
+    "eurostat:nuts_2021_id":"040905",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040905",
+    "eurostat:population":757,
+    "eurostat:population_year":2020,
     "geom:area":0.006759,
+    "geom:area_square_m":62902320.602951,
     "geom:bbox":"-6.95390357671,41.1343180109,-6.79817556594,41.2265751578",
     "geom:latitude":41.183076,
     "geom:longitude":-6.863588,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carvi\u00e7ais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040905",
+        "eurostat:nuts_2021_id":"040905",
         "pt-dgt:id":"040905"
     },
     "wof:country":"PT",
     "wof:created":1576698972,
-    "wof:geomhash":"6a1507e83b715385df5b8a67ff99b969",
+    "wof:geomhash":"00079cf07c5ef8521bce1e15bc8d9d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712681,
+    "wof:lastmodified":1684354631,
     "wof:name":"Carvi\u00e7ais",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":757,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

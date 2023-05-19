@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040516",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagoa",
+    "eurostat:nuts_2021_id":"040516",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040516",
+    "eurostat:population":312,
+    "eurostat:population_year":2020,
     "geom:area":0.003782,
+    "geom:area_square_m":35056377.437389,
     "geom:bbox":"-6.81711916203,41.4048863409,-6.72504340073,41.4659134816",
     "geom:latitude":41.439045,
     "geom:longitude":-6.773224,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lagoa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040516",
+        "eurostat:nuts_2021_id":"040516",
         "pt-dgt:id":"040516"
     },
     "wof:country":"PT",
     "wof:created":1576699171,
-    "wof:geomhash":"502179b50d8ac5215c47bffe1dad00cd",
+    "wof:geomhash":"463376096473f3b8fdef005bf2cd14f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712716,
+    "wof:lastmodified":1684354671,
     "wof:name":"Lagoa",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":312,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

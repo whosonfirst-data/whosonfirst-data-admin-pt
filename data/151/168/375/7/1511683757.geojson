@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueir\u00f3",
+    "eurostat:nuts_2021_id":"130906",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130906",
+    "eurostat:population":2496,
+    "eurostat:population_year":2020,
     "geom:area":0.000307,
+    "geom:area_square_m":2847854.596688,
     "geom:bbox":"-8.35689452066,41.2985368898,-8.32963114396,41.3174577855",
     "geom:latitude":41.307238,
     "geom:longitude":-8.343338,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Figueir\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130906",
+        "eurostat:nuts_2021_id":"130906",
         "pt-dgt:id":"130906"
     },
     "wof:country":"PT",
     "wof:created":1576699079,
-    "wof:geomhash":"4b2500cf817100ba0b9c150d508e3560",
+    "wof:geomhash":"617d6bb16c8bc0966695545c46f829ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712700,
+    "wof:lastmodified":1684354652,
     "wof:name":"Figueir\u00f3",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2496,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

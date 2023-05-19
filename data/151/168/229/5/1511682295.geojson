@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gafanha da Nazar\u00e9",
+    "eurostat:nuts_2021_id":"011006",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011006",
+    "eurostat:population":15240,
+    "eurostat:population_year":2020,
     "geom:area":0.00175,
+    "geom:area_square_m":16416248.709588,
     "geom:bbox":"-8.75822089932,40.620209542,-8.68313507835,40.6598550558",
     "geom:latitude":40.638599,
     "geom:longitude":-8.716051,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gafanha da Nazar\u00e9",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011006",
+        "eurostat:nuts_2021_id":"011006",
         "pt-dgt:id":"011006"
     },
     "wof:country":"PT",
     "wof:created":1576698770,
-    "wof:geomhash":"0d16a0c7622f6ed080b7f41a640f70df",
+    "wof:geomhash":"ef693c3ed1454ceeb2234dc723077752",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712643,
+    "wof:lastmodified":1684354595,
     "wof:name":"Gafanha da Nazar\u00e9",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":15240,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

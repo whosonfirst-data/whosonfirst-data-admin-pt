@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040916",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre de Moncorvo",
+    "eurostat:nuts_2021_id":"040916",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040916",
+    "eurostat:population":2891,
+    "eurostat:population_year":2020,
     "geom:area":0.003872,
+    "geom:area_square_m":36030968.924054,
     "geom:bbox":"-7.11450374816,41.1530059934,-7.01692842266,41.213261184",
     "geom:latitude":41.179186,
     "geom:longitude":-7.068924,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Torre de Moncorvo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040916",
+        "eurostat:nuts_2021_id":"040916",
         "pt-dgt:id":"040916"
     },
     "wof:country":"PT",
     "wof:created":1576698965,
-    "wof:geomhash":"51d5e2b4bb7fed3e57d145f70a7c71d3",
+    "wof:geomhash":"fc3c4da28b829edc72ad75ec820773de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712679,
+    "wof:lastmodified":1684354629,
     "wof:name":"Torre de Moncorvo",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":2891,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

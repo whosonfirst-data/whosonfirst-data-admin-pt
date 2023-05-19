@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amonde",
+    "eurostat:nuts_2021_id":"160903",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160903",
+    "eurostat:population":293,
+    "eurostat:population_year":2020,
     "geom:area":0.000676,
+    "geom:area_square_m":6236302.268785,
     "geom:bbox":"-8.77799066414,41.7675900464,-8.74386239934,41.8018122402",
     "geom:latitude":41.783277,
     "geom:longitude":-8.760887,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Amonde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160903",
+        "eurostat:nuts_2021_id":"160903",
         "pt-dgt:id":"160903"
     },
     "wof:country":"PT",
     "wof:created":1576699318,
-    "wof:geomhash":"b5066d18d4b75fb4558be0f8644daf0a",
+    "wof:geomhash":"3bd44cd415c05e0669b6d6ffd633dad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Amonde",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":293,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

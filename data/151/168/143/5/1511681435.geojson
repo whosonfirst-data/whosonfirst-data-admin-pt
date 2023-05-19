@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alfaiates",
+    "eurostat:nuts_2021_id":"091107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091107",
+    "eurostat:population":331,
+    "eurostat:population_year":2020,
     "geom:area":0.003333,
+    "geom:area_square_m":31392109.773334,
     "geom:bbox":"-6.95226737784,40.3491669553,-6.86877287744,40.4179327279",
     "geom:latitude":40.37925,
     "geom:longitude":-6.913042,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alfaiates",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091107",
+        "eurostat:nuts_2021_id":"091107",
         "pt-dgt:id":"091107"
     },
     "wof:country":"PT",
     "wof:created":1576698595,
-    "wof:geomhash":"4ff36a26a75623631e13c0432b5135ac",
+    "wof:geomhash":"188a21286204f1ecc9ff01ab7f4c4ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712613,
+    "wof:lastmodified":1684354569,
     "wof:name":"Alfaiates",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":331,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torre do Terrenho, Sebadelhe da Serra e Terrenho",
+    "eurostat:nuts_2021_id":"091331",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091331",
+    "eurostat:population":401,
+    "eurostat:population_year":2020,
     "geom:area":0.00314,
+    "geom:area_square_m":29356784.958272,
     "geom:bbox":"-7.4240002035,40.8392485692,-7.33514132852,40.9061095216",
     "geom:latitude":40.872111,
     "geom:longitude":-7.372481,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091331",
+        "eurostat:nuts_2021_id":"091331",
         "pt-dgt:id":"091331"
     },
     "wof:country":"PT",
     "wof:created":1576698422,
-    "wof:geomhash":"f1e1aa879a11c043ba72fae3ddd7ca4a",
+    "wof:geomhash":"96a1e95c8f2244d6c82b3047a7311085",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712566,
+    "wof:lastmodified":1684354537,
     "wof:name":"Torre do Terrenho, Sebadelhe da Serra e Terrenho",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":401,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

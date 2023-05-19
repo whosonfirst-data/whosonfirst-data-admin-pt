@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110657",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Avenidas Novas",
+    "eurostat:nuts_2021_id":"110657",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110657",
+    "eurostat:population":21625,
+    "eurostat:population_year":2020,
     "geom:area":0.00031,
+    "geom:area_square_m":2991808.643068,
     "geom:bbox":"-9.16648102189,38.7248707894,-9.14162184805,38.7482578438",
     "geom:latitude":38.73746,
     "geom:longitude":-9.152329,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Avenidas Novas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110657",
+        "eurostat:nuts_2021_id":"110657",
         "pt-dgt:id":"110657"
     },
     "wof:country":"PT",
     "wof:created":1576698181,
-    "wof:geomhash":"87ab85e85db97be68f4319d97b111528",
+    "wof:geomhash":"ea1014a081c2dcb445dfffa99b313a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712493,
+    "wof:lastmodified":1684354491,
     "wof:name":"Avenidas Novas",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":21625,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carregosa",
+    "eurostat:nuts_2021_id":"011301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011301",
+    "eurostat:population":3419,
+    "eurostat:population_year":2020,
     "geom:area":0.001263,
+    "geom:area_square_m":11803006.805397,
     "geom:bbox":"-8.43539913928,40.8672550751,-8.38511984351,40.9153464769",
     "geom:latitude":40.890188,
     "geom:longitude":-8.412088,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carregosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011301",
+        "eurostat:nuts_2021_id":"011301",
         "pt-dgt:id":"011301"
     },
     "wof:country":"PT",
     "wof:created":1576698864,
-    "wof:geomhash":"80fc0a22d379be9ce5956a5802ccb648",
+    "wof:geomhash":"65d1354934e1bb75d2355ca63b6d4d91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712660,
+    "wof:lastmodified":1684354611,
     "wof:name":"Carregosa",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":3419,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

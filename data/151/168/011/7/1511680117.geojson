@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Cavalos",
+    "eurostat:nuts_2021_id":"140705",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140705",
+    "eurostat:population":1032,
+    "eurostat:population_year":2020,
     "geom:area":0.012528,
+    "geom:area_square_m":119949264.909849,
     "geom:bbox":"-8.58053248858,39.1959240744,-8.38243934959,39.326470869",
     "geom:latitude":39.259791,
     "geom:longitude":-8.475968,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale de Cavalos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140705",
+        "eurostat:nuts_2021_id":"140705",
         "pt-dgt:id":"140705"
     },
     "wof:country":"PT",
     "wof:created":1576698297,
-    "wof:geomhash":"fc53e8831eac4a93e4e411f784253f5f",
+    "wof:geomhash":"1dace55a02d606dbaad276228931a4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712525,
+    "wof:lastmodified":1684354511,
     "wof:name":"Vale de Cavalos",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1032,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

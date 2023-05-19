@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveira do Douro",
+    "eurostat:nuts_2021_id":"131712",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131712",
+    "eurostat:population":22383,
+    "eurostat:population_year":2020,
     "geom:area":0.000808,
-    "geom:area_square_m":7526541.432224,
+    "geom:area_square_m":7526541.432223,
     "geom:bbox":"-8.604322,41.104299,-8.568832,41.142424",
     "geom:latitude":41.125484,
     "geom:longitude":-8.585272,
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Oliveira do Douro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131712",
+        "eurostat:nuts_2021_id":"131712",
         "pt-dgt:id":"131712"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698939,
-    "wof:geomhash":"4901bb4dd1a41377a365323c41aef0c9",
+    "wof:geomhash":"0b8d5e64ba1c6ffce8f76cab999bb034",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987227,
+    "wof:lastmodified":1684354624,
     "wof:name":"Oliveira do Douro",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":22383,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monforte da Beira",
+    "eurostat:nuts_2021_id":"050216",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050216",
+    "eurostat:population":378,
+    "eurostat:population_year":2020,
     "geom:area":0.012645,
+    "geom:area_square_m":120226233.618987,
     "geom:bbox":"-7.33203712259,39.657126623,-7.17915346754,39.7996964724",
     "geom:latitude":39.741317,
     "geom:longitude":-7.264262,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Monforte da Beira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050216",
+        "eurostat:nuts_2021_id":"050216",
         "pt-dgt:id":"050216"
     },
     "wof:country":"PT",
     "wof:created":1576698431,
-    "wof:geomhash":"d32b46ebc7af360c41414fdae661547c",
+    "wof:geomhash":"a4c7ec219416c90df0c99f0378628c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712568,
+    "wof:lastmodified":1684354539,
     "wof:name":"Monforte da Beira",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":378,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

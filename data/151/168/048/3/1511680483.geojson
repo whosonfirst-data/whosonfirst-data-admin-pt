@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_142106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"F\u00e1tima",
+    "eurostat:nuts_2021_id":"142106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"142106",
+    "eurostat:population":11596,
+    "eurostat:population_year":2020,
     "geom:area":0.007532,
+    "geom:area_square_m":71770753.111696,
     "geom:bbox":"-8.70225150011,39.5358192369,-8.58738599205,39.6526036958",
     "geom:latitude":39.593976,
     "geom:longitude":-8.646635,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"F\u00e1tima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_142106",
+        "eurostat:nuts_2021_id":"142106",
         "pt-dgt:id":"142106"
     },
     "wof:country":"PT",
     "wof:created":1576698382,
-    "wof:geomhash":"3d454fbb45a58d343361c912748e2aa6",
+    "wof:geomhash":"b50dd14f33b0c560181f68a1d4edcd29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712553,
+    "wof:lastmodified":1684354528,
     "wof:name":"F\u00e1tima",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":11596,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

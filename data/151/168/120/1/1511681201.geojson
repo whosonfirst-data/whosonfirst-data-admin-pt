@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pomares",
+    "eurostat:nuts_2021_id":"060112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060112",
+    "eurostat:population":513,
+    "eurostat:population_year":2020,
     "geom:area":0.003336,
+    "geom:area_square_m":31483706.48483,
     "geom:bbox":"-7.91176999197,40.2165113543,-7.82560360152,40.2865499755",
     "geom:latitude":40.252458,
     "geom:longitude":-7.87072,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pomares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060112",
+        "eurostat:nuts_2021_id":"060112",
         "pt-dgt:id":"060112"
     },
     "wof:country":"PT",
     "wof:created":1576698547,
-    "wof:geomhash":"973b97bc512c3b5ccd3b7ad5608be4ab",
+    "wof:geomhash":"4b13769f41c927b0a2a60b359a8062ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712603,
+    "wof:lastmodified":1684354562,
     "wof:name":"Pomares",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":513,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

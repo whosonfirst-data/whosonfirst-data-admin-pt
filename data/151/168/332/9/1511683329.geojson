@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040408",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagoa\u00e7a e Fornos",
+    "eurostat:nuts_2021_id":"040408",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040408",
+    "eurostat:population":617,
+    "eurostat:population_year":2020,
     "geom:area":0.006896,
+    "geom:area_square_m":64165668.346037,
     "geom:bbox":"-6.81871272971,41.1425586673,-6.68826318892,41.2486000795",
     "geom:latitude":41.194532,
     "geom:longitude":-6.74893,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Lagoa\u00e7a e Fornos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040408",
+        "eurostat:nuts_2021_id":"040408",
         "pt-dgt:id":"040408"
     },
     "wof:country":"PT",
     "wof:created":1576698988,
-    "wof:geomhash":"e0cdc323675fcc0bc78f518e59ace54d",
+    "wof:geomhash":"aeda89a2690d8faeba328e2a53a9f532",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712684,
+    "wof:lastmodified":1684354636,
     "wof:name":"Lagoa\u00e7a e Fornos",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":617,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

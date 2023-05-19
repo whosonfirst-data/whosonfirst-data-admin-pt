@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040829",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brunhozinho, Castanheira e Sanhoane",
+    "eurostat:nuts_2021_id":"040829",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040829",
+    "eurostat:population":289,
+    "eurostat:population_year":2020,
     "geom:area":0.004601,
+    "geom:area_square_m":42688826.601683,
     "geom:bbox":"-6.61563607544,41.3349812345,-6.49263145727,41.4206232783",
     "geom:latitude":41.377352,
     "geom:longitude":-6.55874,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Brunhozinho, Castanheira e Sanhoane",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040829",
+        "eurostat:nuts_2021_id":"040829",
         "pt-dgt:id":"040829"
     },
     "wof:country":"PT",
     "wof:created":1576699139,
-    "wof:geomhash":"99248e81b2cd4dd56d4e86f90db3406c",
+    "wof:geomhash":"de33d85b7028e7db3e65327134f808aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712710,
+    "wof:lastmodified":1684354665,
     "wof:name":"Brunhozinho, Castanheira e Sanhoane",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":289,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

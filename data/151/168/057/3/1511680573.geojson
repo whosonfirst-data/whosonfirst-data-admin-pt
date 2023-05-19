@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreira de Aves",
+    "eurostat:nuts_2021_id":"181704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181704",
+    "eurostat:population":2464,
+    "eurostat:population_year":2020,
     "geom:area":0.007057,
+    "geom:area_square_m":66051206.023879,
     "geom:bbox":"-7.72354889367,40.7692553304,-7.59133519807,40.8528060463",
     "geom:latitude":40.808898,
     "geom:longitude":-7.663108,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ferreira de Aves",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181704",
+        "eurostat:nuts_2021_id":"181704",
         "pt-dgt:id":"181704"
     },
     "wof:country":"PT",
     "wof:created":1576698405,
-    "wof:geomhash":"fb1de889d72cece08cbeb93f9afc0662",
+    "wof:geomhash":"c9503e18fd84eb660d94093641467503",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712561,
+    "wof:lastmodified":1684354533,
     "wof:name":"Ferreira de Aves",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":2464,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

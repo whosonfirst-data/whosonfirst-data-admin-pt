@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170215",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sapi\u00e3os",
+    "eurostat:nuts_2021_id":"170215",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170215",
+    "eurostat:population":488,
+    "eurostat:population_year":2020,
     "geom:area":0.002283,
+    "geom:area_square_m":21069892.33863,
     "geom:bbox":"-7.668441713,41.6813840821,-7.56272495629,41.7447395334",
     "geom:latitude":41.713117,
     "geom:longitude":-7.617007,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sapi\u00e3os",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170215",
+        "eurostat:nuts_2021_id":"170215",
         "pt-dgt:id":"170215"
     },
     "wof:country":"PT",
     "wof:created":1576698085,
-    "wof:geomhash":"8e34ae973dd697569d7b74ca754bd149",
+    "wof:geomhash":"7cee69fc52d48e1a9fdde70e86f2943c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712470,
+    "wof:lastmodified":1684354477,
     "wof:name":"Sapi\u00e3os",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":488,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

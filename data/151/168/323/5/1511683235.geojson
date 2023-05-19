@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sedielos",
+    "eurostat:nuts_2021_id":"170809",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170809",
+    "eurostat:population":911,
+    "eurostat:population_year":2020,
     "geom:area":0.001356,
+    "geom:area_square_m":12617692.315296,
     "geom:bbox":"-7.89408976269,41.1846305567,-7.84379624716,41.225893368",
     "geom:latitude":41.204095,
     "geom:longitude":-7.868038,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sedielos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170809",
+        "eurostat:nuts_2021_id":"170809",
         "pt-dgt:id":"170809"
     },
     "wof:country":"PT",
     "wof:created":1576698969,
-    "wof:geomhash":"3aabde55c00808b5857fa9a25481f33e",
+    "wof:geomhash":"9e01b0e24224984d92adb5673d026499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712680,
+    "wof:lastmodified":1684354630,
     "wof:name":"Sedielos",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":911,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010913",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lourosa",
+    "eurostat:nuts_2021_id":"010913",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010913",
+    "eurostat:population":8636,
+    "eurostat:population_year":2020,
     "geom:area":0.000618,
-    "geom:area_square_m":5766794.61588,
+    "geom:area_square_m":5766794.615879,
     "geom:bbox":"-8.560091,40.966541,-8.524522,40.998272",
     "geom:latitude":40.98201,
     "geom:longitude":-8.54384,
@@ -24,6 +36,8 @@
     "pt-dgt:freguesia":"Lourosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -31,6 +45,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010913",
+        "eurostat:nuts_2021_id":"010913",
         "pt-dgt:id":"010913"
     },
     "wof:coterminous":[
@@ -38,7 +54,7 @@
     ],
     "wof:country":"PT",
     "wof:created":1576698879,
-    "wof:geomhash":"13cab735c12de063cebfe8821c4b38b6",
+    "wof:geomhash":"8af600a7c5f1cd13f53268a3cdd863b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607987226,
+    "wof:lastmodified":1684354613,
     "wof:name":"Lourosa",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":8636,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

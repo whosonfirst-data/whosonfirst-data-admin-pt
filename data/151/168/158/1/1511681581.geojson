@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090724",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marmeleiro",
+    "eurostat:nuts_2021_id":"090724",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090724",
+    "eurostat:population":361,
+    "eurostat:population_year":2020,
     "geom:area":0.003146,
+    "geom:area_square_m":29589463.194856,
     "geom:bbox":"-7.13829901353,40.4406193662,-7.05288902776,40.4987210344",
     "geom:latitude":40.471473,
     "geom:longitude":-7.097462,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Marmeleiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090724",
+        "eurostat:nuts_2021_id":"090724",
         "pt-dgt:id":"090724"
     },
     "wof:country":"PT",
     "wof:created":1576698626,
-    "wof:geomhash":"ad8dd292f363d154067f73acdb0f35d5",
+    "wof:geomhash":"2a68515b0a37c1b18362a102b301d91c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712619,
+    "wof:lastmodified":1684354573,
     "wof:name":"Marmeleiro",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":361,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada do Monte e Cubalh\u00e3o",
+    "eurostat:nuts_2021_id":"160321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160321",
+    "eurostat:population":526,
+    "eurostat:population_year":2020,
     "geom:area":0.003244,
+    "geom:area_square_m":29794812.356175,
     "geom:bbox":"-8.28109642623,42.0001316694,-8.21381397181,42.0753766056",
     "geom:latitude":42.039296,
     "geom:longitude":-8.246738,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Parada do Monte e Cubalh\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160321",
+        "eurostat:nuts_2021_id":"160321",
         "pt-dgt:id":"160321"
     },
     "wof:country":"PT",
     "wof:created":1576698687,
-    "wof:geomhash":"54e40db9e0e7fa8d76af96970171f31f",
+    "wof:geomhash":"4b3120af2604948730dfe0618f208e07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712630,
+    "wof:lastmodified":1684354583,
     "wof:name":"Parada do Monte e Cubalh\u00e3o",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":526,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

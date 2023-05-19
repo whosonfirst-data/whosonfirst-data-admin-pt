@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130515",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nevogilde",
+    "eurostat:nuts_2021_id":"130515",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130515",
+    "eurostat:population":2617,
+    "eurostat:population_year":2020,
     "geom:area":0.000369,
+    "geom:area_square_m":3433263.145875,
     "geom:bbox":"-8.33380349842,41.246244372,-8.30452638371,41.2698066688",
     "geom:latitude":41.258624,
     "geom:longitude":-8.319567,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nevogilde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130515",
+        "eurostat:nuts_2021_id":"130515",
         "pt-dgt:id":"130515"
     },
     "wof:country":"PT",
     "wof:created":1576698999,
-    "wof:geomhash":"01195d383e8e25621b74d6a4c859dacb",
+    "wof:geomhash":"978fc739b749665ce70ff02f0242885d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712687,
+    "wof:lastmodified":1684354639,
     "wof:name":"Nevogilde",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2617,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

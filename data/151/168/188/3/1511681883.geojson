@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160440",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Troporiz e Lapela",
+    "eurostat:nuts_2021_id":"160440",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160440",
+    "eurostat:population":497,
+    "eurostat:population_year":2020,
     "geom:area":0.000431,
+    "geom:area_square_m":3956991.654073,
     "geom:bbox":"-8.54684057519,42.0440098305,-8.50536459772,42.063724918",
     "geom:latitude":42.054199,
     "geom:longitude":-8.52447,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Troporiz e Lapela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160440",
+        "eurostat:nuts_2021_id":"160440",
         "pt-dgt:id":"160440"
     },
     "wof:country":"PT",
     "wof:created":1576698685,
-    "wof:geomhash":"5c9131d563995618c0e4f225308777b6",
+    "wof:geomhash":"7044a03a831abdbacf6ce7fc29443d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712630,
+    "wof:lastmodified":1684354583,
     "wof:name":"Troporiz e Lapela",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":497,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

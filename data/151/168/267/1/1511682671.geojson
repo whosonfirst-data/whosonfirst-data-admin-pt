@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pardilh\u00f3",
+    "eurostat:nuts_2021_id":"010805",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010805",
+    "eurostat:population":4176,
+    "eurostat:population_year":2020,
     "geom:area":0.001675,
+    "geom:area_square_m":15683389.089888,
     "geom:bbox":"-8.66718032345,40.7758467324,-8.58968816586,40.8163435299",
     "geom:latitude":40.796673,
     "geom:longitude":-8.624167,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pardilh\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010805",
+        "eurostat:nuts_2021_id":"010805",
         "pt-dgt:id":"010805"
     },
     "wof:country":"PT",
     "wof:created":1576698852,
-    "wof:geomhash":"0b0da298b7445e67dbad5c1fdbb28f03",
+    "wof:geomhash":"f5cbb56095bfa4bcaa1444ad96c5b23b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712657,
+    "wof:lastmodified":1684354608,
     "wof:name":"Pardilh\u00f3",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":4176,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

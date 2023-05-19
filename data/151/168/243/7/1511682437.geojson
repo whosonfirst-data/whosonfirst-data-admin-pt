@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Talhadas",
+    "eurostat:nuts_2021_id":"011708",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011708",
+    "eurostat:population":1187,
+    "eurostat:population_year":2020,
     "geom:area":0.00305,
+    "geom:area_square_m":28608397.409123,
     "geom:bbox":"-8.37453858238,40.6367619765,-8.28883164172,40.6945412108",
     "geom:latitude":40.666318,
     "geom:longitude":-8.329328,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Talhadas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011708",
+        "eurostat:nuts_2021_id":"011708",
         "pt-dgt:id":"011708"
     },
     "wof:country":"PT",
     "wof:created":1576698798,
-    "wof:geomhash":"ac67589088bc1d4da054f6f66b48a136",
+    "wof:geomhash":"78ea2fc584255824c18407b4818f504d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712648,
+    "wof:lastmodified":1684354599,
     "wof:name":"Talhadas",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1187,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

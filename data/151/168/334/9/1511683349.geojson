@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobrosa",
+    "eurostat:nuts_2021_id":"131021",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131021",
+    "eurostat:population":2641,
+    "eurostat:population_year":2020,
     "geom:area":0.000505,
+    "geom:area_square_m":4696214.082177,
     "geom:bbox":"-8.37222054426,41.2377472762,-8.33481547966,41.2597714369",
     "geom:latitude":41.249863,
     "geom:longitude":-8.352394,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sobrosa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131021",
+        "eurostat:nuts_2021_id":"131021",
         "pt-dgt:id":"131021"
     },
     "wof:country":"PT",
     "wof:created":1576698992,
-    "wof:geomhash":"dfd165df2208edcd760b440e747f43a1",
+    "wof:geomhash":"51071dd5193a4a3f3f10828687fc5efb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712685,
+    "wof:lastmodified":1684354637,
     "wof:name":"Sobrosa",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2641,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

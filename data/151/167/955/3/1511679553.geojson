@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quinta do Conde",
+    "eurostat:nuts_2021_id":"151103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151103",
+    "eurostat:population":26255,
+    "eurostat:population_year":2020,
     "geom:area":0.001485,
+    "geom:area_square_m":14364545.135363,
     "geom:bbox":"-9.10082789013,38.5331338753,-9.03162427459,38.5833189689",
     "geom:latitude":38.552008,
     "geom:longitude":-9.063013,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Quinta do Conde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151103",
+        "eurostat:nuts_2021_id":"151103",
         "pt-dgt:id":"151103"
     },
     "wof:country":"PT",
     "wof:created":1576698151,
-    "wof:geomhash":"b2f9ef9b651b6f8602bf70ba261eb8f1",
+    "wof:geomhash":"a3339037d75bc0bb69f468c98d8dbd54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712486,
+    "wof:lastmodified":1684354488,
     "wof:name":"Quinta do Conde",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":26255,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

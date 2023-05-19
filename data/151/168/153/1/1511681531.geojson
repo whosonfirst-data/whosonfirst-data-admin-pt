@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moita",
+    "eurostat:nuts_2021_id":"010307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010307",
+    "eurostat:population":2484,
+    "eurostat:population_year":2020,
     "geom:area":0.003628,
+    "geom:area_square_m":34138373.238088,
     "geom:bbox":"-8.43457952407,40.4227541468,-8.31757673355,40.4754632361",
     "geom:latitude":40.445639,
     "geom:longitude":-8.371791,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Moita",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010307",
+        "eurostat:nuts_2021_id":"010307",
         "pt-dgt:id":"010307"
     },
     "wof:country":"PT",
     "wof:created":1576698615,
-    "wof:geomhash":"93b7915ef294a104605e30b09f5c76f4",
+    "wof:geomhash":"ba6ba56e413d098782cf48a481e51a61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712617,
+    "wof:lastmodified":1684354572,
     "wof:name":"Moita",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2484,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

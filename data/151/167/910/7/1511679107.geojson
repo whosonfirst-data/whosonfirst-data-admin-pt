@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pombalinho",
+    "eurostat:nuts_2021_id":"141203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141203",
+    "eurostat:population":448,
+    "eurostat:population_year":2020,
     "geom:area":0.000804,
+    "geom:area_square_m":7692745.734008,
     "geom:bbox":"-8.5912639691,39.3165037345,-8.54281518678,39.3520164629",
     "geom:latitude":39.334477,
     "geom:longitude":-8.564921,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pombalinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141203",
+        "eurostat:nuts_2021_id":"141203",
         "pt-dgt:id":"141203"
     },
     "wof:country":"PT",
     "wof:created":1576698050,
-    "wof:geomhash":"5440d392565262626be0517bbc5c8034",
+    "wof:geomhash":"4f7913ac2983f6470c8788398aae5ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712463,
+    "wof:lastmodified":1684354473,
     "wof:name":"Pombalinho",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":448,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

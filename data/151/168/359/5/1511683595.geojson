@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Macedo de Cavaleiros",
+    "eurostat:nuts_2021_id":"040520",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040520",
+    "eurostat:population":6257,
+    "eurostat:population_year":2020,
     "geom:area":0.001609,
+    "geom:area_square_m":14887784.997427,
     "geom:bbox":"-6.98978807936,41.5139981671,-6.93524034417,41.567341433",
     "geom:latitude":41.537563,
     "geom:longitude":-6.965855,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Macedo de Cavaleiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040520",
+        "eurostat:nuts_2021_id":"040520",
         "pt-dgt:id":"040520"
     },
     "wof:country":"PT",
     "wof:created":1576699043,
-    "wof:geomhash":"0492fc5781e0141c59d4b45a9480fa9e",
+    "wof:geomhash":"82c036c7bea120064f151710f74219e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712695,
+    "wof:lastmodified":1684354647,
     "wof:name":"Macedo de Cavaleiros",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":6257,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

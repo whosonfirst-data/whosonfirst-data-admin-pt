@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141628",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gan\u00e7aria",
+    "eurostat:nuts_2021_id":"141628",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141628",
+    "eurostat:population":514,
+    "eurostat:population_year":2020,
     "geom:area":0.000584,
+    "geom:area_square_m":5583807.750062,
     "geom:bbox":"-8.89944744922,39.3894530495,-8.86045895742,39.416154889",
     "geom:latitude":39.401844,
     "geom:longitude":-8.87937,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gan\u00e7aria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141628",
+        "eurostat:nuts_2021_id":"141628",
         "pt-dgt:id":"141628"
     },
     "wof:country":"PT",
     "wof:created":1576698305,
-    "wof:geomhash":"71ed842400f7f0e3709348ba22391316",
+    "wof:geomhash":"e1c30bcb881b27bcb3b13a54b33fa7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712528,
+    "wof:lastmodified":1684354513,
     "wof:name":"Gan\u00e7aria",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":514,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

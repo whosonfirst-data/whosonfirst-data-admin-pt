@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mosteiro",
+    "eurostat:nuts_2021_id":"480107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480107",
+    "eurostat:population":43,
+    "eurostat:population_year":2020,
     "geom:area":0.000627,
+    "geom:area_square_m":5988256.830632,
     "geom:bbox":"-31.2640269647,39.4008713903,-31.2228018686,39.428670765",
     "geom:latitude":39.413808,
     "geom:longitude":-31.24389,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Mosteiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480107",
+        "eurostat:nuts_2021_id":"480107",
         "pt-dgt:id":"480107"
     },
     "wof:country":"PT",
     "wof:created":1576699443,
-    "wof:geomhash":"31fab9adfc38f235f37bb33d7e16aefe",
+    "wof:geomhash":"ef941b899d2b963bc2aa64f61e94a15d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720293,
+    "wof:lastmodified":1684354717,
     "wof:name":"Mosteiro",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":43,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

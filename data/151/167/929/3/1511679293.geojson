@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sabadim",
+    "eurostat:nuts_2021_id":"160133",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160133",
+    "eurostat:population":468,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
+    "geom:area_square_m":8318121.328845,
     "geom:bbox":"-8.49247030761,41.8943476329,-8.43732984704,41.9212783668",
     "geom:latitude":41.906862,
     "geom:longitude":-8.465439,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sabadim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160133",
+        "eurostat:nuts_2021_id":"160133",
         "pt-dgt:id":"160133"
     },
     "wof:country":"PT",
     "wof:created":1576698093,
-    "wof:geomhash":"4aea2f7bbc8a3dab9492b1183b46e50d",
+    "wof:geomhash":"6516a2ef0b0854dcf8104834f0acc1c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Sabadim",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":468,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

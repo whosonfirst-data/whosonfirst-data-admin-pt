@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Margarida da Coutada",
+    "eurostat:nuts_2021_id":"140803",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140803",
+    "eurostat:population":1788,
+    "eurostat:population_year":2020,
     "geom:area":0.006141,
+    "geom:area_square_m":58669546.285314,
     "geom:bbox":"-8.33851980962,39.3373203569,-8.24081725043,39.4710709112",
     "geom:latitude":39.404489,
     "geom:longitude":-8.285775,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Margarida da Coutada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140803",
+        "eurostat:nuts_2021_id":"140803",
         "pt-dgt:id":"140803"
     },
     "wof:country":"PT",
     "wof:created":1576698318,
-    "wof:geomhash":"63c353e1d56375cc689651c2b401098d",
+    "wof:geomhash":"fa5ebec2ac91f222be39ee41f2796c22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354516,
     "wof:name":"Santa Margarida da Coutada",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1788,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

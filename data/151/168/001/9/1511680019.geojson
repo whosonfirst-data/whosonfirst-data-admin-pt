@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110114",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Verde dos Francos",
+    "eurostat:nuts_2021_id":"110114",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110114",
+    "eurostat:population":1162,
+    "eurostat:population_year":2020,
     "geom:area":0.002931,
+    "geom:area_square_m":28106319.521827,
     "geom:bbox":"-9.15606068495,39.1198652006,-9.0664499192,39.1873513963",
     "geom:latitude":39.156808,
     "geom:longitude":-9.115444,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Verde dos Francos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110114",
+        "eurostat:nuts_2021_id":"110114",
         "pt-dgt:id":"110114"
     },
     "wof:country":"PT",
     "wof:created":1576698273,
-    "wof:geomhash":"d9e68057a622d360dfaa5a1f3ac31ab0",
+    "wof:geomhash":"3527be3abcbe8f31c247e3c45c626081",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712519,
+    "wof:lastmodified":1684354507,
     "wof:name":"Vila Verde dos Francos",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":1162,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

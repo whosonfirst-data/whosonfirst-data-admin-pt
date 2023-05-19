@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobral de Monte Agra\u00e7o",
+    "eurostat:nuts_2021_id":"111203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"111203",
+    "eurostat:population":3406,
+    "eurostat:population_year":2020,
     "geom:area":0.000904,
+    "geom:area_square_m":8688466.845828,
     "geom:bbox":"-9.21243384965,38.9920720153,-9.13339944704,39.0348647779",
     "geom:latitude":39.014084,
     "geom:longitude":-9.16975,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sobral de Monte Agra\u00e7o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111203",
+        "eurostat:nuts_2021_id":"111203",
         "pt-dgt:id":"111203"
     },
     "wof:country":"PT",
     "wof:created":1576698233,
-    "wof:geomhash":"27228b5433a0314d6324a8d72f34e1fa",
+    "wof:geomhash":"f89e7eaa9a5987bd8c6c8450f22752df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712508,
+    "wof:lastmodified":1684354501,
     "wof:name":"Sobral de Monte Agra\u00e7o",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":3406,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

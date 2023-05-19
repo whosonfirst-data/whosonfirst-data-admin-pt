@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Argoncilhe",
+    "eurostat:nuts_2021_id":"010901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010901",
+    "eurostat:population":8420,
+    "eurostat:population_year":2020,
     "geom:area":0.000879,
+    "geom:area_square_m":8203126.28125,
     "geom:bbox":"-8.55766217337,40.9976193792,-8.52032724612,41.0405085135",
     "geom:latitude":41.019658,
     "geom:longitude":-8.540026,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Argoncilhe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010901",
+        "eurostat:nuts_2021_id":"010901",
         "pt-dgt:id":"010901"
     },
     "wof:country":"PT",
     "wof:created":1576698883,
-    "wof:geomhash":"aa7912590e089d5945ee572b722a06db",
+    "wof:geomhash":"05937b1c330c41f50d3ce1f1ffad4835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712664,
+    "wof:lastmodified":1684354614,
     "wof:name":"Argoncilhe",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":8420,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malhou, Louriceira e Espinheiro",
+    "eurostat:nuts_2021_id":"140212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140212",
+    "eurostat:population":1909,
+    "eurostat:population_year":2020,
     "geom:area":0.003605,
+    "geom:area_square_m":34427462.920916,
     "geom:bbox":"-8.76401248838,39.3988037354,-8.65199939924,39.4810621869",
     "geom:latitude":39.43009,
     "geom:longitude":-8.713029,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Malhou, Louriceira e Espinheiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140212",
+        "eurostat:nuts_2021_id":"140212",
         "pt-dgt:id":"140212"
     },
     "wof:country":"PT",
     "wof:created":1576698322,
-    "wof:geomhash":"1f6d69451849c5e4737f7d5b60fc69d2",
+    "wof:geomhash":"684159fd5d5625994310b6ac7500c980",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712533,
+    "wof:lastmodified":1684354516,
     "wof:name":"Malhou, Louriceira e Espinheiro",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1909,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180908",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lapa do Lobo",
+    "eurostat:nuts_2021_id":"180908",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180908",
+    "eurostat:population":756,
+    "eurostat:population_year":2020,
     "geom:area":0.000778,
+    "geom:area_square_m":7313382.694746,
     "geom:bbox":"-7.92684616667,40.456016045,-7.88816688731,40.4886964496",
     "geom:latitude":40.473682,
     "geom:longitude":-7.908472,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lapa do Lobo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180908",
+        "eurostat:nuts_2021_id":"180908",
         "pt-dgt:id":"180908"
     },
     "wof:country":"PT",
     "wof:created":1576698618,
-    "wof:geomhash":"0676acbf254d4a452ff2a09a77c7a420",
+    "wof:geomhash":"2f7ad4393986c7344efaf11a12d5a5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712618,
+    "wof:lastmodified":1684354572,
     "wof:name":"Lapa do Lobo",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":756,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

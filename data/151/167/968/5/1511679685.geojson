@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Campolide",
+    "eurostat:nuts_2021_id":"110610",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110610",
+    "eurostat:population":15460,
+    "eurostat:population_year":2020,
     "geom:area":0.000287,
+    "geom:area_square_m":2771846.013956,
     "geom:bbox":"-9.18015047084,38.7223011767,-9.15547514153,38.7416701896",
     "geom:latitude":38.731154,
     "geom:longitude":-9.167271,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Campolide",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110610",
+        "eurostat:nuts_2021_id":"110610",
         "pt-dgt:id":"110610"
     },
     "wof:country":"PT",
     "wof:created":1576698180,
-    "wof:geomhash":"181093d11cec047ba347d42a827222af",
+    "wof:geomhash":"272184c36b6dc0807330284c7e729307",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712492,
+    "wof:lastmodified":1684354491,
     "wof:name":"Campolide",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":15460,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

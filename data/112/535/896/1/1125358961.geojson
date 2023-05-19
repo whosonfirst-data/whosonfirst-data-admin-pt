@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bonfim",
+    "eurostat:nuts_2021_id":"131202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131202",
+    "eurostat:population":24265,
+    "eurostat:population_year":2020,
     "geom:area":0.000332,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":3092270.831159,
     "geom:bbox":"-8.604694,41.138351,-8.586408,41.167183",
     "geom:latitude":41.151713,
     "geom:longitude":-8.596119,
@@ -94,6 +106,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -101,6 +115,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131202",
+        "eurostat:nuts_2021_id":"131202",
         "gn:id":8012853,
         "pt-dgt:id":131202,
         "qs_pg:id":856924
@@ -113,7 +129,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"32d4aa561da99ecd2f932771df8c5131",
+    "wof:geomhash":"055814d9b6be887a989ddd96083c9189",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,10 +139,12 @@
         }
     ],
     "wof:id":1125358961,
-    "wof:lastmodified":1633981621,
+    "wof:lastmodified":1684354446,
     "wof:name":"Bonfim",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":24265,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

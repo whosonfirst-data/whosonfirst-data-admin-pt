@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"M\u00e9rtola",
+    "eurostat:nuts_2021_id":"020904",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020904",
+    "eurostat:population":2824,
+    "eurostat:population_year":2020,
     "geom:area":0.032975,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":322606825.26677,
     "geom:bbox":"-7.76403520312,37.5822520204,-7.56507303437,37.8320221669",
     "geom:latitude":37.701776,
     "geom:longitude":-7.666492,
@@ -118,6 +130,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -125,6 +139,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020904",
+        "eurostat:nuts_2021_id":"020904",
         "gn:id":8010894,
         "pt-dgt:id":20904,
         "qs_pg:id":1042290
@@ -134,7 +150,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"0329a83880afd41d3cc90c96f7d208ba",
+    "wof:geomhash":"de612dfe2d3a599bf74596a641d79e00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -144,10 +160,12 @@
         }
     ],
     "wof:id":1125394577,
-    "wof:lastmodified":1582359921,
+    "wof:lastmodified":1684354448,
     "wof:name":"M\u00e9rtola",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":2824,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

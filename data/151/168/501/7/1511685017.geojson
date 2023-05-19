@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160153",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arcos de Valdevez (S\u00e3o Paio) e Giela",
+    "eurostat:nuts_2021_id":"160153",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160153",
+    "eurostat:population":1661,
+    "eurostat:population_year":2020,
     "geom:area":0.000598,
+    "geom:area_square_m":5512450.725082,
     "geom:bbox":"-8.4231083741,41.833793063,-8.38885479901,41.8616593399",
     "geom:latitude":41.847054,
     "geom:longitude":-8.407297,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Arcos de Valdevez (S\u00e3o Paio) e Giela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160153",
+        "eurostat:nuts_2021_id":"160153",
         "pt-dgt:id":"160153"
     },
     "wof:country":"PT",
     "wof:created":1576699344,
-    "wof:geomhash":"c076e769aa0aaa0c4d99d5a896b7e8ad",
+    "wof:geomhash":"13ba750faa069237e0fccadf68b791f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712739,
+    "wof:lastmodified":1684354692,
     "wof:name":"Arcos de Valdevez (S\u00e3o Paio) e Giela",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1661,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

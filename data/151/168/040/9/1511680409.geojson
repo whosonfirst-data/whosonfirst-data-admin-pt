@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sardoal",
+    "eurostat:nuts_2021_id":"141703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141703",
+    "eurostat:population":2404,
+    "eurostat:population_year":2020,
     "geom:area":0.003144,
+    "geom:area_square_m":29982367.037719,
     "geom:bbox":"-8.19523696607,39.5061503195,-8.10834024018,39.573840109",
     "geom:latitude":39.542479,
     "geom:longitude":-8.15551,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sardoal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141703",
+        "eurostat:nuts_2021_id":"141703",
         "pt-dgt:id":"141703"
     },
     "wof:country":"PT",
     "wof:created":1576698362,
-    "wof:geomhash":"e1eb02470feb7b3dfebcbc7c78a1b352",
+    "wof:geomhash":"a78e03f92b476b16c9eda93dd317376d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712545,
+    "wof:lastmodified":1684354524,
     "wof:name":"Sardoal",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2404,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

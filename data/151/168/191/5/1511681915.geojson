@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gosende",
+    "eurostat:nuts_2021_id":"180309",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180309",
+    "eurostat:population":426,
+    "eurostat:population_year":2020,
     "geom:area":0.00219,
+    "geom:area_square_m":20433007.922518,
     "geom:bbox":"-7.96541693515,40.974461351,-7.8765007288,41.0266205939",
     "geom:latitude":40.99951,
     "geom:longitude":-7.923548,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gosende",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180309",
+        "eurostat:nuts_2021_id":"180309",
         "pt-dgt:id":"180309"
     },
     "wof:country":"PT",
     "wof:created":1576698691,
-    "wof:geomhash":"464abae77b7e8d0eec260ccd3d961cce",
+    "wof:geomhash":"a96a560211f36367407804285e63fdf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712631,
+    "wof:lastmodified":1684354584,
     "wof:name":"Gosende",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":426,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

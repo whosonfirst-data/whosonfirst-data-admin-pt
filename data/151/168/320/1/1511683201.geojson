@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gouvinhas",
+    "eurostat:nuts_2021_id":"171004",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171004",
+    "eurostat:population":267,
+    "eurostat:population_year":2020,
     "geom:area":0.001574,
+    "geom:area_square_m":14644270.469027,
     "geom:bbox":"-7.6581796495,41.1584721779,-7.60115826035,41.2139173154",
     "geom:latitude":41.185847,
     "geom:longitude":-7.630033,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gouvinhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171004",
+        "eurostat:nuts_2021_id":"171004",
         "pt-dgt:id":"171004"
     },
     "wof:country":"PT",
     "wof:created":1576698962,
-    "wof:geomhash":"a9157965576d6ddfb68223e2185a59ae",
+    "wof:geomhash":"3b0cab01b8df9e117f260402f5e2893f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712678,
+    "wof:lastmodified":1684354628,
     "wof:name":"Gouvinhas",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":267,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

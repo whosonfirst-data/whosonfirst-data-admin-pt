@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110702",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bucelas",
+    "eurostat:nuts_2021_id":"110702",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110702",
+    "eurostat:population":4663,
+    "eurostat:population_year":2020,
     "geom:area":0.003527,
+    "geom:area_square_m":33937693.192123,
     "geom:bbox":"-9.18341332045,38.8778173548,-9.07042719248,38.9409137626",
     "geom:latitude":38.912175,
     "geom:longitude":-9.124841,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bucelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110702",
+        "eurostat:nuts_2021_id":"110702",
         "pt-dgt:id":"110702"
     },
     "wof:country":"PT",
     "wof:created":1576698214,
-    "wof:geomhash":"0e07bc7bb40d6ce4a97ce4bec79979b6",
+    "wof:geomhash":"a29798225497f7787bfce8b40e0d01d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712501,
+    "wof:lastmodified":1684354497,
     "wof:name":"Bucelas",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":4663,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

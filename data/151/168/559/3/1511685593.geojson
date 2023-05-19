@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Achadas da Cruz",
+    "eurostat:nuts_2021_id":"310601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310601",
+    "eurostat:population":159,
+    "eurostat:population_year":2020,
     "geom:area":0.000759,
+    "geom:area_square_m":7886198.578891,
     "geom:bbox":"-17.2305626442,32.8243675972,-17.1894983577,32.8578353131",
     "geom:latitude":32.840355,
     "geom:longitude":-17.208185,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Achadas da Cruz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310601",
+        "eurostat:nuts_2021_id":"310601",
         "pt-dgt:id":"310601"
     },
     "wof:country":"PT",
     "wof:created":1576699486,
-    "wof:geomhash":"a64a02b49379543bb503a2e1eec0ad2b",
+    "wof:geomhash":"dbad7843c12ee6f1aea036478539e29a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720279,
+    "wof:lastmodified":1684354739,
     "wof:name":"Achadas da Cruz",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":159,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moimenta da Beira",
+    "eurostat:nuts_2021_id":"180710",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180710",
+    "eurostat:population":2888,
+    "eurostat:population_year":2020,
     "geom:area":0.000991,
+    "geom:area_square_m":9253912.018534,
     "geom:bbox":"-7.62413742665,40.9706800878,-7.58148953209,41.0092029477",
     "geom:latitude":40.988851,
     "geom:longitude":-7.601459,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Moimenta da Beira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180710",
+        "eurostat:nuts_2021_id":"180710",
         "pt-dgt:id":"180710"
     },
     "wof:country":"PT",
     "wof:created":1576698628,
-    "wof:geomhash":"7be69657f6f14fa321f8258a886c2482",
+    "wof:geomhash":"cb6d8e6768dfdc3bf81724be8f537596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712620,
+    "wof:lastmodified":1684354574,
     "wof:name":"Moimenta da Beira",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":2888,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

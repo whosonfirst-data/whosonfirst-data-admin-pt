@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pa\u00fal do Mar",
+    "eurostat:nuts_2021_id":"310106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310106",
+    "eurostat:population":871,
+    "eurostat:population_year":2020,
     "geom:area":0.000135,
+    "geom:area_square_m":1401049.382697,
     "geom:bbox":"-17.2406847605,32.7465349806,-17.2165437344,32.7702551192",
     "geom:latitude":32.75962,
     "geom:longitude":-17.228431,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Pa\u00fal do Mar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310106",
+        "eurostat:nuts_2021_id":"310106",
         "pt-dgt:id":"310106"
     },
     "wof:country":"PT",
     "wof:created":1576699450,
-    "wof:geomhash":"e29dd63e66f71baec5d10c47c647d222",
+    "wof:geomhash":"fef193b86ab24e2affce11c01b9c545b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720305,
+    "wof:lastmodified":1684354720,
     "wof:name":"Pa\u00fal do Mar",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":871,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

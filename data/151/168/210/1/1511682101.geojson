@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090750",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Cort\u00eas do Mondego",
+    "eurostat:nuts_2021_id":"090750",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090750",
+    "eurostat:population":298,
+    "eurostat:population_year":2020,
     "geom:area":0.000466,
+    "geom:area_square_m":4378356.645702,
     "geom:bbox":"-7.32590650093,40.5928797114,-7.29882057717,40.618985447",
     "geom:latitude":40.605244,
     "geom:longitude":-7.310893,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Cort\u00eas do Mondego",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090750",
+        "eurostat:nuts_2021_id":"090750",
         "pt-dgt:id":"090750"
     },
     "wof:country":"PT",
     "wof:created":1576698728,
-    "wof:geomhash":"1d33d30329a63be4e7112ebbe766abfc",
+    "wof:geomhash":"d59aba9dd68f58dec80a02d96a9eb42e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712637,
+    "wof:lastmodified":1684354590,
     "wof:name":"Vila Cort\u00eas do Mondego",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":298,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

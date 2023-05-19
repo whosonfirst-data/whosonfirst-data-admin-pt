@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unhais da Serra",
+    "eurostat:nuts_2021_id":"050325",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050325",
+    "eurostat:population":1398,
+    "eurostat:population_year":2020,
     "geom:area":0.00317,
+    "geom:area_square_m":29897869.304224,
     "geom:bbox":"-7.65515130099,40.2336270817,-7.57828303939,40.3243522459",
     "geom:latitude":40.28297,
     "geom:longitude":-7.614002,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Unhais da Serra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050325",
+        "eurostat:nuts_2021_id":"050325",
         "pt-dgt:id":"050325"
     },
     "wof:country":"PT",
     "wof:created":1576698560,
-    "wof:geomhash":"a974289f9bb64e9da94d4fce771ddde5",
+    "wof:geomhash":"8a80b15e12d6b9a1108e52b3421d0e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712606,
+    "wof:lastmodified":1684354564,
     "wof:name":"Unhais da Serra",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1398,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

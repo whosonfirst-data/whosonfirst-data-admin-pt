@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131723",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar de Andorinho",
+    "eurostat:nuts_2021_id":"131723",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131723",
+    "eurostat:population":18155,
+    "eurostat:population_year":2020,
     "geom:area":0.000757,
+    "geom:area_square_m":7056057.552583,
     "geom:bbox":"-8.59821424688,41.0868906944,-8.55261051421,41.1162811589",
     "geom:latitude":41.09994,
     "geom:longitude":-8.57418,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar de Andorinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131723",
+        "eurostat:nuts_2021_id":"131723",
         "pt-dgt:id":"131723"
     },
     "wof:country":"PT",
     "wof:created":1576698924,
-    "wof:geomhash":"1db017d7a79370831095c8da65103323",
+    "wof:geomhash":"b4797589ba6eb6d037ebedcd1c09ee96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712671,
+    "wof:lastmodified":1684354621,
     "wof:name":"Vilar de Andorinho",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":18155,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

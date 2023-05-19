@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091210",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sabugueiro",
+    "eurostat:nuts_2021_id":"091210",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091210",
+    "eurostat:population":478,
+    "eurostat:population_year":2020,
     "geom:area":0.004249,
+    "geom:area_square_m":40024255.804663,
     "geom:bbox":"-7.66217345303,40.3447350953,-7.58343245616,40.4237699813",
     "geom:latitude":40.384079,
     "geom:longitude":-7.619942,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sabugueiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091210",
+        "eurostat:nuts_2021_id":"091210",
         "pt-dgt:id":"091210"
     },
     "wof:country":"PT",
     "wof:created":1576698596,
-    "wof:geomhash":"3dd96e6973f93b7a13e3a04302152c6b",
+    "wof:geomhash":"1615c83a78cec56213412cbb88d030f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712613,
+    "wof:lastmodified":1684354569,
     "wof:name":"Sabugueiro",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":478,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

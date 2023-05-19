@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170312",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ervededo",
+    "eurostat:nuts_2021_id":"170312",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170312",
+    "eurostat:population":646,
+    "eurostat:population_year":2020,
     "geom:area":0.00219,
+    "geom:area_square_m":20178037.478442,
     "geom:bbox":"-7.54458082726,41.7948401308,-7.47501300499,41.8458730473",
     "geom:latitude":41.820021,
     "geom:longitude":-7.511908,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ervededo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170312",
+        "eurostat:nuts_2021_id":"170312",
         "pt-dgt:id":"170312"
     },
     "wof:country":"PT",
     "wof:created":1576699339,
-    "wof:geomhash":"bbd467b6a1b78435c050f2cfba257ff0",
+    "wof:geomhash":"ad9f16f1c81f9be704c3cb83ea0d1c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712738,
+    "wof:lastmodified":1684354691,
     "wof:name":"Ervededo",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":646,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

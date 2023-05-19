@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_470106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Horta (Ang\u00fastias)",
+    "eurostat:nuts_2021_id":"470106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"470106",
+    "eurostat:population":2418,
+    "eurostat:population_year":2020,
     "geom:area":0.000392,
+    "geom:area_square_m":3787119.12397,
     "geom:bbox":"-28.6556912861,38.5151632585,-28.6196290203,38.5417409133",
     "geom:latitude":38.528203,
     "geom:longitude":-28.637879,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Horta (Ang\u00fastias)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_470106",
+        "eurostat:nuts_2021_id":"470106",
         "pt-dgt:id":"470106"
     },
     "wof:country":"PT",
     "wof:created":1576703603,
-    "wof:geomhash":"60a3c671227073560d62a2ac68dec36e",
+    "wof:geomhash":"1f928f20908164693882ebb928c714d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720367,
+    "wof:lastmodified":1684354742,
     "wof:name":"Horta (Ang\u00fastias)",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":2418,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_470101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Capelo",
+    "eurostat:nuts_2021_id":"470101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"470101",
+    "eurostat:population":486,
+    "eurostat:population_year":2020,
     "geom:area":0.002755,
+    "geom:area_square_m":26630036.841966,
     "geom:bbox":"-28.8347961397,38.55941155,-28.7211055091,38.6117487104",
     "geom:latitude":38.585571,
     "geom:longitude":-28.781573,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Capelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_470101",
+        "eurostat:nuts_2021_id":"470101",
         "pt-dgt:id":"470101"
     },
     "wof:country":"PT",
     "wof:created":1576703609,
-    "wof:geomhash":"e5a676cf222e4f8dd61bb3640724770e",
+    "wof:geomhash":"21d3405130d1941b8830f017c13a0a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720366,
+    "wof:lastmodified":1684354743,
     "wof:name":"Capelo",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":486,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

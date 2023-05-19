@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontes",
+    "eurostat:nuts_2021_id":"140118",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140118",
+    "eurostat:population":627,
+    "eurostat:population_year":2020,
     "geom:area":0.002988,
+    "geom:area_square_m":28459455.037876,
     "geom:bbox":"-8.26768922535,39.5840202991,-8.18436082902,39.6464937159",
     "geom:latitude":39.61536,
     "geom:longitude":-8.226099,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fontes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140118",
+        "eurostat:nuts_2021_id":"140118",
         "pt-dgt:id":"140118"
     },
     "wof:country":"PT",
     "wof:created":1576698378,
-    "wof:geomhash":"149a0d710a15f5b8d5be176fb1e2585c",
+    "wof:geomhash":"ce8c0313bf1e6cdaf5ff3508770177cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712551,
+    "wof:lastmodified":1684354527,
     "wof:name":"Fontes",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":627,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

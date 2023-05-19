@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170324",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redondelo",
+    "eurostat:nuts_2021_id":"170324",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170324",
+    "eurostat:population":527,
+    "eurostat:population_year":2020,
     "geom:area":0.002024,
+    "geom:area_square_m":18678566.956019,
     "geom:bbox":"-7.59229255879,41.6881388395,-7.53159230327,41.7516729089",
     "geom:latitude":41.718334,
     "geom:longitude":-7.55907,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Redondelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170324",
+        "eurostat:nuts_2021_id":"170324",
         "pt-dgt:id":"170324"
     },
     "wof:country":"PT",
     "wof:created":1576699287,
-    "wof:geomhash":"219884eadbbb2e86fd5983b53862deb6",
+    "wof:geomhash":"7176585ecc891cc65a5875b2bbf800ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712731,
+    "wof:lastmodified":1684354685,
     "wof:name":"Redondelo",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":527,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

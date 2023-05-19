@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130339",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Cova da Lixa e Borba de Godim",
+    "eurostat:nuts_2021_id":"130339",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130339",
+    "eurostat:population":6191,
+    "eurostat:population_year":2020,
     "geom:area":0.001448,
+    "geom:area_square_m":13447351.498909,
     "geom:bbox":"-8.18243520552,41.3117600671,-8.10961713104,41.3485173068",
     "geom:latitude":41.328039,
     "geom:longitude":-8.143559,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vila Cova da Lixa e Borba de Godim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130339",
+        "eurostat:nuts_2021_id":"130339",
         "pt-dgt:id":"130339"
     },
     "wof:country":"PT",
     "wof:created":1576699102,
-    "wof:geomhash":"ac0a64114b5870211b29101df8062dce",
+    "wof:geomhash":"07e251fa94d6b54858d9a18252591d93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712703,
+    "wof:lastmodified":1684354656,
     "wof:name":"Vila Cova da Lixa e Borba de Godim",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":6191,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

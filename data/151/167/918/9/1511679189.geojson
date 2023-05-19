@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090621",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova de Tazem",
+    "eurostat:nuts_2021_id":"090621",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090621",
+    "eurostat:population":1708,
+    "eurostat:population_year":2020,
     "geom:area":0.001695,
+    "geom:area_square_m":15935378.445367,
     "geom:bbox":"-7.74210030026,40.4868673357,-7.67371046615,40.5275764226",
     "geom:latitude":40.50551,
     "geom:longitude":-7.706487,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova de Tazem",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090621",
+        "eurostat:nuts_2021_id":"090621",
         "pt-dgt:id":"090621"
     },
     "wof:country":"PT",
     "wof:created":1576698068,
-    "wof:geomhash":"80d1afea0094f84e75311f3e71135f66",
+    "wof:geomhash":"728b50d4376640c5ace6ae307984d1f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712468,
+    "wof:lastmodified":1684354476,
     "wof:name":"Vila Nova de Tazem",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":1708,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

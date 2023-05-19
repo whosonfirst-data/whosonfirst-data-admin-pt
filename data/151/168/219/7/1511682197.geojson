@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030107",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carrazedo",
+    "eurostat:nuts_2021_id":"030107",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030107",
+    "eurostat:population":732,
+    "eurostat:population_year":2020,
     "geom:area":0.000293,
+    "geom:area_square_m":2703984.675725,
     "geom:bbox":"-8.39565973642,41.6211202396,-8.37406357508,41.6428162932",
     "geom:latitude":41.631803,
     "geom:longitude":-8.385126,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carrazedo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030107",
+        "eurostat:nuts_2021_id":"030107",
         "pt-dgt:id":"030107"
     },
     "wof:country":"PT",
     "wof:created":1576698752,
-    "wof:geomhash":"1ff49588a06b3700b7518de1f5f4a8ee",
+    "wof:geomhash":"699ac880c0ccdec29b9ddbf849f4e7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712640,
+    "wof:lastmodified":1684354593,
     "wof:name":"Carrazedo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":732,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

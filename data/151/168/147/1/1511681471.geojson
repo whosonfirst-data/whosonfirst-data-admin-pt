@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090747",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valhelhas",
+    "eurostat:nuts_2021_id":"090747",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090747",
+    "eurostat:population":396,
+    "eurostat:population_year":2020,
     "geom:area":0.00214,
+    "geom:area_square_m":20153342.161678,
     "geom:bbox":"-7.43149147666,40.3806076527,-7.36549792382,40.442629581",
     "geom:latitude":40.404304,
     "geom:longitude":-7.401381,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valhelhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090747",
+        "eurostat:nuts_2021_id":"090747",
         "pt-dgt:id":"090747"
     },
     "wof:country":"PT",
     "wof:created":1576698603,
-    "wof:geomhash":"a66f299be4595271e5da3bdfe7b1dae6",
+    "wof:geomhash":"8fbfa0c2816b1251fd618896eebb863d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712615,
+    "wof:lastmodified":1684354570,
     "wof:name":"Valhelhas",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":396,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

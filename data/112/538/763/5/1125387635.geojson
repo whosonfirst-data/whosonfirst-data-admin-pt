@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110919",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Enxara do Bispo, Gradil e Vila Franca do Ros\u00e1rio",
+    "eurostat:nuts_2021_id":"110919",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110919",
+    "eurostat:population":3837,
+    "eurostat:population_year":2020,
     "geom:area":0.003289,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":31614559.06999,
     "geom:bbox":"-9.29311058653,38.9439041251,-9.20161224946,39.0197607322",
     "geom:latitude":38.982741,
     "geom:longitude":-9.241794,
@@ -49,6 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -56,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110919",
+        "eurostat:nuts_2021_id":"110919",
         "gn:id":8012532,
         "pt-dgt:id":110919,
         "qs_pg:id":906898
@@ -65,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"be43e1dfa55efc3c1fbcc87c2c273402",
+    "wof:geomhash":"7883541c02ae928ba37d4c1980bf0110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,10 +91,12 @@
         }
     ],
     "wof:id":1125387635,
-    "wof:lastmodified":1582359923,
+    "wof:lastmodified":1684354448,
     "wof:name":"Enxara do Bispo, Gradil e Vila Franca do Ros\u00e1rio",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":3837,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

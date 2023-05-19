@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_161004",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Covas",
+    "eurostat:nuts_2021_id":"161004",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"161004",
+    "eurostat:population":675,
+    "eurostat:population_year":2020,
     "geom:area":0.003102,
+    "geom:area_square_m":28561731.010886,
     "geom:bbox":"-8.74744897051,41.8466761515,-8.65652911229,41.92097318",
     "geom:latitude":41.879724,
     "geom:longitude":-8.696049,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Covas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_161004",
+        "eurostat:nuts_2021_id":"161004",
         "pt-dgt:id":"161004"
     },
     "wof:country":"PT",
     "wof:created":1576698094,
-    "wof:geomhash":"303f73a31a1b49a2cdd67768e1849ea7",
+    "wof:geomhash":"130d6a6e9c1ec88628e7ecd8618023b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Covas",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":675,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

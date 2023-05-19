@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabe\u00e7a Gorda",
+    "eurostat:nuts_2021_id":"020504",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020504",
+    "eurostat:population":1386,
+    "eurostat:population_year":2020,
     "geom:area":0.008006,
+    "geom:area_square_m":78115378.39121,
     "geom:bbox":"-7.85420857624,37.8384075828,-7.7473369062,37.9660433844",
     "geom:latitude":37.902686,
     "geom:longitude":-7.804154,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabe\u00e7a Gorda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020504",
+        "eurostat:nuts_2021_id":"020504",
         "pt-dgt:id":"020504"
     },
     "wof:country":"PT",
     "wof:created":1576698112,
-    "wof:geomhash":"ae8c3620a3a681824dc567ed9c31de4e",
+    "wof:geomhash":"45dbe1e09e08b5588a99c4a409ee865b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712475,
+    "wof:lastmodified":1684354481,
     "wof:name":"Cabe\u00e7a Gorda",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1386,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

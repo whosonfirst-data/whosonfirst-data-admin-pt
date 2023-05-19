@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182318",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mund\u00e3o",
+    "eurostat:nuts_2021_id":"182318",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182318",
+    "eurostat:population":2385,
+    "eurostat:population_year":2020,
     "geom:area":0.001539,
+    "geom:area_square_m":14429185.468905,
     "geom:bbox":"-7.88733734783,40.6818698112,-7.84526261028,40.7325793893",
     "geom:latitude":40.704817,
     "geom:longitude":-7.866265,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mund\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182318",
+        "eurostat:nuts_2021_id":"182318",
         "pt-dgt:id":"182318"
     },
     "wof:country":"PT",
     "wof:created":1576698821,
-    "wof:geomhash":"deb7556ab7c7f16b85599946a50fb406",
+    "wof:geomhash":"5f6a161c8651cfc4f439e6b331e28860",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712651,
+    "wof:lastmodified":1684354602,
     "wof:name":"Mund\u00e3o",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":2385,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

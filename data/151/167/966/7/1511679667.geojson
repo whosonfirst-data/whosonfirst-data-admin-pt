@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110508",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cascais e Estoril",
+    "eurostat:nuts_2021_id":"110508",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110508",
+    "eurostat:population":61808,
+    "eurostat:population_year":2020,
     "geom:area":0.003019,
+    "geom:area_square_m":29130742.364992,
     "geom:bbox":"-9.48655432742,38.6893739501,-9.36655315335,38.7406695443",
     "geom:latitude":38.711316,
     "geom:longitude":-9.431354,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cascais e Estoril",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110508",
+        "eurostat:nuts_2021_id":"110508",
         "pt-dgt:id":"110508"
     },
     "wof:country":"PT",
     "wof:created":1576698177,
-    "wof:geomhash":"cea16eb88123a07f5cc0a3556e8aa314",
+    "wof:geomhash":"c1ae0077d360961b29fc329670e2fd9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712492,
+    "wof:lastmodified":1684354491,
     "wof:name":"Cascais e Estoril",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":61808,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

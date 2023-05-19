@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia Nova",
+    "eurostat:nuts_2021_id":"091301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091301",
+    "eurostat:population":332,
+    "eurostat:population_year":2020,
     "geom:area":0.002857,
+    "geom:area_square_m":26777609.658824,
     "geom:bbox":"-7.46104418541,40.6894455373,-7.3866432061,40.7622331313",
     "geom:latitude":40.724284,
     "geom:longitude":-7.419107,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aldeia Nova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091301",
+        "eurostat:nuts_2021_id":"091301",
         "pt-dgt:id":"091301"
     },
     "wof:country":"PT",
     "wof:created":1576698833,
-    "wof:geomhash":"3cdd2e7e8f3b94db31034a1a22f164e8",
+    "wof:geomhash":"d0abb64bf667b3d1cf967193dd86fa8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712653,
+    "wof:lastmodified":1684354605,
     "wof:name":"Aldeia Nova",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":332,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

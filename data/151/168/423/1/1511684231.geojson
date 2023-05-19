@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030221",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carvalhas",
+    "eurostat:nuts_2021_id":"030221",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030221",
+    "eurostat:population":691,
+    "eurostat:population_year":2020,
     "geom:area":0.000377,
+    "geom:area_square_m":3489666.685636,
     "geom:bbox":"-8.61088050643,41.4566022797,-8.58364535855,41.4866835658",
     "geom:latitude":41.471168,
     "geom:longitude":-8.594176,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carvalhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030221",
+        "eurostat:nuts_2021_id":"030221",
         "pt-dgt:id":"030221"
     },
     "wof:country":"PT",
     "wof:created":1576699180,
-    "wof:geomhash":"d9c0969a46cbabfaaa57306ed721ad73",
+    "wof:geomhash":"532485c90087b39699423bc077567e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712718,
+    "wof:lastmodified":1684354672,
     "wof:name":"Carvalhas",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":691,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

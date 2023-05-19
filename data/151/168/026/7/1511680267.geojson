@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moitas Venda",
+    "eurostat:nuts_2021_id":"140207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140207",
+    "eurostat:population":866,
+    "eurostat:population_year":2020,
     "geom:area":0.000707,
+    "geom:area_square_m":6745269.403223,
     "geom:bbox":"-8.6885351471,39.4804080294,-8.63436734563,39.5088406149",
     "geom:latitude":39.493925,
     "geom:longitude":-8.660067,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Moitas Venda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140207",
+        "eurostat:nuts_2021_id":"140207",
         "pt-dgt:id":"140207"
     },
     "wof:country":"PT",
     "wof:created":1576698331,
-    "wof:geomhash":"4e1225358fa7933e0a30fd115f6fee3e",
+    "wof:geomhash":"e66bdb43f16539fc5c536e9106835ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712536,
+    "wof:lastmodified":1684354518,
     "wof:name":"Moitas Venda",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":866,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

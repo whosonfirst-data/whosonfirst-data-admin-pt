@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zambujal",
+    "eurostat:nuts_2021_id":"060410",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060410",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.001944,
+    "geom:area_square_m":18399089.173829,
     "geom:bbox":"-8.4967733638,40.0297727248,-8.42639736993,40.0813012316",
     "geom:latitude":40.052884,
     "geom:longitude":-8.462706,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Zambujal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060410",
+        "eurostat:nuts_2021_id":"060410",
         "pt-dgt:id":"060410"
     },
     "wof:country":"PT",
     "wof:created":1576698485,
-    "wof:geomhash":"0a41bcb70387cf533aae68f717f4155e",
+    "wof:geomhash":"099db1b9ca71ce01c9eb29e60c392779",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712588,
+    "wof:lastmodified":1684354551,
     "wof:name":"Zambujal",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

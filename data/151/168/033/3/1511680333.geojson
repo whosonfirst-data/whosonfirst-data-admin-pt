@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobreira",
+    "eurostat:nuts_2021_id":"131020",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131020",
+    "eurostat:population":4300,
+    "eurostat:population_year":2020,
     "geom:area":0.002354,
+    "geom:area_square_m":21931303.96132,
     "geom:bbox":"-8.42134279802,41.0682927724,-8.36838678,41.1673311989",
     "geom:latitude":41.119562,
     "geom:longitude":-8.393939,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sobreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131020",
+        "eurostat:nuts_2021_id":"131020",
         "pt-dgt:id":"131020"
     },
     "wof:country":"PT",
     "wof:created":1576698346,
-    "wof:geomhash":"66e402fb572714f41e2910a1a14a950c",
+    "wof:geomhash":"e566ac691a5e5053bfc8b14760eb6f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712541,
+    "wof:lastmodified":1684354521,
     "wof:name":"Sobreira",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":4300,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

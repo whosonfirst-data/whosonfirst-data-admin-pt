@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081310",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algoz e Tunes",
+    "eurostat:nuts_2021_id":"081310",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081310",
+    "eurostat:population":6491,
+    "eurostat:population_year":2020,
     "geom:area":0.004554,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":44869296.222573,
     "geom:bbox":"-8.33048242493,37.1409572415,-8.24106825847,37.2053161749",
     "geom:latitude":37.173166,
     "geom:longitude":-8.286685,
@@ -79,6 +91,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081310",
+        "eurostat:nuts_2021_id":"081310",
         "gn:id":8012028,
         "pt-dgt:id":81310,
         "qs_pg:id":904359
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"6730c997e1a5a04afdb1a9708897860e",
+    "wof:geomhash":"45891b459688cc486b2c59d105f4b821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":1125270149,
-    "wof:lastmodified":1582359916,
+    "wof:lastmodified":1684354443,
     "wof:name":"Algoz e Tunes",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":6491,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

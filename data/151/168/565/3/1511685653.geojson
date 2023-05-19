@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fontinhas",
+    "eurostat:nuts_2021_id":"430205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430205",
+    "eurostat:population":1594,
+    "eurostat:population_year":2020,
     "geom:area":0.001259,
+    "geom:area_square_m":12145340.662328,
     "geom:bbox":"-27.1504363106,38.7184584233,-27.0858915535,38.7580894155",
     "geom:latitude":38.739014,
     "geom:longitude":-27.115467,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Fontinhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430205",
+        "eurostat:nuts_2021_id":"430205",
         "pt-dgt:id":"430205"
     },
     "wof:country":"PT",
     "wof:created":1576703608,
-    "wof:geomhash":"2a3d39c8de57ad8bcbf830ab289d9a2d",
+    "wof:geomhash":"664fc25c9145c560b86c8aad34990f53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720369,
+    "wof:lastmodified":1684354743,
     "wof:name":"Fontinhas",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1594,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

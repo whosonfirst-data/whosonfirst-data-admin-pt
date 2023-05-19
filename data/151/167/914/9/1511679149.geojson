@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010309",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sangalhos",
+    "eurostat:nuts_2021_id":"010309",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010309",
+    "eurostat:population":4068,
+    "eurostat:population_year":2020,
     "geom:area":0.001795,
+    "geom:area_square_m":16885210.145603,
     "geom:bbox":"-8.5140330435,40.4613323824,-8.4306009694,40.5076083952",
     "geom:latitude":40.487593,
     "geom:longitude":-8.474072,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sangalhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010309",
+        "eurostat:nuts_2021_id":"010309",
         "pt-dgt:id":"010309"
     },
     "wof:country":"PT",
     "wof:created":1576698060,
-    "wof:geomhash":"d98ddded5c126c7127f3decc58eed8a6",
+    "wof:geomhash":"855112359d7048a973e18ee5383bb93c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712466,
+    "wof:lastmodified":1684354475,
     "wof:name":"Sangalhos",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":4068,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

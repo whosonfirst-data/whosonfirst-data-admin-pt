@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Odeceixe",
+    "eurostat:nuts_2021_id":"080303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080303",
+    "eurostat:population":961,
+    "eurostat:population_year":2020,
     "geom:area":0.004264,
+    "geom:area_square_m":41886094.299385,
     "geom:bbox":"-8.8092437669,37.3553312773,-8.6741453676,37.4429479134",
     "geom:latitude":37.399882,
     "geom:longitude":-8.742576,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Odeceixe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080303",
+        "eurostat:nuts_2021_id":"080303",
         "pt-dgt:id":"080303"
     },
     "wof:country":"PT",
     "wof:created":1576698017,
-    "wof:geomhash":"b0de2f5a8635df0a11c1e9a55550b831",
+    "wof:geomhash":"c07d487f6ca22bed1e279ee383a44a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712448,
+    "wof:lastmodified":1684354463,
     "wof:name":"Odeceixe",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":961,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

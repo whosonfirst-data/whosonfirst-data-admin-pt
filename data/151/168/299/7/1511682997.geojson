@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penude",
+    "eurostat:nuts_2021_id":"180517",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180517",
+    "eurostat:population":1666,
+    "eurostat:population_year":2020,
     "geom:area":0.001373,
+    "geom:area_square_m":12800944.193812,
     "geom:bbox":"-7.88358597425,41.0544906362,-7.83501503365,41.1052996407",
     "geom:latitude":41.080062,
     "geom:longitude":-7.858331,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penude",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180517",
+        "eurostat:nuts_2021_id":"180517",
         "pt-dgt:id":"180517"
     },
     "wof:country":"PT",
     "wof:created":1576698919,
-    "wof:geomhash":"d3c52e2cf7557dd779bba42c4a11e1d6",
+    "wof:geomhash":"563ae3ef2f9a198ed682205e4bf7c49a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712670,
+    "wof:lastmodified":1684354620,
     "wof:name":"Penude",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1666,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

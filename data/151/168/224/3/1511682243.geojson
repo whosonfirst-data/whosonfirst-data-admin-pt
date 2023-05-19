@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030212",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Balug\u00e3es",
+    "eurostat:nuts_2021_id":"030212",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030212",
+    "eurostat:population":841,
+    "eurostat:population_year":2020,
     "geom:area":0.000295,
+    "geom:area_square_m":2722255.395157,
     "geom:bbox":"-8.64786792608,41.6316995762,-8.6270955865,41.6543797135",
     "geom:latitude":41.643775,
     "geom:longitude":-8.638648,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Balug\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030212",
+        "eurostat:nuts_2021_id":"030212",
         "pt-dgt:id":"030212"
     },
     "wof:country":"PT",
     "wof:created":1576698760,
-    "wof:geomhash":"df3a8cd217adf97ff922e0f1d2e27d4d",
+    "wof:geomhash":"cd8016b9e177a67b14886ea8cc43557b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712642,
+    "wof:lastmodified":1684354594,
     "wof:name":"Balug\u00e3es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":841,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

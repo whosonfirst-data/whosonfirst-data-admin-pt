@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030890",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Souto Santa Maria, Souto S\u00e3o Salvador e Gondomar",
+    "eurostat:nuts_2021_id":"030890",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030890",
+    "eurostat:population":2096,
+    "eurostat:population_year":2020,
     "geom:area":0.001496,
+    "geom:area_square_m":13850647.511847,
     "geom:bbox":"-8.31969191592,41.4872957667,-8.25467942208,41.5412316047",
     "geom:latitude":41.51155,
     "geom:longitude":-8.285234,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Souto Santa Maria, Souto S\u00e3o Salvador e Gondomar",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030890",
+        "eurostat:nuts_2021_id":"030890",
         "pt-dgt:id":"030890"
     },
     "wof:country":"PT",
     "wof:created":1576699225,
-    "wof:geomhash":"3195c23d058c771655a6f8179ee9ddb5",
+    "wof:geomhash":"b8c87aaf11fec5a90ddd20f8b655d7ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354678,
     "wof:name":"Souto Santa Maria, Souto S\u00e3o Salvador e Gondomar",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2096,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

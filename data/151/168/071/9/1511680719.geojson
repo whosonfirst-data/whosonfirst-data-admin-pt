@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100932",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colmeias e Mem\u00f3ria",
+    "eurostat:nuts_2021_id":"100932",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100932",
+    "eurostat:population":4085,
+    "eurostat:population_year":2020,
     "geom:area":0.004897,
+    "geom:area_square_m":46520848.061034,
     "geom:bbox":"-8.74729819001,39.7743641782,-8.62333534265,39.8391935632",
     "geom:latitude":39.803777,
     "geom:longitude":-8.689438,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Colmeias e Mem\u00f3ria",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100932",
+        "eurostat:nuts_2021_id":"100932",
         "pt-dgt:id":"100932"
     },
     "wof:country":"PT",
     "wof:created":1576698439,
-    "wof:geomhash":"5939b063a080141c5f61faceccc061e6",
+    "wof:geomhash":"4bfde0de760ec473817e619fcdd5d168",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712572,
+    "wof:lastmodified":1684354541,
     "wof:name":"Colmeias e Mem\u00f3ria",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":4085,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

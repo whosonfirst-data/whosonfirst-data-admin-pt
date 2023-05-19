@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Angeja",
+    "eurostat:nuts_2021_id":"010203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"010203",
+    "eurostat:population":2073,
+    "eurostat:population_year":2020,
     "geom:area":0.002264,
+    "geom:area_square_m":21226555.704999,
     "geom:bbox":"-8.63243327394,40.6535985475,-8.51808716543,40.7269756488",
     "geom:latitude":40.689689,
     "geom:longitude":-8.573428,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Angeja",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010203",
+        "eurostat:nuts_2021_id":"010203",
         "pt-dgt:id":"010203"
     },
     "wof:country":"PT",
     "wof:created":1576698818,
-    "wof:geomhash":"3af500caea4bb65b165673b947d2501f",
+    "wof:geomhash":"08ea4a183e5186d8c3c811d26e9acd00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712651,
+    "wof:lastmodified":1684354602,
     "wof:name":"Angeja",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":2073,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

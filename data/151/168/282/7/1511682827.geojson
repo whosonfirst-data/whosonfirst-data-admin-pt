@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Almendra",
+    "eurostat:nuts_2021_id":"091401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"091401",
+    "eurostat:population":386,
+    "eurostat:population_year":2020,
     "geom:area":0.005822,
+    "geom:area_square_m":54328824.570988,
     "geom:bbox":"-7.10716823361,40.9671326342,-6.9766696074,41.0413694928",
     "geom:latitude":41.00021,
     "geom:longitude":-7.03994,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Almendra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091401",
+        "eurostat:nuts_2021_id":"091401",
         "pt-dgt:id":"091401"
     },
     "wof:country":"PT",
     "wof:created":1576698885,
-    "wof:geomhash":"8bfdcd6c280d10923ae47180f50ba9cb",
+    "wof:geomhash":"499ba68c58131074c272ede20188d514",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712664,
+    "wof:lastmodified":1684354614,
     "wof:name":"Almendra",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":386,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

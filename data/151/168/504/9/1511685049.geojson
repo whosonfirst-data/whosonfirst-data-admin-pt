@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gondesende",
+    "eurostat:nuts_2021_id":"040217",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040217",
+    "eurostat:population":194,
+    "eurostat:population_year":2020,
     "geom:area":0.001403,
+    "geom:area_square_m":12919918.490718,
     "geom:bbox":"-6.89056203159,41.8260532476,-6.81282455689,41.8647213429",
     "geom:latitude":41.847441,
     "geom:longitude":-6.855213,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gondesende",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040217",
+        "eurostat:nuts_2021_id":"040217",
         "pt-dgt:id":"040217"
     },
     "wof:country":"PT",
     "wof:created":1576699350,
-    "wof:geomhash":"bd8f6bc224df88c76dda42ec84473512",
+    "wof:geomhash":"fd9cfd0b42f4baaabb6c2dc9534be239",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354693,
     "wof:name":"Gondesende",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":194,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

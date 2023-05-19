@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090603",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cativelos",
+    "eurostat:nuts_2021_id":"090603",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090603",
+    "eurostat:population":724,
+    "eurostat:population_year":2020,
     "geom:area":0.001499,
+    "geom:area_square_m":14090608.581907,
     "geom:bbox":"-7.7215447269,40.5211528692,-7.65427854873,40.5597485668",
     "geom:latitude":40.536617,
     "geom:longitude":-7.687019,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cativelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090603",
+        "eurostat:nuts_2021_id":"090603",
         "pt-dgt:id":"090603"
     },
     "wof:country":"PT",
     "wof:created":1576698704,
-    "wof:geomhash":"8862cfb28ed5030223ea5556c0775fdf",
+    "wof:geomhash":"4fe86b2459f2263cfa1f29024690f143",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712633,
+    "wof:lastmodified":1684354586,
     "wof:name":"Cativelos",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":724,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

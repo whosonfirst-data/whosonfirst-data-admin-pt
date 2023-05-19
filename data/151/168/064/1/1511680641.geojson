@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelo Rodrigo",
+    "eurostat:nuts_2021_id":"090403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090403",
+    "eurostat:population":517,
+    "eurostat:population_year":2020,
     "geom:area":0.003518,
+    "geom:area_square_m":32896102.561777,
     "geom:bbox":"-6.9994479275,40.8420664353,-6.87931229699,40.8945965353",
     "geom:latitude":40.869358,
     "geom:longitude":-6.941159,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castelo Rodrigo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090403",
+        "eurostat:nuts_2021_id":"090403",
         "pt-dgt:id":"090403"
     },
     "wof:country":"PT",
     "wof:created":1576698419,
-    "wof:geomhash":"6da865f3a743ad6550496e029de2ee1b",
+    "wof:geomhash":"5d6cce4724f8f06c0455d4e92edf2c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712565,
+    "wof:lastmodified":1684354536,
     "wof:name":"Castelo Rodrigo",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":517,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

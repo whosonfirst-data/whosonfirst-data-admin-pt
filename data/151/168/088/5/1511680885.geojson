@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tap\u00e9us",
+    "eurostat:nuts_2021_id":"061510",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061510",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.001463,
+    "geom:area_square_m":13854429.665787,
     "geom:bbox":"-8.5710746422,40.0158850688,-8.4921207837,40.0495286004",
     "geom:latitude":40.034078,
     "geom:longitude":-8.52886,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tap\u00e9us",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061510",
+        "eurostat:nuts_2021_id":"061510",
         "pt-dgt:id":"061510"
     },
     "wof:country":"PT",
     "wof:created":1576698480,
-    "wof:geomhash":"f9fe0c5555a3ff31556587174f4e4e4d",
+    "wof:geomhash":"ff0d6d0656a6fbe3bad317615e250a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712586,
+    "wof:lastmodified":1684354550,
     "wof:name":"Tap\u00e9us",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

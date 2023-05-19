@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031342",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila de Prado",
+    "eurostat:nuts_2021_id":"031342",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031342",
+    "eurostat:population":4472,
+    "eurostat:population_year":2020,
     "geom:area":0.000596,
+    "geom:area_square_m":5507454.797993,
     "geom:bbox":"-8.48219256882,41.591425125,-8.44684562782,41.6168318573",
     "geom:latitude":41.604958,
     "geom:longitude":-8.465955,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila de Prado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031342",
+        "eurostat:nuts_2021_id":"031342",
         "pt-dgt:id":"031342"
     },
     "wof:country":"PT",
     "wof:created":1576699061,
-    "wof:geomhash":"51bddf379f2f71359d6b2b4a93ce56bc",
+    "wof:geomhash":"4b0e5835b451e9ed55a770a8fd413450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"Vila de Prado",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":4472,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

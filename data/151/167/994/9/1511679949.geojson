@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ervedal",
+    "eurostat:nuts_2021_id":"120305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120305",
+    "eurostat:population":560,
+    "eurostat:population_year":2020,
     "geom:area":0.003961,
+    "geom:area_square_m":38044859.110243,
     "geom:bbox":"-7.857117611,38.9912512934,-7.77531533834,39.0930850989",
     "geom:latitude":39.035095,
     "geom:longitude":-7.810625,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ervedal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120305",
+        "eurostat:nuts_2021_id":"120305",
         "pt-dgt:id":"120305"
     },
     "wof:country":"PT",
     "wof:created":1576698249,
-    "wof:geomhash":"c1e87af4358d3c2ce98c3fa271bf2f84",
+    "wof:geomhash":"e7f3e0899e37d150d00769cbee44f79a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712512,
+    "wof:lastmodified":1684354503,
     "wof:name":"Ervedal",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":560,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130226",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Teixeira e Teixeir\u00f3",
+    "eurostat:nuts_2021_id":"130226",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130226",
+    "eurostat:population":951,
+    "eurostat:population_year":2020,
     "geom:area":0.002823,
+    "geom:area_square_m":26265114.930315,
     "geom:bbox":"-7.9536249997,41.1728617416,-7.8755793076,41.2489775174",
     "geom:latitude":41.2089,
     "geom:longitude":-7.909252,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Teixeira e Teixeir\u00f3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130226",
+        "eurostat:nuts_2021_id":"130226",
         "pt-dgt:id":"130226"
     },
     "wof:country":"PT",
     "wof:created":1576698983,
-    "wof:geomhash":"f8bb109692ec735e5338b6817ea47365",
+    "wof:geomhash":"a32c0e1f797d7ee021170bb510aadfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712683,
+    "wof:lastmodified":1684354635,
     "wof:name":"Teixeira e Teixeir\u00f3",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":951,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

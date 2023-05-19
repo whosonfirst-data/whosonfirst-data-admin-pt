@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061513",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Degracias e Pombalinho",
+    "eurostat:nuts_2021_id":"061513",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061513",
+    "eurostat:population":1260,
+    "eurostat:population_year":2020,
     "geom:area":0.004163,
+    "geom:area_square_m":39433801.645215,
     "geom:bbox":"-8.55194061538,39.9488437417,-8.42461305721,40.0351196171",
     "geom:latitude":39.999661,
     "geom:longitude":-8.51169,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Degracias e Pombalinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061513",
+        "eurostat:nuts_2021_id":"061513",
         "pt-dgt:id":"061513"
     },
     "wof:country":"PT",
     "wof:created":1576698472,
-    "wof:geomhash":"3d5ec206cf92af5c6f449bf8ea83fca0",
+    "wof:geomhash":"9af828b1a295da853c0b8b18a36c5cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712584,
+    "wof:lastmodified":1684354549,
     "wof:name":"Degracias e Pombalinho",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1260,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

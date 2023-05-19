@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canelas",
+    "eurostat:nuts_2021_id":"131703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131703",
+    "eurostat:population":13459,
+    "eurostat:population_year":2020,
     "geom:area":0.000739,
+    "geom:area_square_m":6892471.747686,
     "geom:bbox":"-8.61485171515,41.0635201243,-8.58066856396,41.0981480466",
     "geom:latitude":41.079331,
     "geom:longitude":-8.600638,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Canelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131703",
+        "eurostat:nuts_2021_id":"131703",
         "pt-dgt:id":"131703"
     },
     "wof:country":"PT",
     "wof:created":1576698916,
-    "wof:geomhash":"97d4cd96e82e18affa1296ad42132e57",
+    "wof:geomhash":"72dbbd4a3457e0dd07869a72abe2d598",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712670,
+    "wof:lastmodified":1684354620,
     "wof:name":"Canelas",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":13459,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

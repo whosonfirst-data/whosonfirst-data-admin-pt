@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora da Expecta\u00e7\u00e3o",
+    "eurostat:nuts_2021_id":"120401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120401",
+    "eurostat:population":3974,
+    "eurostat:population_year":2020,
     "geom:area":0.01092,
+    "geom:area_square_m":104961872.189177,
     "geom:bbox":"-7.11047810433,38.9058539023,-6.95113031416,39.0451537858",
     "geom:latitude":38.980333,
     "geom:longitude":-7.035247,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nossa Senhora da Expecta\u00e7\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120401",
+        "eurostat:nuts_2021_id":"120401",
         "pt-dgt:id":"120401"
     },
     "wof:country":"PT",
     "wof:created":1576698235,
-    "wof:geomhash":"b0b16c1ea04ce208718bd5ffd0099dc4",
+    "wof:geomhash":"11e6bc64e288e7198eb421125e3f7ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712509,
+    "wof:lastmodified":1684354501,
     "wof:name":"Nossa Senhora da Expecta\u00e7\u00e3o",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":3974,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

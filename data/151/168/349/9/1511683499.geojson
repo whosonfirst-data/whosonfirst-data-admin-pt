@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040122",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Eucisia, Gouveia e Valverde",
+    "eurostat:nuts_2021_id":"040122",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040122",
+    "eurostat:population":357,
+    "eurostat:population_year":2020,
     "geom:area":0.005463,
+    "geom:area_square_m":50743187.51979,
     "geom:bbox":"-7.06954851945,41.2544125405,-6.94227374692,41.3576191663",
     "geom:latitude":41.305917,
     "geom:longitude":-7.006597,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Eucisia, Gouveia e Valverde",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040122",
+        "eurostat:nuts_2021_id":"040122",
         "pt-dgt:id":"040122"
     },
     "wof:country":"PT",
     "wof:created":1576699023,
-    "wof:geomhash":"6cd3844515546da0985220507534862b",
+    "wof:geomhash":"a7cdfeeab07c5e9424ac597c1eac0a38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712691,
+    "wof:lastmodified":1684354643,
     "wof:name":"Eucisia, Gouveia e Valverde",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":357,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

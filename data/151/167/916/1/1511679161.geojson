@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090751",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Fernando",
+    "eurostat:nuts_2021_id":"090751",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090751",
+    "eurostat:population":491,
+    "eurostat:population_year":2020,
     "geom:area":0.001728,
+    "geom:area_square_m":16248843.994249,
     "geom:bbox":"-7.19742407159,40.4411199768,-7.11535667504,40.50754915",
     "geom:latitude":40.486929,
     "geom:longitude":-7.159717,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Fernando",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090751",
+        "eurostat:nuts_2021_id":"090751",
         "pt-dgt:id":"090751"
     },
     "wof:country":"PT",
     "wof:created":1576698062,
-    "wof:geomhash":"0f43e21fcc734d488d819b0510d3c1e4",
+    "wof:geomhash":"d69769bb8aa8d26ee3ec2b75dcf2cd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712466,
+    "wof:lastmodified":1684354475,
     "wof:name":"Vila Fernando",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":491,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

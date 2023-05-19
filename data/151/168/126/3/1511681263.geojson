@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091118",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Malcata",
+    "eurostat:nuts_2021_id":"091118",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091118",
+    "eurostat:population":332,
+    "eurostat:population_year":2020,
     "geom:area":0.00225,
+    "geom:area_square_m":21223170.582899,
     "geom:bbox":"-7.10149347041,40.2761360206,-7.02145559504,40.3236705702",
     "geom:latitude":40.296769,
     "geom:longitude":-7.064976,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Malcata",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091118",
+        "eurostat:nuts_2021_id":"091118",
         "pt-dgt:id":"091118"
     },
     "wof:country":"PT",
     "wof:created":1576698561,
-    "wof:geomhash":"796e6ebbd965c4890fb3b049888ef83c",
+    "wof:geomhash":"d31f410168aadf61cf6b490a2fc5be9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712607,
+    "wof:lastmodified":1684354564,
     "wof:name":"Malcata",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":332,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

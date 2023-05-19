@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120903",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Comenda",
+    "eurostat:nuts_2021_id":"120903",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120903",
+    "eurostat:population":890,
+    "eurostat:population_year":2020,
     "geom:area":0.009413,
+    "geom:area_square_m":89943349.219867,
     "geom:bbox":"-7.89535319375,39.3458726469,-7.7454487734,39.4519508405",
     "geom:latitude":39.400602,
     "geom:longitude":-7.828632,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Comenda",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120903",
+        "eurostat:nuts_2021_id":"120903",
         "pt-dgt:id":"120903"
     },
     "wof:country":"PT",
     "wof:created":1576698312,
-    "wof:geomhash":"6f2a5378abe91c60e1bf1d96c1f2b3ca",
+    "wof:geomhash":"35a120949394162c5db483274fa42cc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712530,
+    "wof:lastmodified":1684354515,
     "wof:name":"Comenda",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":890,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

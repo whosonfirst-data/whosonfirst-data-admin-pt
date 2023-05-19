@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Samouco",
+    "eurostat:nuts_2021_id":"150202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150202",
+    "eurostat:population":3143,
+    "eurostat:population_year":2020,
     "geom:area":0.000493,
+    "geom:area_square_m":4757344.059135,
     "geom:bbox":"-9.0310598999,38.7171530412,-8.98490409767,38.749293934",
     "geom:latitude":38.728967,
     "geom:longitude":-9.010766,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Samouco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150202",
+        "eurostat:nuts_2021_id":"150202",
         "pt-dgt:id":"150202"
     },
     "wof:country":"PT",
     "wof:created":1576698178,
-    "wof:geomhash":"3eecf5cfd1a444709e5777f465cdb4b3",
+    "wof:geomhash":"fdced995c89c9ec2f822530f3bcfc6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712492,
+    "wof:lastmodified":1684354491,
     "wof:name":"Samouco",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":3143,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

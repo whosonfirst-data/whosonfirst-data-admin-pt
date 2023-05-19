@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lajeosa do Mondego",
+    "eurostat:nuts_2021_id":"090307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090307",
+    "eurostat:population":698,
+    "eurostat:population_year":2020,
     "geom:area":0.001326,
+    "geom:area_square_m":12445311.960744,
     "geom:bbox":"-7.36486076767,40.5985419416,-7.31043090449,40.6415418995",
     "geom:latitude":40.620613,
     "geom:longitude":-7.337598,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lajeosa do Mondego",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090307",
+        "eurostat:nuts_2021_id":"090307",
         "pt-dgt:id":"090307"
     },
     "wof:country":"PT",
     "wof:created":1576698742,
-    "wof:geomhash":"6b92077503381486c6d88bafe620d1ae",
+    "wof:geomhash":"402f51ab0a40b8730f66d03b0b8912b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712639,
+    "wof:lastmodified":1684354591,
     "wof:name":"Lajeosa do Mondego",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":698,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

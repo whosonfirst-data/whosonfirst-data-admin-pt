@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monsanto",
+    "eurostat:nuts_2021_id":"140208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140208",
+    "eurostat:population":886,
+    "eurostat:population_year":2020,
     "geom:area":0.001933,
+    "geom:area_square_m":18446243.882525,
     "geom:bbox":"-8.7318066081,39.4408515934,-8.66941707316,39.5069545095",
     "geom:latitude":39.474882,
     "geom:longitude":-8.701236,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Monsanto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140208",
+        "eurostat:nuts_2021_id":"140208",
         "pt-dgt:id":"140208"
     },
     "wof:country":"PT",
     "wof:created":1576698330,
-    "wof:geomhash":"640a2325e24282ed5c93f3ad8209ad20",
+    "wof:geomhash":"d0811907d1c50ecec0d0d05006b21c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712536,
+    "wof:lastmodified":1684354518,
     "wof:name":"Monsanto",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":886,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

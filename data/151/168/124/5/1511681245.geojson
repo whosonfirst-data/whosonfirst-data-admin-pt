@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvoco das V\u00e1rzeas",
+    "eurostat:nuts_2021_id":"061102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061102",
+    "eurostat:population":320,
+    "eurostat:population_year":2020,
     "geom:area":0.001231,
+    "geom:area_square_m":11610443.038129,
     "geom:bbox":"-7.85790150668,40.2822418737,-7.80190955893,40.3210892722",
     "geom:latitude":40.303101,
     "geom:longitude":-7.827503,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvoco das V\u00e1rzeas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061102",
+        "eurostat:nuts_2021_id":"061102",
         "pt-dgt:id":"061102"
     },
     "wof:country":"PT",
     "wof:created":1576698557,
-    "wof:geomhash":"91e3a4f2663c6f8f7a8e8de7bc35fa5b",
+    "wof:geomhash":"ae8a1436f8b6f360a17c642f81e21d35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712606,
+    "wof:lastmodified":1684354564,
     "wof:name":"Alvoco das V\u00e1rzeas",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":320,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

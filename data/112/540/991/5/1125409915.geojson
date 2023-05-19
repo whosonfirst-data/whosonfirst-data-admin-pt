@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedofeita, Santo Ildefonso, S\u00e9, Miragaia, S\u00e3o Nicolau e Vit\u00f3ria",
+    "eurostat:nuts_2021_id":"131217",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131217",
+    "eurostat:population":40440,
+    "eurostat:population_year":2020,
     "geom:area":0.000583,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":5426289.529607,
     "geom:bbox":"-8.63593835996,41.1389019841,-8.60122682028,41.1675201844",
     "geom:latitude":41.15359,
     "geom:longitude":-8.615939,
@@ -79,6 +91,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -86,6 +100,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131217",
+        "eurostat:nuts_2021_id":"131217",
         "gn:id":8012855,
         "pt-dgt:id":131217,
         "qs_pg:id":1155636
@@ -95,7 +111,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"3947cc9c0675cb59c24f13223e124a77",
+    "wof:geomhash":"4ec06fa32d0b0724c38c71ca66ae9592",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,10 +121,12 @@
         }
     ],
     "wof:id":1125409915,
-    "wof:lastmodified":1582359926,
+    "wof:lastmodified":1684354450,
     "wof:name":"Cedofeita, Ildefonso, S\u00e9, Miragaia, Nicolau, Vit\u00f3ria",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":40440,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020522",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salvada e Quintos",
+    "eurostat:nuts_2021_id":"020522",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020522",
+    "eurostat:population":1352,
+    "eurostat:population_year":2020,
     "geom:area":0.020459,
+    "geom:area_square_m":199610996.243049,
     "geom:bbox":"-7.80923795565,37.7935918001,-7.63996519758,38.0026541625",
     "geom:latitude":37.902984,
     "geom:longitude":-7.717547,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Salvada e Quintos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020522",
+        "eurostat:nuts_2021_id":"020522",
         "pt-dgt:id":"020522"
     },
     "wof:country":"PT",
     "wof:created":1576698115,
-    "wof:geomhash":"c386bc2b675856e70fe4df23006ce456",
+    "wof:geomhash":"a7b301ed3ef7f6fad107f1e424b43c08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712475,
+    "wof:lastmodified":1684354481,
     "wof:name":"Salvada e Quintos",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1352,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

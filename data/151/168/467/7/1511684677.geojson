@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferral",
+    "eurostat:nuts_2021_id":"170609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170609",
+    "eurostat:population":397,
+    "eurostat:population_year":2020,
     "geom:area":0.001653,
+    "geom:area_square_m":15259332.582439,
     "geom:bbox":"-8.02340996262,41.6755337015,-7.95376847283,41.7198073833",
     "geom:latitude":41.696328,
     "geom:longitude":-7.981828,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ferral",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170609",
+        "eurostat:nuts_2021_id":"170609",
         "pt-dgt:id":"170609"
     },
     "wof:country":"PT",
     "wof:created":1576699278,
-    "wof:geomhash":"ca85ec672977b5049c7ef0494a2666bc",
+    "wof:geomhash":"95a5a042d9d55e5d025f1e25ca626d90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712730,
+    "wof:lastmodified":1684354684,
     "wof:name":"Ferral",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":397,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

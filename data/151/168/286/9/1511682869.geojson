@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penela da Beira",
+    "eurostat:nuts_2021_id":"181207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181207",
+    "eurostat:population":353,
+    "eurostat:population_year":2020,
     "geom:area":0.001969,
+    "geom:area_square_m":18360504.147548,
     "geom:bbox":"-7.45134319332,41.0115604415,-7.39766917382,41.0625327359",
     "geom:latitude":41.038965,
     "geom:longitude":-7.426106,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penela da Beira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181207",
+        "eurostat:nuts_2021_id":"181207",
         "pt-dgt:id":"181207"
     },
     "wof:country":"PT",
     "wof:created":1576698893,
-    "wof:geomhash":"d171e2cbe578f46e4fa4789bc25c5b75",
+    "wof:geomhash":"94425bf5dab5765c0eae96b248801358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712666,
+    "wof:lastmodified":1684354616,
     "wof:name":"Penela da Beira",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":353,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gra\u00e7a",
+    "eurostat:nuts_2021_id":"101301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101301",
+    "eurostat:population":786,
+    "eurostat:population_year":2020,
     "geom:area":0.003311,
+    "geom:area_square_m":31406371.879014,
     "geom:bbox":"-8.26140768572,39.8502554608,-8.18511398098,39.9360294091",
     "geom:latitude":39.896675,
     "geom:longitude":-8.223169,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gra\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101301",
+        "eurostat:nuts_2021_id":"101301",
         "pt-dgt:id":"101301"
     },
     "wof:country":"PT",
     "wof:created":1576698458,
-    "wof:geomhash":"a666e4420fd34adcdba1590f0984029b",
+    "wof:geomhash":"665d4892a3359a4c9bcceed9f4fdeefd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712578,
+    "wof:lastmodified":1684354545,
     "wof:name":"Gra\u00e7a",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":786,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

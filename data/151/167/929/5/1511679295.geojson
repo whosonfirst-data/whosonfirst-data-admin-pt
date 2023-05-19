@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_161013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sopo",
+    "eurostat:nuts_2021_id":"161013",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"161013",
+    "eurostat:population":557,
+    "eurostat:population_year":2020,
     "geom:area":0.001608,
+    "geom:area_square_m":14798250.690517,
     "geom:bbox":"-8.77747127333,41.8762025301,-8.70578109518,41.9209479538",
     "geom:latitude":41.899539,
     "geom:longitude":-8.742605,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sopo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_161013",
+        "eurostat:nuts_2021_id":"161013",
         "pt-dgt:id":"161013"
     },
     "wof:country":"PT",
     "wof:created":1576698094,
-    "wof:geomhash":"6e7c9ac151b496d7692c0513971ad8e9",
+    "wof:geomhash":"8ed4debd691ea8d8690299644e072284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Sopo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":557,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

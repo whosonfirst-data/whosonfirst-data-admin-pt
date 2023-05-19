@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160513",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mozelos",
+    "eurostat:nuts_2021_id":"160513",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160513",
+    "eurostat:population":347,
+    "eurostat:population_year":2020,
     "geom:area":0.000365,
+    "geom:area_square_m":3355342.31522,
     "geom:bbox":"-8.56605590093,41.9174425056,-8.54317064023,41.9419747709",
     "geom:latitude":41.929999,
     "geom:longitude":-8.553761,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mozelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160513",
+        "eurostat:nuts_2021_id":"160513",
         "pt-dgt:id":"160513"
     },
     "wof:country":"PT",
     "wof:created":1576698100,
-    "wof:geomhash":"5d3b4d54d1ca3a539481d03390cde616",
+    "wof:geomhash":"abcea23a65cb7706d1d513e55e549fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712472,
+    "wof:lastmodified":1684354479,
     "wof:name":"Mozelos",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":347,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

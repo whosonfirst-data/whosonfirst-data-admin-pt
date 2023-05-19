@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060518",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moinhos da G\u00e2ndara",
+    "eurostat:nuts_2021_id":"060518",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060518",
+    "eurostat:population":1265,
+    "eurostat:population_year":2020,
     "geom:area":0.001137,
+    "geom:area_square_m":10732331.582054,
     "geom:bbox":"-8.79542996752,40.209975652,-8.74816182641,40.2569612004",
     "geom:latitude":40.229675,
     "geom:longitude":-8.769202,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Moinhos da G\u00e2ndara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060518",
+        "eurostat:nuts_2021_id":"060518",
         "pt-dgt:id":"060518"
     },
     "wof:country":"PT",
     "wof:created":1576698539,
-    "wof:geomhash":"3b88e668fcc234728c1a8ddd2443013a",
+    "wof:geomhash":"a9053e50a93b2f4bb93f5adfe5ebd594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712601,
+    "wof:lastmodified":1684354561,
     "wof:name":"Moinhos da G\u00e2ndara",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1265,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

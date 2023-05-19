@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabril",
+    "eurostat:nuts_2021_id":"170601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170601",
+    "eurostat:population":553,
+    "eurostat:population_year":2020,
     "geom:area":0.008287,
+    "geom:area_square_m":76456491.418682,
     "geom:bbox":"-8.11946507338,41.6876384497,-7.98249297359,41.8242212419",
     "geom:latitude":41.74282,
     "geom:longitude":-8.041217,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabril",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170601",
+        "eurostat:nuts_2021_id":"170601",
         "pt-dgt:id":"170601"
     },
     "wof:country":"PT",
     "wof:created":1576699328,
-    "wof:geomhash":"6a29d71804e532a55c50f360f277fa7d",
+    "wof:geomhash":"496e7f807bd629be0df08adcfb2a7cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712737,
+    "wof:lastmodified":1684354690,
     "wof:name":"Cabril",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":553,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Bartolomeu de Messines",
+    "eurostat:nuts_2021_id":"081305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081305",
+    "eurostat:population":8430,
+    "eurostat:population_year":2020,
     "geom:area":0.024372,
+    "geom:area_square_m":239782299.4439,
     "geom:bbox":"-8.39388538018,37.1960236343,-8.17688057314,37.3800670804",
     "geom:latitude":37.282885,
     "geom:longitude":-8.283554,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Bartolomeu de Messines",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081305",
+        "eurostat:nuts_2021_id":"081305",
         "pt-dgt:id":"081305"
     },
     "wof:country":"PT",
     "wof:created":1576698010,
-    "wof:geomhash":"86a8ab81095adb0f45e04aa1b49c7ac6",
+    "wof:geomhash":"8aa1b56c4e1e6663cd08ffcd2172a1ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712443,
+    "wof:lastmodified":1684354461,
     "wof:name":"S\u00e3o Bartolomeu de Messines",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":8430,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

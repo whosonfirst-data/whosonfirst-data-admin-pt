@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tamanhos",
+    "eurostat:nuts_2021_id":"091321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091321",
+    "eurostat:population":250,
+    "eurostat:population_year":2020,
     "geom:area":0.000887,
+    "geom:area_square_m":8309879.716401,
     "geom:bbox":"-7.33046869037,40.7554586161,-7.28101418073,40.7841599543",
     "geom:latitude":40.768076,
     "geom:longitude":-7.304375,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tamanhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091321",
+        "eurostat:nuts_2021_id":"091321",
         "pt-dgt:id":"091321"
     },
     "wof:country":"PT",
     "wof:created":1576698844,
-    "wof:geomhash":"ea5a262c8776128675e053b3800b1320",
+    "wof:geomhash":"a06144a37e6cbe570cd9ba42bf5f971c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712656,
+    "wof:lastmodified":1684354607,
     "wof:name":"Tamanhos",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":250,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

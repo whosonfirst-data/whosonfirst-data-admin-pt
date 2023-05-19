@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420306",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Faj\u00e3 de Baixo",
+    "eurostat:nuts_2021_id":"420306",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420306",
+    "eurostat:population":5050,
+    "eurostat:population_year":2020,
     "geom:area":0.000416,
+    "geom:area_square_m":4062726.05988,
     "geom:bbox":"-25.6581868782,37.7485515734,-25.6277847209,37.7789808922",
     "geom:latitude":37.764466,
     "geom:longitude":-25.642074,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Faj\u00e3 de Baixo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420306",
+        "eurostat:nuts_2021_id":"420306",
         "pt-dgt:id":"420306"
     },
     "wof:country":"PT",
     "wof:created":1576699412,
-    "wof:geomhash":"65390d2f6ca282b20a6d008d4f0c1813",
+    "wof:geomhash":"fff7b638c524c3d9b01ff87dca24977a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720314,
+    "wof:lastmodified":1684354700,
     "wof:name":"Faj\u00e3 de Baixo",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":5050,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

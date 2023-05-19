@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170358",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz/Trindade e Sanjurge",
+    "eurostat:nuts_2021_id":"170358",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170358",
+    "eurostat:population":3430,
+    "eurostat:population_year":2020,
     "geom:area":0.001449,
+    "geom:area_square_m":13365178.769887,
     "geom:bbox":"-7.53715388177,41.7517552991,-7.4546475003,41.7948401308",
     "geom:latitude":41.770567,
     "geom:longitude":-7.499652,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santa Cruz/Trindade e Sanjurge",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170358",
+        "eurostat:nuts_2021_id":"170358",
         "pt-dgt:id":"170358"
     },
     "wof:country":"PT",
     "wof:created":1576699311,
-    "wof:geomhash":"25a11256eeabcca703f4bfe57c7cf719",
+    "wof:geomhash":"d41bd031980c87426ebf544cef5f0ead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"Santa Cruz/Trindade e Sanjurge",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":3430,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

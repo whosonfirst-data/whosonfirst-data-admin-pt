@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bertiandos",
+    "eurostat:nuts_2021_id":"160708",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160708",
+    "eurostat:population":414,
+    "eurostat:population_year":2020,
     "geom:area":0.000245,
+    "geom:area_square_m":2263549.597816,
     "geom:bbox":"-8.64100011998,41.7466709323,-8.62010989844,41.7686139536",
     "geom:latitude":41.760206,
     "geom:longitude":-8.631033,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bertiandos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160708",
+        "eurostat:nuts_2021_id":"160708",
         "pt-dgt:id":"160708"
     },
     "wof:country":"PT",
     "wof:created":1576699297,
-    "wof:geomhash":"b7cfd489881b79c165775270d0cd6d62",
+    "wof:geomhash":"d21a9fea2e96c641ab4150aad3efa845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354686,
     "wof:name":"Bertiandos",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":414,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

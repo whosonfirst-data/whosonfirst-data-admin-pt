@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moledo e Cristelo",
+    "eurostat:nuts_2021_id":"160224",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160224",
+    "eurostat:population":1566,
+    "eurostat:population_year":2020,
     "geom:area":0.001123,
+    "geom:area_square_m":10341656.872108,
     "geom:bbox":"-8.87694304007,41.828267554,-8.83218608988,41.8682559966",
     "geom:latitude":41.84725,
     "geom:longitude":-8.855489,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Moledo e Cristelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160224",
+        "eurostat:nuts_2021_id":"160224",
         "pt-dgt:id":"160224"
     },
     "wof:country":"PT",
     "wof:created":1576699346,
-    "wof:geomhash":"361dfe77cc2b2de77df9be91dd528ef6",
+    "wof:geomhash":"60738f3c41ae74f6488545364e2dcd3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712739,
+    "wof:lastmodified":1684354692,
     "wof:name":"Moledo e Cristelo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1566,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espadanedo",
+    "eurostat:nuts_2021_id":"180404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"180404",
+    "eurostat:population":1318,
+    "eurostat:population_year":2020,
     "geom:area":0.000568,
+    "geom:area_square_m":5297408.361759,
     "geom:bbox":"-8.2204414315,41.0705598765,-8.17763629819,41.0942142702",
     "geom:latitude":41.084201,
     "geom:longitude":-8.201922,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Espadanedo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180404",
+        "eurostat:nuts_2021_id":"180404",
         "pt-dgt:id":"180404"
     },
     "wof:country":"PT",
     "wof:created":1576698911,
-    "wof:geomhash":"0cfa393b1686b2737561e86532c07df7",
+    "wof:geomhash":"7372c83b57de7ce83962f4a3c0556866",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712669,
+    "wof:lastmodified":1684354619,
     "wof:name":"Espadanedo",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1318,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abrunhosa-a-Velha",
+    "eurostat:nuts_2021_id":"180601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180601",
+    "eurostat:population":563,
+    "eurostat:population_year":2020,
     "geom:area":0.00184,
+    "geom:area_square_m":17279143.515076,
     "geom:bbox":"-7.66501604535,40.5591802909,-7.58030884836,40.5961381085",
     "geom:latitude":40.577927,
     "geom:longitude":-7.626496,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abrunhosa-a-Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180601",
+        "eurostat:nuts_2021_id":"180601",
         "pt-dgt:id":"180601"
     },
     "wof:country":"PT",
     "wof:created":1576698717,
-    "wof:geomhash":"2cb3aefa83fb3fee2976cccf3094ec33",
+    "wof:geomhash":"7f30f49cd0ee42e3d91cb2d883e74be7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712635,
+    "wof:lastmodified":1684354588,
     "wof:name":"Abrunhosa-a-Velha",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":563,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

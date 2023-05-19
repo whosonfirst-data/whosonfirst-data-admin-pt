@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130741",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Boa de Quires e Maureles",
+    "eurostat:nuts_2021_id":"130741",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130741",
+    "eurostat:population":3854,
+    "eurostat:population_year":2020,
     "geom:area":0.002075,
+    "geom:area_square_m":19304628.093547,
     "geom:bbox":"-8.23649948107,41.1654422271,-8.17465465217,41.2212136912",
     "geom:latitude":41.19461,
     "geom:longitude":-8.204123,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Boa de Quires e Maureles",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130741",
+        "eurostat:nuts_2021_id":"130741",
         "pt-dgt:id":"130741"
     },
     "wof:country":"PT",
     "wof:created":1576698966,
-    "wof:geomhash":"aeb5ac00e6f0273b40c6b25a1393e148",
+    "wof:geomhash":"7c48ce6fb5db5b398e6b3246ef3fc25d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712680,
+    "wof:lastmodified":1684354630,
     "wof:name":"Vila Boa de Quires e Maureles",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":3854,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

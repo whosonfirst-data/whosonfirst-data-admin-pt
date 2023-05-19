@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barrancos",
+    "eurostat:nuts_2021_id":"020401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020401",
+    "eurostat:population":1834,
+    "eurostat:population_year":2020,
     "geom:area":0.017306,
+    "geom:area_square_m":168284727.174642,
     "geom:bbox":"-7.21079269778,38.0885159908,-6.93149945999,38.2206627397",
     "geom:latitude":38.148188,
     "geom:longitude":-7.052188,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Barrancos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020401",
+        "eurostat:nuts_2021_id":"020401",
         "pt-dgt:id":"020401"
     },
     "wof:country":"PT",
     "wof:created":1576698128,
-    "wof:geomhash":"db557bd1414f7cc85c2ac66e3abb6723",
+    "wof:geomhash":"b7e35fe077e14a3a27b21cde4e65dffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712479,
+    "wof:lastmodified":1684354483,
     "wof:name":"Barrancos",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":1834,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

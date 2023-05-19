@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sanfins do Douro",
+    "eurostat:nuts_2021_id":"170112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170112",
+    "eurostat:population":1495,
+    "eurostat:population_year":2020,
     "geom:area":0.001837,
+    "geom:area_square_m":17067896.05491,
     "geom:bbox":"-7.56152354604,41.2692425173,-7.48990041872,41.3121957966",
     "geom:latitude":41.292247,
     "geom:longitude":-7.527985,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sanfins do Douro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170112",
+        "eurostat:nuts_2021_id":"170112",
         "pt-dgt:id":"170112"
     },
     "wof:country":"PT",
     "wof:created":1576699074,
-    "wof:geomhash":"332160e52fdeea379db78fa99325a113",
+    "wof:geomhash":"e25603d8cec60ae28716098ed3c83fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712699,
+    "wof:lastmodified":1684354651,
     "wof:name":"Sanfins do Douro",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1495,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

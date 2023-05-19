@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Estreito-Vilar Barroco",
+    "eurostat:nuts_2021_id":"050613",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050613",
+    "eurostat:population":1011,
+    "eurostat:population_year":2020,
     "geom:area":0.009854,
+    "geom:area_square_m":93419616.927026,
     "geom:bbox":"-7.86248158007,39.8663403858,-7.73120941073,40.0113058719",
     "geom:latitude":39.940499,
     "geom:longitude":-7.789256,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Estreito-Vilar Barroco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050613",
+        "eurostat:nuts_2021_id":"050613",
         "pt-dgt:id":"050613"
     },
     "wof:country":"PT",
     "wof:created":1576698473,
-    "wof:geomhash":"e8b3e91e97edb88f10ae8d011c137f48",
+    "wof:geomhash":"00c69d15a819cf5febd498b841fb6b19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712584,
+    "wof:lastmodified":1684354549,
     "wof:name":"Estreito-Vilar Barroco",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1011,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

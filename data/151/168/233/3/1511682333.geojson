@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030291",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvito (S\u00e3o Pedro e S\u00e3o Martinho) e Couto",
+    "eurostat:nuts_2021_id":"030291",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030291",
+    "eurostat:population":1438,
+    "eurostat:population_year":2020,
     "geom:area":0.000923,
+    "geom:area_square_m":8531800.081726,
     "geom:bbox":"-8.61187665721,41.5828222072,-8.57492196724,41.6268643399",
     "geom:latitude":41.605478,
     "geom:longitude":-8.592569,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Alvito (S\u00e3o Pedro e S\u00e3o Martinho) e Couto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030291",
+        "eurostat:nuts_2021_id":"030291",
         "pt-dgt:id":"030291"
     },
     "wof:country":"PT",
     "wof:created":1576698777,
-    "wof:geomhash":"1aa6f068c075087a67b542d704a055a6",
+    "wof:geomhash":"342e0919966cfb5c79db7e8561103c27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Alvito (S\u00e3o Pedro e S\u00e3o Martinho) e Couto",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1438,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

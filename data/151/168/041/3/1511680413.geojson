@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cela",
+    "eurostat:nuts_2021_id":"100106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100106",
+    "eurostat:population":3264,
+    "eurostat:population_year":2020,
     "geom:area":0.002705,
+    "geom:area_square_m":25800506.717266,
     "geom:bbox":"-9.07067990688,39.4944788693,-9.01077658797,39.5718309572",
     "geom:latitude":39.527414,
     "geom:longitude":-9.042419,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100106",
+        "eurostat:nuts_2021_id":"100106",
         "pt-dgt:id":"100106"
     },
     "wof:country":"PT",
     "wof:created":1576698364,
-    "wof:geomhash":"83625a19265044375731bcc1cd1312b3",
+    "wof:geomhash":"940da8a23eede585f2688ff2a8d8f394",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712545,
+    "wof:lastmodified":1684354524,
     "wof:name":"Cela",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3264,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

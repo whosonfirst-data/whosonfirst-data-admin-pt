@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160217",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Praia de \u00c2ncora",
+    "eurostat:nuts_2021_id":"160217",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160217",
+    "eurostat:population":4820,
+    "eurostat:population_year":2020,
     "geom:area":0.000907,
+    "geom:area_square_m":8360271.784331,
     "geom:bbox":"-8.87660842971,41.801553334,-8.83110383089,41.8345104747",
     "geom:latitude":41.820795,
     "geom:longitude":-8.853052,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Praia de \u00c2ncora",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160217",
+        "eurostat:nuts_2021_id":"160217",
         "pt-dgt:id":"160217"
     },
     "wof:country":"PT",
     "wof:created":1576699334,
-    "wof:geomhash":"ba5a5e41717a1910b870e0e06914e0a3",
+    "wof:geomhash":"f72fc5182fde20593c3566091f440a10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712738,
+    "wof:lastmodified":1684354690,
     "wof:name":"Vila Praia de \u00c2ncora",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":4820,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

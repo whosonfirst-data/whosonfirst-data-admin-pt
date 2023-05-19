@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Est\u00eav\u00e3o",
+    "eurostat:nuts_2021_id":"170331",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170331",
+    "eurostat:population":607,
+    "eurostat:population_year":2020,
     "geom:area":0.000939,
+    "geom:area_square_m":8660585.039403,
     "geom:bbox":"-7.44548212319,41.753081526,-7.38935803552,41.7778773489",
     "geom:latitude":41.765875,
     "geom:longitude":-7.415255,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santo Est\u00eav\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170331",
+        "eurostat:nuts_2021_id":"170331",
         "pt-dgt:id":"170331"
     },
     "wof:country":"PT",
     "wof:created":1576699302,
-    "wof:geomhash":"8a967e0f08daf800911588d295e7f797",
+    "wof:geomhash":"c7081c116add2cf60acbd9e53fb5f69c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712733,
+    "wof:lastmodified":1684354687,
     "wof:name":"Santo Est\u00eav\u00e3o",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":607,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

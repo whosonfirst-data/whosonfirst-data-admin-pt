@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sesimbra (Castelo)",
+    "eurostat:nuts_2021_id":"151101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151101",
+    "eurostat:population":19053,
+    "eurostat:population_year":2020,
     "geom:area":0.018513,
+    "geom:area_square_m":179176768.882018,
     "geom:bbox":"-9.22292197461,38.4090744234,-9.0176526004,38.5757599351",
     "geom:latitude":38.4909,
     "geom:longitude":-9.124959,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sesimbra (Castelo)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151101",
+        "eurostat:nuts_2021_id":"151101",
         "pt-dgt:id":"151101"
     },
     "wof:country":"PT",
     "wof:created":1576698141,
-    "wof:geomhash":"e97a6c869d2252893ef53f9f1c845c66",
+    "wof:geomhash":"aeae007d115720a3daec24075d944d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712483,
+    "wof:lastmodified":1684354486,
     "wof:name":"Sesimbra (Castelo)",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":19053,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

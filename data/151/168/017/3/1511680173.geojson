@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nadadouro",
+    "eurostat:nuts_2021_id":"100608",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100608",
+    "eurostat:population":1904,
+    "eurostat:population_year":2020,
     "geom:area":0.001109,
+    "geom:area_square_m":10589540.204542,
     "geom:bbox":"-9.21931637388,39.3988183916,-9.16511157599,39.4380821172",
     "geom:latitude":39.416919,
     "geom:longitude":-9.190791,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nadadouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100608",
+        "eurostat:nuts_2021_id":"100608",
         "pt-dgt:id":"100608"
     },
     "wof:country":"PT",
     "wof:created":1576698310,
-    "wof:geomhash":"d9bd164229ba381e1149d9417c7ce80e",
+    "wof:geomhash":"16fcca14d1b5c9b18d307e640e4d7f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712530,
+    "wof:lastmodified":1684354514,
     "wof:name":"Nadadouro",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1904,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

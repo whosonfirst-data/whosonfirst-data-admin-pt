@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040528",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sezulfe",
+    "eurostat:nuts_2021_id":"040528",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040528",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.001642,
+    "geom:area_square_m":15194705.812742,
     "geom:bbox":"-7.04576508163,41.5378438669,-6.9960771181,41.5833708912",
     "geom:latitude":41.561406,
     "geom:longitude":-7.019844,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sezulfe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040528",
+        "eurostat:nuts_2021_id":"040528",
         "pt-dgt:id":"040528"
     },
     "wof:country":"PT",
     "wof:created":1576699243,
-    "wof:geomhash":"43e961fd04e3f28db2351027a5a714c1",
+    "wof:geomhash":"a99697507aab454d20675affae84dd3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712726,
+    "wof:lastmodified":1684354680,
     "wof:name":"Sezulfe",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

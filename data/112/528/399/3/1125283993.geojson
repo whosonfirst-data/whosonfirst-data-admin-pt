@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cantanhede e Pocari\u00e7a",
+    "eurostat:nuts_2021_id":"060220",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060220",
+    "eurostat:population":8839,
+    "eurostat:population_year":2020,
     "geom:area":0.005734,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":54029892.908668,
     "geom:bbox":"-8.68297953644,40.3082936317,-8.55330395389,40.4017196629",
     "geom:latitude":40.353889,
     "geom:longitude":-8.604891,
@@ -82,6 +94,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -89,6 +103,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060220",
+        "eurostat:nuts_2021_id":"060220",
         "gn:id":8011772,
         "pt-dgt:id":60220,
         "qs_pg:id":1049132
@@ -98,7 +114,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1f7c60f0b7e5b5a0431467a105eb8653",
+    "wof:geomhash":"c02090e05d3a26a4a7f195973778998f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,10 +124,12 @@
         }
     ],
     "wof:id":1125283993,
-    "wof:lastmodified":1582359915,
+    "wof:lastmodified":1684354445,
     "wof:name":"Cantanhede e Pocari\u00e7a",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":8839,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

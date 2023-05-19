@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Merufe",
+    "eurostat:nuts_2021_id":"160415",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160415",
+    "eurostat:population":1097,
+    "eurostat:population_year":2020,
     "geom:area":0.003098,
+    "geom:area_square_m":28468343.340603,
     "geom:bbox":"-8.432078916,41.975650231,-8.34791616866,42.0445258636",
     "geom:latitude":42.006987,
     "geom:longitude":-8.39524,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Merufe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160415",
+        "eurostat:nuts_2021_id":"160415",
         "pt-dgt:id":"160415"
     },
     "wof:country":"PT",
     "wof:created":1576698680,
-    "wof:geomhash":"56b70290baa6199f7e932f0ee8eecc39",
+    "wof:geomhash":"ab3fdaef952344aafde5fb1676b3a85c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354582,
     "wof:name":"Merufe",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1097,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

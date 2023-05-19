@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100606",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foz do Arelho",
+    "eurostat:nuts_2021_id":"100606",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100606",
+    "eurostat:population":1339,
+    "eurostat:population_year":2020,
     "geom:area":0.001007,
+    "geom:area_square_m":9613638.444283,
     "geom:bbox":"-9.23578220459,39.4160169511,-9.18508423282,39.4535144685",
     "geom:latitude":39.434909,
     "geom:longitude":-9.21003,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Foz do Arelho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100606",
+        "eurostat:nuts_2021_id":"100606",
         "pt-dgt:id":"100606"
     },
     "wof:country":"PT",
     "wof:created":1576698314,
-    "wof:geomhash":"6ed01669c0b38d5d40ee3446a8f540f5",
+    "wof:geomhash":"b22a3452966c00b14708d7866f183b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712531,
+    "wof:lastmodified":1684354515,
     "wof:name":"Foz do Arelho",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1339,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

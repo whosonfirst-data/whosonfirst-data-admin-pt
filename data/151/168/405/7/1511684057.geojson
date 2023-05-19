@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031232",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pousada de Saramagos",
+    "eurostat:nuts_2021_id":"031232",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031232",
+    "eurostat:population":2234,
+    "eurostat:population_year":2020,
     "geom:area":0.000228,
+    "geom:area_square_m":2117457.995777,
     "geom:bbox":"-8.44937482099,41.4197933093,-8.42344405988,41.4365924526",
     "geom:latitude":41.42836,
     "geom:longitude":-8.436088,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pousada de Saramagos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031232",
+        "eurostat:nuts_2021_id":"031232",
         "pt-dgt:id":"031232"
     },
     "wof:country":"PT",
     "wof:created":1576699145,
-    "wof:geomhash":"0ed0e0207a3469331bb9b6d9f249610f",
+    "wof:geomhash":"15ec1d8601cdf35919879129d73f3552",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712711,
+    "wof:lastmodified":1684354666,
     "wof:name":"Pousada de Saramagos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2234,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

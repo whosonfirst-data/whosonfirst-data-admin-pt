@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amiais de Baixo",
+    "eurostat:nuts_2021_id":"141607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141607",
+    "eurostat:population":1851,
+    "eurostat:population_year":2020,
     "geom:area":0.000659,
+    "geom:area_square_m":6296585.492208,
     "geom:bbox":"-8.75097779581,39.4291721352,-8.71485714777,39.4619535104",
     "geom:latitude":39.445164,
     "geom:longitude":-8.732262,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Amiais de Baixo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141607",
+        "eurostat:nuts_2021_id":"141607",
         "pt-dgt:id":"141607"
     },
     "wof:country":"PT",
     "wof:created":1576698315,
-    "wof:geomhash":"33887ec59a19e3554350d63d9d620aa5",
+    "wof:geomhash":"d6422ed6651a98840ff70a688a817042",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712531,
+    "wof:lastmodified":1684354515,
     "wof:name":"Amiais de Baixo",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1851,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

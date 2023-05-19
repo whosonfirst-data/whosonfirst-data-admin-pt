@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guard\u00e3o",
+    "eurostat:nuts_2021_id":"182108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182108",
+    "eurostat:population":1490,
+    "eurostat:population_year":2020,
     "geom:area":0.002015,
+    "geom:area_square_m":18930292.102373,
     "geom:bbox":"-8.21509533355,40.5311789984,-8.13735326004,40.6124868044",
     "geom:latitude":40.566772,
     "geom:longitude":-8.17426,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Guard\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182108",
+        "eurostat:nuts_2021_id":"182108",
         "pt-dgt:id":"182108"
     },
     "wof:country":"PT",
     "wof:created":1576698725,
-    "wof:geomhash":"e4cdc69c8bfe5d04b9743394892b8b8a",
+    "wof:geomhash":"d2f9b2d0cab909b6e7b76dd916e2c4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712637,
+    "wof:lastmodified":1684354589,
     "wof:name":"Guard\u00e3o",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1490,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

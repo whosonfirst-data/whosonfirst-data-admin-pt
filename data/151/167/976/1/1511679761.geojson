@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070607",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ciborro",
+    "eurostat:nuts_2021_id":"070607",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070607",
+    "eurostat:population":714,
+    "eurostat:population_year":2020,
     "geom:area":0.005753,
+    "geom:area_square_m":55454177.502549,
     "geom:bbox":"-8.30319094904,38.724736128,-8.17356741186,38.829546965",
     "geom:latitude":38.780276,
     "geom:longitude":-8.243925,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ciborro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070607",
+        "eurostat:nuts_2021_id":"070607",
         "pt-dgt:id":"070607"
     },
     "wof:country":"PT",
     "wof:created":1576698196,
-    "wof:geomhash":"bd3a97a699fda5a7394b673245f19c7d",
+    "wof:geomhash":"f53f4668cd694026b2dab25c25232bae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712496,
+    "wof:lastmodified":1684354493,
     "wof:name":"Ciborro",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":714,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

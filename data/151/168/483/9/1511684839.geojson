@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cib\u00f5es e Brufe",
+    "eurostat:nuts_2021_id":"031020",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031020",
+    "eurostat:population":421,
+    "eurostat:population_year":2020,
     "geom:area":0.002602,
+    "geom:area_square_m":23997050.346065,
     "geom:bbox":"-8.30832262605,41.739311039,-8.21232904733,41.7945630207",
     "geom:latitude":41.766276,
     "geom:longitude":-8.25768,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cib\u00f5es e Brufe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031020",
+        "eurostat:nuts_2021_id":"031020",
         "pt-dgt:id":"031020"
     },
     "wof:country":"PT",
     "wof:created":1576699310,
-    "wof:geomhash":"a204847cb877e4046bd5921ec7b11f5e",
+    "wof:geomhash":"253a62eaed4763f1d71ef031a6f6dbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"Cib\u00f5es e Brufe",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":421,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

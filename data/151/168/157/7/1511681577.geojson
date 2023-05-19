@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabanas de Viriato",
+    "eurostat:nuts_2021_id":"180202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180202",
+    "eurostat:population":1533,
+    "eurostat:population_year":2020,
     "geom:area":0.00228,
+    "geom:area_square_m":21445618.969681,
     "geom:bbox":"-8.0165922591,40.4581027962,-7.92749856621,40.5023259099",
     "geom:latitude":40.479809,
     "geom:longitude":-7.975387,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cabanas de Viriato",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180202",
+        "eurostat:nuts_2021_id":"180202",
         "pt-dgt:id":"180202"
     },
     "wof:country":"PT",
     "wof:created":1576698625,
-    "wof:geomhash":"323e62540d4d0365673adb4844e9d14c",
+    "wof:geomhash":"76438e0171940f1ffefa7db6749249ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712619,
+    "wof:lastmodified":1684354573,
     "wof:name":"Cabanas de Viriato",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1533,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

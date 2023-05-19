@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roios",
+    "eurostat:nuts_2021_id":"041009",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041009",
+    "eurostat:population":150,
+    "eurostat:population_year":2020,
     "geom:area":0.001645,
+    "geom:area_square_m":15280240.696064,
     "geom:bbox":"-7.16506516249,41.297874147,-7.09399960302,41.3435404012",
     "geom:latitude":41.323385,
     "geom:longitude":-7.130767,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Roios",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041009",
+        "eurostat:nuts_2021_id":"041009",
         "pt-dgt:id":"041009"
     },
     "wof:country":"PT",
     "wof:created":1576699100,
-    "wof:geomhash":"17d313910c6943a264fb928cb17d446b",
+    "wof:geomhash":"34c817410defd00a66fe5d196fa8b4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712703,
+    "wof:lastmodified":1684354656,
     "wof:name":"Roios",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":150,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

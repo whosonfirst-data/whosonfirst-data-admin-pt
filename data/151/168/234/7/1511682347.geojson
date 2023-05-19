@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030202",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aborim",
+    "eurostat:nuts_2021_id":"030202",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030202",
+    "eurostat:population":891,
+    "eurostat:population_year":2020,
     "geom:area":0.000668,
+    "geom:area_square_m":6172512.499552,
     "geom:bbox":"-8.64772652352,41.6002262185,-8.60134549281,41.6290662228",
     "geom:latitude":41.61133,
     "geom:longitude":-8.625435,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aborim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030202",
+        "eurostat:nuts_2021_id":"030202",
         "pt-dgt:id":"030202"
     },
     "wof:country":"PT",
     "wof:created":1576698780,
-    "wof:geomhash":"8f5cab01571588c1ce881862258b301c",
+    "wof:geomhash":"f8588d1ee37b3c379fa98209f04a6011",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Aborim",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":891,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Calheta",
+    "eurostat:nuts_2021_id":"310102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310102",
+    "eurostat:population":3163,
+    "eurostat:population_year":2020,
     "geom:area":0.002255,
+    "geom:area_square_m":23449295.451759,
     "geom:bbox":"-17.1863438092,32.7161932412,-17.0755166702,32.7769593642",
     "geom:latitude":32.7521,
     "geom:longitude":-17.139722,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Calheta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310102",
+        "eurostat:nuts_2021_id":"310102",
         "pt-dgt:id":"310102"
     },
     "wof:country":"PT",
     "wof:created":1576699452,
-    "wof:geomhash":"c0ba0ab5b8b27c48e437c684ebaecb65",
+    "wof:geomhash":"a784678dfd17306087f7433530d3adf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720311,
+    "wof:lastmodified":1684354721,
     "wof:name":"Calheta",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":3163,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

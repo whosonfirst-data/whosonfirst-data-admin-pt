@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182321",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ranhados",
+    "eurostat:nuts_2021_id":"182321",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182321",
+    "eurostat:population":4949,
+    "eurostat:population_year":2020,
     "geom:area":0.000664,
+    "geom:area_square_m":6226818.991129,
     "geom:bbox":"-7.91830298049,40.627535542,-7.87866461963,40.6529112566",
     "geom:latitude":40.640423,
     "geom:longitude":-7.898979,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ranhados",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182321",
+        "eurostat:nuts_2021_id":"182321",
         "pt-dgt:id":"182321"
     },
     "wof:country":"PT",
     "wof:created":1576698749,
-    "wof:geomhash":"6e4c3c8c7f24113cf389eea36baa625e",
+    "wof:geomhash":"22cee7426d73d1e8561b366c11994e74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712640,
+    "wof:lastmodified":1684354592,
     "wof:name":"Ranhados",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":4949,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

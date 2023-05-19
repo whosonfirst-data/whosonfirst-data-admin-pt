@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160428",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tangil",
+    "eurostat:nuts_2021_id":"160428",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160428",
+    "eurostat:population":768,
+    "eurostat:population_year":2020,
     "geom:area":0.002487,
+    "geom:area_square_m":22848013.162395,
     "geom:bbox":"-8.38261632483,41.984038357,-8.30302373701,42.0467818951",
     "geom:latitude":42.012816,
     "geom:longitude":-8.344276,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tangil",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160428",
+        "eurostat:nuts_2021_id":"160428",
         "pt-dgt:id":"160428"
     },
     "wof:country":"PT",
     "wof:created":1576698681,
-    "wof:geomhash":"afbf12eb89db1ed06c6cad3a7cccee8e",
+    "wof:geomhash":"f631d04b45c6d739ad17048cc277f38b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354582,
     "wof:name":"Tangil",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":768,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

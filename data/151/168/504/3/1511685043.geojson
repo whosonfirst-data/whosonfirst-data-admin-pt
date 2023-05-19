@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041240",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobreiro de Baixo e Alvaredos",
+    "eurostat:nuts_2021_id":"041240",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041240",
+    "eurostat:population":369,
+    "eurostat:population_year":2020,
     "geom:area":0.002903,
+    "geom:area_square_m":26744545.105655,
     "geom:bbox":"-7.09655276374,41.7883491197,-7.02188300699,41.866086871",
     "geom:latitude":41.829442,
     "geom:longitude":-7.059099,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Sobreiro de Baixo e Alvaredos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041240",
+        "eurostat:nuts_2021_id":"041240",
         "pt-dgt:id":"041240"
     },
     "wof:country":"PT",
     "wof:created":1576699349,
-    "wof:geomhash":"526c2c36d3b3b786fd870986ba4cdfdb",
+    "wof:geomhash":"2f6a35791fe300a92059e970bdd2f54a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354693,
     "wof:name":"Sobreiro de Baixo e Alvaredos",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":369,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091136",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Espinho",
+    "eurostat:nuts_2021_id":"091136",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091136",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.003347,
+    "geom:area_square_m":31566816.610049,
     "geom:bbox":"-6.98888627481,40.2565464704,-6.89399609387,40.3304362841",
     "geom:latitude":40.291504,
     "geom:longitude":-6.944944,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale de Espinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091136",
+        "eurostat:nuts_2021_id":"091136",
         "pt-dgt:id":"091136"
     },
     "wof:country":"PT",
     "wof:created":1576698565,
-    "wof:geomhash":"d3650d6303ac65cf89d63dabc5ba8a44",
+    "wof:geomhash":"b8190d2bb6f3d80f24bf0f75e630e6c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712608,
+    "wof:lastmodified":1684354565,
     "wof:name":"Vale de Espinho",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Borba de Montanha",
+    "eurostat:nuts_2021_id":"030503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"030503",
+    "eurostat:population":1294,
+    "eurostat:population_year":2020,
     "geom:area":0.001172,
+    "geom:area_square_m":10876041.872766,
     "geom:bbox":"-8.11794714374,41.3702300722,-8.06881815327,41.409762465",
     "geom:latitude":41.390072,
     "geom:longitude":-8.094071,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Borba de Montanha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030503",
+        "eurostat:nuts_2021_id":"030503",
         "pt-dgt:id":"030503"
     },
     "wof:country":"PT",
     "wof:created":1576699124,
-    "wof:geomhash":"c096e2700e7f0e62ae4ac16231b9ee5a",
+    "wof:geomhash":"ce74158de20b1a1a5d7d4b240ffe948b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712707,
+    "wof:lastmodified":1684354662,
     "wof:name":"Borba de Montanha",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1294,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120713",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caia, S\u00e3o Pedro e Alc\u00e1\u00e7ova",
+    "eurostat:nuts_2021_id":"120713",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120713",
+    "eurostat:population":6253,
+    "eurostat:population_year":2020,
     "geom:area":0.010804,
+    "geom:area_square_m":103945906.958393,
     "geom:bbox":"-7.20273755017,38.8541425994,-7.03285808927,38.9992939869",
     "geom:latitude":38.912756,
     "geom:longitude":-7.113609,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Caia, S\u00e3o Pedro e Alc\u00e1\u00e7ova",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120713",
+        "eurostat:nuts_2021_id":"120713",
         "pt-dgt:id":"120713"
     },
     "wof:country":"PT",
     "wof:created":1576698223,
-    "wof:geomhash":"d6b827ee6e24728e9c81724ce8d4ec34",
+    "wof:geomhash":"23470d3f1fa96a559a045db44cc4709c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712504,
+    "wof:lastmodified":1684354498,
     "wof:name":"Caia, S\u00e3o Pedro e Alc\u00e1\u00e7ova",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":6253,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170407",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Marim",
+    "eurostat:nuts_2021_id":"170407",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170407",
+    "eurostat:population":1243,
+    "eurostat:population_year":2020,
     "geom:area":0.000918,
+    "geom:area_square_m":8543491.445915,
     "geom:bbox":"-7.89034249852,41.1548379165,-7.83756386378,41.2024400014",
     "geom:latitude":41.17579,
     "geom:longitude":-7.864984,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Marim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170407",
+        "eurostat:nuts_2021_id":"170407",
         "pt-dgt:id":"170407"
     },
     "wof:country":"PT",
     "wof:created":1576698956,
-    "wof:geomhash":"0a4d2c5e50b87483ffe39c2b2a983bf9",
+    "wof:geomhash":"81c4daa031d3308944f9fc33eaf42cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712677,
+    "wof:lastmodified":1684354627,
     "wof:name":"Vila Marim",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1243,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

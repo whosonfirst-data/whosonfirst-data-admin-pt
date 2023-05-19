@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171229",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vassal",
+    "eurostat:nuts_2021_id":"171229",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171229",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.00142,
+    "geom:area_square_m":13123723.555266,
     "geom:bbox":"-7.37454131462,41.5958923674,-7.31855340386,41.6378716288",
     "geom:latitude":41.619037,
     "geom:longitude":-7.347582,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vassal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171229",
+        "eurostat:nuts_2021_id":"171229",
         "pt-dgt:id":"171229"
     },
     "wof:country":"PT",
     "wof:created":1576699264,
-    "wof:geomhash":"14233d76874494ac29911231e2bc3c87",
+    "wof:geomhash":"f4af70f53c92cc05eae736279020d3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712728,
+    "wof:lastmodified":1684354682,
     "wof:name":"Vassal",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

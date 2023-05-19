@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091415",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seixas",
+    "eurostat:nuts_2021_id":"091415",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"091415",
+    "eurostat:population":335,
+    "eurostat:population_year":2020,
     "geom:area":0.001309,
+    "geom:area_square_m":12194317.477434,
     "geom:bbox":"-7.27271614784,41.0803495659,-7.23229864255,41.143564011",
     "geom:latitude":41.110854,
     "geom:longitude":-7.253901,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Seixas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091415",
+        "eurostat:nuts_2021_id":"091415",
         "pt-dgt:id":"091415"
     },
     "wof:country":"PT",
     "wof:created":1576698940,
-    "wof:geomhash":"0ad231c026b4f1787cd6926ee0d9f091",
+    "wof:geomhash":"dcf399bcf6a5ee4e34cdc1f8a078a36c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712674,
+    "wof:lastmodified":1684354624,
     "wof:name":"Seixas",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":335,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

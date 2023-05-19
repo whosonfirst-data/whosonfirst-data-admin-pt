@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedrim e Paradela",
+    "eurostat:nuts_2021_id":"011710",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16D",
+    "eurostat:nuts_2021_level_lau":"011710",
+    "eurostat:population":1554,
+    "eurostat:population_year":2020,
     "geom:area":0.001957,
+    "geom:area_square_m":18348686.59783,
     "geom:bbox":"-8.37920967624,40.6773768815,-8.30672324123,40.7376392116",
     "geom:latitude":40.701228,
     "geom:longitude":-8.34347,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Cedrim e Paradela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011710",
+        "eurostat:nuts_2021_id":"011710",
         "pt-dgt:id":"011710"
     },
     "wof:country":"PT",
     "wof:created":1576698823,
-    "wof:geomhash":"12ebe4eae74b5b29ceffd4297233536b",
+    "wof:geomhash":"ccc8058e9b54fe19cc581aeb9ec2293d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712652,
+    "wof:lastmodified":1684354603,
     "wof:name":"Cedrim e Paradela",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1554,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180705",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Baldos",
+    "eurostat:nuts_2021_id":"180705",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180705",
+    "eurostat:population":201,
+    "eurostat:population_year":2020,
     "geom:area":0.000475,
+    "geom:area_square_m":4436154.635113,
     "geom:bbox":"-7.5836492061,40.9805865361,-7.55220218009,41.0022158115",
     "geom:latitude":40.992321,
     "geom:longitude":-7.570424,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Baldos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180705",
+        "eurostat:nuts_2021_id":"180705",
         "pt-dgt:id":"180705"
     },
     "wof:country":"PT",
     "wof:created":1576698882,
-    "wof:geomhash":"d3cf861802893d0e0519c10f7acc5249",
+    "wof:geomhash":"4804d2785ae7f818f0f30429e530d062",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712663,
+    "wof:lastmodified":1684354614,
     "wof:name":"Baldos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":201,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

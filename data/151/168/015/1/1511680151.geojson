@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141608",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Arneiro das Milhari\u00e7as",
+    "eurostat:nuts_2021_id":"141608",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141608",
+    "eurostat:population":835,
+    "eurostat:population_year":2020,
     "geom:area":0.001257,
+    "geom:area_square_m":12010702.688899,
     "geom:bbox":"-8.74665118148,39.3734341689,-8.69385218953,39.4164246257",
     "geom:latitude":39.394212,
     "geom:longitude":-8.720596,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Arneiro das Milhari\u00e7as",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141608",
+        "eurostat:nuts_2021_id":"141608",
         "pt-dgt:id":"141608"
     },
     "wof:country":"PT",
     "wof:created":1576698305,
-    "wof:geomhash":"30d07fe488730ebd422ebc27fb1e084a",
+    "wof:geomhash":"0ccc07d6891717def994fbce5673facd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712528,
+    "wof:lastmodified":1684354513,
     "wof:name":"Arneiro das Milhari\u00e7as",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":835,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

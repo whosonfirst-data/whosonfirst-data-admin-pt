@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040255",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Frio e Milh\u00e3o",
+    "eurostat:nuts_2021_id":"040255",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040255",
+    "eurostat:population":364,
+    "eurostat:population_year":2020,
     "geom:area":0.006872,
+    "geom:area_square_m":63393544.979362,
     "geom:bbox":"-6.68974233213,41.6960721916,-6.58754482278,41.7991600918",
     "geom:latitude":41.75055,
     "geom:longitude":-6.636962,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Rio Frio e Milh\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040255",
+        "eurostat:nuts_2021_id":"040255",
         "pt-dgt:id":"040255"
     },
     "wof:country":"PT",
     "wof:created":1576699320,
-    "wof:geomhash":"4fe16a53c682864418b749c3627755b6",
+    "wof:geomhash":"443ea80b252a1e02b85d9c888b4cd71f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Rio Frio e Milh\u00e3o",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":364,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Antas",
+    "eurostat:nuts_2021_id":"030601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030601",
+    "eurostat:population":2221,
+    "eurostat:population_year":2020,
     "geom:area":0.000979,
+    "geom:area_square_m":9054379.257667,
     "geom:bbox":"-8.81157444209,41.5839244065,-8.7457914353,41.6161629826",
     "geom:latitude":41.601324,
     "geom:longitude":-8.771677,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Antas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030601",
+        "eurostat:nuts_2021_id":"030601",
         "pt-dgt:id":"030601"
     },
     "wof:country":"PT",
     "wof:created":1576699062,
-    "wof:geomhash":"bf230fe53879e6443d5c2d90e001a483",
+    "wof:geomhash":"33e7c4db3c508e6a09ba897e58b5f534",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"Antas",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2221,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

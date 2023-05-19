@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ramada e Cane\u00e7as",
+    "eurostat:nuts_2021_id":"111610",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111610",
+    "eurostat:population":32581,
+    "eurostat:population_year":2020,
     "geom:area":0.001002,
+    "geom:area_square_m":9650139.206111,
     "geom:bbox":"-9.24112001209,38.7988098924,-9.17484095209,38.8305301087",
     "geom:latitude":38.812833,
     "geom:longitude":-9.210995,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ramada e Cane\u00e7as",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111610",
+        "eurostat:nuts_2021_id":"111610",
         "pt-dgt:id":"111610"
     },
     "wof:country":"PT",
     "wof:created":1576698197,
-    "wof:geomhash":"d25b23ec2ece4dfc3f16407ce984e489",
+    "wof:geomhash":"9f2961d35a6616523cb844b50cc01b59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712496,
+    "wof:lastmodified":1684354493,
     "wof:name":"Ramada e Cane\u00e7as",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":32581,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

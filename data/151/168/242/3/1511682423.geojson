@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182323",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio de Loba",
+    "eurostat:nuts_2021_id":"182323",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182323",
+    "eurostat:population":9348,
+    "eurostat:population_year":2020,
     "geom:area":0.00189,
+    "geom:area_square_m":17730047.878773,
     "geom:bbox":"-7.8997343168,40.6384880743,-7.83808272736,40.690335583",
     "geom:latitude":40.663262,
     "geom:longitude":-7.866925,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio de Loba",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182323",
+        "eurostat:nuts_2021_id":"182323",
         "pt-dgt:id":"182323"
     },
     "wof:country":"PT",
     "wof:created":1576698795,
-    "wof:geomhash":"f536c51a8cb6aea6d3da6c69a87d49d9",
+    "wof:geomhash":"2d52107efedcf1339995f55b346bc8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712647,
+    "wof:lastmodified":1684354599,
     "wof:name":"Rio de Loba",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":9348,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

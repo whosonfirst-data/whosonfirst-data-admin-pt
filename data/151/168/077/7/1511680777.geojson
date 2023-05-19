@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Salgueiro do Campo",
+    "eurostat:nuts_2021_id":"050220",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050220",
+    "eurostat:population":891,
+    "eurostat:population_year":2020,
     "geom:area":0.003194,
+    "geom:area_square_m":30307715.769349,
     "geom:bbox":"-7.61558160634,39.8409946477,-7.54298789213,39.9093033248",
     "geom:latitude":39.878164,
     "geom:longitude":-7.576914,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Salgueiro do Campo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050220",
+        "eurostat:nuts_2021_id":"050220",
         "pt-dgt:id":"050220"
     },
     "wof:country":"PT",
     "wof:created":1576698453,
-    "wof:geomhash":"52389533faa96214a23ae25acaf5fd57",
+    "wof:geomhash":"c51f96fe4060c3ec5664b32e47275bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712576,
+    "wof:lastmodified":1684354544,
     "wof:name":"Salgueiro do Campo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":891,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090624",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Figueir\u00f3 da Serra e Freixo da Serra",
+    "eurostat:nuts_2021_id":"090624",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090624",
+    "eurostat:population":362,
+    "eurostat:population_year":2020,
     "geom:area":0.001353,
+    "geom:area_square_m":12715293.766238,
     "geom:bbox":"-7.52091254583,40.5080674949,-7.45972264753,40.5547200933",
     "geom:latitude":40.532255,
     "geom:longitude":-7.488876,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Figueir\u00f3 da Serra e Freixo da Serra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090624",
+        "eurostat:nuts_2021_id":"090624",
         "pt-dgt:id":"090624"
     },
     "wof:country":"PT",
     "wof:created":1576698702,
-    "wof:geomhash":"c4fdfee8d8385dd874a6d23e8538b46a",
+    "wof:geomhash":"7dc9406770ced55e8a59280e31745147",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712633,
+    "wof:lastmodified":1684354586,
     "wof:name":"Figueir\u00f3 da Serra e Freixo da Serra",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":362,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

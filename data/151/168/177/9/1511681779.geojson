@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho de Angueira",
+    "eurostat:nuts_2021_id":"040613",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040613",
+    "eurostat:population":307,
+    "eurostat:population_year":2020,
     "geom:area":0.003972,
+    "geom:area_square_m":36701009.747905,
     "geom:bbox":"-6.38852942252,41.6009603377,-6.31872170432,41.6764052396",
     "geom:latitude":41.640059,
     "geom:longitude":-6.353209,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho de Angueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040613",
+        "eurostat:nuts_2021_id":"040613",
         "pt-dgt:id":"040613"
     },
     "wof:country":"PT",
     "wof:created":1576698666,
-    "wof:geomhash":"ece10ff33198f71e30ad50b17bfc2b41",
+    "wof:geomhash":"fcb3620857f31b8a25e1ce9d3d2f3c20",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712627,
+    "wof:lastmodified":1684354580,
     "wof:name":"S\u00e3o Martinho de Angueira",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":307,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

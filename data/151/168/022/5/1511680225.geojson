@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Abr\u00e3",
+    "eurostat:nuts_2021_id":"141602",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141602",
+    "eurostat:population":1122,
+    "eurostat:population_year":2020,
     "geom:area":0.002348,
+    "geom:area_square_m":22417836.733531,
     "geom:bbox":"-8.78936301168,39.4027004427,-8.74040906436,39.4793482214",
     "geom:latitude":39.443063,
     "geom:longitude":-8.766655,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Abr\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141602",
+        "eurostat:nuts_2021_id":"141602",
         "pt-dgt:id":"141602"
     },
     "wof:country":"PT",
     "wof:created":1576698321,
-    "wof:geomhash":"dc2d1ced8d0ccc629172a76d322e499c",
+    "wof:geomhash":"a0dd75b1a01868ea5dc60e3fd851f0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712533,
+    "wof:lastmodified":1684354516,
     "wof:name":"Abr\u00e3",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1122,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

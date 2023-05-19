@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030405",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bucos",
+    "eurostat:nuts_2021_id":"030405",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030405",
+    "eurostat:population":554,
+    "eurostat:population_year":2020,
     "geom:area":0.001922,
+    "geom:area_square_m":17774326.220415,
     "geom:bbox":"-8.06638912365,41.5572591567,-7.99670152436,41.6168252916",
     "geom:latitude":41.582557,
     "geom:longitude":-8.030303,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bucos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030405",
+        "eurostat:nuts_2021_id":"030405",
         "pt-dgt:id":"030405"
     },
     "wof:country":"PT",
     "wof:created":1576699061,
-    "wof:geomhash":"3f17de34389f0a23c3522cb5a71567bd",
+    "wof:geomhash":"483ce8a0be08dc6e8741f2a94f5f623f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"Bucos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

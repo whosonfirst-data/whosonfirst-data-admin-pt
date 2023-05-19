@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040712",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ced\u00e3es",
+    "eurostat:nuts_2021_id":"040712",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040712",
+    "eurostat:population":338,
+    "eurostat:population_year":2020,
     "geom:area":0.002742,
+    "geom:area_square_m":25401077.864475,
     "geom:bbox":"-7.14598017686,41.4542612438,-7.06420302482,41.5168256755",
     "geom:latitude":41.486491,
     "geom:longitude":-7.108617,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ced\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040712",
+        "eurostat:nuts_2021_id":"040712",
         "pt-dgt:id":"040712"
     },
     "wof:country":"PT",
     "wof:created":1576699210,
-    "wof:geomhash":"e227bb59e91f81a7dd0496145e0e65e3",
+    "wof:geomhash":"aa3da995b52266be2e35a2f2f6be056b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354676,
     "wof:name":"Ced\u00e3es",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":338,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

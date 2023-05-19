@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asseiceira",
+    "eurostat:nuts_2021_id":"141410",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141410",
+    "eurostat:population":1017,
+    "eurostat:population_year":2020,
     "geom:area":0.001744,
+    "geom:area_square_m":16692054.999228,
     "geom:bbox":"-8.98448539058,39.2676851264,-8.91272833993,39.3127029976",
     "geom:latitude":39.288166,
     "geom:longitude":-8.945446,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Asseiceira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141410",
+        "eurostat:nuts_2021_id":"141410",
         "pt-dgt:id":"141410"
     },
     "wof:country":"PT",
     "wof:created":1576698294,
-    "wof:geomhash":"422bfaf6958c5c0130b6aae94594aad4",
+    "wof:geomhash":"98f96ece40132842d92371892858e204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712525,
+    "wof:lastmodified":1684354511,
     "wof:name":"Asseiceira",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1017,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

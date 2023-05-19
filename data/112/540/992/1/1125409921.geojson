@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gr\u00e2ndola e Santa Margarida da Serra",
+    "eurostat:nuts_2021_id":"150506",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150506",
+    "eurostat:population":10834,
+    "eurostat:population_year":2020,
     "geom:area":0.0428,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":416001370.131281,
     "geom:bbox":"-8.72552077557,38.0497737986,-8.37981016926,38.3022078346",
     "geom:latitude":38.182592,
     "geom:longitude":-8.560713,
@@ -115,6 +127,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -122,6 +136,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150506",
+        "eurostat:nuts_2021_id":"150506",
         "gn:id":8013128,
         "pt-dgt:id":150506,
         "qs_pg:id":1155640
@@ -131,7 +147,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"24df5767c0821e38e730ebd7f0b1cbd3",
+    "wof:geomhash":"61161ce8503f710717c7e46398c7d4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -141,10 +157,12 @@
         }
     ],
     "wof:id":1125409921,
-    "wof:lastmodified":1582359927,
+    "wof:lastmodified":1684354450,
     "wof:name":"Gr\u00e2ndola e Santa Margarida da Serra",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":10834,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

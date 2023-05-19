@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Marinha Grande",
+    "eurostat:nuts_2021_id":"101001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101001",
+    "eurostat:population":31434,
+    "eurostat:population_year":2020,
     "geom:area":0.014277,
+    "geom:area_square_m":135690545.185962,
     "geom:bbox":"-9.04026048622,39.693964252,-8.86802069116,39.8429904381",
     "geom:latitude":39.768006,
     "geom:longitude":-8.95516,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Marinha Grande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101001",
+        "eurostat:nuts_2021_id":"101001",
         "pt-dgt:id":"101001"
     },
     "wof:country":"PT",
     "wof:created":1576698440,
-    "wof:geomhash":"16b8880abb6f68905d27f47cca786acb",
+    "wof:geomhash":"83c2ced5c901514c03ed6b7d9ba06e15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712573,
+    "wof:lastmodified":1684354541,
     "wof:name":"Marinha Grande",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":31434,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

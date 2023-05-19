@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030224",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cossourado",
+    "eurostat:nuts_2021_id":"030224",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030224",
+    "eurostat:population":825,
+    "eurostat:population_year":2020,
     "geom:area":0.000696,
+    "geom:area_square_m":6432169.982611,
     "geom:bbox":"-8.64225840511,41.6143049808,-8.60387751752,41.6441563983",
     "geom:latitude":41.629773,
     "geom:longitude":-8.623696,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cossourado",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030224",
+        "eurostat:nuts_2021_id":"030224",
         "pt-dgt:id":"030224"
     },
     "wof:country":"PT",
     "wof:created":1576698753,
-    "wof:geomhash":"05d81f941599de5497b0ab139e07cbbd",
+    "wof:geomhash":"059eff7d8e4aae981fe753a59767d5ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Cossourado",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":825,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

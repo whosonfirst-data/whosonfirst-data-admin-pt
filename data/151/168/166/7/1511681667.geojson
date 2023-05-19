@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180716",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila da Rua",
+    "eurostat:nuts_2021_id":"180716",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180716",
+    "eurostat:population":601,
+    "eurostat:population_year":2020,
     "geom:area":0.001034,
+    "geom:area_square_m":9654655.117609,
     "geom:bbox":"-7.59615665891,40.9233184145,-7.54770725785,40.9640541471",
     "geom:latitude":40.944482,
     "geom:longitude":-7.569065,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila da Rua",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180716",
+        "eurostat:nuts_2021_id":"180716",
         "pt-dgt:id":"180716"
     },
     "wof:country":"PT",
     "wof:created":1576698643,
-    "wof:geomhash":"848662a62191bdaa7eecab704729a032",
+    "wof:geomhash":"393bb925895091839c167ab83d9fe755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712623,
+    "wof:lastmodified":1684354577,
     "wof:name":"Vila da Rua",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":601,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

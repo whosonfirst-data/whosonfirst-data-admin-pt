@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120905",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Margem",
+    "eurostat:nuts_2021_id":"120905",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120905",
+    "eurostat:population":811,
+    "eurostat:population_year":2020,
     "geom:area":0.005943,
+    "geom:area_square_m":56804208.67628,
     "geom:bbox":"-7.9727411097,39.3340615693,-7.86169472656,39.4271632098",
     "geom:latitude":39.380543,
     "geom:longitude":-7.915943,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Margem",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120905",
+        "eurostat:nuts_2021_id":"120905",
         "pt-dgt:id":"120905"
     },
     "wof:country":"PT",
     "wof:created":1576698307,
-    "wof:geomhash":"a026500dd395a28f1f790bf154d597a1",
+    "wof:geomhash":"9f7bf4944244dcc29a5be4ecc71a182c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712529,
+    "wof:lastmodified":1684354513,
     "wof:name":"Margem",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":811,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

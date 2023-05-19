@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valhascos",
+    "eurostat:nuts_2021_id":"141704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141704",
+    "eurostat:population":402,
+    "eurostat:population_year":2020,
     "geom:area":0.000876,
+    "geom:area_square_m":8360537.022515,
     "geom:bbox":"-8.16091621396,39.4973339178,-8.12216735977,39.5339139818",
     "geom:latitude":39.515315,
     "geom:longitude":-8.140641,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valhascos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141704",
+        "eurostat:nuts_2021_id":"141704",
         "pt-dgt:id":"141704"
     },
     "wof:country":"PT",
     "wof:created":1576698335,
-    "wof:geomhash":"c7398e7500eb98658c351f56326db208",
+    "wof:geomhash":"8ac0367981edce9fd6afab53d7cdefe6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712538,
+    "wof:lastmodified":1684354519,
     "wof:name":"Valhascos",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":402,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

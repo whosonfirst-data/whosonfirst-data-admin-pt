@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcobertas",
+    "eurostat:nuts_2021_id":"141401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"141401",
+    "eurostat:population":1923,
+    "eurostat:population_year":2020,
     "geom:area":0.00335,
+    "geom:area_square_m":31999147.741704,
     "geom:bbox":"-8.94571213223,39.3728986901,-8.87593151778,39.4660074703",
     "geom:latitude":39.420569,
     "geom:longitude":-8.908131,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcobertas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141401",
+        "eurostat:nuts_2021_id":"141401",
         "pt-dgt:id":"141401"
     },
     "wof:country":"PT",
     "wof:created":1576698317,
-    "wof:geomhash":"d5facc513bcd855d3ab05db061359c14",
+    "wof:geomhash":"e8af40994ac79cbb466417c08f50d194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712532,
+    "wof:lastmodified":1684354515,
     "wof:name":"Alcobertas",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":1923,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

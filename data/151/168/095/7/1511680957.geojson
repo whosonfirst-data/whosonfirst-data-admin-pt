@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pessegueiro",
+    "eurostat:nuts_2021_id":"061207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061207",
+    "eurostat:population":228,
+    "eurostat:population_year":2020,
     "geom:area":0.003378,
+    "geom:area_square_m":31964508.214824,
     "geom:bbox":"-8.06098051778,40.016357212,-7.99030142202,40.1146789763",
     "geom:latitude":40.070358,
     "geom:longitude":-8.022431,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pessegueiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061207",
+        "eurostat:nuts_2021_id":"061207",
         "pt-dgt:id":"061207"
     },
     "wof:country":"PT",
     "wof:created":1576698497,
-    "wof:geomhash":"675ad2885be95ba02360a2a086836da8",
+    "wof:geomhash":"b74652db18496ed62a20ca3003a65df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712592,
+    "wof:lastmodified":1684354554,
     "wof:name":"Pessegueiro",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":228,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

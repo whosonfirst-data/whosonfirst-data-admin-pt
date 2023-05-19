@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Famalic\u00e3o",
+    "eurostat:nuts_2021_id":"101101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"101101",
+    "eurostat:population":1740,
+    "eurostat:population_year":2020,
     "geom:area":0.002275,
+    "geom:area_square_m":21692195.922959,
     "geom:bbox":"-9.11544878564,39.5110419694,-9.0597525056,39.5898467102",
     "geom:latitude":39.547066,
     "geom:longitude":-9.081685,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Famalic\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101101",
+        "eurostat:nuts_2021_id":"101101",
         "pt-dgt:id":"101101"
     },
     "wof:country":"PT",
     "wof:created":1576698368,
-    "wof:geomhash":"a70bed8448863b1f0bdcd89f26719a7f",
+    "wof:geomhash":"cdc1cf98c2c6e79d9f4b6a40ac6d0ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712547,
+    "wof:lastmodified":1684354525,
     "wof:name":"Famalic\u00e3o",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1740,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

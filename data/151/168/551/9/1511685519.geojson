@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310604",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Seixal",
+    "eurostat:nuts_2021_id":"310604",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310604",
+    "eurostat:population":656,
+    "eurostat:population_year":2020,
     "geom:area":0.003503,
+    "geom:area_square_m":36406439.85513,
     "geom:bbox":"-17.1552666855,32.7671575847,-17.0654115182,32.8425965143",
     "geom:latitude":32.8019,
     "geom:longitude":-17.110879,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Seixal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310604",
+        "eurostat:nuts_2021_id":"310604",
         "pt-dgt:id":"310604"
     },
     "wof:country":"PT",
     "wof:created":1576699460,
-    "wof:geomhash":"bbfa364ac28ffc9ead14b038a8f54624",
+    "wof:geomhash":"57203e81296341bf1b3784603c87cee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720294,
+    "wof:lastmodified":1684354724,
     "wof:name":"Seixal",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":656,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

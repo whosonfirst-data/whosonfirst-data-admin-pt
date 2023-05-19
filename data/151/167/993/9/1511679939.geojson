@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova da Rainha",
+    "eurostat:nuts_2021_id":"110307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"110307",
+    "eurostat:population":926,
+    "eurostat:population_year":2020,
     "geom:area":0.00259,
+    "geom:area_square_m":24874823.950024,
     "geom:bbox":"-8.96065567648,39.0061361694,-8.87823343367,39.0749351946",
     "geom:latitude":39.039906,
     "geom:longitude":-8.920633,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova da Rainha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110307",
+        "eurostat:nuts_2021_id":"110307",
         "pt-dgt:id":"110307"
     },
     "wof:country":"PT",
     "wof:created":1576698246,
-    "wof:geomhash":"99baa24bcf615f3396743863a1c795f6",
+    "wof:geomhash":"6dd3c2e9558d51c38308579b00a1d339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712511,
+    "wof:lastmodified":1684354503,
     "wof:name":"Vila Nova da Rainha",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":926,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160710",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Brandara",
+    "eurostat:nuts_2021_id":"160710",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160710",
+    "eurostat:population":442,
+    "eurostat:population_year":2020,
     "geom:area":0.000279,
+    "geom:area_square_m":2573150.381874,
     "geom:bbox":"-8.58182524758,41.7777693977,-8.56024959376,41.7993620041",
     "geom:latitude":41.789966,
     "geom:longitude":-8.571373,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Brandara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160710",
+        "eurostat:nuts_2021_id":"160710",
         "pt-dgt:id":"160710"
     },
     "wof:country":"PT",
     "wof:created":1576699314,
-    "wof:geomhash":"8fa8f43d10faea054c827724eacaa6b1",
+    "wof:geomhash":"c5f51a4513b17608852740d347391fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"Brandara",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

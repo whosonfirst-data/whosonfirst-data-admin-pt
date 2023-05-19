@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110409",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vermelha",
+    "eurostat:nuts_2021_id":"110409",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110409",
+    "eurostat:population":1288,
+    "eurostat:population_year":2020,
     "geom:area":0.001251,
+    "geom:area_square_m":11975141.27089,
     "geom:bbox":"-9.12313153955,39.2545232593,-9.06538310116,39.2952162523",
     "geom:latitude":39.274081,
     "geom:longitude":-9.094366,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vermelha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110409",
+        "eurostat:nuts_2021_id":"110409",
         "pt-dgt:id":"110409"
     },
     "wof:country":"PT",
     "wof:created":1576698290,
-    "wof:geomhash":"b4bf2e37926472a3eebe4dad5f616a3d",
+    "wof:geomhash":"9d9f82f18c13558bfcb9b951081d5b12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712523,
+    "wof:lastmodified":1684354510,
     "wof:name":"Vermelha",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":1288,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

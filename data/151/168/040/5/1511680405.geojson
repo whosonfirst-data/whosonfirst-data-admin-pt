@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141809",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paialvo",
+    "eurostat:nuts_2021_id":"141809",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141809",
+    "eurostat:population":2599,
+    "eurostat:population_year":2020,
     "geom:area":0.002337,
+    "geom:area_square_m":22286126.687451,
     "geom:bbox":"-8.49129660967,39.5055535534,-8.41270405289,39.5665798139",
     "geom:latitude":39.534323,
     "geom:longitude":-8.449604,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Paialvo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141809",
+        "eurostat:nuts_2021_id":"141809",
         "pt-dgt:id":"141809"
     },
     "wof:country":"PT",
     "wof:created":1576698361,
-    "wof:geomhash":"3aa570a9c6ac98475fbc6c326b767e9e",
+    "wof:geomhash":"07cc7e69d1a72144e5d5cf75a95676c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712544,
+    "wof:lastmodified":1684354523,
     "wof:name":"Paialvo",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":2599,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

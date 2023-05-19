@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Messejana",
+    "eurostat:nuts_2021_id":"020103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020103",
+    "eurostat:population":892,
+    "eurostat:population_year":2020,
     "geom:area":0.011645,
+    "geom:area_square_m":113708752.023906,
     "geom:bbox":"-8.33619240976,37.7855437047,-8.17175602223,37.9142872936",
     "geom:latitude":37.841807,
     "geom:longitude":-8.266484,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Messejana",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020103",
+        "eurostat:nuts_2021_id":"020103",
         "pt-dgt:id":"020103"
     },
     "wof:country":"PT",
     "wof:created":1576698110,
-    "wof:geomhash":"98ed9f8985c6de20170d13aa3cbac5da",
+    "wof:geomhash":"ed22e61817fb1965a22537d4c8579fab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712474,
+    "wof:lastmodified":1684354480,
     "wof:name":"Messejana",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":892,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

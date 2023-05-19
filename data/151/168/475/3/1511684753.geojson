@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031355",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdreu",
+    "eurostat:nuts_2021_id":"031355",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031355",
+    "eurostat:population":516,
+    "eurostat:population_year":2020,
     "geom:area":0.001943,
+    "geom:area_square_m":17931465.124512,
     "geom:bbox":"-8.37247834931,41.7172574292,-8.30619179839,41.7649804795",
     "geom:latitude":41.740422,
     "geom:longitude":-8.333127,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valdreu",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031355",
+        "eurostat:nuts_2021_id":"031355",
         "pt-dgt:id":"031355"
     },
     "wof:country":"PT",
     "wof:created":1576699294,
-    "wof:geomhash":"f48748e35449fae93747f23c84a389d9",
+    "wof:geomhash":"06feef5b2c6b7a836ec8e88fa2fd4395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354686,
     "wof:name":"Valdreu",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":516,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

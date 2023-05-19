@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170641",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venda Nova e Pondras",
+    "eurostat:nuts_2021_id":"170641",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170641",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.002069,
+    "geom:area_square_m":19106730.970911,
     "geom:bbox":"-7.985840878,41.6603170073,-7.89174617392,41.7098881171",
     "geom:latitude":41.685289,
     "geom:longitude":-7.935803,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Venda Nova e Pondras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170641",
+        "eurostat:nuts_2021_id":"170641",
         "pt-dgt:id":"170641"
     },
     "wof:country":"PT",
     "wof:created":1576699274,
-    "wof:geomhash":"256d54d13e5f4ec5367f7a088573dbf7",
+    "wof:geomhash":"9d07b6b0aa423ba40d810177d7164642",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712730,
+    "wof:lastmodified":1684354683,
     "wof:name":"Venda Nova e Pondras",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

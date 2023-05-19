@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150709",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Atalaia e Alto Estanqueiro-Jardia",
+    "eurostat:nuts_2021_id":"150709",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150709",
+    "eurostat:population":5085,
+    "eurostat:population_year":2020,
     "geom:area":0.001413,
+    "geom:area_square_m":13638046.123529,
     "geom:bbox":"-8.95131501593,38.6565359631,-8.91036275859,38.7160593859",
     "geom:latitude":38.680907,
     "geom:longitude":-8.928238,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Atalaia e Alto Estanqueiro-Jardia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150709",
+        "eurostat:nuts_2021_id":"150709",
         "pt-dgt:id":"150709"
     },
     "wof:country":"PT",
     "wof:created":1576698171,
-    "wof:geomhash":"31843c75ab7fbc5ade815e40bb1059be",
+    "wof:geomhash":"afd5a7a55835fe2538df253cf5ab3e1c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354490,
     "wof:name":"Atalaia e Alto Estanqueiro-Jardia",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":5085,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

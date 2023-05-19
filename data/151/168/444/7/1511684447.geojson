@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040711",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carvalhais",
+    "eurostat:nuts_2021_id":"040711",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040711",
+    "eurostat:population":1299,
+    "eurostat:population_year":2020,
     "geom:area":0.002377,
+    "geom:area_square_m":22005425.44566,
     "geom:bbox":"-7.1974915197,41.496337712,-7.10452287511,41.5413435904",
     "geom:latitude":41.516891,
     "geom:longitude":-7.154774,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carvalhais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040711",
+        "eurostat:nuts_2021_id":"040711",
         "pt-dgt:id":"040711"
     },
     "wof:country":"PT",
     "wof:created":1576699227,
-    "wof:geomhash":"d86fa0e62f1f6b6cd9a4f81e465599e9",
+    "wof:geomhash":"2a0a9742f188a9d9f5df776da8e7cbec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712724,
+    "wof:lastmodified":1684354678,
     "wof:name":"Carvalhais",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":1299,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

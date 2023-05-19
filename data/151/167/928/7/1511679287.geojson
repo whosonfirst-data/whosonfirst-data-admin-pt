@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_041234",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar Seco de Lomba",
+    "eurostat:nuts_2021_id":"041234",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"041234",
+    "eurostat:population":235,
+    "eurostat:population_year":2020,
     "geom:area":0.002421,
+    "geom:area_square_m":22287296.118335,
     "geom:bbox":"-7.2036340449,41.8580578822,-7.12939668734,41.9157821404",
     "geom:latitude":41.885686,
     "geom:longitude":-7.166552,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar Seco de Lomba",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_041234",
+        "eurostat:nuts_2021_id":"041234",
         "pt-dgt:id":"041234"
     },
     "wof:country":"PT",
     "wof:created":1576698092,
-    "wof:geomhash":"7cbf1e7c83a0c7d78df6d806f444f24d",
+    "wof:geomhash":"7e9420f7d6cbcbe3ec224abbebaa509f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712471,
+    "wof:lastmodified":1684354478,
     "wof:name":"Vilar Seco de Lomba",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":235,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_470104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Feteira",
+    "eurostat:nuts_2021_id":"470104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"470104",
+    "eurostat:population":1899,
+    "eurostat:population_year":2020,
     "geom:area":0.001494,
+    "geom:area_square_m":14450750.96871,
     "geom:bbox":"-28.7089492354,38.5204389227,-28.65122174,38.566127444",
     "geom:latitude":38.538729,
     "geom:longitude":-28.681774,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Feteira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_470104",
+        "eurostat:nuts_2021_id":"470104",
         "pt-dgt:id":"470104"
     },
     "wof:country":"PT",
     "wof:created":1576703606,
-    "wof:geomhash":"5691f8bc92d5d454c682536b5149d9ed",
+    "wof:geomhash":"d14395263bb6ec8ca4aa4d6b473e7720",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720333,
+    "wof:lastmodified":1684354743,
     "wof:name":"Feteira",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1899,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

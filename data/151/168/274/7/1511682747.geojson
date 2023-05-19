@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181802",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carregal",
+    "eurostat:nuts_2021_id":"181802",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181802",
+    "eurostat:population":393,
+    "eurostat:population_year":2020,
     "geom:area":0.002219,
+    "geom:area_square_m":20741268.552229,
     "geom:bbox":"-7.61595113765,40.8804257052,-7.54474459496,40.9232626953",
     "geom:latitude":40.90166,
     "geom:longitude":-7.580875,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Carregal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181802",
+        "eurostat:nuts_2021_id":"181802",
         "pt-dgt:id":"181802"
     },
     "wof:country":"PT",
     "wof:created":1576698868,
-    "wof:geomhash":"3b6bbc2ed023241a7990a8c81f65385a",
+    "wof:geomhash":"6ebbdff0a028e0d105de031826ad1534",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712661,
+    "wof:lastmodified":1684354612,
     "wof:name":"Carregal",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":393,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

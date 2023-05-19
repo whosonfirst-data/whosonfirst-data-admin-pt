@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151207",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"G\u00e2mbia-Pontes-Alto da Guerra",
+    "eurostat:nuts_2021_id":"151207",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151207",
+    "eurostat:population":6059,
+    "eurostat:population_year":2020,
     "geom:area":0.003434,
+    "geom:area_square_m":33205442.854672,
     "geom:bbox":"-8.86338592404,38.5221979577,-8.73427265064,38.5766028271",
     "geom:latitude":38.547484,
     "geom:longitude":-8.789934,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"G\u00e2mbia-Pontes-Alto da Guerra",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151207",
+        "eurostat:nuts_2021_id":"151207",
         "pt-dgt:id":"151207"
     },
     "wof:country":"PT",
     "wof:created":1576698151,
-    "wof:geomhash":"547e5834593874b356d9fd8e10a30669",
+    "wof:geomhash":"c77bbec028b71fce1d6aff346018602e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712486,
+    "wof:lastmodified":1684354487,
     "wof:name":"G\u00e2mbia-Pontes-Alto da Guerra",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":6059,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

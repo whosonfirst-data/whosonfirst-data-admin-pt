@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160755",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00e1rrio e Cep\u00f5es",
+    "eurostat:nuts_2021_id":"160755",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160755",
+    "eurostat:population":921,
+    "eurostat:population_year":2020,
     "geom:area":0.001053,
+    "geom:area_square_m":9698280.546121,
     "geom:bbox":"-8.60025441199,41.8109159529,-8.54949840194,41.853336395",
     "geom:latitude":41.832336,
     "geom:longitude":-8.574836,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"B\u00e1rrio e Cep\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160755",
+        "eurostat:nuts_2021_id":"160755",
         "pt-dgt:id":"160755"
     },
     "wof:country":"PT",
     "wof:created":1576699341,
-    "wof:geomhash":"65a896ac696729d1df261f5f4382f0a3",
+    "wof:geomhash":"ce436f4de8bac8a8ea8a0617bdd8bcd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712739,
+    "wof:lastmodified":1684354691,
     "wof:name":"B\u00e1rrio e Cep\u00f5es",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":921,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

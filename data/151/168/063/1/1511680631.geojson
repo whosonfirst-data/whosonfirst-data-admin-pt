@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_011319",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila de Cucuj\u00e3es",
+    "eurostat:nuts_2021_id":"011319",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"011319",
+    "eurostat:population":10705,
+    "eurostat:population_year":2020,
     "geom:area":0.001113,
+    "geom:area_square_m":10408426.015272,
     "geom:bbox":"-8.52910050034,40.8567413785,-8.47961636193,40.8928962118",
     "geom:latitude":40.873108,
     "geom:longitude":-8.507006,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila de Cucuj\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_011319",
+        "eurostat:nuts_2021_id":"011319",
         "pt-dgt:id":"011319"
     },
     "wof:country":"PT",
     "wof:created":1576698417,
-    "wof:geomhash":"39e2460471a0c9e4a62174c3e8abf204",
+    "wof:geomhash":"39eff4cd21c3fa4edb01e78e031e0dcb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712564,
+    "wof:lastmodified":1684354535,
     "wof:name":"Vila de Cucuj\u00e3es",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":10705,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

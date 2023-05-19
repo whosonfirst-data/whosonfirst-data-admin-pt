@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170703",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fiolhoso",
+    "eurostat:nuts_2021_id":"170703",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170703",
+    "eurostat:population":452,
+    "eurostat:population_year":2020,
     "geom:area":0.001744,
+    "geom:area_square_m":16176628.836296,
     "geom:bbox":"-7.52212746325,41.3833010062,-7.44985835326,41.42711139",
     "geom:latitude":41.4007,
     "geom:longitude":-7.488892,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fiolhoso",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170703",
+        "eurostat:nuts_2021_id":"170703",
         "pt-dgt:id":"170703"
     },
     "wof:country":"PT",
     "wof:created":1576699137,
-    "wof:geomhash":"61ab839386a70397213775a7d3ae2eba",
+    "wof:geomhash":"55cf1e8626280798fd94bd868626e582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Fiolhoso",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":452,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beja (Salvador e Santa Maria da Feira)",
+    "eurostat:nuts_2021_id":"020520",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020520",
+    "eurostat:population":11133,
+    "eurostat:population_year":2020,
     "geom:area":0.00231,
+    "geom:area_square_m":22496639.937951,
     "geom:bbox":"-7.87685876215,37.9967219794,-7.81790675631,38.0744152587",
     "geom:latitude":38.032328,
     "geom:longitude":-7.84944,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Beja (Salvador e Santa Maria da Feira)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020520",
+        "eurostat:nuts_2021_id":"020520",
         "pt-dgt:id":"020520"
     },
     "wof:country":"PT",
     "wof:created":1576698119,
-    "wof:geomhash":"74f010880622f5be0e427cadc6fe7792",
+    "wof:geomhash":"8dbfee1f3966133ba8b80807ba51ac92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712477,
+    "wof:lastmodified":1684354482,
     "wof:name":"Beja (Salvador e Santa Maria da Feira)",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":11133,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

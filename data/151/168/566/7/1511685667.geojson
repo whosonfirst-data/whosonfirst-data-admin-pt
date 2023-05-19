@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_470103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cedros",
+    "eurostat:nuts_2021_id":"470103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"470103",
+    "eurostat:population":907,
+    "eurostat:population_year":2020,
     "geom:area":0.002539,
+    "geom:area_square_m":24527711.315862,
     "geom:bbox":"-28.7401139383,38.575708571,-28.6668822502,38.6440943155",
     "geom:latitude":38.615675,
     "geom:longitude":-28.707297,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Cedros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_470103",
+        "eurostat:nuts_2021_id":"470103",
         "pt-dgt:id":"470103"
     },
     "wof:country":"PT",
     "wof:created":1576703611,
-    "wof:geomhash":"29725621ccbd7fa0252ccddf43ed9b5a",
+    "wof:geomhash":"8bd6ab2f858b3ff30ff40fd63af4e3d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720331,
+    "wof:lastmodified":1684354744,
     "wof:name":"Cedros",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":907,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

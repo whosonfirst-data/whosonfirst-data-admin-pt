@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031108",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guilhofrei",
+    "eurostat:nuts_2021_id":"031108",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031108",
+    "eurostat:population":961,
+    "eurostat:population_year":2020,
     "geom:area":0.001213,
+    "geom:area_square_m":11217260.332009,
     "geom:bbox":"-8.15806929803,41.5463878309,-8.1154659184,41.5913037699",
     "geom:latitude":41.56846,
     "geom:longitude":-8.136028,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Guilhofrei",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031108",
+        "eurostat:nuts_2021_id":"031108",
         "pt-dgt:id":"031108"
     },
     "wof:country":"PT",
     "wof:created":1576699246,
-    "wof:geomhash":"04eec617d492e1702cee9ff22bf92334",
+    "wof:geomhash":"af98957967ae97bbd6416191f1260e37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712726,
+    "wof:lastmodified":1684354680,
     "wof:name":"Guilhofrei",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":961,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

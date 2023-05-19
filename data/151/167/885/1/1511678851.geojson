@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_081504",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sagres",
+    "eurostat:nuts_2021_id":"081504",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"081504",
+    "eurostat:population":1909,
+    "eurostat:population_year":2020,
     "geom:area":0.00348,
+    "geom:area_square_m":34353842.59733,
     "geom:bbox":"-8.99754501849,36.9934990041,-8.89487006396,37.0712750942",
     "geom:latitude":37.036479,
     "geom:longitude":-8.944832,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sagres",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_081504",
+        "eurostat:nuts_2021_id":"081504",
         "pt-dgt:id":"081504"
     },
     "wof:country":"PT",
     "wof:created":1576697973,
-    "wof:geomhash":"0eb59191448827b37b0e2b3dc4a86209",
+    "wof:geomhash":"5499843b71fa0aed092e3bbf307f3339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712427,
+    "wof:lastmodified":1684354451,
     "wof:name":"Sagres",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":1909,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Louredo e Fornelos",
+    "eurostat:nuts_2021_id":"171112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171112",
+    "eurostat:population":669,
+    "eurostat:population_year":2020,
     "geom:area":0.001307,
+    "geom:area_square_m":12153554.068039,
     "geom:bbox":"-7.85335820285,41.2353750973,-7.78568181563,41.2658056316",
     "geom:latitude":41.250065,
     "geom:longitude":-7.822507,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Louredo e Fornelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171112",
+        "eurostat:nuts_2021_id":"171112",
         "pt-dgt:id":"171112"
     },
     "wof:country":"PT",
     "wof:created":1576698996,
-    "wof:geomhash":"b71ecd030018784c52c66c8c11ab13e2",
+    "wof:geomhash":"c8bd9c5038beb6901157665658d62226",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712686,
+    "wof:lastmodified":1684354638,
     "wof:name":"Louredo e Fornelos",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":669,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

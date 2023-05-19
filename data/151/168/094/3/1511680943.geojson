@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050413",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castelo Novo",
+    "eurostat:nuts_2021_id":"050413",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050413",
+    "eurostat:population":406,
+    "eurostat:population_year":2020,
     "geom:area":0.004275,
+    "geom:area_square_m":40467030.499796,
     "geom:bbox":"-7.5261200688,39.9964885913,-7.39811224977,40.104149724",
     "geom:latitude":40.053399,
     "geom:longitude":-7.469018,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castelo Novo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050413",
+        "eurostat:nuts_2021_id":"050413",
         "pt-dgt:id":"050413"
     },
     "wof:country":"PT",
     "wof:created":1576698493,
-    "wof:geomhash":"316ce86bab8dcbbe7246f3cb8c164394",
+    "wof:geomhash":"5288be20af0488d8e29b800665912fde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712591,
+    "wof:lastmodified":1684354554,
     "wof:name":"Castelo Novo",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":406,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

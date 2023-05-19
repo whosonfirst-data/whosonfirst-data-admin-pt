@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Palhais",
+    "eurostat:nuts_2021_id":"091313",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091313",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.000461,
+    "geom:area_square_m":4318466.552915,
     "geom:bbox":"-7.45476887544,40.8037656577,-7.41868755989,40.8290186031",
     "geom:latitude":40.814733,
     "geom:longitude":-7.436047,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Palhais",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091313",
+        "eurostat:nuts_2021_id":"091313",
         "pt-dgt:id":"091313"
     },
     "wof:country":"PT",
     "wof:created":1576698858,
-    "wof:geomhash":"47d9b759393987fdece1b828a15d3f41",
+    "wof:geomhash":"f3b36125f541ac3bb73fe4531dd6ea35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712659,
+    "wof:lastmodified":1684354609,
     "wof:name":"Palhais",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

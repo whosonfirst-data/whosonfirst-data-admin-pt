@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031260",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova de Famalic\u00e3o e Calend\u00e1rio",
+    "eurostat:nuts_2021_id":"031260",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031260",
+    "eurostat:population":20145,
+    "eurostat:population_year":2020,
     "geom:area":0.000962,
+    "geom:area_square_m":8923822.422049,
     "geom:bbox":"-8.5510247792,41.3698141892,-8.5138502713,41.4256435404",
     "geom:latitude":41.39878,
     "geom:longitude":-8.530915,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vila Nova de Famalic\u00e3o e Calend\u00e1rio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031260",
+        "eurostat:nuts_2021_id":"031260",
         "pt-dgt:id":"031260"
     },
     "wof:country":"PT",
     "wof:created":1576699135,
-    "wof:geomhash":"0277578f8190b4a611ccc1d836c714fe",
+    "wof:geomhash":"f7e5ce135da5e295af2ad2f465482d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712709,
+    "wof:lastmodified":1684354664,
     "wof:name":"Vila Nova de Famalic\u00e3o e Calend\u00e1rio",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":20145,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

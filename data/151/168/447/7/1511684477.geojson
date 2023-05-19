@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030292",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Areias de Vilar e Encourados",
+    "eurostat:nuts_2021_id":"030292",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030292",
+    "eurostat:population":1879,
+    "eurostat:population_year":2020,
     "geom:area":0.001097,
+    "geom:area_square_m":10153752.477338,
     "geom:bbox":"-8.5816991689,41.5062856526,-8.52576645428,41.5533285249",
     "geom:latitude":41.533376,
     "geom:longitude":-8.546787,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Areias de Vilar e Encourados",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030292",
+        "eurostat:nuts_2021_id":"030292",
         "pt-dgt:id":"030292"
     },
     "wof:country":"PT",
     "wof:created":1576699238,
-    "wof:geomhash":"abde30331744af316e044b90992b00ca",
+    "wof:geomhash":"45d714cd8fc5ddd4596ec52897c8cbcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712725,
+    "wof:lastmodified":1684354679,
     "wof:name":"Areias de Vilar e Encourados",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1879,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130225",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz do Douro e S\u00e3o Tom\u00e9 de Covelas",
+    "eurostat:nuts_2021_id":"130225",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130225",
+    "eurostat:population":2085,
+    "eurostat:population_year":2020,
     "geom:area":0.001728,
+    "geom:area_square_m":16093353.929235,
     "geom:bbox":"-8.03345750878,41.1044878199,-7.9655480557,41.14292702",
     "geom:latitude":41.123167,
     "geom:longitude":-7.998456,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Santa Cruz do Douro e S\u00e3o Tom\u00e9 de Covelas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130225",
+        "eurostat:nuts_2021_id":"130225",
         "pt-dgt:id":"130225"
     },
     "wof:country":"PT",
     "wof:created":1576698938,
-    "wof:geomhash":"0716555e87f10056ba898c1b6a90dc07",
+    "wof:geomhash":"77165c4f261d45e89bd5b8ebea86b183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712674,
+    "wof:lastmodified":1684354624,
     "wof:name":"Santa Cruz do Douro e S\u00e3o Tom\u00e9 de Covelas",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2085,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

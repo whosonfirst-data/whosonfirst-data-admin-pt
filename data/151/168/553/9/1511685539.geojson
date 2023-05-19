@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310805",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz",
+    "eurostat:nuts_2021_id":"310805",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310805",
+    "eurostat:population":7214,
+    "eurostat:population_year":2020,
     "geom:area":0.002695,
+    "geom:area_square_m":28071770.119171,
     "geom:bbox":"-16.834934,32.403752,-16.462762,32.719743",
     "geom:latitude":32.602879,
     "geom:longitude":-16.656384,
@@ -97,6 +110,8 @@
     "pt-dgt:freguesia":"Santa Cruz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -104,11 +119,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310805",
+        "eurostat:nuts_2021_id":"310805",
         "pt-dgt:id":"310805"
     },
     "wof:country":"PT",
     "wof:created":1576699466,
-    "wof:geomhash":"0b0409b91b9267e323fa0b26f1b82e6f",
+    "wof:geomhash":"9b48fa2a9d430d758973fc399471e156",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -124,10 +141,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503000,
+    "wof:lastmodified":1684354727,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":7214,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Benavente",
+    "eurostat:nuts_2021_id":"140501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140501",
+    "eurostat:population":9174,
+    "eurostat:population_year":2020,
     "geom:area":0.013551,
+    "geom:area_square_m":130302003.856939,
     "geom:bbox":"-8.8783846578,38.8849409419,-8.65279443877,39.0319528395",
     "geom:latitude":38.953978,
     "geom:longitude":-8.787727,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Benavente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140501",
+        "eurostat:nuts_2021_id":"140501",
         "pt-dgt:id":"140501"
     },
     "wof:country":"PT",
     "wof:created":1576698231,
-    "wof:geomhash":"72a7bf96d760c27d449c60ff05977f0c",
+    "wof:geomhash":"31efac8f84690d6e06fdd646afbb1689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712507,
+    "wof:lastmodified":1684354500,
     "wof:name":"Benavente",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":9174,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

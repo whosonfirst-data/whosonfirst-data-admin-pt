@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031253",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carreira e Bente",
+    "eurostat:nuts_2021_id":"031253",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031253",
+    "eurostat:population":2576,
+    "eurostat:population_year":2020,
     "geom:area":0.000385,
+    "geom:area_square_m":3574919.482647,
     "geom:bbox":"-8.45680198848,41.3634979048,-8.42775916094,41.3941717018",
     "geom:latitude":41.381063,
     "geom:longitude":-8.443161,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Carreira e Bente",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031253",
+        "eurostat:nuts_2021_id":"031253",
         "pt-dgt:id":"031253"
     },
     "wof:country":"PT",
     "wof:created":1576699113,
-    "wof:geomhash":"211b2349fef12849dbcf1703a8acc5d7",
+    "wof:geomhash":"a54b8e7b560fb3065d68f1a25ffbc055",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712705,
+    "wof:lastmodified":1684354660,
     "wof:name":"Carreira e Bente",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":2576,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

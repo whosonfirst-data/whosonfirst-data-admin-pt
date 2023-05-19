@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061506",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Granja do Ulmeiro",
+    "eurostat:nuts_2021_id":"061506",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061506",
+    "eurostat:population":1866,
+    "eurostat:population_year":2020,
     "geom:area":0.000534,
+    "geom:area_square_m":5046521.030878,
     "geom:bbox":"-8.66703794982,40.1443200099,-8.61136423179,40.1759285238",
     "geom:latitude":40.159767,
     "geom:longitude":-8.630936,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Granja do Ulmeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061506",
+        "eurostat:nuts_2021_id":"061506",
         "pt-dgt:id":"061506"
     },
     "wof:country":"PT",
     "wof:created":1576698514,
-    "wof:geomhash":"6508109bb47e44bed0266326717c2203",
+    "wof:geomhash":"d39641c0926b995f46a6cf01554a812a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712596,
+    "wof:lastmodified":1684354557,
     "wof:name":"Granja do Ulmeiro",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1866,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

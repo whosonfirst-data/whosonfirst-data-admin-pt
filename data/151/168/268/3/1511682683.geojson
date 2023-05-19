@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091032",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alto do Palurdo",
+    "eurostat:nuts_2021_id":"091032",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091032",
+    "eurostat:population":242,
+    "eurostat:population_year":2020,
     "geom:area":0.005044,
+    "geom:area_square_m":47241862.135043,
     "geom:bbox":"-7.0459851114,40.7080701556,-6.95383214803,40.818623042",
     "geom:latitude":40.757528,
     "geom:longitude":-7.009122,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alto do Palurdo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091032",
+        "eurostat:nuts_2021_id":"091032",
         "pt-dgt:id":"091032"
     },
     "wof:country":"PT",
     "wof:created":1576698855,
-    "wof:geomhash":"24e55cea065cb1a2309bec1bcf909c58",
+    "wof:geomhash":"c6e62fba014dd45749addb050a102829",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712658,
+    "wof:lastmodified":1684354609,
     "wof:name":"Alto do Palurdo",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":242,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

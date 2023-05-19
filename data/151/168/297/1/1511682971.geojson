@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Poiares",
+    "eurostat:nuts_2021_id":"040406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040406",
+    "eurostat:population":411,
+    "eurostat:population_year":2020,
     "geom:area":0.004362,
+    "geom:area_square_m":40673951.692113,
     "geom:bbox":"-6.93450663714,41.0268690781,-6.81765209224,41.0910935575",
     "geom:latitude":41.052759,
     "geom:longitude":-6.875344,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Poiares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040406",
+        "eurostat:nuts_2021_id":"040406",
         "pt-dgt:id":"040406"
     },
     "wof:country":"PT",
     "wof:created":1576698914,
-    "wof:geomhash":"7d2b15374f5893e6bca077695de6cdab",
+    "wof:geomhash":"fd4a66d81754aac4746fa7b15dc85655",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712670,
+    "wof:lastmodified":1684354620,
     "wof:name":"Poiares",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":411,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

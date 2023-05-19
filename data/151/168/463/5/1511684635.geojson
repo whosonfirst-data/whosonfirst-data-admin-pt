@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160935",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Franca",
+    "eurostat:nuts_2021_id":"160935",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160935",
+    "eurostat:population":1757,
+    "eurostat:population_year":2020,
     "geom:area":0.000773,
+    "geom:area_square_m":7135641.848925,
     "geom:bbox":"-8.76429080115,41.6664795126,-8.72514618289,41.700006589",
     "geom:latitude":41.683537,
     "geom:longitude":-8.744603,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Franca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160935",
+        "eurostat:nuts_2021_id":"160935",
         "pt-dgt:id":"160935"
     },
     "wof:country":"PT",
     "wof:created":1576699270,
-    "wof:geomhash":"e1f614c2a35dce0fbe50ed15949328e1",
+    "wof:geomhash":"d6c804f79ab294a90b378e41f76136f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712729,
+    "wof:lastmodified":1684354683,
     "wof:name":"Vila Franca",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1757,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

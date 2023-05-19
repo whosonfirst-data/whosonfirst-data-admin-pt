@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_151005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Corroios",
+    "eurostat:nuts_2021_id":"151005",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"151005",
+    "eurostat:population":49351,
+    "eurostat:population_year":2020,
     "geom:area":0.00179,
+    "geom:area_square_m":17294703.718265,
     "geom:bbox":"-9.17834788595,38.5737441806,-9.12310817968,38.6554305067",
     "geom:latitude":38.618558,
     "geom:longitude":-9.156057,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Corroios",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_151005",
+        "eurostat:nuts_2021_id":"151005",
         "pt-dgt:id":"151005"
     },
     "wof:country":"PT",
     "wof:created":1576698161,
-    "wof:geomhash":"28454e3b4bb80f00b20fb68a9d9facb6",
+    "wof:geomhash":"fd7d7489c0e2f11af5ec5d9ca0a65ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712488,
+    "wof:lastmodified":1684354489,
     "wof:name":"Corroios",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":49351,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

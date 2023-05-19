@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160145",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sistelo",
+    "eurostat:nuts_2021_id":"160145",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160145",
+    "eurostat:population":273,
+    "eurostat:population_year":2020,
     "geom:area":0.002849,
+    "geom:area_square_m":26194683.58565,
     "geom:bbox":"-8.41750384715,41.9537629545,-8.29302255026,41.9963680379",
     "geom:latitude":41.973434,
     "geom:longitude":-8.348041,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sistelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160145",
+        "eurostat:nuts_2021_id":"160145",
         "pt-dgt:id":"160145"
     },
     "wof:country":"PT",
     "wof:created":1576698674,
-    "wof:geomhash":"e2efdc99f8edd937446eb150b7275fc3",
+    "wof:geomhash":"08199ca872d8b0884e7c79e2f33428cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712628,
+    "wof:lastmodified":1684354581,
     "wof:name":"Sistelo",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":273,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110812",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lourinh\u00e3 e Atalaia",
+    "eurostat:nuts_2021_id":"110812",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"110812",
+    "eurostat:population":11755,
+    "eurostat:population_year":2020,
     "geom:area":0.004849,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":46430750.44914,
     "geom:bbox":"-9.34376753941,39.2141882952,-9.24371539501,39.2928246768",
     "geom:latitude":39.25289,
     "geom:longitude":-9.302808,
@@ -109,6 +121,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -116,6 +130,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110812",
+        "eurostat:nuts_2021_id":"110812",
         "gn:id":8012516,
         "pt-dgt:id":110812,
         "qs_pg:id":1155633
@@ -125,7 +141,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"160f5087b93fc8bf0d72f991fa879e67",
+    "wof:geomhash":"e60896658fb3008d57a497b01d10e374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -135,10 +151,12 @@
         }
     ],
     "wof:id":1125382355,
-    "wof:lastmodified":1582359924,
+    "wof:lastmodified":1684354447,
     "wof:name":"Lourinh\u00e3 e Atalaia",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":11755,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

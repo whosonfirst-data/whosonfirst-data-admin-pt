@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180204",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oliveira do Conde",
+    "eurostat:nuts_2021_id":"180204",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180204",
+    "eurostat:population":3122,
+    "eurostat:population_year":2020,
     "geom:area":0.003741,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":35202683.662617,
     "geom:bbox":"-8.0048996486,40.4042365331,-7.90310198596,40.4793280837",
     "geom:latitude":40.445142,
     "geom:longitude":-7.956666,
@@ -49,7 +61,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -57,6 +70,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180204",
+        "eurostat:nuts_2021_id":"180204",
         "gn:id":7116057,
         "pt-dgt:id":180204,
         "qs_pg:id":656680
@@ -66,7 +81,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"2a2c38cf9466e0a95a498a7046908e28",
+    "wof:geomhash":"585a21ae40ea0cabd9e273d03cc288f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,11 +91,11 @@
         }
     ],
     "wof:id":1125383217,
-    "wof:lastmodified":1582359925,
+    "wof:lastmodified":1684354447,
     "wof:name":"Oliveira do Conde",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
-    "wof:population":3313,
+    "wof:population":3122,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

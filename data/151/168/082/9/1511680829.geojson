@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050611",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sobral",
+    "eurostat:nuts_2021_id":"050611",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050611",
+    "eurostat:population":160,
+    "eurostat:population_year":2020,
     "geom:area":0.00202,
+    "geom:area_square_m":19145094.877282,
     "geom:bbox":"-8.037562,39.914041,-7.984383,39.984614",
     "geom:latitude":39.947797,
     "geom:longitude":-8.010484,
@@ -35,6 +48,8 @@
     "pt-dgt:freguesia":"Sobral",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -42,11 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050611",
+        "eurostat:nuts_2021_id":"050611",
         "pt-dgt:id":"050611"
     },
     "wof:country":"PT",
     "wof:created":1576698467,
-    "wof:geomhash":"d1195fe5d55445a2d84af71bcbb3f9ed",
+    "wof:geomhash":"a454b4b986cbda3ad5df53a0af834f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,10 +79,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502996,
+    "wof:lastmodified":1684354547,
     "wof:name":"Sobral",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":160,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110922",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Venda do Pinheiro e Santo Est\u00eav\u00e3o das Gal\u00e9s",
+    "eurostat:nuts_2021_id":"110922",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110922",
+    "eurostat:population":9855,
+    "eurostat:population_year":2020,
     "geom:area":0.003061,
+    "geom:area_square_m":29451806.752798,
     "geom:bbox":"-9.27623772737,38.8624323279,-9.19877010276,38.9484831323",
     "geom:latitude":38.906792,
     "geom:longitude":-9.240355,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Venda do Pinheiro e Santo Est\u00eav\u00e3o das Gal\u00e9s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110922",
+        "eurostat:nuts_2021_id":"110922",
         "pt-dgt:id":"110922"
     },
     "wof:country":"PT",
     "wof:created":1576698217,
-    "wof:geomhash":"b7c8a3e3254c2526ce6e82127812b69e",
+    "wof:geomhash":"fdc9bbd7216283bdcd64145f481b2cce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712502,
+    "wof:lastmodified":1684354497,
     "wof:name":"Venda do Pinheiro e Santo Est\u00eav\u00e3o das Gal\u00e9s",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":9855,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

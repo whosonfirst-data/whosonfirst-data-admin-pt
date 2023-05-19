@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121501",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cano",
+    "eurostat:nuts_2021_id":"121501",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121501",
+    "eurostat:population":1266,
+    "eurostat:population_year":2020,
     "geom:area":0.005137,
+    "geom:area_square_m":49386929.055256,
     "geom:bbox":"-7.82135106716,38.9184866323,-7.72087159503,39.0101354746",
     "geom:latitude":38.96831,
     "geom:longitude":-7.766932,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cano",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121501",
+        "eurostat:nuts_2021_id":"121501",
         "pt-dgt:id":"121501"
     },
     "wof:country":"PT",
     "wof:created":1576698225,
-    "wof:geomhash":"e4788d260776432220cf8b5acf3b5c9d",
+    "wof:geomhash":"446c330b9b62b8e756e55a2009cef755",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712505,
+    "wof:lastmodified":1684354499,
     "wof:name":"Cano",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":1266,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

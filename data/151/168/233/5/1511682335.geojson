@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barreiros",
+    "eurostat:nuts_2021_id":"030102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030102",
+    "eurostat:population":760,
+    "eurostat:population_year":2020,
     "geom:area":0.000323,
+    "geom:area_square_m":2982353.359146,
     "geom:bbox":"-8.407704,41.605284,-8.381828,41.627659",
     "geom:latitude":41.616633,
     "geom:longitude":-8.395695,
@@ -65,6 +78,8 @@
     "pt-dgt:freguesia":"Barreiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -72,11 +87,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030102",
+        "eurostat:nuts_2021_id":"030102",
         "pt-dgt:id":"030102"
     },
     "wof:country":"PT",
     "wof:created":1576698778,
-    "wof:geomhash":"b0d1aa392585ff18f280cfa2074a59aa",
+    "wof:geomhash":"167e088128a8b33b90f1ff38d18d978e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,10 +109,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502998,
+    "wof:lastmodified":1684354596,
     "wof:name":"Barreiros",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":760,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

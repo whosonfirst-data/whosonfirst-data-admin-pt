@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140121",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia do Mato e Souto",
+    "eurostat:nuts_2021_id":"140121",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"140121",
+    "eurostat:population":859,
+    "eurostat:population_year":2020,
     "geom:area":0.004691,
+    "geom:area_square_m":44728227.257539,
     "geom:bbox":"-8.30224655816,39.5029631515,-8.21244050975,39.5870483446",
     "geom:latitude":39.546175,
     "geom:longitude":-8.259025,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Aldeia do Mato e Souto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140121",
+        "eurostat:nuts_2021_id":"140121",
         "pt-dgt:id":"140121"
     },
     "wof:country":"PT",
     "wof:created":1576698367,
-    "wof:geomhash":"6055700061707334efa07f0960a8e8af",
+    "wof:geomhash":"08093dd0e9876e393c98e916867e5dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712547,
+    "wof:lastmodified":1684354525,
     "wof:name":"Aldeia do Mato e Souto",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":859,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

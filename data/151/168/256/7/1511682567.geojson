@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Terras de Massueime",
+    "eurostat:nuts_2021_id":"091030",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091030",
+    "eurostat:population":274,
+    "eurostat:population_year":2020,
     "geom:area":0.001321,
+    "geom:area_square_m":12377509.850026,
     "geom:bbox":"-7.24478363211,40.7180599082,-7.1571246953,40.7530189709",
     "geom:latitude":40.734816,
     "geom:longitude":-7.198535,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Terras de Massueime",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091030",
+        "eurostat:nuts_2021_id":"091030",
         "pt-dgt:id":"091030"
     },
     "wof:country":"PT",
     "wof:created":1576698829,
-    "wof:geomhash":"0b18081112ae279767744a4e87a5b1bf",
+    "wof:geomhash":"eb7e099af0aa2fcffe6034e5cb8b3783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712653,
+    "wof:lastmodified":1684354604,
     "wof:name":"Terras de Massueime",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":274,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

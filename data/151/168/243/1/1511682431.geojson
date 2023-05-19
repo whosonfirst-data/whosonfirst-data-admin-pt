@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamegal",
+    "eurostat:nuts_2021_id":"091012",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091012",
+    "eurostat:population":253,
+    "eurostat:population_year":2020,
     "geom:area":0.002338,
+    "geom:area_square_m":21933059.870389,
     "geom:bbox":"-7.12000322424,40.6351864514,-7.04773036735,40.6886325",
     "geom:latitude":40.66075,
     "geom:longitude":-7.084833,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lamegal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091012",
+        "eurostat:nuts_2021_id":"091012",
         "pt-dgt:id":"091012"
     },
     "wof:country":"PT",
     "wof:created":1576698797,
-    "wof:geomhash":"85dd9a0fb501e565e014ae932e90d465",
+    "wof:geomhash":"45d49ecb9cfba84a934242ecdc17efe3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712648,
+    "wof:lastmodified":1684354599,
     "wof:name":"Lamegal",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":253,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ourent\u00e3",
+    "eurostat:nuts_2021_id":"060209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060209",
+    "eurostat:population":1208,
+    "eurostat:population_year":2020,
     "geom:area":0.001947,
+    "geom:area_square_m":18340495.859435,
     "geom:bbox":"-8.57588487432,40.3407283812,-8.52197429089,40.4058329277",
     "geom:latitude":40.374909,
     "geom:longitude":-8.549355,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ourent\u00e3",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060209",
+        "eurostat:nuts_2021_id":"060209",
         "pt-dgt:id":"060209"
     },
     "wof:country":"PT",
     "wof:created":1576698587,
-    "wof:geomhash":"47b97f0bea34d5f107e90b21a1255f5b",
+    "wof:geomhash":"b9d6be27ecbf690df83f929d99adfdb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712611,
+    "wof:lastmodified":1684354568,
     "wof:name":"Ourent\u00e3",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1208,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

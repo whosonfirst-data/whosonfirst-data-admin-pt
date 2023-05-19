@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferro",
+    "eurostat:nuts_2021_id":"050311",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050311",
+    "eurostat:population":1700,
+    "eurostat:population_year":2020,
     "geom:area":0.003255,
+    "geom:area_square_m":30724426.295035,
     "geom:bbox":"-7.4970435224,40.2106124361,-7.40781921112,40.2702085583",
     "geom:latitude":40.237704,
     "geom:longitude":-7.449995,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ferro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050311",
+        "eurostat:nuts_2021_id":"050311",
         "pt-dgt:id":"050311"
     },
     "wof:country":"PT",
     "wof:created":1576698542,
-    "wof:geomhash":"d9aef0f243f1518d85799ac9497bc4a7",
+    "wof:geomhash":"9bf2d7dfa8d4080dde0d57354606d7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712602,
+    "wof:lastmodified":1684354561,
     "wof:name":"Ferro",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1700,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

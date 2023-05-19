@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420315",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Relva",
+    "eurostat:nuts_2021_id":"420315",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420315",
+    "eurostat:population":3006,
+    "eurostat:population_year":2020,
     "geom:area":0.001234,
+    "geom:area_square_m":12065422.450457,
     "geom:bbox":"-25.7586019717,37.7361676607,-25.6962851821,37.8269790809",
     "geom:latitude":37.775792,
     "geom:longitude":-25.732873,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Relva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420315",
+        "eurostat:nuts_2021_id":"420315",
         "pt-dgt:id":"420315"
     },
     "wof:country":"PT",
     "wof:created":1576699421,
-    "wof:geomhash":"2bf7ff67157254403606d7254f6c409c",
+    "wof:geomhash":"ddee3dfa6b51bff44dcb5ee90c6688b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720286,
+    "wof:lastmodified":1684354706,
     "wof:name":"Relva",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3006,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

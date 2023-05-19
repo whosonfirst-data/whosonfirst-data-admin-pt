@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Algeriz",
+    "eurostat:nuts_2021_id":"171203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171203",
+    "eurostat:population":570,
+    "eurostat:population_year":2020,
     "geom:area":0.002257,
+    "geom:area_square_m":20876216.171254,
     "geom:bbox":"-7.42513566857,41.5616190421,-7.32827475215,41.6064156002",
     "geom:latitude":41.583691,
     "geom:longitude":-7.378893,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Algeriz",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171203",
+        "eurostat:nuts_2021_id":"171203",
         "pt-dgt:id":"171203"
     },
     "wof:country":"PT",
     "wof:created":1576699260,
-    "wof:geomhash":"cc5d6b03c201f3cc19ad29edffd0132d",
+    "wof:geomhash":"88ef432ddfb4d6c291419f03606f374d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712728,
+    "wof:lastmodified":1684354682,
     "wof:name":"Algeriz",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":570,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

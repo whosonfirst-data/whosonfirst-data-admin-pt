@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_141701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcaravela",
+    "eurostat:nuts_2021_id":"141701",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16I",
+    "eurostat:nuts_2021_level_lau":"141701",
+    "eurostat:population":904,
+    "eurostat:population_year":2020,
     "geom:area":0.003855,
+    "geom:area_square_m":36741506.527232,
     "geom:bbox":"-8.15005632411,39.5354646184,-8.08091359754,39.6152899701",
     "geom:latitude":39.576819,
     "geom:longitude":-8.113351,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcaravela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_141701",
+        "eurostat:nuts_2021_id":"141701",
         "pt-dgt:id":"141701"
     },
     "wof:country":"PT",
     "wof:created":1576698371,
-    "wof:geomhash":"c590c34e3688f831c650a36edf08932b",
+    "wof:geomhash":"9f6896f414759a01565682574f8bd993",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712548,
+    "wof:lastmodified":1684354526,
     "wof:name":"Alcaravela",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":904,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

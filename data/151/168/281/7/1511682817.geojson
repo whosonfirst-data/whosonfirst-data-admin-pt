@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_090907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Longroiva",
+    "eurostat:nuts_2021_id":"090907",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"090907",
+    "eurostat:population":286,
+    "eurostat:population_year":2020,
     "geom:area":0.004415,
+    "geom:area_square_m":41221691.813156,
     "geom:bbox":"-7.23986419442,40.9254597585,-7.16680880629,41.0365935175",
     "geom:latitude":40.97301,
     "geom:longitude":-7.200474,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Longroiva",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_090907",
+        "eurostat:nuts_2021_id":"090907",
         "pt-dgt:id":"090907"
     },
     "wof:country":"PT",
     "wof:created":1576698883,
-    "wof:geomhash":"db25f549b8daaee20a52148720972db7",
+    "wof:geomhash":"b1a604b611c772b55dc196df4b439d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712664,
+    "wof:lastmodified":1684354614,
     "wof:name":"Longroiva",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":286,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

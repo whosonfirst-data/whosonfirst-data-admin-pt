@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040209",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castro de Avel\u00e3s",
+    "eurostat:nuts_2021_id":"040209",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040209",
+    "eurostat:population":460,
+    "eurostat:population_year":2020,
     "geom:area":0.00146,
+    "geom:area_square_m":13455857.689276,
     "geom:bbox":"-6.86580695982,41.7942745071,-6.7849865706,41.8275245952",
     "geom:latitude":41.812031,
     "geom:longitude":-6.829036,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castro de Avel\u00e3s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040209",
+        "eurostat:nuts_2021_id":"040209",
         "pt-dgt:id":"040209"
     },
     "wof:country":"PT",
     "wof:created":1576699333,
-    "wof:geomhash":"dbe5809c4b69b93fd330c57faa142731",
+    "wof:geomhash":"60a755e03582b82ee4ec3112b89a6a89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712738,
+    "wof:lastmodified":1684354690,
     "wof:name":"Castro de Avel\u00e3s",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":460,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

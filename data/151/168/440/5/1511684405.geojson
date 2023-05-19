@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030610",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gemeses",
+    "eurostat:nuts_2021_id":"030610",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030610",
+    "eurostat:population":1078,
+    "eurostat:population_year":2020,
     "geom:area":0.000601,
+    "geom:area_square_m":5560762.090781,
     "geom:bbox":"-8.75015988078,41.5055995081,-8.70551440918,41.5287097436",
     "geom:latitude":41.517854,
     "geom:longitude":-8.726802,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Gemeses",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030610",
+        "eurostat:nuts_2021_id":"030610",
         "pt-dgt:id":"030610"
     },
     "wof:country":"PT",
     "wof:created":1576699219,
-    "wof:geomhash":"ca0b116fd87a49e4db9ffdaa2a520eb4",
+    "wof:geomhash":"9bea3fa7bd0890b5b80bf6eb42d9923e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354677,
     "wof:name":"Gemeses",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1078,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

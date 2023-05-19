@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100907",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caranguejeira",
+    "eurostat:nuts_2021_id":"100907",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100907",
+    "eurostat:population":4691,
+    "eurostat:population_year":2020,
     "geom:area":0.003256,
+    "geom:area_square_m":30958627.032838,
     "geom:bbox":"-8.73802300547,39.7088987645,-8.66418299309,39.7811038312",
     "geom:latitude":39.746989,
     "geom:longitude":-8.70267,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Caranguejeira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100907",
+        "eurostat:nuts_2021_id":"100907",
         "pt-dgt:id":"100907"
     },
     "wof:country":"PT",
     "wof:created":1576698427,
-    "wof:geomhash":"7a218a515de1ffde4cee7619401d5edf",
+    "wof:geomhash":"b12de9947261534f9efcd33f5dc8a182",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712567,
+    "wof:lastmodified":1684354538,
     "wof:name":"Caranguejeira",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":4691,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

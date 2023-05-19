@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031015",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valdosende",
+    "eurostat:nuts_2021_id":"031015",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031015",
+    "eurostat:population":630,
+    "eurostat:population_year":2020,
     "geom:area":0.00131,
+    "geom:area_square_m":12098515.780725,
     "geom:bbox":"-8.25578019071,41.6494980476,-8.19849537354,41.685316771",
     "geom:latitude":41.666101,
     "geom:longitude":-8.22761,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valdosende",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031015",
+        "eurostat:nuts_2021_id":"031015",
         "pt-dgt:id":"031015"
     },
     "wof:country":"PT",
     "wof:created":1576698664,
-    "wof:geomhash":"c5fbd9ff0af4e238eb1f946ae0d01db9",
+    "wof:geomhash":"403ecc71383ab18eb0feb6a06e5e8b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712626,
+    "wof:lastmodified":1684354580,
     "wof:name":"Valdosende",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":630,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

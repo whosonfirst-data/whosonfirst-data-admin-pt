@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amareleja",
+    "eurostat:nuts_2021_id":"021001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"021001",
+    "eurostat:population":2564,
+    "eurostat:population_year":2020,
     "geom:area":0.011164,
+    "geom:area_square_m":108477732.616407,
     "geom:bbox":"-7.29335360281,38.1380450673,-7.15202555593,38.2818178845",
     "geom:latitude":38.201573,
     "geom:longitude":-7.229145,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Amareleja",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021001",
+        "eurostat:nuts_2021_id":"021001",
         "pt-dgt:id":"021001"
     },
     "wof:country":"PT",
     "wof:created":1576698133,
-    "wof:geomhash":"1d1b50d605801a6ce314b35e530aa99a",
+    "wof:geomhash":"c8862b28b0bb69cf83c2fb33fb182b4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712480,
+    "wof:lastmodified":1684354484,
     "wof:name":"Amareleja",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":2564,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

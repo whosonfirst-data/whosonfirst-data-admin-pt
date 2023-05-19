@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030743",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte e Queimadela",
+    "eurostat:nuts_2021_id":"030743",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030743",
+    "eurostat:population":801,
+    "eurostat:population_year":2020,
     "geom:area":0.002198,
+    "geom:area_square_m":20345000.460426,
     "geom:bbox":"-8.18242181302,41.4942953007,-8.11931231787,41.5522344924",
     "geom:latitude":41.526032,
     "geom:longitude":-8.151799,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o de freguesias de Monte e Queimadela",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030743",
+        "eurostat:nuts_2021_id":"030743",
         "pt-dgt:id":"030743"
     },
     "wof:country":"PT",
     "wof:created":1576699237,
-    "wof:geomhash":"3344179d532db0bfdb57a32b03f13867",
+    "wof:geomhash":"77b97c1ce5187ed2ae1c97b34f70d2ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712725,
+    "wof:lastmodified":1684354679,
     "wof:name":"Monte e Queimadela",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":801,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

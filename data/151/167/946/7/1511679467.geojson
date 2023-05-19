@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_021404",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila de Frades",
+    "eurostat:nuts_2021_id":"021404",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"021404",
+    "eurostat:population":928,
+    "eurostat:population_year":2020,
     "geom:area":0.002636,
+    "geom:area_square_m":25606016.565188,
     "geom:bbox":"-7.88087350098,38.1977803218,-7.78548276572,38.2580602392",
     "geom:latitude":38.226809,
     "geom:longitude":-7.832847,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila de Frades",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_021404",
+        "eurostat:nuts_2021_id":"021404",
         "pt-dgt:id":"021404"
     },
     "wof:country":"PT",
     "wof:created":1576698131,
-    "wof:geomhash":"73cb5a89050dc653d5e0f338f22bb8a2",
+    "wof:geomhash":"4600bbe293cd71a8f0b43d59c5e163e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712480,
+    "wof:lastmodified":1684354484,
     "wof:name":"Vila de Frades",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":928,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

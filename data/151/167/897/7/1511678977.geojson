@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080803",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ameixial",
+    "eurostat:nuts_2021_id":"080803",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080803",
+    "eurostat:population":439,
+    "eurostat:population_year":2020,
     "geom:area":0.012595,
+    "geom:area_square_m":123801168.611274,
     "geom:bbox":"-8.04396860935,37.2879007826,-7.87828437598,37.4182582232",
     "geom:latitude":37.354127,
     "geom:longitude":-7.950159,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ameixial",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080803",
+        "eurostat:nuts_2021_id":"080803",
         "pt-dgt:id":"080803"
     },
     "wof:country":"PT",
     "wof:created":1576698015,
-    "wof:geomhash":"8e6946c8c4018d83d9875269db6888cf",
+    "wof:geomhash":"cd64d96f57c6d1539ef487e2a34b3bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712446,
+    "wof:lastmodified":1684354463,
     "wof:name":"Ameixial",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":439,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

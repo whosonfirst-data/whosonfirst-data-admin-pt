@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Del\u00e3es",
+    "eurostat:nuts_2021_id":"031213",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031213",
+    "eurostat:population":4080,
+    "eurostat:population_year":2020,
     "geom:area":0.000282,
+    "geom:area_square_m":2614995.152781,
     "geom:bbox":"-8.42835231038,41.3760889603,-8.40074388501,41.401741612",
     "geom:latitude":41.387476,
     "geom:longitude":-8.415972,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Del\u00e3es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031213",
+        "eurostat:nuts_2021_id":"031213",
         "pt-dgt:id":"031213"
     },
     "wof:country":"PT",
     "wof:created":1576699118,
-    "wof:geomhash":"dd9546b7fa4949e9da31633537e284c3",
+    "wof:geomhash":"3278337f311662073f0d39855adc05bf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712706,
+    "wof:lastmodified":1684354661,
     "wof:name":"Del\u00e3es",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":4080,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

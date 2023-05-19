@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040534",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vale de Prados",
+    "eurostat:nuts_2021_id":"040534",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040534",
+    "eurostat:population":431,
+    "eurostat:population_year":2020,
     "geom:area":0.001119,
+    "geom:area_square_m":10350987.592766,
     "geom:bbox":"-6.95609046645,41.5388258294,-6.9083893469,41.5763105237",
     "geom:latitude":41.557401,
     "geom:longitude":-6.935496,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vale de Prados",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040534",
+        "eurostat:nuts_2021_id":"040534",
         "pt-dgt:id":"040534"
     },
     "wof:country":"PT",
     "wof:created":1576699050,
-    "wof:geomhash":"b25e86d40573b259dacc4b9e5cd9190c",
+    "wof:geomhash":"4368cdc7dd94f6f5733151093a4fed06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712696,
+    "wof:lastmodified":1684354648,
     "wof:name":"Vale de Prados",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":431,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

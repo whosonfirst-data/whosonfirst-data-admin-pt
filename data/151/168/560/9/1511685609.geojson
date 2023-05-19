@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Angra (S\u00e3o Pedro)",
+    "eurostat:nuts_2021_id":"430104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430104",
+    "eurostat:population":3460,
+    "eurostat:population_year":2020,
     "geom:area":0.000379,
+    "geom:area_square_m":3657275.002789,
     "geom:bbox":"-27.2564590207,38.6525019278,-27.2236960437,38.6715470949",
     "geom:latitude":38.662313,
     "geom:longitude":-27.239599,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Angra (S\u00e3o Pedro)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430104",
+        "eurostat:nuts_2021_id":"430104",
         "pt-dgt:id":"430104"
     },
     "wof:country":"PT",
     "wof:created":1576703598,
-    "wof:geomhash":"63e5bd510e2bc9b15871a446f00d4509",
+    "wof:geomhash":"61c59c139375a6ed83ae9505d0cdbb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720341,
+    "wof:lastmodified":1684354740,
     "wof:name":"Angra (S\u00e3o Pedro)",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":3460,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

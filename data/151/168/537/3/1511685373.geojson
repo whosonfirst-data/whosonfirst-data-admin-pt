@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420305",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Covoada",
+    "eurostat:nuts_2021_id":"420305",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420305",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.000924,
+    "geom:area_square_m":9033336.55878,
     "geom:bbox":"-25.7480201088,37.7566714108,-25.7103057621,37.8195990405",
     "geom:latitude":37.787611,
     "geom:longitude":-25.729159,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Covoada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420305",
+        "eurostat:nuts_2021_id":"420305",
         "pt-dgt:id":"420305"
     },
     "wof:country":"PT",
     "wof:created":1576699419,
-    "wof:geomhash":"cc2247adbcabf41f3c2cb427e3ffafe6",
+    "wof:geomhash":"8e34dc24c11c661df19cbde05c0dfc1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720298,
+    "wof:lastmodified":1684354704,
     "wof:name":"Covoada",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

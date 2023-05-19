@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131811",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coronado (S\u00e3o Rom\u00e3o e S\u00e3o Mamede)",
+    "eurostat:nuts_2021_id":"131811",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131811",
+    "eurostat:population":9119,
+    "eurostat:population_year":2020,
     "geom:area":0.00118,
+    "geom:area_square_m":10967258.060744,
     "geom:bbox":"-8.59217790308,41.2582991841,-8.53884314497,41.3027273321",
     "geom:latitude":41.280597,
     "geom:longitude":-8.569239,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Coronado (S\u00e3o Rom\u00e3o e S\u00e3o Mamede)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131811",
+        "eurostat:nuts_2021_id":"131811",
         "pt-dgt:id":"131811"
     },
     "wof:country":"PT",
     "wof:created":1576698791,
-    "wof:geomhash":"cefa9cb303d7bc0cca1ac6482bbafa2b",
+    "wof:geomhash":"2bd315d5ce4ae193854c630484473813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712646,
+    "wof:lastmodified":1684354598,
     "wof:name":"Coronado (S\u00e3o Rom\u00e3o e S\u00e3o Mamede)",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":9119,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bico",
+    "eurostat:nuts_2021_id":"030104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030104",
+    "eurostat:population":777,
+    "eurostat:population_year":2020,
     "geom:area":0.000248,
+    "geom:area_square_m":2290444.035564,
     "geom:bbox":"-8.41836292667,41.6368835891,-8.39056831679,41.6520035178",
     "geom:latitude":41.642752,
     "geom:longitude":-8.405026,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bico",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030104",
+        "eurostat:nuts_2021_id":"030104",
         "pt-dgt:id":"030104"
     },
     "wof:country":"PT",
     "wof:created":1576698757,
-    "wof:geomhash":"429a6ea487bb53c720cda6c84a38bceb",
+    "wof:geomhash":"3f067dec85b0534f7490c954554d0cf2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Bico",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":777,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

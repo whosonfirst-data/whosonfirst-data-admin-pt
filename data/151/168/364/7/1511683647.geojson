@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030282",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ucha",
+    "eurostat:nuts_2021_id":"030282",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030282",
+    "eurostat:population":1420,
+    "eurostat:population_year":2020,
     "geom:area":0.000461,
+    "geom:area_square_m":4263519.890955,
     "geom:bbox":"-8.5350922119,41.5627314156,-8.4989675751,41.5852526361",
     "geom:latitude":41.574475,
     "geom:longitude":-8.516202,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ucha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030282",
+        "eurostat:nuts_2021_id":"030282",
         "pt-dgt:id":"030282"
     },
     "wof:country":"PT",
     "wof:created":1576699057,
-    "wof:geomhash":"09d49b29220dccde216942d292355030",
+    "wof:geomhash":"d58659e7fffe57fb1229607876c71f92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712696,
+    "wof:lastmodified":1684354648,
     "wof:name":"Ucha",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1420,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

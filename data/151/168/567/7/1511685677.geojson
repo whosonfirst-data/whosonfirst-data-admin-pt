@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_440101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Guadalupe",
+    "eurostat:nuts_2021_id":"440101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"440101",
+    "eurostat:population":1096,
+    "eurostat:population_year":2020,
     "geom:area":0.002147,
+    "geom:area_square_m":20611558.323461,
     "geom:bbox":"-28.0724073293,39.0221069206,-27.9982880063,39.0812200004",
     "geom:latitude":39.054342,
     "geom:longitude":-28.035208,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Guadalupe",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_440101",
+        "eurostat:nuts_2021_id":"440101",
         "pt-dgt:id":"440101"
     },
     "wof:country":"PT",
     "wof:created":1576703613,
-    "wof:geomhash":"7b284afa6a7e352ee1544e7191381915",
+    "wof:geomhash":"69bd4e35838998ca1cc6929acb57a3c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720333,
+    "wof:lastmodified":1684354744,
     "wof:name":"Guadalupe",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1096,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

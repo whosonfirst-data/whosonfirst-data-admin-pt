@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tel\u00f5es",
+    "eurostat:nuts_2021_id":"171311",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171311",
+    "eurostat:population":1485,
+    "eurostat:population_year":2020,
     "geom:area":0.004871,
+    "geom:area_square_m":45156570.059408,
     "geom:bbox":"-7.73487095226,41.3960932574,-7.63682053668,41.4787199605",
     "geom:latitude":41.43563,
     "geom:longitude":-7.682903,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Tel\u00f5es",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171311",
+        "eurostat:nuts_2021_id":"171311",
         "pt-dgt:id":"171311"
     },
     "wof:country":"PT",
     "wof:created":1576699177,
-    "wof:geomhash":"b7774311d89d2a5e36b9017605645a4d",
+    "wof:geomhash":"3dca601019fb541c1dc06c090fe0ace7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712717,
+    "wof:lastmodified":1684354672,
     "wof:name":"Tel\u00f5es",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":1485,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

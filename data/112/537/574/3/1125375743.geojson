@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121304",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Foros de Arr\u00e3o",
+    "eurostat:nuts_2021_id":"121304",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121304",
+    "eurostat:population":919,
+    "eurostat:population_year":2020,
     "geom:area":0.00878,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":84188815.463028,
     "geom:bbox":"-8.3438699301,39.0892426171,-8.14831018672,39.2188055842",
     "geom:latitude":39.150979,
     "geom:longitude":-8.253907,
@@ -58,7 +70,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -66,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121304",
+        "eurostat:nuts_2021_id":"121304",
         "gn:id":6930687,
         "pt-dgt:id":121304,
         "qs_pg:id":652909
@@ -75,7 +90,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"cf6329855f7795ca24a2f5210e797af7",
+    "wof:geomhash":"32036c69eef55aeefbc424f4253d6726",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,12 +100,12 @@
         }
     ],
     "wof:id":1125375743,
-    "wof:lastmodified":1582359919,
+    "wof:lastmodified":1684354446,
     "wof:name":"Foros de Arr\u00e3o",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
-    "wof:population":1037,
-    "wof:population_rank":3,
+    "wof:population":919,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

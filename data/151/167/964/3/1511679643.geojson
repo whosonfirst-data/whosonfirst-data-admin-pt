@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110661",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Miseric\u00f3rdia",
+    "eurostat:nuts_2021_id":"110661",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110661",
+    "eurostat:population":13044,
+    "eurostat:population_year":2020,
     "geom:area":0.000227,
+    "geom:area_square_m":2190235.239855,
     "geom:bbox":"-9.154455562,38.6944329328,-9.13855234945,38.717160264",
     "geom:latitude":38.705441,
     "geom:longitude":-9.146675,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Miseric\u00f3rdia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110661",
+        "eurostat:nuts_2021_id":"110661",
         "pt-dgt:id":"110661"
     },
     "wof:country":"PT",
     "wof:created":1576698172,
-    "wof:geomhash":"1c1e504bffb54d01f0c17cfdeed3a8a9",
+    "wof:geomhash":"070ea2eb72be5e41b29a480bebbd07ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354490,
     "wof:name":"Miseric\u00f3rdia",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":13044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

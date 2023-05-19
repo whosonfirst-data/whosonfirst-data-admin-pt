@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040219",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Grij\u00f3 de Parada",
+    "eurostat:nuts_2021_id":"040219",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040219",
+    "eurostat:population":296,
+    "eurostat:population_year":2020,
     "geom:area":0.003373,
+    "geom:area_square_m":31132195.860641,
     "geom:bbox":"-6.72608016263,41.6906313956,-6.64284396104,41.7562101164",
     "geom:latitude":41.722653,
     "geom:longitude":-6.689487,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Grij\u00f3 de Parada",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040219",
+        "eurostat:nuts_2021_id":"040219",
         "pt-dgt:id":"040219"
     },
     "wof:country":"PT",
     "wof:created":1576699294,
-    "wof:geomhash":"e51ea65e81ac704d089d913836c65182",
+    "wof:geomhash":"da70e39d2b54a9d362b7a5cd8675aec7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712732,
+    "wof:lastmodified":1684354686,
     "wof:name":"Grij\u00f3 de Parada",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":296,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

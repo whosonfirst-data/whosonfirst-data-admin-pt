@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131602",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1rvore",
+    "eurostat:nuts_2021_id":"131602",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131602",
+    "eurostat:population":5196,
+    "eurostat:population_year":2020,
     "geom:area":0.000706,
+    "geom:area_square_m":6551485.841346,
     "geom:bbox":"-8.7398378454,41.3229279955,-8.69154112789,41.3498113974",
     "geom:latitude":41.336385,
     "geom:longitude":-8.717425,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"\u00c1rvore",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131602",
+        "eurostat:nuts_2021_id":"131602",
         "pt-dgt:id":"131602"
     },
     "wof:country":"PT",
     "wof:created":1576699016,
-    "wof:geomhash":"234f7cb8400c9548fa71a55938fd9da5",
+    "wof:geomhash":"8289a8a886f84ac961f8822cb6be7a23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712690,
+    "wof:lastmodified":1684354642,
     "wof:name":"\u00c1rvore",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":5196,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

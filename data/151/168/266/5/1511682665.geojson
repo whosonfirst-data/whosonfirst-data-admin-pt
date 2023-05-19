@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181619",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Maior",
+    "eurostat:nuts_2021_id":"181619",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181619",
+    "eurostat:population":962,
+    "eurostat:population_year":2020,
     "geom:area":0.001267,
+    "geom:area_square_m":11860981.937089,
     "geom:bbox":"-8.05505889222,40.7717594292,-8.00439277176,40.8151923821",
     "geom:latitude":40.795382,
     "geom:longitude":-8.028175,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Maior",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181619",
+        "eurostat:nuts_2021_id":"181619",
         "pt-dgt:id":"181619"
     },
     "wof:country":"PT",
     "wof:created":1576698851,
-    "wof:geomhash":"be6d4fb558ea02de65fc4062c8421b0c",
+    "wof:geomhash":"7553600521a6d9725984a4c43b4d367e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712657,
+    "wof:lastmodified":1684354608,
     "wof:name":"Vila Maior",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":962,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

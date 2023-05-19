@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mosteiros",
+    "eurostat:nuts_2021_id":"120203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120203",
+    "eurostat:population":456,
+    "eurostat:population_year":2020,
     "geom:area":0.005522,
+    "geom:area_square_m":52941456.726156,
     "geom:bbox":"-7.365452,39.129676,-7.237876,39.199751",
     "geom:latitude":39.168003,
     "geom:longitude":-7.297392,
@@ -32,6 +45,8 @@
     "pt-dgt:freguesia":"Mosteiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -39,11 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120203",
+        "eurostat:nuts_2021_id":"120203",
         "pt-dgt:id":"120203"
     },
     "wof:country":"PT",
     "wof:created":1576698275,
-    "wof:geomhash":"38ee87150b35081342e94edd686b5b14",
+    "wof:geomhash":"b7b6e32f61d64ee6d00163d2afb27ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,10 +76,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503003,
+    "wof:lastmodified":1684354508,
     "wof:name":"Mosteiros",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":456,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

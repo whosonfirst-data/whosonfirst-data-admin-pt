@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Molelos",
+    "eurostat:nuts_2021_id":"182111",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182111",
+    "eurostat:population":2346,
+    "eurostat:population_year":2020,
     "geom:area":0.001647,
+    "geom:area_square_m":15478908.760028,
     "geom:bbox":"-8.13963347493,40.4937448868,-8.08339283986,40.5536048724",
     "geom:latitude":40.524926,
     "geom:longitude":-8.109758,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Molelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182111",
+        "eurostat:nuts_2021_id":"182111",
         "pt-dgt:id":"182111"
     },
     "wof:country":"PT",
     "wof:created":1576698699,
-    "wof:geomhash":"77dcf640912f2f51f9f73af09c0bb7fd",
+    "wof:geomhash":"c0701b90b385cfdbc31273c1b37fc4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712632,
+    "wof:lastmodified":1684354585,
     "wof:name":"Molelos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":2346,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

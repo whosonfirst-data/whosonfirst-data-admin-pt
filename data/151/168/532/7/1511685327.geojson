@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420601",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1gua de Alto",
+    "eurostat:nuts_2021_id":"420601",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420601",
+    "eurostat:population":1788,
+    "eurostat:population_year":2020,
     "geom:area":0.001883,
+    "geom:area_square_m":18411350.423587,
     "geom:bbox":"-25.4957315199,37.7127052103,-25.4416829477,37.7674143086",
     "geom:latitude":37.740138,
     "geom:longitude":-25.468032,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"\u00c1gua de Alto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420601",
+        "eurostat:nuts_2021_id":"420601",
         "pt-dgt:id":"420601"
     },
     "wof:country":"PT",
     "wof:created":1576699408,
-    "wof:geomhash":"bba39f05c609b5db68d49658779a1252",
+    "wof:geomhash":"196ddba915163a6894d710f139e1bbcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720318,
+    "wof:lastmodified":1684354698,
     "wof:name":"\u00c1gua de Alto",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1788,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

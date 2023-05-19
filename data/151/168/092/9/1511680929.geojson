@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050502",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aldeia de Santa Margarida",
+    "eurostat:nuts_2021_id":"050502",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050502",
+    "eurostat:population":292,
+    "eurostat:population_year":2020,
     "geom:area":0.001438,
+    "geom:area_square_m":13606336.662308,
     "geom:bbox":"-7.3223207237,40.0357424759,-7.2532934364,40.0878874351",
     "geom:latitude":40.061833,
     "geom:longitude":-7.283704,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aldeia de Santa Margarida",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050502",
+        "eurostat:nuts_2021_id":"050502",
         "pt-dgt:id":"050502"
     },
     "wof:country":"PT",
     "wof:created":1576698490,
-    "wof:geomhash":"d3956887b1c63e9b10bc248f154b2b35",
+    "wof:geomhash":"a3a755d43cb2e7bc1b0925a214378c42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712590,
+    "wof:lastmodified":1684354553,
     "wof:name":"Aldeia de Santa Margarida",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":292,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Colares",
+    "eurostat:nuts_2021_id":"111105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111105",
+    "eurostat:population":7628,
+    "eurostat:population_year":2020,
     "geom:area":0.003459,
+    "geom:area_square_m":33336984.704332,
     "geom:bbox":"-9.50052660717,38.7573479047,-9.42558220936,38.8467776508",
     "geom:latitude":38.795629,
     "geom:longitude":-9.462277,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Colares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111105",
+        "eurostat:nuts_2021_id":"111105",
         "pt-dgt:id":"111105"
     },
     "wof:country":"PT",
     "wof:created":1576698202,
-    "wof:geomhash":"062f8597e2b38416024efd508300159c",
+    "wof:geomhash":"e216619b1616bbff9242bb3147a51f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712497,
+    "wof:lastmodified":1684354494,
     "wof:name":"Colares",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":7628,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

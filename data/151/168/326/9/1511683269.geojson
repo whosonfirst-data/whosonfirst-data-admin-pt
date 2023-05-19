@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paredes",
+    "eurostat:nuts_2021_id":"131025",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131025",
+    "eurostat:population":19834,
+    "eurostat:population_year":2020,
     "geom:area":0.00231,
+    "geom:area_square_m":21487107.72911,
     "geom:bbox":"-8.38015669168,41.1859837892,-8.29619566294,41.2390892835",
     "geom:latitude":41.21359,
     "geom:longitude":-8.340526,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Paredes",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131025",
+        "eurostat:nuts_2021_id":"131025",
         "pt-dgt:id":"131025"
     },
     "wof:country":"PT",
     "wof:created":1576698976,
-    "wof:geomhash":"039544c52e119c6ff20a5359565edd98",
+    "wof:geomhash":"0aa0fa548b749f84123a55fd78a51ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712682,
+    "wof:lastmodified":1684354633,
     "wof:name":"Paredes",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":19834,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

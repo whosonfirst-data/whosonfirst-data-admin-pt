@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Funchal (Santa Luzia)",
+    "eurostat:nuts_2021_id":"310303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310303",
+    "eurostat:population":5866,
+    "eurostat:population_year":2020,
     "geom:area":0.000129,
+    "geom:area_square_m":1338268.925016,
     "geom:bbox":"-16.911173226,32.65071543,-16.8978474884,32.6660655539",
     "geom:latitude":32.65807,
     "geom:longitude":-16.904972,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Funchal (Santa Luzia)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310303",
+        "eurostat:nuts_2021_id":"310303",
         "pt-dgt:id":"310303"
     },
     "wof:country":"PT",
     "wof:created":1576699476,
-    "wof:geomhash":"a95890ba636e10c70fb79dcba62ffe44",
+    "wof:geomhash":"ecc407f589f7d1a9cfac82d820c13b1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720369,
+    "wof:lastmodified":1684354734,
     "wof:name":"Funchal (Santa Luzia)",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":5866,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

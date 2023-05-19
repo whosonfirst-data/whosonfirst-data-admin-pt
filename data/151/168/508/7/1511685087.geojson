@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160222",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caminha (Matriz) e Vilarelho",
+    "eurostat:nuts_2021_id":"160222",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160222",
+    "eurostat:population":2471,
+    "eurostat:population_year":2020,
     "geom:area":0.000731,
+    "geom:area_square_m":6727177.898347,
     "geom:bbox":"-8.86730221158,41.8497208155,-8.82069044137,41.8849861408",
     "geom:latitude":41.867575,
     "geom:longitude":-8.839419,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Caminha (Matriz) e Vilarelho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160222",
+        "eurostat:nuts_2021_id":"160222",
         "pt-dgt:id":"160222"
     },
     "wof:country":"PT",
     "wof:created":1576699358,
-    "wof:geomhash":"b5300956e3489dac3557ab902021281d",
+    "wof:geomhash":"d028d8d8e9827d0c949ac104235371f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712741,
+    "wof:lastmodified":1684354694,
     "wof:name":"Caminha (Matriz) e Vilarelho",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":2471,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

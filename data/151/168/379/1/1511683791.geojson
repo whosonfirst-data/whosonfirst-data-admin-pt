@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130338",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Unh\u00e3o e Lordelo",
+    "eurostat:nuts_2021_id":"130338",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130338",
+    "eurostat:population":1157,
+    "eurostat:population_year":2020,
     "geom:area":0.000533,
+    "geom:area_square_m":4949350.825935,
     "geom:bbox":"-8.25024101383,41.3027688066,-8.21899903056,41.3287845592",
     "geom:latitude":41.316181,
     "geom:longitude":-8.232989,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Unh\u00e3o e Lordelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130338",
+        "eurostat:nuts_2021_id":"130338",
         "pt-dgt:id":"130338"
     },
     "wof:country":"PT",
     "wof:created":1576699087,
-    "wof:geomhash":"f25ff5cd43c02a0773eef4f0bc2a3685",
+    "wof:geomhash":"dc0281abaf9ec18ad869295517621087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712701,
+    "wof:lastmodified":1684354654,
     "wof:name":"Unh\u00e3o e Lordelo",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1157,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

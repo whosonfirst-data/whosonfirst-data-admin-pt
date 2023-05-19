@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030336",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Priscos",
+    "eurostat:nuts_2021_id":"030336",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030336",
+    "eurostat:population":1341,
+    "eurostat:population_year":2020,
     "geom:area":0.000393,
+    "geom:area_square_m":3644187.053098,
     "geom:bbox":"-8.49415835688,41.4822668394,-8.46136541515,41.5057676967",
     "geom:latitude":41.4954,
     "geom:longitude":-8.476427,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Priscos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030336",
+        "eurostat:nuts_2021_id":"030336",
         "pt-dgt:id":"030336"
     },
     "wof:country":"PT",
     "wof:created":1576699195,
-    "wof:geomhash":"132a0b621eb095a233d7193853f3f2db",
+    "wof:geomhash":"fda261c9bbb321c477958d5b395e4c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712720,
+    "wof:lastmodified":1684354675,
     "wof:name":"Priscos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1341,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

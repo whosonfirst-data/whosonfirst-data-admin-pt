@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031125",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ruiv\u00e3es e Campos",
+    "eurostat:nuts_2021_id":"031125",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031125",
+    "eurostat:population":923,
+    "eurostat:population_year":2020,
     "geom:area":0.00476,
+    "geom:area_square_m":43973939.877741,
     "geom:bbox":"-8.08805983099,41.6210938417,-7.98152545016,41.7007538858",
     "geom:latitude":41.664634,
     "geom:longitude":-8.032822,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Ruiv\u00e3es e Campos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031125",
+        "eurostat:nuts_2021_id":"031125",
         "pt-dgt:id":"031125"
     },
     "wof:country":"PT",
     "wof:created":1576699269,
-    "wof:geomhash":"97a2db382f55f576932ec05bf659fff1",
+    "wof:geomhash":"ac725fb7692426203b4a642fb2b5d145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712729,
+    "wof:lastmodified":1684354683,
     "wof:name":"Ruiv\u00e3es e Campos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":923,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

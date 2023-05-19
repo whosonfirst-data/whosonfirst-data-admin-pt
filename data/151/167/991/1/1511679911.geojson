@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santo Quintino",
+    "eurostat:nuts_2021_id":"111201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"111201",
+    "eurostat:population":3706,
+    "eurostat:population_year":2020,
     "geom:area":0.003015,
+    "geom:area_square_m":28974293.650087,
     "geom:bbox":"-9.19625158572,38.9684738535,-9.09855795842,39.0359111703",
     "geom:latitude":39.00293,
     "geom:longitude":-9.140145,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santo Quintino",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111201",
+        "eurostat:nuts_2021_id":"111201",
         "pt-dgt:id":"111201"
     },
     "wof:country":"PT",
     "wof:created":1576698234,
-    "wof:geomhash":"7d868712b083ae0b69bfe92f8d16a40b",
+    "wof:geomhash":"fdc7af4936eadb58df71a909d02287be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712508,
+    "wof:lastmodified":1684354501,
     "wof:name":"Santo Quintino",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":3706,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

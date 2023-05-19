@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Celeir\u00f3s",
+    "eurostat:nuts_2021_id":"171001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"171001",
+    "eurostat:population":222,
+    "eurostat:population_year":2020,
     "geom:area":0.000564,
+    "geom:area_square_m":5243417.390806,
     "geom:bbox":"-7.57536076897,41.2276842968,-7.53149742451,41.2492681523",
     "geom:latitude":41.239147,
     "geom:longitude":-7.552761,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Celeir\u00f3s",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171001",
+        "eurostat:nuts_2021_id":"171001",
         "pt-dgt:id":"171001"
     },
     "wof:country":"PT",
     "wof:created":1576698985,
-    "wof:geomhash":"55b506cf04040b53b827fbf62e4e3d8e",
+    "wof:geomhash":"f06d706e1625b5aa9e5eb4f865db50bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712683,
+    "wof:lastmodified":1684354635,
     "wof:name":"Celeir\u00f3s",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":222,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

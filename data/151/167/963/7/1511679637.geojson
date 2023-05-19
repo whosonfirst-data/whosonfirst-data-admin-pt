@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110507",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carcavelos e Parede",
+    "eurostat:nuts_2021_id":"110507",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110507",
+    "eurostat:population":45007,
+    "eurostat:population_year":2020,
     "geom:area":0.000839,
+    "geom:area_square_m":8102053.397786,
     "geom:bbox":"-9.37303853542,38.6758858436,-9.31934512347,38.708521774",
     "geom:latitude":38.692982,
     "geom:longitude":-9.343741,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Carcavelos e Parede",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110507",
+        "eurostat:nuts_2021_id":"110507",
         "pt-dgt:id":"110507"
     },
     "wof:country":"PT",
     "wof:created":1576698171,
-    "wof:geomhash":"d6ff6c2d97581a202d9704461cd1a455",
+    "wof:geomhash":"444727e393915c4be702705a2839bc7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712491,
+    "wof:lastmodified":1684354490,
     "wof:name":"Carcavelos e Parede",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":45007,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

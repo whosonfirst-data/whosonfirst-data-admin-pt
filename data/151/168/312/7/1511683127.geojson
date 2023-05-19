@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180528",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada do Bispo e Valdigem",
+    "eurostat:nuts_2021_id":"180528",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180528",
+    "eurostat:population":1039,
+    "eurostat:population_year":2020,
     "geom:area":0.001382,
+    "geom:area_square_m":12874903.36035,
     "geom:bbox":"-7.78431961402,41.1096696594,-7.72996610133,41.1554396145",
     "geom:latitude":41.133579,
     "geom:longitude":-7.757855,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Parada do Bispo e Valdigem",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180528",
+        "eurostat:nuts_2021_id":"180528",
         "pt-dgt:id":"180528"
     },
     "wof:country":"PT",
     "wof:created":1576698946,
-    "wof:geomhash":"0da3c3b3373feba04c5ef934b9e0129d",
+    "wof:geomhash":"a343387a5b5e4d1a8a117d89f83360d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712675,
+    "wof:lastmodified":1684354625,
     "wof:name":"Parada do Bispo e Valdigem",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":1039,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

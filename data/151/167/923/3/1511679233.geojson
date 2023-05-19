@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160747",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rebord\u00f5es (Souto)",
+    "eurostat:nuts_2021_id":"160747",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160747",
+    "eurostat:population":1127,
+    "eurostat:population_year":2020,
     "geom:area":0.000802,
+    "geom:area_square_m":7398848.236944,
     "geom:bbox":"-8.57797369793,41.7028800406,-8.54331130552,41.740390188",
     "geom:latitude":41.718839,
     "geom:longitude":-8.560058,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rebord\u00f5es (Souto)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160747",
+        "eurostat:nuts_2021_id":"160747",
         "pt-dgt:id":"160747"
     },
     "wof:country":"PT",
     "wof:created":1576698082,
-    "wof:geomhash":"b652d89cfa7ccc1d0ccb4b4662d94617",
+    "wof:geomhash":"025c8bba346546fa8ee3e58123a2197e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712469,
+    "wof:lastmodified":1684354477,
     "wof:name":"Rebord\u00f5es (Souto)",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":1127,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

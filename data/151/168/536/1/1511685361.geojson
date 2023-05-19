@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Furnas",
+    "eurostat:nuts_2021_id":"420403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420403",
+    "eurostat:population":1439,
+    "eurostat:population_year":2020,
     "geom:area":0.003521,
+    "geom:area_square_m":34420897.698702,
     "geom:bbox":"-25.3722668762,37.7340624773,-25.2759345016,37.7968696145",
     "geom:latitude":37.768221,
     "geom:longitude":-25.322254,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Furnas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420403",
+        "eurostat:nuts_2021_id":"420403",
         "pt-dgt:id":"420403"
     },
     "wof:country":"PT",
     "wof:created":1576699416,
-    "wof:geomhash":"769b3d9c367f9a65eb312a41ffff87bc",
+    "wof:geomhash":"de9a1bc76cc072ceb4b332fe467c229f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720366,
+    "wof:lastmodified":1684354702,
     "wof:name":"Furnas",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1439,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

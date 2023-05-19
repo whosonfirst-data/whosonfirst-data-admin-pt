@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110904",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Encarna\u00e7\u00e3o",
+    "eurostat:nuts_2021_id":"110904",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110904",
+    "eurostat:population":4798,
+    "eurostat:population_year":2020,
     "geom:area":0.002965,
+    "geom:area_square_m":28481182.025203,
     "geom:bbox":"-9.42498362138,39.0108348046,-9.33284971479,39.0647183792",
     "geom:latitude":39.035843,
     "geom:longitude":-9.382674,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Encarna\u00e7\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110904",
+        "eurostat:nuts_2021_id":"110904",
         "pt-dgt:id":"110904"
     },
     "wof:country":"PT",
     "wof:created":1576698238,
-    "wof:geomhash":"db46dbad912514797389afb02ff36da1",
+    "wof:geomhash":"356623f0ef0f35c25ddbe662ae2734d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712510,
+    "wof:lastmodified":1684354502,
     "wof:name":"Encarna\u00e7\u00e3o",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":4798,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

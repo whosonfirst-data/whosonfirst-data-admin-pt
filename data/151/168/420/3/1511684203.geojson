@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040817",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho do Peso",
+    "eurostat:nuts_2021_id":"040817",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040817",
+    "eurostat:population":355,
+    "eurostat:population_year":2020,
     "geom:area":0.00562,
+    "geom:area_square_m":52102170.322712,
     "geom:bbox":"-6.68430869328,41.3889222106,-6.55925547793,41.4673225229",
     "geom:latitude":41.433644,
     "geom:longitude":-6.625417,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho do Peso",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040817",
+        "eurostat:nuts_2021_id":"040817",
         "pt-dgt:id":"040817"
     },
     "wof:country":"PT",
     "wof:created":1576699174,
-    "wof:geomhash":"555757c9de39fc9c15f7f89264477c05",
+    "wof:geomhash":"89d1d02e2d3c67aa9ee2997f77b0e4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712717,
+    "wof:lastmodified":1684354671,
     "wof:name":"S\u00e3o Martinho do Peso",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":355,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

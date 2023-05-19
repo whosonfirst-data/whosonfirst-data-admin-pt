@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_060203",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cadima",
+    "eurostat:nuts_2021_id":"060203",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"060203",
+    "eurostat:population":2963,
+    "eurostat:population_year":2020,
     "geom:area":0.00286,
+    "geom:area_square_m":26961281.9419,
     "geom:bbox":"-8.70805159683,40.2722778666,-8.60017343914,40.3585088701",
     "geom:latitude":40.320386,
     "geom:longitude":-8.649619,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Cadima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_060203",
+        "eurostat:nuts_2021_id":"060203",
         "pt-dgt:id":"060203"
     },
     "wof:country":"PT",
     "wof:created":1576698571,
-    "wof:geomhash":"ad4e1a3329f15515e267d76a7b58620e",
+    "wof:geomhash":"74ae6db75078c0c5541d83bb31cbb9e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712609,
+    "wof:lastmodified":1684354566,
     "wof:name":"Cadima",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":2963,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

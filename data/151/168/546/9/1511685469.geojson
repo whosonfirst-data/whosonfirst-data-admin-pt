@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480201",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Caveira",
+    "eurostat:nuts_2021_id":"480201",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480201",
+    "eurostat:population":77,
+    "eurostat:population_year":2020,
     "geom:area":0.000344,
+    "geom:area_square_m":3281552.552829,
     "geom:bbox":"-31.1793536508,39.4243899557,-31.1360952006,39.4394549461",
     "geom:latitude":39.431313,
     "geom:longitude":-31.156542,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Caveira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480201",
+        "eurostat:nuts_2021_id":"480201",
         "pt-dgt:id":"480201"
     },
     "wof:country":"PT",
     "wof:created":1576699445,
-    "wof:geomhash":"aae7fdc5f007a150f966b01de3359fa9",
+    "wof:geomhash":"332ac236f9d947802789ea1061dea2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720322,
+    "wof:lastmodified":1684354717,
     "wof:name":"Caveira",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":77,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

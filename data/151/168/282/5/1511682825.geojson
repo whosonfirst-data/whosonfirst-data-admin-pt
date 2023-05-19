@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180406",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fornelos",
+    "eurostat:nuts_2021_id":"180406",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"180406",
+    "eurostat:population":703,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
+    "geom:area_square_m":10068185.286361,
     "geom:bbox":"-8.23514040223,41.0094325568,-8.17616639376,41.0442412954",
     "geom:latitude":41.027129,
     "geom:longitude":-8.203434,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fornelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180406",
+        "eurostat:nuts_2021_id":"180406",
         "pt-dgt:id":"180406"
     },
     "wof:country":"PT",
     "wof:created":1576698884,
-    "wof:geomhash":"60b504513fb0f338c56b676278d9dac1",
+    "wof:geomhash":"eb63bec455f1511ba5b296523434da7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712664,
+    "wof:lastmodified":1684354614,
     "wof:name":"Fornelos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":703,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

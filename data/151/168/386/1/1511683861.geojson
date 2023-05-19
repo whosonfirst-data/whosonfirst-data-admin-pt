@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030828",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lordelo",
+    "eurostat:nuts_2021_id":"030828",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"030828",
+    "eurostat:population":4290,
+    "eurostat:population_year":2020,
     "geom:area":0.00054,
+    "geom:area_square_m":5011044.895539,
     "geom:bbox":"-8.3956386553,41.3619928417,-8.35504086035,41.3834360633",
     "geom:latitude":41.371881,
     "geom:longitude":-8.376498,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lordelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030828",
+        "eurostat:nuts_2021_id":"030828",
         "pt-dgt:id":"030828"
     },
     "wof:country":"PT",
     "wof:created":1576699106,
-    "wof:geomhash":"7ee4b334cdb773714a48999ed553303e",
+    "wof:geomhash":"e0c812aefdd29d3f6866c167d34c47c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712704,
+    "wof:lastmodified":1684354657,
     "wof:name":"Lordelo",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":4290,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

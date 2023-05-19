@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131103",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bustelo",
+    "eurostat:nuts_2021_id":"131103",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"131103",
+    "eurostat:population":1697,
+    "eurostat:population_year":2020,
     "geom:area":0.000736,
+    "geom:area_square_m":6848607.388039,
     "geom:bbox":"-8.28575984046,41.2122747018,-8.24235369294,41.248009489",
     "geom:latitude":41.230538,
     "geom:longitude":-8.268328,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bustelo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131103",
+        "eurostat:nuts_2021_id":"131103",
         "pt-dgt:id":"131103"
     },
     "wof:country":"PT",
     "wof:created":1576698981,
-    "wof:geomhash":"c15db528d19b4db148f9e2f7593600f9",
+    "wof:geomhash":"3c5cf1bb31de5e3edce9fa91682ba054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712683,
+    "wof:lastmodified":1684354634,
     "wof:name":"Bustelo",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1697,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

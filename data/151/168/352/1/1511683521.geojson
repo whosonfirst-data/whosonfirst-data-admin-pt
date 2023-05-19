@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_131434",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Nova do Campo",
+    "eurostat:nuts_2021_id":"131434",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"131434",
+    "eurostat:population":6809,
+    "eurostat:population_year":2020,
     "geom:area":0.001032,
+    "geom:area_square_m":9583356.835804,
     "geom:bbox":"-8.38328562199,41.3336937366,-8.32824013173,41.3695825636",
     "geom:latitude":41.351182,
     "geom:longitude":-8.353195,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Nova do Campo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_131434",
+        "eurostat:nuts_2021_id":"131434",
         "pt-dgt:id":"131434"
     },
     "wof:country":"PT",
     "wof:created":1576699027,
-    "wof:geomhash":"8e06b201b6e119b03e0d9d2ecff0ea3a",
+    "wof:geomhash":"5394713e979082d698338c9659b0d0d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712692,
+    "wof:lastmodified":1684354644,
     "wof:name":"Vila Nova do Campo",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":6809,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

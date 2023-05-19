@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160613",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nogueira",
+    "eurostat:nuts_2021_id":"160613",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160613",
+    "eurostat:population":410,
+    "eurostat:population_year":2020,
     "geom:area":0.000216,
+    "geom:area_square_m":1990682.500364,
     "geom:bbox":"-8.43182938808,41.7780596199,-8.41421067896,41.8029400958",
     "geom:latitude":41.788498,
     "geom:longitude":-8.421587,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nogueira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160613",
+        "eurostat:nuts_2021_id":"160613",
         "pt-dgt:id":"160613"
     },
     "wof:country":"PT",
     "wof:created":1576699317,
-    "wof:geomhash":"82bf195a0794978aad3b9ba323a1b9d1",
+    "wof:geomhash":"47262cb181c82890ba1b1f48d513dea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712736,
+    "wof:lastmodified":1684354689,
     "wof:name":"Nogueira",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":410,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

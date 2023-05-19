@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031331",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada de Gatim",
+    "eurostat:nuts_2021_id":"031331",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031331",
+    "eurostat:population":793,
+    "eurostat:population_year":2020,
     "geom:area":0.000347,
+    "geom:area_square_m":3210740.139894,
     "geom:bbox":"-8.54053516252,41.613333206,-8.50768723518,41.6270609392",
     "geom:latitude":41.620349,
     "geom:longitude":-8.524927,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Parada de Gatim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031331",
+        "eurostat:nuts_2021_id":"031331",
         "pt-dgt:id":"031331"
     },
     "wof:country":"PT",
     "wof:created":1576698777,
-    "wof:geomhash":"6be6b16aca27d06503d7355b2c578040",
+    "wof:geomhash":"b57fe247b3adb009ed944699bea46afd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712644,
+    "wof:lastmodified":1684354596,
     "wof:name":"Parada de Gatim",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":793,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

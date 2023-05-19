@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091134",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Souto",
+    "eurostat:nuts_2021_id":"091134",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091134",
+    "eurostat:population":1224,
+    "eurostat:population_year":2020,
     "geom:area":0.002977,
+    "geom:area_square_m":28051549.522706,
     "geom:bbox":"-6.99395404626,40.3163233398,-6.89346709018,40.376917513",
     "geom:latitude":40.345026,
     "geom:longitude":-6.945454,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Souto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091134",
+        "eurostat:nuts_2021_id":"091134",
         "pt-dgt:id":"091134"
     },
     "wof:country":"PT",
     "wof:created":1576698580,
-    "wof:geomhash":"eff63bba8f900207547f443a3fa4f02a",
+    "wof:geomhash":"e626275dc33beadb780923e7874a1458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712610,
+    "wof:lastmodified":1684354567,
     "wof:name":"Souto",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":1224,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

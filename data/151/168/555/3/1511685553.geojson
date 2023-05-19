@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_310401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"\u00c1gua de Pena",
+    "eurostat:nuts_2021_id":"310401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT3",
+    "eurostat:nuts_2021_level_2":"PT30",
+    "eurostat:nuts_2021_level_3":"PT300",
+    "eurostat:nuts_2021_level_lau":"310401",
+    "eurostat:population":2434,
+    "eurostat:population_year":2020,
     "geom:area":0.000495,
+    "geom:area_square_m":5151749.533138,
     "geom:bbox":"-16.8058618483,32.700510507,-16.7611836313,32.7245848843",
     "geom:latitude":32.712424,
     "geom:longitude":-16.781973,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"\u00c1gua de Pena",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_310401",
+        "eurostat:nuts_2021_id":"310401",
         "pt-dgt:id":"310401"
     },
     "wof:country":"PT",
     "wof:created":1576699474,
-    "wof:geomhash":"6859e9ba14ac87ec2bbbc3cbd80beb48",
+    "wof:geomhash":"d4de5f996540d973c0683a21d86921e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720317,
+    "wof:lastmodified":1684354733,
     "wof:name":"\u00c1gua de Pena",
     "wof:parent_id":1511614893,
     "wof:placetype":"localadmin",
+    "wof:population":2434,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

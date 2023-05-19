@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031111",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada do Bouro",
+    "eurostat:nuts_2021_id":"031111",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT119",
+    "eurostat:nuts_2021_level_lau":"031111",
+    "eurostat:population":469,
+    "eurostat:population_year":2020,
     "geom:area":0.000833,
+    "geom:area_square_m":7700049.17758,
     "geom:bbox":"-8.25957475372,41.6264788181,-8.21675028469,41.6541287682",
     "geom:latitude":41.641389,
     "geom:longitude":-8.238568,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Parada de Bouro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031111",
+        "eurostat:nuts_2021_id":"031111",
         "pt-dgt:id":"031111"
     },
     "wof:country":"PT",
     "wof:created":1576698758,
-    "wof:geomhash":"ef6ee4ea29c14f0bd82f89938cab6516",
+    "wof:geomhash":"4cf157b6ffa4b474a7278121fb0faf8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712641,
+    "wof:lastmodified":1684354593,
     "wof:name":"Parada de Bouro",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":469,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

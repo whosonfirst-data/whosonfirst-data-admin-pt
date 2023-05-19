@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050314",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Paul",
+    "eurostat:nuts_2021_id":"050314",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050314",
+    "eurostat:population":1624,
+    "eurostat:population_year":2020,
     "geom:area":0.002538,
+    "geom:area_square_m":23966074.82968,
     "geom:bbox":"-7.660318,40.165607,-7.584837,40.240119",
     "geom:latitude":40.205194,
     "geom:longitude":-7.628623,
@@ -29,6 +42,8 @@
     "pt-dgt:freguesia":"Paul",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -36,11 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050314",
+        "eurostat:nuts_2021_id":"050314",
         "pt-dgt:id":"050314"
     },
     "wof:country":"PT",
     "wof:created":1576698533,
-    "wof:geomhash":"16e1f0dd3a3630bafee91f570e37abd0",
+    "wof:geomhash":"c8a3d8ba9f5886943a2c21e32c3fd70b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,10 +73,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503003,
+    "wof:lastmodified":1684354560,
     "wof:name":"Paul",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":1624,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091216",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santiago",
+    "eurostat:nuts_2021_id":"091216",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091216",
+    "eurostat:population":1205,
+    "eurostat:population_year":2020,
     "geom:area":0.000789,
+    "geom:area_square_m":7426625.826517,
     "geom:bbox":"-7.753666,40.403948,-7.717259,40.436273",
     "geom:latitude":40.420663,
     "geom:longitude":-7.737308,
@@ -98,6 +111,8 @@
     "pt-dgt:freguesia":"Santiago",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -105,11 +120,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091216",
+        "eurostat:nuts_2021_id":"091216",
         "pt-dgt:id":"091216"
     },
     "wof:country":"PT",
     "wof:created":1576698599,
-    "wof:geomhash":"ff72064a83b5a3f598a3af3d47a3002c",
+    "wof:geomhash":"c048699930dd15d142824dcfd6004750",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636502998,
+    "wof:lastmodified":1684354569,
     "wof:name":"Santiago",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":1205,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

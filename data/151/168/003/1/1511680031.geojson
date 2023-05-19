@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_140303",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Fazendas de Almeirim",
+    "eurostat:nuts_2021_id":"140303",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"140303",
+    "eurostat:population":6949,
+    "eurostat:population_year":2020,
     "geom:area":0.006077,
+    "geom:area_square_m":58254555.567292,
     "geom:bbox":"-8.60830142254,39.1210431897,-8.45995186702,39.2061625918",
     "geom:latitude":39.169555,
     "geom:longitude":-8.52947,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Fazendas de Almeirim",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_140303",
+        "eurostat:nuts_2021_id":"140303",
         "pt-dgt:id":"140303"
     },
     "wof:country":"PT",
     "wof:created":1576698276,
-    "wof:geomhash":"30d2c81282d35ac00da0d5cbf81114b6",
+    "wof:geomhash":"a277cfd9488f5f34f4dbcf829e1a10b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712519,
+    "wof:lastmodified":1684354508,
     "wof:name":"Fazendas de Almeirim",
     "wof:parent_id":85687377,
     "wof:placetype":"localadmin",
+    "wof:population":6949,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

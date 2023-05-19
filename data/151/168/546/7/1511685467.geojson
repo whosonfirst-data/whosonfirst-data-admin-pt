@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_480106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lomba",
+    "eurostat:nuts_2021_id":"480106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"480106",
+    "eurostat:population":206,
+    "eurostat:population_year":2020,
     "geom:area":0.001033,
+    "geom:area_square_m":9864706.631528,
     "geom:bbox":"-31.2087174294,39.3957393647,-31.1459253781,39.4384821283",
     "geom:latitude":39.41905,
     "geom:longitude":-31.172207,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Lomba",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_480106",
+        "eurostat:nuts_2021_id":"480106",
         "pt-dgt:id":"480106"
     },
     "wof:country":"PT",
     "wof:created":1576699444,
-    "wof:geomhash":"3218f593b1109306bfffd5bd32e3f4ab",
+    "wof:geomhash":"489b565c828412e6b207fef88c0375ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720277,
+    "wof:lastmodified":1684354717,
     "wof:name":"Lomba",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":206,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

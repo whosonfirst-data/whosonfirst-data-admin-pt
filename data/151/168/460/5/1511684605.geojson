@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031325",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Loureira",
+    "eurostat:nuts_2021_id":"031325",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031325",
+    "eurostat:population":1152,
+    "eurostat:population_year":2020,
     "geom:area":0.00019,
+    "geom:area_square_m":1757093.46274,
     "geom:bbox":"-8.43827993635,41.6226284288,-8.41696172522,41.6392853046",
     "geom:latitude":41.631634,
     "geom:longitude":-8.427548,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Loureira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031325",
+        "eurostat:nuts_2021_id":"031325",
         "pt-dgt:id":"031325"
     },
     "wof:country":"PT",
     "wof:created":1576699263,
-    "wof:geomhash":"33f15fcb0d157fde0c0aed65ccb60367",
+    "wof:geomhash":"977ce05bd6ca2e72074ccf33142b8f8e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712728,
+    "wof:lastmodified":1684354682,
     "wof:name":"Loureira",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

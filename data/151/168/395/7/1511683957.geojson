@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130307",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jugueiros",
+    "eurostat:nuts_2021_id":"130307",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130307",
+    "eurostat:population":1303,
+    "eurostat:population_year":2020,
     "geom:area":0.000802,
+    "geom:area_square_m":7438833.879342,
     "geom:bbox":"-8.22412178679,41.3863163432,-8.17944149245,41.411873376",
     "geom:latitude":41.399922,
     "geom:longitude":-8.201662,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Jugueiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130307",
+        "eurostat:nuts_2021_id":"130307",
         "pt-dgt:id":"130307"
     },
     "wof:country":"PT",
     "wof:created":1576699125,
-    "wof:geomhash":"afbeda012db1c45f186a1e9c9acb5a5b",
+    "wof:geomhash":"83bf8c521cf2fc1877ee85acbf526903",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712707,
+    "wof:lastmodified":1684354662,
     "wof:name":"Jugueiros",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":1303,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

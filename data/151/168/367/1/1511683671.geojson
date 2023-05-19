@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040612",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"P\u00f3voa",
+    "eurostat:nuts_2021_id":"040612",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040612",
+    "eurostat:population":208,
+    "eurostat:population_year":2020,
     "geom:area":0.002432,
+    "geom:area_square_m":22494665.323054,
     "geom:bbox":"-6.35639151397,41.553493592,-6.28705701767,41.6048973999",
     "geom:latitude":41.578644,
     "geom:longitude":-6.322285,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"P\u00f3voa",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040612",
+        "eurostat:nuts_2021_id":"040612",
         "pt-dgt:id":"040612"
     },
     "wof:country":"PT",
     "wof:created":1576699062,
-    "wof:geomhash":"8a62f0e1b6915c52bc40458f282e85a0",
+    "wof:geomhash":"54f2fbaaf61103b7252f0656bd1a3a6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"P\u00f3voa",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":208,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

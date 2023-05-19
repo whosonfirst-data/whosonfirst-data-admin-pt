@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170347",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilas Boas",
+    "eurostat:nuts_2021_id":"170347",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170347",
+    "eurostat:population":195,
+    "eurostat:population_year":2020,
     "geom:area":0.000741,
+    "geom:area_square_m":6846671.895214,
     "geom:bbox":"-7.55837711881,41.6387578068,-7.51042050223,41.6692434826",
     "geom:latitude":41.657499,
     "geom:longitude":-7.530237,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilas Boas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170347",
+        "eurostat:nuts_2021_id":"170347",
         "pt-dgt:id":"170347"
     },
     "wof:country":"PT",
     "wof:created":1576698653,
-    "wof:geomhash":"98a036390919587f398258e5ecfdbf18",
+    "wof:geomhash":"4c3d334fbacf0e42df96a5d5d10c96a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712625,
+    "wof:lastmodified":1684354579,
     "wof:name":"Vilas Boas",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":195,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

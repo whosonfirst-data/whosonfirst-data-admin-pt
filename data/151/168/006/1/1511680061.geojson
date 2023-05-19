@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcoentre",
+    "eurostat:nuts_2021_id":"110301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT185",
+    "eurostat:nuts_2021_level_lau":"110301",
+    "eurostat:population":3448,
+    "eurostat:population_year":2020,
     "geom:area":0.004907,
+    "geom:area_square_m":47009274.631171,
     "geom:bbox":"-9.00474636968,39.162114197,-8.91158581478,39.2554674772",
     "geom:latitude":39.210117,
     "geom:longitude":-8.962359,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcoentre",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110301",
+        "eurostat:nuts_2021_id":"110301",
         "pt-dgt:id":"110301"
     },
     "wof:country":"PT",
     "wof:created":1576698284,
-    "wof:geomhash":"ac5836869f1988951714b100a1d45b6d",
+    "wof:geomhash":"784793b6645f0b9605c6cd27f547ded6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712521,
+    "wof:lastmodified":1684354509,
     "wof:name":"Alcoentre",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":3448,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

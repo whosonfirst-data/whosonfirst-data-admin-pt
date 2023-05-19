@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcongosta",
+    "eurostat:nuts_2021_id":"050403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050403",
+    "eurostat:population":497,
+    "eurostat:population_year":2020,
     "geom:area":0.000772,
+    "geom:area_square_m":7302596.171797,
     "geom:bbox":"-7.51935353316,40.1023068834,-7.46112547433,40.123717394",
     "geom:latitude":40.113571,
     "geom:longitude":-7.489919,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcongosta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050403",
+        "eurostat:nuts_2021_id":"050403",
         "pt-dgt:id":"050403"
     },
     "wof:country":"PT",
     "wof:created":1576698500,
-    "wof:geomhash":"04fcbf08c892bde6a104fb256030176d",
+    "wof:geomhash":"17116b6ac38706ef6dc13721fb22cc25",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712593,
+    "wof:lastmodified":1684354555,
     "wof:name":"Alcongosta",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":497,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

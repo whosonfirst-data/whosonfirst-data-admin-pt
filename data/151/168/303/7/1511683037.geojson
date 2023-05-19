@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130738",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Penhalonga e Pa\u00e7os de Gaiolo",
+    "eurostat:nuts_2021_id":"130738",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130738",
+    "eurostat:population":2924,
+    "eurostat:population_year":2020,
     "geom:area":0.001944,
+    "geom:area_square_m":18114641.928487,
     "geom:bbox":"-8.17613407404,41.0837389346,-8.09672257908,41.125725786",
     "geom:latitude":41.102409,
     "geom:longitude":-8.137107,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Penha Longa e Pa\u00e7os de Gaiolo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130738",
+        "eurostat:nuts_2021_id":"130738",
         "pt-dgt:id":"130738"
     },
     "wof:country":"PT",
     "wof:created":1576698928,
-    "wof:geomhash":"34bc61c2e361a6f5ac03321e84d06b31",
+    "wof:geomhash":"a4d279dc19b87228e8c323df05fe0b47",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"Penha Longa e Pa\u00e7os de Gaiolo",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":2924,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

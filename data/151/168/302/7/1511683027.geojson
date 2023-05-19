@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180525",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lamego (Almacave e S\u00e9)",
+    "eurostat:nuts_2021_id":"180525",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180525",
+    "eurostat:population":12214,
+    "eurostat:population_year":2020,
     "geom:area":0.002165,
+    "geom:area_square_m":20172253.743844,
     "geom:bbox":"-7.84650077433,41.0733742217,-7.76943767481,41.120947651",
     "geom:latitude":41.097893,
     "geom:longitude":-7.80375,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lamego (Almacave e S\u00e9)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180525",
+        "eurostat:nuts_2021_id":"180525",
         "pt-dgt:id":"180525"
     },
     "wof:country":"PT",
     "wof:created":1576698925,
-    "wof:geomhash":"f993da296302e309afe0f78d04bb5348",
+    "wof:geomhash":"a3ebc0771f0a402728519ccc937ab8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712671,
+    "wof:lastmodified":1684354621,
     "wof:name":"Lamego (Almacave e S\u00e9)",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":12214,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

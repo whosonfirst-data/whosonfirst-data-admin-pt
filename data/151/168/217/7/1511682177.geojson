@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Germil",
+    "eurostat:nuts_2021_id":"181104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181104",
+    "eurostat:population":427,
+    "eurostat:population_year":2020,
     "geom:area":0.000581,
+    "geom:area_square_m":5452814.02432,
     "geom:bbox":"-7.73943438674,40.6314856303,-7.68932069063,40.6520274924",
     "geom:latitude":40.640469,
     "geom:longitude":-7.716844,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Germil",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181104",
+        "eurostat:nuts_2021_id":"181104",
         "pt-dgt:id":"181104"
     },
     "wof:country":"PT",
     "wof:created":1576698748,
-    "wof:geomhash":"6b67a9763979f45a426bb6e4b278b49b",
+    "wof:geomhash":"b3ff572b4a299471ade1013935f4facd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712640,
+    "wof:lastmodified":1684354592,
     "wof:name":"Germil",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":427,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Castedo",
+    "eurostat:nuts_2021_id":"040906",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040906",
+    "eurostat:population":236,
+    "eurostat:population_year":2020,
     "geom:area":0.001926,
+    "geom:area_square_m":17910501.277409,
     "geom:bbox":"-7.20207600394,41.2002187482,-7.14623557441,41.2554202817",
     "geom:latitude":41.224667,
     "geom:longitude":-7.173555,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Castedo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040906",
+        "eurostat:nuts_2021_id":"040906",
         "pt-dgt:id":"040906"
     },
     "wof:country":"PT",
     "wof:created":1576698992,
-    "wof:geomhash":"e8a14136791ceb63475ef903635f896b",
+    "wof:geomhash":"db222c317d8f55f5723af5131904f4ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712685,
+    "wof:lastmodified":1684354637,
     "wof:name":"Castedo",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":236,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

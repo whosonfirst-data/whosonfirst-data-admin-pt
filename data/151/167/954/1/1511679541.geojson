@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071001",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montoito",
+    "eurostat:nuts_2021_id":"071001",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071001",
+    "eurostat:population":1298,
+    "eurostat:population_year":2020,
     "geom:area":0.006374,
+    "geom:area_square_m":61667175.733621,
     "geom:bbox":"-7.65285436206,38.4755273376,-7.51876787862,38.552625396",
     "geom:latitude":38.513082,
     "geom:longitude":-7.583984,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montoito",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071001",
+        "eurostat:nuts_2021_id":"071001",
         "pt-dgt:id":"071001"
     },
     "wof:country":"PT",
     "wof:created":1576698149,
-    "wof:geomhash":"d32327fa06925b06e767be73bd132f9e",
+    "wof:geomhash":"0fb68bf5f8089fa61911ad64d3313b41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712485,
+    "wof:lastmodified":1684354487,
     "wof:name":"Montoito",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":1298,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

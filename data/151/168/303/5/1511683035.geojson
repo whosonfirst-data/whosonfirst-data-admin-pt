@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181517",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilarouco e Pereiros",
+    "eurostat:nuts_2021_id":"181517",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"181517",
+    "eurostat:population":412,
+    "eurostat:population_year":2020,
     "geom:area":0.003723,
+    "geom:area_square_m":34696914.358457,
     "geom:bbox":"-7.40801146168,41.0535809739,-7.32600817295,41.1228917469",
     "geom:latitude":41.091913,
     "geom:longitude":-7.36416,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Vilarouco e Pereiros",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181517",
+        "eurostat:nuts_2021_id":"181517",
         "pt-dgt:id":"181517"
     },
     "wof:country":"PT",
     "wof:created":1576698928,
-    "wof:geomhash":"24f4428ca165423031229072ad412ea8",
+    "wof:geomhash":"49e512fa9443c0cb8818f2fa7060d90f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712672,
+    "wof:lastmodified":1684354622,
     "wof:name":"Vilarouco e Pereiros",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":412,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

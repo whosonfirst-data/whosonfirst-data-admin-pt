@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Cabouco",
+    "eurostat:nuts_2021_id":"420102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420102",
+    "eurostat:population":1921,
+    "eurostat:population_year":2020,
     "geom:area":0.000496,
+    "geom:area_square_m":4846347.590736,
     "geom:bbox":"-25.5841945625,37.7549443123,-25.5470830649,37.7794440232",
     "geom:latitude":37.767579,
     "geom:longitude":-25.565889,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Cabouco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420102",
+        "eurostat:nuts_2021_id":"420102",
         "pt-dgt:id":"420102"
     },
     "wof:country":"PT",
     "wof:created":1576699412,
-    "wof:geomhash":"8dfa0b9e6dc05f8f6736377abff2be9d",
+    "wof:geomhash":"ef962dedd8fae2733322ef378401844f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720303,
+    "wof:lastmodified":1684354700,
     "wof:name":"Cabouco",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1921,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_111013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Carnaxide e Queijas",
+    "eurostat:nuts_2021_id":"111013",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"111013",
+    "eurostat:population":36288,
+    "eurostat:population_year":2020,
     "geom:area":0.000913,
+    "geom:area_square_m":8804664.243334,
     "geom:bbox":"-9.2741022206,38.7135696256,-9.21121121222,38.7384774932",
     "geom:latitude":38.725234,
     "geom:longitude":-9.243421,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Carnaxide e Queijas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_111013",
+        "eurostat:nuts_2021_id":"111013",
         "pt-dgt:id":"111013"
     },
     "wof:country":"PT",
     "wof:created":1576698179,
-    "wof:geomhash":"58de7dba7955edaa0b70c8f7aaf57c5b",
+    "wof:geomhash":"788652601ef91db842e52c464bcee07f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712492,
+    "wof:lastmodified":1684354491,
     "wof:name":"Carnaxide e Queijas",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":36288,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

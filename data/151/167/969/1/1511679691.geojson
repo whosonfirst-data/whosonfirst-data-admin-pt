@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_110655",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Areeiro",
+    "eurostat:nuts_2021_id":"110655",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"110655",
+    "eurostat:population":20131,
+    "eurostat:population_year":2020,
     "geom:area":0.000178,
+    "geom:area_square_m":1717411.853433,
     "geom:bbox":"-9.14551285815,38.7352175613,-9.12010408201,38.7486386514",
     "geom:latitude":38.741376,
     "geom:longitude":-9.133527,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Areeiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_110655",
+        "eurostat:nuts_2021_id":"110655",
         "pt-dgt:id":"110655"
     },
     "wof:country":"PT",
     "wof:created":1576698182,
-    "wof:geomhash":"c0b16c8413dbf684b98f3a36bf6b57ca",
+    "wof:geomhash":"51f2ec1cfad10c8644b3217fac8167be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712493,
+    "wof:lastmodified":1684354491,
     "wof:name":"Areeiro",
     "wof:parent_id":85687367,
     "wof:placetype":"localadmin",
+    "wof:population":20131,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

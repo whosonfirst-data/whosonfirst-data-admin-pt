@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030287",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vila Seca",
+    "eurostat:nuts_2021_id":"030287",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030287",
+    "eurostat:population":1197,
+    "eurostat:population_year":2020,
     "geom:area":0.000468,
+    "geom:area_square_m":4336475.0273,
     "geom:bbox":"-8.70439294376,41.4889732885,-8.6705333887,41.5124076152",
     "geom:latitude":41.499854,
     "geom:longitude":-8.686561,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vila Seca",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030287",
+        "eurostat:nuts_2021_id":"030287",
         "pt-dgt:id":"030287"
     },
     "wof:country":"PT",
     "wof:created":1576699200,
-    "wof:geomhash":"d246af19de37989dbd797ceffcd88032",
+    "wof:geomhash":"2b5ad1e4b3a957373018d41b5f0c2dab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712721,
+    "wof:lastmodified":1684354675,
     "wof:name":"Vila Seca",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1197,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

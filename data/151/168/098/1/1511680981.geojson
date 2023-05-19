@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Aranhas",
+    "eurostat:nuts_2021_id":"050704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16H",
+    "eurostat:nuts_2021_level_lau":"050704",
+    "eurostat:population":353,
+    "eurostat:population_year":2020,
     "geom:area":0.000578,
+    "geom:area_square_m":5470097.747495,
     "geom:bbox":"-7.14333506357,40.0983147614,-7.10556487656,40.1252721289",
     "geom:latitude":40.11321,
     "geom:longitude":-7.124616,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Aranhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050704",
+        "eurostat:nuts_2021_id":"050704",
         "pt-dgt:id":"050704"
     },
     "wof:country":"PT",
     "wof:created":1576698502,
-    "wof:geomhash":"e875baff1419b142cd86fcf3efbf2a8b",
+    "wof:geomhash":"97350ec1b59fb5d5eef1f70f18499d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712594,
+    "wof:lastmodified":1684354555,
     "wof:name":"Aranhas",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":353,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_010402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvarenga",
+    "eurostat:nuts_2021_id":"010402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11A",
+    "eurostat:nuts_2021_level_lau":"010402",
+    "eurostat:population":1223,
+    "eurostat:population_year":2020,
     "geom:area":0.004147,
+    "geom:area_square_m":38718982.868534,
     "geom:bbox":"-8.21340598217,40.9246285684,-8.08917217929,41.0136869854",
     "geom:latitude":40.967288,
     "geom:longitude":-8.144899,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvarenga",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_010402",
+        "eurostat:nuts_2021_id":"010402",
         "pt-dgt:id":"010402"
     },
     "wof:country":"PT",
     "wof:created":1576698629,
-    "wof:geomhash":"8ac1cec21d06d191295257bb22727601",
+    "wof:geomhash":"4891f9ae92942694046cbb29e598c8a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712620,
+    "wof:lastmodified":1684354574,
     "wof:name":"Alvarenga",
     "wof:parent_id":85687409,
     "wof:placetype":"localadmin",
+    "wof:population":1223,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

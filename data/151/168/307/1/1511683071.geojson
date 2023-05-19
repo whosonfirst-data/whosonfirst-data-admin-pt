@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180520",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sande",
+    "eurostat:nuts_2021_id":"180520",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"180520",
+    "eurostat:population":916,
+    "eurostat:population_year":2020,
     "geom:area":0.000335,
+    "geom:area_square_m":3124765.792969,
     "geom:bbox":"-7.79848587935,41.1158972053,-7.76868705276,41.1373966158",
     "geom:latitude":41.125745,
     "geom:longitude":-7.784821,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sande",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180520",
+        "eurostat:nuts_2021_id":"180520",
         "pt-dgt:id":"180520"
     },
     "wof:country":"PT",
     "wof:created":1576698935,
-    "wof:geomhash":"54952f42558a9c4b1ff8d3514364b5c6",
+    "wof:geomhash":"ead147bc5d096150c7a68bd31f4a35c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712673,
+    "wof:lastmodified":1684354623,
     "wof:name":"Sande",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":916,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

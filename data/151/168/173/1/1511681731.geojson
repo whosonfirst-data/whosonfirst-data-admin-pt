@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040708",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bou\u00e7a",
+    "eurostat:nuts_2021_id":"040708",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040708",
+    "eurostat:population":261,
+    "eurostat:population_year":2020,
     "geom:area":0.001404,
+    "geom:area_square_m":12970194.825469,
     "geom:bbox":"-7.24374966053,41.629358135,-7.16473145251,41.6727062465",
     "geom:latitude":41.648694,
     "geom:longitude":-7.20973,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Bou\u00e7a",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040708",
+        "eurostat:nuts_2021_id":"040708",
         "pt-dgt:id":"040708"
     },
     "wof:country":"PT",
     "wof:created":1576698657,
-    "wof:geomhash":"5efea5bd3ae8e4a4df007da9cbba64e3",
+    "wof:geomhash":"7397c232c61bf0ffab5d0ae925c2649d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712625,
+    "wof:lastmodified":1684354579,
     "wof:name":"Bou\u00e7a",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":261,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

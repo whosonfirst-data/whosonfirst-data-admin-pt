@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Espinhal",
+    "eurostat:nuts_2021_id":"061402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061402",
+    "eurostat:population":775,
+    "eurostat:population_year":2020,
     "geom:area":0.003099,
+    "geom:area_square_m":29354898.240257,
     "geom:bbox":"-8.36210134122,39.9594204855,-8.27011859406,40.038062136",
     "geom:latitude":40.003557,
     "geom:longitude":-8.311424,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Espinhal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061402",
+        "eurostat:nuts_2021_id":"061402",
         "pt-dgt:id":"061402"
     },
     "wof:country":"PT",
     "wof:created":1576698479,
-    "wof:geomhash":"fbb938802332d66585f30bf9778e27a4",
+    "wof:geomhash":"bf11e731d13d01b2b816a73533bd99fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712586,
+    "wof:lastmodified":1684354550,
     "wof:name":"Espinhal",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":775,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

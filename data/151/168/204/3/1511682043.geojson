@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_182116",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Parada de Gonta",
+    "eurostat:nuts_2021_id":"182116",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"182116",
+    "eurostat:population":754,
+    "eurostat:population_year":2020,
     "geom:area":0.000716,
+    "geom:area_square_m":6720344.921083,
     "geom:bbox":"-8.01525537455,40.5586948382,-7.985096414,40.594862478",
     "geom:latitude":40.578118,
     "geom:longitude":-7.999872,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Parada de Gonta",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_182116",
+        "eurostat:nuts_2021_id":"182116",
         "pt-dgt:id":"182116"
     },
     "wof:country":"PT",
     "wof:created":1576698716,
-    "wof:geomhash":"e4b5c9cabe929c8c8c6ac051d050dad8",
+    "wof:geomhash":"c30e1bbe6bd3dfe6bd75cd789d432cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712635,
+    "wof:lastmodified":1684354588,
     "wof:name":"Parada de Gonta",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":754,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160743",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Cruz do Lima",
+    "eurostat:nuts_2021_id":"160743",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160743",
+    "eurostat:population":480,
+    "eurostat:population_year":2020,
     "geom:area":0.000242,
+    "geom:area_square_m":2230189.029902,
     "geom:bbox":"-8.49401336425,41.7768920225,-8.47209917978,41.7952210779",
     "geom:latitude":41.786609,
     "geom:longitude":-8.482148,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Cruz do Lima",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160743",
+        "eurostat:nuts_2021_id":"160743",
         "pt-dgt:id":"160743"
     },
     "wof:country":"PT",
     "wof:created":1576699311,
-    "wof:geomhash":"6ca45e7e2b7c28bcd1e10c0a44cb67a6",
+    "wof:geomhash":"205584067337597c10f31fc87741ef56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712735,
+    "wof:lastmodified":1684354688,
     "wof:name":"Santa Cruz do Lima",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":480,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

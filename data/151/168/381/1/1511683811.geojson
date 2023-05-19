@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinhal do Norte",
+    "eurostat:nuts_2021_id":"040313",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040313",
+    "eurostat:population":263,
+    "eurostat:population_year":2020,
     "geom:area":0.001808,
+    "geom:area_square_m":16791071.366573,
     "geom:bbox":"-7.37568638733,41.2832227,-7.30809489214,41.3349287852",
     "geom:latitude":41.307622,
     "geom:longitude":-7.341709,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pinhal do Norte",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040313",
+        "eurostat:nuts_2021_id":"040313",
         "pt-dgt:id":"040313"
     },
     "wof:country":"PT",
     "wof:created":1576699091,
-    "wof:geomhash":"c9facad6e4f18208bea4763d7160de8a",
+    "wof:geomhash":"88888b69e09325be5e920ef8a3e7f6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712702,
+    "wof:lastmodified":1684354655,
     "wof:name":"Pinhal do Norte",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":263,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_080901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alferce",
+    "eurostat:nuts_2021_id":"080901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT15",
+    "eurostat:nuts_2021_level_3":"PT150",
+    "eurostat:nuts_2021_level_lau":"080901",
+    "eurostat:population":441,
+    "eurostat:population_year":2020,
     "geom:area":0.009771,
+    "geom:area_square_m":96079601.770528,
     "geom:bbox":"-8.54891273678,37.2432381245,-8.41997865975,37.3860079538",
     "geom:latitude":37.325811,
     "geom:longitude":-8.481853,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alferce",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_080901",
+        "eurostat:nuts_2021_id":"080901",
         "pt-dgt:id":"080901"
     },
     "wof:country":"PT",
     "wof:created":1576698011,
-    "wof:geomhash":"54bc73e6c3be3caf8fde477007f9ce3f",
+    "wof:geomhash":"5c5f762d0d3d8a5a7a6e1ebfb08404cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712443,
+    "wof:lastmodified":1684354461,
     "wof:name":"Alferce",
     "wof:parent_id":85687349,
     "wof:placetype":"localadmin",
+    "wof:population":441,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

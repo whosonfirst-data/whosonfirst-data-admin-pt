@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160729",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Labruja",
+    "eurostat:nuts_2021_id":"160729",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160729",
+    "eurostat:population":439,
+    "eurostat:population_year":2020,
     "geom:area":0.001579,
+    "geom:area_square_m":14543359.6714,
     "geom:bbox":"-8.62303111123,41.8108986247,-8.57009926746,41.8658711777",
     "geom:latitude":41.842101,
     "geom:longitude":-8.599071,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Labruja",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160729",
+        "eurostat:nuts_2021_id":"160729",
         "pt-dgt:id":"160729"
     },
     "wof:country":"PT",
     "wof:created":1576699347,
-    "wof:geomhash":"ce30b064e74d557915df383c82c5907f",
+    "wof:geomhash":"d13baedd90a4dad6797ef48652b66a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712740,
+    "wof:lastmodified":1684354692,
     "wof:name":"Labruja",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":439,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

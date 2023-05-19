@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101510",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Redinha",
+    "eurostat:nuts_2021_id":"101510",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101510",
+    "eurostat:population":2117,
+    "eurostat:population_year":2020,
     "geom:area":0.004364,
+    "geom:area_square_m":41342845.853475,
     "geom:bbox":"-8.61856102206,39.9269780326,-8.52667175666,40.0282451997",
     "geom:latitude":39.985241,
     "geom:longitude":-8.572376,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Redinha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101510",
+        "eurostat:nuts_2021_id":"101510",
         "pt-dgt:id":"101510"
     },
     "wof:country":"PT",
     "wof:created":1576698477,
-    "wof:geomhash":"13d9b49125e1c5cd0fa1c8e7b1528e30",
+    "wof:geomhash":"4f50465174390d04aa8eca7d76159c67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712585,
+    "wof:lastmodified":1684354550,
     "wof:name":"Redinha",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2117,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

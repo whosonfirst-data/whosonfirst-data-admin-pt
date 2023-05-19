@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_430208",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Quatro Ribeiras",
+    "eurostat:nuts_2021_id":"430208",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"430208",
+    "eurostat:population":394,
+    "eurostat:population_year":2020,
     "geom:area":0.001331,
+    "geom:area_square_m":12833457.675146,
     "geom:bbox":"-27.2406771192,38.7284804436,-27.1960937106,38.8005920639",
     "geom:latitude":38.773121,
     "geom:longitude":-27.220298,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Quatro Ribeiras",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_430208",
+        "eurostat:nuts_2021_id":"430208",
         "pt-dgt:id":"430208"
     },
     "wof:country":"PT",
     "wof:created":1576703610,
-    "wof:geomhash":"0d201777ad85811eb45ebaf88005780a",
+    "wof:geomhash":"3fe619dd57291ccc57ad72c24e045710",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720329,
+    "wof:lastmodified":1684354744,
     "wof:name":"Quatro Ribeiras",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":394,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

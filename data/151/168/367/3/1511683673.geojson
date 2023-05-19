@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171313",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Valoura",
+    "eurostat:nuts_2021_id":"171313",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171313",
+    "eurostat:population":376,
+    "eurostat:population_year":2020,
     "geom:area":0.00161,
+    "geom:area_square_m":14892706.021699,
     "geom:bbox":"-7.55956945977,41.5622682247,-7.51533982807,41.6176637177",
     "geom:latitude":41.59153,
     "geom:longitude":-7.539155,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Valoura",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171313",
+        "eurostat:nuts_2021_id":"171313",
         "pt-dgt:id":"171313"
     },
     "wof:country":"PT",
     "wof:created":1576699063,
-    "wof:geomhash":"ae50591a10ceb488984e4e538a49a740",
+    "wof:geomhash":"03c99cc1d9e87c9beaf9be6223c59222",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712697,
+    "wof:lastmodified":1684354649,
     "wof:name":"Valoura",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":376,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

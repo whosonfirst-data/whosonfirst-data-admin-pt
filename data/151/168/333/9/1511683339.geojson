@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040919",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Felgar e Souto da Velha",
+    "eurostat:nuts_2021_id":"040919",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"040919",
+    "eurostat:population":1047,
+    "eurostat:population_year":2020,
     "geom:area":0.005038,
+    "geom:area_square_m":46860996.033734,
     "geom:bbox":"-6.99506192199,41.1677350129,-6.8985615226,41.2525921374",
     "geom:latitude":41.21003,
     "geom:longitude":-6.950122,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Felgar e Souto da Velha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040919",
+        "eurostat:nuts_2021_id":"040919",
         "pt-dgt:id":"040919"
     },
     "wof:country":"PT",
     "wof:created":1576698990,
-    "wof:geomhash":"6be6947841ead1b8a290ca447bd67aaf",
+    "wof:geomhash":"cb27657e1910af8671a327d22691161f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712685,
+    "wof:lastmodified":1684354637,
     "wof:name":"Felgar e Souto da Velha",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":1047,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

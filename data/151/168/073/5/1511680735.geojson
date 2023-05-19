@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101515",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Meirinhas",
+    "eurostat:nuts_2021_id":"101515",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101515",
+    "eurostat:population":1742,
+    "eurostat:population_year":2020,
     "geom:area":0.000935,
+    "geom:area_square_m":8878831.578457,
     "geom:bbox":"-8.72938524608,39.830742065,-8.67813305299,39.861361207",
     "geom:latitude":39.84644,
     "geom:longitude":-8.70559,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Meirinhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101515",
+        "eurostat:nuts_2021_id":"101515",
         "pt-dgt:id":"101515"
     },
     "wof:country":"PT",
     "wof:created":1576698443,
-    "wof:geomhash":"0396760818b1900724539410d56baa53",
+    "wof:geomhash":"c8b60c5d7e9ae8427446d7b997aa5578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712574,
+    "wof:lastmodified":1684354542,
     "wof:name":"Meirinhas",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1742,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

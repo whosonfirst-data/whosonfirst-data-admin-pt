@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mouronho",
+    "eurostat:nuts_2021_id":"061609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061609",
+    "eurostat:population":840,
+    "eurostat:population_year":2020,
     "geom:area":0.002544,
+    "geom:area_square_m":23998430.864355,
     "geom:bbox":"-8.08806173407,40.2407166397,-8.01553782384,40.3112192356",
     "geom:latitude":40.278831,
     "geom:longitude":-8.049228,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Mouronho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061609",
+        "eurostat:nuts_2021_id":"061609",
         "pt-dgt:id":"061609"
     },
     "wof:country":"PT",
     "wof:created":1576698555,
-    "wof:geomhash":"095000050a9830c9621d2ad35955a26b",
+    "wof:geomhash":"18c72a9d32b054724ba9453ed4d63873",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712605,
+    "wof:lastmodified":1684354563,
     "wof:name":"Mouronho",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":840,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

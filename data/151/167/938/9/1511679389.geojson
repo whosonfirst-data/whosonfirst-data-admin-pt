@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150902",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvalade",
+    "eurostat:nuts_2021_id":"150902",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT181",
+    "eurostat:nuts_2021_level_lau":"150902",
+    "eurostat:population":2098,
+    "eurostat:population_year":2020,
     "geom:area":0.016581,
+    "geom:area_square_m":161736953.290876,
     "geom:bbox":"-8.47117451934,37.8470257964,-8.29463579885,37.9944173161",
     "geom:latitude":37.922986,
     "geom:longitude":-8.379258,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvalade",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150902",
+        "eurostat:nuts_2021_id":"150902",
         "pt-dgt:id":"150902"
     },
     "wof:country":"PT",
     "wof:created":1576698113,
-    "wof:geomhash":"79a310529094a22db5c886ad5bf3f2cd",
+    "wof:geomhash":"626d8e8e84dc96238a4ff8bca7d1c679",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712475,
+    "wof:lastmodified":1684354481,
     "wof:name":"Alvalade",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":2098,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_120402",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nossa Senhora da Gra\u00e7a dos Degolados",
+    "eurostat:nuts_2021_id":"120402",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"120402",
+    "eurostat:population":587,
+    "eurostat:population_year":2020,
     "geom:area":0.00372,
+    "geom:area_square_m":35716497.141662,
     "geom:bbox":"-7.14693361816,39.0172306933,-7.07143608056,39.1086326974",
     "geom:latitude":39.067364,
     "geom:longitude":-7.109054,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Nossa Senhora da Gra\u00e7a dos Degolados",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_120402",
+        "eurostat:nuts_2021_id":"120402",
         "pt-dgt:id":"120402"
     },
     "wof:country":"PT",
     "wof:created":1576698253,
-    "wof:geomhash":"44d1b1aabc243563cd33120b53f4fd4b",
+    "wof:geomhash":"b7467fe252def3682d83d4c75fffe4ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712513,
+    "wof:lastmodified":1684354504,
     "wof:name":"Nossa Senhora da Gra\u00e7a dos Degolados",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":587,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

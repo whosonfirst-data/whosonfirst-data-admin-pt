@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_101509",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pombal",
+    "eurostat:nuts_2021_id":"101509",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"101509",
+    "eurostat:population":17225,
+    "eurostat:population_year":2020,
     "geom:area":0.009899,
+    "geom:area_square_m":93880375.196653,
     "geom:bbox":"-8.72320331184,39.8677457823,-8.55582141822,39.9761801108",
     "geom:latitude":39.913921,
     "geom:longitude":-8.640535,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pombal",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_101509",
+        "eurostat:nuts_2021_id":"101509",
         "pt-dgt:id":"101509"
     },
     "wof:country":"PT",
     "wof:created":1576698464,
-    "wof:geomhash":"d10b316980c87d0b780c6df2261acca5",
+    "wof:geomhash":"030730fa5d68e5f0a7b2cca073dbab2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712581,
+    "wof:lastmodified":1684354547,
     "wof:name":"Pombal",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":17225,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

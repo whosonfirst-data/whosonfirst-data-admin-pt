@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_020808",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ferreira do Alentejo e Canhestros",
+    "eurostat:nuts_2021_id":"020808",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT184",
+    "eurostat:nuts_2021_level_lau":"020808",
+    "eurostat:population":5140,
+    "eurostat:population_year":2020,
     "geom:area":0.03034,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":295461013.30581,
     "geom:bbox":"-8.39656750808,37.9646678603,-8.02602413103,38.140390557",
     "geom:latitude":38.041292,
     "geom:longitude":-8.189171,
@@ -58,6 +70,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -65,6 +79,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_020808",
+        "eurostat:nuts_2021_id":"020808",
         "gn:id":8014803,
         "pt-dgt:id":20808,
         "qs_pg:id":381217
@@ -74,7 +90,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"31c5f989bf8caa5bd82d6955cad9475d",
+    "wof:geomhash":"ba4e3dfc8c333c2b6f90289e396ac8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,10 +100,12 @@
         }
     ],
     "wof:id":1125381697,
-    "wof:lastmodified":1582359924,
+    "wof:lastmodified":1684354447,
     "wof:name":"Ferreira do Alentejo e Canhestros",
     "wof:parent_id":85687355,
     "wof:placetype":"localadmin",
+    "wof:population":5140,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160410",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lara",
+    "eurostat:nuts_2021_id":"160410",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160410",
+    "eurostat:population":266,
+    "eurostat:population_year":2020,
     "geom:area":0.000536,
+    "geom:area_square_m":4922514.427417,
     "geom:bbox":"-8.54486,42.023862,-8.513898,42.052854",
     "geom:latitude":42.040457,
     "geom:longitude":-8.528289,
@@ -26,6 +39,8 @@
     "pt-dgt:freguesia":"Lara",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -33,11 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160410",
+        "eurostat:nuts_2021_id":"160410",
         "pt-dgt:id":"160410"
     },
     "wof:country":"PT",
     "wof:created":1576698682,
-    "wof:geomhash":"58e83b6cdc1ca5c0620b87eef71875a6",
+    "wof:geomhash":"3e5af734d05428a544251e680457f79c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,10 +70,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503000,
+    "wof:lastmodified":1684354582,
     "wof:name":"Lara",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":266,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

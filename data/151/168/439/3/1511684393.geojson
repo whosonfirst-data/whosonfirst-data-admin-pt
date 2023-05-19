@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Barcelinhos",
+    "eurostat:nuts_2021_id":"030213",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030213",
+    "eurostat:population":1781,
+    "eurostat:population_year":2020,
     "geom:area":0.000297,
+    "geom:area_square_m":2753225.196728,
     "geom:bbox":"-8.64397652424,41.5142193464,-8.60647085693,41.5277993196",
     "geom:latitude":41.521119,
     "geom:longitude":-8.622467,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Barcelinhos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030213",
+        "eurostat:nuts_2021_id":"030213",
         "pt-dgt:id":"030213"
     },
     "wof:country":"PT",
     "wof:created":1576699217,
-    "wof:geomhash":"9fb3c7a132145f74c76a052b6dc6ed4a",
+    "wof:geomhash":"ba79d2a8d580b640acef50d4687c11e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712722,
+    "wof:lastmodified":1684354677,
     "wof:name":"Barcelinhos",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1781,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

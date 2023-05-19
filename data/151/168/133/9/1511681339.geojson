@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091133",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sortelha",
+    "eurostat:nuts_2021_id":"091133",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091133",
+    "eurostat:population":444,
+    "eurostat:population_year":2020,
     "geom:area":0.0042,
+    "geom:area_square_m":39589246.01395,
     "geom:bbox":"-7.26428701396,40.3080256289,-7.15335588749,40.3701129948",
     "geom:latitude":40.337444,
     "geom:longitude":-7.204309,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sortelha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091133",
+        "eurostat:nuts_2021_id":"091133",
         "pt-dgt:id":"091133"
     },
     "wof:country":"PT",
     "wof:created":1576698576,
-    "wof:geomhash":"bb06309768b33a9b103444916e0c96af",
+    "wof:geomhash":"801d86c2a037cb392ab53e0a7c303c83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712609,
+    "wof:lastmodified":1684354566,
     "wof:name":"Sortelha",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":444,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

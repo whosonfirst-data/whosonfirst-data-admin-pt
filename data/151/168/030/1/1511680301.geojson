@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Martinho do Porto",
+    "eurostat:nuts_2021_id":"100112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100112",
+    "eurostat:population":2868,
+    "eurostat:population_year":2020,
     "geom:area":0.001533,
+    "geom:area_square_m":14621830.017622,
     "geom:bbox":"-9.15008349649,39.4940196051,-9.09241479856,39.5448438642",
     "geom:latitude":39.519973,
     "geom:longitude":-9.119093,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Martinho do Porto",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100112",
+        "eurostat:nuts_2021_id":"100112",
         "pt-dgt:id":"100112"
     },
     "wof:country":"PT",
     "wof:created":1576698339,
-    "wof:geomhash":"94bff232a6e4f8cf89f7af30a0319f34",
+    "wof:geomhash":"80fe001f4325476b00a4c39a5fb28fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712539,
+    "wof:lastmodified":1684354520,
     "wof:name":"S\u00e3o Martinho do Porto",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":2868,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

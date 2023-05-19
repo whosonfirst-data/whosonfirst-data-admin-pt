@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_130142",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o",
+    "eurostat:nuts_2021_id":"130142",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11C",
+    "eurostat:nuts_2021_level_lau":"130142",
+    "eurostat:population":11840,
+    "eurostat:population_year":2020,
     "geom:area":0.001635,
+    "geom:area_square_m":15193016.778896,
     "geom:bbox":"-8.10092445687,41.2499346172,-8.04649592933,41.3084956078",
     "geom:latitude":41.278182,
     "geom:longitude":-8.074493,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_130142",
+        "eurostat:nuts_2021_id":"130142",
         "pt-dgt:id":"130142"
     },
     "wof:country":"PT",
     "wof:created":1576699069,
-    "wof:geomhash":"b7205b1478ff12a29e6b12eb4eadb70b",
+    "wof:geomhash":"660a7b97e78b4e387e7dff4e4a535f66",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712698,
+    "wof:lastmodified":1684354649,
     "wof:name":"Amarante (S\u00e3o Gon\u00e7alo), Madalena, Cepelos e Gat\u00e3o",
     "wof:parent_id":85687411,
     "wof:placetype":"localadmin",
+    "wof:population":11840,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

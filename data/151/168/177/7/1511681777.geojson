@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170213",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pinho",
+    "eurostat:nuts_2021_id":"170213",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170213",
+    "eurostat:population":401,
+    "eurostat:population_year":2020,
     "geom:area":0.002418,
+    "geom:area_square_m":22337791.748139,
     "geom:bbox":"-7.67307049149,41.630259035,-7.59366304678,41.6888446966",
     "geom:latitude":41.658821,
     "geom:longitude":-7.631402,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pinho",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170213",
+        "eurostat:nuts_2021_id":"170213",
         "pt-dgt:id":"170213"
     },
     "wof:country":"PT",
     "wof:created":1576698665,
-    "wof:geomhash":"45d8d81bff8decb1aa77593e1e3434cf",
+    "wof:geomhash":"705849f95d74ac05a934bd1b0808ee27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712627,
+    "wof:lastmodified":1684354580,
     "wof:name":"Pinho",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":401,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_061106",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lagares",
+    "eurostat:nuts_2021_id":"061106",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16E",
+    "eurostat:nuts_2021_level_lau":"061106",
+    "eurostat:population":1398,
+    "eurostat:population_year":2020,
     "geom:area":0.001399,
+    "geom:area_square_m":13175156.668288,
     "geom:bbox":"-7.90206666046,40.3886915883,-7.83196758899,40.427412003",
     "geom:latitude":40.404307,
     "geom:longitude":-7.86151,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Lagares",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_061106",
+        "eurostat:nuts_2021_id":"061106",
         "pt-dgt:id":"061106"
     },
     "wof:country":"PT",
     "wof:created":1576698597,
-    "wof:geomhash":"b452fed44360a1784292ff80342e82e8",
+    "wof:geomhash":"8993bd3e67654226b93df69369ebce06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712614,
+    "wof:lastmodified":1684354569,
     "wof:name":"Lagares",
     "wof:parent_id":85687391,
     "wof:placetype":"localadmin",
+    "wof:population":1398,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121205",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Montalv\u00e3o",
+    "eurostat:nuts_2021_id":"121205",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121205",
+    "eurostat:population":442,
+    "eurostat:population_year":2020,
     "geom:area":0.013019,
+    "geom:area_square_m":124050123.106253,
     "geom:bbox":"-7.65158971724,39.5252640342,-7.48047110888,39.6636795792",
     "geom:latitude":39.595087,
     "geom:longitude":-7.555605,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Montalv\u00e3o",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121205",
+        "eurostat:nuts_2021_id":"121205",
         "pt-dgt:id":"121205"
     },
     "wof:country":"PT",
     "wof:created":1576698384,
-    "wof:geomhash":"4ad4ee4671432477209070840ea463df",
+    "wof:geomhash":"6cd4732cd478709a65aa9e978a03da19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712553,
+    "wof:lastmodified":1684354529,
     "wof:name":"Montalv\u00e3o",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
+    "wof:population":442,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100104",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"B\u00e1rrio",
+    "eurostat:nuts_2021_id":"100104",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16B",
+    "eurostat:nuts_2021_level_lau":"100104",
+    "eurostat:population":1523,
+    "eurostat:population_year":2020,
     "geom:area":0.001573,
+    "geom:area_square_m":14997323.665556,
     "geom:bbox":"-9.06834879157,39.5190085773,-8.98891883439,39.5780037179",
     "geom:latitude":39.554494,
     "geom:longitude":-9.023334,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"B\u00e1rrio",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100104",
+        "eurostat:nuts_2021_id":"100104",
         "pt-dgt:id":"100104"
     },
     "wof:country":"PT",
     "wof:created":1576698365,
-    "wof:geomhash":"27f1a4ffab2740602c7709cdee72f15b",
+    "wof:geomhash":"fe96def0c030b0ebdbe4136954695684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712546,
+    "wof:lastmodified":1684354524,
     "wof:name":"B\u00e1rrio",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":1523,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

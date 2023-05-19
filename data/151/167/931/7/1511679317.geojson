@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_161012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Sapardos",
+    "eurostat:nuts_2021_id":"161012",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"161012",
+    "eurostat:population":366,
+    "eurostat:population_year":2020,
     "geom:area":0.000729,
+    "geom:area_square_m":6705631.193039,
     "geom:bbox":"-8.67543935946,41.9032527678,-8.63758952981,41.9349252166",
     "geom:latitude":41.919791,
     "geom:longitude":-8.654318,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Sapardos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_161012",
+        "eurostat:nuts_2021_id":"161012",
         "pt-dgt:id":"161012"
     },
     "wof:country":"PT",
     "wof:created":1576698098,
-    "wof:geomhash":"384336a6ea81ad35ca5ab4286fcf90f8",
+    "wof:geomhash":"dd3227d9e62a7ebe1ed1d079020046b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712472,
+    "wof:lastmodified":1684354479,
     "wof:name":"Sapardos",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":366,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

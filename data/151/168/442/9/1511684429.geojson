@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_030265",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rio Covo (Santa Eug\u00e9nia)",
+    "eurostat:nuts_2021_id":"030265",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"030265",
+    "eurostat:population":1483,
+    "eurostat:population_year":2020,
     "geom:area":0.000338,
+    "geom:area_square_m":3129737.654573,
     "geom:bbox":"-8.61073768395,41.5193689869,-8.57874685336,41.5400204077",
     "geom:latitude":41.528505,
     "geom:longitude":-8.593259,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Rio Covo (Santa Eug\u00e9nia)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_030265",
+        "eurostat:nuts_2021_id":"030265",
         "pt-dgt:id":"030265"
     },
     "wof:country":"PT",
     "wof:created":1576699224,
-    "wof:geomhash":"c19eacd0cc40fd913b3afb55a8c73493",
+    "wof:geomhash":"a68fd11e88695e8d11297dfb133bd18a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712723,
+    "wof:lastmodified":1684354678,
     "wof:name":"Rio Covo (Santa Eug\u00e9nia)",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":1483,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170901",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alvadia",
+    "eurostat:nuts_2021_id":"170901",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"170901",
+    "eurostat:population":196,
+    "eurostat:population_year":2020,
     "geom:area":0.003635,
+    "geom:area_square_m":33693073.787025,
     "geom:bbox":"-7.80099480259,41.4036302643,-7.72648323364,41.4771707767",
     "geom:latitude":41.438512,
     "geom:longitude":-7.765541,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alvadia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170901",
+        "eurostat:nuts_2021_id":"170901",
         "pt-dgt:id":"170901"
     },
     "wof:country":"PT",
     "wof:created":1576699175,
-    "wof:geomhash":"c9e17d950eb4e84248d445cfbe1c2dc4",
+    "wof:geomhash":"f1bc67067bf8688819ab902b45d44a33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712717,
+    "wof:lastmodified":1684354672,
     "wof:name":"Alvadia",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

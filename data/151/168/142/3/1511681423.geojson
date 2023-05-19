@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ma\u00e7ainhas",
+    "eurostat:nuts_2021_id":"050105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050105",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.001931,
+    "geom:area_square_m":18184617.286948,
     "geom:bbox":"-7.32319581292,40.3600195592,-7.26999214336,40.4161317955",
     "geom:latitude":40.38745,
     "geom:longitude":-7.293444,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Ma\u00e7ainhas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050105",
+        "eurostat:nuts_2021_id":"050105",
         "pt-dgt:id":"050105"
     },
     "wof:country":"PT",
     "wof:created":1576698593,
-    "wof:geomhash":"7a35bcb62cad5f8f195e015fd82f9244",
+    "wof:geomhash":"8d5a2de01777728aaf8e4da93f247b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712613,
+    "wof:lastmodified":1684354569,
     "wof:name":"Ma\u00e7ainhas",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

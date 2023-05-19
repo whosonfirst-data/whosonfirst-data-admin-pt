@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_171220",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Santa Valha",
+    "eurostat:nuts_2021_id":"171220",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11B",
+    "eurostat:nuts_2021_level_lau":"171220",
+    "eurostat:population":415,
+    "eurostat:population_year":2020,
     "geom:area":0.002946,
+    "geom:area_square_m":27203822.790885,
     "geom:bbox":"-7.31114798712,41.6566353673,-7.22278994478,41.7219766294",
     "geom:latitude":41.688132,
     "geom:longitude":-7.270052,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Santa Valha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_171220",
+        "eurostat:nuts_2021_id":"171220",
         "pt-dgt:id":"171220"
     },
     "wof:country":"PT",
     "wof:created":1576699283,
-    "wof:geomhash":"03aecf83e846657853d4886550d9da2e",
+    "wof:geomhash":"d7fbca16da1a7a49a5e2e81292804f88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712731,
+    "wof:lastmodified":1684354684,
     "wof:name":"Santa Valha",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":415,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

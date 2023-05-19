@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_091010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Freixedas",
+    "eurostat:nuts_2021_id":"091010",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"091010",
+    "eurostat:population":905,
+    "eurostat:population_year":2020,
     "geom:area":0.003527,
+    "geom:area_square_m":33065142.880401,
     "geom:bbox":"-7.20333870968,40.6651657625,-7.1283707762,40.7360829095",
     "geom:latitude":40.704159,
     "geom:longitude":-7.169309,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Freixedas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_091010",
+        "eurostat:nuts_2021_id":"091010",
         "pt-dgt:id":"091010"
     },
     "wof:country":"PT",
     "wof:created":1576698823,
-    "wof:geomhash":"f786eab8965230507d59dd736e656bd9",
+    "wof:geomhash":"644ebd27e07937c4d63818fbac4e48bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712652,
+    "wof:lastmodified":1684354603,
     "wof:name":"Freixedas",
     "wof:parent_id":85687397,
     "wof:placetype":"localadmin",
+    "wof:population":905,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

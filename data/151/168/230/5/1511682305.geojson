@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_181112",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Trancozelos",
+    "eurostat:nuts_2021_id":"181112",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"181112",
+    "eurostat:population":269,
+    "eurostat:population_year":2020,
     "geom:area":0.000546,
+    "geom:area_square_m":5118311.878686,
     "geom:bbox":"-7.72531045369,40.6446879743,-7.68911317954,40.663895953",
     "geom:latitude":40.653944,
     "geom:longitude":-7.706082,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Trancozelos",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_181112",
+        "eurostat:nuts_2021_id":"181112",
         "pt-dgt:id":"181112"
     },
     "wof:country":"PT",
     "wof:created":1576698772,
-    "wof:geomhash":"827d3f91e263a1b16eb33d7c8485d84c",
+    "wof:geomhash":"9750485f3a5a2aff6e74fb6c05a3fbed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712643,
+    "wof:lastmodified":1684354595,
     "wof:name":"Trancozelos",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":269,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

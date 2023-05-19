@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_031311",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Coucieiro",
+    "eurostat:nuts_2021_id":"031311",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT112",
+    "eurostat:nuts_2021_level_lau":"031311",
+    "eurostat:population":531,
+    "eurostat:population_year":2020,
     "geom:area":0.000456,
+    "geom:area_square_m":4210800.11098,
     "geom:bbox":"-8.41352326262,41.6628431819,-8.38298967794,41.6927048262",
     "geom:latitude":41.677602,
     "geom:longitude":-8.400246,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Coucieiro",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_031311",
+        "eurostat:nuts_2021_id":"031311",
         "pt-dgt:id":"031311"
     },
     "wof:country":"PT",
     "wof:created":1576698668,
-    "wof:geomhash":"e8793d91b33aeab498f4751bbe8ee638",
+    "wof:geomhash":"ab45a92997894292e6136c07a6b5efe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712627,
+    "wof:lastmodified":1684354581,
     "wof:name":"Coucieiro",
     "wof:parent_id":85687419,
     "wof:placetype":"localadmin",
+    "wof:population":531,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

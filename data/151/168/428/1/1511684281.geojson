@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_040609",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pala\u00e7oulo",
+    "eurostat:nuts_2021_id":"040609",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11E",
+    "eurostat:nuts_2021_level_lau":"040609",
+    "eurostat:population":554,
+    "eurostat:population_year":2020,
     "geom:area":0.004563,
+    "geom:area_square_m":42294414.493487,
     "geom:bbox":"-6.49348329222,41.4117818157,-6.40466054256,41.4865347024",
     "geom:latitude":41.45003,
     "geom:longitude":-6.447485,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Pala\u00e7oulo",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_040609",
+        "eurostat:nuts_2021_id":"040609",
         "pt-dgt:id":"040609"
     },
     "wof:country":"PT",
     "wof:created":1576699189,
-    "wof:geomhash":"d732bc61fd312ca98f8aeab09ee04095",
+    "wof:geomhash":"5d589c9468d9d9a02bd471a85f4a7b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712719,
+    "wof:lastmodified":1684354674,
     "wof:name":"Pala\u00e7oulo",
     "wof:parent_id":85687415,
     "wof:placetype":"localadmin",
+    "wof:population":554,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

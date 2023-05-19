@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_180906",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vilar Seco",
+    "eurostat:nuts_2021_id":"180906",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16G",
+    "eurostat:nuts_2021_level_lau":"180906",
+    "eurostat:population":745,
+    "eurostat:population_year":2020,
     "geom:area":0.001079,
+    "geom:area_square_m":10139402.346252,
     "geom:bbox":"-7.88416809979,40.54230105,-7.82229805815,40.5790909215",
     "geom:latitude":40.561215,
     "geom:longitude":-7.854363,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Vilar Seco",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_180906",
+        "eurostat:nuts_2021_id":"180906",
         "pt-dgt:id":"180906"
     },
     "wof:country":"PT",
     "wof:created":1576698712,
-    "wof:geomhash":"6cd3ed7cbfba33f90908c1bcf1c71a07",
+    "wof:geomhash":"8250ded54d8eaa5cf9f999007252e399",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712635,
+    "wof:lastmodified":1684354587,
     "wof:name":"Vilar Seco",
     "wof:parent_id":85687401,
     "wof:placetype":"localadmin",
+    "wof:population":745,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

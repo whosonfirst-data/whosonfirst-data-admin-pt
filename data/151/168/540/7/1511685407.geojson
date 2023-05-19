@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_420503",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lomba da Maia",
+    "eurostat:nuts_2021_id":"420503",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"420503",
+    "eurostat:population":1152,
+    "eurostat:population_year":2020,
     "geom:area":0.002095,
+    "geom:area_square_m":20463713.37879,
     "geom:bbox":"-25.3721962546,37.7832530815,-25.3102833947,37.8436703755",
     "geom:latitude":37.808641,
     "geom:longitude":-25.345695,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Lomba da Maia",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_420503",
+        "eurostat:nuts_2021_id":"420503",
         "pt-dgt:id":"420503"
     },
     "wof:country":"PT",
     "wof:created":1576699429,
-    "wof:geomhash":"a96b18c1603d31a3f17c92f35cd05383",
+    "wof:geomhash":"dc5d957df8b5f97de3b157b3f861b639",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720326,
+    "wof:lastmodified":1684354711,
     "wof:name":"Lomba da Maia",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":1152,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

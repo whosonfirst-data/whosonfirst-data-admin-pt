@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100936",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monte Redondo e Carreira",
+    "eurostat:nuts_2021_id":"100936",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100936",
+    "eurostat:population":5564,
+    "eurostat:population_year":2020,
     "geom:area":0.005361,
+    "geom:area_square_m":50857429.597405,
     "geom:bbox":"-8.89192929178,39.8521079488,-8.78009773628,39.9390221658",
     "geom:latitude":39.89475,
     "geom:longitude":-8.839742,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Uni\u00e3o das freguesias de Monte Redondo e Carreira",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100936",
+        "eurostat:nuts_2021_id":"100936",
         "pt-dgt:id":"100936"
     },
     "wof:country":"PT",
     "wof:created":1576698458,
-    "wof:geomhash":"93cdd6e9406e4afe6015b99666c2b0ec",
+    "wof:geomhash":"9ae08c7f2740d7c0970b10e0aa44c184",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712578,
+    "wof:lastmodified":1684354545,
     "wof:name":"Monte Redondo e Carreira",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":5564,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

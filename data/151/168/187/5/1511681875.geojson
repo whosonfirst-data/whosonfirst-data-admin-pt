@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_160427",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Segude",
+    "eurostat:nuts_2021_id":"160427",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT111",
+    "eurostat:nuts_2021_level_lau":"160427",
+    "eurostat:population":356,
+    "eurostat:population_year":2020,
     "geom:area":0.000258,
+    "geom:area_square_m":2364989.924304,
     "geom:bbox":"-8.39623605943,42.0363502972,-8.37229123559,42.058348426",
     "geom:latitude":42.048571,
     "geom:longitude":-8.384613,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Segude",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_160427",
+        "eurostat:nuts_2021_id":"160427",
         "pt-dgt:id":"160427"
     },
     "wof:country":"PT",
     "wof:created":1576698684,
-    "wof:geomhash":"5e4a00661fc2a569322a057e0efd400d",
+    "wof:geomhash":"acbef9bb7d97a01ff00cd9bcc303669b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712629,
+    "wof:lastmodified":1684354583,
     "wof:name":"Segude",
     "wof:parent_id":85687433,
     "wof:placetype":"localadmin",
+    "wof:population":356,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

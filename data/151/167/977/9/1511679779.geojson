@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_150701",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Canha",
+    "eurostat:nuts_2021_id":"150701",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT17",
+    "eurostat:nuts_2021_level_3":"PT170",
+    "eurostat:nuts_2021_level_lau":"150701",
+    "eurostat:population":1689,
+    "eurostat:population_year":2020,
     "geom:area":0.021966,
+    "geom:area_square_m":211811973.268111,
     "geom:bbox":"-8.76654151253,38.677433295,-8.49097212563,38.8454230964",
     "geom:latitude":38.75606,
     "geom:longitude":-8.632345,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Canha",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_150701",
+        "eurostat:nuts_2021_id":"150701",
         "pt-dgt:id":"150701"
     },
     "wof:country":"PT",
     "wof:created":1576698200,
-    "wof:geomhash":"9445ec408c260b7c3af45b11ee454e9a",
+    "wof:geomhash":"afc34c4719ad1b623e80ab9bda3f6233",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712497,
+    "wof:lastmodified":1684354494,
     "wof:name":"Canha",
     "wof:parent_id":85687359,
     "wof:placetype":"localadmin",
+    "wof:population":1689,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

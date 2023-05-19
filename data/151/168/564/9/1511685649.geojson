@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_450105",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Topo (Nossa Senhora do Ros\u00e1rio)",
+    "eurostat:nuts_2021_id":"450105",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT2",
+    "eurostat:nuts_2021_level_2":"PT20",
+    "eurostat:nuts_2021_level_3":"PT200",
+    "eurostat:nuts_2021_level_lau":"450105",
+    "eurostat:population":508,
+    "eurostat:population_year":2020,
     "geom:area":0.000955,
+    "geom:area_square_m":9237301.696188,
     "geom:bbox":"-27.8143349388,38.5369523075,-27.7524585338,38.5774542992",
     "geom:latitude":38.557186,
     "geom:longitude":-27.783879,
@@ -22,6 +35,8 @@
     "pt-dgt:freguesia":"Topo (Nossa Senhora do Ros\u00e1rio)",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -29,11 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_450105",
+        "eurostat:nuts_2021_id":"450105",
         "pt-dgt:id":"450105"
     },
     "wof:country":"PT",
     "wof:created":1576703607,
-    "wof:geomhash":"0abb17e998dd6c002bd19fd7ddf9a8ef",
+    "wof:geomhash":"64608232c8b50f6e821beb7de49fa28e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -49,10 +66,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1579720333,
+    "wof:lastmodified":1684354743,
     "wof:name":"Topo (Nossa Senhora do Ros\u00e1rio)",
     "wof:parent_id":1511614891,
     "wof:placetype":"localadmin",
+    "wof:population":508,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

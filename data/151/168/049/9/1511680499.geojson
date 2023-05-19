@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_100403",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"S\u00e3o Mamede",
+    "eurostat:nuts_2021_id":"100403",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16F",
+    "eurostat:nuts_2021_level_lau":"100403",
+    "eurostat:population":3560,
+    "eurostat:population_year":2020,
     "geom:area":0.004381,
+    "geom:area_square_m":41731435.589769,
     "geom:bbox":"-8.74770913812,39.5508680625,-8.67113566452,39.6688465918",
     "geom:latitude":39.609765,
     "geom:longitude":-8.71342,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"S\u00e3o Mamede",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_100403",
+        "eurostat:nuts_2021_id":"100403",
         "pt-dgt:id":"100403"
     },
     "wof:country":"PT",
     "wof:created":1576698386,
-    "wof:geomhash":"8d53ecdeda31c7754f6308625173d091",
+    "wof:geomhash":"2c981b144bd168de7e879a834fd1f30b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712554,
+    "wof:lastmodified":1684354529,
     "wof:name":"S\u00e3o Mamede",
     "wof:parent_id":85687381,
     "wof:placetype":"localadmin",
+    "wof:population":3560,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_050401",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alcaide",
+    "eurostat:nuts_2021_id":"050401",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT16",
+    "eurostat:nuts_2021_level_3":"PT16J",
+    "eurostat:nuts_2021_level_lau":"050401",
+    "eurostat:population":616,
+    "eurostat:population_year":2020,
     "geom:area":0.001766,
+    "geom:area_square_m":16696551.764922,
     "geom:bbox":"-7.46305634628,40.1126590927,-7.3792201577,40.1496387653",
     "geom:latitude":40.13095,
     "geom:longitude":-7.424991,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alcaide",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_050401",
+        "eurostat:nuts_2021_id":"050401",
         "pt-dgt:id":"050401"
     },
     "wof:country":"PT",
     "wof:created":1576698508,
-    "wof:geomhash":"1a11ba59daec77479ac4977bc909f0f6",
+    "wof:geomhash":"b36836929b93527c1945a6426c70a65e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712595,
+    "wof:lastmodified":1684354556,
     "wof:name":"Alcaide",
     "wof:parent_id":85687385,
     "wof:placetype":"localadmin",
+    "wof:population":616,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

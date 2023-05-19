@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_170101",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alij\u00f3",
+    "eurostat:nuts_2021_id":"170101",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT11",
+    "eurostat:nuts_2021_level_3":"PT11D",
+    "eurostat:nuts_2021_level_lau":"170101",
+    "eurostat:population":2635,
+    "eurostat:population_year":2020,
     "geom:area":0.003156,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":29321328.745901,
     "geom:bbox":"-7.49895568107,41.2497101021,-7.41909381531,41.311544579",
     "geom:latitude":41.284211,
     "geom:longitude":-7.460452,
@@ -112,6 +124,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -119,6 +133,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_170101",
+        "eurostat:nuts_2021_id":"170101",
         "gn:id":8013539,
         "pt-dgt:id":170101,
         "qs_pg:id":1155645
@@ -128,7 +144,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"dfc5be7f0be7055c0839dc94a4da66a5",
+    "wof:geomhash":"a04c959839c865068f15e49e6ae3eb99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -138,10 +154,12 @@
         }
     ],
     "wof:id":1125409925,
-    "wof:lastmodified":1582359927,
+    "wof:lastmodified":1684354451,
     "wof:name":"Alij\u00f3",
     "wof:parent_id":85687423,
     "wof:placetype":"localadmin",
+    "wof:population":2635,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

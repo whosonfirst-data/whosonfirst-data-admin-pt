@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_121102",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Monforte",
+    "eurostat:nuts_2021_id":"121102",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT186",
+    "eurostat:nuts_2021_level_lau":"121102",
+    "eurostat:population":1384,
+    "eurostat:population_year":2020,
     "geom:area":0.022337,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":214551259.275025,
     "geom:bbox":"-7.53905934028,38.9490143947,-7.2979583278,39.1223696419",
     "geom:latitude":39.031225,
     "geom:longitude":-7.41434,
@@ -88,7 +100,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -96,6 +109,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_121102",
+        "eurostat:nuts_2021_id":"121102",
         "gn:id":6930695,
         "pt-dgt:id":121102,
         "qs_pg:id":1046935
@@ -105,7 +120,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"45c5329739cb2eec2ca42ec39b18ee84",
+    "wof:geomhash":"befa867f23702e0ec326ecc93ad58f5a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,11 +130,11 @@
         }
     ],
     "wof:id":1125398193,
-    "wof:lastmodified":1582359920,
+    "wof:lastmodified":1684354449,
     "wof:name":"Monforte",
     "wof:parent_id":85687373,
     "wof:placetype":"localadmin",
-    "wof:population":1241,
+    "wof:population":1384,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],

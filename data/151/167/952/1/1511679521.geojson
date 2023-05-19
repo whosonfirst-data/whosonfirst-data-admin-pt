@@ -4,7 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_071301",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Alc\u00e1\u00e7ovas",
+    "eurostat:nuts_2021_id":"071301",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"071301",
+    "eurostat:population":2111,
+    "eurostat:population_year":2020,
     "geom:area":0.027639,
+    "geom:area_square_m":267837464.321047,
     "geom:bbox":"-8.32257078548,38.3128102271,-8.05836374153,38.4817431767",
     "geom:latitude":38.399879,
     "geom:longitude":-8.183593,
@@ -23,6 +36,8 @@
     "pt-dgt:freguesia":"Alc\u00e1\u00e7ovas",
     "src:geom":"pt-dgt",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -30,11 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_071301",
+        "eurostat:nuts_2021_id":"071301",
         "pt-dgt:id":"071301"
     },
     "wof:country":"PT",
     "wof:created":1576698144,
-    "wof:geomhash":"cbd2580a09d833154e0664d473e2283a",
+    "wof:geomhash":"ba064ac0de46de11d0600b81cee36e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,10 +67,12 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1576712484,
+    "wof:lastmodified":1684354486,
     "wof:name":"Alc\u00e1\u00e7ovas",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":2111,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

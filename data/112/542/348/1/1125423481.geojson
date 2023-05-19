@@ -4,8 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"PT",
+    "eurostat:gisco_id":"PT_070704",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Pavia",
+    "eurostat:nuts_2021_id":"070704",
+    "eurostat:nuts_2021_level_0":"PT",
+    "eurostat:nuts_2021_level_1":"PT1",
+    "eurostat:nuts_2021_level_2":"PT18",
+    "eurostat:nuts_2021_level_3":"PT187",
+    "eurostat:nuts_2021_level_lau":"070704",
+    "eurostat:population":932,
+    "eurostat:population_year":2020,
     "geom:area":0.019276,
-    "geom:area_square_m":0.0,
+    "geom:area_square_m":185478181.537819,
     "geom:bbox":"-8.14018532121,38.8266728703,-7.88978716234,38.9747589731",
     "geom:latitude":38.906524,
     "geom:longitude":-8.011666,
@@ -259,6 +271,8 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191581,
         85633735,
@@ -266,6 +280,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eg:gisco_id":"PT_070704",
+        "eurostat:nuts_2021_id":"070704",
         "gn:id":8011944,
         "pt-dgt:id":70704,
         "qs_pg:id":1155622
@@ -275,7 +291,7 @@
     "wof:geom_alt":[
         "qs_pg"
     ],
-    "wof:geomhash":"1a0978293cb47a5df5e221499668ff6f",
+    "wof:geomhash":"224d4b833145a3594e3f20edafad8723",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -285,10 +301,12 @@
         }
     ],
     "wof:id":1125423481,
-    "wof:lastmodified":1582359918,
+    "wof:lastmodified":1684354451,
     "wof:name":"Pavia",
     "wof:parent_id":85687363,
     "wof:placetype":"localadmin",
+    "wof:population":932,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
