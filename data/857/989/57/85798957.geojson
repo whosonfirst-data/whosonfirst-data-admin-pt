@@ -32,8 +32,14 @@
     "name:ast_x_preferred":[
         "Campanh\u00e3"
     ],
+    "name:cat_x_preferred":[
+        "Campanh\u00e3"
+    ],
     "name:ceb_x_preferred":[
         "Campanh\u00e3"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u043d\u044c\u044f\u043d"
     ],
     "name:deu_x_preferred":[
         "Campanh\u00e3"
@@ -73,6 +79,12 @@
     ],
     "name:spa_x_preferred":[
         "Campanh\u00e3"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u043d\u044c\u044f\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u043d\u044c\u044f\u043d"
     ],
     "name:zho_x_preferred":[
         "\u574e\u5e15\u5c3c\u626c"
@@ -132,11 +144,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
-        85687411,
         102191581,
         1125409915,
         85633735,
-        101752093
+        101752093,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -168,7 +180,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1633983002,
+    "wof:lastmodified":1690856154,
     "wof:name":"Campanh\u00e3",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",

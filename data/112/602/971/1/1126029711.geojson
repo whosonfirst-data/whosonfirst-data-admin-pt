@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-16.91019,32.7366605,-16.91019,32.7366605",
+    "geom:bbox":"-16.91019,32.73666,-16.91019,32.73666",
     "geom:latitude":32.73666,
     "geom:longitude":-16.91019,
     "gn:country":null,
@@ -29,7 +29,13 @@
     "name:hun_x_preferred":[
         "Ribeiro Frio"
     ],
+    "name:ita_x_preferred":[
+        "Ribeiro Frio"
+    ],
     "name:por_x_preferred":[
+        "Ribeiro Frio"
+    ],
+    "name:spa_x_preferred":[
         "Ribeiro Frio"
     ],
     "qs_pg:aaroncc":"PT",
@@ -69,7 +75,7 @@
     },
     "wof:country":"PT",
     "wof:created":1497301384,
-    "wof:geomhash":"c8909d6578f1dde13400085870a66e51",
+    "wof:geomhash":"0485eaf1c70c392882ead6b3dde27558",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126029711,
-    "wof:lastmodified":1579720513,
+    "wof:lastmodified":1690856328,
     "wof:name":"Ribeiro Frio",
     "wof:parent_id":1511685573,
     "wof:placetype":"locality",
@@ -91,9 +97,9 @@
 },
   "bbox": [
     -16.91019,
-    32.7366605,
+    32.73666,
     -16.91019,
-    32.7366605
+    32.73666
 ],
-  "geometry": {"coordinates":[-16.91019,32.7366605],"type":"Point"}
+  "geometry": {"coordinates":[-16.91019,32.73666],"type":"Point"}
 }

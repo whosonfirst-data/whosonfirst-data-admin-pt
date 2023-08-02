@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0631\u062a\u0627\u0644\u064a\u062c\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064f\u0631\u0652\u062a\u064e\u0644\u0650\u062c\u0631\u0629"
+    ],
     "name:arg_x_preferred":[
         "Destrito de Portalegre"
     ],
@@ -55,6 +58,9 @@
     "name:deu_x_preferred":[
         "Distrikt Portalegre"
     ],
+    "name:deu_x_variant":[
+        "Portalegre"
+    ],
     "name:eng_x_preferred":[
         "Portalegre"
     ],
@@ -64,8 +70,14 @@
     "name:epo_x_preferred":[
         "Distrikto Portalegre"
     ],
+    "name:epo_x_variant":[
+        "Portalegre"
+    ],
     "name:eus_x_preferred":[
         "Portalegre"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0627\u0644\u06af\u0631"
     ],
     "name:fin_x_preferred":[
         "Portalegren piiri"
@@ -74,6 +86,9 @@
         "District de Portalegre"
     ],
     "name:fra_x_variant":[
+        "Portalegre"
+    ],
+    "name:frr_x_preferred":[
         "Portalegre"
     ],
     "name:glg_x_preferred":[
@@ -94,6 +109,9 @@
     "name:ita_x_preferred":[
         "distretto di Portalegre"
     ],
+    "name:ita_x_variant":[
+        "Portalegre"
+    ],
     "name:jpn_x_preferred":[
         "\u30dd\u30eb\u30bf\u30ec\u30b0\u30ec\u770c"
     ],
@@ -107,6 +125,9 @@
         "Portus Alacer"
     ],
     "name:lim_x_preferred":[
+        "Portalegre"
+    ],
+    "name:mlt_x_preferred":[
         "Portalegre"
     ],
     "name:msa_x_preferred":[
@@ -130,6 +151,9 @@
     "name:pol_x_preferred":[
         "Dystrykt Portalegre"
     ],
+    "name:pol_x_variant":[
+        "Portalegre"
+    ],
     "name:por_x_preferred":[
         "Portalegre"
     ],
@@ -151,11 +175,15 @@
     "name:swe_x_preferred":[
         "Portalegre"
     ],
+    "name:tur_x_preferred":[
+        "Portalegre"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0491\u0440\u0456"
     ],
     "name:ukr_x_variant":[
-        "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+        "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+        "\u041f\u043e\u0440\u0442\u0430\u043b\u0435\u0433\u0440\u0435"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0627\u0644\u06cc\u06af\u0631\u06d2 \u0636\u0644\u0639"
@@ -286,7 +314,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503007,
+    "wof:lastmodified":1690856160,
     "wof:name":"Portalegre",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

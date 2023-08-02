@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
     "geom:area_square_m":383486.663251,
-    "geom:bbox":"-9.28933411007,38.7231054044,-9.28088749444,38.7331189183",
+    "geom:bbox":"-9.289334,38.723105,-9.280887,38.733119",
     "geom:latitude":38.728743,
     "geom:longitude":-9.2845,
     "iso:country":"PT",
@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "Oeiras"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u044d\u0439\u0440\u0430\u0448"
+    ],
     "name:bpy_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u0987\u09b0\u09be\u09b8"
     ],
@@ -37,6 +40,9 @@
     "name:ces_x_preferred":[
         "Oeiras"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u044d\u0439\u0440\u0430\u0448"
+    ],
     "name:cym_x_preferred":[
         "Oeiras"
     ],
@@ -46,7 +52,13 @@
     "name:deu_x_preferred":[
         "Oeiras"
     ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ad\u03b9\u03c1\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Oeiras"
+    ],
+    "name:epo_x_preferred":[
         "Oeiras"
     ],
     "name:eus_x_preferred":[
@@ -55,14 +67,23 @@
     "name:fao_x_preferred":[
         "Oeiras"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u06cc\u0631\u0634"
+    ],
     "name:fin_x_preferred":[
         "Oeiras"
     ],
     "name:fra_x_preferred":[
         "Oeiras"
     ],
+    "name:gle_x_preferred":[
+        "Oeiras"
+    ],
     "name:glg_x_preferred":[
         "Oeiras"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d0\u05e1"
     ],
     "name:hun_x_preferred":[
         "Oeiras"
@@ -121,8 +142,17 @@
     "name:spa_x_preferred":[
         "Oeiras"
     ],
+    "name:swa_x_preferred":[
+        "Oeiras"
+    ],
     "name:swe_x_preferred":[
         "Oeiras"
+    ],
+    "name:szl_x_preferred":[
+        "Oeiras"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u044d\u0439\u0440\u0430\u0448"
     ],
     "name:tur_x_preferred":[
         "Oeiras"
@@ -173,7 +203,7 @@
         "wd:id":"Q926700"
     },
     "wof:country":"PT",
-    "wof:geomhash":"924852b0f67a423de737892a87dae08f",
+    "wof:geomhash":"8eb64e2e881155b86379b525f2ddf540",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -184,7 +214,7 @@
         }
     ],
     "wof:id":101832969,
-    "wof:lastmodified":1576711787,
+    "wof:lastmodified":1690856189,
     "wof:name":"Leceias",
     "wof:parent_id":1511679701,
     "wof:placetype":"locality",
@@ -194,10 +224,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.28933411006608,
-    38.72310540436411,
-    -9.28088749444095,
-    38.73311891832509
+    -9.289334,
+    38.723105,
+    -9.280887,
+    38.733119
 ],
-  "geometry": {"coordinates":[[[-9.28155430670233,38.72898688238342],[-9.28244669898515,38.72880511619945],[-9.28088749444095,38.72356067016108],[-9.28312234517909,38.72310540436411],[-9.2836420950361,38.72485354722198],[-9.28475953720192,38.72462588795793],[-9.28605914605811,38.72899619211614],[-9.28717664828991,38.72876850248684],[-9.28769658553233,38.73051660295317],[-9.28881410784737,38.7302888934189],[-9.28933411006608,38.73203697878176],[-9.2840236827609,38.73311891832509],[-9.28155430670233,38.72898688238342]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-9.281554,38.728987],[-9.282447,38.728805],[-9.280887,38.723561],[-9.283122,38.723105],[-9.283642,38.724854],[-9.28476,38.724626],[-9.286059,38.728996],[-9.287177,38.728769],[-9.287697,38.730517],[-9.288814,38.730289],[-9.289334,38.732037],[-9.284024,38.733119],[-9.281554,38.728987]]],"type":"Polygon"}
 }

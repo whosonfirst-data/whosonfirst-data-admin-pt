@@ -25,16 +25,31 @@
     "name:ceb_x_preferred":[
         "A Ver-O-Mar"
     ],
+    "name:che_x_preferred":[
+        "\u0410-\u0412\u0435\u0440-\u0443-\u041c\u0430\u0440"
+    ],
     "name:deu_x_preferred":[
         "A Ver-o-Mar"
     ],
     "name:eng_x_preferred":[
         "A Ver-o-Mar"
     ],
+    "name:eng_x_variant":[
+        "Aver-o-Mar"
+    ],
+    "name:eus_x_preferred":[
+        "Aver-o-Mar"
+    ],
     "name:fra_x_preferred":[
         "A Ver-o-Mar"
     ],
+    "name:fra_x_variant":[
+        "Aver-o-Mar"
+    ],
     "name:hye_x_preferred":[
+        "\u0531-\u054e\u0565\u0580-\u0578\u0582-\u0544\u0561\u0580"
+    ],
+    "name:hyw_x_preferred":[
         "\u0531-\u054e\u0565\u0580-\u0578\u0582-\u0544\u0561\u0580"
     ],
     "name:kaz_x_preferred":[
@@ -46,11 +61,20 @@
     "name:por_x_preferred":[
         "A Ver-o-Mar"
     ],
+    "name:por_x_variant":[
+        "Aver-o-Mar"
+    ],
     "name:rus_x_preferred":[
         "\u0410-\u0412\u0435\u0440-\u0443-\u041c\u0430\u0440"
     ],
     "name:spa_x_preferred":[
         "A Ver-o-Mar"
+    ],
+    "name:spa_x_variant":[
+        "Aver-o-Mar"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410-\u0412\u0435\u0440-\u0443-\u041c\u0430\u0440"
     ],
     "name:tur_x_preferred":[
         "A Ver-o-Mar"
@@ -114,7 +138,7 @@
         }
     ],
     "wof:id":1125872615,
-    "wof:lastmodified":1576711839,
+    "wof:lastmodified":1690856347,
     "wof:name":"A Ver-o-Mar",
     "wof:parent_id":1511684043,
     "wof:placetype":"locality",

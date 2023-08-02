@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0644\u064a\u0631\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u064e\u064a\u0652\u0631\u0650\u064a\u064e\u0629"
+    ],
     "name:arg_x_preferred":[
         "Destrito de Leiria"
     ],
@@ -61,6 +64,9 @@
     "name:deu_x_preferred":[
         "Distrikt Leiria"
     ],
+    "name:deu_x_variant":[
+        "Leiria"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03b9\u03c1\u03af\u03b1"
     ],
@@ -73,11 +79,17 @@
     "name:epo_x_preferred":[
         "distrikto Leiria"
     ],
+    "name:epo_x_variant":[
+        "Leiria"
+    ],
     "name:eus_x_preferred":[
         "Leiria"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0644\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0631\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Leirian piiri"
@@ -86,6 +98,9 @@
         "District de Leiria"
     ],
     "name:fra_x_variant":[
+        "Leiria"
+    ],
+    "name:frr_x_preferred":[
         "Leiria"
     ],
     "name:glg_x_preferred":[
@@ -108,6 +123,9 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Leiria"
+    ],
+    "name:ita_x_variant":[
+        "Leiria"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30a4\u30ea\u30a2\u770c"
@@ -160,11 +178,17 @@
     "name:pol_x_preferred":[
         "Dystrykt Leiria"
     ],
+    "name:pol_x_variant":[
+        "Leiria"
+    ],
     "name:por_x_preferred":[
         "Leiria"
     ],
     "name:por_x_variant":[
         "Distrito de Leiria"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u06cc\u0631\u06cc\u0627 \u0648\u0644\u0627\u06cc\u062a"
     ],
     "name:que_x_preferred":[
         "Leiria distritu"
@@ -183,6 +207,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Leiria"
+    ],
+    "name:spa_x_variant":[
+        "Leir\u00eda"
     ],
     "name:srp_x_preferred":[
         "\u041b\u0435\u0438\u0440\u0438\u0458\u0430"
@@ -259,7 +286,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503007,
+    "wof:lastmodified":1690856161,
     "wof:name":"Leiria",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

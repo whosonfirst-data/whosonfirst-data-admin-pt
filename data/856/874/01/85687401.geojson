@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u064a\u0633\u064a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0632\u0648"
+    ],
     "name:arg_x_preferred":[
         "Destrito de Viseu"
     ],
@@ -61,6 +64,9 @@
     "name:deu_x_preferred":[
         "Distrikt Viseu"
     ],
+    "name:deu_x_variant":[
+        "Viseu"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03c3\u03ad\u03bf\u03c5"
     ],
@@ -73,8 +79,14 @@
     "name:epo_x_preferred":[
         "Distrikto Viseu"
     ],
+    "name:epo_x_variant":[
+        "Viseu"
+    ],
     "name:eus_x_preferred":[
         "Viseu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0633\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Viseun piiri"
@@ -83,6 +95,9 @@
         "District de Viseu"
     ],
     "name:fra_x_variant":[
+        "Viseu"
+    ],
+    "name:frr_x_preferred":[
         "Viseu"
     ],
     "name:glg_x_preferred":[
@@ -103,11 +118,17 @@
     "name:ita_x_preferred":[
         "distretto di Viseu"
     ],
+    "name:ita_x_variant":[
+        "Viseu"
+    ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30bc\u30a6\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc8\u0cb8\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kea_x_preferred":[
+        "Vizeu"
     ],
     "name:kor_x_preferred":[
         "\ube44\uc81c\uc6b0 \ud604"
@@ -153,6 +174,9 @@
     ],
     "name:pol_x_preferred":[
         "Dystrykt Viseu"
+    ],
+    "name:pol_x_variant":[
+        "Viseu"
     ],
     "name:por_x_preferred":[
         "Viseu"
@@ -331,7 +355,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503006,
+    "wof:lastmodified":1690856158,
     "wof:name":"Viseu",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

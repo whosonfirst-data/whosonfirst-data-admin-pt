@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "S\u00e3o Bernardo"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0443"
+    ],
     "name:deu_x_preferred":[
         "S\u00e3o Bernardo"
     ],
@@ -32,6 +35,9 @@
         "S\u00e3o Bernardo"
     ],
     "name:fra_x_preferred":[
+        "S\u00e3o Bernardo"
+    ],
+    "name:ita_x_preferred":[
         "S\u00e3o Bernardo"
     ],
     "name:nan_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "S\u00e3o Bernardo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0443"
@@ -77,8 +86,8 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        85633735,
         1511682121,
+        85633735,
         85687409
     ],
     "wof:breaches":[],
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101831385,
-    "wof:lastmodified":1607987237,
+    "wof:lastmodified":1690856286,
     "wof:name":"S\u00e3o Bernardo",
     "wof:parent_id":1511682121,
     "wof:placetype":"locality",
