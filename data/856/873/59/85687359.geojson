@@ -34,8 +34,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u062a\u0648\u0628\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0637\u0648\u0628\u0631"
+    ],
     "name:arg_x_preferred":[
         "Destrito de Set\u00fabal"
+    ],
+    "name:aze_x_preferred":[
+        "Setubal"
     ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u0421\u0435\u0442\u0443\u0431\u0430\u043b"
@@ -58,6 +64,9 @@
     "name:deu_x_preferred":[
         "Distrikt Set\u00fabal"
     ],
+    "name:deu_x_variant":[
+        "Set\u00fabal"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b5\u03c4\u03bf\u03cd\u03bc\u03c0\u03b1\u03bb"
     ],
@@ -71,6 +80,9 @@
     "name:epo_x_preferred":[
         "distrikto Set\u00fabal"
     ],
+    "name:epo_x_variant":[
+        "Set\u00fabal"
+    ],
     "name:eus_x_preferred":[
         "Setubal"
     ],
@@ -81,6 +93,9 @@
         "District de Set\u00fabal"
     ],
     "name:fra_x_variant":[
+        "Set\u00fabal"
+    ],
+    "name:frr_x_preferred":[
         "Set\u00fabal"
     ],
     "name:glg_x_preferred":[
@@ -101,11 +116,17 @@
     "name:ita_x_preferred":[
         "distretto di Set\u00fabal"
     ],
+    "name:ita_x_variant":[
+        "Set\u00fabal"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30c8\u30a5\u30fc\u30d0\u30eb\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0c9f\u0cc1\u0cac\u0cbe\u0cb2\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e2\u10e3\u10d1\u10d0\u10da\u10d8\u10e1 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc138\ud22c\ubc1c \ud604"
@@ -152,6 +173,9 @@
     "name:pol_x_preferred":[
         "Dystrykt Set\u00fabal"
     ],
+    "name:pol_x_variant":[
+        "Set\u00fabal"
+    ],
     "name:por_x_preferred":[
         "Set\u00fabal"
     ],
@@ -184,6 +208,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0baa\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u0442\u0443\u0431\u0430\u043b"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c1f\u0c41\u0c2c\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -328,7 +355,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1585776615,
+    "wof:lastmodified":1690856159,
     "wof:name":"Set\u00fabal",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

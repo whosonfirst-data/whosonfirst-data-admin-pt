@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000022,
     "geom:area_square_m":216448.912328,
-    "geom:bbox":"-9.39271196242,38.7953427366,-9.38218817773,38.8007516525",
+    "geom:bbox":"-9.392712,38.795343,-9.382188,38.800752",
     "geom:latitude":38.797999,
     "geom:longitude":-9.387706,
     "gn:population":26193,
@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Sintra"
     ],
+    "name:aze_x_preferred":[
+        "Sintra"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u043d\u0442\u0440\u0430"
     ],
@@ -38,6 +41,9 @@
     "name:bre_x_preferred":[
         "Sintra"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043d\u0442\u0440\u0430"
+    ],
     "name:cat_x_preferred":[
         "Sintra"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:ces_x_preferred":[
         "Sintra"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043d\u0442\u0440\u0430"
     ],
     "name:dan_x_preferred":[
         "Sintra"
@@ -74,6 +83,9 @@
     "name:fra_x_preferred":[
         "Sintra"
     ],
+    "name:gle_x_preferred":[
+        "Sintra"
+    ],
     "name:glg_x_preferred":[
         "Sintra"
     ],
@@ -95,6 +107,9 @@
     "name:hye_x_preferred":[
         "\u054d\u056b\u0576\u057f\u0580\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Sintra"
+    ],
     "name:ind_x_preferred":[
         "Sintra"
     ],
@@ -110,11 +125,17 @@
     "name:kor_x_preferred":[
         "\uc2e0\ud2b8\ub77c"
     ],
+    "name:lav_x_preferred":[
+        "Sintra"
+    ],
     "name:lit_x_preferred":[
         "Sintra"
     ],
     "name:mal_x_preferred":[
         "\u0d38\u0d3f\u0d7b\u0d1f\u0d4d\u0d30"
+    ],
+    "name:mlt_x_preferred":[
+        "Sintra"
     ],
     "name:msa_x_preferred":[
         "Sintra"
@@ -139,6 +160,9 @@
     ],
     "name:oci_x_preferred":[
         "Sintra"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u043d\u0442\u0440\u00e6"
     ],
     "name:pol_x_preferred":[
         "Sintra"
@@ -169,6 +193,9 @@
     ],
     "name:swe_x_preferred":[
         "Sintra"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043d\u0442\u0440\u0430"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e07\u0e15\u0e23\u0e32"
@@ -241,7 +268,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"9eb0cd472aa9123991d279a861e1af8b",
+    "wof:geomhash":"cab766edc33b5f2162b4c1aa710b01dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -255,7 +282,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582359900,
+    "wof:lastmodified":1690856251,
     "wof:name":"Sintra",
     "wof:parent_id":1511679775,
     "wof:placetype":"locality",
@@ -267,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.39271196242237,
-    38.79534273655565,
-    -9.38218817773168,
-    38.8007516524678
+    -9.392712,
+    38.795343,
+    -9.382188,
+    38.800752
 ],
-  "geometry": {"coordinates":[[[-9.38218817773168,38.79837026506925],[-9.38823869408156,38.79713209176737],[-9.38797690999576,38.79625847194541],[-9.39245012496644,38.79534273655565],[-9.39271196242237,38.79621634233041],[-9.39159365527991,38.79644529909399],[-9.39211733246623,38.79819251154373],[-9.38540719029118,38.79956602260239],[-9.38566896329712,38.80043964683671],[-9.3841443173805,38.8007516524678],[-9.38218817773168,38.79837026506925]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-9.382188,38.79837],[-9.388239,38.797132],[-9.387977,38.796258],[-9.39245,38.795343],[-9.392712,38.796216],[-9.391594,38.796445],[-9.392117,38.798193],[-9.385407,38.799566],[-9.385669,38.80044],[-9.384144,38.800752],[-9.382188,38.79837]]],"type":"Polygon"}
 }

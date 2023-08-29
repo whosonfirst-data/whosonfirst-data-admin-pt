@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000023,
     "geom:area_square_m":218017.74321,
-    "geom:bbox":"-9.10545241826,38.6223755224,-9.0979929068,38.62871369",
+    "geom:bbox":"-9.105452,38.622376,-9.097993,38.628714",
     "geom:latitude":38.626479,
     "geom:longitude":-9.102097,
     "gn:population":30156,
@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Arrentela"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u043d\u0442\u0435\u043b\u0430"
+    ],
     "name:deu_x_preferred":[
         "Arrentela"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05e0\u05d8\u05dc\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ec\u30f3\u30c6\u30ca"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0440\u0440\u0435\u043d\u0442\u0435\u043b\u0430"
@@ -58,6 +64,12 @@
     ],
     "name:spa_x_preferred":[
         "Arrentela"
+    ],
+    "name:swa_x_preferred":[
+        "Arrentela"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0440\u0440\u0435\u043d\u0442\u0435\u043b\u0430"
     ],
     "name:tur_x_preferred":[
         "Arrentela"
@@ -100,7 +112,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7570d731d173559a1f13caf3572c370d",
+    "wof:geomhash":"4a91994209418d5c094e41d6d573128e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -114,7 +126,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582359891,
+    "wof:lastmodified":1690856185,
     "wof:name":"Arrentela",
     "wof:parent_id":1511679593,
     "wof:placetype":"locality",
@@ -126,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.10545241826003,
-    38.62237552242033,
-    -9.09799290679808,
-    38.62871368999458
+    -9.105452,
+    38.622376,
+    -9.097993,
+    38.628714
 ],
-  "geometry": {"coordinates":[[[-9.09799290679808,38.62837547192964],[-9.10302685244073,38.62237552242033],[-9.1040792699813,38.62596108663848],[-9.10519559649191,38.62573557486564],[-9.10545241826003,38.62661037547861],[-9.10433607843731,38.62683589069843],[-9.10488740278066,38.62871368999458],[-9.09799290679808,38.62837547192964]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-9.097993,38.628375],[-9.103027,38.622376],[-9.104079,38.625961],[-9.105196,38.625736],[-9.105452,38.62661],[-9.104336,38.626836],[-9.104887,38.628714],[-9.097993,38.628375]]],"type":"Polygon"}
 }

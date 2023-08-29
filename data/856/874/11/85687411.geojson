@@ -34,8 +34,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0631\u062a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0631\u062a\u0648"
+    ],
     "name:arg_x_preferred":[
         "Destrito de Porto"
+    ],
+    "name:aze_x_preferred":[
+        "Portu dair\u0259si"
     ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u041f\u043e\u0440\u0442\u0443"
@@ -58,6 +64,9 @@
     "name:deu_x_preferred":[
         "Distrikt Porto"
     ],
+    "name:deu_x_variant":[
+        "Porto"
+    ],
     "name:eng_x_preferred":[
         "Porto"
     ],
@@ -68,8 +77,14 @@
     "name:epo_x_preferred":[
         "distrikto Porto"
     ],
+    "name:epo_x_variant":[
+        "Porto"
+    ],
     "name:eus_x_preferred":[
         "Porto"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648"
     ],
     "name:fin_x_preferred":[
         "Porton piiri"
@@ -80,11 +95,17 @@
     "name:fra_x_variant":[
         "Porto"
     ],
+    "name:frr_x_preferred":[
+        "Porto"
+    ],
     "name:glg_x_preferred":[
         "Distrito do Porto"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e4\u05d5\u05e8\u05d8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f\u094b"
@@ -92,11 +113,17 @@
     "name:hun_x_preferred":[
         "Porto"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0580\u057f\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
         "Distrik Porto"
     ],
     "name:ita_x_preferred":[
         "Oporto"
+    ],
+    "name:ita_x_variant":[
+        "Porto"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30eb\u30c8\u770c"
@@ -118,6 +145,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043e"
+    ],
+    "name:mlt_x_preferred":[
+        "Porto"
     ],
     "name:msa_x_preferred":[
         "Daerah Porto"
@@ -162,6 +192,9 @@
         "\u041f\u043e\u0440\u0442\u043e"
     ],
     "name:swe_x_preferred":[
+        "Porto"
+    ],
+    "name:tur_x_preferred":[
         "Porto"
     ],
     "name:ukr_x_preferred":[
@@ -293,7 +326,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636503006,
+    "wof:lastmodified":1690856157,
     "wof:name":"Porto",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
