@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711389,
-    "geom:area_square_m":6587150394.516262,
+    "geom:area_square_m":6587150892.443035,
     "geom:bbox":"-7.431888,41.024633,-6.189352,41.992531",
     "geom:latitude":41.509445,
     "geom:longitude":-6.859318,
@@ -309,12 +309,18 @@
         "gn:id":2742026,
         "gp:id":2346565,
         "hasc:id":"PT.BA",
+        "iso:code":"PT-04",
         "iso:id":"PT-04",
+        "qs:local_id":"104",
         "unlc:id":"PT-04",
         "wd:id":"Q373528"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"276ffbf33589359951a1062dd8968d45",
+    "wof:geomhash":"ac6a6e45a9ae10a788a4487fccb1f571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,7 +335,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856159,
+    "wof:lastmodified":1695884535,
     "wof:name":"Bragan\u00e7a",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

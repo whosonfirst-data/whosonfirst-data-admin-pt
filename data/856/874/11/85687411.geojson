@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250654,
-    "geom:area_square_m":2331140655.351636,
+    "geom:area_square_m":2331140248.063951,
     "geom:bbox":"-8.789093,41.001381,-7.875596,41.470978",
     "geom:latitude":41.224797,
     "geom:longitude":-8.353099,
@@ -307,11 +307,17 @@
         "gn:id":2735941,
         "gp:id":2346575,
         "hasc:id":"PT.PO",
+        "iso:code":"PT-13",
         "iso:id":"PT-13",
+        "qs:local_id":"113",
         "wd:id":"Q322792"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"e8c3106000a61d3f616899de46a01b16",
+    "wof:geomhash":"4cc10a8c7cc553814031a0d05f8dc7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +332,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856157,
+    "wof:lastmodified":1695884946,
     "wof:name":"Porto",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

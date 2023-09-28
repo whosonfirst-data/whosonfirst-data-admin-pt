@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42043,
-    "geom:area_square_m":3970475320.281852,
+    "geom:area_square_m":3970475217.982194,
     "geom:bbox":"-8.908637,39.92379,-7.731759,40.519169",
     "geom:latitude":40.204398,
     "geom:longitude":-8.336057,
@@ -325,12 +325,18 @@
         "gn:id":2740636,
         "gp:id":2346567,
         "hasc:id":"PT.CO",
+        "iso:code":"PT-06",
         "iso:id":"PT-06",
+        "qs:local_id":"106",
         "unlc:id":"PT-06",
         "wd:id":"Q244517"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"24ffec92b979494b8b565b714bdad03e",
+    "wof:geomhash":"e77321733983b217556f45414d368d77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,7 +351,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856161,
+    "wof:lastmodified":1695884946,
     "wof:name":"Coimbra",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.464972,
-    "geom:area_square_m":4302413843.462297,
+    "geom:area_square_m":4302413824.831895,
     "geom:bbox":"-8.119459,41.118763,-7.170633,41.927387",
     "geom:latitude":41.555053,
     "geom:longitude":-7.631682,
@@ -295,12 +295,18 @@
         "gn:id":2732437,
         "gp:id":2346579,
         "hasc:id":"PT.VR",
+        "iso:code":"PT-17",
         "iso:id":"PT-17",
+        "qs:local_id":"117",
         "unlc:id":"PT-17",
         "wd:id":"Q379372"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"d309ed463fa7d96e16ad87331b04cde5",
+    "wof:geomhash":"f978e25ef5043d48be3dee501c24f5bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856159,
+    "wof:lastmodified":1695884946,
     "wof:name":"Vila Real",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

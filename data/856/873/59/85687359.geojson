@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538195,
-    "geom:area_square_m":5221150755.124365,
+    "geom:area_square_m":5221151342.237071,
     "geom:bbox":"-9.260374,37.749334,-8.129698,38.84542",
     "geom:latitude":38.319226,
     "geom:longitude":-8.653526,
@@ -335,12 +335,18 @@
         "gn:id":2262961,
         "gp:id":2346577,
         "hasc:id":"PT.SE",
+        "iso:code":"PT-15",
         "iso:id":"PT-15",
+        "qs:local_id":"115",
         "unlc:id":"PT-15",
         "wd:id":"Q274109"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"305a6d22d177112f11ab09f084dbf2c2",
+    "wof:geomhash":"bce877d899d37dc2dbe7ea8d953c8b36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +361,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856159,
+    "wof:lastmodified":1695884406,
     "wof:name":"Set\u00fabal",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

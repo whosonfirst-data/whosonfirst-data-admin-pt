@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291119,
-    "geom:area_square_m":2797579502.872366,
+    "geom:area_square_m":2797580043.249197,
     "geom:bbox":"-9.500469,38.673057,-8.781865,39.317726",
     "geom:latitude":38.998275,
     "geom:longitude":-9.163635,
@@ -312,12 +312,18 @@
         "gn:id":2267056,
         "gp:id":2346573,
         "hasc:id":"PT.LI",
+        "iso:code":"PT-11",
         "iso:id":"PT-11",
+        "qs:local_id":"111",
         "unlc:id":"PT-11",
         "wd:id":"Q207199"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"f821d1cee1c6add3df038231c09a64ab",
+    "wof:geomhash":"3137474438bb5d0a9a6d6dd24c5e6030",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -332,7 +338,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856160,
+    "wof:lastmodified":1695884946,
     "wof:name":"Lisboa",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

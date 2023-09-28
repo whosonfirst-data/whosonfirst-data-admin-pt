@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368384,
-    "geom:area_square_m":3502906870.119562,
+    "geom:area_square_m":3503823584.215077,
     "geom:bbox":"-9.516709,39.211523,-8.108054,40.089735",
     "geom:latitude":39.71729,
     "geom:longitude":-8.775334,
@@ -265,13 +265,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "iso:code":"PT-10",
+        "qs:local_id":"110",
         "wd:id":"Q244512"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbdc036bf19028f5c9d716eb05b8be31",
+    "wof:geomhash":"437d5766e47adc1f238336e181ebb25f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -286,7 +292,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856161,
+    "wof:lastmodified":1695884946,
     "wof:name":"Leiria",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

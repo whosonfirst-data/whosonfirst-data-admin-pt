@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.050348,
-    "geom:area_square_m":10258118686.133184,
+    "geom:area_square_m":10258119423.583294,
     "geom:bbox":"-8.820327,37.318969,-6.931739,38.331105",
     "geom:latitude":37.829689,
     "geom:longitude":-7.944052,
@@ -362,12 +362,18 @@
         "gn:id":2270984,
         "gp:id":2346563,
         "hasc:id":"PT.BE",
+        "iso:code":"PT-02",
         "iso:id":"PT-02",
+        "qs:local_id":"102",
         "unlc:id":"PT-02",
         "wd:id":"Q321455"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"062967e6b96d9281bd09c65fbbf3cbca",
+    "wof:geomhash":"a8b0b74a00bafeaaf4cdcbd000c63bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -382,7 +388,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856161,
+    "wof:lastmodified":1695884405,
     "wof:name":"Beja",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

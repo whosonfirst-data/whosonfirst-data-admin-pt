@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242043,
+    "geom:area_square_m":2347122157.795866,
     "geom:bbox":"-31.268219,36.929466,-25.013609,39.726104",
     "geom:latitude":38.34732,
     "geom:longitude":-27.279976,
@@ -398,12 +399,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PT.AC",
+        "iso:code":"PT-20",
+        "qs:local_id":"200",
         "wd:id":"Q25263",
         "wk:page":"Azores"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
     "wof:created":1576262053,
-    "wof:geomhash":"1120122aafad7f9e9d7efeeb16d694a7",
+    "wof:geomhash":"d775081dc8e34d815fe158ac9f81d9c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -418,7 +425,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856148,
+    "wof:lastmodified":1695884756,
     "wof:name":"Azores",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

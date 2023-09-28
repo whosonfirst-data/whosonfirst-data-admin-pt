@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.764898,
-    "geom:area_square_m":7391274627.714731,
+    "geom:area_square_m":7391274252.849092,
     "geom:bbox":"-8.658445,38.154653,-7.107271,39.02693",
     "geom:latitude":38.603859,
     "geom:longitude":-7.841552,
@@ -341,12 +341,18 @@
         "gn:id":2268404,
         "gp:id":2346568,
         "hasc:id":"PT.EV",
+        "iso:code":"PT-07",
         "iso:id":"PT-07",
+        "qs:local_id":"107",
         "unlc:id":"PT-07",
         "wd:id":"Q274118"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"8fe912d40e19f70e10a685509b29aa4d",
+    "wof:geomhash":"917834801e78b411b251354ec636e0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -361,7 +367,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856162,
+    "wof:lastmodified":1695884406,
     "wof:name":"\u00c9vora",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

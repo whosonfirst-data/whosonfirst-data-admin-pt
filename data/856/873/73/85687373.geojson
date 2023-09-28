@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.634225,
-    "geom:area_square_m":6078189816.075514,
+    "geom:area_square_m":6078190328.4968,
     "geom:bbox":"-8.343874,38.750611,-6.951392,39.663552",
     "geom:latitude":39.189953,
     "geom:longitude":-7.620444,
@@ -294,12 +294,18 @@
         "gn:id":2264507,
         "gp:id":2346574,
         "hasc:id":"PT.PA",
+        "iso:code":"PT-12",
         "iso:id":"PT-12",
+        "qs:local_id":"112",
         "unlc:id":"PT-12",
         "wd:id":"Q225189"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"bcdd7af72374d0ece6f2fb236e8c5cfc",
+    "wof:geomhash":"7d66d75322aabe0eb67efa6b619efab3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -314,7 +320,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856160,
+    "wof:lastmodified":1695884946,
     "wof:name":"Portalegre",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

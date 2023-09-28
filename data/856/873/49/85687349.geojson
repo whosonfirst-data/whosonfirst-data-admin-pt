@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.508913,
-    "geom:area_square_m":5009524490.032086,
+    "geom:area_square_m":5009523751.794325,
     "geom:bbox":"-8.995174,36.960426,-7.401917,37.529097",
     "geom:latitude":37.243248,
     "geom:longitude":-8.131896,
@@ -335,12 +335,18 @@
         "gn:id":2268337,
         "gp:id":2346569,
         "hasc:id":"PT.FA",
+        "iso:code":"PT-08",
         "iso:id":"PT-08",
+        "qs:local_id":"108",
         "unlc:id":"PT-08",
         "wd:id":"Q244521"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"3ce4df8d19615552da7d5e387a3a569c",
+    "wof:geomhash":"9a4c848a3c3fa5c689d31489ff9704ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +361,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856163,
+    "wof:lastmodified":1695884406,
     "wof:name":"Faro",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
