@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298998,
-    "geom:area_square_m":2801919305.93598,
+    "geom:area_square_m":2801919244.782163,
     "geom:bbox":"-8.783322,40.278817,-8.089172,41.080129",
     "geom:latitude":40.724055,
     "geom:longitude":-8.46867,
@@ -306,12 +306,18 @@
         "gn:id":2742610,
         "gp:id":2346562,
         "hasc:id":"PT.AV",
+        "iso:code":"PT-01",
         "iso:id":"PT-01",
+        "qs:local_id":"101",
         "unlc:id":"PT-01",
         "wd:id":"Q210527"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"eef86d3c1ada5fb89c1396378103945b",
+    "wof:geomhash":"5b37413aaaf060d75d1c7bafae24dadc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +332,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856158,
+    "wof:lastmodified":1695884946,
     "wof:name":"Aveiro",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

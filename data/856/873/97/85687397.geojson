@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.588975,
-    "geom:area_square_m":5512513978.677454,
+    "geom:area_square_m":5526153566.595988,
     "geom:bbox":"-7.849229,40.229917,-6.781048,41.17935",
     "geom:latitude":40.641271,
     "geom:longitude":-7.229737,
@@ -336,14 +336,20 @@
         "gn:id":2738782,
         "gp:id":2346571,
         "hasc:id":"PT.GU",
+        "iso:code":"PT-09",
         "iso:id":"PT-09",
+        "qs:local_id":"109",
         "wd:id":"Q273533"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"596e0251160fa25398bdd0e232817d22",
+    "wof:geomhash":"6d285fcd57dbe4f07d29c9d5311eafb0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +364,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856162,
+    "wof:lastmodified":1695884946,
     "wof:name":"Guarda",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

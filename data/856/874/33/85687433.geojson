@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240731,
-    "geom:area_square_m":2216339073.52397,
+    "geom:area_square_m":2216339210.99827,
     "geom:bbox":"-8.879675,41.606389,-8.082897,42.154419",
     "geom:latitude":41.877921,
     "geom:longitude":-8.506903,
@@ -298,12 +298,18 @@
         "gn:id":2732772,
         "gp:id":2346578,
         "hasc:id":"PT.VC",
+        "iso:code":"PT-16",
         "iso:id":"PT-16",
+        "qs:local_id":"116",
         "unlc:id":"PT-16",
         "wd:id":"Q326214"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"de726e28351dc0616c0261a96e9c99d9",
+    "wof:geomhash":"d8e3359633ddd2fa00f0fb10e799e732",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856157,
+    "wof:lastmodified":1695884946,
     "wof:name":"Viana do Castelo",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

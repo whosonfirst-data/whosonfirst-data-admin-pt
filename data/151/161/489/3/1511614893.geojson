@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077398,
+    "geom:area_square_m":804905586.198652,
     "geom:bbox":"-17.265785,30.136984,-15.854782,33.107342",
     "geom:latitude":32.750432,
     "geom:longitude":-16.949819,
@@ -401,12 +402,18 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PT.MA",
+        "iso:code":"PT-30",
+        "qs:local_id":"300",
         "wd:id":"Q26253",
         "wk:page":"Madeira"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
     "wof:created":1576262054,
-    "wof:geomhash":"fdd422c96c70ff056df7da9e4decdff3",
+    "wof:geomhash":"2aef86abf3f0664af48b4edd3d505f32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -421,7 +428,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856149,
+    "wof:lastmodified":1695884946,
     "wof:name":"Madeira",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

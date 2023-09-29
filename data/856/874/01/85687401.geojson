@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.534567,
-    "geom:area_square_m":5003804146.008018,
+    "geom:area_square_m":5003804897.481418,
     "geom:bbox":"-8.359178,40.322639,-7.30457,41.21466",
     "geom:latitude":40.798879,
     "geom:longitude":-7.870902,
@@ -335,12 +335,18 @@
         "gn:id":2732264,
         "gp:id":2346580,
         "hasc:id":"PT.VI",
+        "iso:code":"PT-18",
         "iso:id":"PT-18",
+        "qs:local_id":"118",
         "unlc:id":"PT-18",
         "wd:id":"Q273525"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"00412b358ccb27e0c6b88ac69afc5e41",
+    "wof:geomhash":"0a06cc1e0bd76848bc604166fa1c9cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -355,7 +361,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856158,
+    "wof:lastmodified":1695884946,
     "wof:name":"Viseu",
     "wof:parent_id":85633735,
     "wof:placetype":"region",

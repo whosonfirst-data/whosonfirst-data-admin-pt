@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.701422,
-    "geom:area_square_m":6712240111.827819,
+    "geom:area_square_m":6712239840.266274,
     "geom:bbox":"-9.001579,38.731491,-7.808993,39.838523",
     "geom:latitude":39.293487,
     "geom:longitude":-8.477571,
@@ -356,12 +356,18 @@
         "gn:id":2263478,
         "gp:id":2346576,
         "hasc:id":"PT.SA",
+        "iso:code":"PT-14",
         "iso:id":"PT-14",
+        "qs:local_id":"114",
         "unlc:id":"PT-14",
         "wd:id":"Q244510"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"PT",
-    "wof:geomhash":"5cd195187ff0fdbac009f6b6663e209b",
+    "wof:geomhash":"011bd7f7ca418d9de85e27eeb5505575",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -376,7 +382,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690856162,
+    "wof:lastmodified":1695884406,
     "wof:name":"Santar\u00e9m",
     "wof:parent_id":85633735,
     "wof:placetype":"region",
