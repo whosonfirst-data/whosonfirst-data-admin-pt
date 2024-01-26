@@ -9,7 +9,23 @@
     "geom:bbox":"-9.059317,38.870546,-9.018285,38.907266",
     "geom:latitude":38.890154,
     "geom:longitude":-9.041274,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1114",
+    "gn:admin3_code":"111402.0",
+    "gn:asciiname":"Alverca do Ribatejo",
+    "gn:country_code":"PT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2271797,
+    "gn:latitude":38.89898,
+    "gn:longitude":-9.03864,
+    "gn:modification_date":"2016-03-13",
+    "gn:name":"Alverca do Ribatejo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.05864,38.87898,-9.01864,38.91898",
     "lbl:latitude":38.891057,
     "lbl:longitude":-9.043295,
     "lbl:max_zoom":18.0,
@@ -120,7 +136,12 @@
         "wd:id":"Q431690"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1081040
+        "gn:id":[
+            2271797
+        ],
+        "qs_pg:id":[
+            1081040
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -137,13 +158,15 @@
         }
     ],
     "wof:id":101758913,
-    "wof:lastmodified":1690856248,
+    "wof:lastmodified":1706240615,
     "wof:name":"Alverca do Ribatejo",
     "wof:parent_id":1511679837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360168195
+    ],
     "wof:tags":[]
 },
   "bbox": [

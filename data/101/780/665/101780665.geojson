@@ -9,7 +9,23 @@
     "geom:bbox":"-7.666206,37.098242,-7.655428,37.10457",
     "geom:latitude":37.102027,
     "geom:longitude":-7.66132,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0814",
+    "gn:admin3_code":"81408.0",
+    "gn:asciiname":"Santa Luzia",
+    "gn:country_code":"PT",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2263518,
+    "gn:latitude":37.10224,
+    "gn:longitude":-7.66202,
+    "gn:modification_date":"2017-09-16",
+    "gn:name":"Santa Luzia",
+    "gn:population":1455,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.68202,37.08224,-7.64202,37.12224",
     "lbl:latitude":37.101991,
     "lbl:longitude":-7.662137,
     "lbl:max_zoom":18.0,
@@ -85,6 +101,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         1511678881,
@@ -101,7 +118,15 @@
         "wk:page":"Santa Luzia (Tavira)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1168225
+        "gn:id":[
+            2263518
+        ],
+        "qs_pg:id":[
+            1168225
+        ],
+        "wk:page":[
+            "Santa_Luzia_%28Tavira%29"
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -121,13 +146,17 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856305,
+    "wof:lastmodified":1706240617,
     "wof:name":"Santa Luzia",
     "wof:parent_id":1511678881,
     "wof:placetype":"locality",
+    "wof:population":1455,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226734151
+    ],
     "wof:tags":[]
 },
   "bbox": [

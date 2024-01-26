@@ -9,8 +9,11 @@
     "geom:bbox":"-8.506442,41.334055,-8.464074,41.372073",
     "geom:latitude":41.350032,
     "geom:longitude":-8.483184,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":14021,
     "iso:country":"PT",
+    "lbl:bbox":"-8.49746,41.32257,-8.45746,41.36257",
     "lbl:latitude":41.3437,
     "lbl:longitude":-8.478209,
     "lbl:max_zoom":15.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648 \u062a\u0631\u064a\u0633\u0648"
     ],
@@ -162,11 +166,35 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-multi-in-poly-resolved",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734570,
+    "qs_pg:gn_pop":14021,
+    "qs_pg:name":"Santo Tirso",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":351,
+    "qs_pg:photos_1k":71,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":351,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":479168,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":748066,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":201,
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1511683489,
@@ -180,6 +208,20 @@
         "gp:id":748066,
         "qs_pg:id":479168,
         "wd:id":"Q917330"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2734570
+        ],
+        "gp:id":[
+            748066
+        ],
+        "qs_pg:id":[
+            479168
+        ],
+        "wd:id":[
+            "Q2258377"
+        ]
     },
     "wof:country":"PT",
     "wof:geomhash":"e42c139dd1650fa2dc75c63821d351a2",
@@ -196,7 +238,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856287,
+    "wof:lastmodified":1706240618,
     "wof:name":"Santo Tirso",
     "wof:parent_id":1511683489,
     "wof:placetype":"locality",
@@ -204,7 +246,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125789775
+    ],
     "wof:tags":[]
 },
   "bbox": [

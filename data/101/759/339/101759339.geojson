@@ -9,8 +9,11 @@
     "geom:bbox":"-8.514331,41.131076,-8.487575,41.166244",
     "geom:latitude":41.148365,
     "geom:longitude":-8.502902,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":17011,
     "iso:country":"PT",
+    "lbl:bbox":"-8.52412,41.13508,-8.48412,41.17508",
     "lbl:latitude":41.159201,
     "lbl:longitude":-8.507601,
     "lbl:max_zoom":15.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "S\u00e3o Pedro da Cova"
     ],
@@ -89,10 +93,32 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2734363,
+    "qs_pg:gn_pop":17011,
+    "qs_pg:name":"S\u00e3o Pedro da Cova",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":185,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1205251,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":748349,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1511680393,
@@ -106,6 +132,20 @@
         "gp:id":748349,
         "qs_pg:id":1205251,
         "wd:id":"Q1262489"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2734363
+        ],
+        "gp:id":[
+            748349
+        ],
+        "qs_pg:id":[
+            1205251
+        ],
+        "wd:id":[
+            "Q1262489"
+        ]
     },
     "wof:country":"PT",
     "wof:geomhash":"d5746bca6befc297604b6e8632c68aa1",
@@ -122,7 +162,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856253,
+    "wof:lastmodified":1706240615,
     "wof:name":"S\u00e3o Pedro da Cova",
     "wof:parent_id":1511680393,
     "wof:placetype":"locality",
@@ -130,7 +170,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125953337
+    ],
     "wof:tags":[]
 },
   "bbox": [

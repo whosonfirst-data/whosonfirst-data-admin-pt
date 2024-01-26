@@ -10,6 +10,8 @@
     "geom:latitude":40.93585,
     "geom:longitude":-7.93835,
     "gn:admin1_code":"17.0",
+    "gn:admin2_code":"1803",
+    "gn:admin3_code":"180306.0",
     "gn:asciiname":"Codecais",
     "gn:country_code":"PT",
     "gn:dem":797,
@@ -40,6 +42,11 @@
     "wof:concordances":{
         "gn:id":2740668
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2740671
+        ]
+    },
     "wof:country":"PT",
     "wof:geomhash":"7818cf40563f3a2fc2c497d88daf3ad5",
     "wof:hierarchy":[
@@ -52,13 +59,15 @@
         }
     ],
     "wof:id":1226105797,
-    "wof:lastmodified":1576711997,
+    "wof:lastmodified":1706240619,
     "wof:name":"Codecais",
     "wof:parent_id":1511681691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292957275
+    ],
     "wof:tags":[]
 },
   "bbox": [

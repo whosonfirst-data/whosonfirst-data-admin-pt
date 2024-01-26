@@ -9,7 +9,23 @@
     "geom:bbox":"-7.166947,41.305154,-7.146534,41.311361",
     "geom:latitude":41.308814,
     "geom:longitude":-7.155721,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"0410",
+    "gn:admin3_code":"41017.0",
+    "gn:asciiname":"Vila Flor",
+    "gn:country_code":"PT",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2261643,
+    "gn:latitude":41.30904,
+    "gn:longitude":-7.15378,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Vila Flor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.17378,41.28904,-7.13378,41.32904",
     "lbl:latitude":41.308734,
     "lbl:longitude":-7.152474,
     "lbl:max_zoom":18.0,
@@ -67,6 +83,9 @@
     "name:nob_x_preferred":[
         "Vila Flor"
     ],
+    "name:nor_x_preferred":[
+        "Vila Flor"
+    ],
     "name:pol_x_preferred":[
         "Vila Flor"
     ],
@@ -122,6 +141,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2261643,
         "gp:id":750683,
         "qs_pg:id":6,
         "wd:id":"Q552556"
@@ -137,13 +157,15 @@
         }
     ],
     "wof:id":101774981,
-    "wof:lastmodified":1690856318,
+    "wof:lastmodified":1706240616,
     "wof:name":"Vila Flor",
     "wof:parent_id":85687415,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193142079
+    ],
     "wof:tags":[]
 },
   "bbox": [

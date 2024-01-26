@@ -9,8 +9,23 @@
     "geom:bbox":"-9.284327,38.697529,-9.273706,38.707948",
     "geom:latitude":38.702688,
     "geom:longitude":-9.279492,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"1110",
+    "gn:admin3_code":"111005.0",
+    "gn:asciiname":"Terrugem",
+    "gn:country_code":"PT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262687,
+    "gn:latitude":38.70647,
+    "gn:longitude":-9.28693,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Terrugem",
     "gn:population":4693,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.30693,38.68647,-9.26693,38.72647",
     "lbl:latitude":38.702961,
     "lbl:longitude":-9.280124,
     "lbl:max_zoom":15.0,
@@ -100,7 +115,12 @@
         "wd:id":"Q1328618"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":188362
+        "gn:id":[
+            2262687
+        ],
+        "qs_pg:id":[
+            188362
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -117,7 +137,7 @@
         }
     ],
     "wof:id":101759073,
-    "wof:lastmodified":1690856263,
+    "wof:lastmodified":1706240615,
     "wof:name":"Terrugem",
     "wof:parent_id":1511679647,
     "wof:placetype":"locality",
@@ -125,7 +145,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276736425
+    ],
     "wof:tags":[]
 },
   "bbox": [

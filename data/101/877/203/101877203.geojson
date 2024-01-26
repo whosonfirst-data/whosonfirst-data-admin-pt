@@ -9,7 +9,23 @@
     "geom:bbox":"-25.538934,37.803066,-25.520548,37.82029",
     "geom:latitude":37.811039,
     "geom:longitude":-25.530452,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"4205",
+    "gn:admin3_code":"420511.0",
+    "gn:asciiname":"Ribeira Seca",
+    "gn:country_code":"PT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3372700,
+    "gn:latitude":37.81667,
+    "gn:longitude":-25.53333,
+    "gn:modification_date":"2018-02-05",
+    "gn:name":"Ribeira Seca",
+    "gn:population":2950,
+    "gn:timezone":"Atlantic/Azores",
     "iso:country":"PT",
+    "lbl:bbox":"-25.55333,37.79667,-25.51333,37.83667",
     "lbl:latitude":37.811364,
     "lbl:longitude":-25.531196,
     "lbl:max_zoom":18.0,
@@ -64,6 +80,9 @@
     "name:tur_x_preferred":[
         "Ribeira Seca"
     ],
+    "name:und_x_variant":[
+        "Ribeira Secca"
+    ],
     "qs:a0":"Portugal",
     "qs:a1":"*Regi\u00e3o Aut\u00f3noma dos A\u00e7ores",
     "qs:a1r":"0",
@@ -80,6 +99,7 @@
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         1511685377,
@@ -96,7 +116,12 @@
         "wk:page":"Ribeira Seca (Ribeira Grande)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":232939
+        "gn:id":[
+            3372700
+        ],
+        "qs_pg:id":[
+            232939
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -116,13 +141,17 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856269,
+    "wof:lastmodified":1706240619,
     "wof:name":"Ribeira Seca",
     "wof:parent_id":1511685377,
     "wof:placetype":"locality",
+    "wof:population":2950,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293448107
+    ],
     "wof:tags":[]
 },
   "bbox": [
