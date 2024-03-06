@@ -9,9 +9,23 @@
     "geom:bbox":"-8.77066,37.43551,-8.77066,37.43551",
     "geom:latitude":37.43551,
     "geom:longitude":-8.77066,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"0803",
+    "gn:admin3_code":"80303.0",
+    "gn:asciiname":"Odeceixe",
     "gn:country":"PT",
+    "gn:country_code":"PT",
+    "gn:dem":22,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6930175,
+    "gn:latitude":37.43289,
+    "gn:longitude":-8.77065,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Odeceixe",
     "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
     "lbl:bbox":"-8.79066,37.41551,-8.75066,37.45551",
     "lbl:latitude":37.43551,
@@ -92,6 +106,7 @@
     "qs_pg:woe_id":744641,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Faro",
@@ -107,7 +122,13 @@
         "gn:id":2265479,
         "gp:id":744641,
         "qs_pg:id":245492,
-        "wd:id":"Q1597626"
+        "wd:id":"Q1597626",
+        "wk:page":"Odeceixe"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6930175
+        ]
     },
     "wof:country":"PT",
     "wof:created":1497300128,
@@ -122,13 +143,17 @@
         }
     ],
     "wof:id":1126008533,
-    "wof:lastmodified":1690856375,
+    "wof:lastmodified":1706240619,
     "wof:name":"Odeceixe",
     "wof:parent_id":1511678983,
     "wof:placetype":"locality",
+    "wof:population":961,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209935247
+    ],
     "wof:tags":[]
 },
   "bbox": [

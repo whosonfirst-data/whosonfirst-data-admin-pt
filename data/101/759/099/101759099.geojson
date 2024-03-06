@@ -9,9 +9,24 @@
     "geom:bbox":"-9.251054,38.716143,-9.225837,38.732201",
     "geom:latitude":38.724558,
     "geom:longitude":-9.237773,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"1110",
+    "gn:admin3_code":"111003.0",
+    "gn:asciiname":"Carnaxide",
+    "gn:country_code":"PT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6930154,
     "gn:id":"2270157,6930154",
+    "gn:latitude":38.72687,
+    "gn:longitude":-9.24379,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Carnaxide",
     "gn:population":23698,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.26379,38.70687,-9.22379,38.74687",
     "lbl:latitude":38.725107,
     "lbl:longitude":-9.236512,
     "lbl:max_zoom":14.0,
@@ -107,7 +122,13 @@
         "gn:id":2270157,
         "gp:id":738253,
         "qs_pg:id":139281,
-        "wd:id":"Q1013271"
+        "wd:id":"Q1013271",
+        "wk:page":"Carnaxide"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6930154
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -124,7 +145,7 @@
         }
     ],
     "wof:id":101759099,
-    "wof:lastmodified":1690856257,
+    "wof:lastmodified":1706240615,
     "wof:name":"Carnaxide",
     "wof:parent_id":1511679677,
     "wof:placetype":"locality",
@@ -132,7 +153,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360256119
+    ],
     "wof:tags":[]
 },
   "bbox": [

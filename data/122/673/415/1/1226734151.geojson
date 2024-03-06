@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-7.66202,37.10224,-7.66202,37.10224",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Santa Luzia"
@@ -80,14 +82,16 @@
         }
     ],
     "wof:id":1226734151,
-    "wof:lastmodified":1576712035,
+    "wof:lastmodified":1706240617,
     "wof:name":"Santa Luzia",
     "wof:parent_id":1511678881,
     "wof:placetype":"locality",
     "wof:population":1455,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101780665
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

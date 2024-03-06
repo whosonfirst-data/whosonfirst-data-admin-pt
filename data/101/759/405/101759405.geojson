@@ -9,8 +9,11 @@
     "geom:bbox":"-8.552864,41.03604,-8.534607,41.060012",
     "geom:latitude":41.047027,
     "geom:longitude":-8.544257,
+    "gn:country":"PT",
+    "gn:fcode":"PPL",
     "gn:population":5715,
     "iso:country":"PT",
+    "lbl:bbox":"-8.56416,41.03024,-8.52416,41.07024",
     "lbl:latitude":41.046924,
     "lbl:longitude":-8.54564,
     "lbl:max_zoom":15.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Olival"
     ],
@@ -50,6 +54,9 @@
     "name:rus_x_preferred":[
         "\u041e\u043b\u0438\u0432\u0430\u043b"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u043d\u0434\u0430-\u041d\u043e\u0432\u0430"
+    ],
     "name:spa_x_preferred":[
         "Olival"
     ],
@@ -74,11 +81,31 @@
     "qs:pop":0,
     "qs:source":"TCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"suburbs point-in-poly",
+    "qs_pg:aaroncc":"PT",
+    "qs_pg:gn_country":"PT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2737064,
+    "qs_pg:gn_pop":5715,
+    "qs_pg:name":"Olival",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":141261,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":744693,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":45,
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         1511682937,
@@ -92,6 +119,20 @@
         "gp:id":744693,
         "qs_pg:id":141261,
         "wd:id":"Q658088"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2737064
+        ],
+        "gp:id":[
+            744693
+        ],
+        "qs_pg:id":[
+            141261
+        ],
+        "wd:id":[
+            "Q658088"
+        ]
     },
     "wof:country":"PT",
     "wof:geomhash":"ca69696b8c345b5c55a91b2121ee3d22",
@@ -108,7 +149,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856265,
+    "wof:lastmodified":1706240616,
     "wof:name":"Olival",
     "wof:parent_id":1511682937,
     "wof:placetype":"locality",
@@ -116,7 +157,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126016223
+    ],
     "wof:tags":[]
 },
   "bbox": [

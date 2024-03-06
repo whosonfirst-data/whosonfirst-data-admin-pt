@@ -9,7 +9,23 @@
     "geom:bbox":"-8.486351,39.349307,-8.465684,39.375137",
     "geom:latitude":39.361382,
     "geom:longitude":-8.476237,
+    "gn:admin1_code":"18.0",
+    "gn:admin2_code":"1407",
+    "gn:admin3_code":"140701.0",
+    "gn:asciiname":"Chamusca",
+    "gn:country_code":"PT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184855,
+    "gn:latitude":39.35547,
+    "gn:longitude":-8.47939,
+    "gn:modification_date":"2018-04-30",
+    "gn:name":"Chamusca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.49939,39.33547,-8.45939,39.37547",
     "lbl:latitude":39.359106,
     "lbl:longitude":-8.476942,
     "lbl:max_zoom":18.0,
@@ -135,7 +151,13 @@
         "gn:id":2269336,
         "gp:id":739423,
         "qs_pg:id":235383,
-        "wd:id":"Q1000093"
+        "wd:id":"Q1000093",
+        "wk:page":"Chamusca"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11184855
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -155,13 +177,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856216,
+    "wof:lastmodified":1706240616,
     "wof:name":"Chamusca",
     "wof:parent_id":1511680155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327100729
+    ],
     "wof:tags":[]
 },
   "bbox": [

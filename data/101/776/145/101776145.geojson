@@ -9,8 +9,23 @@
     "geom:bbox":"-7.544397,39.796489,-7.467518,39.835597",
     "geom:latitude":39.81524,
     "geom:longitude":-7.504466,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"0502",
+    "gn:admin3_code":"50205.0",
+    "gn:asciiname":"Castelo Branco",
+    "gn:country_code":"PT",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2269514,
+    "gn:latitude":39.82219,
+    "gn:longitude":-7.49087,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Castelo Branco",
     "gn:population":33479,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.51087,39.80219,-7.47087,39.84219",
     "lbl:latitude":39.819419,
     "lbl:longitude":-7.501262,
     "lbl:max_zoom":14.0,
@@ -39,6 +54,9 @@
         "Castelo Branco"
     ],
     "name:cat_x_preferred":[
+        "Castelo Branco"
+    ],
+    "name:ceb_x_preferred":[
         "Castelo Branco"
     ],
     "name:ces_x_preferred":[
@@ -154,6 +172,9 @@
     ],
     "name:nob_x_preferred":[
         "Castelo Branco"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0627\u0633\u062a\u06cc\u0644\u0648 \u0628\u0631\u0627\u0646\u06a9\u0648"
     ],
     "name:pol_x_preferred":[
         "Castelo Branco"
@@ -352,7 +373,12 @@
         "wd:id":"Q373720"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":685344
+        "gn:id":[
+            2269514
+        ],
+        "qs_pg:id":[
+            685344
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -372,7 +398,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856211,
+    "wof:lastmodified":1706240617,
     "wof:name":"Castelo Branco",
     "wof:parent_id":1511680717,
     "wof:placetype":"locality",
@@ -380,7 +406,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293096309
+    ],
     "wof:tags":[]
 },
   "bbox": [

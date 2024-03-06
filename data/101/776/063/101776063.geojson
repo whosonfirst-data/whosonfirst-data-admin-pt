@@ -9,8 +9,23 @@
     "geom:bbox":"-7.550871,38.417103,-7.523359,38.432841",
     "geom:latitude":38.425115,
     "geom:longitude":-7.53651,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"0711",
+    "gn:admin3_code":"71104.0",
+    "gn:asciiname":"Reguengos de Monsaraz",
+    "gn:country_code":"PT",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2263974,
+    "gn:latitude":38.42529,
+    "gn:longitude":-7.53494,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Reguengos de Monsaraz",
     "gn:population":7217,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.55494,38.40529,-7.51494,38.44529",
     "lbl:latitude":38.425192,
     "lbl:longitude":-7.537624,
     "lbl:max_zoom":15.0,
@@ -92,6 +107,10 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0435\u043d\u0433\u0443\u0448-\u0434\u0435-\u041c\u043e\u043d\u0441\u0430\u0440\u0430\u0448"
     ],
+    "name:und_x_variant":[
+        "Reguengos",
+        "Reguengos de Monsaraz"
+    ],
     "name:vie_x_preferred":[
         "Reguengos de Monsaraz"
     ],
@@ -145,7 +164,15 @@
         "wk:page":"Reguengos de Monsaraz"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":911409
+        "gn:id":[
+            2263974
+        ],
+        "qs_pg:id":[
+            911409
+        ],
+        "wk:page":[
+            "Reguengos_de_Monsaraz"
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -165,7 +192,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856210,
+    "wof:lastmodified":1706240616,
     "wof:name":"Reguengos de Monsaraz",
     "wof:parent_id":1511679527,
     "wof:placetype":"locality",
@@ -173,7 +200,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243439807
+    ],
     "wof:tags":[]
 },
   "bbox": [

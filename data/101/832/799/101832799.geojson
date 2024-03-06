@@ -9,9 +9,24 @@
     "geom:bbox":"-9.169284,38.675676,-9.155016,38.684666",
     "geom:latitude":38.680114,
     "geom:longitude":-9.161488,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"1503",
+    "gn:admin3_code":"150301.0",
+    "gn:asciiname":"Almada",
+    "gn:country_code":"PT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6930183,
     "gn:id":"2271961,6930183",
+    "gn:latitude":38.67965,
+    "gn:longitude":-9.16011,
+    "gn:modification_date":"2011-08-28",
+    "gn:name":"Almada",
     "gn:population":34008,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.18011,38.65965,-9.14011,38.69965",
     "lbl:latitude":38.680621,
     "lbl:longitude":-9.159596,
     "lbl:max_zoom":14.0,
@@ -269,6 +284,11 @@
         "wd:id":"Q328015",
         "wk:page":"Almada"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6930183
+        ]
+    },
     "wof:country":"PT",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -284,7 +304,7 @@
         }
     ],
     "wof:id":101832799,
-    "wof:lastmodified":1690856184,
+    "wof:lastmodified":1706240618,
     "wof:name":"Almada",
     "wof:parent_id":1511679621,
     "wof:placetype":"locality",
@@ -292,7 +312,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226104617
+    ],
     "wof:tags":[]
 },
   "bbox": [

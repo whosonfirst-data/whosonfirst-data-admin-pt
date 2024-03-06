@@ -9,8 +9,21 @@
     "geom:bbox":"-7.47692,39.908009,-7.446577,39.921498",
     "geom:latitude":39.91456,
     "geom:longitude":-7.460915,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Alcains",
+    "gn:country_code":"PT",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2272197,
+    "gn:latitude":39.91642,
+    "gn:longitude":-7.45655,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Alcains",
     "gn:population":5030,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-7.47655,39.89642,-7.43655,39.93642",
     "lbl:latitude":39.914592,
     "lbl:longitude":-7.458157,
     "lbl:max_zoom":15.0,
@@ -130,7 +143,13 @@
         "gn:id":8011648,
         "gp:id":735577,
         "qs_pg:id":1158363,
-        "wd:id":"Q1024258"
+        "wd:id":"Q1024258",
+        "wk:page":"Alcains"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2272197
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -147,7 +166,7 @@
         }
     ],
     "wof:id":101777183,
-    "wof:lastmodified":1690856238,
+    "wof:lastmodified":1706240617,
     "wof:name":"Alcains",
     "wof:parent_id":1511680807,
     "wof:placetype":"locality",
@@ -155,7 +174,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209997699
+    ],
     "wof:tags":[]
 },
   "bbox": [

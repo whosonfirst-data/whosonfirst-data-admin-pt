@@ -11,8 +11,11 @@
     "geom:longitude":-8.642922,
     "gn:country":"PT",
     "gn:fcode":"PPL",
+    "gn:latitude":41.16837,
+    "gn:longitude":-8.64772,
     "gn:population":0,
     "iso:country":"PT",
+    "lbl:bbox":"-8.64635,41.160456,-8.63635,41.170456",
     "lbl:latitude":41.17217,
     "lbl:longitude":-8.643307,
     "lbl:max_zoom":18.0,
@@ -20,12 +23,27 @@
     "mps:longitude":-8.643307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "mz:tier_locality":3,
+    "name:ast_x_preferred":[
+        "Ramalde"
+    ],
     "name:ceb_x_preferred":[
         "Ramalde"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u0434\u0435"
+    ],
     "name:deu_x_preferred":[
+        "Ramalde"
+    ],
+    "name:diq_x_preferred":[
         "Ramalde"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +52,22 @@
     "name:fra_x_preferred":[
         "Ramalde"
     ],
+    "name:glg_x_preferred":[
+        "Ramalde"
+    ],
     "name:ita_x_preferred":[
         "Ramalde"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u043c\u0430\u043b\u0434\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Ramalde"
+    ],
     "name:nld_x_preferred":[
+        "Ramalde"
+    ],
+    "name:pol_x_preferred":[
         "Ramalde"
     ],
     "name:por_x_preferred":[
@@ -52,9 +79,39 @@
     "name:spa_x_preferred":[
         "Ramalde"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043b\u0434\u0435"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u9a6c\u5c14\u8fea"
     ],
+    "name:zho_x_variant":[
+        "Ramalde"
+    ],
+    "qs:gn_adm0_cc":"PT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2735943,
+    "qs:gn_nam_loc":"Porto, Porto, Porto, Distrito do Porto, PT",
+    "qs:gn_namadm1":"17",
+    "qs:gn_name":"Ramalde",
+    "qs:local_max":16116,
+    "qs:local_sum":20136,
+    "qs:localhoods":3,
+    "qs:name":"Ramalde",
+    "qs:name_adm0":"Portugal",
+    "qs:name_adm1":"Porto",
+    "qs:name_adm2":"Porto",
+    "qs:name_local":"Porto",
+    "qs:photo_max":121,
+    "qs:photo_sum":792,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424925,
+    "qs:woe_adm1":2346575,
+    "qs:woe_adm2":12596515,
+    "qs:woe_lau":0,
+    "qs:woe_local":746203,
+    "qs:woe_ver":"7.10.0",
     "qs_pg:aaroncc":"PT",
     "qs_pg:gn_country":"PT",
     "qs_pg:gn_fcode":"PPL",
@@ -80,22 +137,36 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":47,
     "woe:adm0_id":23424925,
     "woe:name_adm0":"Portugal",
     "woe:name_adm1":"Porto",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85687411,
         102191581,
         1125409915,
         85633735,
-        101752093
+        101752093,
+        85687411
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2735476,
         "gp:id":746885,
-        "qs_pg:id":1081405
+        "qs_pg:id":1081405,
+        "wd:id":"Q1973526",
+        "wk:page":"Ramalde"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2735476
+        ],
+        "gp:id":[
+            746885
+        ],
+        "qs_pg:id":[
+            1081405
+        ]
     },
     "wof:coterminous":[
         1511680375
@@ -117,13 +188,18 @@
         }
     ],
     "wof:id":1126095623,
-    "wof:lastmodified":1633983000,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lastmodified":1706240619,
     "wof:name":"Ramalde",
     "wof:parent_id":101752093,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85799095
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,8 +9,23 @@
     "geom:bbox":"-7.998151,41.504659,-7.98048,41.517317",
     "geom:latitude":41.51223,
     "geom:longitude":-7.991352,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"0304",
+    "gn:admin3_code":"30414.0",
+    "gn:asciiname":"Cabeceiras de Basto",
+    "gn:country_code":"PT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2741865,
+    "gn:latitude":41.51431,
+    "gn:longitude":-7.98942,
+    "gn:modification_date":"2018-02-11",
+    "gn:name":"Cabeceiras de Basto",
     "gn:population":5037,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.00942,41.49431,-7.96942,41.53431",
     "lbl:latitude":41.512526,
     "lbl:longitude":-7.992691,
     "lbl:max_zoom":15.0,
@@ -89,6 +104,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0435\u0441\u0435\u0439\u0440\u0430\u0448-\u0434\u0456-\u0411\u0430\u0448\u0442\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0431\u0435\u0441\u0435\u0439\u0440\u0430\u0448-\u0434\u0435-\u0411\u0430\u0448\u0442\u0443"
+    ],
     "name:vie_x_preferred":[
         "Cabeceiras de Basto"
     ],
@@ -136,10 +154,16 @@
         "gn:id":2741864,
         "gp:id":737736,
         "qs_pg:id":141251,
-        "wd:id":"Q551048"
+        "wd:id":"Q551048",
+        "wk:page":"Cabeceiras_de_Basto"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":479038
+        "gn:id":[
+            2741865
+        ],
+        "qs_pg:id":[
+            479038
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -156,7 +180,7 @@
         }
     ],
     "wof:id":101775019,
-    "wof:lastmodified":1690856299,
+    "wof:lastmodified":1706240616,
     "wof:name":"Cabeceiras de Basto",
     "wof:parent_id":1511684421,
     "wof:placetype":"locality",
@@ -164,7 +188,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226670187
+    ],
     "wof:tags":[]
 },
   "bbox": [

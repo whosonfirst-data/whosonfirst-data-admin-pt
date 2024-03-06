@@ -27,6 +27,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":3,
     "name:che_x_preferred":[
         "\u041b\u043e\u0440\u0434\u0435\u043b\u0443-\u0434\u0443-\u041e\u0440\u0443"
@@ -70,11 +71,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":12596515,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Lordello",
+    "qs_pg:name_adm0":"Portugal",
+    "qs_pg:name_adm1":"Porto",
+    "qs_pg:photos":1488,
+    "qs_pg:photos_1k":302,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1488,
+    "qs_pg:photos_sr":12,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239865,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424925,
+    "qs_pg:woe_id":742758,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424925,
+    "woe:name_adm0":"Portugal",
+    "woe:name_adm1":"Porto",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
         1511683105,
@@ -89,6 +109,14 @@
         "qs_pg:id":239865,
         "wd:id":"Q1825945",
         "wk:page":"Lordelo do Ouro"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            742758
+        ],
+        "qs_pg:id":[
+            239865
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -109,13 +137,15 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856154,
+    "wof:lastmodified":1706240615,
     "wof:name":"Lordello",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126102263
+    ],
     "wof:tags":[]
 },
   "bbox": [

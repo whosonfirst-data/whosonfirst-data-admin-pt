@@ -6,10 +6,26 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
     "geom:area_square_m":509209.423315,
-    "geom:bbox":"-9.10933382866,38.6094048256,-9.09783295694,38.6211261758",
+    "geom:bbox":"-9.109334,38.609405,-9.097833,38.621126",
     "geom:latitude":38.615103,
     "geom:longitude":-9.102352,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"1510",
+    "gn:admin3_code":"151003.0",
+    "gn:asciiname":"Torre da Marinha",
+    "gn:country_code":"PT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2262598,
+    "gn:latitude":38.61753,
+    "gn:longitude":-9.10447,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Torre da Marinha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-9.12447,38.59753,-9.08447,38.63753",
     "lbl:latitude":38.615229,
     "lbl:longitude":-9.102326,
     "lbl:max_zoom":18.0,
@@ -23,6 +39,9 @@
         "Torre da Marinha"
     ],
     "name:por_x_variant":[
+        "Torre"
+    ],
+    "name:und_x_variant":[
         "Torre"
     ],
     "qs:a0":"Portugal",
@@ -56,13 +75,18 @@
         "qs_pg:id":477043
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1225475
+        "gn:id":[
+            2262598
+        ],
+        "qs_pg:id":[
+            1225475
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"28858361b316bfd48e4987e1359fce2a",
+    "wof:geomhash":"ff2d581f2542be7f18484f24d252af86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,20 +100,22 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1582359891,
+    "wof:lastmodified":1706240618,
     "wof:name":"Torre da Marinha",
     "wof:parent_id":1511679593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293257833
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -9.10933382866114,
-    38.60940482558868,
-    -9.09783295693853,
-    38.6211261758146
+    -9.109334,
+    38.609405,
+    -9.097833,
+    38.621126
 ],
-  "geometry": {"coordinates":[[[[-9.09783295693853,38.61455615483152],[-9.10114449848174,38.60940482558868],[-9.10751314274455,38.61600042804508],[-9.10597644013819,38.61631094849179],[-9.10648998390383,38.61806056732217],[-9.10314136270119,38.61873709742758],[-9.10339810883954,38.61961191415952],[-9.10228187550183,38.61983740180528],[-9.102660150242,38.6211261758146],[-9.09783295693853,38.61455615483152]]],[[[-9.10933382866114,38.61841261296587],[-9.10928498207647,38.61952582093079],[-9.10897917830874,38.61848428216354],[-9.10933382866114,38.61841261296587]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-9.097833,38.614556],[-9.101144,38.609405],[-9.107513,38.616],[-9.105976,38.616311],[-9.10649,38.618061],[-9.103141,38.618737],[-9.103398,38.619612],[-9.102282,38.619837],[-9.10266,38.621126],[-9.097833,38.614556]]],[[[-9.109334,38.618413],[-9.109285,38.619526],[-9.108979,38.618484],[-9.109334,38.618413]]]],"type":"MultiPolygon"}
 }

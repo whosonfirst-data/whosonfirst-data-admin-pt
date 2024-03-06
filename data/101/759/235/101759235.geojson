@@ -9,7 +9,23 @@
     "geom:bbox":"-8.582683,40.988969,-8.544615,41.016636",
     "geom:latitude":41.003884,
     "geom:longitude":-8.566926,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"0109",
+    "gn:admin3_code":"10916.0",
+    "gn:asciiname":"Mozelos",
+    "gn:country_code":"PT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2737360,
+    "gn:latitude":40.99924,
+    "gn:longitude":-8.56717,
+    "gn:modification_date":"2017-09-29",
+    "gn:name":"Mozelos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
+    "lbl:bbox":"-8.58717,40.97924,-8.54717,41.01924",
     "lbl:latitude":41.006837,
     "lbl:longitude":-8.57037,
     "lbl:max_zoom":18.0,
@@ -108,7 +124,12 @@
         "wd:id":"Q278925"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1158760
+        "gn:id":[
+            2737360
+        ],
+        "qs_pg:id":[
+            1158760
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -125,13 +146,15 @@
         }
     ],
     "wof:id":101759235,
-    "wof:lastmodified":1690856257,
+    "wof:lastmodified":1706240615,
     "wof:name":"Mozelos",
     "wof:parent_id":1511681605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326538765
+    ],
     "wof:tags":[]
 },
   "bbox": [

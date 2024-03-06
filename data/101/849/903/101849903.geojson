@@ -9,7 +9,21 @@
     "geom:bbox":"-8.471056,37.097565,-8.471056,37.097565",
     "geom:latitude":37.097565,
     "geom:longitude":-8.471056,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"0806",
+    "gn:admin3_code":"80605.0",
+    "gn:asciiname":"Carvoeiro",
+    "gn:country_code":"PT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2269946,
+    "gn:latitude":37.09736,
+    "gn:longitude":-8.46846,
+    "gn:modification_date":"2018-02-12",
+    "gn:name":"Carvoeiro",
     "gn:population":2784,
+    "gn:timezone":"Europe/Lisbon",
     "iso:country":"PT",
     "lbl:bbox":"-8.491056,37.077565,-8.451056,37.117565",
     "lbl:latitude":37.097565,
@@ -120,7 +134,15 @@
         "wk:page":"Carvoeiro (Lagoa)"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1218855
+        "gn:id":[
+            2269946
+        ],
+        "qs_pg:id":[
+            1218855
+        ],
+        "wk:page":[
+            "Carvoeiro_%28Lagoa%29"
+        ]
     },
     "wof:country":"PT",
     "wof:geom_alt":[
@@ -141,7 +163,7 @@
     "wof:lang":[
         "por"
     ],
-    "wof:lastmodified":1690856276,
+    "wof:lastmodified":1706240618,
     "wof:name":"Carvoeiro",
     "wof:parent_id":1511678869,
     "wof:placetype":"locality",
@@ -149,7 +171,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242957613
+    ],
     "wof:tags":[]
 },
   "bbox": [
